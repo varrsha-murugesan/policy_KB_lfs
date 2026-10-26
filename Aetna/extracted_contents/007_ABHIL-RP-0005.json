@@ -1,0 +1,148 @@
+{
+  "policy_title": "Outpatient Consultations",
+  "policy_number": "ABHIL-RP-0005",
+  "effective_date": "12/01/2020",
+  "expiry_date": "12/30/2026",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "99242",
+    "99243",
+    "99244",
+    "99245"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for evaluation and management- outpatient consultations when \nappropriately provided which includes \n• \nThe consultation service is reported as occurring in the office place of service. \n• \nThe consulting provider has not submitted a claim for any other evaluation and \nmanagement service (using the same tax id number and specialty designation) for the \nsame date of service or within a six- month period. \n \nClaims that are submitted will be denied when \n• \nThere is a claim for any evaluation and management face- to- face service reported by \nthe same provider (using the same tax id number and specialty designation) for the same \ndate of service or within a six- month period. \n \nThe medical record documentation is expected to support the specific CPT code(s) and \ndiagnosis codes reported.",
+    "subsections": [
+      {
+        "title": "The consultation service is reported as occurring in the office place of service.",
+        "content": "The consultation service is reported as occurring in the office place of service."
+      },
+      {
+        "title": "The consulting provider has not submitted a claim for any other evaluation and",
+        "content": "management service (using the same tax id number and specialty designation) for the same date of service or within a six- month period. Claims that are submitted will be denied when"
+      },
+      {
+        "title": "There is a claim for any evaluation and management face- to- face service reported by",
+        "content": "the same provider (using the same tax id number and specialty designation) for the same date of service or within a six- month period. The medical record documentation is expected to support the specific CPT code(s) and diagnosis codes reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Illinois Department\nof Health Care and\nFamily Services\n(HFS)",
+            "value": "The Department of Healthcare and Family Services\nadministers health insurance programs for children, pregnant\nwomen, and adults who are residents of Illinois."
+          },
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for evaluation and management- outpatient consultations when\nappropriately provided which includes\n• The consultation service is reported as occurring in the office place of service.\n• The consulting provider has not submitted a claim for any other evaluation and\nmanagement service (using the same tax id number and specialty designation) for the\nsame date of service or within a six- month period.\nClaims that are submitted will be denied when\n• There is a claim for any evaluation and management face- to- face service reported by\nthe same provider (using the same tax id number and specialty designation) for the same\ndate of service or within a six- month period.\nThe medical record documentation is expected to support the specific CPT code(s) and\ndiagnosis codes reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "Consultation- CPT Codes\n99242 Office or other outpatient consultation for a new or established patient, which\nrequires a medically appropriate history and/or examination and\nstraightforward medical decision making. When using total time on the date\nof the encounter for code selection, 20 minutes must be met or exceeded.\n99243 Office or other outpatient consultation for a new or established patient, which\nrequires a medically appropriate history and/or examination and low level of\nmedical decision making. When using total time on the date of the encounter\nfor code selection, 30 minutes must be met or exceeded.\n99244 Office or other outpatient consultation for a new or established patient, which\nrequires a medically appropriate history and/or examination and moderate\nlevel of medical decision making. When using total time on the date of the\nencounter for code selection, 40 minutes must be met or exceeded.\n99245 Office or other outpatient consultation for a new or established patient, which\nrequires a medically appropriate history and/or examination and high level of\nmedical decision making. When using total time on the date of the encounter\nfor code selection, 55 minutes must be met or exceeded.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "99242",
+            "value": "Office or other outpatient consultation for a new or established patient, which\nrequires a medically appropriate history and/or examination and\nstraightforward medical decision making. When using total time on the date\nof the encounter for code selection, 20 minutes must be met or exceeded."
+          },
+          {
+            "key": "99243",
+            "value": "Office or other outpatient consultation for a new or established patient, which\nrequires a medically appropriate history and/or examination and low level of\nmedical decision making. When using total time on the date of the encounter\nfor code selection, 30 minutes must be met or exceeded."
+          },
+          {
+            "key": "99244",
+            "value": "Office or other outpatient consultation for a new or established patient, which\nrequires a medically appropriate history and/or examination and moderate\nlevel of medical decision making. When using total time on the date of the\nencounter for code selection, 40 minutes must be met or exceeded."
+          },
+          {
+            "key": "99245",
+            "value": "Office or other outpatient consultation for a new or established patient, which\nrequires a medically appropriate history and/or examination and high level of\nmedical decision making. When using total time on the date of the encounter\nfor code selection, 55 minutes must be met or exceeded."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "F. Frequently Asked Questions",
+            "value": ""
+          },
+          {
+            "key": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "G. Review/Revision Date",
+            "value": ""
+          },
+          {
+            "key": "Action",
+            "value": "Date | Comments"
+          },
+          {
+            "key": "Revision",
+            "value": "12/30/2025 | Update to policy template, addition of state resource"
+          },
+          {
+            "key": "Effective Date",
+            "value": "12/01/2020"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "H. Resources",
+            "value": ""
+          },
+          {
+            "key": "1. American Medical Association. CPT Professional Edition 2025, AMA; 2024.\n2. Illinois Department of Healthcare and Family Services. Handbook for Practitioners\nRendering Medical Services [PDF]. Springfield, IL; June 16, 2021.",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. \nAmerican Medical Association. CPT Professional Edition 2025, AMA; 2024. \n2. \nIllinois Department of Healthcare and Family Services. Handbook for Practitioners \nRendering Medical Services [PDF]. Springfield, IL; June 16, 2021."
+}

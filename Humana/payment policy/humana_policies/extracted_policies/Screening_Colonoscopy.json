@@ -1,0 +1,1592 @@
+{
+  "policy_metadata": {
+    "policy_title": "Screening Colonoscopy",
+    "policy_number": "CP2010102",
+    "published_date": null,
+    "effective_date": "06/2009",
+    "revision_date": "06/2026",
+    "last_reviewed": "06/2026",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Professional",
+    "source_pdf": "Screening_Colonoscopy_Revised-6e340171.pdf",
+    "total_pages": 3,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "00100",
+      "00102",
+      "00103",
+      "00104",
+      "00120",
+      "00124",
+      "00126",
+      "00140",
+      "00142",
+      "00144",
+      "00145",
+      "00147",
+      "00148",
+      "00160",
+      "00162",
+      "00170",
+      "00174",
+      "00176",
+      "00190",
+      "00192",
+      "00210",
+      "00212",
+      "00214",
+      "00216",
+      "00218",
+      "0885T",
+      "1002T",
+      "15271",
+      "15272",
+      "15273",
+      "15274",
+      "15275",
+      "15276",
+      "15277",
+      "15278",
+      "2000F",
+      "2001F",
+      "2002F",
+      "2004F",
+      "20100",
+      "20101",
+      "20102",
+      "20103",
+      "2010F",
+      "2014F",
+      "2015F",
+      "2016F",
+      "2018F",
+      "2019F",
+      "2020F",
+      "2021F",
+      "2022F",
+      "2023F",
+      "2024F",
+      "2025F",
+      "2026F",
+      "2027F",
+      "2028F",
+      "2029F",
+      "27096",
+      "3006F",
+      "31505",
+      "31510",
+      "31511",
+      "31512",
+      "31513",
+      "31515",
+      "31520",
+      "31525",
+      "31526",
+      "31527",
+      "31530",
+      "31535",
+      "31536",
+      "31540",
+      "31560",
+      "31561",
+      "31570",
+      "31571",
+      "31575",
+      "31576",
+      "31577",
+      "31578",
+      "31579",
+      "44155",
+      "44156",
+      "44390",
+      "45000",
+      "45005",
+      "45020",
+      "45100",
+      "45108",
+      "45110",
+      "45111",
+      "45112",
+      "45113",
+      "45114",
+      "45116",
+      "45119",
+      "45120",
+      "45121",
+      "45123",
+      "45126",
+      "45130",
+      "45135",
+      "45136",
+      "45150",
+      "45160",
+      "45171",
+      "45172",
+      "45378",
+      "45379",
+      "45380",
+      "45381",
+      "45382",
+      "45384",
+      "45385",
+      "45386",
+      "45388",
+      "45389",
+      "45390",
+      "45391",
+      "45392",
+      "45393",
+      "45398",
+      "77067",
+      "99173",
+      "C1753",
+      "C1757",
+      "C2628",
+      "G0104",
+      "G0105",
+      "G0121",
+      "G0327",
+      "G0328",
+      "G9899",
+      "G9900",
+      "M1285",
+      "M1302"
+    ],
+    "cpt_codes": [
+      "00100",
+      "00102",
+      "00103",
+      "00104",
+      "00120",
+      "00124",
+      "00126",
+      "00140",
+      "00142",
+      "00144",
+      "00145",
+      "00147",
+      "00148",
+      "00160",
+      "00162",
+      "00170",
+      "00174",
+      "00176",
+      "00190",
+      "00192",
+      "00210",
+      "00212",
+      "00214",
+      "00216",
+      "00218",
+      "15271",
+      "15272",
+      "15273",
+      "15274",
+      "15275",
+      "15276",
+      "15277",
+      "15278",
+      "20100",
+      "20101",
+      "20102",
+      "20103",
+      "27096",
+      "31505",
+      "31510",
+      "31511",
+      "31512",
+      "31513",
+      "31515",
+      "31520",
+      "31525",
+      "31526",
+      "31527",
+      "31530",
+      "31535",
+      "31536",
+      "31540",
+      "31560",
+      "31561",
+      "31570",
+      "31571",
+      "31575",
+      "31576",
+      "31577",
+      "31578",
+      "31579",
+      "44155",
+      "44156",
+      "44390",
+      "45000",
+      "45005",
+      "45020",
+      "45100",
+      "45108",
+      "45110",
+      "45111",
+      "45112",
+      "45113",
+      "45114",
+      "45116",
+      "45119",
+      "45120",
+      "45121",
+      "45123",
+      "45126",
+      "45130",
+      "45135",
+      "45136",
+      "45150",
+      "45160",
+      "45171",
+      "45172",
+      "45378",
+      "45379",
+      "45380",
+      "45381",
+      "45382",
+      "45384",
+      "45385",
+      "45386",
+      "45388",
+      "45389",
+      "45390",
+      "45391",
+      "45392",
+      "45393",
+      "45398",
+      "77067",
+      "99173"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "A colonoscopy allows the physician to examine the lining of the entire large intestine. It is most often used as a screening procedure to look for early signs of cancer in the colon or rectum. However, the test may reveal inflamed tissue, abnormal growths and ulcers. Special instruments can be passed through the colonoscope to remove any polyps if needed. In these cases, the screening colonoscopy results in a diagnostic or therapeutic procedure. This policy describes Humana's billing expectation for distinguishing between a screening colonoscopy and a screening colonoscopy that results in a diagnostic or therapeutic procedure."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana plans may allow screening colonoscopies and screening colonoscopies that result in a diagnostic or therapeutic procedure. Members and providers should contact Humana for specific plan information. \u2022 When billing screening services, healthcare providers must report an International Classification of Diseases (ICD) diagnosis code that accurately describes the screening . \u2022 If the service begins as a screening procedure but results in a diagnostic or therapeutic procedure at the same operative session, healthcare providers should report an appropriate screening ICD diagnosis code as the primary diagnosis and the diagnostic or abnormal finding ICD diagnosis code as the secondary or subsequent diagnosis. \u2022 When a screening results in a diagnostic or therapeutic procedure, as noted above, Humana will still allow the procedure as a screening if the following conditions are met: \u2013 The member has a screening colonoscopy benefit; \u2013 The claim contains both a screening and diagnostic diagnosis code and can be supported by medical records; and \u2013 The charge is not for a service performed more frequently than allowed, with respect to the previously allowed colorectal cancer screening , by Original Medicare guidelines. Healthcare providers should report modifiers PT and 33 when appropriate."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "\u2022 Diagnostic : Service or test performed to determine why symptoms exist. \u2022 Modifier PT : Colorectal cancer screening test; converted to diagnostic test or other procedure. \u2022 Modifier 33 : Preventive services. \u2022 Screening : Preventive service or product provided to an individual without apparent signs or symptoms of an illness, injury or disease for the purpose of identifying or excluding an undiagnosed illness, disease or condition."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "\u2022 Centers for Medicare & Medicaid Services website. Medicare Benefit Policy Manual. Chapter 15 \u2013 Covered Medical and Other Health Services . Section 280.2 \u2013 Colorectal Cancer Screening. www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 18 \u2013 Preventive and Screening Services . Section 60 \u2013 Colorectal Cancer Screening. www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. MLN Educational Tool. Medicare Preventive Services: Colorectal Cancer Screening Tests . www.cms.gov. \u2022 Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services. \u2022 American Medical Association\u2019s Current Procedural Terminology (CPT\u00ae) and associated publications and services."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 3,
+      "content": [
+        "\u2022 Availity \u2013 Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. \u2022 Claims processing edit notifications \u2013 Alerts of upcoming claims payment changes are posted on the first Friday of each month. \u2022 Claims resources \u2013 Providers can find information on referrals, authorizations, electronic claim submissions and more. \u2022 Making it easier \u2013 This page contains an educational series for providers and healthcare professionals. \u2022 Medical and pharmacy coverage policies \u2013 Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. \u2022 Publications \u2013 This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana\u2019s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Diagnostic": "Service or test performed to determine why symptoms exist. \u2022 Modifier PT : Colorectal cancer screening test; converted to diagnostic test or other procedure. \u2022 Modifier 33 : Preventive services. \u2022 Screening : Preventive service or product provided to an individual without apparent signs or symptoms of an illness, injury or disease for the purpose of identifying or excluding an undiagnosed illness, disease or condition."
+  },
+  "references": [
+    "Centers for Medicare & Medicaid Services website. Medicare Benefit Policy Manual. Chapter 15 \u2013 Covered Medical and Other Health Services . Section 280.2 \u2013 Colorectal Cancer Screening. www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 18 \u2013 Preventive and Screening Services . Section 60 \u2013 Colorectal Cancer Screening. www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. MLN Educational Tool. Medicare Preventive Services: Colorectal Cancer Screening Tests . www.cms.gov. \u2022 Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services. \u2022 American Medical Association\u2019s Current Procedural Terminology (CPT\u00ae) and associated publications and services."
+  ],
+  "resources": [
+    "Availity \u2013 Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. \u2022 Claims processing edit notifications \u2013 Alerts of upcoming claims payment changes are posted on the first Friday of each month. \u2022 Claims resources \u2013 Providers can find information on referrals, authorizations, electronic claim submissions and more. \u2022 Making it easier \u2013 This page contains an educational series for providers and healthcare professionals. \u2022 Medical and pharmacy coverage policies \u2013 Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. \u2022 Publications \u2013 This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana\u2019s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 5,
+    "total_tables": 0,
+    "total_characters": 4409
+  },
+  "mapped_cpt_codes": [
+    {
+      "code": "G9899",
+      "code_system": "HCPCS_L2",
+      "description": "Screening, diagnostic, film, digital or digital breast tomosynthesis (3d) mammography results documented and reviewed",
+      "confidence_tier": "D",
+      "score": 47.49,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "G9900",
+      "code_system": "HCPCS_L2",
+      "description": "Screening, diagnostic, film, digital or digital breast tomosynthesis (3d) mammography results were not documented and reviewed, reason not otherwise specified",
+      "confidence_tier": "D",
+      "score": 47.49,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "M1285",
+      "code_system": "HCPCS_L2",
+      "description": "Screening, diagnostic, film, digital or digital breast tomosynthesis (3d) mammography results were not documented and reviewed, reason not otherwise specified",
+      "confidence_tier": "D",
+      "score": 47.49,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "M1302",
+      "code_system": "HCPCS_L2",
+      "description": "Screening, diagnostic, film digital or digital breast tomosynthesis (3d) mammography results documented and reviewed",
+      "confidence_tier": "D",
+      "score": 47.49,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "G0104",
+      "code_system": "HCPCS_L2",
+      "description": "Colorectal cancer screening; flexible sigmoidoscopy",
+      "confidence_tier": "D",
+      "score": 44.07,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "G0105",
+      "code_system": "HCPCS_L2",
+      "description": "Colorectal cancer screening; colonoscopy on individual at high risk",
+      "confidence_tier": "D",
+      "score": 44.07,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "G0121",
+      "code_system": "HCPCS_L2",
+      "description": "Colorectal cancer screening; colonoscopy on individual not meeting criteria for high risk",
+      "confidence_tier": "D",
+      "score": 44.07,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "G0327",
+      "code_system": "HCPCS_L2",
+      "description": "Colorectal cancer screening; blood-based biomarker",
+      "confidence_tier": "D",
+      "score": 44.07,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "G0328",
+      "code_system": "HCPCS_L2",
+      "description": "Colorectal cancer screening; fecal occult blood test, immunoassay, 1-3 simultaneous",
+      "confidence_tier": "D",
+      "score": 44.07,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "0885T",
+      "code_system": "CPT",
+      "description": "Flexible colonoscopy with initial transendoscopic mechanical dilation followed by therapeutic drug delivery by drug-coated balloon catheter for colonic stricture, including fluoroscopic guidance, when performed",
+      "confidence_tier": "D",
+      "score": 38.48,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "45378",
+      "code_system": "CPT",
+      "description": "Diagnostic exam of large bowel using a flexible endoscope",
+      "confidence_tier": "D",
+      "score": 38.48,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "45379",
+      "code_system": "CPT",
+      "description": "Removal of foreign bodies in large bowel using a flexible endoscope",
+      "confidence_tier": "D",
+      "score": 38.48,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "45380",
+      "code_system": "CPT",
+      "description": "Biopsy of large bowel using a flexible endoscope",
+      "confidence_tier": "D",
+      "score": 38.48,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "45381",
+      "code_system": "CPT",
+      "description": "Injection beneath lining of large bowel using a flexible endoscope",
+      "confidence_tier": "D",
+      "score": 38.48,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "45382",
+      "code_system": "CPT",
+      "description": "Control of bleeding of upper large bowel using a flexible endoscope",
+      "confidence_tier": "D",
+      "score": 38.48,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "45384",
+      "code_system": "CPT",
+      "description": "Removal of polyps or growths of large bowel using a flexible endoscope with electrical cautery",
+      "confidence_tier": "D",
+      "score": 38.48,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "45385",
+      "code_system": "CPT",
+      "description": "Removal of polyps or growths of large bowel using an endoscope with mechanical snare",
+      "confidence_tier": "D",
+      "score": 38.48,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "45386",
+      "code_system": "CPT",
+      "description": "Balloon dilation of large bowel using a flexible endoscope",
+      "confidence_tier": "D",
+      "score": 38.48,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "45388",
+      "code_system": "CPT",
+      "description": "Destruction of polyp or growth of large bowel using a flexible endoscope",
+      "confidence_tier": "D",
+      "score": 38.48,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "45389",
+      "code_system": "CPT",
+      "description": "Insertion of stent in large bowel using a flexible endoscope",
+      "confidence_tier": "D",
+      "score": 38.48,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "45390",
+      "code_system": "CPT",
+      "description": "Removal of large bowel tissue using a flexible endoscope",
+      "confidence_tier": "D",
+      "score": 38.48,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "45391",
+      "code_system": "CPT",
+      "description": "Ultrasound exam of large bowel using a flexible endoscope",
+      "confidence_tier": "D",
+      "score": 38.48,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "45392",
+      "code_system": "CPT",
+      "description": "Fine needle aspiration and/or biopsy of large bowel with ultrasound guidance using a flexible endoscope",
+      "confidence_tier": "D",
+      "score": 38.48,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "45393",
+      "code_system": "CPT",
+      "description": "Decompression of twisted or abnormally dilated large bowel using a flexible endoscope",
+      "confidence_tier": "D",
+      "score": 38.48,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "45398",
+      "code_system": "CPT",
+      "description": "Banding of hemorrhoids using a flexible endoscope (colonoscope)",
+      "confidence_tier": "D",
+      "score": 38.48,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "44390",
+      "code_system": "CPT",
+      "description": "Removal of foreign bodies from large bowel using an endoscope inserted through surgically created opening from large bowel to skin",
+      "confidence_tier": "E",
+      "score": 34.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77067",
+      "code_system": "CPT",
+      "description": "Screening mammography",
+      "confidence_tier": "E",
+      "score": 24.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "99173",
+      "code_system": "CPT",
+      "description": "Screening for visual sharpness",
+      "confidence_tier": "E",
+      "score": 24.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "15271",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to wound of trunk, arms, or legs, 25.0 sq cm or less of wound 100.0 sq cm or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15272",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to wound of trunk, arms, or legs, each additional 25.0 sq cm of wound 100.0 sq cm or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15273",
+      "code_system": "CPT",
+      "description": "Skin substitute graft to wound 100.0 sq cm or more of trunk, arms, or legs, 100.0 sq cm or 1% body area for infants and children, or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15274",
+      "code_system": "CPT",
+      "description": "Skin substitute graft to wound 100.0 sq cm or more of trunk, arms, or legs, each additional 100.0 sq cm or 1% body area for infants and children, or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15275",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to wound of face, scalp, eyelids, mouth, neck, ears, around eyes, genitals, hands, feet, fingers, or toes, 25.0 sq cm or less of wound 100.0 sq cm or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15276",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to wound of face, scalp, eyelids, mouth, neck, ears, around eyes, genitals, hands, feet, fingers, or toes, each additional 25.0 sq cm of wound 100.0 sq cm or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15277",
+      "code_system": "CPT",
+      "description": "Skin substitute graft to wound 100.0 sq cm or more of face, scalp, eyelids, mouth, neck, ears, around eyes, genitals, hands, feet, fingers, or toes, 100.0 sq cm or 1% body area for infants and children, or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15278",
+      "code_system": "CPT",
+      "description": "Skin substitute graft to wound 100.0 sq cm or more of face, scalp, eyelids, mouth, neck, ears, around eyes, genitals, hands, feet, fingers, or toes, each additional 100.0 sq cm or 1% body area for infants and children, or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "C1753",
+      "code_system": "HCPCS_L2",
+      "description": "Catheter, intravascular ultrasound",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "C1757",
+      "code_system": "HCPCS_L2",
+      "description": "Catheter, thrombectomy/embolectomy",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "C2628",
+      "code_system": "HCPCS_L2",
+      "description": "Catheter, occlusion",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00100",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on saliva gland",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00102",
+      "code_system": "CPT",
+      "description": "Anesthesia for plastic repair of lip defect",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00103",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on eyelid",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00104",
+      "code_system": "CPT",
+      "description": "Anesthesia for electroshock therapy",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00120",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on external middle and inner ear",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00124",
+      "code_system": "CPT",
+      "description": "Anesthesia for exam of ear using an endoscope",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00126",
+      "code_system": "CPT",
+      "description": "Anesthesia for incision of ear drum",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00140",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on eye",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00142",
+      "code_system": "CPT",
+      "description": "Anesthesia for lens surgery",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00144",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on eye for corneal transplant",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00145",
+      "code_system": "CPT",
+      "description": "Anesthesia for retinal surgery",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00147",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on eye for removal of iris",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00148",
+      "code_system": "CPT",
+      "description": "Anesthesia for exam of inner eye using an endoscope",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00160",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on nose and sinuses",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00162",
+      "code_system": "CPT",
+      "description": "Anesthesia for extensive surgery on nose and sinuses",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00170",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on mouth",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00174",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on throat for removal of tumor",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00176",
+      "code_system": "CPT",
+      "description": "Anesthesia for extensive surgery on mouth",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00190",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on face bones or skull",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00192",
+      "code_system": "CPT",
+      "description": "Anesthesia for extensive surgery on face bones or skull",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00210",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on brain",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00212",
+      "code_system": "CPT",
+      "description": "Anesthesia for removal of fluid from brain",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00214",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure to create holes in skull including X-ray imaging",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00216",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on blood vessels in brain",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00218",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on brain while sitting up",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "1002T",
+      "code_system": "CPT",
+      "description": "Whole-body composition assessment using air displacement plethysmography, with interpretation and report",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2000F",
+      "code_system": "CPT",
+      "description": "Blood pressure measured (ckd)(dm)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2001F",
+      "code_system": "CPT",
+      "description": "Weight recorded (pag)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2002F",
+      "code_system": "CPT",
+      "description": "Clinical signs of volume overload (excess) assessed (nma-no measure associated)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2004F",
+      "code_system": "CPT",
+      "description": "Initial examination of the involved joint(s) (includes visual inspection, palpation, range of motion) (oa) [instructions: report only for initial osteoarthritis visit or for visits for new joint involvement]",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "20100",
+      "code_system": "CPT",
+      "description": "Exploration of wound of neck",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "20101",
+      "code_system": "CPT",
+      "description": "Exploration of wound of chest",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "20102",
+      "code_system": "CPT",
+      "description": "Exploration of wound of abdomen, back, or flank",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "20103",
+      "code_system": "CPT",
+      "description": "Exploration of wound of arm or leg",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2010F",
+      "code_system": "CPT",
+      "description": "Vital signs (temperature, pulse, respiratory rate, and blood pressure) documented and reviewed (cap) (em)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2014F",
+      "code_system": "CPT",
+      "description": "Mental status assessed (cap) (em)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2015F",
+      "code_system": "CPT",
+      "description": "Asthma impairment assessed (asthma)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2016F",
+      "code_system": "CPT",
+      "description": "Asthma risk assessed (asthma)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2018F",
+      "code_system": "CPT",
+      "description": "Hydration status assessed (normal/mildly dehydrated/severely dehydrated) (cap)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2019F",
+      "code_system": "CPT",
+      "description": "Dilated macular exam performed, including documentation of the presence or absence of macular thickening or hemorrhage and the level of macular degeneration severity (ec)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2020F",
+      "code_system": "CPT",
+      "description": "Dilated fundus evaluation performed within 12 months prior to cataract surgery (ec)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2021F",
+      "code_system": "CPT",
+      "description": "Dilated macular or fundus exam performed, including documentation of the presence or absence of macular edema and level of severity of retinopathy (ec)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2022F",
+      "code_system": "CPT",
+      "description": "Dilated retinal eye exam with interpretation by an ophthalmologist or optometrist documented and reviewed; with evidence of retinopathy (dm)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2023F",
+      "code_system": "CPT",
+      "description": "Dilated retinal eye exam with interpretation by an ophthalmologist or optometrist documented and reviewed; without evidence of retinopathy (dm)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2024F",
+      "code_system": "CPT",
+      "description": "7 standard field stereoscopic retinal photos with interpretation by an ophthalmologist or optometrist documented and reviewed; with evidence of retinopathy (dm)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2025F",
+      "code_system": "CPT",
+      "description": "7 standard field stereoscopic retinal photos with interpretation by an ophthalmologist or optometrist documented and reviewed; without evidence of retinopathy (dm)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2026F",
+      "code_system": "CPT",
+      "description": "Eye imaging validated to match diagnosis from 7 standard field stereoscopic retinal photos results documented and reviewed; with evidence of retinopathy (dm)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2027F",
+      "code_system": "CPT",
+      "description": "Optic nerve head evaluation performed (ec)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2028F",
+      "code_system": "CPT",
+      "description": "Foot examination performed (includes examination through visual inspection, sensory exam with monofilament, and pulse exam - report when any of the 3 components are completed) (dm)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "2029F",
+      "code_system": "CPT",
+      "description": "Complete physical skin exam performed (ml)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "27096",
+      "code_system": "CPT",
+      "description": "Injection of anesthetic or steroid into joint between lower spine and hip bone using imaging guidance",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "3006F",
+      "code_system": "CPT",
+      "description": "Chest x-ray results documented and reviewed (cap)",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31505",
+      "code_system": "CPT",
+      "description": "Diagnostic exam of voice box using an endoscope with mirror",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31510",
+      "code_system": "CPT",
+      "description": "Biopsy of voice box using an endoscope with mirror",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31511",
+      "code_system": "CPT",
+      "description": "Removal of foreign body in voice box using an endoscope with mirror",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31512",
+      "code_system": "CPT",
+      "description": "Removal of growth of voice box using an endoscope with mirror",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31513",
+      "code_system": "CPT",
+      "description": "Injection of vocal cord using an endoscope with mirror",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31515",
+      "code_system": "CPT",
+      "description": "Aspiration of voice box using an endoscope",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31520",
+      "code_system": "CPT",
+      "description": "Diagnostic exam of voice box using an endoscope, newborn",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31525",
+      "code_system": "CPT",
+      "description": "Diagnostic exam of voice box using an endoscope",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31526",
+      "code_system": "CPT",
+      "description": "Diagnostic exam of voice box using an endoscope with operating microscope or telescope",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31527",
+      "code_system": "CPT",
+      "description": "Insertion of device to close opening of voice box using an endoscope",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31530",
+      "code_system": "CPT",
+      "description": "Removal of foreign body in voice box using an endoscope",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31535",
+      "code_system": "CPT",
+      "description": "Biopsy of voice box using an endoscope",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31536",
+      "code_system": "CPT",
+      "description": "Biopsy of voice box using an endoscope with operating microscope or telescope",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31540",
+      "code_system": "CPT",
+      "description": "Removal of growth of throat and/or stripping of vocal cords using an endoscope",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31560",
+      "code_system": "CPT",
+      "description": "Removal of voice box cartilage using an endoscope",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31561",
+      "code_system": "CPT",
+      "description": "Removal of voice box cartilage using an endoscope with operating microscope or telescope",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31570",
+      "code_system": "CPT",
+      "description": "Injection into vocal cords using an endoscope",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31571",
+      "code_system": "CPT",
+      "description": "Injection into vocal cords using an endoscope with operating microscope or telescope",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31575",
+      "code_system": "CPT",
+      "description": "Diagnostic exam of voice box using a flexible endoscope",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31576",
+      "code_system": "CPT",
+      "description": "Biopsy of voice box using a flexible endoscope",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31577",
+      "code_system": "CPT",
+      "description": "Removal of foreign body in voice box using a flexible endoscope",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31578",
+      "code_system": "CPT",
+      "description": "Removal of growth of voice box using an endoscope",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "31579",
+      "code_system": "CPT",
+      "description": "Exam to assess movement of vocal cord flaps using an endoscope",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "44155",
+      "code_system": "CPT",
+      "description": "Removal of large bowel and rectum and creation of opening from end of small bowel to skin through abdomen",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "44156",
+      "code_system": "CPT",
+      "description": "Removal of large bowel and rectum and creation of opening from end of small bowel to skin through abdomen, with creation of small bowel pouch",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45000",
+      "code_system": "CPT",
+      "description": "Drainage of abscess of pelvic region",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45005",
+      "code_system": "CPT",
+      "description": "Drainage of superficial rectal abscess",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45020",
+      "code_system": "CPT",
+      "description": "Incision and drainage of abscess above pelvic floor or behind rectum",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45100",
+      "code_system": "CPT",
+      "description": "Biopsy of anal and/or rectal wall through anus",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45108",
+      "code_system": "CPT",
+      "description": "Removal of muscle in anus and rectum area",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45110",
+      "code_system": "CPT",
+      "description": "Removal of rectum with creation of opening from large bowel to skin through abdomen and rectum",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45111",
+      "code_system": "CPT",
+      "description": "Partial removal of rectum through abdomen",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45112",
+      "code_system": "CPT",
+      "description": "Removal of rectum and suturing of large bowel to anus through incision of abdomen and region between thighs",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45113",
+      "code_system": "CPT",
+      "description": "Partial removal of rectum and attachment of small bowel to anus and creation of small bowel pouch",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45114",
+      "code_system": "CPT",
+      "description": "Partial removal of rectum through abdomen and sacrum",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45116",
+      "code_system": "CPT",
+      "description": "Partial removal of rectum through sacrum",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45119",
+      "code_system": "CPT",
+      "description": "Removal of rectum with creation of small bowel pouch through abdomen and region between thighs",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45120",
+      "code_system": "CPT",
+      "description": "Removal of rectum for congenital defect through abdomen and region between thighs",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45121",
+      "code_system": "CPT",
+      "description": "Removal of rectum for congenital defect and large bowel through abdomen and perineum with multiple biopsies",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45123",
+      "code_system": "CPT",
+      "description": "Partial removal of rectum through perineum",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45126",
+      "code_system": "CPT",
+      "description": "Removal of large bowel, rectum, bladder and ureter",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45130",
+      "code_system": "CPT",
+      "description": "Repair of prolapsed rectum through anus",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45135",
+      "code_system": "CPT",
+      "description": "Repair of prolapsed rectum through abdomen and anus",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45136",
+      "code_system": "CPT",
+      "description": "Removal of small bowel pouch with creation of opening from small bowel to skin",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45150",
+      "code_system": "CPT",
+      "description": "Incision of stricture of rectum",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45160",
+      "code_system": "CPT",
+      "description": "Removal of growth of rectum through sacrum",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45171",
+      "code_system": "CPT",
+      "description": "Removal of growth of rectum through anus",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "45172",
+      "code_system": "CPT",
+      "description": "Removal of growth of rectum through anus with removal of a portion of muscle",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    }
+  ]
+}

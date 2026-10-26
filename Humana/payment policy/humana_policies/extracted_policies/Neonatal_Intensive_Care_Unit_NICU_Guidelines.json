@@ -1,0 +1,891 @@
+{
+  "policy_metadata": {
+    "policy_title": "Neonatal Intensive Care Unit (NICU) Guidelines",
+    "policy_number": "CP2022002",
+    "published_date": "04/2022",
+    "effective_date": "04/2022",
+    "revision_date": "04/2026",
+    "last_reviewed": "04/2026",
+    "Line_of_Business": "Florida Medicaid, Kentucky Medicaid, Oklahoma Medicaid, South Carolina Medicaid and Virginia Medicaid Products",
+    "Billingclass": "Both",
+    "source_pdf": "Neonatal_Intensive_Care_Unit_NICU_Guidelines_Revised-5b4397d4.pdf",
+    "total_pages": 18,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "0171",
+      "N01",
+      "N02",
+      "N04",
+      "N10",
+      "N14",
+      "N20",
+      "N24",
+      "N37",
+      "N38",
+      "N39",
+      "N48",
+      "N49",
+      "N50",
+      "N56",
+      "N57",
+      "N70",
+      "N76",
+      "N77",
+      "N78",
+      "N80",
+      "P22.0",
+      "P22.1",
+      "P22.8",
+      "P22.9"
+    ],
+    "cpt_codes": [],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [
+      "N01",
+      "N02",
+      "N04",
+      "N10",
+      "N14",
+      "N20",
+      "N24",
+      "N37",
+      "N38",
+      "N39",
+      "N48",
+      "N49",
+      "N50",
+      "N56",
+      "N57",
+      "N70",
+      "N76",
+      "N77",
+      "N78",
+      "N80",
+      "P22.0",
+      "P22.1",
+      "P22.8",
+      "P22.9"
+    ],
+    "revenue_codes": [
+      "0171"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 3,
+      "content": [
+        "The Neonatal Intensive Care Unit (NICU) provides continuous care to a critically ill neonate and involves many advanced technologies and interventions that are unique to the specialty area. These critically ill neonates can suffer from various medical conditions including congenital heart defects, neural tube defects, prematurity, respiratory distress, metabolic disorders and difficulties with feeding and growth. Diagnosis related groups (DRGs), including Medicare Severity Diagnosis Related Groups (MS-DRGs) and All Patient Refined Diagnosis Related Groups (APR-DRGs), are assigned to newborns based on factors including, but not limited to, birth weight, extent of prematurity, diagnoses, severity of illness, and associated significant problems. NICU is comprised of four levels of care: Level 1, Level 2, Level 3 and Level 4. Each of the four levels of care has a corresponding revenue code: 0171, 0172, 0173 and 0174, respectively. This policy outlines Humana’s billing requirements and reimbursement for NICU claims. Please note the definitions and background information for the following terms that are relevant for this policy: • Neonate: An infant who is less than four weeks old. • Prematurity: The condition when a neonate is born before a gestational age of 37 weeks and zero days. • Extreme prematurity: The condition when a neonate is born before a gestational age of 28 weeks and zero days. • Neonatal respiratory distress syndrome (RDS) (ICD-10-CM diagnosis code P22.0): Occurs when there is a deficiency of",
+        "surfactant. This is primarily due to insufficient production of surfactant or in rare cases, it can be caused by a genetic mutation in surfactant proteins or the transporter genes. Prematurity is the primary cause as surfactant production by the lungs does not occur until around a gestational age of 26 weeks, so the majority of cases are seen in the extreme premature",
+        "population. In total, all case-types of newborn respiratory distress occurs in approximately 7 percent of deliveries with only about 1 percent resulting in RDS. Prematurity and low birth weight are the most important risk factors in the development of RDS and usually occurs before a gestational age of 28 weeks. Chest X-ray findings for RDS are classic. The findings include diffuse atelectasis, with a ground-glass appearance, air bronchograms and low lung volumes. Treatment includes surfactant therapy; assisted ventilation with a ventilator, continuous positive airway pressure (regular or nasal), or other assisted ventilation such as high flow oxygen; monitoring of oxygenation; and supportive care (thermoregulation, nutritional support, fluid and electrolyte management, etc.) • Transient tachypnea of the newborn (ICD-10-CM diagnosis code P22.1): A transient respiratory distress caused when fetal lung fluid that is not readily absorbed from the lungs during the delivery process. Chest X-ray findings show lungs that are normal or hyperinflated. There is noted perihilar streaking, and the lung fissures can demonstrate fluid in them. Treatment is oxygen and supportive care. This typically resolves within a few days. • Other respiratory distress of newborn (ICD-10-CM diagnosis code P22.8): Respiratory distress that occurs in the neonatal period that is related to a specific disease process. Examples include respiratory distress secondary to pneumonia, sepsis, meconium aspiration, congenital heart defect, etc. • Respiratory distress of newborn, unspecified (ICD-10-CM diagnosis code P22.9): Respiratory distress that occurs in the neonatal period that is not related to a specific identified disease process or does not meet the definition of transient tachypnea of the newborn or RDS. Florida Medicaid Payment Policy Kentucky Medicaid Payment Policy Oklahoma Medicaid Payment Policy South Carolina Medicaid Payment Policy Virginia Medicaid Payment Policy References General Humana Resources"
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Florida Medicaid Payment Policy",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 6,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. To be reimbursed for a medically necessary NICU stay subject to DRG-based pricing, the provider must satisfy the requirements in this policy. During the NICU stay, the provider must provide all relevant documentation, such as medical records, for utilization management and leveling purposes. Humana uses all relevant documentation to assign the DRG for the case according to the table below. For a case that qualifies for more than one DRG, Humana assigns the DRG associated with the most complex services. Humana uses all relevant documentation to review the ICD-10-CM diagnosis codes reported on the claim according to the peer- reviewed literature definition and treatment requirements. If a reported diagnosis code does not satisfy the applicable requirement, it is not considered when calculating the DRG reimbursed. Humana reviews the level of care as reported by the NICU revenue code according to the table below. If the documentation associated with a charge for a NICU revenue code does not establish that the criteria associated with that revenue code were satisfied, reimbursement for the claim will instead be calculated using the highest NICU revenue code for which the criteria are satisfied."
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 3,
+          "page_end": 4,
+          "columns": [
+            "DRG code",
+            "Minimum criteria"
+          ],
+          "row_count": 29,
+          "rows": [
+            {
+              "DRG code": "580",
+              "Minimum criteria": "A neonate transferred from any hospital who is less than 5 days old and not born at\nthe current hospital"
+            },
+            {
+              "DRG code": "581",
+              "Minimum criteria": "A neonate transferred from any hospital who is less than 5 days old and born at the\ncurrent hospital"
+            },
+            {
+              "DRG code": "583",
+              "Minimum criteria": "A neonate with extracorporeal membrane oxygenation (ECMO)"
+            },
+            {
+              "DRG code": "588",
+              "Minimum criteria": "A neonate who has a birth weight less than 1500 grams with a major procedure"
+            },
+            {
+              "DRG code": "589",
+              "Minimum criteria": "A neonate who has a birth weight less than 500 grams, or a birth weight of 500\ngrams to 999 grams and a gestational age of less than 24 weeks, or a birth weight of\n500 grams to 749 grams with a major anomaly or without life sustaining intervention"
+            },
+            {
+              "DRG code": "591",
+              "Minimum criteria": "A neonate who has a birth weight of 500 grams to 749 grams without a major\nprocedure"
+            },
+            {
+              "DRG code": "593",
+              "Minimum criteria": "A neonate who has a birth weight of 750 grams to 999 grams without a major\nprocedure"
+            },
+            {
+              "DRG code": "602",
+              "Minimum criteria": "A neonate who has a birth weight of 1000 grams to 1249 grams with RDS or another\nmajor respiratory condition or major anomaly"
+            },
+            {
+              "DRG code": "603",
+              "Minimum criteria": "A neonate who has a birth weight of 1000 grams to 1249 grams with or without\nanother significant condition"
+            },
+            {
+              "DRG code": "607",
+              "Minimum criteria": "A neonate who has a birth weight of 1250 grams to 1499 grams with RDS or another\nmajor respiratory condition or major anomaly"
+            },
+            {
+              "DRG code": "608",
+              "Minimum criteria": "A neonate who has a birth weight of 1250 grams to 1499 grams with or without\nother significant condition"
+            },
+            {
+              "DRG code": "609",
+              "Minimum criteria": "A neonate who has a birth weight of 1500 grams to 2499 grams with a major\nprocedure"
+            },
+            {
+              "DRG code": "611",
+              "Minimum criteria": "A neonate who has a birth weight of 1500 grams to 1999 grams with a major\nanomaly"
+            },
+            {
+              "DRG code": "612",
+              "Minimum criteria": "A neonate who has a birth weight of 1500 grams to 1999 grams with RDS or another\nmajor respiratory condition"
+            },
+            {
+              "DRG code": "613",
+              "Minimum criteria": "A neonate who has a birth weight of 1500 grams to 1999 grams with a congenital or\nperinatal infection"
+            },
+            {
+              "DRG code": "614",
+              "Minimum criteria": "A neonate who has a birth weight of 1500 grams to 1999 grams with or without\nanother significant condition"
+            },
+            {
+              "DRG code": "621",
+              "Minimum criteria": "A neonate who has a birth weight of 2000 grams to 2499 grams with a major\nanomaly"
+            },
+            {
+              "DRG code": "622",
+              "Minimum criteria": "A neonate who has a birth weight of 2000 grams to 2499 grams with RDS or another\nmajor respiratory condition"
+            },
+            {
+              "DRG code": "623",
+              "Minimum criteria": "A neonate who has a birth weight of 2000 grams to 2499 grams with a congenital or\nperinatal infection"
+            },
+            {
+              "DRG code": "625",
+              "Minimum criteria": "A neonate who has a birth weight of 2000 grams to 2499 grams with another\nsignificant condition"
+            },
+            {
+              "DRG code": "626",
+              "Minimum criteria": "A normal newborn or neonate who has a birthweight of 2000 grams to 2499 grams\nwith another problem"
+            },
+            {
+              "DRG code": "630",
+              "Minimum criteria": "A neonate who has a birth weight greater than 2499 grams with a major\ncardiovascular procedure"
+            },
+            {
+              "DRG code": "631",
+              "Minimum criteria": "A neonate who has a birth weight greater than 2499 grams with another major\nprocedure"
+            },
+            {
+              "DRG code": "633",
+              "Minimum criteria": "A neonate who has a birth weight greater than 2499 grams with a major anomaly"
+            },
+            {
+              "DRG code": "634",
+              "Minimum criteria": "A neonate who has a birth weight greater than 2499 grams with RDS or another\nmajor respiratory condition"
+            },
+            {
+              "DRG code": "636",
+              "Minimum criteria": "A neonate who has a birth weight greater than 2499 grams with a congenital or\nperinatal infection"
+            },
+            {
+              "DRG code": "639",
+              "Minimum criteria": "A neonate who has a birth weight greater than 2499 grams with another significant\ncondition"
+            },
+            {
+              "DRG code": "640",
+              "Minimum criteria": "A normal newborn or neonate who has a birthweight greater than 2499 grams with\nanother problem"
+            },
+            {
+              "DRG code": "863",
+              "Minimum criteria": "Neonatal aftercare"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 4,
+          "page_end": 5,
+          "columns": [
+            "Nursery level",
+            "Revenue code",
+            "Minimum criteria"
+          ],
+          "row_count": 6,
+          "rows": [
+            {
+              "Nursery level": "Level 0",
+              "Revenue code": "0170",
+              "Minimum criteria": "Level 0 and Level 1 are considered newborn nursery.\nExamples include care to observe for:\n• Sepsis\n• Temperature instability\n• Feeding irregularities\n• Jaundice"
+            },
+            {
+              "Nursery level": "Level 1",
+              "Revenue code": "0171",
+              "Minimum criteria": ""
+            },
+            {
+              "Nursery level": "Level 2",
+              "Revenue code": "0172",
+              "Minimum criteria": "Neonate who is not severely ill but needs more hours of nursing and medical care than\ntypical neonates, as indicated by one or more of the following:\n• Ventilatory support using one of the following:\n- Hood oxygen, or\n- Less than or equal to two liters per minute of oxygen via nasal cannula\n• Administration of intravenous (IV) heplock medicines\n• Weaning from nasogastric (NG) or nasojejunal (NJ) tube feedings while trying to\nincrease oral intake, without need for IV fluids\n• Weaning from isolette or radiant warmer to open crib, without need for temperature\nsupport\n• Documented episodes of apnea, bradycardia or desaturation, for example:\n- Apnea countdown,\n- Titrating caffeine or preparing infant for home caffeine administration, or"
+            },
+            {
+              "Nursery level": "",
+              "Revenue code": "",
+              "Minimum criteria": "- Preparing infant for home monitor use for apnea, bradycardia or desaturation\n• Services for neonatal abstinence syndrome (NAS) when the Finnegan score is less\nthan or equal to 8\n• Services for neonatal jaundice requiring either:\n- Use of phototherapy, or\n- Monitoring of bilirubin levels less frequently than every 12 hours\n• Supportive care for growing premature infant, or establishing weight gain"
+            },
+            {
+              "Nursery level": "Level 3",
+              "Revenue code": "0173",
+              "Minimum criteria": "Level 2 requirements are met\nand\nTemperature control modalities, such as isolette or radiant warmer, are in use\nand\nCondition requiring 6 to 12 hours of active nursing and medical evaluation, treatment and\nsupport, as evidenced by one or more of the following:\n• Ventilatory support using one of the following:\n- Greater than two liters per minute of oxygen via nasal cannula,\n- High flow nasal cannula,\n- Continuous positive airway pressure (CPAP),\n- Stable chronic mechanical ventilation (on home ventilator settings), or\n- Conventional ventilator\n• Umbilical venous catheter (UVC) or invasive cardiopulmonary monitoring (CPM)\n• Hypoglycemia requiring D-10 bolus therapy\n• Nothing by mouth (NPO) with either:\n- All NG feedings, or\n- Total parenteral nutrition (TPN)\n• Services for NAS with one of the following:\n- Three consecutive Finnegan scores greater than or equal to 8,\n- Two consecutive Finnegan scores greater than or equal to 12, or\n- Pharmacologic management of NAS"
+            },
+            {
+              "Nursery level": "Level 4",
+              "Revenue code": "0174",
+              "Minimum criteria": "Level 3 requirements are met\nand\nOther condition that requires ongoing evaluation, active management, or therapy\nadjustment with near continuous nursing and medical support, as evidenced by one or\nmore of the following:\n• Ventilatory support using high frequency oscillating ventilator (HFOV)\n• Use of IV bolus therapy, inotropic drugs, chronotropic drugs, calcium channel\nblockers or IV prostaglandin therapy\n• Active seizures, with need for anticonvulsants\n• Surgical repair of severe congenital defect, for example:\n- Omphalocele repair,\n- Bowel resection for necrotizing enterocolitis (NEC), or\n- Tracheoesophageal fistula repair\n• Inhaled nitric oxide (iNO)\n• Extracorporeal membrane oxygenation (ECMO)\n• Therapeutic cooling\n• Hyperbilirubinemia requiring either:\n- Exchange transfusion, or\n- Intravenous immunoglobulin (IVIG) administration\n• Emergent event (for example, pulmonary arrest or cardiac arrest)"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Kentucky Medicaid Payment Policy",
+      "level": 1,
+      "page_start": 6,
+      "page_end": 7,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. To be reimbursed for a medically necessary NICU stay subject to DRG-based pricing, the provider must satisfy the requirements in this policy. During the NICU stay, the provider must provide all relevant documentation, such as medical records, for utilization management and leveling purposes. Humana uses all relevant documentation to assign the DRG for the case according to the table below. For a case that qualifies for more than one DRG as outlined in the table below, Humana assigns the DRG associated with the most complex services. Humana uses all relevant documentation to review the ICD-10-CM diagnosis codes reported on the claim according to the peer- reviewed literature definition and treatment requirements. If a reported diagnosis code does not satisfy the applicable requirement, it is not considered when calculating the DRG reimbursed. For a claim with a discharge date on or after May 29, 2025, Humana reviews additional factors to calculate reimbursement of the DRG outlier payment, when applicable, according to CMS MS-DRG guidelines. This includes reviewing whether the provider has billed for any days that do not meet medical necessity requirements. It also includes reviewing the following data on the claim: • The level of care as reported by the NICU revenue code, according to the applicable criteria established by MCG Health; • The number of days billed; and • The dates of service."
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 6,
+          "page_end": 9,
+          "columns": [
+            "DRG code",
+            "Minimum criteria"
+          ],
+          "row_count": 28,
+          "rows": [
+            {
+              "DRG code": "790",
+              "Minimum criteria": "A neonate who has a birth weight less than or equal to 999 grams, has completed a\ngestational age of 23 – 26 weeks or is diagnosed with neonatal RDS (ICD-10-CM\ndiagnosis code P22.0) according to the peer-reviewed literature definition and\ntreatment requirements noted in the Overview section\nNote: DRG 790 assignment is intended for critically ill neonates requiring the most\ncomplex care and prolonged hospital confinement."
+            },
+            {
+              "DRG code": "791",
+              "Minimum criteria": "A neonate who has a birth weight of 1,000 grams to 2,499 grams or has completed a\ngestational age of only 27 – 36 weeks\nand\nOne or more of the diagnoses on the Centers for Medicare & Medicaid Services\n(CMS) Major Problems Diagnoses list applicable for the date of service, available in\nthe References section"
+            },
+            {
+              "DRG code": "792",
+              "Minimum criteria": "A neonate who has a birth weight of 1,000 grams to 2,499 grams or has completed a\ngestational age of only 27 – 36 weeks without major problems"
+            },
+            {
+              "DRG code": "793",
+              "Minimum criteria": "A full-term neonate who has completed a gestational age of 37 weeks or greater\nand\nOne or more of the diagnoses on the CMS Major Problems Diagnoses list, applicable\nfor the date of service, available in the References section"
+            },
+            {
+              "DRG code": "794",
+              "Minimum criteria": "A full-term neonate who has completed a gestational age of 37 weeks or greater\nand\nOne or more of the diagnoses on the CMS Significant Problems Diagnoses list,\napplicable for the date of service, available in the References section"
+            },
+            {
+              "DRG code": "795",
+              "Minimum criteria": "A normal neonate not requiring care outside of the newborn nursery"
+            },
+            {
+              "DRG code": "789",
+              "Minimum criteria": "A neonate who is transferred to another acute care facility or has died"
+            },
+            {
+              "DRG code": "N01",
+              "Minimum criteria": "• The applicable MS-DRG 789 – 795 criteria were satisfied as outlined in the chart below;\n• The length of stay was less than two days;\n• The neonate died before discharge; and\n• The neonate was not transferred from another acute care facility."
+            },
+            {
+              "DRG code": "N02",
+              "Minimum criteria": "• The applicable MS-DRG 789 – 795 criteria were satisfied as outlined in the chart below;\n• The length of stay was less than two days;\n• The neonate died before discharge; and\n• The neonate was transferred from another acute care facility."
+            },
+            {
+              "DRG code": "N04",
+              "Minimum criteria": "• The applicable MS-DRG 789 – 795 criteria were satisfied as outlined in the chart below;\n• The length of stay was less than five days; and\n• The neonate was transferred to another acute care facility."
+            },
+            {
+              "DRG code": "N10",
+              "Minimum criteria": "• The applicable MS-DRG 789 – 795 criteria were satisfied as outlined in the chart below;\n• The neonate had a birth weight of less than 750 grams; and\n• The neonate died before discharge."
+            },
+            {
+              "DRG code": "N14",
+              "Minimum criteria": "• The applicable MS-DRG 789 – 795 criteria were satisfied as outlined in the chart below;\n• The neonate had a birth weight of less than 750 grams; and\n• The neonate did not die before discharge."
+            },
+            {
+              "DRG code": "N20",
+              "Minimum criteria": "• The applicable MS-DRG 789 – 795 criteria were satisfied as outlined in the chart below;\n• The neonate had a birth weight of 750 grams to 999 grams; and\n• The neonate died before discharge."
+            },
+            {
+              "DRG code": "N24",
+              "Minimum criteria": "• The applicable MS-DRG 789 – 795 criteria were satisfied as outlined in the chart below;\n• The neonate had a birth weight of 750 grams to 999 grams; and\n• The neonate did not die before discharge."
+            },
+            {
+              "DRG code": "N37",
+              "Minimum criteria": "• The applicable MS-DRG 789 – 795 criteria were satisfied as outlined in the chart below;\n• The neonate had a birth weight of 1,000 grams to 1,499 grams; and\n• The neonate died before discharge."
+            },
+            {
+              "DRG code": "N38",
+              "Minimum criteria": "• The applicable MS-DRG 789 – 795 criteria were satisfied as outlined in the chart below;\n• The neonate had a birth weight of 1,000 grams to 1,499 grams;\n• The neonate did not die before discharge; and\n• A procedure, other than circumcision or another minor surgery, was performed in the\noperating room."
+            },
+            {
+              "DRG code": "N39",
+              "Minimum criteria": "• The applicable MS-DRG 789 – 795 criteria were satisfied as outlined in the chart below;"
+            },
+            {
+              "DRG code": "",
+              "Minimum criteria": "• The neonate had a birth weight of 1,000 grams to 1,499 grams;\n• The neonate did not die before discharge; and\n• One of the following is applicable:\n– No procedure was performed in the operating room, or\n– Only a circumcision or other minor surgery was performed."
+            },
+            {
+              "DRG code": "N48",
+              "Minimum criteria": "• The applicable MS-DRG 789 – 795 criteria were satisfied as outlined in the chart below;\n• The neonate had a birth weight of 1,500 grams to 1,999 grams; and\n• A procedure, other than circumcision or another minor surgery, was performed in the\noperating room."
+            },
+            {
+              "DRG code": "N49",
+              "Minimum criteria": "• The applicable MS-DRG 789 – 795 criteria were satisfied as outlined in the chart below;\n• The neonate had a birth weight of 1,500 grams to 1,999 grams; and\n• One of the following is applicable:\n– No procedure was performed in the operating room, or\n– Only a circumcision or other minor surgery was performed."
+            },
+            {
+              "DRG code": "N50",
+              "Minimum criteria": "• The applicable MS-DRG 789 – 795 criteria were satisfied as outlined in the chart below;\n• The neonate had a birth weight of 2,000 grams to 2,499 grams; and\n• A procedure, other than circumcision or another minor surgery, was performed in the\noperating room."
+            },
+            {
+              "DRG code": "N56",
+              "Minimum criteria": "• The applicable MS-DRG 790, 791 or 793 criteria were satisfied as outlined in the chart\nbelow;\n• The neonate had a birth weight of 2,000 grams to 2,499 grams; and\n• One of the following is applicable:\n– No procedure was performed in the operating room, or\n– Only a circumcision or other minor surgery was performed."
+            },
+            {
+              "DRG code": "N57",
+              "Minimum criteria": "• The applicable MS-DRG 792 or 794 criteria were satisfied as outlined in the chart\nbelow;\n• The neonate had a birth weight of 2,000 grams to 2,499 grams; and\n• One of the following is applicable:\n– No procedure was performed in the operating room, or\n– Only a circumcision or other minor surgery was performed."
+            },
+            {
+              "DRG code": "N70",
+              "Minimum criteria": "• The applicable MS-DRG 789 or 795 criteria were satisfied as outlined in the chart\nbelow;\n• The neonate had a birth weight of 2,000 grams to 2,499 grams; and\n• One of the following is applicable:\n– No procedure was performed in the operating room, or\n– Only a circumcision or other minor surgery was performed."
+            },
+            {
+              "DRG code": "N76",
+              "Minimum criteria": "• The applicable MS-DRG 790, 791 or 793 criteria were satisfied as outlined in the chart\nbelow;\n• The neonate had a birth weight of greater than 2,499 grams; and\n• One of the following is applicable:\n– No procedure was performed in the operating room, or\n– Only a circumcision or other minor surgery was performed."
+            },
+            {
+              "DRG code": "N77",
+              "Minimum criteria": "• The applicable MS-DRG 792 or 794 criteria were satisfied as outlined in the chart\nbelow;\n• The neonate had a birth weight of greater than 2,499 grams; and\n• One of the following is applicable:\n– No procedure was performed in the operating room, or\n– Only a circumcision or other minor surgery was performed."
+            },
+            {
+              "DRG code": "N78",
+              "Minimum criteria": "• The applicable MS-DRG 789 or 795 criteria were satisfied as outlined in the chart\nbelow;\n• The neonate had a birth weight of greater than 2,499 grams; and\n• One of the following is applicable:\n– No procedure was performed in the operating room, or\n– Only a circumcision or other minor surgery was performed."
+            },
+            {
+              "DRG code": "N80",
+              "Minimum criteria": "• The applicable MS-DRG 789 – 795 criteria were satisfied as outlined in the chart below;\n• The neonate had a birth weight of greater than 2,499 grams; and\n• A procedure, other than circumcision or another minor surgery, was performed in the\noperating room."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Oklahoma Medicaid Payment Policy",
+      "level": 1,
+      "page_start": 7,
+      "page_end": 11,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. To be reimbursed for a medically necessary NICU stay subject to DRG-based pricing, the provider must satisfy the requirements in this policy. Providers must follow all applicable Oklahoma Health Care Authority (OHCA) guidance for NICU claims outlined at OHCA’s Payment for Newborns website, available in the References section, including but not limited to the following: • Report the ICD-10-CM diagnosis code indicating the neonate’s birth weight. During the NICU stay, the provider must provide all relevant documentation, such as medical records, for utilization management and leveling purposes. Humana uses all relevant documentation to assign the DRG for the case according to the tables below. For a case that qualifies for more than one DRG, Humana assigns the DRG associated with the most complex services. Humana assigns the MS-DRG according to the table below. Humana uses all relevant documentation to review the ICD-10-CM diagnosis codes reported on the claim according to the peer- reviewed literature definition and treatment requirements. If a reported diagnosis code does not satisfy the applicable requirement, it is not considered when calculating the DRG reimbursed. Humana reviews the level of care as reported by the NICU revenue code according to the table below. If the documentation associated with a charge for a NICU revenue code does not establish that the criteria associated with that revenue code were satisfied, reimbursement for the claim will instead be calculated using the highest NICU revenue code for which the criteria are satisfied."
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 9,
+          "page_end": 9,
+          "columns": [
+            "MS-DRG code",
+            "Minimum criteria"
+          ],
+          "row_count": 7,
+          "rows": [
+            {
+              "MS-DRG code": "790",
+              "Minimum criteria": "A neonate who has a birth weight less than or equal to 999 grams, has completed a\ngestational age of 23 – 26 weeks or is diagnosed with neonatal RDS (ICD-10-CM\ndiagnosis code P22.0) according to the peer-reviewed literature definition and\ntreatment requirements noted in the Overview section\nNote: DRG 790 assignment is intended for critically ill neonates requiring the most\ncomplex care and prolonged hospital confinement."
+            },
+            {
+              "MS-DRG code": "791",
+              "Minimum criteria": "A neonate who has a birth weight of 1,000 grams to 2,499 grams or has completed a\ngestational age of only 27 – 36 weeks\nand\nOne or more of the diagnoses on the CMS Major Problems Diagnoses list applicable\nfor the date of service, available in the References section"
+            },
+            {
+              "MS-DRG code": "792",
+              "Minimum criteria": "A neonate who has a birth weight of 1,000 grams to 2,499 grams or has completed a\ngestational age of only 27 – 36 weeks without major problems"
+            },
+            {
+              "MS-DRG code": "793",
+              "Minimum criteria": "A full-term neonate who has completed a gestational age of 37 weeks or greater\nand\nOne or more of the diagnoses on the CMS Major Problems Diagnoses list, applicable\nfor the date of service, available in the References section"
+            },
+            {
+              "MS-DRG code": "794",
+              "Minimum criteria": "A full-term neonate who has completed a gestational age of 37 weeks or greater\nand\nOne or more of the diagnoses on the CMS Significant Problems Diagnoses list,\napplicable for the date of service, available in the References section"
+            },
+            {
+              "MS-DRG code": "795",
+              "Minimum criteria": "A normal neonate not requiring care outside of the newborn nursery"
+            },
+            {
+              "MS-DRG code": "789",
+              "Minimum criteria": "A neonate who is transferred to another acute care facility or has died"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 10,
+          "page_end": 11,
+          "columns": [
+            "Nursery level",
+            "Revenue code",
+            "Minimum criteria"
+          ],
+          "row_count": 5,
+          "rows": [
+            {
+              "Nursery level": "Level 0",
+              "Revenue code": "0170",
+              "Minimum criteria": "Level 0 and Level 1 are considered newborn nursery.\nExamples include care to observe for:\n• Sepsis\n• Temperature instability\n• Feeding irregularities\n• Jaundice"
+            },
+            {
+              "Nursery level": "Level 1",
+              "Revenue code": "0171",
+              "Minimum criteria": ""
+            },
+            {
+              "Nursery level": "Level 2",
+              "Revenue code": "0172",
+              "Minimum criteria": "Neonate who is not severely ill but needs more hours of nursing and medical care than\ntypical neonates, as indicated by one or more of the following:\n• Ventilatory support using one of the following:\n- Hood oxygen, or\n- Less than or equal to two liters per minute of oxygen via nasal cannula\n• Administration of intravenous (IV) heplock medicines\n• Weaning from nasogastric (NG) or nasojejunal (NJ) tube feedings while trying to\nincrease oral intake, without need for IV fluids\n• Weaning from isolette or radiant warmer to open crib, without need for temperature\nsupport\n• Documented episodes of apnea, bradycardia or desaturation, for example:\n- Apnea countdown,\n- Titrating caffeine or preparing infant for home caffeine administration, or\n- Preparing infant for home monitor use for apnea, bradycardia or desaturation\n• Services for neonatal abstinence syndrome (NAS) when the Finnegan score is less\nthan or equal to 8\n• Services for neonatal jaundice requiring either:\n- Use of phototherapy, or\n- Monitoring of bilirubin levels less frequently than every 12 hours\n• Supportive care for growing premature infant, or establishing weight gain"
+            },
+            {
+              "Nursery level": "Level 3",
+              "Revenue code": "0173",
+              "Minimum criteria": "Level 2 requirements are met\nand\nTemperature control modalities, such as isolette or radiant warmer, are in use\nand\nCondition requiring 6 to 12 hours of active nursing and medical evaluation, treatment and\nsupport, as evidenced by one or more of the following:\n• Ventilatory support using one of the following:\n- Greater than two liters per minute of oxygen via nasal cannula,\n- High flow nasal cannula,\n- Continuous positive airway pressure (CPAP),\n- Stable chronic mechanical ventilation (on home ventilator settings), or\n- Conventional ventilator\n• Umbilical venous catheter (UVC) or invasive cardiopulmonary monitoring (CPM)\n• Hypoglycemia requiring D-10 bolus therapy\n• Nothing by mouth (NPO) with either:\n- All NG feedings, or\n- Total parenteral nutrition (TPN)\n• Services for NAS with one of the following:\n- Three consecutive Finnegan scores greater than or equal to 8,\n- Two consecutive Finnegan scores greater than or equal to 12, or\n- Pharmacologic management of NAS"
+            },
+            {
+              "Nursery level": "Level 4",
+              "Revenue code": "0174",
+              "Minimum criteria": "Level 3 requirements are met\nand\nOther condition that requires ongoing evaluation, active management, or therapy\nadjustment with near continuous nursing and medical support, as evidenced by one or\nmore of the following:\n• Ventilatory support using high frequency oscillating ventilator (HFOV)\n• Use of IV bolus therapy, inotropic drugs, chronotropic drugs, calcium channel\nblockers or IV prostaglandin therapy\n• Active seizures, with need for anticonvulsants\n• Surgical repair of severe congenital defect, for example:\n- Omphalocele repair,\n- Bowel resection for necrotizing enterocolitis (NEC), or\n- Tracheoesophageal fistula repair\n• Inhaled nitric oxide (iNO)\n• Extracorporeal membrane oxygenation (ECMO)\n• Therapeutic cooling\n• Hyperbilirubinemia requiring either:\n- Exchange transfusion, or\n- Intravenous immunoglobulin (IVIG) administration\n• Emergent event (for example, pulmonary arrest or cardiac arrest)"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "South Carolina Medicaid Payment Policy",
+      "level": 1,
+      "page_start": 11,
+      "page_end": 14,
+      "content": [
+        "To be reimbursed for a medically necessary NICU stay subject to DRG-based pricing, the provider must satisfy the requirements in this policy. During the NICU stay, the provider must provide all relevant documentation, such as medical records, for utilization management and leveling purposes. Humana uses all relevant documentation to assign the DRG for the case according to the table below. For a case that qualifies for more than one DRG, Humana assigns the DRG associated with the most complex services. Humana uses all relevant documentation to review the ICD-10-CM diagnosis codes reported on the claim according to the peer- reviewed literature definition and treatment requirements. If a reported diagnosis code does not satisfy the applicable requirement, it is not considered when calculating the DRG reimbursed. Humana reviews the level of care as reported by the NICU revenue code according to the table below. If the documentation associated with a charge for a NICU revenue code does not establish that the criteria associated with that revenue code were satisfied, reimbursement for the claim will instead be calculated using the highest NICU revenue code for which the criteria are",
+        "satisfied. Neonates born during a gestational age range of 34 weeks and zero days through 36 weeks and six days are recognized as a high ‑ risk neonatal population and may also require NICU ‑ level care when clinical criteria are met."
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 11,
+          "page_end": 12,
+          "columns": [
+            "DRG code",
+            "Minimum criteria"
+          ],
+          "row_count": 29,
+          "rows": [
+            {
+              "DRG code": "580",
+              "Minimum criteria": "A neonate transferred from any hospital who is less than 5 days old and not born at\nthe current hospital"
+            },
+            {
+              "DRG code": "581",
+              "Minimum criteria": "A neonate transferred from any hospital who is less than 5 days old and born at the\ncurrent hospital"
+            },
+            {
+              "DRG code": "583",
+              "Minimum criteria": "A neonate with extracorporeal membrane oxygenation (ECMO)"
+            },
+            {
+              "DRG code": "588",
+              "Minimum criteria": "A neonate who has a birth weight less than 1500 grams with a major procedure"
+            },
+            {
+              "DRG code": "589",
+              "Minimum criteria": "A neonate who has a birth weight less than 500 grams"
+            },
+            {
+              "DRG code": "591",
+              "Minimum criteria": "A neonate who has a birth weight of 500 grams to 749 grams without a major\nprocedure"
+            },
+            {
+              "DRG code": "593",
+              "Minimum criteria": "A neonate who has a birth weight of 750 grams to 999 grams without a major\nprocedure"
+            },
+            {
+              "DRG code": "602",
+              "Minimum criteria": "A neonate who has a birth weight of 1000 grams to 1249 grams with RDS or another\nmajor respiratory condition or major anomaly"
+            },
+            {
+              "DRG code": "603",
+              "Minimum criteria": "A neonate who has a birth weight of 1000 grams to 1249 grams with or without\nanother significant condition"
+            },
+            {
+              "DRG code": "607",
+              "Minimum criteria": "A neonate who has a birth weight of 1250 grams to 1499 grams with RDS or another\nmajor respiratory condition or major anomaly"
+            },
+            {
+              "DRG code": "608",
+              "Minimum criteria": "A neonate who has a birth weight of 1250 grams to 1499 grams with or without\nother significant condition"
+            },
+            {
+              "DRG code": "609",
+              "Minimum criteria": "A neonate who has a birth weight of 1500 grams to 2499 grams with a major\nprocedure"
+            },
+            {
+              "DRG code": "611",
+              "Minimum criteria": "A neonate who has a birth weight of 1500 grams to 1999 grams with a major\nanomaly"
+            },
+            {
+              "DRG code": "612",
+              "Minimum criteria": "A neonate who has a birth weight of 1500 grams to 1999 grams with RDS or another\nmajor respiratory condition"
+            },
+            {
+              "DRG code": "613",
+              "Minimum criteria": "A neonate who has a birth weight of 1500 grams to 1999 grams with a congenital or\nperinatal infection"
+            },
+            {
+              "DRG code": "614",
+              "Minimum criteria": "A neonate who has a birth weight of 1500 grams to 1999 grams with or without\nanother significant condition"
+            },
+            {
+              "DRG code": "621",
+              "Minimum criteria": "A neonate who has a birth weight of 2000 grams to 2499 grams with a major\nanomaly"
+            },
+            {
+              "DRG code": "622",
+              "Minimum criteria": "A neonate who has a birth weight of 2000 grams to 2499 grams with RDS or another\nmajor respiratory condition"
+            },
+            {
+              "DRG code": "623",
+              "Minimum criteria": "A neonate who has a birth weight of 2000 grams to 2499 grams with a congenital or\nperinatal infection"
+            },
+            {
+              "DRG code": "625",
+              "Minimum criteria": "A neonate who has a birth weight of 2000 grams to 2499 grams with another\nsignificant condition"
+            },
+            {
+              "DRG code": "626",
+              "Minimum criteria": "A normal newborn or neonate who has a birthweight of 2000 grams to 2499 grams\nwith another problem"
+            },
+            {
+              "DRG code": "630",
+              "Minimum criteria": "A neonate who has a birth weight greater than 2499 grams with a major\ncardiovascular procedure"
+            },
+            {
+              "DRG code": "631",
+              "Minimum criteria": "A neonate who has a birth weight greater than 2499 grams with another major\nprocedure"
+            },
+            {
+              "DRG code": "633",
+              "Minimum criteria": "A neonate who has a birth weight greater than 2499 grams with a major anomaly"
+            },
+            {
+              "DRG code": "634",
+              "Minimum criteria": "A neonate who has a birth weight greater than 2499 grams with RDS or another\nmajor respiratory condition"
+            },
+            {
+              "DRG code": "636",
+              "Minimum criteria": "A neonate who has a birth weight greater than 2499 grams with a congenital or\nperinatal infection"
+            },
+            {
+              "DRG code": "639",
+              "Minimum criteria": "A neonate who has a birth weight greater than 2499 grams with another significant\ncondition"
+            },
+            {
+              "DRG code": "640",
+              "Minimum criteria": "A normal newborn or neonate who has a birthweight greater than 2499 grams with\nanother problem"
+            },
+            {
+              "DRG code": "863",
+              "Minimum criteria": "Neonatal aftercare"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 13,
+          "page_end": 14,
+          "columns": [
+            "Nursery level",
+            "Revenue code",
+            "Minimum criteria"
+          ],
+          "row_count": 5,
+          "rows": [
+            {
+              "Nursery level": "Level 0",
+              "Revenue code": "0170",
+              "Minimum criteria": "Level 0 and Level 1 are considered newborn nursery.\nExamples include care to observe for:\n• Sepsis\n• Temperature instability\n• Feeding irregularities\n• Jaundice"
+            },
+            {
+              "Nursery level": "Level 1",
+              "Revenue code": "0171",
+              "Minimum criteria": ""
+            },
+            {
+              "Nursery level": "Level 2",
+              "Revenue code": "0172",
+              "Minimum criteria": "Neonate who is not severely ill but needs more hours of nursing and medical care than\ntypical neonates, as indicated by one or more of the following:\n• Ventilatory support using one of the following:\n- Hood oxygen, or\n- Less than or equal to two liters per minute of oxygen via nasal cannula\n• Administration of intravenous (IV) heplock medicines\n• Weaning from nasogastric (NG) or nasojejunal (NJ) tube feedings while trying to\nincrease oral intake, without need for IV fluids\n• Weaning from isolette or radiant warmer to open crib, without need for temperature\nsupport\n• Documented episodes of apnea, bradycardia or desaturation, for example:\n- Apnea countdown,\n- Titrating caffeine or preparing infant for home caffeine administration, or\n- Preparing infant for home monitor use for apnea, bradycardia or desaturation\n• Services for neonatal abstinence syndrome (NAS) when the Finnegan score is less\nthan or equal to 8\n• Services for neonatal jaundice requiring either:\n- Use of phototherapy, or\n- Monitoring of bilirubin levels less frequently than every 12 hours\n• Supportive care for growing premature infant, or establishing weight gain"
+            },
+            {
+              "Nursery level": "Level 3",
+              "Revenue code": "0173",
+              "Minimum criteria": "Level 2 requirements are met\nand\nTemperature control modalities, such as isolette or radiant warmer, are in use\nand\nCondition requiring 6 to 12 hours of active nursing and medical evaluation, treatment and\nsupport, as evidenced by one or more of the following:\n• Ventilatory support using one of the following:\n- Greater than two liters per minute of oxygen via nasal cannula,\n- High flow nasal cannula,\n- Continuous positive airway pressure (CPAP),\n- Stable chronic mechanical ventilation (on home ventilator settings), or\n- Conventional ventilator\n• Umbilical venous catheter (UVC) or invasive cardiopulmonary monitoring (CPM)\n• Hypoglycemia requiring D-10 bolus therapy\n• Nothing by mouth (NPO) with either:\n- All NG feedings, or\n- Total parenteral nutrition (TPN)\n• Services for NAS with one of the following:\n- Three consecutive Finnegan scores greater than or equal to 8,\n- Two consecutive Finnegan scores greater than or equal to 12, or\n- Pharmacologic management of NAS"
+            },
+            {
+              "Nursery level": "Level 4",
+              "Revenue code": "0174",
+              "Minimum criteria": "Level 3 requirements are met\nand\nOther condition that requires ongoing evaluation, active management, or therapy\nadjustment with near continuous nursing and medical support, as evidenced by one or\nmore of the following:\n• Ventilatory support using high frequency oscillating ventilator (HFOV)\n• Use of IV bolus therapy, inotropic drugs, chronotropic drugs, calcium channel\nblockers or IV prostaglandin therapy\n• Active seizures, with need for anticonvulsants\n• Surgical repair of severe congenital defect, for example:\n- Omphalocele repair,\n- Bowel resection for necrotizing enterocolitis (NEC), or\n- Tracheoesophageal fistula repair\n• Inhaled nitric oxide (iNO)\n• Extracorporeal membrane oxygenation (ECMO)\n• Therapeutic cooling\n• Hyperbilirubinemia requiring either:\n- Exchange transfusion, or\n- Intravenous immunoglobulin (IVIG) administration\n• Emergent event (for example, pulmonary arrest or cardiac arrest)"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Virginia Medicaid Payment Policy",
+      "level": 1,
+      "page_start": 14,
+      "page_end": 17,
+      "content": [
+        "To be reimbursed for a medically necessary NICU stay subject to DRG-based pricing, the provider must satisfy the requirements in this policy. During the NICU stay, the provider must provide all relevant documentation, such as medical records, for utilization management and leveling purposes. Humana uses all relevant documentation to assign the DRG for the case according to the table below. For a case that qualifies for more than one DRG, Humana assigns the DRG associated with the most complex services. Humana uses all relevant documentation to review the ICD-10-CM diagnosis codes reported on the claim according to the peer- reviewed literature definition and treatment requirements. If a reported diagnosis code does not satisfy the applicable requirement, it is not considered when calculating the DRG reimbursed. Humana reviews the level of care as reported by the NICU revenue code according to the table below. If the documentation associated with a charge for a NICU revenue code does not establish that the criteria associated with that revenue code were satisfied, reimbursement for the claim will instead be calculated using the highest NICU revenue code for which the criteria are satisfied."
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 14,
+          "page_end": 15,
+          "columns": [
+            "DRG code",
+            "Minimum criteria"
+          ],
+          "row_count": 29,
+          "rows": [
+            {
+              "DRG code": "580",
+              "Minimum criteria": "A neonate transferred from any hospital who is less than 5 days old and not born at\nthe current hospital"
+            },
+            {
+              "DRG code": "581",
+              "Minimum criteria": "A neonate transferred from any hospital who is less than 5 days old and born at the\ncurrent hospital"
+            },
+            {
+              "DRG code": "583",
+              "Minimum criteria": "A neonate with extracorporeal membrane oxygenation (ECMO)"
+            },
+            {
+              "DRG code": "588",
+              "Minimum criteria": "A neonate who has a birth weight less than 1500 grams with a major procedure"
+            },
+            {
+              "DRG code": "589",
+              "Minimum criteria": "A neonate who has a birth weight less than 500 grams, or a birth weight of 500\ngrams to 999 grams and a gestational age of less than 24 weeks, or a birth weight of\n500 grams to 749 grams with a major anomaly or without life sustaining intervention"
+            },
+            {
+              "DRG code": "591",
+              "Minimum criteria": "A neonate who has a birth weight of 500 grams to 749 grams without a major\nprocedure"
+            },
+            {
+              "DRG code": "593",
+              "Minimum criteria": "A neonate who has a birth weight of 750 grams to 999 grams without a major\nprocedure"
+            },
+            {
+              "DRG code": "602",
+              "Minimum criteria": "A neonate who has a birth weight of 1000 grams to 1249 grams with RDS or another\nmajor respiratory condition or major anomaly"
+            },
+            {
+              "DRG code": "603",
+              "Minimum criteria": "A neonate who has a birth weight of 1000 grams to 1249 grams with or without\nanother significant condition"
+            },
+            {
+              "DRG code": "607",
+              "Minimum criteria": "A neonate who has a birth weight of 1250 grams to 1499 grams with RDS or another\nmajor respiratory condition or major anomaly"
+            },
+            {
+              "DRG code": "608",
+              "Minimum criteria": "A neonate who has a birth weight of 1250 grams to 1499 grams with or without\nother significant condition"
+            },
+            {
+              "DRG code": "609",
+              "Minimum criteria": "A neonate who has a birth weight of 1500 grams to 2499 grams with a major\nprocedure"
+            },
+            {
+              "DRG code": "611",
+              "Minimum criteria": "A neonate who has a birth weight of 1500 grams to 1999 grams with a major\nanomaly"
+            },
+            {
+              "DRG code": "612",
+              "Minimum criteria": "A neonate who has a birth weight of 1500 grams to 1999 grams with RDS or another\nmajor respiratory condition"
+            },
+            {
+              "DRG code": "613",
+              "Minimum criteria": "A neonate who has a birth weight of 1500 grams to 1999 grams with a congenital or\nperinatal infection"
+            },
+            {
+              "DRG code": "614",
+              "Minimum criteria": "A neonate who has a birth weight of 1500 grams to 1999 grams with or without\nanother significant condition"
+            },
+            {
+              "DRG code": "621",
+              "Minimum criteria": "A neonate who has a birth weight of 2000 grams to 2499 grams with a major\nanomaly"
+            },
+            {
+              "DRG code": "622",
+              "Minimum criteria": "A neonate who has a birth weight of 2000 grams to 2499 grams with RDS or another\nmajor respiratory condition"
+            },
+            {
+              "DRG code": "623",
+              "Minimum criteria": "A neonate who has a birth weight of 2000 grams to 2499 grams with a congenital or\nperinatal infection"
+            },
+            {
+              "DRG code": "625",
+              "Minimum criteria": "A neonate who has a birth weight of 2000 grams to 2499 grams with another\nsignificant condition"
+            },
+            {
+              "DRG code": "626",
+              "Minimum criteria": "A normal newborn or neonate who has a birthweight of 2000 grams to 2499 grams\nwith another problem"
+            },
+            {
+              "DRG code": "630",
+              "Minimum criteria": "A neonate who has a birth weight greater than 2499 grams with a major\ncardiovascular procedure"
+            },
+            {
+              "DRG code": "631",
+              "Minimum criteria": "A neonate who has a birth weight greater than 2499 grams with another major\nprocedure"
+            },
+            {
+              "DRG code": "633",
+              "Minimum criteria": "A neonate who has a birth weight greater than 2499 grams with a major anomaly"
+            },
+            {
+              "DRG code": "634",
+              "Minimum criteria": "A neonate who has a birth weight greater than 2499 grams with RDS or another\nmajor respiratory condition"
+            },
+            {
+              "DRG code": "636",
+              "Minimum criteria": "A neonate who has a birth weight greater than 2499 grams with a congenital or\nperinatal infection"
+            },
+            {
+              "DRG code": "639",
+              "Minimum criteria": "A neonate who has a birth weight greater than 2499 grams with another significant\ncondition"
+            },
+            {
+              "DRG code": "640",
+              "Minimum criteria": "A normal newborn or neonate who has a birthweight greater than 2499 grams with\nanother problem"
+            },
+            {
+              "DRG code": "863",
+              "Minimum criteria": "Neonatal aftercare"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 16,
+          "page_end": 17,
+          "columns": [
+            "Nursery level",
+            "Revenue code",
+            "Minimum criteria"
+          ],
+          "row_count": 5,
+          "rows": [
+            {
+              "Nursery level": "Level 0",
+              "Revenue code": "0170",
+              "Minimum criteria": "Level 0 and Level 1 are considered newborn nursery.\nExamples include care to observe for:\n• Sepsis\n• Temperature instability\n• Feeding irregularities\n• Jaundice"
+            },
+            {
+              "Nursery level": "Level 1",
+              "Revenue code": "0171",
+              "Minimum criteria": ""
+            },
+            {
+              "Nursery level": "Level 2",
+              "Revenue code": "0172",
+              "Minimum criteria": "Neonate who is not severely ill but needs more hours of nursing and medical care than\ntypical neonates, as indicated by one or more of the following:\n• Ventilatory support using one of the following:\n- Hood oxygen, or\n- Less than or equal to two liters per minute of oxygen via nasal cannula\n• Administration of intravenous (IV) heplock medicines\n• Weaning from nasogastric (NG) or nasojejunal (NJ) tube feedings while trying to\nincrease oral intake, without need for IV fluids\n• Weaning from isolette or radiant warmer to open crib, without need for temperature\nsupport\n• Documented episodes of apnea, bradycardia or desaturation, for example:\n- Apnea countdown,\n- Titrating caffeine or preparing infant for home caffeine administration, or\n- Preparing infant for home monitor use for apnea, bradycardia or desaturation\n• Services for neonatal abstinence syndrome (NAS) when the Finnegan score is less\nthan or equal to 8\n• Services for neonatal jaundice requiring either:\n- Use of phototherapy, or\n- Monitoring of bilirubin levels less frequently than every 12 hours\n• Supportive care for growing premature infant, or establishing weight gain"
+            },
+            {
+              "Nursery level": "Level 3",
+              "Revenue code": "0173",
+              "Minimum criteria": "Level 2 requirements are met\nand\nTemperature control modalities, such as isolette or radiant warmer, are in use\nand\nCondition requiring 6 to 12 hours of active nursing and medical evaluation, treatment and\nsupport, as evidenced by one or more of the following:\n• Ventilatory support using one of the following:\n- Greater than two liters per minute of oxygen via nasal cannula,\n- High flow nasal cannula,\n- Continuous positive airway pressure (CPAP),\n- Stable chronic mechanical ventilation (on home ventilator settings), or\n- Conventional ventilator\n• Umbilical venous catheter (UVC) or invasive cardiopulmonary monitoring (CPM)\n• Hypoglycemia requiring D-10 bolus therapy\n• Nothing by mouth (NPO) with either:\n- All NG feedings, or\n- Total parenteral nutrition (TPN)\n• Services for NAS with one of the following:\n- Three consecutive Finnegan scores greater than or equal to 8,\n- Two consecutive Finnegan scores greater than or equal to 12, or\n- Pharmacologic management of NAS"
+            },
+            {
+              "Nursery level": "Level 4",
+              "Revenue code": "0174",
+              "Minimum criteria": "Level 3 requirements are met\nand\nOther condition that requires ongoing evaluation, active management, or therapy\nadjustment with near continuous nursing and medical support, as evidenced by one or\nmore of the following:\n• Ventilatory support using high frequency oscillating ventilator (HFOV)\n• Use of IV bolus therapy, inotropic drugs, chronotropic drugs, calcium channel\nblockers or IV prostaglandin therapy\n• Active seizures, with need for anticonvulsants\n• Surgical repair of severe congenital defect, for example:\n- Omphalocele repair,\n- Bowel resection for necrotizing enterocolitis (NEC), or\n- Tracheoesophageal fistula repair\n• Inhaled nitric oxide (iNO)\n• Extracorporeal membrane oxygenation (ECMO)\n• Therapeutic cooling\n• Hyperbilirubinemia requiring either:\n- Exchange transfusion, or\n- Intravenous immunoglobulin (IVIG) administration\n• Emergent event (for example, pulmonary arrest or cardiac arrest)"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 17,
+      "page_end": 18,
+      "content": [
+        "• Centers for Medicare & Medicaid Services website. ICD-10 . www.cms.gov. • Centers for Medicare & Medicaid Services website. MS-DRG Classifications and Software . MS-DRG Definitions Manual and Software. www.cms.gov. • Centers for Disease Control and Prevention website. National Center for Health Statistics. ICD-10-CM . www.cdc.gov. • National Institutes of Health website. National Institute of Health: National Library of Medicine-National Center for Biotechnology Information. Neonatal Respiratory Distress Syndrome . www.ncbi.nlm.nih.gov. • National Institutes of Health website. National Institute of Health: National Heart, Lung and Blood Institute. Newborn Breathing Conditions: Respiratory Distress Syndrome (RDS) . www.nhlbi.nih.gov. • Florida Agency for Health Care Administration website. Medicaid . ahca.myflorida.com. • Florida Agency for Health Care Administration website. Diagnosis Related Group (DRG) Inpatient Payment Review . ahca.myflorida.com. • Kentucky Cabinet for Health and Family Services website. Department for Medicaid Services . chfs.ky.gov. • Oklahoma Health Care Authority website. Oklahoma’s Medicaid Agency . www.oklahoma.gov. • Oklahoma Health Care Authority website. Payment for Newborns . www.oklahoma.gov. • South Carolina Department of Health and Humana Services website. Healthy Connections Medicaid . www.scdhhs.gov. • South Carolina Department of Health and Humana Services website. APR DRG . www.scdhhs.gov. • Virginia Department of Medical Assistance Services website. Virginia Medicaid . www.dmas.virginia.gov. • Virginia Department of Medical Assistance Services website. Hospital Rates . www.dmas.virginia.gov. • American Academy of Family Physicians website. Newborn Respiratory Distress . American Academy of Family Practice; American Family Physician. www.aafp.org. • American Academy of Pediatrics website. Levels of Neonatal Care . publications.aap.org. • American Academy of Pediatrics website. Respiratory Distress and Breathing Disorders in the Newborn . American Academy of Pediatrics Textbook of Pediatric Care. publications.aap.org. • American Academy of Pediatrics website. Standards for Level of Neonatal Care: II, III, and IV . publications.aap.org. • MCG Health. Neonatal Care, Intensive Care. • Merck & Co., Inc., website. Overview of Perinatal Respiratory Disorders . Merck Manual Professional Version. www.merckmanuals.com. • Riley, Laura, et al., editors. Guidelines for Perinatal Care. • Humana website. Humana Healthy Horizons in Florida . Humana.com. • Humana website. Humana Healthy Horizons in Kentucky . Humana.com. • Humana website. Humana Healthy Horizons in Oklahoma . Humana.com. • Humana website. Humana Healthy Horizons in South Carolina . Humana.com. • Humana website. Humana Healthy Horizons in Virginia . Humana.com"
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 18,
+      "page_end": 18,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": null,
+  "references": [
+    "Centers for Medicare & Medicaid Services website. ICD-10 . www.cms.gov. • Centers for Medicare & Medicaid Services website. MS-DRG Classifications and Software . MS-DRG Definitions Manual and Software. www.cms.gov. • Centers for Disease Control and Prevention website. National Center for Health Statistics. ICD-10-CM . www.cdc.gov. • National Institutes of Health website. National Institute of Health: National Library of Medicine-National Center for Biotechnology Information. Neonatal Respiratory Distress Syndrome . www.ncbi.nlm.nih.gov. • National Institutes of Health website. National Institute of Health: National Heart, Lung and Blood Institute. Newborn Breathing Conditions: Respiratory Distress Syndrome (RDS) . www.nhlbi.nih.gov. • Florida Agency for Health Care Administration website. Medicaid . ahca.myflorida.com. • Florida Agency for Health Care Administration website. Diagnosis Related Group (DRG) Inpatient Payment Review . ahca.myflorida.com. • Kentucky Cabinet for Health and Family Services website. Department for Medicaid Services . chfs.ky.gov. • Oklahoma Health Care Authority website. Oklahoma’s Medicaid Agency . www.oklahoma.gov. • Oklahoma Health Care Authority website. Payment for Newborns . www.oklahoma.gov. • South Carolina Department of Health and Humana Services website. Healthy Connections Medicaid . www.scdhhs.gov. • South Carolina Department of Health and Humana Services website. APR DRG . www.scdhhs.gov. • Virginia Department of Medical Assistance Services website. Virginia Medicaid . www.dmas.virginia.gov. • Virginia Department of Medical Assistance Services website. Hospital Rates . www.dmas.virginia.gov. • American Academy of Family Physicians website. Newborn Respiratory Distress . American Academy of Family Practice; American Family Physician. www.aafp.org. • American Academy of Pediatrics website. Levels of Neonatal Care . publications.aap.org. • American Academy of Pediatrics website. Respiratory Distress and Breathing Disorders in the Newborn . American Academy of Pediatrics Textbook of Pediatric Care. publications.aap.org. • American Academy of Pediatrics website. Standards for Level of Neonatal Care: II, III, and IV . publications.aap.org. • MCG Health. Neonatal Care, Intensive Care. • Merck & Co., Inc., website. Overview of Perinatal Respiratory Disorders . Merck Manual Professional Version. www.merckmanuals.com. • Riley, Laura, et al., editors. Guidelines for Perinatal Care. • Humana website. Humana Healthy Horizons in Florida . Humana.com. • Humana website. Humana Healthy Horizons in Kentucky . Humana.com. • Humana website. Humana Healthy Horizons in Oklahoma . Humana.com. • Humana website. Humana Healthy Horizons in South Carolina . Humana.com. • Humana website. Humana Healthy Horizons in Virginia . Humana.com"
+  ],
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 8,
+    "total_tables": 9,
+    "total_characters": 15343
+  }
+}

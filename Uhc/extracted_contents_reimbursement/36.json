@@ -1,0 +1,245 @@
+{
+  "policy_title": "Co-Surgeon/Team Surgeon Policy",
+  "policy_number": "2026R9010A",
+  "policy_dates": {
+    "effective_date": "6/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage Products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "The Co-Surgeon and Team Surgeon Policy identifies which procedures are eligible for Co-Surgeon and Team Surgeon services as identified by the Centers for Medicare and Medicaid Services (CMS) National Physician Fee Schedule (NPFS). A Co-Surgeon is identified by appending modifier 62 to the surgical code. A Team Surgeon is identified by appending modifier 66 to the surgical code."
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Co-Surgeon Services",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "Modifier 62 identifies a Co-Surgeon involved in the care of a patient at surgery. Each Co-Surgeon should submit the same Current Procedural Terminology (CPT) code with modifier 62 for the same date of service. For services included on the Co-Surgeon Eligible List (see below), UnitedHealthcare Medicare Advantage will reimburse Co-Surgeon services at 63% of the Allowable Amount to each surgeon, subject to additional multiple procedure reductions if applicable (see Multiple Procedure Reduction section, below). The Allowable Amount is determined independently for each surgeon and is calculated from the Allowable Amount that would be given to that surgeon performing the surgery without a Co-Surgeon. The reimbursable percentage amount (63%) of allowable is based on the rate adopted by CMS, which allows 62.5% of allowable to each Co-Surgeon."
+        },
+        {
+          "title": "Team Surgeon Services",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "Modifier 66 identifies Team Surgeons involved in the care of a patient during surgery. Each Team Surgeon should submit the same CPT code with modifier 66 for the same date of service. Each Team Surgeon is required to submit written medical documentation describing the specific surgeon's involvement in the total procedure. For services included on the Team Surgeon Eligible List (see below), UnitedHealthcare Medicare Advantage will review each submission with its appropriate medical documentation and will make reimbursement decisions on a case-by-case basis."
+        },
+        {
+          "title": "Co-Surgeon and Team Surgeon Eligible Services",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "The Co-Surgeon and Team Surgeon eligible services are based on the CMS NPFS status indicators. Under the NPFS Co-Surgeon Data Element there are two indicators that indicate services for which the two surgeons, each in a different specialty may be paid. The indicators are: - 1=Co-Surgeons could be paid, though supporting documentation is required to establish the medical necessity of two surgeons for the procedure - 2=Co-Surgeons permitted and no documentation required if the two-specialty requirement is met All codes in the NPFS with status code indicators \"1\" or \"2\" for \"Co-Surgeons\" are considered by UnitedHealthcare Medicare Advantage to be eligible for Co-Surgeon services as indicated by the Co-Surgeon modifier 62. Under the NPFS Team Surgeons Data Element there are two indicators that indicate services for which the Team Surgeons may be paid. The indicators are: - 1=Team Surgeons could be paid, though supporting documentation required to establish medical necessity of a team; pay by report - 2=Team Surgeons permitted; pay by report All codes in the NPFS with the status code indicators \"1\" or \"2\" for \"Team Surgeons\" are considered by UnitedHealthcare Medicare Advantage to be eligible for Team Surgeon services as indicated by the Team Surgeon modifier 66."
+        },
+        {
+          "title": "Multiple Procedure Reductions",
+          "level": 2,
+          "confirmed": true,
+          "page": 3,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "Multiple procedure reductions apply to Co-Surgeon and Team Surgeon claim submissions when one or more physicians are billing multiple CPT codes that are eligible for reductions."
+        },
+        {
+          "title": "Assistant Surgeon and Co-Surgeon Services During the Same Encounter",
+          "level": 2,
+          "confirmed": true,
+          "page": 3,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "UnitedHealthcare Medicare Advantage follows CMS guidelines and does not reimburse for Assistant Surgeon services, as indicated by modifiers 80, 81, 82, or AS, for procedures where reimbursement has been provided for eligible Co- Surgeon services, using the same surgical procedure code, during the same encounter, Same Individual Physician or Other Qualified Health Care Professional. If a Co-Surgeon acts as an Assistant Surgeon in the performance of additional procedure(s) during the same surgical session, the procedures are reimbursable services (if eligible per the NPFS Assistant Surgeon Eligibility indicator) when indicated by separate procedure code(s) with modifier 80 or modifier 82 added, as appropriate."
+        },
+        {
+          "title": "Simultaneous Bilateral Services",
+          "level": 2,
+          "confirmed": true,
+          "page": 3,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "Simultaneous bilateral services are those procedures in which each surgeon performs the same procedure on opposite sides. Each surgeon should report the simultaneous bilateral procedures with modifiers 50 and 62. Assistant Surgeon services will not be reimbursed services in addition to the simultaneous bilateral submission as described in the \"Assistant Surgeon and Co-Surgeon Services\" section in this policy."
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Allowable Amount",
+          "value": "Defined as the dollar amount eligible for reimbursement to the physician or other qualified health care professional on the claim. Contracted rate, reasonable charge, or billed charges are examples of an Allowable Amount, whichever is applicable. For percent of charge or discount contracts, the Allowable Amount is determined as the billed amount, less the discount."
+        },
+        {
+          "key": "Assistant Surgeon",
+          "value": "A Physician or other qualified health care professional who is assisting the physician performing a surgical procedure"
+        },
+        {
+          "key": "Co-Surgeons",
+          "value": "Several Physicians (usually with different specialties) working together as primary surgeons performing distinct part(s) of a procedure. Claims submitted by Co-Surgeons are identified with modifier 62."
+        },
+        {
+          "key": "Team Surgeons",
+          "value": "Three or more Physicians surgeons (with different or same specialties) working together during an operative session in the management of a specific surgical procedure. Claims submitted by Team Surgeons are identified with modifier 66."
+        },
+        {
+          "key": "Physician",
+          "value": "A Doctor of Medicine (MD) or Doctor of Osteopathy (DO)"
+        },
+        {
+          "key": "Same Individual Physician or Other Qualified Health Care Professional",
+          "value": "The same individual rendering health care services reporting the same National Provider Identifier (NPI)."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Why does UnitedHealthcare Medicare Advantage not allow reimbursement for non-physicians performing Co-Surgeon services?",
+            "A": "CMS claims processing manual guidelines for co-surgery refers to surgical procedures involving two different surgeons, usually of different specialties."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Can a surgeon bill the 62 modifier or bill separately for the closure of a surgical incision?",
+            "A": "Closure of a surgical incision is included in the global surgical package. Separate codes for closure are generally not allowed. The CPT code descriptor may define more specifically the closure services included in a given procedure. For example: Spinal arthrodesis, posterior or posterolateral technique (CPT Code 22612). The code description indicates: \"The periosteum, ligaments and paravertebral muscles are sutured to secure the bone grafting. The skin and subcutaneous tissues are closed in layers with sutures.\" If a different surgeon performs the closure of the surgical site, the services would correctly be billed by both surgeons appending the co-surgeon modifier (62) to the primary CPT Code. In this example, CPT Code 22612-62 could be billed by an orthopedic spine surgeon and a plastic surgeon."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "Can two surgeons of the same specialty bill the 62 modifier for a procedure?",
+            "A": "In certain circumstances, co-surgeons may be of the same or different specialties. To be considered for reimbursement, documentation is required supporting the co-surgeons working as the primary surgeon performing a distinct part or parts of the same procedure."
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "Q": "Can two surgeons use the 62 modifier for exposure of the operative field?",
+            "A": "Yes. To be considered for reimbursement, documentation is required supporting the co-surgeons working as the primary surgeon performing a distinct part or parts of the same procedure. For example: When an anterior approach to the spine is performed by a vascular surgeon followed by an anterior fusion performed by an orthopedic spine surgeon, the services would correctly be billed by both surgeons appending the co-surgeon modifier (62) to the primary CPT Code."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Codes",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        "CPT code section",
+        "National Physician Fee Schedule Relative Value File",
+        {
+          "key": "50",
+          "value": "62 66 80 81 82 AS"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov American Medical Association, Current Procedural Terminology (CPT) Centers for Medicare and Medicaid Services: PFS Relative Value Files CMS MLN Global Surgery Booklet The Medicare Learning Network (MLN): MLN Matters SE1322 Medicare Claims Processing Manual-Chapter 12-Physicians/Nonphysician Practitioners: Section 40.8"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 5,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "6/1/2026",
+          "value": "Policy Version Change Resource Section: Updated"
+        },
+        {
+          "key": "9/5/2025",
+          "value": "Policy Version Change Policy Section: Updated Definitions Section: Updated History Section: Entries Prior to 9/5/2023 archived"
+        },
+        {
+          "key": "6/1/2025",
+          "value": "Policy Version Change History Section: Entries Prior to 6/1/2023 archived"
+        },
+        {
+          "key": "6/1/2024",
+          "value": "Policy Version Change Application Section: Updated History Section: Entries Prior to 6/1/2022 archived"
+        },
+        {
+          "key": "8/13/2014",
+          "value": "New Policy"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "22612"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "62",
+    "66",
+    "80",
+    "81",
+    "82",
+    "AS",
+    "50"
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "policy_title": "Hepatic Fibrosis Testing Chronic Liver Disease Policy",
+  "policy_number": "2026R8223A",
+  "policy_dates": {
+    "effective_date": "9/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy describes the reimbursement methodology for serum testing for hepatic fibrosis subject to frequency limitations. Certain services are also not separately reimbursable."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "mixed",
+          "content": [
+            "Reimbursable",
+            "UnitedHealthcare will consider reimbursement of the following multianalyte assay testing procedure code(s) once every six months to distinguish hepatic cirrhosis from non-cirrhosis for individuals with any of the conditions listed below:",
+            "Procedure Code(s)",
+            "81517 81596",
+            "Condition(s) a. Hepatitis B b. Hepatitis C c. Metabolic dysfunction-associated steatotic liver disease (MASLD) (including metabolic dysfunction-associated steatohepatitis [MASH]). d. Alcoholic hepatitis.",
+            "Non-Reimbursable",
+            "UnitedHealthcare will not consider separate reimbursement of the following multianalyte assay procedure codes:",
+            "Procedure Code(s)",
+            {
+              "key": "0003M",
+              "value": "0166U 0344U 0468U"
+            },
+            "0002M"
+          ],
+          "subsections": [
+            {
+              "title": "Reimbursable",
+              "content": "UnitedHealthcare will consider reimbursement of the following multianalyte assay testing procedure code(s) once every six months to distinguish hepatic cirrhosis from non-cirrhosis for individuals with any of the conditions listed below:",
+              "procedure_codes": [
+                "81517",
+                "81596"
+              ],
+              "conditions": [
+                "a. Hepatitis B",
+                "b. Hepatitis C",
+                "c. Metabolic dysfunction-associated steatotic liver disease (MASLD) (including metabolic dysfunction-associated steatohepatitis [MASH]).",
+                "d. Alcoholic hepatitis."
+              ]
+            },
+            {
+              "title": "Non-Reimbursable",
+              "content": "UnitedHealthcare will not consider separate reimbursement of the following multianalyte assay procedure codes:",
+              "procedure_codes": [
+                "0002M",
+                "0003M",
+                "0166U",
+                "0344U",
+                "0468U"
+              ]
+            }
+          ],
+          "children": [
+            {
+              "title": "Definitions",
+              "level": 3,
+              "confirmed": true,
+              "page": 2,
+              "matched_via": "blue",
+              "type": "mixed",
+              "content": [
+                {
+                  "key": "Once every six months",
+                  "value": "One unit every 180 calendar days"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Is the frequency limitation based on individual provider per member?",
+            "A": "The frequency limitation is applicable regardless of billing and/or rendering provider (any individual provider OR any facility) for each individual member for the same date of service."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association, Current Procedural Terminology (CPT) and associated publications and services Centers for Medicare and Medicaid Services (CMS) Recovery Audit Contractors (RAC)"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "9/1/2026",
+          "value": "New Policy"
+        },
+        {
+          "key": "6/1/2026",
+          "value": "Policy published"
+        },
+        {
+          "key": "4/28/2026",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "81517",
+    "81596",
+    "0002M",
+    "0003M",
+    "0166U",
+    "0344U",
+    "0468U"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

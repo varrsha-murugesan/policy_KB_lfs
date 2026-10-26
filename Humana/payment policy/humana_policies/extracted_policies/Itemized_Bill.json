@@ -1,0 +1,83 @@
+{
+  "policy_metadata": {
+    "policy_title": "Itemized Bill",
+    "policy_number": "CP2012102",
+    "published_date": null,
+    "effective_date": "03/2012",
+    "revision_date": "05/2026",
+    "last_reviewed": "05/2026",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Facility",
+    "source_pdf": "Itemized_Bill_Revised-7be4eefd.pdf",
+    "total_pages": 2,
+    "related_policies": [
+      "Itemized Bill Review for Inpatient Routine Services, Outpatient Claim Itemized Bill Review"
+    ]
+  },
+  "clinical_codes": {
+    "all_codes": [],
+    "cpt_codes": [],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "An itemized bill is a statement that lists all healthcare services provided to a patient. A statement that lists groups of services or items, such as those reported by revenue codes, is not considered to be an itemized bill because revenue codes are categorical and do not describe exact services and items provided. This policy outlines Humana’s expectation that an itemized bill be made available to Humana upon request."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana reserves the right to request itemized bills, prior to payment when necessary, in order to confirm proper billing, as supported by Section 1815(a) and Section 1833(e) of the Social Security Act, Section 422.214(a)(2) of Title 42 of the Code of Federal Regulations, contract provisions and other relevant guidance. Any improper billing may result in a reduction or denial of payment for specific charges."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "• Social Security Administration website. Social Security Act. Title 18. Section 1815(a) – Payment to Provider of Services . www.ssa.gov. • Social Security Administration website. Social Security Act. Title 18. Section 1833(e) – Payment of Benefits . www.ssa.gov. • U.S. Government Publishing Office website. Code of Federal Regulations. Title 42. Section 422.214(a)(2) – Special Rules for Services Furnished by Noncontract Providers . www.ecfr.gov. • Centers for Medicare & Medicaid Services website. The Provider Reimbursement Manual. Part 1 . www.cms.gov. • Centers for Medicare & Medicaid Services website. The Provider Reimbursement Manual. Part 2 . www.cms.gov."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": null,
+  "references": [
+    "Social Security Administration website. Social Security Act. Title 18. Section 1815(a) – Payment to Provider of Services . www.ssa.gov. • Social Security Administration website. Social Security Act. Title 18. Section 1833(e) – Payment of Benefits . www.ssa.gov. • U.S. Government Publishing Office website. Code of Federal Regulations. Title 42. Section 422.214(a)(2) – Special Rules for Services Furnished by Noncontract Providers . www.ecfr.gov. • Centers for Medicare & Medicaid Services website. The Provider Reimbursement Manual. Part 1 . www.cms.gov. • Centers for Medicare & Medicaid Services website. The Provider Reimbursement Manual. Part 2 . www.cms.gov."
+  ],
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 4,
+    "total_tables": 0,
+    "total_characters": 2780
+  }
+}

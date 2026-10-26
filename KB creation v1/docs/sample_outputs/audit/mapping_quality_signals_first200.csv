@@ -1,0 +1,201 @@
+payer,policy_uid,policy_title,code_system,code,mapping_origin,confidence_tier,signal
+Humana,humana:07af210a740b,Acupuncture for Chronic Lower Back Pain,CPT,00002,inferred,C,ambiguous_candidate_set
+Humana,humana:e8a1db5db885,Chiropractic Services for Acute Treatment,CPT,00091,inferred,D,ambiguous_candidate_set
+Humana,humana:e8a1db5db885,Chiropractic Services for Acute Treatment,CPT,00092,inferred,D,ambiguous_candidate_set
+Humana,humana:e8a1db5db885,Chiropractic Services for Acute Treatment,CPT,00093,inferred,D,ambiguous_candidate_set
+Humana,humana:7205a838de3a,Screening Colonoscopy,CPT,00011,inferred,D,ambiguous_candidate_set
+Humana,humana:7205a838de3a,Screening Colonoscopy,CPT,00012,inferred,D,ambiguous_candidate_set
+UnitedHealthcare,unitedhealthcare:356f38266bc7,Acupuncture Policy,CPT,00001,inferred,C,ambiguous_candidate_set
+UnitedHealthcare,unitedhealthcare:356f38266bc7,Acupuncture Policy,CPT,00002,inferred,C,ambiguous_candidate_set
+UnitedHealthcare,unitedhealthcare:7d74debd69a5,Global Days Policy,CPT,00091,inferred,D,ambiguous_candidate_set
+UnitedHealthcare,unitedhealthcare:7d74debd69a5,Global Days Policy,CPT,00092,inferred,D,ambiguous_candidate_set
+UnitedHealthcare,unitedhealthcare:7d74debd69a5,Global Days Policy,CPT,00093,inferred,D,ambiguous_candidate_set
+UnitedHealthcare,unitedhealthcare:461ad94d1177,"Incident To Services, Professional - Reimbursement Policy",CPT,00001,inferred,D,ambiguous_candidate_set
+UnitedHealthcare,unitedhealthcare:461ad94d1177,"Incident To Services, Professional - Reimbursement Policy",CPT,00002,inferred,D,ambiguous_candidate_set
+UnitedHealthcare,unitedhealthcare:53328e37ba1d,Multiple Procedure Payment Reduction (MPPR) for Medical and Surgical Services Policy,CPT,00011,inferred,D,ambiguous_candidate_set
+UnitedHealthcare,unitedhealthcare:53328e37ba1d,Multiple Procedure Payment Reduction (MPPR) for Medical and Surgical Services Policy,CPT,00012,inferred,D,ambiguous_candidate_set
+UnitedHealthcare,unitedhealthcare:ff717b51a8db,Observation and Discharge Policy,CPT,00011,inferred,D,ambiguous_candidate_set
+UnitedHealthcare,unitedhealthcare:ff717b51a8db,Observation and Discharge Policy,CPT,00012,inferred,D,ambiguous_candidate_set
+Humana,humana:08f1ec0b53e7,Ambulance Services,HCPCS_L2,A0425,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:08f1ec0b53e7,Ambulance Services,HCPCS_L2,A0435,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:08f1ec0b53e7,Ambulance Services,HCPCS_L2,A0436,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:08f1ec0b53e7,Ambulance Services,HCPCS_L2,A0888,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6d587dc878ea,Anesthesia Services,CPT,00100,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6d587dc878ea,Anesthesia Services,CPT,01999,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6d587dc878ea,Anesthesia Services,CPT,99100,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6d587dc878ea,Anesthesia Services,CPT,99116,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6d587dc878ea,Anesthesia Services,CPT,99135,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6d587dc878ea,Anesthesia Services,CPT,99140,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:f753fce6f553,Assistant at Surgery Reimbursement,CPT,59514,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:f753fce6f553,Assistant at Surgery Reimbursement,CPT,59620,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:e8a1db5db885,Chiropractic Services for Acute Treatment,CPT,98940,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:e8a1db5db885,Chiropractic Services for Acute Treatment,CPT,98941,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:e8a1db5db885,Chiropractic Services for Acute Treatment,CPT,98942,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,CPT,59514,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,CPT,59620,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:d60732d67e3e,Emergency Department E/M Reimbursement,CPT,99281,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:d60732d67e3e,Emergency Department E/M Reimbursement,CPT,99282,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:d60732d67e3e,Emergency Department E/M Reimbursement,CPT,99283,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:d60732d67e3e,Emergency Department E/M Reimbursement,CPT,99284,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:d60732d67e3e,Emergency Department E/M Reimbursement,CPT,99285,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:d60732d67e3e,Emergency Department E/M Reimbursement,HCPCS_L2,G0380,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:d60732d67e3e,Emergency Department E/M Reimbursement,HCPCS_L2,G0381,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:d60732d67e3e,Emergency Department E/M Reimbursement,HCPCS_L2,G0382,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:d60732d67e3e,Emergency Department E/M Reimbursement,HCPCS_L2,G0383,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:d60732d67e3e,Emergency Department E/M Reimbursement,HCPCS_L2,G0384,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:7b9b70f37ae6,Initial Preventive Physical Examination and Annual Wellness Visit,HCPCS_L2,G0402,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:7b9b70f37ae6,Initial Preventive Physical Examination and Annual Wellness Visit,HCPCS_L2,G0438,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:7b9b70f37ae6,Initial Preventive Physical Examination and Annual Wellness Visit,HCPCS_L2,G0439,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:90824c33897e,Laboratory – Allergen Testing,CPT,0165U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:90824c33897e,Laboratory – Allergen Testing,CPT,0178U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:90824c33897e,Laboratory – Allergen Testing,CPT,82785,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:90824c33897e,Laboratory – Allergen Testing,CPT,86001,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:90824c33897e,Laboratory – Allergen Testing,CPT,86003,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:90824c33897e,Laboratory – Allergen Testing,CPT,86005,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:90824c33897e,Laboratory – Allergen Testing,CPT,86008,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:90824c33897e,Laboratory – Allergen Testing,CPT,88184,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:90824c33897e,Laboratory – Allergen Testing,CPT,88185,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,0206U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,0207U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,0289U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,0358U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,0393U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,0412U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,0443U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,0445U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,0459U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,0479U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,0503U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,0547U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,0548U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,0551U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,0568U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,0596U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,82233,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,82234,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,83520,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,83884,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,84393,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,CPT,84394,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:7d1b820abf26,Laboratory – Biomarker Testing for Autoimmune Rheumatic Disease,CPT,0062U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:7d1b820abf26,Laboratory – Biomarker Testing for Autoimmune Rheumatic Disease,CPT,0312U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:7d1b820abf26,Laboratory – Biomarker Testing for Autoimmune Rheumatic Disease,CPT,0446U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:7d1b820abf26,Laboratory – Biomarker Testing for Autoimmune Rheumatic Disease,CPT,0447U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:7d1b820abf26,Laboratory – Biomarker Testing for Autoimmune Rheumatic Disease,CPT,86038,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:7d1b820abf26,Laboratory – Biomarker Testing for Autoimmune Rheumatic Disease,CPT,86039,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:7d1b820abf26,Laboratory – Biomarker Testing for Autoimmune Rheumatic Disease,CPT,86235,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:dcc482091435,Laboratory – Biomarkers for Myocardial Infarction and Chronic Heart Failure,CPT,82550,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:dcc482091435,Laboratory – Biomarkers for Myocardial Infarction and Chronic Heart Failure,CPT,82552,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:dcc482091435,Laboratory – Biomarkers for Myocardial Infarction and Chronic Heart Failure,CPT,82553,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:dcc482091435,Laboratory – Biomarkers for Myocardial Infarction and Chronic Heart Failure,CPT,82554,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:dcc482091435,Laboratory – Biomarkers for Myocardial Infarction and Chronic Heart Failure,CPT,82725,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:dcc482091435,Laboratory – Biomarkers for Myocardial Infarction and Chronic Heart Failure,CPT,83006,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:dcc482091435,Laboratory – Biomarkers for Myocardial Infarction and Chronic Heart Failure,CPT,83625,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:dcc482091435,Laboratory – Biomarkers for Myocardial Infarction and Chronic Heart Failure,CPT,83874,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:dcc482091435,Laboratory – Biomarkers for Myocardial Infarction and Chronic Heart Failure,CPT,83880,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:dcc482091435,Laboratory – Biomarkers for Myocardial Infarction and Chronic Heart Failure,CPT,84484,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:dcc482091435,Laboratory – Biomarkers for Myocardial Infarction and Chronic Heart Failure,CPT,84512,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:dcc482091435,Laboratory – Biomarkers for Myocardial Infarction and Chronic Heart Failure,CPT,84588,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:dcc482091435,Laboratory – Biomarkers for Myocardial Infarction and Chronic Heart Failure,CPT,86140,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:77171f49f10b,Laboratory – Bone Turnover Markers Testing,CPT,83500,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:77171f49f10b,Laboratory – Bone Turnover Markers Testing,CPT,83505,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:77171f49f10b,Laboratory – Bone Turnover Markers Testing,CPT,83937,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:77171f49f10b,Laboratory – Bone Turnover Markers Testing,CPT,84080,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,0019M,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,0052U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,0308U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,0309U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,0377U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,0415U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,0541U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,80061,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,82172,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,82465,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,82610,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,83090,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,83695,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,83698,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,83700,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,83701,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,83704,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,83718,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,83719,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,83722,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,83880,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,84478,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,85384,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,85415,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,CPT,86140,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:7925ae165c8e,Laboratory – Diabetes Mellitus Testing,CPT,82951,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:7925ae165c8e,Laboratory – Diabetes Mellitus Testing,CPT,82952,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:7925ae165c8e,Laboratory – Diabetes Mellitus Testing,CPT,83037,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,82127,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,82136,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,82139,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,82300,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,82379,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,82380,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,82441,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,82495,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,82507,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,82525,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,82542,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,82653,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,82656,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,82705,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,82710,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,82715,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,82978,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,83015,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,83018,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,83150,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,83497,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,83735,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,83785,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,83885,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,83918,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,83919,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,83921,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,84134,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,84255,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,84446,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,84585,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,84590,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,84600,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,84630,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,86001,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,CPT,89125,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,HCPCS_L2,S3708,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:0cead8e506c4,Laboratory – Diagnosis of Vaginitis,CPT,81513,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:0cead8e506c4,Laboratory – Diagnosis of Vaginitis,CPT,81514,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:0cead8e506c4,Laboratory – Diagnosis of Vaginitis,CPT,81515,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:0cead8e506c4,Laboratory – Diagnosis of Vaginitis,CPT,82120,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:0cead8e506c4,Laboratory – Diagnosis of Vaginitis,CPT,87480,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:0cead8e506c4,Laboratory – Diagnosis of Vaginitis,CPT,87481,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:0cead8e506c4,Laboratory – Diagnosis of Vaginitis,CPT,87482,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:0cead8e506c4,Laboratory – Diagnosis of Vaginitis,CPT,87510,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:0cead8e506c4,Laboratory – Diagnosis of Vaginitis,CPT,87511,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:0cead8e506c4,Laboratory – Diagnosis of Vaginitis,CPT,87512,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:0cead8e506c4,Laboratory – Diagnosis of Vaginitis,CPT,87660,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:0cead8e506c4,Laboratory – Diagnosis of Vaginitis,CPT,87661,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:0cead8e506c4,Laboratory – Diagnosis of Vaginitis,CPT,87808,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:0cead8e506c4,Laboratory – Diagnosis of Vaginitis,CPT,87840,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:eb9aae12fd9f,Laboratory – Diagnostic Testing for Influenza,CPT,86710,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:eb9aae12fd9f,Laboratory – Diagnostic Testing for Influenza,CPT,87254,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:eb9aae12fd9f,Laboratory – Diagnostic Testing for Influenza,CPT,87275,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:eb9aae12fd9f,Laboratory – Diagnostic Testing for Influenza,CPT,87276,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:eb9aae12fd9f,Laboratory – Diagnostic Testing for Influenza,CPT,87400,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:eb9aae12fd9f,Laboratory – Diagnostic Testing for Influenza,CPT,87501,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:eb9aae12fd9f,Laboratory – Diagnostic Testing for Influenza,CPT,87502,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:eb9aae12fd9f,Laboratory – Diagnostic Testing for Influenza,CPT,87804,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:958d70d571d6,Laboratory – Diagnostic Testing of Iron Homeostasis and Metabolism,CPT,0024U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:958d70d571d6,Laboratory – Diagnostic Testing of Iron Homeostasis and Metabolism,CPT,0251U,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:3d550dfaf871,Laboratory – Epithelial Cell Cytology in Breast Cancer Risk Assessment,CPT,88108,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:3d550dfaf871,Laboratory – Epithelial Cell Cytology in Breast Cancer Risk Assessment,CPT,88112,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:c3bef6eefc64,Laboratory – Fecal Analysis in the Diagnosis of Intestinal Dysbiosis,CPT,82542,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:c3bef6eefc64,Laboratory – Fecal Analysis in the Diagnosis of Intestinal Dysbiosis,CPT,82710,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:c3bef6eefc64,Laboratory – Fecal Analysis in the Diagnosis of Intestinal Dysbiosis,CPT,82715,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:c3bef6eefc64,Laboratory – Fecal Analysis in the Diagnosis of Intestinal Dysbiosis,CPT,82725,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:c3bef6eefc64,Laboratory – Fecal Analysis in the Diagnosis of Intestinal Dysbiosis,CPT,82784,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:c3bef6eefc64,Laboratory – Fecal Analysis in the Diagnosis of Intestinal Dysbiosis,CPT,83986,explicit,C,explicit_code_not_in_kb_release
+Humana,humana:c3bef6eefc64,Laboratory – Fecal Analysis in the Diagnosis of Intestinal Dysbiosis,CPT,84311,explicit,C,explicit_code_not_in_kb_release

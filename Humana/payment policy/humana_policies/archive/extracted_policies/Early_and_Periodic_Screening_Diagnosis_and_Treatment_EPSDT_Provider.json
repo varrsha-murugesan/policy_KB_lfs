@@ -1,0 +1,106 @@
+{
+  "policy_metadata": {
+    "policy_title": "Early and Periodic Screening, Diagnosis and Treatment (EPSDT) Provider",
+    "policy_number": "CP2026007",
+    "published_date": "04/2026",
+    "effective_date": "04/2026",
+    "revision_date": null,
+    "last_reviewed": null,
+    "Line_of_Business": "Kentucky Medicaid",
+    "Billingclass": "Both",
+    "source_pdf": "Early_and_Periodic_Screening_Diagnosis_and_Treatment_EPSDT_Provider_New-e773d479.pdf",
+    "total_pages": 2,
+    "related_policies": [
+      "Modifiers for Occupational Therapy, Physical Therapy and Speech Language Pathology"
+    ]
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "59",
+      "GN",
+      "GO",
+      "GP"
+    ],
+    "cpt_codes": [],
+    "hcpcs_codes": [],
+    "modifiers": [
+      "59",
+      "GN",
+      "GO",
+      "GP"
+    ],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "This policy outlines Humana’s billing requirements for providers reporting early and periodic screening, diagnosis and treatment (EPSDT) for occupational therapy, physical therapy and speech language pathology services."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Kentucky Medicaid Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana requires an EPSDT provider to report therapy services as follows: • The billing provider’s National Provider Identifier (NPI) and taxonomy code must correspond to the state-assigned provider type of 45. • The procedure code billed must be included on the state-published speech therapy, physical therapy or occupational therapy fee schedules. • Modifier EP is required and must be listed in the first modifier position. • Modifier GN, GO or GP is required, based on the specialty of the rendering provider, in a modifier position other than the first. • Modifier 59 is required, in a modifier position other than the first, if multiple therapy types are administered to the same member on the same date of service."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "• Modifier EP : Service provided as part of Medicaid early periodic diagnosis and treatment • Modifier 59 : Distinct procedural service • Modifier GN : Services delivered under an outpatient speech language pathology plan of care • Modifier GO : Services delivered under an outpatient occupational therapy plan of care • Modifier GP : Services delivered under an outpatient physical therapy plan of care"
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "• Kentucky Cabinet for Health and Family Services website. Department for Medicaid Services . chfs.ky.gov. • Kentucky Cabinet for Health and Family Services website. Early Periodic Screening Diagnosis and Treatment Services – Screening . chfs.ky.gov • Kentucky Cabinet for Health and Family Services website. Early Periodic Screening Diagnosis and Treatment Services – Special Services . chfs.ky.gov • Kentucky Cabinet for Health and Family Services website. Provider Billing Instructions for EPSDT Treatment Services Provider Type – 45 . kymmis.com • Humana website. Humana Healthy Horizons in Kentucky . Humana.com."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Modifier EP": "Service provided as part of Medicaid early periodic diagnosis and treatment • Modifier 59 : Distinct procedural service • Modifier GN : Services delivered under an outpatient speech language pathology plan of care • Modifier GO : Services delivered under an outpatient occupational therapy plan of care • Modifier GP : Services delivered under an outpatient physical therapy plan of care"
+  },
+  "references": [
+    "Kentucky Cabinet for Health and Family Services website. Department for Medicaid Services . chfs.ky.gov. • Kentucky Cabinet for Health and Family Services website. Early Periodic Screening Diagnosis and Treatment Services – Screening . chfs.ky.gov • Kentucky Cabinet for Health and Family Services website. Early Periodic Screening Diagnosis and Treatment Services – Special Services . chfs.ky.gov • Kentucky Cabinet for Health and Family Services website. Provider Billing Instructions for EPSDT Treatment Services Provider Type – 45 . kymmis.com • Humana website. Humana Healthy Horizons in Kentucky . Humana.com."
+  ],
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 5,
+    "total_tables": 0,
+    "total_characters": 3241
+  }
+}

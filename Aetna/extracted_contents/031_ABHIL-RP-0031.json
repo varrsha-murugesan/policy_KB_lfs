@@ -1,0 +1,133 @@
+{
+  "policy_title": "COVID-19 Services",
+  "policy_number": "ABHIL-RP-0031",
+  "effective_date": "05/01/2023",
+  "expiry_date": "04/01/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "87635",
+    "87636",
+    "87637",
+    "91300",
+    "91301",
+    "91305",
+    "91306",
+    "91307",
+    "91308",
+    "91309",
+    "91311",
+    "M0201",
+    "M0220",
+    "M0223",
+    "M0240",
+    "M0241",
+    "M0243",
+    "M0248",
+    "Q0220",
+    "Q0221",
+    "Q0222",
+    "Q0240",
+    "Q0243",
+    "Q0244",
+    "Q0245",
+    "Q0247",
+    "U0001",
+    "U0002"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for COVID-19 related services when appropriately reported. \nAppropriate reporting includes \n• \nVaccine administration provided inside the patients’ home is the only vaccine \nadministration reported on the specific date of service \n• \nUnauthorized COVID-19 vaccines and/ or vaccine administration codes are not reported \n• \nReporting a pediatric vaccine administration code for patients between 5 through 11 years \nof age \n• \nA maximum unit of one per day is reported for nucleic-acid based SARS-CoV-2 viral tests \nby any provider \n• \nThe 59 modifier is appended to additional nucleic-acid based SARS-CoV-2 viral tests by \nany provider on the same date of service to indicate a testing for a separate sample from \nthe same patient \n \nClaims that are submitted will be denied when \n• \nVaccine administration provided inside the patients’ home is reported on the same date of \nservice as any other vaccine administration code \n• \nUnauthorized COVID-19 vaccines and/ or vaccine administration codes are reported \n• \nPediatric vaccine administration codes are reported for patients younger than 5 years of \nage or 12 years of age and older \n• \n2 or more units per date of service is reported for nucleic-acid based SARS-CoV-2 viral \ntests by any provider without appending the 59 modifier to additional units \n \nThe medical record documentation is expected to support the specific CPT, HCPCS code(s), \nICD-10-CM codes and modifiers reported.",
+    "subsections": [
+      {
+        "title": "Vaccine administration provided inside the patients’ home is the only vaccine",
+        "content": "administration reported on the specific date of service"
+      },
+      {
+        "title": "Unauthorized COVID-19 vaccines and/ or vaccine administration codes are not reported",
+        "content": "Unauthorized COVID-19 vaccines and/ or vaccine administration codes are not reported"
+      },
+      {
+        "title": "Reporting a pediatric vaccine administration code for patients between 5 through 11 years",
+        "content": "of age"
+      },
+      {
+        "title": "A maximum unit of one per day is reported for nucleic-acid based SARS-CoV-2 viral tests",
+        "content": "by any provider"
+      },
+      {
+        "title": "The 59 modifier is appended to additional nucleic-acid based SARS-CoV-2 viral tests by",
+        "content": "any provider on the same date of service to indicate a testing for a separate sample from the same patient Claims that are submitted will be denied when"
+      },
+      {
+        "title": "Vaccine administration provided inside the patients’ home is reported on the same date of",
+        "content": "service as any other vaccine administration code"
+      },
+      {
+        "title": "Unauthorized COVID-19 vaccines and/ or vaccine administration codes are reported",
+        "content": "Unauthorized COVID-19 vaccines and/ or vaccine administration codes are reported"
+      },
+      {
+        "title": "Pediatric vaccine administration codes are reported for patients younger than 5 years of",
+        "content": "age or 12 years of age and older"
+      },
+      {
+        "title": "2 or more units per date of service is reported for nucleic-acid based SARS-CoV-2 viral",
+        "content": "tests by any provider without appending the 59 modifier to additional units The medical record documentation is expected to support the specific CPT, HCPCS code(s), ICD-10-CM codes and modifiers reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for COVID-19 related services when appropriately reported.\nAppropriate reporting includes\n• Vaccine administration provided inside the patients’ home is the only vaccine\nadministration reported on the specific date of service\n• Unauthorized COVID-19 vaccines and/ or vaccine administration codes are not reported\n• Reporting a pediatric vaccine administration code for patients between 5 through 11 years\nof age\n• A maximum unit of one per day is reported for nucleic-acid based SARS-CoV-2 viral tests\nby any provider\n• The 59 modifier is appended to additional nucleic-acid based SARS-CoV-2 viral tests by\nany provider on the same date of service to indicate a testing for a separate sample from\nthe same patient\nClaims that are submitted will be denied when\n• Vaccine administration provided inside the patients’ home is reported on the same date of\nservice as any other vaccine administration code\n• Unauthorized COVID-19 vaccines and/ or vaccine administration codes are reported\n• Pediatric vaccine administration codes are reported for patients younger than 5 years of\nage or 12 years of age and older\n• 2 or more units per date of service is reported for nucleic-acid based SARS-CoV-2 viral\ntests by any provider without appending the 59 modifier to additional units\nThe medical record documentation is expected to support the specific CPT, HCPCS code(s),\nICD-10-CM codes and modifiers reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "Applicable Vaccine Administration Code\nM0201 Administration of pneumococcal, influenza, hepatitis B, and/or COVID-19\nvaccine inside a patient's home; reported only once per individual home per\ndate of service when such vaccine administration(s) are performed at the\npatient's home\n0071A Pfizer-BioNTech Covid-19 Pediatric Vaccine (Orange Cap) – Administration;\n0072A *Note: Code range has been deleted from the AMA CPT code set as of 11/01/2023\n0073A\n0074A\nApplicable Nucleic Acid Testing Codes\n87635 Infectious agent detection by nucleic acid (DNA or RNA); severe acute\nrespiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease\n[COVID-19]), amplified probe technique",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "M0201",
+            "value": "Administration of pneumococcal, influenza, hepatitis B, and/or COVID-19\nvaccine inside a patient's home; reported only once per individual home per\ndate of service when such vaccine administration(s) are performed at the\npatient's home"
+          },
+          {
+            "key": "0071A\n0072A\n0073A\n0074A",
+            "value": "Pfizer-BioNTech Covid-19 Pediatric Vaccine (Orange Cap) – Administration;\n*Note: Code range has been deleted from the AMA CPT code set as of 11/01/2023"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "87635",
+            "value": "Infectious agent detection by nucleic acid (DNA or RNA); severe acute\nrespiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease\n[COVID-19]), amplified probe technique"
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. CPT Professional Edition 2026, AMA; 2025. \n2. American Medical Association. HCPCS Level II Professional 2026, AMA; 2025. \n3. Centers for Medicare & Medicaid Services. (2026, March 13). COVID-19 vaccine provider \ntoolkit, COVID-19 Monoclonal Antibodies. U.S. Department of Health and Human Services. \nhttps://www.cms.gov/covidvax-provider \n4. Illinois Department of Healthcare and Family Services. (2023). COVID-19 fee schedule \neffective September 15, 2023. https://hfs.illinois.gov/coronavirus.html"
+}

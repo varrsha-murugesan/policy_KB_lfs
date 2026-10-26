@@ -1,0 +1,165 @@
+{
+  "policy_title": "Flow Cytometry Policy",
+  "policy_number": "2026R8213A",
+  "policy_dates": {
+    "effective_date": "3/3/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy describes the reimbursement methodology for flow cytometry services when billed with designated conditions. Certain services are also subject to specific frequency limitations."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "NOTE: Procedure codes appearing in policy documents are included only as a general reference tool for each policy. They may not be all-inclusive.",
+          "children": [
+            {
+              "title": "Cell Markers",
+              "level": 3,
+              "confirmed": true,
+              "page": 2,
+              "matched_via": "blue",
+              "type": "mixed",
+              "content": [
+                "UnitedHealthcare will consider reimbursement of the following flow cytometry immunophenotyping of cell surface marker procedure codes when billed for any of the conditions listed below:",
+                "Procedure Code(s)",
+                {
+                  "key": "88184",
+                  "value": "88185 88187 88188 88189"
+                },
+                "Condition(s)",
+                "a. Cytopenias, lymphomas, leukemia, myeloproliferative and lymphoproliferative disorders, or myelodysplastic syndrome. b. B-cell monitoring for immunosuppressive disorders. c. T-cell monitoring for HIV infection and AIDS. d. Mast cell neoplasms. e. Paroxysmal nocturnal hemoglobinuria. f. Preoperative or post-operative monitoring of individuals who will undergo or who have undergone organ transplantation. g. Plasma cell disorders. h. Primary immunodeficiencies (PIDs). i. Primary platelet disorders, non-neoplastic. j. Red cell and white cell disorders, non-neoplastic. k. Malignant neoplasms.",
+                "UnitedHealthcare will not consider reimbursement of the flow cytometry immunophenotyping of cell surface marker procedure codes above for any other conditions.",
+                "Procedures Not Separately Reimbursable",
+                "Procedure codes 86355, 86356, 86357, 86359, 86360, 86361, 86367 for cell enumeration are not separately reimbursable if submitted in conjunction with codes 88184, 88185, 88187, 88188, 88189 per date of service."
+              ],
+              "subsections": [
+                {
+                  "title": "Procedures Not Separately Reimbursable",
+                  "content": "Procedure codes 86355, 86356, 86357, 86359, 86360, 86361, 86367 for cell enumeration are not separately reimbursable if submitted in conjunction with codes 88184, 88185, 88187, 88188, 88189 per date of service."
+                }
+              ]
+            },
+            {
+              "title": "Cell Cycle or DNA Analysis",
+              "level": 3,
+              "confirmed": true,
+              "page": 3,
+              "matched_via": "blue",
+              "type": "text",
+              "content": "Procedure code 88182 (flow cytometry-derived DNA content (DNA Index) or cell proliferative activity (S-phase fraction or % S-phase) is not reimbursable for prognostic or therapeutic purposes in the routine clinical management of cancers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": false,
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Does UnitedHealthcare require procedure codes 86355, 86356, 86357, 86359, 86360, 86361 and 86367 to be submitted on the same claim as procedure codes 88187, 88188 and 88189?",
+            "A": "Same or different claim regardless of billing and/or rendering provider (any individual OR any facility) for each individual member for the same date of service."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "3/3/2026",
+          "value": "Policy Version Change Policy Language Update in Overview and Limitations Sections Definitions Section Removed Q&A Section Updates"
+        },
+        {
+          "key": "12/01/2025",
+          "value": "New Policy"
+        },
+        {
+          "key": "9/1/2025",
+          "value": "Policy published"
+        },
+        {
+          "key": "8/26/2025",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "3/3/2026 Policy Version Change Policy Language Update in Overview and Limitations Sections Definitions Section Removed Q&A Section Updates 12/01/2025 New Policy 9/1/2025 Policy published 8/26/2025 Policy approved by the Reimbursement Policy Oversight Committee"
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "88184",
+    "88185",
+    "88187",
+    "88188",
+    "88189",
+    "86355",
+    "86356",
+    "86357",
+    "86359",
+    "86360",
+    "86361",
+    "86367",
+    "88182"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

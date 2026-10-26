@@ -1,0 +1,206 @@
+{
+  "policy_title": "B Bundle Codes Policy",
+  "policy_number": "2026R0100B",
+  "policy_dates": {
+    "effective_date": "1/18/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to services reported using the 1500 Health Insurance Claim Form (a/k/a CMS-1500) or its electronic equivalent or its successor form. This policy applies to all products, all network and non-network physicians and other qualified health care professionals, including, but not limited to, non-network authorized and percent of charge contract physicians and other qualified health care professionals.",
+      "children": [
+        {
+          "title": "United Healthcare Commercial",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all UnitedHealthcare Commercial benefit plans."
+        },
+        {
+          "title": "UnitedHealthcare Individual Exchange",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all Individual Exchange benefit plans in all states except for Mississippi."
+        }
+      ]
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "This document articulates UnitedHealthcare's policy regarding reimbursement to physicians or other health care professionals for codes which are assigned a status code \"B\" according to the Centers for Medicare and Medicaid Services (CMS) National Physician Fee Schedule (NPFS) Relative Value File."
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "All codes published on the NPFS Relative Value File are assigned a status code. The status code indicates whether the code is separately payable if the service is covered. Per the public use file that accompanies the NPFS Relative Value File, the following is stated for status code \"B\": \"Payment for covered services are always bundled into payment for other services not specified. If RVUs are shown, they are not used for Medicare payment. If these services are covered, payment for them is subsumed by the payment for the services to which they are incident. (An example is a telephone call from a hospital nurse regarding care of a patient).\" Consistent with CMS, UnitedHealthcare will not separately reimburse for specific Current Procedural Terminology (CPT) and Healthcare Common Procedure Coding System (HCPCS) codes assigned a status code \"B\" on the NPFS Relative Value File indicating a bundled procedure. B Bundle Codes are not reimbursable services regardless of whether they are billed alone or in conjunction with other services."
+    },
+    {
+      "title": "Codes",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "R0076",
+          "value": "20930 20936 22841 34839 36000 38204 38225 38226 38227"
+        },
+        {
+          "key": "90885",
+          "value": "90887 90889 92352 92353 92354 92355 92358 92371 92531"
+        },
+        {
+          "key": "92532",
+          "value": "92533 92534 93740 93770 94150 96902 97010 97602 99002"
+        },
+        {
+          "key": "99024",
+          "value": "99070 99071 99072 99080 99288 99366 99367 99368 99485"
+        },
+        {
+          "key": "99486",
+          "value": "A4270 A4550 G0269 G0501 Q3031 77417"
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "Q: Will UnitedHealthcare reimburse a B Bundle Code if a modifier is appended? A: No, B Bundle codes are not reimbursable with or without a modifier."
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "Centers for Medicare and Medicaid Services, Physician Fee Schedule (PFS) Relative Value Files Centers for Medicare and Medicaid Services, CMS Manual System and other publications and services"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1/18/2026",
+          "value": "Policy Version Change Updated the B Bundle Codes List History Section: Entries prior to 1/18/2024 archived"
+        },
+        {
+          "key": "1/1/2026",
+          "value": "Policy Version Change Updated the B Bundle Codes List History Section: Entries prior to 1/1/2024 archived"
+        },
+        {
+          "key": "3/9/2025",
+          "value": "Policy Version Change Updated the B Bundle Codes List History Section: Entries prior to 3/9/2023 archived"
+        },
+        {
+          "key": "1/1/2025",
+          "value": "Policy Version Change Updated the B Bundle Codes List History Section: Entries prior to 1/1/2023 archived"
+        },
+        {
+          "key": "4/1/2024",
+          "value": "Template Update"
+        },
+        {
+          "key": "8/1/2007",
+          "value": "Policy implemented by UnitedHealthcare Employer & Individual"
+        },
+        {
+          "key": "4/11/2007",
+          "value": "Policy approved by National Reimbursement Forum"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Commercial",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "R0076",
+    "20930",
+    "20936",
+    "22841",
+    "34839",
+    "36000",
+    "38204",
+    "38225",
+    "38226",
+    "38227",
+    "90885",
+    "90887",
+    "90889",
+    "92352",
+    "92353",
+    "92354",
+    "92355",
+    "92358",
+    "92371",
+    "92531",
+    "92532",
+    "92533",
+    "92534",
+    "93740",
+    "93770",
+    "94150",
+    "96902",
+    "97010",
+    "97602",
+    "99002",
+    "99024",
+    "99070",
+    "99071",
+    "99072",
+    "99080",
+    "99288",
+    "99366",
+    "99367",
+    "99368",
+    "99485",
+    "99486",
+    "A4270",
+    "A4550",
+    "G0269",
+    "G0501",
+    "Q3031",
+    "77417"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

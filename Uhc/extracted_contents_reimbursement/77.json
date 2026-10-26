@@ -1,0 +1,257 @@
+{
+  "policy_title": "Multiple Procedure Payment Reduction (MPPR) for Diagnostic Imaging Policy",
+  "policy_number": "2026R9020A",
+  "policy_dates": {
+    "effective_date": "5/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "The UnitedHealthcare Medicare Advantage policy is based on the Centers for Medicare and Medicaid Services (CMS) Multiple Procedure Payment Reduction (MPPR) Policy for those diagnostic imaging procedures where CMS assigns a Multiple Procedure Indicator (MPI) of 4 on the CMS National Physician Fee Schedule (NPFS). UnitedHealthcare Medicare Advantage has adopted CMS guidelines that when multiple diagnostic imaging procedures are performed in a single session, most of the clinical labor activities and most supplies, with the exception of film, are not performed or furnished twice. When multiple procedures are performed on the same day, by the Same Group Physician and/or Other Qualified Health Care Professional, reduction in reimbursement for secondary and subsequent procedures will occur. Payment at 100% for secondary and subsequent procedures would represent reimbursement for duplicative components of the primary procedure. Examples of clinical labor activities, not furnished twice, include but are not limited to: - Greeting the patient - Positioning and escorting the patient - Providing education and obtaining consent - Retrieving prior exams - Setting up the IV - Preparing and cleaning the room"
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Multiple Diagnostic Imaging Reductions (MDIR)",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "Diagnostic Imaging services subject to the multiple procedure rules are assigned a MPI of \"4\" on the NPFS. The Multiple Procedure Payment Reduction will be applied by payment amount. The service with the highest payment amount will be allowed at 100%. Payment for subsequent procedures will be based on the lower of (a) the actual charge, or (b) the fee schedule amount reduced by the appropriate percentage as set forth. UnitedHealthcare Medicare Advantage utilizes the CMS NPFS MPI of 4 and the Allowable Amount to determine which diagnostic imaging procedures are eligible for MDIR. Different MDIR percentages apply to the Professional Component (PC) and Technical Component (TC) portion of Global Services. MDIR applies when: - Multiple diagnostic imaging procedures with a MPI of 4 are performed on the same patient by the Same Group Physician and/or Other Qualified Health Care Professional during the Same Session. - A single imaging procedure subject to MDIR is submitted with multiple units. For example, code 73702 is submitted with 2 units. MDIR would apply to the second unit. MDIR will not apply when: - The diagnostic imaging procedure is the primary procedure as ranked based on the Allowable Amount assigned to the code (and modifier, when applicable), compared to other diagnostic imaging procedures billed during the Same Session. - Multiple diagnostic imaging procedures are billed, appended with Modifier 59 or Modifier XE to indicate the procedure was performed on the same day but not during the Same Session. - Multiple diagnostic imaging procedures are billed for the same patient on the same day but not by the Same Group Physician and/or Other Qualified Health Care Professional during the Same Session. - The imaging service does not have an MPI of 4."
+        },
+        {
+          "title": "Multiple Diagnostic Imaging Reduction (MDIR) Percentages",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "When the TC for two or more imaging procedures subject to MDIR are performed on the same patient by the Same Group Physician and/or Other Qualified Health Care Professional during the Same Session, UnitedHealthcare Medicare Advantage will reduce the Allowable Amount for the TC of the second and each subsequent procedure by 50%. UnitedHealthcare Medicare Advantage will regard the TC portion of the procedure(s) with the lower TC Allowable Amount, as subject to MDIR. In addition, when the PC for two or more imaging procedures subject to MDIR are performed on the same patient by the Same Group Physician and/or Other Qualified Health Care Professional at the Same Session, UnitedHealthcare Medicare Advantage will reduce the Allowable Amount for the PC of the second and each subsequent procedure by 25% for dates of service 1/1/2012 through 12/31/2016. Effective for dates of service on or after 1/1/2017, a 5% reduction is applied to the Allowable Amount for the PC component of the second and subsequent procedures. UnitedHealthcare Medicare Advantage will regard the PC portion of the procedure(s) with the lower PC Allowable Amount, as subject to MDIR."
+        },
+        {
+          "title": "Multiple Diagnostic Imaging Procedures Billed Globally",
+          "level": 2,
+          "confirmed": true,
+          "page": 3,
+          "matched_via": "bold",
+          "type": "mixed",
+          "content": [
+            "- Full payment is made for each PC and TC service with the highest payment under the NPFS. - Effective with claims date of service (DOS) on or after January 1, 2012, payment is made at 75 percent for subsequent PC services. - Effective with claims with DOS on or after January 1, 2017, payment is made at 95 percent for subsequent PC service. These percentages apply for services furnished by the Same Group Physician and/or Other Qualified Health Care Professional to the same patient in the Same Session on the same day. - Payment is made at 50 percent for subsequent TC services furnished by the Same Group Physician and/or Other Qualified Health Care Professional to the same patient in the Same Session on the same day. - The individual PC and TC services with the highest payments under the NPFS of globally billed services must be determined in order to calculate the reduction. - The Professional Component and Technical Component of eligible services is calculated at a percentage of the Global Service Allowable Amount, except when provided otherwise by a physician or other qualified health care professional contract. When a contract applies, payments for PC/TC eligible services are based on specific professional and technical fees contained within the contract's fee schedules or are paid at the percentage of charge level in the fee schedule.",
+            "As an example, the proposed payments are summarized in the following table:",
+            {
+              "key": "Procedure",
+              "value": "Procedure 1/1/2012 through 12/31/2016 Effective DOS January 1, 2017"
+            },
+            {
+              "key": "1",
+              "value": "2 Total Payment Total Payment"
+            },
+            {
+              "key": "$100.00",
+              "value": "$80.00 $160 ($100 + (.75 x $80)) $176 ($100 +(.95 x $80))"
+            },
+            {
+              "key": "$500.00",
+              "value": "$400.00 $700 ($500 + (.50 x $400)) $700 ($500 + (.50 x $400))"
+            },
+            {
+              "key": "$600.00",
+              "value": "$480.00 $860 ($600 + (.75 x $80) + (.50 x $400)) $876 ($600 + (.95 x $80) + (.50 x $400))"
+            }
+          ]
+        },
+        {
+          "title": "PC",
+          "level": 2,
+          "confirmed": true,
+          "page": 3,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "$100.00 $80.00 $160 ($100 + (.75 x $80)) $176 ($100 +(.95 x $80))"
+        },
+        {
+          "title": "TC",
+          "level": 2,
+          "confirmed": true,
+          "page": 3,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "$500.00 $400.00 $700 ($500 + (.50 x $400)) $700 ($500 + (.50 x $400))"
+        },
+        {
+          "title": "Global",
+          "level": 2,
+          "confirmed": true,
+          "page": 3,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "$600.00 $480.00 $860 ($600 + (.75 x $80) + (.50 x $400)) $876 ($600 + (.95 x $80) + (.50 x $400))"
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Allowable Amount",
+          "value": "Defined as the dollar amount eligible for reimbursement to the physician or other qualified health care professional on the claim. Contracted rate, reasonable charge, or billed charges are examples of an Allowable Amount, whichever is applicable. For percent of charge or discount contracts, the Allowable Amount is determined as the billed amount, less the discount."
+        },
+        {
+          "key": "Global Service",
+          "value": "A Global Service includes both a Professional Component and a Technical Component. When a physician or other qualified health care professional bills a Global Service, he or she is submitting for both the Professional Component and the Technical Component of that code. Submission of a Global Service asserts that the Same Individual Physician or Other Health Care Professional provided the supervision, interpretation and report of the professional services as well as the technician, equipment, and the facility needed to perform the procedure. In appropriate circumstances, the Global Service is identified by"
+        },
+        {
+          "key": "Multiple Diagnostic Imaging Reduction (MDIR)",
+          "value": "Multiple Diagnostic Imaging Reduction indicates the decrease in reimbursement calculated from the Allowable Amount on the claim."
+        },
+        {
+          "key": "Professional Component (PC)",
+          "value": "The Professional Component represents the physician or other qualified health care professional work portion (physician work/practice overhead/malpractice expense) of the procedure. The Professional Component is the physician or other health care professional supervision and interpretation of a procedure that is personally furnished to an individual patient, results in a written narrative report to be included in the patient's medical record, and directly contributes to the patient's diagnosis and/or treatment. In appropriate circumstances, it is identified by appending modifier 26 to the designated procedure code or by reporting a standalone code that describes the Professional Component only of a selected diagnostic test."
+        },
+        {
+          "key": "Same Group Physician and/or Other Qualified Health Care Professional",
+          "value": "All physicians and/or other qualified health care professionals of the same group reporting the same Federal Tax Identification number."
+        },
+        {
+          "key": "Same Session",
+          "value": "A single patient encounter that encompasses all of the services performed by the same physician or other qualified health care professional."
+        },
+        {
+          "key": "Technical Component (TC)",
+          "value": "The Technical Component is the performance (technician/equipment/facility) of the procedure. In appropriate circumstances, it is identified by appending modifier TC to the designated procedure code or by reporting a Standalone Code that describes the Technical Component only of a selected diagnostic test."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Does UnitedHealthcare Medicare Advantage apply a MDIR based on the place of service in which services are rendered?",
+            "A": "This policy applies to all claims reported on the CMS-1500 claim or its electronic equivalent (837P), regardless of place of service."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Does the MPPR for Diagnostic Imaging services apply to facilities?",
+            "A": "The Payment Reduction methodology described in this policy applies to multiple diagnostic imaging services furnished by the same physician, or by the Same Group Physician and/or Other Qualified Health Care Professional, to the same patient in the Same Session on the same day."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "If the Same Group Physician and/or Other Qualified Health Care Professional performs a complete ultrasound exam of the abdomen during a single session and reports code 76700, and it becomes necessary to then perform a repeat service later on the same day during a separate session which is reported with code 76700-76, will a multiple imaging reduction be applied to the repeated service reported as 76700-76?",
+            "A": "Yes, multiple imaging reductions will apply as the use of modifier 76 does not indicate that the imaging procedure was done at a separate session. The repeat procedure code 76700 should be appended with either Modifier 59 or XE (but not both) to indicate a distinct service was performed during a different session. Multiple imaging reductions will not apply to services appropriately billed with Modifier 59 or XE."
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "Q": "A patient comes in for multiple chest studies, first an ultrasound (CPT code 76604) is completed, and the patient is then moved to a different room for a CT angiography (CPT code 71275). Would this be considered a separate session?",
+            "A": "No, the need to move a patient to a different room does not constitute a separate session; it is a continuation of the same encounter."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 5,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov American Medical Association (AMA) Current Procedural Terminology (CPT) Centers for Medicare and Medicaid Services: PFS Relative Value Files, Transmittal 694, 1422, 1104 Medicare Claims Processing Manual - Chapter 23 - Fee Schedule Administration and Coding Requirements: Section 20.9.1.1, Addendum - MPFSDB File Record Layout and Field Descriptions The Medicare Learning Network (MLN): MLN Matters MM7747"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 5,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "5/1/2026",
+          "value": "Policy Version Change Resource section: Updated History section: Entries prior to 5/1/2024 archived"
+        },
+        {
+          "key": "5/1/2025",
+          "value": "Policy Version Change History section: Entries prior to 5/1/2023 archived"
+        },
+        {
+          "key": "5/1/2024",
+          "value": "Policy Version Change Application Section: Updated History section: Entries prior to 5/1/2022 archived"
+        },
+        {
+          "key": "2/27/2013",
+          "value": "Policy implemented by UnitedHealthcare Medicare Advantage"
+        },
+        {
+          "key": "2/13/2013",
+          "value": "Policy approved by the UnitedHealthcare Medicare Reimbursement Policy Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "73702",
+    "76700",
+    "76604",
+    "71275"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "59",
+    "XE",
+    "26",
+    "TC",
+    "76"
+  ]
+}

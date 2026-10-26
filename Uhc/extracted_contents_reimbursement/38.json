@@ -1,0 +1,185 @@
+{
+  "policy_title": "Diagnosis Code Requirement Policy",
+  "policy_number": "2026R9064A",
+  "policy_dates": {
+    "effective_date": "5/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy addresses reimbursement guidelines for reporting appropriate ICD-10-CM (International Classification of Diseases, Tenth Revision, Clinical Modification) diagnosis on an Inpatient and Outpatient Facility UB04 claim form or Professional CMS-1500 claim form or its electronic equivalent. The International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM) Official Guidelines for Coding and Reporting, developed through a collaboration of The Centers for Medicare and Medicaid Services (CMS), the National Center for Health Statistics (NCHS), and the Department of Health and Human Services (DHHS), provides clear direction on the coding and sequencing of diagnosis codes."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "mixed",
+          "content": [
+            "United Healthcare aligns with the official ICD-10-CM Guidelines for Coding and Reporting and requires the appropriate diagnosis be submitted on a claim and coded in accordance with the guidelines to be considered for reimbursement. Examples of these guidelines include, but are not limited to the following:",
+            "- Manifestation codes that describe the manifestation of an underlying disease, not the disease itself. Therefore, it cannot be reported as first listed or principal diagnosis. - \"Code first\" notes occur with certain codes that are not manifestation codes but may be due to an underlying cause. When present, the underlying condition is sequenced first, if known. - Sequela coding generally requires two codes: the condition or nature of the sequela first, and the sequela code second. Exceptions to this guideline are instances where the sequela code is followed by a manifestation code, or the sequela code has been expanded to include the manifestation(s). - Code malignant neoplasm of a transplanted organ as a transplant complication. Assign the appropriate code for complications of transplanted organs and tissue (category T86) first, followed by code C80.2. - For conditions caused by external or toxic agents, assign the appropriate code for the agent first (category T51-T65), followed by the condition code. For toxic effects in a pregnant patient, assign the code for the toxic effect first, followed by the code for the pregnancy. - Principal Diagnosis requiring a secondary diagnosis be submitted. For example, code Z51.89. - External causes of morbidity codes (V00-Y99) describe how the injury/health condition occurred, (traffic accident, fall, etc) and the intent of the injury/health condition (intentional/unintentional. Therefore, should not be used as principal diagnosis. - Factors that influence health status (Category of codes beginning with Z) describe the reason for the encounter. Certain Z codes may only be used as first listed or principal diagnosis. Other Z codes may only be listed as a secondary code based on the circumstances of the encounter. - Sepsis, Severe Sepsis, and Septic Shock (Category R65) - Mutually Exclusive Diagnosis Codes defined by Exclude1. An Excludes1 note indicates that the code excluded should never be used at the same time as the code above the Excludes1 note.",
+            "The International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM) Official Guidelines for Coding and Reporting should be consulted for the detailed descriptions of all diagnosis coding guidelines applicable to this policy.",
+            "Unacceptable Principal or Inappropriate Primary Diagnosis Codes",
+            "For a claim to be eligible for reimbursement, UnitedHealthcare requires the submission of the correct principal or primary diagnosis code in the appropriate location on the claim form. The table provided below delineates the proper allocation of the diagnosis code, in conjunction with the reference list, to provide guidance for the submission of the appropriate diagnosis code.",
+            {
+              "key": "Claim Type",
+              "value": "Claim Form Claim Field Diagnosis List"
+            }
+          ],
+          "subsections": [
+            {
+              "title": "Sepsis, Severe Sepsis, and Septic Shock (Category R65)",
+              "content": "•"
+            },
+            {
+              "title": "Mutually Exclusive Diagnosis Codes defined by Exclude1.  An Excludes1 note indicates that the code",
+              "content": "excluded should never be used at the same time as the code above the Excludes1 note. The International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM) Official Guidelines for Coding and Reporting should be consulted for the detailed descriptions of all diagnosis coding guidelines applicable to this policy."
+            },
+            {
+              "title": "Unacceptable Principal or Inappropriate Primary Diagnosis Codes",
+              "content": "For a claim to be eligible for reimbursement, UnitedHealthcare requires the submission of the correct principal or primary diagnosis code in the appropriate location on the claim form. The table provided below delineates the proper allocation of the diagnosis code, in conjunction with the reference list, to provide guidance for the submission of the appropriate diagnosis code. Claim Type Claim Form Claim Field Diagnosis List Inpatient Principal diagnosis in Box 67 on a UB-04 claim form or electronical equivalent Unacceptable Principal ICD-10-CM Diagnosis Codes List Outpatient Diagnosis in Box 67 on a UB-04 claim form or its electronical equivalent Inappropriate Primary ICD-10-CM Diagnosis Codes List Professional Diagnosis pointed to or linked as primary in box 24E (Diagnosis Pointer) on a CMS-1500 claim form or its electronic Inappropriate Primary ICD-10-CM Diagnosis Codes List"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Excludes1",
+          "value": "It means \"NOT CODED HERE!\" An Excludes1 note indicates that the code excluded should never be used at the same time as the code above the Excludes1 note."
+        },
+        {
+          "key": "Primary Diagnosis",
+          "value": "Primary diagnosis is the diagnosis to which the majority of the resources were applied."
+        },
+        {
+          "key": "Principal Diagnosis",
+          "value": "The principal diagnosis is defined in the Uniform Hospital Discharge Data Set (UHDDS) as \"the condition established after study to be chiefly responsible for occasioning the admission of the patient to the hospital for care.\""
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Is it appropriate to bill Q21.0 congenital malformations of cardiac septa with I51.0 acquired cardiac septal defect?",
+            "A": "No. A congenital form and an acquired form of the same condition cannot be reported together. Excludes1 Guidelines ensure the highest specificity that most accurately represents the members health condition through correct diagnosis coding."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "When an inappropriate diagnosis code is pointed to or linked as primary in box 24E on a CMS-1500 claim form or its electronic equivalent and there is more than one claim line, will the entire claim be denied?",
+            "A": "No. Only the claim line(s) associated with the diagnosis code inappropriately reported as primary in box 24E will be denied by this policy."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "When an inappropriate principal diagnosis code is submitted as the principal diagnosis in Box 67 of the UB-04 claim form or its electronic equivalent will the entire claim be denied?",
+            "A": "Yes. Inappropriately reporting diagnosis codes that are not found on the principal diagnosis list as the principal reason for admission in box 67 of the UB-04 claim form will result in the entire claim being denied by this policy."
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "Q": "Is there a list of Excludes1 diagnosis codes?",
+            "A": "Providers should refer to the official ICD-10-CM Guidelines for appropriate Excludes1 diagnoses."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov American Hospital Association (AHA) Centers for Medicare and Medicaid Services, CMS Manual System and other publications and services Centers for Disease Control and Prevention, International Classification of Diseases, 10th Revision, Clinical Modification Centers for Medicare and Medicaid Services - Acute Inpatient PPS, MS-DRG Classification and Software, Definition of Medicare Code Edits Centers for Medicare & Medicaid Services - FY 2022 IPPS Final Rule Home Page | CMS-Federal Register - Section d: Unacceptable Principal Diagnosis Edit Definitions of Medicare Code Edits V39.1 - Definitions of Medicare Code Edits-Section 9 Unacceptable Primary diagnosis Integrated Outpatient Code Editor (I/OCE)"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "5/1/2026",
+          "value": "Policy Version Change Anniversary Review"
+        },
+        {
+          "key": "5/1/2025",
+          "value": "Policy Version Change Resource Section: Updated"
+        },
+        {
+          "key": "7/12/2024",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "5/1/2024",
+          "value": "Policy Implemented by UnitedHealthcare Medicare Advantage"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [],
+  "ICD_CODES_USED": [
+    "T86",
+    "C80.2",
+    "T51",
+    "T65",
+    "Z51.89",
+    "V00",
+    "Y99",
+    "R65",
+    "Q21.0",
+    "I51.0",
+    "V39.1"
+  ],
+  "modifiers_used_here": []
+}

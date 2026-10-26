@@ -1,0 +1,198 @@
+{
+  "policy_metadata": {
+    "policy_title": "Laboratory – Onychomycosis Testing",
+    "policy_number": "LAB2023048",
+    "published_date": "07/2023",
+    "effective_date": "07/2023",
+    "revision_date": "12/2025",
+    "last_reviewed": "12/2025",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Professional",
+    "source_pdf": "Laboratory_-_Onychomycosis_Testing-439311c4.pdf",
+    "total_pages": 5,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "82542",
+      "87149",
+      "87150",
+      "87153",
+      "87480",
+      "87481",
+      "87482",
+      "87798",
+      "87801",
+      "88749"
+    ],
+    "cpt_codes": [
+      "82542",
+      "87149",
+      "87150",
+      "87153",
+      "87480",
+      "87481",
+      "87482",
+      "87798",
+      "87801",
+      "88749"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined for the Commercial Payment Policy will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. • For individuals with an onychomycosis Tinea unguium infection that is resistant to anti-fungal drug therapy, nucleic acid amplification testing (NAAT) for Candida (CPT code 87480*, CPT code 87481*) IS REIMBURSABLE . • NAAT (CPT code 87149*, CPT code 87150*, CPT code 87153*, CPT code 87482*, CPT code 87798*, CPT code 87801*) IS NOT REIMBURSABLE for any of the following conditions or symptoms: – Disorders of the toenail, such as onycholysis, nail dystrophy, Beau’s lines or yellowing of the nail – Onychomycosis • For the diagnosis of onychomycosis, the use of attenuated total reflectance Fourier-transform infrared (ATR-FTIR) spectroscopy (CPT code 88749) IS NOT REIMBURSABLE . • For the diagnosis of onychomycosis, testing for the presence of fungal-derived sterols (CPT code 82542) IS NOT REIMBURSABLE . Applicable procedures for Medicare Advantage plans"
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 1,
+          "page_end": 2,
+          "columns": [
+            "Procedure Code",
+            "Code Description"
+          ],
+          "row_count": 10,
+          "rows": [
+            {
+              "Procedure Code": "82542",
+              "Code Description": "Column chromatography, includes mass spectrometry, if performed (e.g., HPLC, LC, LC/MS,\nLC/MS-MS, GC, GC/MS-MS, GC/MS, HPLC/MS), non-drug analyte(s) not elsewhere specified,\nqualitative or quantitative, each specimen"
+            },
+            {
+              "Procedure Code": "87149*",
+              "Code Description": "Culture, typing; identification by nucleic acid (DNA or RNA) probe, direct probe technique, per\nculture or isolate, each organism probed"
+            },
+            {
+              "Procedure Code": "87150*",
+              "Code Description": "Culture, typing; identification by nucleic acid (DNA or RNA) probe, amplified probe technique,\nper culture or isolate, each organism probed"
+            },
+            {
+              "Procedure Code": "87153*",
+              "Code Description": "Culture, typing; identification by nucleic acid sequencing method, each isolate (e.g.,\nsequencing of the 16S rRNA gene)"
+            },
+            {
+              "Procedure Code": "87480*",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA); Candida species, direct probe\ntechnique"
+            },
+            {
+              "Procedure Code": "87481*",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA); Candida species, amplified probe\ntechnique"
+            },
+            {
+              "Procedure Code": "87482*",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA); Candida species, quantification"
+            },
+            {
+              "Procedure Code": "87798*",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA), not otherwise specified; amplified\nprobe technique, each organism"
+            },
+            {
+              "Procedure Code": "87801*",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA), multiple organisms; amplified\nprobe(s) technique"
+            },
+            {
+              "Procedure Code": "88749",
+              "Code Description": "Unlisted in vivo (e.g., transcutaneous) laboratory service"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Original Medicare Local Coverage Determinations (LCDs)",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 3,
+      "content": [
+        "87801 applies to all Medicare jurisdictions, except those states awarded to CGS Administrators, LLC; Noridian Healthcare Solutions, LLC; Palmetto GBA; and Wisconsin Physicians Service Insurance Corporation"
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 2,
+          "page_end": 3,
+          "columns": [
+            "Contractor Name",
+            "Policy Title",
+            "Policy Number",
+            "Procedure Code"
+          ],
+          "row_count": 6,
+          "rows": [
+            {
+              "Contractor Name": "CGS Administrators, LLC",
+              "Policy Title": "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+              "Policy Number": "L39038",
+              "Procedure Code": "87149\n87150\n87153\n87480\n87481\n87482\n87798\n87801"
+            },
+            {
+              "Contractor Name": "Noridian Healthcare\nSolutions, LLC",
+              "Policy Title": "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+              "Policy Number": "L39001",
+              "Procedure Code": "87149\n87150\n87153\n87480\n87481\n87482\n87798\n87801"
+            },
+            {
+              "Contractor Name": "Noridian Healthcare\nSolutions, LLC",
+              "Policy Title": "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+              "Policy Number": "L39003",
+              "Procedure Code": "87149\n87150\n87153\n87480\n87481\n87482\n87798\n87801"
+            },
+            {
+              "Contractor Name": "Palmetto GBA",
+              "Policy Title": "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+              "Policy Number": "L38988",
+              "Procedure Code": "87149\n87150\n87153\n87480\n87481\n87482\n87798\n87801"
+            },
+            {
+              "Contractor Name": "Wisconsin Physicians Service\nInsurance Corporation",
+              "Policy Title": "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+              "Policy Number": "L39044",
+              "Procedure Code": "87149\n87150\n87153\n87480\n87481\n87482"
+            },
+            {
+              "Contractor Name": "",
+              "Policy Title": "",
+              "Policy Number": "",
+              "Procedure Code": "87798\n87801"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 5,
+      "content": [
+        "AAP. (2018a). Tinea Corporis. In D. Kimberlin, M. Brady, M. Jackson, & S. Long (Eds.), Red Book: 2018 Report of the Committee on Infectious Diseases (pp. 801-804). American Academy of Pediatrics. https://doi.org/10.1542/9781610021470 AAP. (2018b). Tinea Pedis and Tinea Unguium (Onychomycosis). In D. Kimberlin, M. Brady, M. Jackson, & S. Long (Eds.), Red Book: 2018 Report of the Committee on Infectious Diseases (pp. 806-808). American Academy of Pediatrics. https://doi.org/10.1542/9781610021470 Abdallah, N. A., Said, M., Mahmoud, M. T., & Omar, M. A. (2019). Onychomycosis: Correlation between the dermoscopic patterns and fungal culture. J Cosmet Dermatol . https://doi.org/10.1111/jocd.13144 Achterman, R. R., & White, T. C. (2013). Dermatophytes. Curr Biol , 23 (13), R551-552. https://doi.org/10.1016/j.cub.2013.03.026 Aly, R., Winter, T., Hall, S., & Vlahovic, T. (2018). Topical Tavaborole in the Treatment of Onychomycosis Complicated by Dermatophytoma: A Post-hoc Assessment of Phase II Subjects. J Drugs Dermatol , 17 (3), 347-354. https://www.ncbi.nlm.nih.gov/pubmed/29537453 Ameen, M., Lear, J. T., Madan, V., Mohd Mustapa, M. F., & Richardson, M. (2014). British Association of Dermatologists' guidelines for the management of onychomycosis 2014. Br J Dermatol , 171 (5), 937-958. https://doi.org/10.1111/bjd.13358 Angulo-Rodríguez, A., Hernández-Ramírez, H., Vega-Memije, M. E., Toussaint-Caire, S., & Moreno-Coutiño, G. (2021). Subclinical Onychomycosis in Apparently Healthy Adults. Skin Appendage Disord , 7 (3), 180-182. https://doi.org/10.1159/000513316 Arndt, K., LeBoit, P., & Wintroub, B. (2016). Onychomycosis: Diagnosis, Treatment, and Prevention Strategies Seminars in Cutaneous Medicine and Surgery , 35 . https://www.globalacademycme.com/sites/default/files/documents/cme_activity/scms_supl_onychomycosis0316_v7_web.pd f BakoDx. (2023). Onychodystrophy PCR Testing. https://bakodx.com/services/onychodystrophy-pcr-test-terbinafine-resistance/ Bao, F., Fan, Y., Sun, L., Yu, Y., Wang, Z., Pan, Q., Yu, C., Liu, H., & Zhang, F. (2018). Comparison of fungal fluorescent staining and ITS rDNA PCR-based sequencing with conventional methods for the diagnosis of onychomycosis. J Eur Acad Dermatol Venereol , 32 (6), 1017-1021. https://doi.org/10.1111/jdv.14843 Bodman, M. A., & Krishnamurthy, K. (2022). Onychomycosis. In StatPearls . StatPearls Publishing LLC. https://www.ncbi.nlm.nih.gov/books/NBK441853/ Bongomin, F., Batac, C. R., Richardson, M. D., & Denning, D. W. (2018). A Review of Onychomycosis Due to Aspergillus Species. Mycopathologia , 183 (3), 485-493. https://doi.org/10.1007/s11046-017-0222-9 Bortolussi, R., & Martin, S. (2007, June 20, 2019). Antifungal agents for common outpatient paediatric infections . https://www.cps.ca/en/documents/position/antifungal-agents-common-infections Caldwell, B., Uchmanowicz, K., Kawalec, J. S., Petrofski, S., & Kurzel, C. (2020). Commercial Multiplex Polymerase Chain Reaction versus Periodic Acid-Schiff Testing for the Diagnosis of Onychomycosis. J Am Podiatr Med Assoc , 110 (6). https://doi.org/10.7547/18-048 Carney, C., Tosti, A., Daniel, R., Scher, R., Rich, P., DeCoster, J., & Elewski, B. (2011). A new classification system for grading the severity of onychomycosis: Onychomycosis Severity Index. Arch Dermatol , 147 (11), 1277-1282. https://doi.org/10.1001/archdermatol.2011.267 CDC. (2022, September 13, 2022). Fungal Nail Infections . https://www.cdc.gov/fungal/nail-infections.html Daggett, C., Brodell, R. T., Daniel, C. R., & Jackson, J. (2019). Onychomycosis in Athletes. Am J Clin Dermatol , 20 (5), 691-698. https://doi.org/10.1007/s40257-019-00448-4 De Bruyne, S., Speeckaert, R., Boelens, J., Hayette, M. P., Speeckaert, M., & Delanghe, J. (2019). Infrared spectroscopy as a novel tool to diagnose onychomycosis. Br J Dermatol , 180 (3), 637-646. https://doi.org/10.1111/bjd.17199 Ely, J. W., Rosenfeld, S., & Seabury Stone, M. (2014). Diagnosis and management of tinea infections. Am Fam Physician , 90 (10), 702-",
+        "710. https://www.aafp.org/afp/2014/1115/p702.html EuroImmun. (2023). EUROArray Dermatomycosis. https://www.dermatophyte-pcr.com/physicians-laboratories/euroarray- method.html Gallo, L., Cinelli, E., Fabbrocini, G., & Vastarella, M. (2019). A 15-year retrospective study on the prevalence of onychomycosis in psoriatic vs non-psoriatic patients: A new European shift from dermatophytes towards yeast. Mycoses , 62 (8), 659-664. https://doi.org/10.1111/myc.12925 Ghannoum, M., Mukherjee, P., Isham, N., Markinson, B., Rosso, J. D., & Leal, L. (2018). Examining the importance of laboratory and diagnostic testing when treating and diagnosing onychomycosis. Int J Dermatol , 57 (2), 131-138. https://doi.org/10.1111/ijd.13690 Gupta, A. K., Versteeg, S. G., & Shear, N. H. (2017). Onychomycosis in the 21st Century: An Update on Diagnosis, Epidemiology, and Treatment. J Cutan Med Surg , 21 (6), 525-539. https://doi.org/10.1177/1203475417716362 Gupta, A. K., Versteeg, S. G., & Shear, N. H. (2018). Confirmatory Testing Prior to Initiating Onychomycosis Therapy Is Cost-Effective. J Cutan Med Surg , 22 (2), 129-141. https://doi.org/10.1177/1203475417733461 Gupta, A. K., Versteeg, S. G., Shear, N. H., Piguet, V., Tosti, A., & Piraccini, B. M. (2019). A Practical Guide to Curing Onychomycosis: How to Maximize Cure at the Patient, Organism, Treatment, and Environmental Level. Am J Clin Dermatol , 20 (1), 123-133. https://doi.org/10.1007/s40257-018-0403-4 Gustafson, E., Bakotic, W., Bennett, L., Page, L., & McCarthy, L. (2019). DNA-based detection for onychomycosis correlates better to histopathology than does fungal culture. Dermatol Online J , 25 (7). https://pubmed.ncbi.nlm.nih.gov/31450272/ Haghani, I., Shams-Ghahfarokhi, M., Dalimi Asl, A., Shokohi, T., & Hedayati, M. T. (2019). Molecular identification and antifungal susceptibility of clinical fungal isolates from onychomycosis (uncommon and emerging species). Mycoses , 62 (2), 128-143. https://doi.org/10.1111/myc.12854 Ho, W. T., Li, Y., & Yang, S. (2019). Liquid chromatography-tandem mass spectrometry is effective for analysis of ergosterol in fungal-infected nails. Clin Exp Dermatol , 44 (4), e133-e139. https://doi.org/10.1111/ced.13933 Ipsum Diagnostics. (2022). PCR TESTING . Retrieved 11/23/2020 from https://ipsumdiagnostics.com/homepage/pcr-testing/ Joyce, A., Gupta, A. K., Koenig, L., Wolcott, R., & Carviel, J. (2019). Fungal Diversity and Onychomycosis An Analysis of 8,816 Toenail Samples Using Quantitative PCR and Next-Generation Sequencing. J Am Podiatr Med Assoc , 109 (1), 57-63. https://doi.org/10.7547/17-070 Koo, S. H., Teoh, Y. L., Koh, W. L., Ochi, H., Tan, S. K., Sim, D. M. F., Jiang, B., Tan, A. L., Tan, T. Y., & Lim, S. P. R. (2019). Development and validation of a real-time multiplex PCR assay for the detection of dermatophytes and Fusarium spp. J Med Microbiol , 68 (11), 1641-1648. https://doi.org/10.1099/jmm.0.001082 LabCorp. (2023). Fungus (Mycology) Culture . https://www.labcorp.com/tests/008482/fungus-mycology-culture Leung, K., J, M. L., Leong, K. F., Hon, K. L., Barankin, B., A, A. M. L., & A, H. C. W. (2020). Onychomycosis: An Updated Review. Recent Pat Inflamm Allergy Drug Discov . https://doi.org/10.2174/1872213x13666191026090713 Lipner, S. R., Joseph, W. S., Vlahovic, T. C., Scher, R. K., Rich, P., Ghannoum, M., Daniel, C. R., & Elewski, B. (2021). Therapeutic Recommendations for the Treatment of Toenail Onychomycosis in the US. J Drugs Dermatol , 20 (10), 1076-1084. https://pubmed.ncbi.nlm.nih.gov/34636509/ Lipner, S. R., & Scher, R. K. (2019). Onychomycosis: Clinical overview and diagnosis. J Am Acad Dermatol , 80 (4), 835-851. https://doi.org/10.1016/j.jaad.2018.03.062 Lubis, N. Z., Muis, K., & Nasution, L. H. (2018). Polymerase Chain Reaction-Restriction Fragment Length Polymorphism as a Confirmatory Test for Onychomycosis. Open Access Maced J Med Sci , 6 (2), 280-283. https://www.ncbi.nlm.nih.gov/pubmed/29531588 Martinez-Herrera, E. O., Arroyo-Camarena, S., Tejada-Garcia, D. L., Porras-Lopez, C. F., & Arenas, R. (2015). Onychomycosis due to opportunistic molds. An Bras Dermatol , 90 (3), 334-337. https://doi.org/10.1590/abd1806-4841.20153521 MicroGenDX. (2024). Podiatry Nail/Wound Care https://microgendx.com/podiatry-nail/ Mourad, B., Ismail, M., Hawwam, S., Msseha, M., & Hassan, R. (2019). Evaluation Of The Efficacy Of Fluorescent Staining And Chicago Sky Blue Staining As Methods For Diagnosis Of Dermatophytosis In Hair And Nails. Clin Cosmet Investig Dermatol , 12 , 751-758. https://doi.org/10.2147/ccid.S215661 Rios-Yuil, J. M. (2017). Onychomycosis Laboratory Diagnosis: Review. Current Fungal Infection Reports , 11 (3). https://link.springer.com/article/10.1007/s12281-017-0285-6 Romaszkiewicz, A., Bykowska, B., Zablotna, M., Sobjanek, M., Slawinska, M., & Nowicki, R. J. (2018). The prevalence and etiological factors of onychomycosis in psoriatic patients. Postepy Dermatol Alergol , 35 (3), 309-313. https://doi.org/10.5114/pdia.2017.68299 SSI. (2023). Instructions For Use PCR KITS . https://ssidiagnostica.com/international/solutions/pcr/ Trave, I., Cozzani, E., Canepa, P., Verdiani, S., & Parodi, A. (2021). Real-life applicability of the Euroarray dermatomycosis kit in the diagnosis of onychomycosis. Mycoses , n/a (n/a). https://doi.org/10.1111/myc.13405 Trevisan, F., Werner, B., & Pinheiro, R. L. (2019). Nail clipping in onychomycosis and comparison with normal nails and ungual",
+        "psoriasis. An Bras Dermatol , 94 (3), 344-347. https://doi.org/10.1590/abd1806-4841.20198301 Velasquez-Agudelo, V., & Cardona-Arias, J. A. (2017). Meta-analysis of the utility of culture, biopsy, and direct KOH examination for the diagnosis of onychomycosis. BMC Infect Dis , 17 (1), 166. https://doi.org/10.1186/s12879-017-2258-3 Vikor. (2020). Nail-ID™ . https://www.vikorscientific.com/test-menu/nail-id/ Westerberg, D. P., & Voyack, M. J. (2013). Onychomycosis: Current trends in diagnosis and treatment. Am Fam Physician , 88 (11), 762-770. https://www.aafp.org/afp/2013/1201/p762.html Wollina, U., Nenoff, P., Haroske, G., & Haenssle, H. A. (2016). The Diagnosis and Treatment of Nail Disorders. Dtsch Arztebl Int , 113 (29-30), 509-518. https://doi.org/10.3238/arztebl.2016.0509"
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": null,
+  "references": [
+    "AAP. (2018a). Tinea Corporis. In D. Kimberlin, M. Brady, M. Jackson, & S. Long (Eds.), Red Book: 2018 Report of the Committee on Infectious Diseases (pp. 801-804). American Academy of Pediatrics. https://doi.org/10.1542/9781610021470 AAP. (2018b). Tinea Pedis and Tinea Unguium (Onychomycosis). In D. Kimberlin, M. Brady, M. Jackson, & S. Long (Eds.), Red Book: 2018 Report of the Committee on Infectious Diseases (pp. 806-808). American Academy of Pediatrics. https://doi.org/10.1542/9781610021470 Abdallah, N. A., Said, M., Mahmoud, M. T., & Omar, M. A. (2019). Onychomycosis: Correlation between the dermoscopic patterns and fungal culture. J Cosmet Dermatol . https://doi.org/10.1111/jocd.13144 Achterman, R. R., & White, T. C. (2013). Dermatophytes. Curr Biol , 23 (13), R551-552. https://doi.org/10.1016/j.cub.2013.03.026 Aly, R., Winter, T., Hall, S., & Vlahovic, T. (2018). Topical Tavaborole in the Treatment of Onychomycosis Complicated by Dermatophytoma: A Post-hoc Assessment of Phase II Subjects. J Drugs Dermatol , 17 (3), 347-354. https://www.ncbi.nlm.nih.gov/pubmed/29537453 Ameen, M., Lear, J. T., Madan, V., Mohd Mustapa, M. F., & Richardson, M. (2014). British Association of Dermatologists' guidelines for the management of onychomycosis 2014. Br J Dermatol , 171 (5), 937-958. https://doi.org/10.1111/bjd.13358 Angulo-Rodríguez, A., Hernández-Ramírez, H., Vega-Memije, M. E., Toussaint-Caire, S., & Moreno-Coutiño, G. (2021). Subclinical Onychomycosis in Apparently Healthy Adults. Skin Appendage Disord , 7 (3), 180-182. https://doi.org/10.1159/000513316 Arndt, K., LeBoit, P., & Wintroub, B. (2016). Onychomycosis: Diagnosis, Treatment, and Prevention Strategies Seminars in Cutaneous Medicine and Surgery , 35 . https://www.globalacademycme.com/sites/default/files/documents/cme_activity/scms_supl_onychomycosis0316_v7_web.pd f BakoDx. (2023). Onychodystrophy PCR Testing. https://bakodx.com/services/onychodystrophy-pcr-test-terbinafine-resistance/ Bao, F., Fan, Y., Sun, L., Yu, Y., Wang, Z., Pan, Q., Yu, C., Liu, H., & Zhang, F. (2018). Comparison of fungal fluorescent staining and ITS rDNA PCR-based sequencing with conventional methods for the diagnosis of onychomycosis. J Eur Acad Dermatol Venereol , 32 (6), 1017-1021. https://doi.org/10.1111/jdv.14843 Bodman, M. A., & Krishnamurthy, K. (2022). Onychomycosis. In StatPearls . StatPearls Publishing LLC. https://www.ncbi.nlm.nih.gov/books/NBK441853/ Bongomin, F., Batac, C. R., Richardson, M. D., & Denning, D. W. (2018). A Review of Onychomycosis Due to Aspergillus Species. Mycopathologia , 183 (3), 485-493. https://doi.org/10.1007/s11046-017-0222-9 Bortolussi, R., & Martin, S. (2007, June 20, 2019). Antifungal agents for common outpatient paediatric infections . https://www.cps.ca/en/documents/position/antifungal-agents-common-infections Caldwell, B., Uchmanowicz, K., Kawalec, J. S., Petrofski, S., & Kurzel, C. (2020). Commercial Multiplex Polymerase Chain Reaction versus Periodic Acid-Schiff Testing for the Diagnosis of Onychomycosis. J Am Podiatr Med Assoc , 110 (6). https://doi.org/10.7547/18-048 Carney, C., Tosti, A., Daniel, R., Scher, R., Rich, P., DeCoster, J., & Elewski, B. (2011). A new classification system for grading the severity of onychomycosis: Onychomycosis Severity Index. Arch Dermatol , 147 (11), 1277-1282. https://doi.org/10.1001/archdermatol.2011.267 CDC. (2022, September 13, 2022). Fungal Nail Infections . https://www.cdc.gov/fungal/nail-infections.html Daggett, C., Brodell, R. T., Daniel, C. R., & Jackson, J. (2019). Onychomycosis in Athletes. Am J Clin Dermatol , 20 (5), 691-698. https://doi.org/10.1007/s40257-019-00448-4 De Bruyne, S., Speeckaert, R., Boelens, J., Hayette, M. P., Speeckaert, M., & Delanghe, J. (2019). Infrared spectroscopy as a novel tool to diagnose onychomycosis. Br J Dermatol , 180 (3), 637-646. https://doi.org/10.1111/bjd.17199 Ely, J. W., Rosenfeld, S., & Seabury Stone, M. (2014). Diagnosis and management of tinea infections. Am Fam Physician , 90 (10), 702-",
+    "710. https://www.aafp.org/afp/2014/1115/p702.html EuroImmun. (2023). EUROArray Dermatomycosis. https://www.dermatophyte-pcr.com/physicians-laboratories/euroarray- method.html Gallo, L., Cinelli, E., Fabbrocini, G., & Vastarella, M. (2019). A 15-year retrospective study on the prevalence of onychomycosis in psoriatic vs non-psoriatic patients: A new European shift from dermatophytes towards yeast. Mycoses , 62 (8), 659-664. https://doi.org/10.1111/myc.12925 Ghannoum, M., Mukherjee, P., Isham, N., Markinson, B., Rosso, J. D., & Leal, L. (2018). Examining the importance of laboratory and diagnostic testing when treating and diagnosing onychomycosis. Int J Dermatol , 57 (2), 131-138. https://doi.org/10.1111/ijd.13690 Gupta, A. K., Versteeg, S. G., & Shear, N. H. (2017). Onychomycosis in the 21st Century: An Update on Diagnosis, Epidemiology, and Treatment. J Cutan Med Surg , 21 (6), 525-539. https://doi.org/10.1177/1203475417716362 Gupta, A. K., Versteeg, S. G., & Shear, N. H. (2018). Confirmatory Testing Prior to Initiating Onychomycosis Therapy Is Cost-Effective. J Cutan Med Surg , 22 (2), 129-141. https://doi.org/10.1177/1203475417733461 Gupta, A. K., Versteeg, S. G., Shear, N. H., Piguet, V., Tosti, A., & Piraccini, B. M. (2019). A Practical Guide to Curing Onychomycosis: How to Maximize Cure at the Patient, Organism, Treatment, and Environmental Level. Am J Clin Dermatol , 20 (1), 123-133. https://doi.org/10.1007/s40257-018-0403-4 Gustafson, E., Bakotic, W., Bennett, L., Page, L., & McCarthy, L. (2019). DNA-based detection for onychomycosis correlates better to histopathology than does fungal culture. Dermatol Online J , 25 (7). https://pubmed.ncbi.nlm.nih.gov/31450272/ Haghani, I., Shams-Ghahfarokhi, M., Dalimi Asl, A., Shokohi, T., & Hedayati, M. T. (2019). Molecular identification and antifungal susceptibility of clinical fungal isolates from onychomycosis (uncommon and emerging species). Mycoses , 62 (2), 128-143. https://doi.org/10.1111/myc.12854 Ho, W. T., Li, Y., & Yang, S. (2019). Liquid chromatography-tandem mass spectrometry is effective for analysis of ergosterol in fungal-infected nails. Clin Exp Dermatol , 44 (4), e133-e139. https://doi.org/10.1111/ced.13933 Ipsum Diagnostics. (2022). PCR TESTING . Retrieved 11/23/2020 from https://ipsumdiagnostics.com/homepage/pcr-testing/ Joyce, A., Gupta, A. K., Koenig, L., Wolcott, R., & Carviel, J. (2019). Fungal Diversity and Onychomycosis An Analysis of 8,816 Toenail Samples Using Quantitative PCR and Next-Generation Sequencing. J Am Podiatr Med Assoc , 109 (1), 57-63. https://doi.org/10.7547/17-070 Koo, S. H., Teoh, Y. L., Koh, W. L., Ochi, H., Tan, S. K., Sim, D. M. F., Jiang, B., Tan, A. L., Tan, T. Y., & Lim, S. P. R. (2019). Development and validation of a real-time multiplex PCR assay for the detection of dermatophytes and Fusarium spp. J Med Microbiol , 68 (11), 1641-1648. https://doi.org/10.1099/jmm.0.001082 LabCorp. (2023). Fungus (Mycology) Culture . https://www.labcorp.com/tests/008482/fungus-mycology-culture Leung, K., J, M. L., Leong, K. F., Hon, K. L., Barankin, B., A, A. M. L., & A, H. C. W. (2020). Onychomycosis: An Updated Review. Recent Pat Inflamm Allergy Drug Discov . https://doi.org/10.2174/1872213x13666191026090713 Lipner, S. R., Joseph, W. S., Vlahovic, T. C., Scher, R. K., Rich, P., Ghannoum, M., Daniel, C. R., & Elewski, B. (2021). Therapeutic Recommendations for the Treatment of Toenail Onychomycosis in the US. J Drugs Dermatol , 20 (10), 1076-1084. https://pubmed.ncbi.nlm.nih.gov/34636509/ Lipner, S. R., & Scher, R. K. (2019). Onychomycosis: Clinical overview and diagnosis. J Am Acad Dermatol , 80 (4), 835-851. https://doi.org/10.1016/j.jaad.2018.03.062 Lubis, N. Z., Muis, K., & Nasution, L. H. (2018). Polymerase Chain Reaction-Restriction Fragment Length Polymorphism as a Confirmatory Test for Onychomycosis. Open Access Maced J Med Sci , 6 (2), 280-283. https://www.ncbi.nlm.nih.gov/pubmed/29531588 Martinez-Herrera, E. O., Arroyo-Camarena, S., Tejada-Garcia, D. L., Porras-Lopez, C. F., & Arenas, R. (2015). Onychomycosis due to opportunistic molds. An Bras Dermatol , 90 (3), 334-337. https://doi.org/10.1590/abd1806-4841.20153521 MicroGenDX. (2024). Podiatry Nail/Wound Care https://microgendx.com/podiatry-nail/ Mourad, B., Ismail, M., Hawwam, S., Msseha, M., & Hassan, R. (2019). Evaluation Of The Efficacy Of Fluorescent Staining And Chicago Sky Blue Staining As Methods For Diagnosis Of Dermatophytosis In Hair And Nails. Clin Cosmet Investig Dermatol , 12 , 751-758. https://doi.org/10.2147/ccid.S215661 Rios-Yuil, J. M. (2017). Onychomycosis Laboratory Diagnosis: Review. Current Fungal Infection Reports , 11 (3). https://link.springer.com/article/10.1007/s12281-017-0285-6 Romaszkiewicz, A., Bykowska, B., Zablotna, M., Sobjanek, M., Slawinska, M., & Nowicki, R. J. (2018). The prevalence and etiological factors of onychomycosis in psoriatic patients. Postepy Dermatol Alergol , 35 (3), 309-313. https://doi.org/10.5114/pdia.2017.68299 SSI. (2023). Instructions For Use PCR KITS . https://ssidiagnostica.com/international/solutions/pcr/ Trave, I., Cozzani, E., Canepa, P., Verdiani, S., & Parodi, A. (2021). Real-life applicability of the Euroarray dermatomycosis kit in the diagnosis of onychomycosis. Mycoses , n/a (n/a). https://doi.org/10.1111/myc.13405 Trevisan, F., Werner, B., & Pinheiro, R. L. (2019). Nail clipping in onychomycosis and comparison with normal nails and ungual",
+    "psoriasis. An Bras Dermatol , 94 (3), 344-347. https://doi.org/10.1590/abd1806-4841.20198301 Velasquez-Agudelo, V., & Cardona-Arias, J. A. (2017). Meta-analysis of the utility of culture, biopsy, and direct KOH examination for the diagnosis of onychomycosis. BMC Infect Dis , 17 (1), 166. https://doi.org/10.1186/s12879-017-2258-3 Vikor. (2020). Nail-ID™ . https://www.vikorscientific.com/test-menu/nail-id/ Westerberg, D. P., & Voyack, M. J. (2013). Onychomycosis: Current trends in diagnosis and treatment. Am Fam Physician , 88 (11), 762-770. https://www.aafp.org/afp/2013/1201/p762.html Wollina, U., Nenoff, P., Haroske, G., & Haenssle, H. A. (2016). The Diagnosis and Treatment of Nail Disorders. Dtsch Arztebl Int , 113 (29-30), 509-518. https://doi.org/10.3238/arztebl.2016.0509"
+  ],
+  "resources": null,
+  "_extraction_stats": {
+    "total_sections": 3,
+    "total_tables": 2,
+    "total_characters": 11972
+  }
+}

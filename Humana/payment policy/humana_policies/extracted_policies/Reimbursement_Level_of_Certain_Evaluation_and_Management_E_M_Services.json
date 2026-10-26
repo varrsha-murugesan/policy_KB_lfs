@@ -1,0 +1,78 @@
+{
+  "policy_metadata": {
+    "policy_title": "Reimbursement Level of Certain Evaluation and Management (E/M) Services",
+    "policy_number": "CP2024003",
+    "published_date": "04/2024",
+    "effective_date": "04/2024",
+    "revision_date": "10/2025",
+    "last_reviewed": "10/2025",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Both",
+    "source_pdf": "Reimbursement_Level_of_Certain_Evaluation_and_Management_E_M_Services-d84975c3.pdf",
+    "total_pages": 2,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "99204",
+      "99205",
+      "99214",
+      "99215"
+    ],
+    "cpt_codes": [
+      "99204",
+      "99205",
+      "99214",
+      "99215"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "This policy establishes Humana's reimbursement for higher-level evaluation and management (E/M) services in the code set for office or other outpatient services."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. The following policy applies to only professional services. Humana reviews the higher-level office or other outpatient E/M services, CPT codes 99204, 99205, 99214 and 99215, to determine the level for reimbursement. Humana determines the reimbursement level based on the severity of the patient’s condition. When the billed E/M service code is higher than what is supported by the claim diagnosis coding, Humana adjusts reimbursement to the E/M service level determined by the review."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": null,
+  "references": null,
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 3,
+    "total_tables": 0,
+    "total_characters": 1926
+  }
+}

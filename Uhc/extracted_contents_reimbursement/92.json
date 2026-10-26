@@ -1,0 +1,188 @@
+{
+  "policy_title": "Reduced Services and Discontinued Procedures Policy",
+  "policy_number": "2025R9033A",
+  "policy_dates": {
+    "effective_date": "11/1/2025",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "As defined in the Current Procedural Terminology (CPT) book, under certain circumstances a service or procedure is partially reduced or eliminated at the discretion of the physician or other qualified health care professional. Under these circumstances the service provided can be identified by its usual procedure number and the addition of Modifier 52 (Reduced Services), signifying that the service is reduced. This provides a means of reporting Reduced Services without disturbing the identification of the basic service. Modifier 52 is used to indicate partial reduction or discontinuation of radiology procedures and other services that do not require anesthesia. It is not appropriate to use Modifier 52 if a portion of the intended procedure was completed and a code exists which represents the completed portion of the intended procedure."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "Reduced Services There are no industry standards for reimbursement of claims billed with Modifier 52 from the Centers for Medicare and Medicaid Services (CMS) or other professional organizations. UnitedHealthcare Medicare Advantage standard for reimbursement of Modifier 52 is 50% of the Allowable Amount for the unmodified procedure. This modifier is not used to report the elective cancellation of a procedure before anesthesia induction, intravenous (IV) conscious sedation, and/or surgical preparation in the operating suite. Modifier 52 should not be used with an evaluation and management (E/M) service. Discontinued Procedures The term \"Discontinued Procedure\" designates a surgical or diagnostic procedure provided by a physician or other health care professional that was less than usually required for the procedure as defined in the Current Procedural Terminology (CPT) book. Professional Claims: Discontinued Procedures are reported by appending Modifier 53 (Discontinued Procedure). Modifier 53: indicates the physician elected to terminate a surgical or diagnostic procedure due to extenuating circumstances that threatened the well-being of the patient. It is not appropriate to use Modifier 53 if a portion of the intended procedure was completed and a code exists which represents the completed portion of the intended procedure. There are no industry standards for reimbursement of claims billed with Modifier 53 from the Centers for Medicare and Medicaid Services (CMS) or other professional organizations. UnitedHealthcare Medicare Advantage standard for reimbursement of Modifier 53 is 50% of the Allowable Amount for the unmodified procedure. Note: Modifier 53 is not applicable for facility billing and is not valid when billed with E&M or time-based codes. Facility Claims: Discontinued Procedures in a facility setting are reported by appending either Modifier 73 or Modifier 74. If the procedure was discontinued prior to the administration of anesthesia, Modifier 73 should be appended and will be reimbursed at 50% of the Allowable Amount for the unmodified procedure. If the procedure was discontinued after the administration of anesthesia, Modifier 74 should be appended and will be reimbursed at 100% of the Allowable Amount for the unmodified procedure. Note: Modifiers 73 and 74 are only used to indicate Discontinued Procedures for which anesthesia is planned or provided and are not applicable in a professional setting.",
+          "subsections": [
+            {
+              "title": "Reduced Services",
+              "content": "There are no industry standards for reimbursement of claims billed with Modifier 52 from the Centers for Medicare and Medicaid Services (CMS) or other professional organizations. UnitedHealthcare Medicare Advantage standard for reimbursement of Modifier 52 is 50% of the Allowable Amount for the unmodified procedure. This modifier is not used to report the elective cancellation of a procedure before anesthesia induction, intravenous (IV) conscious sedation, and/or surgical preparation in the operating suite. Modifier 52 should not be used with an evaluation and management (E/M) service."
+            },
+            {
+              "title": "Discontinued Procedures",
+              "content": "The term \"Discontinued Procedure\" designates a surgical or diagnostic procedure provided by a physician or other health care professional that was less than usually required for the procedure as defined in the Current Procedural Terminology (CPT®) book."
+            },
+            {
+              "title": "Professional Claims:",
+              "content": "Discontinued Procedures are reported by appending Modifier 53 (Discontinued Procedure). Modifier 53: indicates the physician elected to terminate a surgical or diagnostic procedure due to extenuating circumstances that threatened the well-being of the patient. It is not appropriate to use Modifier 53 if a portion of the intended procedure was completed and a code exists which represents the completed portion of the intended procedure. There are no industry standards for reimbursement of claims billed with Modifier 53 from the Centers for Medicare and Medicaid Services (CMS) or other professional organizations. UnitedHealthcare Medicare Advantage standard for reimbursement of Modifier 53 is 50% of the Allowable Amount for the unmodified procedure. Note: Modifier 53 is not applicable for facility billing and is not valid when billed with E&M or time-based codes."
+            },
+            {
+              "title": "Facility Claims:",
+              "content": "Discontinued Procedures in a facility setting are reported by appending either Modifier 73 or Modifier 74. If the procedure was discontinued prior to the administration of anesthesia, Modifier 73 should be appended and will be reimbursed at 50% of the Allowable Amount for the unmodified procedure. If the procedure was discontinued after the administration of anesthesia, Modifier 74 should be appended and will be reimbursed at 100% of the Allowable Amount for the unmodified procedure. Note: Modifiers 73 and 74 are only used to indicate Discontinued Procedures for which anesthesia is planned or provided and are not applicable in a professional setting."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Allowable Amount",
+          "value": "Defined as the dollar amount eligible for reimbursement to the physician or other qualified health care professional on the claim. Contracted rate, reasonable charge, or billed charges are examples of an Allowable Amount, whichever is applicable. For percent of charge or discount contracts, the Allowable Amount is determined as the billed amount, less the discount."
+        },
+        {
+          "key": "Discontinued Procedure",
+          "value": "Under certain circumstances, the physician or other qualified health care professional may elect to terminate a surgical or diagnostic procedure. Due to extenuating circumstances or those that threaten the well-being of the patient, it may be necessary to indicate that a surgical or diagnostic procedure was started but discontinued. This circumstance may be reported by adding Modifier 53 to the code reported by the individual for the discontinued procedure. For facility claims, discontinued procedures may be reported by appending Modifier 73 or Modifier 74."
+        },
+        {
+          "key": "Reduced Services",
+          "value": "Under certain circumstances a service or procedure is partially reduced or eliminated at the discretion of the physician or other qualified health care professional. Under these circumstances the service provided can be identified by its usual procedure number and the addition of modifier 52, signifying that the service is reduced. This provides a means of reporting reduced services without disturbing the identification of the basic service."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Is it appropriate to report Modifier 52 with radiologic studies or diagnostic services, e.g., post-reduction, post-intubation, post-catheter placement, angiogram, etc.?",
+            "A": "Yes, to communicate a reduced level of such a service it is appropriate to report the CPT or HCPCS code with Modifier 52 appended."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "The surgery was discontinued after anesthesia; may I bill modifier 52?",
+            "A": "Modifier 52 is not appropriate for services with anesthesia."
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "Q": "52",
+            "A": "Reduced Services"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "53",
+            "A": "Discontinued Procedure"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "73",
+            "A": "Discontinued Outpatient Hospital/Ambulatory Surgery Center (ASC) Procedure Prior to the Administration of Anesthesia"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "Q": "74",
+            "A": "Discontinued Outpatient Hospital/Ambulatory Surgery Center (ASC) Procedure After Administration of Anesthesia"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov American Medical Association (AMA) Current Procedural Terminology (CPT) Medicare Claims Processing Manual - Chapter 04 - Part B Hospital (Including Inpatient Hospital Part B and OPPS): Section 20.6.4, 20.6.6 Medicare Claims Processing Manual - Chapter 12 - Physicians/Nonphysician Practitioners: Section 20.4.6, 30.1, 30.6.1, 40.2, 40.4A Medicare Claims Processing Manual - Chapter 13 - Radiology Services and Other Diagnostic Procedures: Section 80.1"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "11/1/2025",
+          "value": "Policy Version Change Policy History Section: Entries prior to 11/1/2023 archived"
+        },
+        {
+          "key": "11/1/2024",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "11/1/2023",
+          "value": "Policy Version Change Policy Application Section: Updated Policy Logo Updated Policy History Section: Entries prior to 11/1/2021 archived Policy Resource Section: Updated"
+        },
+        {
+          "key": "8/27/2014",
+          "value": "Policy approved by the UnitedHealthcare Medicare Advantage Stakeholders"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "52",
+    "50",
+    "IV",
+    "53",
+    "73",
+    "74"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "policy_title": "Intensity Modulated Radiation Therapy (IMRT) Policy",
+  "policy_number": "2026R9016A",
+  "policy_dates": {
+    "effective_date": "2/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "The Intensity Modulated Radiation Therapy (IMRT) Policy addresses when an IMRT simulation is performed with an IMRT plan, reimbursement of the simulation will be included in the reimbursement for the IMRT plan whether the simulation is reported on the same or different date of service unless these services are being performed in support of a separate and distinct non-IMRT radiation therapy for a different tumor. For purposes of this policy, the Same Group Physician and/or Other Health Care Professional is defined as all physicians and/or other health care professionals of the same group reporting the same Federal Tax Identification number",
+      "children": [
+        {
+          "title": "Reimbursement Guidelines - Professional (HCFA 1500)",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "In accordance with the American Medical Association (AMA) and the Centers for Medicare and Medicaid Services (CMS) National Correct Coding Initiative (NCCI) Policy Manual, UnitedHealthcare Medicare Advantage considers the IMRT plan, CPT 77301, to include the work of all simulation services, CPT 77280-77290, performed in the development of the IMRT plan on the same or different dates of service unless these services are being performed in support of a separate and distinct non-IMRT radiation therapy for a different tumor. For UnitedHealthcare Medicare Advantage purposes, IMRT simulation services reported with a date of service within 90 days prior to the date of service reported for the IMRT plan will be considered included in the IMRT plan when reported by the Same Group Physician and/or Other Health Care Professional. IMRT is an advanced form of conformal external beam radiation therapy that uses computer-controlled linear accelerators to deliver precise radiation doses to the target area while minimizing the dose to surrounding normal critical structures. There are 3 stages of service: 1. Simulation: process of defining relevant normal and abnormal target anatomy and acquiring the images and data necessary to develop the optimal radiation treatment process, without actually delivering a treatment. Simulation defines the exact treatment position for the patient. 2. Treatment Planning: work of imaging and contouring the treatment target, radiation dose prescribing and dosimetric planning, calculation, and verification. 3. Intensity modulated treatment delivery, single or multiple fields/arcs, via narrow spatially and temporally modulated beams, binary, dynamic MLC, per treatment session. Consistent with the AMA, the CMS NCCI Manual, Medicare Claims Processing, an IMRT plan (CPT code 77301) includes therapeutic radiology simulation-aided field settings. Simulation field settings for IMRT should not be reported separately with CPT codes 77280-77290. Although procedure-to-procedure edits based on this principle exist for procedures performed on the same date of service for practitioner and outpatient facility providers, these edits should not be circumvented by performing the two procedures described by a code pair edit on different dates of service."
+        },
+        {
+          "title": "Reimbursement Guidelines - Facility (UB04)",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "In alignment with the AMA and CMS National Correct Coding Initiative (NCCI) Policy Manual, UnitedHealthcare Medicare Advantage considers payment for the services identified by CPT codes 77014, 77280, 77285, 77290, 77295, 77306 through 77321, 77331, and 77370 are included in the APC payment for CPT code 77301 (IMRT planning). When IMRT is furnished to beneficiaries in a hospital outpatient department that is paid under the hospital OPPS, hospitals must remember that CPT codes 77014, 77280, 77285, 77290, 77295, 77306 through 77321, 77331, and 77370 are included in the Ambulatory Payment Classification (APC) payment for CPT code 77301 (IMRT planning) even if the individual services associated with IMRT planning are performed on dates of service 14 days prior to the date on which CPT code 77301 is reported."
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Intensity Modulated Radiation Therapy (IMRT)",
+          "value": "Intensity modulated radiotherapy plan, including dose-volume histograms for target and critical structure partial tolerance specifications."
+        },
+        {
+          "key": "Same Group Physician and/or Other Qualified Health Care Professional",
+          "value": "All physicians and/or other qualified health care professionals of the same group reporting the same Federal Tax Identification number."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "There are NCCI edits that address IMRT simulation and planning codes; how does this policy differ from NCCI?",
+            "A": "Current NCCI procedure-to-procedure edits between CPT code 77301 and pre-IMRT plan simulation codes (77280-77290) address codes reported on the same date of service and do not address simulation codes billed on different dates of service."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Will UnitedHealthcare Medicare Advantage reimburse an IMRT simulation after an IMRT plan has been executed to accommodate changes to the tumor(s) or when tumor(s) have appeared in a new location?",
+            "A": "Yes. UnitedHealthcare Medicare Advantage understands the need to perform subsequent IMRT simulation(s) after treatment has begun to adjust for changes to the patient's condition and will reimburse IMRT simulations reported after treatment has begun."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "Will UnitedHealthcare Medicare Advantage reimburse more than one subsequent IMRT simulation?",
+            "A": "A simulation service after an IMRT has been performed may be reimbursed when reported with modifier 59 or XU to indicate it was performed in support of a separate and distinct non-IMRT radiation therapy for a different tumor."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Codes",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "77301",
+          "value": "77014 77280 77285 77290"
+        },
+        {
+          "key": "77295",
+          "value": "77306-77321 77331 77370"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov American Medical Association (AMA) Current Procedural Terminology (CPT) Centers for Medicare and Medicaid Services, PFS Relative Value Files Medicare Claims Processing Manual - Chapter 4 - Part B Hospital (Including Inpatient Hospital Part B and OPPS) Sections: 200.3, 200.3.1 Medicare NCCI 2023 Coding Policy Manual - Chapter - 9 Radiology Services Section: F The Medicare Learning Network (MLN) MLN Matters: MM9486 MLN Matters Intensity-Modulated Radiation Therapy (IMRT) Planning Services Editing: SE18013"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "2/1/2026",
+          "value": "Policy Version Change History Section: Entries prior to 2/1/2024 archived"
+        },
+        {
+          "key": "2/1/2025",
+          "value": "Policy Version Change History Section: Entries prior to 2/1/2023 archived"
+        },
+        {
+          "key": "2/1/2024",
+          "value": "Policy Version Change Policy Logo: Updated Application Section: Updated Resource Section: Updated History Section: Entries prior to 2/1/2022 archived"
+        },
+        {
+          "key": "4/4/2016",
+          "value": "Policy implemented."
+        },
+        {
+          "key": "11/18/2015",
+          "value": "Policy approval"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "77301",
+    "77280",
+    "77290",
+    "77014",
+    "77285",
+    "77295",
+    "77306",
+    "77321",
+    "77331",
+    "77370",
+    "G6015"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "59"
+  ]
+}

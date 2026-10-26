@@ -1,0 +1,253 @@
+{
+  "policy_metadata": {
+    "policy_title": "Assistant at Surgery Reimbursement",
+    "policy_number": "CP2013100",
+    "published_date": "12/2013",
+    "effective_date": "12/2013",
+    "revision_date": "04/2026",
+    "last_reviewed": "04/2026",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Professional",
+    "source_pdf": "Assistant_at_Surgery_Reimbursement_Revised-934263d0.pdf",
+    "total_pages": 4,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "59514",
+      "59620",
+      "80",
+      "82",
+      "AS"
+    ],
+    "cpt_codes": [
+      "59514",
+      "59620"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [
+      "80",
+      "82",
+      "AS"
+    ],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "According to the Centers for Medicare & Medicaid Services (CMS), assistant at surgery services are those services rendered by physicians or nonphysician practitioners (NPPs) who actively assist the physician in charge of performing a surgical procedure."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Coverage",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "Original Medicare (OM) covers an assistant at surgery service provided by a physician, with some exclusions, or an NPP. A charge for an assistant at surgery service provided by another individual is not payable. Therefore, a Humana Medicare Advantage (MA) plan denies, to provider liability, a charge for an assistant at surgery service submitted by an individual whose service would not be coverable for an enrollee of OM. Humana uses the Medicare Physician Fee Schedule (MPFS) Relative Value File assistant at surgery indicator to determine if an assistant at surgery is medically necessary and, therefore, covered. When the MPFS Relative Value File is not definitive, then Humana’s internal criteria are used."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Assistant at Surgery in a Teaching Hospital",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "Humana determines coverage of a charge submitted by an assistant at surgery in a teaching hospital consistent with the qualifications required by CMS for an OM enrollee."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Billing",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "Only one of the following modifiers should be billed per charge: AS, 80, 81 or 82 . An assistant at surgery should bill the same procedure code as the primary surgeon and the appropriate assistant at surgery modifier, except when billing for assistance during a cesarean delivery. When billing for assistance only during a cesarean delivery, the assistant at surgery should bill Current Procedural Terminology (CPT®) code 59514 (cesarean delivery only) or CPT code 59620 (c esarean delivery only, following attempted vaginal delivery after previous cesarean delivery) and the appropriate assistant at surgery modifier. Humana will not reimburse a practitioner who acts as an assistant at surgery in a cesarean delivery any more than the assistant at surgery rate that would apply for the CPT code appropriate for delivery only."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Reimbursement",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "A Humana MA plan allows an assistant at surgery physician charge, indicated by modifier 80, 81 or 82, at 16 percent of the contracted rate or base maximum amount payable under the member’s plan , subject to any other applicable reductions, for a service considered medically necessary. A Humana MA plan allows an assistant at surgery NPP charge, indicated by modifier AS , at 16 percent of the contracted rate or base maximum amount payable under the member’s plan appropriate for the NPP, subject to any other applicable reductions, for a service considered medically necessary."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Examples",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [],
+          "tables": [],
+          "subsections": [
+            {
+              "heading": "Contracted Providers",
+              "level": 3,
+              "page_start": 2,
+              "page_end": 3,
+              "content": [
+                "Physician: The amount allowed is 16 percent of the provider's contracted rate, subject to other applicable adjustments. NPP: The amount allowed is 16 percent of the provider's contracted rate, subject to other applicable adjustments."
+              ],
+              "tables": [
+                {
+                  "type": "table",
+                  "page_start": 2,
+                  "page_end": 2,
+                  "columns": [
+                    "Service",
+                    "Billed Charge",
+                    "Contracted Rate",
+                    "Amount Allowed"
+                  ],
+                  "row_count": 1,
+                  "rows": [
+                    {
+                      "Service": "XXXXX",
+                      "Billed Charge": "$1,000",
+                      "Contracted Rate": "$750",
+                      "Amount Allowed": "$750 x 16% = $120"
+                    }
+                  ]
+                },
+                {
+                  "type": "table",
+                  "page_start": 2,
+                  "page_end": 3,
+                  "columns": [
+                    "Service",
+                    "Billed Charge",
+                    "Contracted Rate",
+                    "Amount Allowed"
+                  ],
+                  "row_count": 2,
+                  "rows": [
+                    {
+                      "Service": "XXXXX",
+                      "Billed Charge": "$1,500",
+                      "Contracted Rate": "$1,000",
+                      "Amount Allowed": "$1,000 x 16% = $160"
+                    },
+                    {
+                      "Service": "XXXXX",
+                      "Billed Charge": "$1,000",
+                      "Contracted Rate": "$750",
+                      "Amount Allowed": "$750 x 100% x 16% = $120"
+                    }
+                  ]
+                }
+              ],
+              "subsections": []
+            },
+            {
+              "heading": "Noncontracted Providers",
+              "level": 3,
+              "page_start": 3,
+              "page_end": 3,
+              "content": [
+                "Physician: The amount allowed is 16 percent of 100 percent of the MPFS amount for the service, subject to other applicable adjustments. NPP: The amount allowed is 16 percent of 85 percent (13.6 percent) of the MPFS amount for the service, subject to other applicable adjustments."
+              ],
+              "tables": [
+                {
+                  "type": "table",
+                  "page_start": 3,
+                  "page_end": 3,
+                  "columns": [
+                    "Service",
+                    "Billed Charge",
+                    "Medicare Physician Fee Schedule",
+                    "Amount Allowed"
+                  ],
+                  "row_count": 1,
+                  "rows": [
+                    {
+                      "Service": "XXXXX",
+                      "Billed Charge": "$1,500",
+                      "Medicare Physician Fee Schedule": "$1,000",
+                      "Amount Allowed": "$1,000 x 85% x 16% = $136"
+                    }
+                  ]
+                }
+              ],
+              "subsections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "• Base maximum amount payable under the member’s plan: The maximum amount of reimbursement for a covered expense, determined by the member’s plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments. • CPT code 59514: Cesarean delivery only. • CPT code 59620: C esarean delivery only, following attempted vaginal delivery after previous cesarean delivery. • Maximum allowable fee (MAF): The maximum amount of reimbursement for a covered expense, determined by the member’s plan provisions. Actual plan payment may be less than MAF, because of applicable adjustments. • Medicare Physician Fee Schedule (MPFS) Relative Value File: A file published by the Centers for Medicare & Medicaid Services that includes, among other information, assistant at surgery indicator, relative value units and conversion factors for physician",
+        "services. This file is commonly referred to as the relative value unit (RVU) table. • Modifier 80: Assistant surgeon. • Modifier 81: Minimum assistant surgeon. • Modifier 82: Assistant surgeon (when qualified resident surgeon not available). • Modifier AS: Physician assistant, nurse practitioner, or clinical nurse specialist services for assistant at surgery."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "• Centers for Medicare & Medicaid Services. HCPCS and associated publications and services. • Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 12 – Physicians/Nonphysician Practitioners . Sections 20.4.3, 100.1.7, 110 and 120.1. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 23 – Fee Schedule Administration and Coding . Addendum – MPFSDB Record Layouts. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Physician Fee Schedule (MPFS) Relative Value Files . www.cms.gov. • American Medical Association’s CPT® and associated publications and services. • American College of Surgeons. Physicians as Assistant at Surgery Consensus."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 4,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Base maximum amount payable under the member’s plan": "The maximum amount of reimbursement for a covered expense, determined by the member’s plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments. • CPT code 59514: Cesarean delivery only. • CPT code 59620: C esarean delivery only, following attempted vaginal delivery after previous cesarean delivery. • Maximum allowable fee (MAF): The maximum amount of reimbursement for a covered expense, determined by the member’s plan provisions. Actual plan payment may be less than MAF, because of applicable adjustments. • Medicare Physician Fee Schedule (MPFS) Relative Value File: A file published by the Centers for Medicare & Medicaid Services that includes, among other information, assistant at surgery indicator, relative value units and conversion factors for physician"
+  },
+  "references": [
+    "Centers for Medicare & Medicaid Services. HCPCS and associated publications and services. • Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 12 – Physicians/Nonphysician Practitioners . Sections 20.4.3, 100.1.7, 110 and 120.1. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 23 – Fee Schedule Administration and Coding . Addendum – MPFSDB Record Layouts. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Physician Fee Schedule (MPFS) Relative Value Files . www.cms.gov. • American Medical Association’s CPT® and associated publications and services. • American College of Surgeons. Physicians as Assistant at Surgery Consensus."
+  ],
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 12,
+    "total_tables": 3,
+    "total_characters": 6357
+  }
+}

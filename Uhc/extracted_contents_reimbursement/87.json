@@ -1,0 +1,159 @@
+{
+  "policy_title": "Procedure and Place of Service, Professional - Reimbursement Policy",
+  "policy_number": "2026R9029A",
+  "policy_dates": {
+    "effective_date": "3/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "The Procedure and Place of Service policy addresses the reimbursement of Current Procedural Terminology (CPT) and Healthcare Common Procedure Coding System (HCPCS) codes that are reported in a Place of Service (POS) considered inappropriate based on the code's description or available coding guidelines when reported by a physician or other health care professional."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "UnitedHealthcare Medicare Advantage will reimburse CPT and HCPCS codes when reported with an appropriate Place of Service (POS). UnitedHealthcare Medicare Advantage aligns with The Centers for Medicare & Medicaid Services (CMS) POS Code set, which are two-digit codes submitted on the CMS 1500 Health Insurance Claim Form or its electronic equivalent to indicate the setting in which a service was provided. Code Description or Coding Guidelines Many CPT and HCPCS codes include a Place of Service in their description or coding guidelines include the place(s) of service where the code may be performed. For example, CPT code 94002 would not be appropriate for reporting in an office or home POS because its code description identifies hospital inpatient or observation. The CMS POS Code set can be accessed via this link: CMS Place of Service Code Set National Physician Fee Schedule (NPFS) Facility NA Indicator According to the CMS National Physician Fee Schedule Relative Value File, the Facility NA Indicator identified as \"NA\" indicates that \"this procedure is rarely or never performed in the facility setting.\" UnitedHealthcare Medicare Advantage will not reimburse CPT and HCPCS codes with the NA indicator when reported without an appropriate POS. (UnitedHealthcare Medicare Advantage is excluding procedures reported with modifiers 26 or 54-58). The NPFS Relative Value File can be accessed via this link: CMS National Physician Fee Schedule Relative Value File",
+          "subsections": [
+            {
+              "title": "Code Description or Coding Guidelines",
+              "content": "Many CPT and HCPCS codes include a Place of Service in their description or coding guidelines include the place(s) of service where the code may be performed. For example, CPT code 94002 would not be appropriate for reporting in an office or home POS because its code description identifies hospital inpatient or observation. The CMS POS Code set can be accessed via this link: CMS Place of Service Code Set"
+            },
+            {
+              "title": "National Physician Fee Schedule (NPFS) Facility NA Indicator",
+              "content": "According to the CMS National Physician Fee Schedule Relative Value File, the Facility NA Indicator identified as “NA” indicates that “this procedure is rarely or never performed in the facility setting.” UnitedHealthcare Medicare Advantage will not reimburse CPT and HCPCS codes with the NA indicator when reported without an appropriate POS. (UnitedHealthcare Medicare Advantage is excluding procedures reported with modifiers 26 or 54-58). The NPFS Relative Value File can be accessed via this link: CMS National Physician Fee Schedule Relative Value File"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Place of Service",
+          "value": "A two-digit code used on health care professional claims to indicate the setting in which a service was provided."
+        },
+        {
+          "key": "National Physician Fee Schedule Relative Value File",
+          "value": "A public use file that contains information on services covered by the Medicare Physician Fee Schedule (MPFS). The file contains the associated relative value units (RVUs), a fee schedule status indicator, and various payment policy indicators needed for payment adjustment (e.g., payment of assistant at surgery, team surgery, bilateral surgery)."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Why aren't all CPT and HCPCS codes addressed in this policy?",
+            "A": "This policy addresses CPT and HCPCS codes that include POS in their description or where coding guidelines are provided relative to POS. Codes that do not fit these criteria are out of scope for this reimbursement policy."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Where do the Place of Service codes come from?",
+            "A": "The Place of Service codes can be found on the CMS website and contain two-digit codes placed on health care professional claims to indicate the setting in which a service was provided. The Centers for Medicare & Medicaid Services (CMS) maintains POS codes used throughout the health care industry."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov American Medical Association (AMA) Current Procedural Terminology (CPT) Centers for Medicare and Medicaid Services: PFS Relative Value Files Medicare Claims Processing Manual - Chapter 12 - Physicians/Nonphysician Practitioners: Section: 20.4.2"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "3/1/2026",
+          "value": "Policy Version change Anniversary Review"
+        },
+        {
+          "key": "11/1/2025",
+          "value": "Policy Version Change Policy Section: Updated Attachments Section: Removed History Section: Entries prior to 11/1/2023 archived"
+        },
+        {
+          "key": "2/1/2025",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "1/1/2025",
+          "value": "Policy Version Change Attachments Section: Codes Not Allowed in POS 11 updated History Section: Entries prior to 1/1/2023 archived"
+        },
+        {
+          "key": "3/1/2024",
+          "value": "Policy Version Change Policy Logo Updated Attachments Section: Codes Not Allowed in POS 11 updated History Section: Entries prior to 3/1/2022 archived"
+        },
+        {
+          "key": "6/1/2018",
+          "value": "Policy implemented by UnitedHealthcare Medicare Advantage"
+        },
+        {
+          "key": "1/10/2018",
+          "value": "Policy approved by UnitedHealthcare Medicare Advantage Stakeholders."
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "94002"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "26",
+    "54",
+    "58"
+  ]
+}

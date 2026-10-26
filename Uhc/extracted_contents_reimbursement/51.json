@@ -1,0 +1,145 @@
+{
+  "policy_title": "From – To Date Policy",
+  "policy_number": "2026R9011A",
+  "policy_dates": {
+    "effective_date": "2/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "When Grouping services, the place of service, procedure code, charges, and individual provider for each line must be identical for that service line. Grouping is allowed only for identical services on consecutive days. In those instances where Grouping of services applies, the number of units submitted should be equally divisible by the number of days indicated in the 'from' and 'to' dates reported."
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "bold",
+      "type": "mixed",
+      "content": [
+        "The National Uniform Claim Committee (NUCC) develops and oversees the NUCC Data Set (NUCC-DS), which is a standardized data set for use in an electronic environment, but applicable to and consistent with evolving paper claim form standards. The NUCC 1500 Health Insurance Claim Form Reference Instruction Manual For Form Version 02/12 provides instruction for the completion of the 1500 Health Insurance Claim form. This manual includes the following instruction for entering the dates of service:",
+        "- \"If there is only one date of service, enter that date under 'From.' Leave 'To' blank or re-enter 'From' date.\" - \"If Grouping services, the place of service, procedure code, charges, and individual provider for each line must be identical for that service line. Grouping is allowed only for services on consecutive days. The number of days must correspond to the number of units in 24G 'Days or Units' field.\"",
+        "The Centers for Medicare and Medicaid Services (CMS) Medicare Claims Processing Manual Chapter 26, also states: \"When 'from' and 'to' dates are shown for a series of identical services, enter the number of days or units in column G.\" CMS returns a claim as unprocessable if a date of service extends more than 1 day and a valid \"to\" date is not present.",
+        "Consistent with NUCC and CMS, UnitedHealthcare Medicare Advantage will only consider reimbursement for claim lines with a 'from' and 'to' date span greater than one day, when the units entered correspond to or are equally divisible by the number of days indicated. Claim lines for which the 'from' and 'to' dates and units do not correspond or are not equally divisible by the number of days indicated, will not be processed. The services will need to be resubmitted on separate claim form lines with the units matching the corresponding from and to dates.",
+        "An example of a claim form submission where the service dates cannot be determined and therefore the claim cannot be processed:",
+        {
+          "key": "99212",
+          "value": "3 11/01/2014 11/15/2014"
+        },
+        "The claim should be submitted as follows:",
+        {
+          "key": "99212",
+          "value": "1 11/01/2014 11/01/2014"
+        },
+        {
+          "key": "99212",
+          "value": "1 11/07/2014 11/07/2014"
+        },
+        {
+          "key": "99212",
+          "value": "1 11/15/2014 11/15/2014"
+        },
+        "UnitedHealthcare Medicare Advantage recognizes there are exceptions to this policy based on the uniqueness of some CPT and HCPCS codes reported for services rendered. The following types of services are exempt from this policy:",
+        "- Certain CPT and HCPCS codes, based on their description, are not intended to be reported on consecutive dates of service, but may be appropriate to report with a 'from' and 'to' date. For example, codes whose descriptions say per week, per month, per course of treatment would be considered exceptions to this policy. - Procedure Codes that represent drugs/biologicals, some radiology, Durable Medical Equipment (DME) and Home Health, Unlisted Procedures, Add-on Procedures for additional time, ambulance etc. - Claims with provider specialty Anesthesia - Type of service is \"7\" (CMS Anesthesia Type of service in 100-04 Medicare Claims Processing Manual, Chapter 26) - Claims for Home Service Providers for DME and Home Health Place of service Home (12)"
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Grouping",
+          "value": "Grouping refers to the reporting of services which share a procedure code, place of service, charge and individual provider. The services must have been provided on consecutive days and the number of days must correspond to the number of units reported in field 24G of the 1500 Health Insurance Claim Form."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "What fields on the 1500 claim form are you referencing for the \"Days or Units\" and \"From\" and \"To\" date?",
+            "A": "These claim form fields on the 1500 claim form are identified as follows: Paper Claims with CMS Paper Format 02-12: The \"From\" and \"To\" dates are entered in 24A DATE(S) OF SERVICE field. \"Days or Units\" are entered in field 24G DAYS OR UNITS field for each applicable service line. For additional information, refer to the National Uniform Correct Coding (NUCC) Website: http://www.nucc.org/. Electronic Claims: Reference the Health Insurance Portability and Accountability Act of 1996 (HIPAA) guidelines, electronic claims submitted via the 837 Professional transaction set or the NUCC website, which provides a 1500-837p crosswalk."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov Medicare Claims Processing Manual - Chapter 26 - Completing and Processing Form CMS-1500 Data Set: Section 10.4, Item 14-33 National Uniform Claim Committee (NUCC)"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "2/1/2026",
+          "value": "Policy Version Change Anniversary Review History Section: Entries prior to 2/1/2024 archived"
+        },
+        {
+          "key": "6/1/2025",
+          "value": "Policy Version Change History Section: Entries prior to 6/1/2023 archived"
+        },
+        {
+          "key": "2/1/2024",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "12/17/2014",
+          "value": "New Policy"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "99212"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

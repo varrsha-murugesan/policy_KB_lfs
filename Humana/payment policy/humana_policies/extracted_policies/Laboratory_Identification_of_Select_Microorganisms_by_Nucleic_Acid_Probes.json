@@ -1,0 +1,162 @@
+{
+  "policy_metadata": {
+    "policy_title": "Laboratory – Identification of Select Microorganisms by Nucleic Acid Probes",
+    "policy_number": "LAB2023045",
+    "published_date": "07/2023",
+    "effective_date": "07/2023",
+    "revision_date": "03/2026",
+    "last_reviewed": "03/2026",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Both",
+    "source_pdf": "Laboratory_-_Identification_of_Select_Microorganisms_by_Nucleic_Probes_Revised-5d2c813f.pdf",
+    "total_pages": 3,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "87472",
+      "87485",
+      "87487",
+      "87495",
+      "87496",
+      "87497",
+      "87525",
+      "87526",
+      "87527",
+      "87531",
+      "87532",
+      "87540",
+      "87542",
+      "87580",
+      "87582"
+    ],
+    "cpt_codes": [
+      "87472",
+      "87485",
+      "87487",
+      "87495",
+      "87496",
+      "87497",
+      "87525",
+      "87526",
+      "87527",
+      "87531",
+      "87532",
+      "87540",
+      "87542",
+      "87580",
+      "87582"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. • Nucleic acid identification using direct probe testing for the following organisms IS NOT REIMBURSABLE : – Chlamydia pneumoniae (CPT code 87485) – Cytomegalovirus (CPT code 87495) – Hepatitis G (CPT code 87525) – Herpes virus-6 (CPT code 87531) – Legionella pneumophila (CPT code 87540) – Mycoplasma pneumoniae (CPT code 87580) • Nucleic acid identification using amplified probe testing for the following organisms IS NOT REIMBURSABLE : – Hepatitis G (CPT code 87526) – Herpes virus-6 (CPT code 87532) • Nucleic acid identification using quantification testing for the following organisms IS NOT REIMBURSABLE : – Bartonella henselae or quintana (CPT code 87472) – Chlamydia pneumoniae (CPT code 87487) – Hepatitis G (CPT code 87527) – Legionella pneumophila (CPT code 87542) – Mycoplasma pneumoniae (CPT code 87582) • Amplified probe testing for cytomegalovirus (CPT code 87496) IS NOT REIMBURSABLE when quantification testing for cytomegalovirus (CPT code 87497) is performed on the same date of service. Policy Number : LAB2023045 Applicable procedures for Medicare Advantage plans"
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 2,
+          "page_end": 2,
+          "columns": [
+            "Procedure Code",
+            "Code Description"
+          ],
+          "row_count": 15,
+          "rows": [
+            {
+              "Procedure Code": "87472",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification"
+            },
+            {
+              "Procedure Code": "87485",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA); Chlamydia pneumoniae, direct probe\ntechnique"
+            },
+            {
+              "Procedure Code": "87487",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA); Chlamydia pneumoniae, quantification"
+            },
+            {
+              "Procedure Code": "87495",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA); cytomegalovirus, direct probe technique"
+            },
+            {
+              "Procedure Code": "87496",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA); cytomegalovirus, amplified probe\ntechnique"
+            },
+            {
+              "Procedure Code": "87497",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA); cytomegalovirus, quantification"
+            },
+            {
+              "Procedure Code": "87525",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA); hepatitis G, direct probe technique"
+            },
+            {
+              "Procedure Code": "87526",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA); hepatitis G, amplified probe technique"
+            },
+            {
+              "Procedure Code": "87527",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA); hepatitis G, quantification"
+            },
+            {
+              "Procedure Code": "87531",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA); Herpes virus-6, direct probe technique"
+            },
+            {
+              "Procedure Code": "87532",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA); Herpes virus-6, amplified probe\ntechnique"
+            },
+            {
+              "Procedure Code": "87540",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA); Legionella pneumophila, direct probe\ntechnique"
+            },
+            {
+              "Procedure Code": "87542",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA); Legionella pneumophila, quantification"
+            },
+            {
+              "Procedure Code": "87580",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA); Mycoplasma pneumoniae, direct probe\ntechnique"
+            },
+            {
+              "Procedure Code": "87582",
+              "Code Description": "Infectious agent detection by nucleic acid (DNA or RNA); Mycoplasma pneumoniae, quantification"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 3,
+      "content": [
+        "AAP Committee on Infectious Diseases. (2018). Red Book® 2018. CDC. Clinical Guidance for Bartonella henselae. Updated May 15, 2024. https://www.cdc.gov/bartonella/hcp/bartonella-henselae/ CDC. Clinical Testing and Diagnosis for CDI. Updated March 6, 2024. https://www.cdc.gov/c-diff/hcp/diagnosis-testing/ CDC. Diagnostic Testing for RSV. Updated August 30, 2024. https://www.cdc.gov/rsv/hcp/clinical-overview/diagnostic-testing.html CDC. Identification of Candida auris. Updated June 27, 2024. https://www.cdc.gov/candida-auris/hcp/laboratories/identification-of c-auris.html CDC. Laboratory Testing for Chlamydia pneumoniae. Updated January 30, 2024. https://www.cdc.gov/cpneumoniae/php/laboratories CDC. Laboratory Testing for CMV and Congenital CMV. Updated April 15, 2024. https://www.cdc.gov/cytomegalovirus/php/laboratories/index.html CDC. Laboratory Testing for Legionella. Updated January 29, 2024. https://www.cdc.gov/legionella/php/laboratories CDC. Laboratory Testing for Methicillin (oxacillin)-resistant Staphylococcus aureus (MRSA). Updated April 12, 2024. Policy Number : LAB2023045 https://www.cdc.gov/mrsa/php/laboratories/index.html CDC. Laboratory Testing for Mycoplasma pneumoniae. Updated December 27, 2023. https://www.cdc.gov/mycoplasma/php/laboratories CDC. Laboratory Testing for Non-Polio Enterovirus. Updated April 16, 2024. https://www.cdc.gov/non-polio enterovirus/php/laboratories/index.html CDC. Mpox Case Definitions. Updated September 12, 2024. https://www.cdc.gov/mpox/hcp/case-definitions/ CDC. Mpox Clinical Testing. Updated August 27, 2024. https://www.cdc.gov/mpox/hcp/diagnosis-testing/ ECDC. Interim advice on Risk Communication and Community Engagement during the monkeypox outbreak in Europe, 2022. (2022). https://www.ecdc.europa.eu/sites/default/files/documents/Joint-ECDC-WHO-interim-advice-on-RCCE-for-Monkeypox-2-June 2022.pdf ECDC. Risk assessment: Monkeypox multi-country outbreak. (2022). https://www.ecdc.europa.eu/en/publications-data/risk-assessment-monkeypox-multi-country-outbreak FDA. Nucleic Acid Based Tests. Updated March 05. https://www.fda.gov/medical-devices/vitro-diagnostics/nucleic-acid-based-tests HHV-6 Foundation. Overview on Testing for HHV-6 infection. (2024). Khan, A. (2014). Rapid advances in nucleic acid technologies for detection and diagnostics of pathogens. J Microbiol Exp, 1(2). https://doi.org/10.15406/jmen.2014.01.00009 Miller, J. M., Binnicker, M. J., Campbell, S., et al. (2018). A guide to utilization of the microbiology laboratory for diagnosis of infectious diseases: 2018 update. Clinical Infectious Diseases, ciy381. https://doi.org/10.1093/cid/ciy381 Miller, J. M., Binnicker, M. J., Campbell, S., et al. (2024). Guide to utilization of the microbiology laboratory for diagnosis of infectious diseases: 2024 update. Clinical Infectious Diseases. https://doi.org/10.1093/cid/ciae104 Mothershed, E. A., & Whitney, A. M. (2006). Nucleic acid–based methods for the detection of bacterial pathogens. Clinica Chimica Acta, 363(1–2), 206–220. https://doi.org/10.1016/j.cccn.2005.05.050 UKHSA. Monkeypox: Diagnostic testing. Updated April 4. https://www.gov.uk/guidance/monkeypox-diagnostic-testing WHO. Monkeypox. Updated August 26, 2024. https://www.who.int/news-room/fact-sheets/detail/mpox"
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": null,
+  "references": [
+    "AAP Committee on Infectious Diseases. (2018). Red Book® 2018. CDC. Clinical Guidance for Bartonella henselae. Updated May 15, 2024. https://www.cdc.gov/bartonella/hcp/bartonella-henselae/ CDC. Clinical Testing and Diagnosis for CDI. Updated March 6, 2024. https://www.cdc.gov/c-diff/hcp/diagnosis-testing/ CDC. Diagnostic Testing for RSV. Updated August 30, 2024. https://www.cdc.gov/rsv/hcp/clinical-overview/diagnostic-testing.html CDC. Identification of Candida auris. Updated June 27, 2024. https://www.cdc.gov/candida-auris/hcp/laboratories/identification-of c-auris.html CDC. Laboratory Testing for Chlamydia pneumoniae. Updated January 30, 2024. https://www.cdc.gov/cpneumoniae/php/laboratories CDC. Laboratory Testing for CMV and Congenital CMV. Updated April 15, 2024. https://www.cdc.gov/cytomegalovirus/php/laboratories/index.html CDC. Laboratory Testing for Legionella. Updated January 29, 2024. https://www.cdc.gov/legionella/php/laboratories CDC. Laboratory Testing for Methicillin (oxacillin)-resistant Staphylococcus aureus (MRSA). Updated April 12, 2024. Policy Number : LAB2023045 https://www.cdc.gov/mrsa/php/laboratories/index.html CDC. Laboratory Testing for Mycoplasma pneumoniae. Updated December 27, 2023. https://www.cdc.gov/mycoplasma/php/laboratories CDC. Laboratory Testing for Non-Polio Enterovirus. Updated April 16, 2024. https://www.cdc.gov/non-polio enterovirus/php/laboratories/index.html CDC. Mpox Case Definitions. Updated September 12, 2024. https://www.cdc.gov/mpox/hcp/case-definitions/ CDC. Mpox Clinical Testing. Updated August 27, 2024. https://www.cdc.gov/mpox/hcp/diagnosis-testing/ ECDC. Interim advice on Risk Communication and Community Engagement during the monkeypox outbreak in Europe, 2022. (2022). https://www.ecdc.europa.eu/sites/default/files/documents/Joint-ECDC-WHO-interim-advice-on-RCCE-for-Monkeypox-2-June 2022.pdf ECDC. Risk assessment: Monkeypox multi-country outbreak. (2022). https://www.ecdc.europa.eu/en/publications-data/risk-assessment-monkeypox-multi-country-outbreak FDA. Nucleic Acid Based Tests. Updated March 05. https://www.fda.gov/medical-devices/vitro-diagnostics/nucleic-acid-based-tests HHV-6 Foundation. Overview on Testing for HHV-6 infection. (2024). Khan, A. (2014). Rapid advances in nucleic acid technologies for detection and diagnostics of pathogens. J Microbiol Exp, 1(2). https://doi.org/10.15406/jmen.2014.01.00009 Miller, J. M., Binnicker, M. J., Campbell, S., et al. (2018). A guide to utilization of the microbiology laboratory for diagnosis of infectious diseases: 2018 update. Clinical Infectious Diseases, ciy381. https://doi.org/10.1093/cid/ciy381 Miller, J. M., Binnicker, M. J., Campbell, S., et al. (2024). Guide to utilization of the microbiology laboratory for diagnosis of infectious diseases: 2024 update. Clinical Infectious Diseases. https://doi.org/10.1093/cid/ciae104 Mothershed, E. A., & Whitney, A. M. (2006). Nucleic acid–based methods for the detection of bacterial pathogens. Clinica Chimica Acta, 363(1–2), 206–220. https://doi.org/10.1016/j.cccn.2005.05.050 UKHSA. Monkeypox: Diagnostic testing. Updated April 4. https://www.gov.uk/guidance/monkeypox-diagnostic-testing WHO. Monkeypox. Updated August 26, 2024. https://www.who.int/news-room/fact-sheets/detail/mpox"
+  ],
+  "resources": null,
+  "_extraction_stats": {
+    "total_sections": 2,
+    "total_tables": 1,
+    "total_characters": 4983
+  }
+}

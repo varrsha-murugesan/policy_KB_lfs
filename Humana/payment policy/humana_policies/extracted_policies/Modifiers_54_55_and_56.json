@@ -1,0 +1,100 @@
+{
+  "policy_metadata": {
+    "policy_title": "Modifiers 54, 55 and 56",
+    "policy_number": "CP2008100",
+    "published_date": null,
+    "effective_date": "Medicare Advantage: 01/2008 Commercial: 03/2008",
+    "revision_date": "11/2022",
+    "last_reviewed": "11/2022",
+    "Line_of_Business": "Medicare Advantage and Commercial Products",
+    "Billingclass": "Professional",
+    "source_pdf": "Modifiers_54_55_and_56-6b308470.pdf",
+    "total_pages": 3,
+    "related_policies": [
+      "Common CPT and HCPCS Modifiers"
+    ]
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "UP"
+    ],
+    "cpt_codes": [],
+    "hcpcs_codes": [],
+    "modifiers": [
+      "UP"
+    ],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "The Centers for Medicare & Medicaid Services (CMS) global surgical policy states that reimbursement for a procedure that has a global surgical package includes payment for preoperative, intraoperative and postoperative care, as well as payment for various related services, such as complications following surgery, postsurgical pain management and supplies. There are occasions when more than one qualified healthcare practitioner provides services included in the global surgical package of a surgery. For example, the physician who performs the surgical procedure may not provide the follow-up care. In situations in which, for a global surgical package that may be split, there is an agreed transfer of care, it is appropriate to reimburse the various practitioners for portions of the global surgical package . For a surgery with a global surgical package , a qualified healthcare practitioner indicates the portion of the global surgical package performed by using modifiers 54, 55 and 56 , as appropriate. This policy outlines Humana’s reimbursement for a service reported with modifier 54, 55 or 56 ."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage and Commercial Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. This policy applies to global surgery procedure codes as identified on the Medicare Physician Fee Schedule (MPFS) Relative Value File and applies only to charges for practitioner services. Humana plans determine the amount allowed for a segment of split global care for a service with a global surgery period as outlined below. Humana allows a charge for preoperative management only, indicated by modifier 56 , at the contracted rate or base maximum amount payable under the member’s plan for the service multiplied by that service’s MPFS preoperative percentage. Humana allows a charge for intraoperative care only, indicated by modifier 54 , at the contracted rate or base maximum amount payable under the member’s plan for the service multiplied by that service’s MPFS intraoperative percentage. Humana allows a charge for postoperative management only, as indicated by modifier 55 , at the contracted rate or base maximum amount payable under the member’s plan for the service, multiplied by that service’s MPFS postoperative percentage, and multiplied by the percentage of the global surgery period for which the billing practitioner provided care. Effectively, the total of all percentages of a global surgery period for which practitioners were responsible for postoperative management is 100%. Therefore, the plan does not allow more than 100% of the postoperative management for that service. Humana expects a practitioner to report, in the units field on the claim form, the number of days of service that the practitioner provided, consistent with the transfer of postoperative management to which the practitioners agreed. However, if a Medicare A/B MAC directs providers to report the number of days differently, Humana MA plans permit out-of-network providers in the jurisdiction to report days consistent with the MAC 's guidance. Humana considers a charge submitted with modifier 54 as a charge for both preoperative management and intraoperative care , unless there is a coverable charge for the same procedure code for preoperative management only, as indicated by modifier 56 . If there is a coverable charge submitted with modifier 56 for the same service, the plan considers a charge submitted with modifier 54 as a charge for intraoperative care only."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 3,
+      "content": [
+        "• Base maximum amount payable under the member’s plan : The maximum amount of reimbursement for a covered expense, determined by the member’s plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments. • Global surgery period(s) : The number of days that constitute preoperative management, intraoperative care and postoperative management. – Zero-day minor surgery or procedure: Day of surgery only for a total global period of one day. – 10-day minor surgery or procedure: Zero preoperative management days, day of surgery and 10 postoperative management days for a total global period of 11 days. – 90-day major surgery or procedure: One preoperative management day, day of surgery and 90 postoperative management days for a total global period of 92 days. • Global surgical package : All services for which reimbursement would be included in a global surgery payment; services that would be separately reimbursable are not part of the global surgical package. • Intraoperative care : For a service with a global surgery period, the surgical care, including postoperative care before discharge from the hospital. • MAC : Medicare Administrative Contractor. • Medicare Physician Fee Schedule (MPFS) Relative Value File : A file published by CMS that includes, among other information, percentages of the global surgical package for the preoperative, intraoperative and postoperative management of a patient; and the professional procedure relative value unit (RVU). • Modifier 54 : Surgical care only. • Modifier 55 : Postoperative management only. • Modifier 56 : Preoperative management only. • Preoperative management : For a service with a global surgery period, that portion of a global surgical package provided before the surgical care. • Postoperative management : For a service with a global surgery period, that portion of a global surgical package provided after the surgical care and after discharge from the hospital. • Split global care : Global surgical package services provided, under a transfer of care, by multiple qualified healthcare practitioners."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "• Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 12 – Physicians/Nonphysician Practitioners . Sections 40.2.A.3, 40.2.B, 40.4.A and 40.4.B. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Physician Fee Schedule (MPFS) Relative Value File . www.cms.gov. • Centers for Medicare & Medicaid Services website. MLN Global Surgery Booklet . www.cms.gov. • American Medical Association’s CPT® and associated publications and services."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Education and news – This page can help you find clinical guidelines, educational tools, Medicare and Medicaid resources, our provider magazine and other resources to help you do business with us. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Base maximum amount payable under the member’s plan": "The maximum amount of reimbursement for a covered expense, determined by the member’s plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments. • Global surgery period(s) : The number of days that constitute preoperative management, intraoperative care and postoperative management. – Zero-day minor surgery or procedure: Day of surgery only for a total global period of one day. – 10-day minor surgery or procedure: Zero preoperative management days, day of surgery and 10 postoperative management days for a total global period of 11 days. – 90-day major surgery or procedure: One preoperative management day, day of surgery and 90 postoperative management days for a total global period of 92 days. • Global surgical package : All services for which reimbursement would be included in a global surgery payment; services that would be separately reimbursable are not part of the global surgical package. • Intraoperative care : For a service with a global surgery period, the surgical care, including postoperative care before discharge from the hospital. • MAC : Medicare Administrative Contractor. • Medicare Physician Fee Schedule (MPFS) Relative Value File : A file published by CMS that includes, among other information, percentages of the global surgical package for the preoperative, intraoperative and postoperative management of a patient; and the professional procedure relative value unit (RVU). • Modifier 54 : Surgical care only. • Modifier 55 : Postoperative management only. • Modifier 56 : Preoperative management only. • Preoperative management : For a service with a global surgery period, that portion of a global surgical package provided before the surgical care. • Postoperative management : For a service with a global surgery period, that portion of a global surgical package provided after the surgical care and after discharge from the hospital. • Split global care : Global surgical package services provided, under a transfer of care, by multiple qualified healthcare practitioners."
+  },
+  "references": [
+    "Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 12 – Physicians/Nonphysician Practitioners . Sections 40.2.A.3, 40.2.B, 40.4.A and 40.4.B. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Physician Fee Schedule (MPFS) Relative Value File . www.cms.gov. • Centers for Medicare & Medicaid Services website. MLN Global Surgery Booklet . www.cms.gov. • American Medical Association’s CPT® and associated publications and services."
+  ],
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Education and news – This page can help you find clinical guidelines, educational tools, Medicare and Medicaid resources, our provider magazine and other resources to help you do business with us. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 5,
+    "total_tables": 0,
+    "total_characters": 7495
+  }
+}

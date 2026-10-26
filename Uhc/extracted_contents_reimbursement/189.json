@@ -1,0 +1,250 @@
+{
+  "policy_title": "Anatomical Modifier Requirement Policy",
+  "policy_number": "2026R5033C",
+  "policy_dates": {
+    "effective_date": "6/28/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to services reported using the 1500 Health Insurance Claim Form (a/k/a CMS-1500) or its electronic equivalent or its successor form. This policy applies to all products, all network and non-network physicians and other qualified health care professionals, including, but not limited to, non-network authorized and percent of charge contract physicians and other qualified health care professionals.",
+      "children": [
+        {
+          "title": "United Healthcare Commercial",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all UnitedHealthcare Commercial benefit plans."
+        },
+        {
+          "title": "UnitedHealthcare Individual Exchange",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all Individual Exchange benefit plans."
+        }
+      ]
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "This policy addresses the appropriate use of modifiers with certain CPT and HCPCS procedure codes. According to the Centers for Medicare and Medicaid Services (CMS), a modifier is a two-character code that is added, when appropriate, to the end of a procedure or service to clarify the services being billed. Modifiers add more information, such as the anatomical site, to the code. In addition, they help to eliminate the appearance of duplicate billing and unbundling. Modifiers are used to increase accuracy in reimbursement, coding consistency, editing, and to capture payment data."
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Percutaneous Coronary Artery Interventions (PCI)",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "Percutaneous coronary intervention (PCI), commonly known as coronary angioplasty or simply angioplasty, is a non- surgical procedure used to treat the stenotic (narrowed) coronary arteries of the heart found in coronary heart disease. According to the CMS National Correct Coding Initiative (NCCI) Policy Manual for Medicare Services, percutaneous coronary artery intervention (PCI) includes stent placement, atherectomy, and balloon angioplasty. There are CPT and HCPCS codes describing various combinations of these PCI procedures. There are five major coronary arteries (left main, left anterior descending, left circumflex, right, and ramus intermedius), each having a corresponding descriptive anatomical modifier. UnitedHealthcare requires PCI codes be reported with one of the five anatomical PCI modifiers in order to be considered for reimbursement."
+        },
+        {
+          "title": "PCI Codes",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "mixed",
+          "content": [
+            {
+              "key": "92920",
+              "value": "92924 92928 92930 92933 92937 92941 92943 92945 92973"
+            },
+            {
+              "key": "92974",
+              "value": "C9600 C9601 C9602 C9603 C9604 C9605 C9606 C9607 C9608"
+            }
+          ]
+        },
+        {
+          "title": "PCI Modifiers",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "mixed",
+          "content": [
+            {
+              "key": "LC",
+              "value": "LD LM RC RI"
+            }
+          ]
+        },
+        {
+          "title": "Surgical and Radiological Codes - Anatomical Modifiers",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "mixed",
+          "content": [
+            "Anatomical modifiers are used to designate the specific area of the body that a procedure was performed. Use of laterality and/or anatomical modifiers help to provide the highest specificity for the procedure being performed.",
+            "UnitedHealthcare Commercial and Individual Exchange plans require specific Surgical codes (10000-69999 Series) and Radiological codes (70000 Series) to be billed with the appropriate anatomical modifier for the procedure performed within an anatomical site.",
+            "Laterality and/or Anatomical Modifiers",
+            {
+              "key": "RI",
+              "value": "RT LT E1-E4 FA F1-F9"
+            },
+            {
+              "key": "TA",
+              "value": "T1-T9 LC LD LM RC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Why aren't all anatomical modifiers addressed in this policy?",
+            "A": "The intent of the Anatomical Modifier Requirement Policy is to require modifier usage where appropriate with applicable services and is not meant to address all possible anatomical modifier situations."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Will UnitedHealthcare consider reimbursement for services rendered on a specific digit appended with the RT modifier instead of specific digit modifiers?",
+            "A": "Providers should code to the highest specificity. The Appropriate F1-F9, FA, T1-T9, TA modifier would be accepted. Claim lines billed may deny when billed without the highest specificity."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association, Current Procedural Terminology (CPT) and associated publications and services Centers for Medicare and Medicaid Services, CMS Manual System and other CMS publications and services Centers for Medicare and Medicaid Services, Healthcare Common Procedure Coding System"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "6/28/2026",
+          "value": "Policy Version Change Update PCI Codes Table History Section: Entries prior to 6/28/2024 archived"
+        },
+        {
+          "key": "2/1/2026",
+          "value": "Policy Version Change Updated policy language in Surgical and Radiological Codes section Attachment list of Bilateral 1 CPT (CPT) Codes removed"
+        },
+        {
+          "key": "1/1/2026",
+          "value": "Policy Version Change Attachments update to Bilateral 1 CPT (CPT) Codes list PCI Codes updated"
+        },
+        {
+          "key": "9/21/2025",
+          "value": "Policy Version Change Policy language updated and a list of Bilateral 1 CPT (CPT) Codes added"
+        },
+        {
+          "key": "6/29/2025",
+          "value": "Policy Version Change Policy language updated and a list of Bilateral 1 CPT (CPT) Codes added"
+        },
+        {
+          "key": "4/23/2025",
+          "value": "Policy Version Change PCI Codes updated"
+        },
+        {
+          "key": "1/12/2025",
+          "value": "Policy Version Change PCI Codes updated"
+        },
+        {
+          "key": "11/1/2024",
+          "value": "Policy Version Change Enhancement to policy language and Surgical Codes - Anatomical Modifiers Policy language added, and surgical codes list of Bilateral 1 CPT (CPT) Codes added"
+        },
+        {
+          "key": "8/1/2023",
+          "value": "Policy implemented by UnitedHealthcare Employer & Individual"
+        },
+        {
+          "key": "4/6/2023",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Commercial",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "92920",
+    "92924",
+    "92928",
+    "92930",
+    "92933",
+    "92937",
+    "92941",
+    "92943",
+    "92945",
+    "92973",
+    "92974",
+    "C9600",
+    "C9601",
+    "C9602",
+    "C9603",
+    "C9604",
+    "C9605",
+    "C9606",
+    "C9607",
+    "C9608",
+    "10000",
+    "69999",
+    "70000"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "F1",
+    "F9",
+    "FA",
+    "T1",
+    "T9",
+    "TA"
+  ]
+}

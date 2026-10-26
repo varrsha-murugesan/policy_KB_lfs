@@ -1,0 +1,198 @@
+{
+  "policy_title": "Radiation Therapy Planning, Dosimetry, Simulation/Devices and Management Policy",
+  "policy_number": "2026R9068A",
+  "policy_dates": {
+    "effective_date": "2/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "Therapeutic radiology clinical treatment planning (CPT Codes 77261, 77262, and 77263) is part of a series of services or procedures performed on a patient receiving radiation therapy. Clinical treatment planning is a separate and discrete step in the process of care that represents services that are unique and distinct from those provided within other planning codes. Within clinical treatment planning, the radiation oncologist develops the parameters of the therapeutic management plan, including the overall clinical, physical, and technical aspects of radiation treatment required for safe and effective therapy for each patient. This includes determining the treatment modality, total dose, fractionation and the need for planned field changes. This policy addresses the reimbursable units for procedures and services performed within the 90-day episode of care and applicable reimbursement guidelines. During an episode of care, it may become necessary to perform additional clinical treatment planning, due to changes in the patient's condition. A new 90-day episode of care starts each time a therapeutic radiology treatment planning code (77261, 77262, or 77263) is billed."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "mixed",
+          "content": [
+            "An episode of care begins when the first therapeutic radiology clinical treatment planning code (77261, 77262, or 77263) is billed and extends up to 90 days or when a new planning code is billed. Within the episode of care, UnitedHealthcare will consider reimbursement for the services, procedures, and units outlined below under the Treatment Management Codes section of the Applicable Codes. The reimbursable units per treatment planning episode are designed to capture all of the reimbursable work a provider does associated with these codes as part of treatment planning. Units billed in excess of the reimbursable units per treatment planning episode will not be considered for reimbursement. Additional reimbursement policies may be applicable to these codes, including but not limited to: Intensity Modulated Radiation Therapy (IMRT), CCI (procedure-to-procedure) and Maximum Frequency Per Day (MFD).",
+            {
+              "key": "77261",
+              "value": "77262 77263"
+            },
+            {
+              "key": "CPT Code",
+              "value": "Reimbursable CPT Code Reimbursable CPT Code Reimbursable"
+            },
+            {
+              "key": "77280",
+              "value": "4 77301 5 77338 5"
+            },
+            {
+              "key": "77285",
+              "value": "2 77332 10 77427 9"
+            },
+            {
+              "key": "77290",
+              "value": "3 77333 10 77431 1"
+            },
+            {
+              "key": "77295",
+              "value": "2 77334 10 77435 1"
+            },
+            {
+              "key": "77300",
+              "value": "10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Codes",
+      "level": 1,
+      "confirmed": false,
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Episode of Care",
+          "value": "An episode of care begins when the first therapeutic radiology clinical treatment planning code is billed and extends up to 90 days or when a new planning code is billed."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "How do I know when a new episode of care begins?",
+            "A": "An episode of care begins when one of the therapeutic radiology treatment planning CPT codes (77261, 77262, 77263) is billed. Coding standards allow for only one of the planning codes per episode of care. Additional use of these treatment planning codes before a 90-day episode is completed would be due to changes in the patient's condition."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Will modifiers influence the accumulation of reimbursable units?",
+            "A": "Professional (26 modifier) and Technical (TC modifier) components, billed with the same code will be considered together when calculating the units allowed. Other modifiers may be appended but do not impact the accumulation of units."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "What happens if a provider bills over the unit limits?",
+            "A": "If the provider bills more than the reimbursable units within a 90-day episode of care, the reimbursable units allowed would be considered for reimbursement. The units over the reimbursable units will be denied."
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "Q": "What if brachytherapy services are billed within the 90-day episode of care?",
+            "A": "When brachytherapy services are present within the 90-day episode care, unit limitations described in this policy are not applicable."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association, Current Procedural Terminology (CPT) and associated publications and services. Centers for Medicare and Medicaid Services, National Correct Coding Initiative (NCCI) publications. American Society for Radiation Oncology (ASTRO)."
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "2/1/2026",
+          "value": "Policy Version Change Anniversary Review"
+        },
+        {
+          "key": "8/14/2025",
+          "value": "Policy Version Change Updated Questions and Answers sections"
+        },
+        {
+          "key": "2/01/2025",
+          "value": "Policy implemented by UnitedHealthcare Medicare and Retirement"
+        },
+        {
+          "key": "1/22/2025",
+          "value": "Policy approved by the Payment Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "77261",
+    "77262",
+    "77263",
+    "77280",
+    "77301",
+    "77338",
+    "77285",
+    "77332",
+    "77427",
+    "77290",
+    "77333",
+    "77431",
+    "77295",
+    "77334",
+    "77435",
+    "77300"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "26",
+    "TC"
+  ]
+}

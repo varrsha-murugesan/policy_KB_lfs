@@ -1,0 +1,2356 @@
+{
+  "policy_title": "National Drug Code (NDC) Requirement Professional and Facility Policy",
+  "policy_number": "2026R6002C",
+  "policy_dates": {
+    "effective_date": "9/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy describes the National Drug Code information that is required on professional and facility drug claims that are reported for reimbursement. National Drug Code (NDC) numbers are the industry standard identifier for drugs and provide full transparency to the medication administered. The NDC number identifies the manufacturer, drug name, dosage, strength, package size and quantity. For purposes of this policy, a valid NDC number, NDC unit of measure, and NDC units dispensed for the drug administered will be required for reimbursement of professional drug claims on a 1500 Health Insurance Claim Form (a/k/a CMS-1500) or the 837 professional transaction. A valid NDC number, NDC unit of measure and NDC units dispensed for unlisted drugs administered will be required for reimbursement of drug claims on a UB-04 Claim Form or the 837i facility"
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "mixed",
+          "content": [
+            "The NDC is a unique numeric identifier assigned to medications listed under Section 510 of the United States Federal Food, Drug and Cosmetic Act. The 11-digit NDC is separated into three segments in a 5-4-2 format. They are as follows: - The first five digits identify the manufacturer of the drug and are assigned by the Food and Drug Administration (FDA) - The remaining 6 digits are assigned by the manufacturer and identify the specific product and package size",
+            "Sometimes the NDC on the label does not include the 11 digits. If this occurs, it will be necessary to add a leading zero to the appropriate section to create a 5-4-2 configuration (i.e. 66733-0948-23 in the following sample). A valid NDC without spaces or hyphens should be placed on the medical claim. The NDC submitted must be the actual valid NDC number on the container from which the medication was administered.",
+            "XXXX-XXXX-XX = 0XXXX-XXXX-XX XXXXX-XXX-XX = XXXXX-0XXX-XX XXXXX-XXXX-X = XXXXX-XXXX-0X",
+            "NDC Unit of Measure (UOM)",
+            {
+              "key": "Description",
+              "value": "General Guidelines"
+            },
+            {
+              "key": "International unit",
+              "value": "International units will mainly be used when billing for Factor."
+            },
+            {
+              "key": "Gram",
+              "value": "Grams are usually used when an ointment, cream, inhaler, or bulk powder in a jar are dispensed. This unit of measure will primarily be used in the retail pharmacy."
+            },
+            "UOM F2 GR",
+            {
+              "key": "Milliliter",
+              "value": "If a drug is supplied in a vial in liquid form, bill in milliliters."
+            },
+            {
+              "key": "Unit",
+              "value": "If a drug is supplied in a vial in powder form, and must be reconstituted before administration, bill each vial (unit/each) used."
+            },
+            "ML UN",
+            "NDC Units Dispensed The actual decimal quantity administered and the units of measurement are required on the claim. If reporting a partial unit, use a decimal point (i.e. if three 0.5 ml vials are dispensed, report LM 1/5).",
+            "- GR0.045 - ML1.5 - UN2.0",
+            "The number of digits for the quantity is limited to eight digits before the decimal and three digits after the decimal. If entering a whole number, do not use a decimal. Do not use commas. Do not zero fill, leave remaining positions blank. Please refer to the following examples:",
+            "- 1234.56 - 2 - 12345678.123",
+            "Requiring the NDC information will differentiate drugs that share the same HCPCS code for drug preferences, allow the ability to identify billing errors and improve reimbursement processes.",
+            "If the NDC is missing, invalid or incomplete the claim may be denied. If the claim is denied, then it can be resubmitted with the appropriate NDC information for reconsideration of reimbursement.",
+            "Maximum Units per Package",
+            "Units submitted for a drug should not exceed the package maximum units available based on the NDC number or in increments associated with the drug package. Maximum units will be applied for specific drugs where a specific and standard number of units should be submitted per the NDC of the package.",
+            "When units submitted exceed the maximum units allowed per package or when units submitted are not in increments of the package, the units over the maximum unit will be denied."
+          ],
+          "subsections": [
+            {
+              "title": "NDC Unit of Measure (UOM)"
+            },
+            {
+              "title": "UOM",
+              "content": "Description General Guidelines F2 International unit International units will mainly be used when billing for Factor. GR Gram Grams are usually used when an ointment, cream, inhaler, or bulk powder in a jar are dispensed.  This unit of measure will primarily be used in the retail pharmacy. ML Milliliter If a drug is supplied in a vial in liquid form, bill in milliliters. UN Unit If a drug is supplied in a vial in powder form, and must be reconstituted before administration, bill each vial (unit/each) used."
+            },
+            {
+              "title": "NDC Units Dispensed",
+              "content": "The actual decimal quantity administered and the units of measurement are required on the claim.  If reporting a partial unit, use a decimal point (i.e. if three 0.5 ml vials are dispensed, report LM 1/5). • GR0.045 • ML1.5 • UN2.0 The number of digits for the quantity is limited to eight digits before the decimal and three digits after the decimal.  If entering a whole number, do not use a decimal.  Do not use commas.  Do not zero fill, leave remaining positions blank. Please refer to the following examples: • 1234.56 • 2 • 12345678.123 Requiring the NDC information will differentiate drugs that share the same HCPCS code for drug preferences, allow the ability to identify billing errors and improve reimbursement processes. If the NDC is missing, invalid or incomplete the claim may be denied.  If the claim is denied, then it can be resubmitted with the appropriate NDC information for reconsideration of reimbursement."
+            },
+            {
+              "title": "Maximum Units per Package",
+              "content": "Units submitted for a drug should not exceed the package maximum units available based on the NDC number or in increments associated with the drug package.  Maximum units will be applied for specific drugs where a specific and standard number of units should be submitted per the NDC of the package. When units submitted exceed the maximum units allowed per package or when units submitted are not in increments of the package, the units over the maximum unit will be denied."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Do I have to bill the NDC information in addition to HCPCS/CPT codes?",
+            "A": "Yes, a valid NDC must be submitted in addition to the applicable HCPCS or CPT code(s) and the number of HCPCS/CPT units."
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "Q": "Are the NDC units dispensed different from the HCPCS/CPT code units?",
+            "A": "Yes. The units submitted for HCPCS/CPT codes are based on the HCPCS/CPT code description. The NDC units dispensed are based upon the numeric quantity administered to the patient and the NDC unit of measure."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "If the medication comes in a box with multiple vials, should I use the NDC number on the box or the NDC number of the individual vial?",
+            "A": "The NDC required is from the vial that was administered to the member along with the appropriate NDC unit of measure and NDC quantity administered."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Attachments",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "NDC-Numbers-For-Packaged-Drugs-With-Maximum-Units",
+          "value": "This list contains NDC Numbers for packaged drugs and their maximum units."
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov Medicare Benefit Policy Manual - Chapter 15 Covered Medical and Other Health Services-Section 50 Medicare Claims Processing Manual - Chapter 17 - Drugs and Biologicals-Section 20.5.4, 70 and 90.3 Medicare Claims Processing Manual - Chapter 25 - Completing and Processing the Form CMS-1450 Data Set-Section 70 and 70.5 Medicare Claims Processing Manual - Chapter 26 - Completing and Processing Form CMS-1500 Data Set-Item 24 The Medicare Learning Network (MLN)-SE1234 National Uniform Claim Committee National Drug Code Directory"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "9/1/2026",
+          "value": "Policy Version Change Resource Section: Updated History section: Entries prior to 9/1/2024 archived"
+        },
+        {
+          "key": "4/22/2026",
+          "value": "Policy Version Change Policy List: Updated History section: Entries prior to 4/22/2024 archived"
+        },
+        {
+          "key": "2/1/2026",
+          "value": "Policy Version Change Policy List: Updated"
+        },
+        {
+          "key": "12/23/2025",
+          "value": "Policy Version Change Policy List: Updated"
+        },
+        {
+          "key": "9/1/2025",
+          "value": "Policy Version Change Table of Content Section: Added"
+        },
+        {
+          "key": "9/1/2024",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "1/1/2017",
+          "value": "Policy implemented by UnitedHealthcare Medicare Advantage"
+        },
+        {
+          "key": "9/13/2016",
+          "value": "Policy approved by the Payment Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [
+    {
+      "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/attachments/reimbursement/NDC-Numbers-For-Packaged-Drugs-With-Maximum-Units.pdf",
+      "content": [
+        {
+          "page": 1,
+          "content": "Drug Name\nJcode\nNDC11\nUnit Limit \n1\nUnit Limit \n2\nUnit Limit \n3\nMultiple Site\nAbilify main\nJ0401\n59148001871\n300\nN\nAbilify main\nJ0401\n59148004580\n300\nN\nAbilify main\nJ0401\n59148001870\n300\nN\nAbilify main\nJ0401\n59148007280\n400\nN\nAbilify main\nJ0401\n59148001970\n400\nN\nAbilify main\nJ0401\n59148001971\n400\nN\nAbilify main\nJ0401\n59148023212\n300\nN\nAbilify main\nJ0401\n59148023570\n300\nN\nAbilify main\nJ0401\n59148023890\n400\nN\nAbilify main\nJ0401\n59148024512\n400\nN\nSIMULECT \nJ0480\n00078033184\n1\nN\nSIMULECT \nJ0480\n00078039361\n1\nN\nProlia\nJ0897\n55513071001\n60\nN\nProlia\nJ0897\n55513071021\n60\nN\nXgeva\nJ0897\n55513073001\n120\nN\nXgeva\nJ0897\n55513073021\n120\nN\nQUZYTTIR\nJ1201\n70720010001\n20\nN\nQUZYTTIR\nJ1201\n70720010010\n20\nN\nQUZYTTIR\nJ1201\n70720010025\n500\nN\nQALSODY\nJ1304\n64406010901\n100\nN\nNeupogen\nJ1442\n55513053001\n300\n600\n900 N\nNeupogen\nJ1442\n55513053010\n300\n600\n900 N\nNeupogen\nJ1442\n55513092401\n300\n600\n900 N\nNeupogen\nJ1442\n55513092410\n300\n600\n900 N\nNeupogen\nJ1442\n55513092491\n300\n600\n900 N\nNeupogen\nJ1442\n55513020901\n480\nN\nNeupogen\nJ1442\n55513054601\n480\nN\nNeupogen\nJ1442\n55513020991\n480\nN\nGranix\nJ1447\n63459091017\n300\n600\n900 N\nGranix\nJ1447\n63459091011\n300\n600\n900 N\nGranix\nJ1447\n63459091018\n300\n600\n900 N\nGranix\nJ1447\n63459091218\n480\nN\nGranix\nJ1447\n63459091853\n300\n600\n900 N\nGranix\nJ1447\n63459092053\n480\nN\nGranix\nJ1447\n63459091217\n480\nN\nGranix\nJ1447\n63459091012\n300\n600\n900 N\nGranix\nJ1447\n63459091001\n300\n600\n900 N\nGranix\nJ1447\n63459091201\n480\nN\nGranix\nJ1447\n63459091211\n480\nN\nGranix\nJ1447\n63459091212\n480\nN\nSomatuline depot\nJ1930\n15054109004\n90\nN\nSomatuline depot\nJ1930\n15054112004\n120\nN"
+        },
+        {
+          "page": 2,
+          "content": "Somatuline depot\nJ1930\n15054106004\n60\nN\nLupron\nJ1950\n00074228203\n3\nN\nLupron\nJ1950\n00074210803\n2\nN\nLupron\nJ1950\n00074244003\n4\nN\nLupron\nJ1950\n00074364103\n1\nN\nLupron\nJ1950\n00074366303\n3\nN\nLupron\nJ1950\n00074377903\n3\nN\nLupron\nJ1950\n00074969403\n8\nN\nLupron\nJ1950\n00074364171\n1\nN\nLupron\nJ1950\n00074357501\n12\nN\nSandostatin\nJ2353\n00078081181\n10\nN\nSandostatin\nJ2353\n00078081881\n20\n40\n60 N\nSandostatin\nJ2353\n00078079761\n20\n40\n60 N\nSandostatin\nJ2353\n00078082581\n30\nN\nSandostatin\nJ2353\n00078080461\n30\nN\nSandostatin\nJ2353\n00078079061\n10\nN\nOctreotide Acetate\nJ2354\n00641617401\n2\nN\nOctreotide Acetate\nJ2354\n00641617410\n20\nN\nOctreotide Acetate\nJ2354\n00641617501\n4\nN\nOctreotide Acetate\nJ2354\n00641617510\n40\nN\nOctreotide Acetate\nJ2354\n00641617601\n20\nN\nOctreotide Acetate\nJ2354\n00641617610\n200\nN\nOctreotide Acetate\nJ2354\n00641617701\n40\nN\nOctreotide Acetate\nJ2354\n00641617801\n200\nN\nOctreotide Acetate\nJ2354\n23155068531\n40\nN\nOctreotide Acetate\nJ2354\n23155068631\n200\nN\nOctreotide Acetate\nJ2354\n23155068731\n2\nN\nOctreotide Acetate\nJ2354\n23155068741\n20\nN\nOctreotide Acetate\nJ2354\n23155068831\n4\nN\nOctreotide Acetate\nJ2354\n23155068841\n40\nN\nOctreotide Acetate\nJ2354\n23155068931\n20\nN\nOctreotide Acetate\nJ2354\n23155068941\n200\nN\nOctreotide Acetate\nJ2354\n25021046301\n20\nN\nOctreotide Acetate\nJ2354\n25021046401\n40\nN\nOctreotide Acetate\nJ2354\n25021046501\n200\nN\nOctreotide Acetate\nJ2354\n25021046605\n40\nN\nOctreotide Acetate\nJ2354\n25021046705\n200\nN\nOctreotide Acetate\nJ2354\n62756009440\n4\nN\nOctreotide Acetate\nJ2354\n62756034844\n20\nN\nOctreotide Acetate\nJ2354\n62756034944\n40\nN\nOctreotide Acetate\nJ2354\n62756035040\n40\nN\nOctreotide Acetate\nJ2354\n62756035144\n200\nN\nOctreotide Acetate\nJ2354\n62756035240\n200\nN\nOctreotide Acetate\nJ2354\n63323037600\n4\nN"
+        },
+        {
+          "page": 3,
+          "content": "Octreotide Acetate\nJ2354\n63323037601\n40\nN\nOctreotide Acetate\nJ2354\n63323037604\n40\nN\nOctreotide Acetate\nJ2354\n63323037641\n4\nN\nOctreotide Acetate\nJ2354\n63323037700\n20\nN\nOctreotide Acetate\nJ2354\n63323037701\n200\nN\nOctreotide Acetate\nJ2354\n63323037704\n200\nN\nOctreotide Acetate\nJ2354\n63323037741\n20\nN\nOctreotide Acetate\nJ2354\n63323037805\n40\nN\nOctreotide Acetate\nJ2354\n63323037905\n200\nN\nOctreotide Acetate\nJ2354\n63629883101\n100\nN\nOctreotide Acetate\nJ2354\n64679063601\n2\nN\nOctreotide Acetate\nJ2354\n64679063602\n2\nN\nOctreotide Acetate\nJ2354\n67457023900\n2\nN\nOctreotide Acetate\nJ2354\n67457023901\n20\nN\nOctreotide Acetate\nJ2354\n67457024500\n4\nN\nOctreotide Acetate\nJ2354\n67457024501\n40\nN\nOctreotide Acetate\nJ2354\n67457024600\n20\nN\nOctreotide Acetate\nJ2354\n67457024601\n200\nN\nOctreotide Acetate\nJ2354\n68462089601\n4\nN\nOctreotide Acetate\nJ2354\n68462089610\n40\nN\nOctreotide Acetate\nJ2354\n68462089701\n20\nN\nOctreotide Acetate\nJ2354\n68462089710\n200\nN\nSandostatin\nJ2354\n00078018001\n20\nN\nSandostatin\nJ2354\n00078018061\n2\nN\nSandostatin\nJ2354\n00078018101\n40\nN\nSandostatin\nJ2354\n00078018161\n4\nN\nSandostatin\nJ2354\n00078018201\n200\nN\nSandostatin\nJ2354\n00078018261\n20\nN\nTrelstar\nJ3315\n74676590400\n3\nN\nTrelstar\nJ3315\n74676590401\n3\nN\nTrelstar\nJ3315\n74676590200\n1\nN\nTrelstar\nJ3315\n74676590201\n1\nN\nTrelstar\nJ3315\n74676590600\n6\nN\nTrelstar\nJ3315\n74676590601\n6\nN\nVYJUVEK\nJ3401\n82194051002\n25\nN\nZometa\nJ3489\n67457079410\n5\nN\nZometa\nJ3489\n67457061910\n5\nN\nZometa\nJ3489\n54288010001\n4\nN\nZometa\nJ3489\n63323096600\n5\nN\nZometa\nJ3489\n55111068852\n5\nN\nZometa\nJ3489\n25021082682\n4\nN\nZometa\nJ3489\n00409421501\n4\nN\nZometa\nJ3489\n16729024231\n4\nN\nZometa\nJ3489\n43598033011\n4\nN"
+        },
+        {
+          "page": 4,
+          "content": "Zometa\nJ3489\n25021082667\n4\nN\nZometa\nJ3489\n55111068507\n4\nN\nZometa\nJ3489\n63323096198\n4\nN\nZometa\nJ3489\n67457039054\n4\nN\nZometa\nJ3489\n23155017031\n4\nN\nZometa\nJ3489\n43598023311\n4\nN\nZometa\nJ3489\n68001061025\n4\nN\nZometa\nJ3489\n69367019050\n4\nN\nZometa\nJ3489\n71288080651\n5\nN\nZometa\nJ3489\n72266015201\n5\nN\nZometa\nJ3489\n72603019801\n4\nN\nReclast\nJ3489\n66758015546\n5\nN\nZometa\nJ3489\n68001061133\n5\nN\nZometa\nJ3489\n83634080105\n4\nN\nFIRMAGON\nJ9155\n55566830301\n80\nN\nFIRMAGON\nJ9155\n55566840301\n240\nN\nFIRMAGON\nJ9155\n55566840200\n120\nN\nZoladex\nJ9202\n70720095036\n1\nN\nZoladex\nJ9202\n50090346600\n1\nN\nZoladex\nJ9202\n70720095130\n3\nN\nEligard\nJ9217\n62935022004\n3\nN\nEligard\nJ9217\n62935022104\n3\nN\nEligard\nJ9217\n62935022305\n3\nN\nEligard\nJ9217\n62935030529\n4\nN\nEligard\nJ9217\n62935030330\n4\nN\nEligard\nJ9217\n62935075474\n1\nN\nEligard\nJ9217\n62935075375\n1\nN\nEligard\nJ9217\n62935045444\n6\nN\nEligard\nJ9217\n62935045345\n6\nN\nEligard\nJ9217\n62935022710\n3\nN\nEligard\nJ9217\n62935030640\n4\nN\nEligard\nJ9217\n62935075680\n1\nN\nEligard\nJ9217\n62935046150\n6\nN\nLupron\nJ9217\n00074334603\n3\nN\nLupron\nJ9217\n00074368303\n4\nN\nLupron\nJ9217\n00074364203\n1\nN\nLupron\nJ9217\n00074347303\n6\nN\nJELMYTO\nJ9281\n72493010140\n40\nN\nJELMYTO\nJ9281\n72493010303\n160\nN\nEYLEA \nJ0177\n61755005050\n8\n16\nY\nEYLEA \nJ0177\n61755005000\n8\n16\nY\nEYLEA \nJ0177\n61755005001\n8\n16\nY\nEYLEA \nJ0177\n61755005051\n8\n16\nY\nEYLEA \nJ0177\n61755005101\n8\n16\nY"
+        },
+        {
+          "page": 5,
+          "content": "EYLEA\nJ0178\n61755000501\n2\n4\nY\nEYLEA\nJ0178\n61755000502\n2\n4\nY\nEYLEA\nJ0178\n61755000554\n2\n4\nY\nEYLEA\nJ0178\n61755000555\n2\n4\nY\nBEOVU\nJ0179\n00078082760\n6\n12\nY\nVABYSMO\nJ2777\n50242009601\n60\n120\nY\nVABYSMO\nJ2777\n50242009677\n60\n120\nY\nVABYSMO\nJ2777\n50242009686\n60\n120\nY\nVABYSMO\nJ2777\n50242009606\n60\n120\nY\nVABYSMO\nJ2777\n50242009603\n60\n120\nY\nLUCENTIS\nJ2778\n50242008003\n5\n10\nY\nLUCENTIS\nJ2778\n50242008088\n5\n10\nY\nLUCENTIS\nJ2778\n50242008203\n3\n6\nY\nLUCENTIS\nJ2778\n50242008288\n3\n6\nY\nSUSVIMO\nJ2779\n50242007812\n100\n200\nY\nSUSVIMO\nJ2779\n50242007855\n100\n200\nY\nSYFOVRE\nJ2781\n73606002001\n15\n30\nY\nSYFOVRE\nJ2781\n73606002002\n15\n30\nY\nIZERVAY\nJ2782\n82829000201\n20\n40\nY\nIZERVAY\nJ2782\n82829000299\n20\n40\nY\nLUXTURNA\nJ3398\n71394006501\n150\n300\nY\nLUXTURNA\nJ3398\n71394041501\n150\n300\nY\nDUROLAN\nJ7318\n89130202001\n60\n120\nY\nGENVISC\nJ7320\n50653000601\n25\n50\nY\nHYALGAN\nJ7321\n89122072412\n1\n2\nY\nHYALGAN\nJ7321\n89122072420\n1\n2\nY\nSUPARTZ FX\nJ7321\n89130444401\n1\n2\nY\nVISCO\nJ7321\n50016095721\n1\n2\nY\nHYMOVIS\nJ7322\n89122049601\n24\n48\nY\nHYMOVIS\nJ7322\n89122075001\n32\n64\nY\nEUFLEXXA\nJ7323\n55566410000\n1\n2\nY\nEUFLEXXA\nJ7323\n55566410001\n1\n2\nY\nEUFLEXXA\nJ7323\n55566410003\n1\n2\nY\nEUFLEXXA\nJ7323\n55566410004\n1\n2\nY\nORTHOVISC\nJ7324\n59676036001\n1\n2\nY\nSynvisc\nJ7325\n58468009001\n48\n96\nY\nSynvisc\nJ7325\n58468009003\n48\n96\nY\nGEL-ONE\nJ7326\n50016095711\n1\n2\nY\nMONOVISC\nJ7327\n59676082001\n1\n2\nY\nGELSYN\nJ7328\n89130311101\n168\n336\nY\nTRIVISC\nJ7329\n50653000604\n25\n50\nY\nSYNOJOYNT\nJ7331\n82197072116\n60\n120\nY\nSYNOJOYNT\nJ7331\n88867041368\n60\n120\nY\nTRILURON\nJ7332\n89122087901\n20\n40\nY"
+        },
+        {
+          "page": 6,
+          "content": "QUTENZA\nJ7336\n72512092801\n280\n560\nY\nQUTENZA\nJ7336\n72512092901\n560\n1120\nY\nQUTENZA\nJ7336\n72512093001\n1120\n2240\nY\nQUTENZA\nJ7336\n72512092000\n280\n560\nY\nBYOOVIZ\nQ5124\n64406001901\n10\n20\nY\nBYOOVIZ\nQ5124\n64406001907\n10\n20\nY\nCIMERLI\nQ5128\n61314062494\n3\n6\nY\nCIMERLI\nQ5128\n61314062594\n5\n10\nY"
+        }
+      ],
+      "tables": [
+        {
+          "page": 1,
+          "columns": [
+            "Drug Name",
+            "Jcode",
+            "NDC11",
+            "Unit Limit 1",
+            "Unit Limit 2",
+            "Unit Limit 3",
+            "Multiple Site"
+          ],
+          "rows": [
+            {
+              "Drug Name": "Abilify main",
+              "Jcode": "J0401",
+              "NDC11": "59148001871",
+              "Unit Limit 1": "300",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Abilify main",
+              "Jcode": "J0401",
+              "NDC11": "59148004580",
+              "Unit Limit 1": "300",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Abilify main",
+              "Jcode": "J0401",
+              "NDC11": "59148001870",
+              "Unit Limit 1": "300",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Abilify main",
+              "Jcode": "J0401",
+              "NDC11": "59148007280",
+              "Unit Limit 1": "400",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Abilify main",
+              "Jcode": "J0401",
+              "NDC11": "59148001970",
+              "Unit Limit 1": "400",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Abilify main",
+              "Jcode": "J0401",
+              "NDC11": "59148001971",
+              "Unit Limit 1": "400",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Abilify main",
+              "Jcode": "J0401",
+              "NDC11": "59148023212",
+              "Unit Limit 1": "300",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Abilify main",
+              "Jcode": "J0401",
+              "NDC11": "59148023570",
+              "Unit Limit 1": "300",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Abilify main",
+              "Jcode": "J0401",
+              "NDC11": "59148023890",
+              "Unit Limit 1": "400",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Abilify main",
+              "Jcode": "J0401",
+              "NDC11": "59148024512",
+              "Unit Limit 1": "400",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "SIMULECT",
+              "Jcode": "J0480",
+              "NDC11": "00078033184",
+              "Unit Limit 1": "1",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "SIMULECT",
+              "Jcode": "J0480",
+              "NDC11": "00078039361",
+              "Unit Limit 1": "1",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Prolia",
+              "Jcode": "J0897",
+              "NDC11": "55513071001",
+              "Unit Limit 1": "60",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Prolia",
+              "Jcode": "J0897",
+              "NDC11": "55513071021",
+              "Unit Limit 1": "60",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Xgeva",
+              "Jcode": "J0897",
+              "NDC11": "55513073001",
+              "Unit Limit 1": "120",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Xgeva",
+              "Jcode": "J0897",
+              "NDC11": "55513073021",
+              "Unit Limit 1": "120",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "QUZYTTIR",
+              "Jcode": "J1201",
+              "NDC11": "70720010001",
+              "Unit Limit 1": "20",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "QUZYTTIR",
+              "Jcode": "J1201",
+              "NDC11": "70720010010",
+              "Unit Limit 1": "20",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "QUZYTTIR",
+              "Jcode": "J1201",
+              "NDC11": "70720010025",
+              "Unit Limit 1": "500",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "QALSODY",
+              "Jcode": "J1304",
+              "NDC11": "64406010901",
+              "Unit Limit 1": "100",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Neupogen",
+              "Jcode": "J1442",
+              "NDC11": "55513053001",
+              "Unit Limit 1": "300",
+              "Unit Limit 2": "600",
+              "Unit Limit 3": "900",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Neupogen",
+              "Jcode": "J1442",
+              "NDC11": "55513053010",
+              "Unit Limit 1": "300",
+              "Unit Limit 2": "600",
+              "Unit Limit 3": "900",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Neupogen",
+              "Jcode": "J1442",
+              "NDC11": "55513092401",
+              "Unit Limit 1": "300",
+              "Unit Limit 2": "600",
+              "Unit Limit 3": "900",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Neupogen",
+              "Jcode": "J1442",
+              "NDC11": "55513092410",
+              "Unit Limit 1": "300",
+              "Unit Limit 2": "600",
+              "Unit Limit 3": "900",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Neupogen",
+              "Jcode": "J1442",
+              "NDC11": "55513092491",
+              "Unit Limit 1": "300",
+              "Unit Limit 2": "600",
+              "Unit Limit 3": "900",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Neupogen",
+              "Jcode": "J1442",
+              "NDC11": "55513020901",
+              "Unit Limit 1": "480",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Neupogen",
+              "Jcode": "J1442",
+              "NDC11": "55513054601",
+              "Unit Limit 1": "480",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Neupogen",
+              "Jcode": "J1442",
+              "NDC11": "55513020991",
+              "Unit Limit 1": "480",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Granix",
+              "Jcode": "J1447",
+              "NDC11": "63459091017",
+              "Unit Limit 1": "300",
+              "Unit Limit 2": "600",
+              "Unit Limit 3": "900",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Granix",
+              "Jcode": "J1447",
+              "NDC11": "63459091011",
+              "Unit Limit 1": "300",
+              "Unit Limit 2": "600",
+              "Unit Limit 3": "900",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Granix",
+              "Jcode": "J1447",
+              "NDC11": "63459091018",
+              "Unit Limit 1": "300",
+              "Unit Limit 2": "600",
+              "Unit Limit 3": "900",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Granix",
+              "Jcode": "J1447",
+              "NDC11": "63459091218",
+              "Unit Limit 1": "480",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Granix",
+              "Jcode": "J1447",
+              "NDC11": "63459091853",
+              "Unit Limit 1": "300",
+              "Unit Limit 2": "600",
+              "Unit Limit 3": "900",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Granix",
+              "Jcode": "J1447",
+              "NDC11": "63459092053",
+              "Unit Limit 1": "480",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Granix",
+              "Jcode": "J1447",
+              "NDC11": "63459091217",
+              "Unit Limit 1": "480",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Granix",
+              "Jcode": "J1447",
+              "NDC11": "63459091012",
+              "Unit Limit 1": "300",
+              "Unit Limit 2": "600",
+              "Unit Limit 3": "900",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Granix",
+              "Jcode": "J1447",
+              "NDC11": "63459091001",
+              "Unit Limit 1": "300",
+              "Unit Limit 2": "600",
+              "Unit Limit 3": "900",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Granix",
+              "Jcode": "J1447",
+              "NDC11": "63459091201",
+              "Unit Limit 1": "480",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Granix",
+              "Jcode": "J1447",
+              "NDC11": "63459091211",
+              "Unit Limit 1": "480",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Granix",
+              "Jcode": "J1447",
+              "NDC11": "63459091212",
+              "Unit Limit 1": "480",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Somatuline depot",
+              "Jcode": "J1930",
+              "NDC11": "15054109004",
+              "Unit Limit 1": "90",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            },
+            {
+              "Drug Name": "Somatuline depot",
+              "Jcode": "J1930",
+              "NDC11": "15054112004",
+              "Unit Limit 1": "120",
+              "Unit Limit 2": "",
+              "Unit Limit 3": "",
+              "Multiple Site": "N"
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "columns": [
+            "Somatuline depot",
+            "J1930",
+            "15054106004",
+            "60",
+            "Column 5",
+            "Column 6",
+            "N"
+          ],
+          "rows": [
+            {
+              "Somatuline depot": "Lupron",
+              "J1930": "J1950",
+              "15054106004": "00074228203",
+              "60": "3",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Lupron",
+              "J1930": "J1950",
+              "15054106004": "00074210803",
+              "60": "2",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Lupron",
+              "J1930": "J1950",
+              "15054106004": "00074244003",
+              "60": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Lupron",
+              "J1930": "J1950",
+              "15054106004": "00074364103",
+              "60": "1",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Lupron",
+              "J1930": "J1950",
+              "15054106004": "00074366303",
+              "60": "3",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Lupron",
+              "J1930": "J1950",
+              "15054106004": "00074377903",
+              "60": "3",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Lupron",
+              "J1930": "J1950",
+              "15054106004": "00074969403",
+              "60": "8",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Lupron",
+              "J1930": "J1950",
+              "15054106004": "00074364171",
+              "60": "1",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Lupron",
+              "J1930": "J1950",
+              "15054106004": "00074357501",
+              "60": "12",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Sandostatin",
+              "J1930": "J2353",
+              "15054106004": "00078081181",
+              "60": "10",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Sandostatin",
+              "J1930": "J2353",
+              "15054106004": "00078081881",
+              "60": "20",
+              "Column 5": "40",
+              "Column 6": "60",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Sandostatin",
+              "J1930": "J2353",
+              "15054106004": "00078079761",
+              "60": "20",
+              "Column 5": "40",
+              "Column 6": "60",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Sandostatin",
+              "J1930": "J2353",
+              "15054106004": "00078082581",
+              "60": "30",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Sandostatin",
+              "J1930": "J2353",
+              "15054106004": "00078080461",
+              "60": "30",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Sandostatin",
+              "J1930": "J2353",
+              "15054106004": "00078079061",
+              "60": "10",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "00641617401",
+              "60": "2",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "00641617410",
+              "60": "20",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "00641617501",
+              "60": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "00641617510",
+              "60": "40",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "00641617601",
+              "60": "20",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "00641617610",
+              "60": "200",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "00641617701",
+              "60": "40",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "00641617801",
+              "60": "200",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "23155068531",
+              "60": "40",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "23155068631",
+              "60": "200",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "23155068731",
+              "60": "2",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "23155068741",
+              "60": "20",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "23155068831",
+              "60": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "23155068841",
+              "60": "40",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "23155068931",
+              "60": "20",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "23155068941",
+              "60": "200",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "25021046301",
+              "60": "20",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "25021046401",
+              "60": "40",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "25021046501",
+              "60": "200",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "25021046605",
+              "60": "40",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "25021046705",
+              "60": "200",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "62756009440",
+              "60": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "62756034844",
+              "60": "20",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "62756034944",
+              "60": "40",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "62756035040",
+              "60": "40",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "62756035144",
+              "60": "200",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "62756035240",
+              "60": "200",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Somatuline depot": "Octreotide Acetate",
+              "J1930": "J2354",
+              "15054106004": "63323037600",
+              "60": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "columns": [
+            "Octreotide Acetate",
+            "J2354",
+            "63323037601",
+            "40",
+            "Column 5",
+            "Column 6",
+            "N"
+          ],
+          "rows": [
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "63323037604",
+              "40": "40",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "63323037641",
+              "40": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "63323037700",
+              "40": "20",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "63323037701",
+              "40": "200",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "63323037704",
+              "40": "200",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "63323037741",
+              "40": "20",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "63323037805",
+              "40": "40",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "63323037905",
+              "40": "200",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "63629883101",
+              "40": "100",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "64679063601",
+              "40": "2",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "64679063602",
+              "40": "2",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "67457023900",
+              "40": "2",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "67457023901",
+              "40": "20",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "67457024500",
+              "40": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "67457024501",
+              "40": "40",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "67457024600",
+              "40": "20",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "67457024601",
+              "40": "200",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "68462089601",
+              "40": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "68462089610",
+              "40": "40",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "68462089701",
+              "40": "20",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Octreotide Acetate",
+              "J2354": "J2354",
+              "63323037601": "68462089710",
+              "40": "200",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Sandostatin",
+              "J2354": "J2354",
+              "63323037601": "00078018001",
+              "40": "20",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Sandostatin",
+              "J2354": "J2354",
+              "63323037601": "00078018061",
+              "40": "2",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Sandostatin",
+              "J2354": "J2354",
+              "63323037601": "00078018101",
+              "40": "40",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Sandostatin",
+              "J2354": "J2354",
+              "63323037601": "00078018161",
+              "40": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Sandostatin",
+              "J2354": "J2354",
+              "63323037601": "00078018201",
+              "40": "200",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Sandostatin",
+              "J2354": "J2354",
+              "63323037601": "00078018261",
+              "40": "20",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Trelstar",
+              "J2354": "J3315",
+              "63323037601": "74676590400 3",
+              "40": "",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Trelstar",
+              "J2354": "J3315",
+              "63323037601": "74676590401",
+              "40": "3",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Trelstar",
+              "J2354": "J3315",
+              "63323037601": "74676590200",
+              "40": "1",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Trelstar",
+              "J2354": "J3315",
+              "63323037601": "74676590201",
+              "40": "1",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Trelstar",
+              "J2354": "J3315",
+              "63323037601": "74676590600",
+              "40": "6",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Trelstar",
+              "J2354": "J3315",
+              "63323037601": "74676590601",
+              "40": "6",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "VYJUVEK",
+              "J2354": "J3401",
+              "63323037601": "82194051002",
+              "40": "25",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Zometa",
+              "J2354": "J3489",
+              "63323037601": "67457079410",
+              "40": "5",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Zometa",
+              "J2354": "J3489",
+              "63323037601": "67457061910",
+              "40": "5",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Zometa",
+              "J2354": "J3489",
+              "63323037601": "54288010001",
+              "40": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Zometa",
+              "J2354": "J3489",
+              "63323037601": "63323096600",
+              "40": "5",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Zometa",
+              "J2354": "J3489",
+              "63323037601": "55111068852",
+              "40": "5",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Zometa",
+              "J2354": "J3489",
+              "63323037601": "25021082682",
+              "40": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Zometa",
+              "J2354": "J3489",
+              "63323037601": "00409421501",
+              "40": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Zometa",
+              "J2354": "J3489",
+              "63323037601": "16729024231",
+              "40": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Octreotide Acetate": "Zometa",
+              "J2354": "J3489",
+              "63323037601": "43598033011",
+              "40": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "columns": [
+            "Zometa",
+            "J3489",
+            "25021082667",
+            "4",
+            "Column 5",
+            "Column 6",
+            "N"
+          ],
+          "rows": [
+            {
+              "Zometa": "Zometa",
+              "J3489": "J3489",
+              "25021082667": "55111068507",
+              "4": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Zometa",
+              "J3489": "J3489",
+              "25021082667": "63323096198",
+              "4": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Zometa",
+              "J3489": "J3489",
+              "25021082667": "67457039054",
+              "4": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Zometa",
+              "J3489": "J3489",
+              "25021082667": "23155017031",
+              "4": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Zometa",
+              "J3489": "J3489",
+              "25021082667": "43598023311",
+              "4": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Zometa",
+              "J3489": "J3489",
+              "25021082667": "68001061025",
+              "4": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Zometa",
+              "J3489": "J3489",
+              "25021082667": "69367019050",
+              "4": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Zometa",
+              "J3489": "J3489",
+              "25021082667": "71288080651",
+              "4": "5",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Zometa",
+              "J3489": "J3489",
+              "25021082667": "72266015201",
+              "4": "5",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Zometa",
+              "J3489": "J3489",
+              "25021082667": "72603019801",
+              "4": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Reclast",
+              "J3489": "J3489",
+              "25021082667": "66758015546",
+              "4": "5",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Zometa",
+              "J3489": "J3489",
+              "25021082667": "68001061133",
+              "4": "5",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Zometa",
+              "J3489": "J3489",
+              "25021082667": "83634080105",
+              "4": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "FIRMAGON",
+              "J3489": "J9155",
+              "25021082667": "55566830301",
+              "4": "80",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "FIRMAGON",
+              "J3489": "J9155",
+              "25021082667": "55566840301",
+              "4": "240",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "FIRMAGON",
+              "J3489": "J9155",
+              "25021082667": "55566840200",
+              "4": "120",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Zoladex",
+              "J3489": "J9202",
+              "25021082667": "70720095036",
+              "4": "1",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Zoladex",
+              "J3489": "J9202",
+              "25021082667": "50090346600",
+              "4": "1",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Zoladex",
+              "J3489": "J9202",
+              "25021082667": "70720095130",
+              "4": "3",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Eligard",
+              "J3489": "J9217",
+              "25021082667": "62935022004",
+              "4": "3",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Eligard",
+              "J3489": "J9217",
+              "25021082667": "62935022104",
+              "4": "3",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Eligard",
+              "J3489": "J9217",
+              "25021082667": "62935022305",
+              "4": "3",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Eligard",
+              "J3489": "J9217",
+              "25021082667": "62935030529",
+              "4": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Eligard",
+              "J3489": "J9217",
+              "25021082667": "62935030330",
+              "4": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Eligard",
+              "J3489": "J9217",
+              "25021082667": "62935075474",
+              "4": "1",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Eligard",
+              "J3489": "J9217",
+              "25021082667": "62935075375",
+              "4": "1",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Eligard",
+              "J3489": "J9217",
+              "25021082667": "62935045444",
+              "4": "6",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Eligard",
+              "J3489": "J9217",
+              "25021082667": "62935045345",
+              "4": "6",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Eligard",
+              "J3489": "J9217",
+              "25021082667": "62935022710",
+              "4": "3",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Eligard",
+              "J3489": "J9217",
+              "25021082667": "62935030640",
+              "4": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Eligard",
+              "J3489": "J9217",
+              "25021082667": "62935075680",
+              "4": "1",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Eligard",
+              "J3489": "J9217",
+              "25021082667": "62935046150",
+              "4": "6",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Lupron",
+              "J3489": "J9217",
+              "25021082667": "00074334603",
+              "4": "3",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Lupron",
+              "J3489": "J9217",
+              "25021082667": "00074368303",
+              "4": "4",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Lupron",
+              "J3489": "J9217",
+              "25021082667": "00074364203",
+              "4": "1",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "Lupron",
+              "J3489": "J9217",
+              "25021082667": "00074347303",
+              "4": "6",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "JELMYTO",
+              "J3489": "J9281",
+              "25021082667": "72493010140",
+              "4": "40",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "JELMYTO",
+              "J3489": "J9281",
+              "25021082667": "72493010303",
+              "4": "160",
+              "Column 5": "",
+              "Column 6": "",
+              "N": "N"
+            },
+            {
+              "Zometa": "EYLEA",
+              "J3489": "J0177",
+              "25021082667": "61755005050",
+              "4": "8",
+              "Column 5": "16",
+              "Column 6": "",
+              "N": "Y"
+            },
+            {
+              "Zometa": "EYLEA",
+              "J3489": "J0177",
+              "25021082667": "61755005000",
+              "4": "8",
+              "Column 5": "16",
+              "Column 6": "",
+              "N": "Y"
+            },
+            {
+              "Zometa": "EYLEA",
+              "J3489": "J0177",
+              "25021082667": "61755005001",
+              "4": "8",
+              "Column 5": "16",
+              "Column 6": "",
+              "N": "Y"
+            },
+            {
+              "Zometa": "EYLEA",
+              "J3489": "J0177",
+              "25021082667": "61755005051",
+              "4": "8",
+              "Column 5": "16",
+              "Column 6": "",
+              "N": "Y"
+            },
+            {
+              "Zometa": "EYLEA",
+              "J3489": "J0177",
+              "25021082667": "61755005101",
+              "4": "8",
+              "Column 5": "16",
+              "Column 6": "",
+              "N": "Y"
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "columns": [
+            "EYLEA",
+            "J0178",
+            "61755000501",
+            "2",
+            "4",
+            "Column 6",
+            "Y"
+          ],
+          "rows": [
+            {
+              "EYLEA": "EYLEA",
+              "J0178": "J0178",
+              "61755000501": "61755000502",
+              "2": "2",
+              "4": "4",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "EYLEA",
+              "J0178": "J0178",
+              "61755000501": "61755000554",
+              "2": "2",
+              "4": "4",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "EYLEA",
+              "J0178": "J0178",
+              "61755000501": "61755000555",
+              "2": "2",
+              "4": "4",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "BEOVU",
+              "J0178": "J0179",
+              "61755000501": "00078082760",
+              "2": "6",
+              "4": "12",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "VABYSMO",
+              "J0178": "J2777",
+              "61755000501": "50242009601",
+              "2": "60",
+              "4": "120",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "VABYSMO",
+              "J0178": "J2777",
+              "61755000501": "50242009677",
+              "2": "60",
+              "4": "120",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "VABYSMO",
+              "J0178": "J2777",
+              "61755000501": "50242009686",
+              "2": "60",
+              "4": "120",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "VABYSMO",
+              "J0178": "J2777",
+              "61755000501": "50242009606",
+              "2": "60",
+              "4": "120",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "VABYSMO",
+              "J0178": "J2777",
+              "61755000501": "50242009603",
+              "2": "60",
+              "4": "120",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "LUCENTIS",
+              "J0178": "J2778",
+              "61755000501": "50242008003",
+              "2": "5",
+              "4": "10",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "LUCENTIS",
+              "J0178": "J2778",
+              "61755000501": "50242008088",
+              "2": "5",
+              "4": "10",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "LUCENTIS",
+              "J0178": "J2778",
+              "61755000501": "50242008203",
+              "2": "3",
+              "4": "6",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "LUCENTIS",
+              "J0178": "J2778",
+              "61755000501": "50242008288",
+              "2": "3",
+              "4": "6",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "SUSVIMO",
+              "J0178": "J2779",
+              "61755000501": "50242007812",
+              "2": "100",
+              "4": "200",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "SUSVIMO",
+              "J0178": "J2779",
+              "61755000501": "50242007855",
+              "2": "100",
+              "4": "200",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "SYFOVRE",
+              "J0178": "J2781",
+              "61755000501": "73606002001",
+              "2": "15",
+              "4": "30",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "SYFOVRE",
+              "J0178": "J2781",
+              "61755000501": "73606002002",
+              "2": "15",
+              "4": "30",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "IZERVAY",
+              "J0178": "J2782",
+              "61755000501": "82829000201",
+              "2": "20",
+              "4": "40",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "IZERVAY",
+              "J0178": "J2782",
+              "61755000501": "82829000299",
+              "2": "20",
+              "4": "40",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "LUXTURNA",
+              "J0178": "J3398",
+              "61755000501": "71394006501",
+              "2": "150",
+              "4": "300",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "LUXTURNA",
+              "J0178": "J3398",
+              "61755000501": "71394041501",
+              "2": "150",
+              "4": "300",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "DUROLAN",
+              "J0178": "J7318",
+              "61755000501": "89130202001",
+              "2": "60",
+              "4": "120",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "GENVISC",
+              "J0178": "J7320",
+              "61755000501": "50653000601",
+              "2": "25",
+              "4": "50",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "HYALGAN",
+              "J0178": "J7321",
+              "61755000501": "89122072412",
+              "2": "1",
+              "4": "2",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "HYALGAN",
+              "J0178": "J7321",
+              "61755000501": "89122072420",
+              "2": "1",
+              "4": "2",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "SUPARTZ FX",
+              "J0178": "J7321",
+              "61755000501": "89130444401",
+              "2": "1",
+              "4": "2",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "VISCO",
+              "J0178": "J7321",
+              "61755000501": "50016095721",
+              "2": "1",
+              "4": "2",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "HYMOVIS",
+              "J0178": "J7322",
+              "61755000501": "89122049601",
+              "2": "24",
+              "4": "48",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "HYMOVIS",
+              "J0178": "J7322",
+              "61755000501": "89122075001",
+              "2": "32",
+              "4": "64",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "EUFLEXXA",
+              "J0178": "J7323",
+              "61755000501": "55566410000",
+              "2": "1",
+              "4": "2",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "EUFLEXXA",
+              "J0178": "J7323",
+              "61755000501": "55566410001",
+              "2": "1",
+              "4": "2",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "EUFLEXXA",
+              "J0178": "J7323",
+              "61755000501": "55566410003",
+              "2": "1",
+              "4": "2",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "EUFLEXXA",
+              "J0178": "J7323",
+              "61755000501": "55566410004",
+              "2": "1",
+              "4": "2",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "ORTHOVISC",
+              "J0178": "J7324",
+              "61755000501": "59676036001",
+              "2": "1",
+              "4": "2",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "Synvisc",
+              "J0178": "J7325",
+              "61755000501": "58468009001",
+              "2": "48",
+              "4": "96",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "Synvisc",
+              "J0178": "J7325",
+              "61755000501": "58468009003",
+              "2": "48",
+              "4": "96",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "GEL-ONE",
+              "J0178": "J7326",
+              "61755000501": "50016095711",
+              "2": "1",
+              "4": "2",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "MONOVISC",
+              "J0178": "J7327",
+              "61755000501": "59676082001",
+              "2": "1",
+              "4": "2",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "GELSYN",
+              "J0178": "J7328",
+              "61755000501": "89130311101",
+              "2": "168",
+              "4": "336",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "TRIVISC",
+              "J0178": "J7329",
+              "61755000501": "50653000604",
+              "2": "25",
+              "4": "50",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "SYNOJOYNT",
+              "J0178": "J7331",
+              "61755000501": "82197072116",
+              "2": "60",
+              "4": "120",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "SYNOJOYNT",
+              "J0178": "J7331",
+              "61755000501": "88867041368",
+              "2": "60",
+              "4": "120",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "EYLEA": "TRILURON",
+              "J0178": "J7332",
+              "61755000501": "89122087901",
+              "2": "20",
+              "4": "40",
+              "Column 6": "",
+              "Y": "Y"
+            }
+          ]
+        },
+        {
+          "page": 6,
+          "columns": [
+            "QUTENZA",
+            "J7336",
+            "72512092801",
+            "280",
+            "560",
+            "Column 6",
+            "Y"
+          ],
+          "rows": [
+            {
+              "QUTENZA": "QUTENZA",
+              "J7336": "J7336",
+              "72512092801": "72512092901",
+              "280": "560",
+              "560": "1120",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "QUTENZA": "QUTENZA",
+              "J7336": "J7336",
+              "72512092801": "72512093001",
+              "280": "1120",
+              "560": "2240",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "QUTENZA": "QUTENZA",
+              "J7336": "J7336",
+              "72512092801": "72512092000",
+              "280": "280",
+              "560": "560",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "QUTENZA": "BYOOVIZ",
+              "J7336": "Q5124",
+              "72512092801": "64406001901",
+              "280": "10",
+              "560": "20",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "QUTENZA": "BYOOVIZ",
+              "J7336": "Q5124",
+              "72512092801": "64406001907",
+              "280": "10",
+              "560": "20",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "QUTENZA": "CIMERLI",
+              "J7336": "Q5128",
+              "72512092801": "61314062494",
+              "280": "3",
+              "560": "6",
+              "Column 6": "",
+              "Y": "Y"
+            },
+            {
+              "QUTENZA": "CIMERLI",
+              "J7336": "Q5128",
+              "72512092801": "61314062594",
+              "280": "5",
+              "560": "10",
+              "Column 6": "",
+              "Y": "Y"
+            }
+          ]
+        }
+      ],
+      "CPT_CODES_USED": [
+        "J0401",
+        "J0480",
+        "J0897",
+        "J1201",
+        "J1304",
+        "J1442",
+        "J1447",
+        "J1930",
+        "J1950",
+        "J2353",
+        "J2354",
+        "J3315",
+        "J3401",
+        "J3489",
+        "J9155",
+        "J9202",
+        "J9217",
+        "J9281",
+        "J0177",
+        "J0178",
+        "J0179",
+        "J2777",
+        "J2778",
+        "J2779",
+        "J2781",
+        "J2782",
+        "J3398",
+        "J7318",
+        "J7320",
+        "J7321",
+        "J7322",
+        "J7323",
+        "J7324",
+        "J7325",
+        "J7326",
+        "J7327",
+        "J7328",
+        "J7329",
+        "J7331",
+        "J7332",
+        "J7336",
+        "Q5124",
+        "Q5128"
+      ],
+      "ICD_CODES_USED": []
+    }
+  ],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "66733"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

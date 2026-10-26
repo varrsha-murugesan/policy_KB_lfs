@@ -1,0 +1,1145 @@
+{
+  "policy_metadata": {
+    "policy_title": "Observation Services",
+    "policy_number": "CP2019003",
+    "published_date": "03/2019",
+    "effective_date": "03/2019",
+    "revision_date": "05/2026",
+    "last_reviewed": "05/2026",
+    "Line_of_Business": "Medicare Advantage and Medicaid Products",
+    "Billingclass": "Both",
+    "source_pdf": "Observation_Services_Revised-cd083252.pdf",
+    "total_pages": 3,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "00100",
+      "00102",
+      "00103",
+      "00104",
+      "00120",
+      "00124",
+      "00126",
+      "00140",
+      "00142",
+      "00144",
+      "00145",
+      "00147",
+      "00148",
+      "00160",
+      "00162",
+      "00170",
+      "00174",
+      "00176",
+      "00190",
+      "00192",
+      "00210",
+      "00212",
+      "00214",
+      "00216",
+      "00218",
+      "20500",
+      "3006F",
+      "3011F",
+      "30200",
+      "3028F",
+      "31570",
+      "31571",
+      "31645",
+      "31646",
+      "62270",
+      "62362",
+      "64530",
+      "65112",
+      "67500",
+      "77263",
+      "77299",
+      "79005",
+      "79101",
+      "79200",
+      "79300",
+      "79403",
+      "79440",
+      "79445",
+      "79999",
+      "83036",
+      "85347",
+      "85610",
+      "85670",
+      "86932",
+      "88000",
+      "88161",
+      "94726",
+      "94776",
+      "95705",
+      "95706",
+      "95707",
+      "95708",
+      "95709",
+      "95710",
+      "95711",
+      "95712",
+      "95713",
+      "95714",
+      "95715",
+      "95716",
+      "95717",
+      "95718",
+      "95719",
+      "95720",
+      "95721",
+      "95722",
+      "95723",
+      "95724",
+      "95725",
+      "95726",
+      "95782",
+      "96372",
+      "96373",
+      "96374",
+      "96375",
+      "96376",
+      "99195",
+      "G0077",
+      "G0082",
+      "G0086",
+      "G2002",
+      "G2007",
+      "G2014",
+      "G2176"
+    ],
+    "cpt_codes": [
+      "00100",
+      "00102",
+      "00103",
+      "00104",
+      "00120",
+      "00124",
+      "00126",
+      "00140",
+      "00142",
+      "00144",
+      "00145",
+      "00147",
+      "00148",
+      "00160",
+      "00162",
+      "00170",
+      "00174",
+      "00176",
+      "00190",
+      "00192",
+      "00210",
+      "00212",
+      "00214",
+      "00216",
+      "00218",
+      "20500",
+      "30200",
+      "31570",
+      "31571",
+      "31645",
+      "31646",
+      "62270",
+      "62362",
+      "64530",
+      "65112",
+      "67500",
+      "77263",
+      "77299",
+      "79005",
+      "79101",
+      "79200",
+      "79300",
+      "79403",
+      "79440",
+      "79445",
+      "79999",
+      "83036",
+      "85347",
+      "85610",
+      "85670",
+      "86932",
+      "88000",
+      "88161",
+      "94726",
+      "94776",
+      "95705",
+      "95706",
+      "95707",
+      "95708",
+      "95709",
+      "95710",
+      "95711",
+      "95712",
+      "95713",
+      "95714",
+      "95715",
+      "95716",
+      "95717",
+      "95718",
+      "95719",
+      "95720",
+      "95721",
+      "95722",
+      "95723",
+      "95724",
+      "95725",
+      "95726",
+      "95782",
+      "96372",
+      "96373",
+      "96374",
+      "96375",
+      "96376",
+      "99195"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "Observation services are specific, clinically appropriate, outpatient services provided to help a healthcare professional decide whether a patient needs to be admitted as an inpatient or can be discharged. This policy outlines the criteria that Humana plans use to determine appropriate billing and documentation of facility observation services."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage and Medicaid Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. The following policy applies to facility services only. For Humana Medicaid plans, this policy applies except when not permissible by state Medicaid guidelines."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Billing of Observation Services",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "The billing of facility observation services is appropriate only when the observation services were medically necessary, the observation services were ordered by a qualified healthcare professional , the patient was under the care of a physician or qualified nonphysician practitioner during observation services, and one or more of the following is true of the encounter: \u2022 Treatment and monitoring were provided to determine if inpatient admission was needed \u2022 The observation services were provided for patient monitoring, after outpatient surgery or diagnostic testing, that was beyond the standard recovery period for the service \u2022 A qualified healthcare professional directly referred the patient to the facility for observation services \u2022 The patient was a child who was observed because of an uncertain clinical response to outpatient therapy \u2022 The patient was a child whose parent or caregiver was unavailable or unknown If none of those events occurred, a Humana plan does not reimburse for a facility observation charge. The billing of and reimbursement for observation services are limited to rendered observation services that were specifically medically necessary and typically do not exceed 48 hours. Any time for any of the following scenarios is excluded from the calculation of billable observation hours: \u2022 Patient monitoring during diagnostic or therapeutic services, including observation care interrupted by such services \u2022 Routine preparation for outpatient surgery and diagnostic testing \u2022 Services provided during the standard recovery period after outpatient surgery, which is four to six hours, or after diagnostic testing \u2022 Services provided for the convenience of the patient, physician or qualified nonphysician practitioner \u2022 Observation services provided according to a standing order \u2022 The time period between the order for observation services and when observation services began \u2022 The time period between observation services ending and the patient\u2019s discharge \u2022 The time period between observation services ending and the arrival of the patient\u2019s transportation"
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Documentation of Observation Services",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 3,
+          "content": [
+            "Humana reserves the right to request medical records, at any time, to confirm accurate billing of observation services. Medical record documentation for observation services must include: \u2022 The physician\u2019s or qualified nonphysician practitioner\u2019s assessment that determined the patient would benefit from observation services \u2022 The order for observation services \u2022 The start and stop times of observation services \u2022 Time for non-observation services that interrupted observation care, if any \u2022 Nurses\u2019 notes \u2022 Progress notes on the patient\u2019s condition and treatment to confirm the continuing need for observation services \u2022 Supporting diagnostic and ancillary test reports, if any \u2022 Discharge notes including the discharge order"
+          ],
+          "tables": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "\u2022 Qualified healthcare professional : A physician or another individual authorized by state licensure law and hospital staff bylaws to admit patients to the hospital or to order outpatient tests."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "\u2022 Social Security Administration website. Social Security Act. Title 18. Section 1862 \u2013 Exclusions from Coverage and Medicare as Secondary Payer . Paragraph (a)(1)(A). www.ssa.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Benefit Policy Manual. Chapter 6 \u2013 Hospital Services Covered Under Part B . Section 20.6 \u2013 Outpatient Observation Services. www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 1 \u2013 General Billing Requirements . Section 50.3.2 \u2013 Policy and Billing Instructions for Condition Code 44. www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 4 \u2013 Part B Hospital (Including Inpatient Hospital Part B and OPPS) . Sections 290.2.2 and 290.5.3. www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 12 \u2013 Physicians/Nonphysician Practitioners . Sections 30.6.8 and 30.6.9.1. www.cms.gov. \u2022 MCG Health. Observation Care Admission Criteria. \u2022 Humana website. Publications . Medicare Provider Manual for Physicians, Hospitals and Healthcare Providers. Medicare Outpatient Observation Notice (MOON) Requirement. Humana.com."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "\u2022 Availity \u2013 Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. \u2022 Claims processing edit notifications \u2013 Alerts of upcoming claims payment changes are posted on the first Friday of each month. \u2022 Claims resources \u2013 Providers can find information on referrals, authorizations, electronic claim submissions and more. \u2022 Making it easier \u2013 This page contains an educational series for providers and healthcare professionals. \u2022 Medical and pharmacy coverage policies \u2013 Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. \u2022 Publications \u2013 This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana\u2019s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Qualified healthcare professional": "A physician or another individual authorized by state licensure law and hospital staff bylaws to admit patients to the hospital or to order outpatient tests."
+  },
+  "references": [
+    "Social Security Administration website. Social Security Act. Title 18. Section 1862 \u2013 Exclusions from Coverage and Medicare as Secondary Payer . Paragraph (a)(1)(A). www.ssa.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Benefit Policy Manual. Chapter 6 \u2013 Hospital Services Covered Under Part B . Section 20.6 \u2013 Outpatient Observation Services. www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 1 \u2013 General Billing Requirements . Section 50.3.2 \u2013 Policy and Billing Instructions for Condition Code 44. www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 4 \u2013 Part B Hospital (Including Inpatient Hospital Part B and OPPS) . Sections 290.2.2 and 290.5.3. www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 12 \u2013 Physicians/Nonphysician Practitioners . Sections 30.6.8 and 30.6.9.1. www.cms.gov. \u2022 MCG Health. Observation Care Admission Criteria. \u2022 Humana website. Publications . Medicare Provider Manual for Physicians, Hospitals and Healthcare Providers. Medicare Outpatient Observation Notice (MOON) Requirement. Humana.com."
+  ],
+  "resources": [
+    "Availity \u2013 Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. \u2022 Claims processing edit notifications \u2013 Alerts of upcoming claims payment changes are posted on the first Friday of each month. \u2022 Claims resources \u2013 Providers can find information on referrals, authorizations, electronic claim submissions and more. \u2022 Making it easier \u2013 This page contains an educational series for providers and healthcare professionals. \u2022 Medical and pharmacy coverage policies \u2013 Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. \u2022 Publications \u2013 This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana\u2019s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 7,
+    "total_tables": 0,
+    "total_characters": 6022
+  },
+  "mapped_cpt_codes": [
+    {
+      "code": "G2176",
+      "code_system": "HCPCS_L2",
+      "description": "Outpatient, ed, or observation visits that result in an inpatient admission",
+      "confidence_tier": "D",
+      "score": 50.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "62362",
+      "code_system": "CPT",
+      "description": "Insertion of programmable spinal canal drug infusion pump",
+      "confidence_tier": "D",
+      "score": 48.49,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "86932",
+      "code_system": "CPT",
+      "description": "Freezing and thawing of blood unit",
+      "confidence_tier": "D",
+      "score": 48.49,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "88161",
+      "code_system": "CPT",
+      "description": "Screening examination of specimen cells, preparation, screening and interpretation",
+      "confidence_tier": "D",
+      "score": 48.49,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "G0077",
+      "code_system": "HCPCS_L2",
+      "description": "Limited (30 minutes) care management home visit for a new patient. for use only in a medicare-approved cmmi model. (services must be furnished within a beneficiary's home, domiciliary, rest home, assisted living and/or nursing facility)",
+      "confidence_tier": "D",
+      "score": 40.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "G0082",
+      "code_system": "HCPCS_L2",
+      "description": "Limited (30 minutes) care management home visit for an existing patient. for use only in a medicare-approved cmmi model. (services must be furnished within a beneficiary's home, domiciliary, rest home, assisted living and/or nursing facility)",
+      "confidence_tier": "D",
+      "score": 40.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "G0086",
+      "code_system": "HCPCS_L2",
+      "description": "Limited (30 minutes) care management home care plan oversight. for use only in a medicare-approved cmmi model. (services must be furnished within a beneficiary's home, domiciliary, rest home, assisted living and/or nursing facility)",
+      "confidence_tier": "D",
+      "score": 40.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "G2002",
+      "code_system": "HCPCS_L2",
+      "description": "Limited (30 minutes) in-home visit for a new patient post-discharge. for use only in a medicare-approved cmmi model. (services must be furnished within a beneficiary's home, domiciliary, rest home, assisted living and/or nursing facility within 90 days following discharge from an inpatient facility and no more than 9 times.)",
+      "confidence_tier": "D",
+      "score": 40.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "G2007",
+      "code_system": "HCPCS_L2",
+      "description": "Limited (30 minutes) in-home visit for an existing patient post-discharge. for use only in a medicare-approved cmmi model. (services must be furnished within a beneficiary's home, domiciliary, rest home, assisted living and/or nursing facility within 90 days following discharge from an inpatient facility and no more than 9 times.)",
+      "confidence_tier": "D",
+      "score": 40.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "G2014",
+      "code_system": "HCPCS_L2",
+      "description": "Limited (30 minutes) care plan oversight. for use only in a medicare-approved cmmi model. (services must be furnished within a beneficiary's home, domiciliary, rest home, assisted living and/or nursing facility within 90 days following discharge from an inpatient facility and no more than 9 times.)",
+      "confidence_tier": "D",
+      "score": 40.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "94776",
+      "code_system": "CPT",
+      "description": "Test to monitor pediatric breathing and heart rate at home including recording, download of data, transmission receipt, and computer analysis",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "96372",
+      "code_system": "CPT",
+      "description": "Injection of drug or substance under skin or into muscle",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "96373",
+      "code_system": "CPT",
+      "description": "Injection of drug or substance into artery",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "96374",
+      "code_system": "CPT",
+      "description": "Injection of drug or substance into vein",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "96375",
+      "code_system": "CPT",
+      "description": "Injection of additional new drug or substance into vein",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "96376",
+      "code_system": "CPT",
+      "description": "Injection of additional drug or substance into vein provided in a facility",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "3006F",
+      "code_system": "CPT",
+      "description": "Chest x-ray results documented and reviewed (cap)",
+      "confidence_tier": "E",
+      "score": 25.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "3011F",
+      "code_system": "CPT",
+      "description": "Lipid panel results documented and reviewed (must include total cholesterol, hdl-c, triglycerides and calculated ldl-c) (cad)",
+      "confidence_tier": "E",
+      "score": 25.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "3028F",
+      "code_system": "CPT",
+      "description": "Oxygen saturation results documented and reviewed (includes assessment through pulse oximetry or arterial blood gas measurement) (cap, copd) (em)",
+      "confidence_tier": "E",
+      "score": 25.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "85347",
+      "code_system": "CPT",
+      "description": "Coagulation time measurement, activated",
+      "confidence_tier": "E",
+      "score": 25.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "85610",
+      "code_system": "CPT",
+      "description": "Blood test, clotting time",
+      "confidence_tier": "E",
+      "score": 25.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "85670",
+      "code_system": "CPT",
+      "description": "Thrombin time, fibrinogen screening test, plasma",
+      "confidence_tier": "E",
+      "score": 25.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "62270",
+      "code_system": "CPT",
+      "description": "Removal of cerebrospinal fluid with lower back spinal tap for diagnostic test",
+      "confidence_tier": "E",
+      "score": 23.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "83036",
+      "code_system": "CPT",
+      "description": "Hemoglobin A1C level",
+      "confidence_tier": "E",
+      "score": 23.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "88000",
+      "code_system": "CPT",
+      "description": "Autopsy",
+      "confidence_tier": "E",
+      "score": 23.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "94726",
+      "code_system": "CPT",
+      "description": "Test to determine lung volumes using sensors",
+      "confidence_tier": "E",
+      "score": 23.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "00100",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on saliva gland",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00102",
+      "code_system": "CPT",
+      "description": "Anesthesia for plastic repair of lip defect",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00103",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on eyelid",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00104",
+      "code_system": "CPT",
+      "description": "Anesthesia for electroshock therapy",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00120",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on external middle and inner ear",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00124",
+      "code_system": "CPT",
+      "description": "Anesthesia for exam of ear using an endoscope",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00126",
+      "code_system": "CPT",
+      "description": "Anesthesia for incision of ear drum",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00140",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on eye",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00142",
+      "code_system": "CPT",
+      "description": "Anesthesia for lens surgery",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00144",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on eye for corneal transplant",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00145",
+      "code_system": "CPT",
+      "description": "Anesthesia for retinal surgery",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00147",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on eye for removal of iris",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00148",
+      "code_system": "CPT",
+      "description": "Anesthesia for exam of inner eye using an endoscope",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00160",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on nose and sinuses",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00162",
+      "code_system": "CPT",
+      "description": "Anesthesia for extensive surgery on nose and sinuses",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00170",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on mouth",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00174",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on throat for removal of tumor",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00176",
+      "code_system": "CPT",
+      "description": "Anesthesia for extensive surgery on mouth",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00190",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on face bones or skull",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00192",
+      "code_system": "CPT",
+      "description": "Anesthesia for extensive surgery on face bones or skull",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00210",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on brain",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00212",
+      "code_system": "CPT",
+      "description": "Anesthesia for removal of fluid from brain",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00214",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure to create holes in skull including X-ray imaging",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00216",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on blood vessels in brain",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00218",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on brain while sitting up",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95705",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity (EEG), 2-12 hours",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95706",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity (EEG), 2-12 hours with intermittent monitoring",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95707",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity (EEG), 2-12 hours with continuous monitoring",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95708",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity (EEG), 12-26 hours",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95709",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity (EEG), 12-26 hours with intermittent monitoring",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95710",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity (EEG), 12-26 hours with continuous monitoring",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95711",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity with video (VEEG), 2-12 hours",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95712",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity with video (VEEG), 2-12 hours with intermittent monitoring",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95713",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity with video (VEEG), 2-12 hours with continuous monitoring",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95714",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity with video (VEEG), 12-26 hours",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95715",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity with video (VEEG), 12-26 hours with intermittent monitoring",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95716",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity with video (VEEG), 12-26 hours with continuous monitoring",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95717",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity (EEG), 2-12 hours with health care professional review and report",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95718",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity with video (VEEG), 2-12 hours with review and report by health care professional",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95719",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity (EEG), 12-26 hours with health care professional review and report",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95720",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity with video (VEEG), 12-26 hours with review and report by health care professional",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95721",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity (EEG), 37-60 hours with health care professional review and report",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95722",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity with video (VEEG), 37-60 hours with review and report by health care professional",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95723",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity (EEG), 61-84 hours with health care professional review and report",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95724",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity with video (VEEG), 61-84 hours with review and report by health care professional",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95725",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity (EEG), more than 84 hours with review and report by health care professional",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95726",
+      "code_system": "CPT",
+      "description": "Measurement of brain wave activity with video (VEEG), more than 84 hours with review and report by health care professional",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "95782",
+      "code_system": "CPT",
+      "description": "Sleep study in sleep lab (younger than 6 years)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "20500",
+      "code_system": "CPT",
+      "description": "Injection for repair of abnormal muscle drainage tract",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "30200",
+      "code_system": "CPT",
+      "description": "Injection of medication into nasal air passage",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "31570",
+      "code_system": "CPT",
+      "description": "Injection into vocal cords using an endoscope",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "31571",
+      "code_system": "CPT",
+      "description": "Injection into vocal cords using an endoscope with operating microscope or telescope",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "31645",
+      "code_system": "CPT",
+      "description": "Aspiration of initial secretion of lung airway using an endoscope",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "31646",
+      "code_system": "CPT",
+      "description": "Aspiration of subsequent secretions of lung airway using an endoscope during same hospital stay",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "64530",
+      "code_system": "CPT",
+      "description": "Injection of anesthetic agent into abdominal sympathetic nerve bundle",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "65112",
+      "code_system": "CPT",
+      "description": "Removal of eye contents and therapeutic removal of eye socket bone",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "67500",
+      "code_system": "CPT",
+      "description": "Injection of drug into cavity behind eye",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77263",
+      "code_system": "CPT",
+      "description": "Complex radiation therapy planning",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77299",
+      "code_system": "CPT",
+      "description": "Other management of radiation therapy or therapeutic radiology",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "79005",
+      "code_system": "CPT",
+      "description": "Radioactive drug therapy by mouth",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "79101",
+      "code_system": "CPT",
+      "description": "Radioactive drug therapy through a vein",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "79200",
+      "code_system": "CPT",
+      "description": "Radioactive drug therapy into a body cavity",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "79300",
+      "code_system": "CPT",
+      "description": "Radioactive drug therapy into a tissue",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "79403",
+      "code_system": "CPT",
+      "description": "Radioactive drug therapy of radiolabeled monoclonal antibody through a vein",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "79440",
+      "code_system": "CPT",
+      "description": "Radioactive drug therapy into a joint",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "79445",
+      "code_system": "CPT",
+      "description": "Radioactive drug therapy through a tube inserted in an artery",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "79999",
+      "code_system": "CPT",
+      "description": "Radioactive drug therapy",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "99195",
+      "code_system": "CPT",
+      "description": "Drawing of blood for a medical problem",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    }
+  ]
+}

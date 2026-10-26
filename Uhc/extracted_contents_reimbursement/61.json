@@ -1,0 +1,129 @@
+{
+  "policy_title": "Increased Procedural Services Policy",
+  "policy_number": "2026R9015A",
+  "policy_dates": {
+    "effective_date": "8/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "The term \"increased procedural services\" designates a service provided by a physician or other health care professional that is substantially greater than typically required for the procedure or service as defined in the Current Procedural Terminology (CPT) book. Increased procedural services are reported by appending Modifier 22 to the usual procedure code. Procedures performed on neonates and infants up to a present body weight of 4 kg may involve significantly increased complexity and physician or other qualified health care professional work commonly associated with these patients, as defined in the CPT book. In these circumstances Modifier 63 may be appended to the usual procedure code, unless directed otherwise in the CPT book."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "UnitedHealthcare Medicare Advantage's standard for additional reimbursement of Modifier 22 and/or Modifier 63 is 20% of the Allowable Amount for the unmodified procedure, not to exceed the billed charges. Claims submitted with these modifiers must include medical record documentation which supports the use of the modifiers and which will be reviewed by UnitedHealthcare Medicare Advantage in accordance with this policy. Note: When both Modifier 22 and Modifier 63 are appended to the same CPT code, reimbursement will be a total of an additional 20% of the Allowable Amount of the unmodified procedure, not to exceed the billed charges, provided the documentation supports use of either Modifier 22 or Modifier 63. Modifier 22 In order to be considered for additional reimbursement when reporting Modifier 22, the provider is required to provide a concise statement about how the service differs from the usual, and an operative report. The concise statement may be documented on the operative report, but it must be clearly identified. The document(s) must indicate the substantial additional work performed and the reason for the additional work which may include, but not be limited to, increased intensity or time, technical difficulty of procedure that is not described by a more comprehensive procedure code, severity of the patient's condition, or increased physical and mental effort required. Modifier 22 should not be appended to an evaluation and management service. Modifier 63 In order to be considered for additional reimbursement when reporting Modifier 63, thorough medical record(s) or report(s) that support the use of the modifier is required. The document(s) must indicate the substantial additional work performed and the reason for the additional work which may include, but not be limited to, increased intensity or time, technical difficulty of procedure that is not described by a more comprehensive procedure code, severity of the patient's condition, or increased physical and mental effort required. Unless otherwise designated, this modifier may only be appended to procedures/services listed in the 20100-69990 code series. Modifier 63 should not be appended to any CPT code listed in the Evaluation and Management Services, Anesthesia, Radiology, Pathology/Laboratory, or Medicine sections.",
+          "subsections": [
+            {
+              "title": "Modifier 22",
+              "content": "In order to be considered for additional reimbursement when reporting Modifier 22, the provider is required to provide a concise statement about how the service differs from the usual, and an operative report. The concise statement may be documented on the operative report, but it must be clearly identified. The document(s) must indicate the substantial additional work performed and the reason for the additional work which may include, but not be limited to, increased intensity or time, technical difficulty of procedure that is not described by a more comprehensive procedure code, severity of the patient’s condition, or increased physical and mental effort required. Modifier 22 should not be appended to an evaluation and management service."
+            },
+            {
+              "title": "Modifier 63",
+              "content": "In order to be considered for additional reimbursement when reporting Modifier 63, thorough medical record(s) or report(s) that support the use of the modifier is required. The document(s) must indicate the substantial additional work performed and the reason for the additional work which may include, but not be limited to, increased intensity or time, technical difficulty of procedure that is not described by a more comprehensive procedure code, severity of the patient’s condition, or increased physical and mental effort required. Unless otherwise designated, this modifier may only be appended to procedures/services listed in the 20100-69990 code series. Modifier 63 should not be appended to any CPT code listed in the Evaluation and Management Services, Anesthesia, Radiology, Pathology/Laboratory, or Medicine sections."
+            }
+          ],
+          "children": [
+            {
+              "title": "Modifiers",
+              "level": 3,
+              "confirmed": false,
+              "type": "text",
+              "content": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Allowable Amount",
+          "value": "Defined as the dollar amount eligible for reimbursement to the physician or other qualified health care professional on the claim. Contracted rate, reasonable charge, or billed charges are examples of an Allowable Amount, whichever is applicable. For percent of charge or discount contracts, the Allowable Amount is determined as the billed amount, less the discount."
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov American Medical Association (AMA) Current Procedural Terminology (CPT) Centers for Medicare and Medicaid Services: PFS Relative Value Files, Medicare Fee Schedules Medicare Claims Processing Manual - Chapter 12 - Physicians/Nonphysician Practitioners: Section: 20.4.6, 40.2;10, 40.4"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "8/1/2026",
+          "value": "Policy Version Change Anniversary Review"
+        },
+        {
+          "key": "8/1/2025",
+          "value": "Policy Version Change Logo Updated History Section: Entries prior to 8/1/2023 archived"
+        },
+        {
+          "key": "1/1/2023",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "12/17/2014",
+          "value": "Policy Approval"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "20100",
+    "69990"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "22",
+    "63",
+    "20"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "policy_title": "Ambulatory Electroencephalogram (EEG)",
+  "policy_number": "XXXX.XX",
+  "effective_date": "12/01/2020",
+  "expiry_date": "08/22/2025",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "Per Aetna Better Health of Illinois Policy Ambulatory EEG is indicated with a supporting \ndiagnosis.\n\nAmbulatory EEG procedures should be reported with a supporting diagnosis indicating \nseizures/convulsions.",
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Electroencephalogram\n(EEG)",
+            "value": "Electroencephalography (EEG) is an electrophysiological\nmonitoring method to record electrical activity of the brain."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Review/Revision History",
+            "value": ""
+          },
+          {
+            "key": "Reviewed",
+            "value": "08/2025"
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "N/A \n \n \n \n \n \n \n \n \n \n \nKimberly Foltz \nInterim Chief Executive Officer \n \nMelanie Fernando \nChief Operations Officer \n \nReview/Revision History \nReviewed \n08/2025"
+}

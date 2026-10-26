@@ -1,0 +1,82 @@
+{
+  "policy_title": "Insulin & Thyroid Testing in Pediatrics",
+  "policy_number": "ABHIL-RP-0018",
+  "effective_date": "12/01/2020",
+  "expiry_date": "12/01/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "83525",
+    "83526",
+    "83527",
+    "84436",
+    "84439",
+    "84443",
+    "84479",
+    "84480",
+    "84481",
+    "84482"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for insulin or thyroid testing in pediatric patients when appropriately \nreported \n• \nReporting the test with an appropriate ICD-10-CM diagnosis code \n \nSubmitted claims will be denied when \n• \nThe only diagnosis code reported for the test is considered inappropriate under this policy \n \nThe medical record documentation is expected to support the specific CPT code(s) and ICD-10-\nCM diagnosis codes reported.",
+    "subsections": [
+      {
+        "title": "Reporting the test with an appropriate ICD-10-CM diagnosis code",
+        "content": "Submitted claims will be denied when"
+      },
+      {
+        "title": "The only diagnosis code reported for the test is considered inappropriate under this policy",
+        "content": "The medical record documentation is expected to support the specific CPT code(s) and ICD-10- CM diagnosis codes reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "International\nStatistical\nClassification of\nDiseases (ICD-10-\nCM)",
+            "value": "The 10th revision of the (ICD), a medical classification list by the\nWorld Health Organization (WHO). It contains codes for diseases,\nsigns and symptoms, abnormal findings, complaints, social\ncircumstances, and external causes of injury or diseases."
+          },
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          },
+          {
+            "key": "Pediatric Patient",
+            "value": "Persons aged greater than or equal to 1 year or less than or equal\nto 17 years."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for insulin or thyroid testing in pediatric patients when appropriately\nreported\n• Reporting the test with an appropriate ICD-10-CM diagnosis code\nSubmitted claims will be denied when\n• The only diagnosis code reported for the test is considered inappropriate under this policy\nThe medical record documentation is expected to support the specific CPT code(s) and ICD-10-\nCM diagnosis codes reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. CPT Professional Edition 2026, AMA; 2025. \n2. American Medical Association. ICD-10-CM 2026 the Complete Official Codebook, AMA; 2025."
+}

@@ -1,0 +1,123 @@
+{
+  "policy_title": "Intraoperative Neuromonitoring Policy",
+  "policy_number": "2026R9041A",
+  "policy_dates": {
+    "effective_date": "2/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy addresses the reimbursement of Intraoperative Neuromonitoring (IONM) services."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "Per the American Medical Association, Intraoperative Neuromonitoring (IONM) is the use of electrophysiological methods to monitor the functional integrity of certain neural structures during surgery. The purpose of IONM is to reduce the risk of damage to the patient's nervous system, and to provide functional guidance to the surgeon and anesthesiologist. IONM codes are reported based upon the time spent monitoring only, and not the number of baseline tests performed or parameters monitored. In addition, time spent monitoring excludes time to set up, record, and interpret the baseline studies, and to remove electrodes at the end of the procedure. Time spent performing or interpreting the baseline neurophysiologic study(ies) should not be counted as intraoperative monitoring, as it represents separately reportable procedures. According to The Centers for Medicare and Medicaid Services (CMS), Intraoperative neurophysiology testing (HCPCS/CPT codes 95940 and G0453) should not be reported by the physician performing an operative or anesthesia procedure since it is included in the global package. The use of either modifier 26 or TC does not apply to codes 95940 or G0453. The American Academy of Neurology (AAN) states IONM service 95940 should be performed in Place of Service (POS) 19, 21, 22 or 24. Therefore, UnitedHealthcare Medicare Advantage will only reimburse 95940 and G0453 services when reported with POS 19, 21, 22 and 24."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Will IONM services be reimbursed when reported with POS 15 (mobile unit)?",
+            "A": "No. Services furnished in a mobile unit are often provided to serve an entity for which another POS code exists. When this is the case, the POS for that entity should be reported. UnitedHealthcare Medicare Advantage will only allow reimbursement for IONM services when reported with POS 19, 21, 22 and 24."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Are IONM codes with a status \"I\" allowed when reported in a facility setting?",
+            "A": "No, per CMS guidance the status \"I\" code is not reimbursable."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov American Medical Association (AMA) Current Procedural Terminology (CPT) American Academy of Neurology CMS Place of Service Codes for Professional Claims Federal Register VOL 78, No 237 Medicare Claims Processing Manual - Chapter 12 - Physicians/Nonphysician Practitioners: Section 20.4.2 Medicare Claims Processing Manual - Chapter 14 - Ambulatory Surgical Centers: Sections 10.3, 10.4, 60.2 MLN Matters - MM7631 National Correct Coding Initiative Edits - Chapter 11"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "2/1/2026",
+          "value": "Policy Version Change Anniversary Review History Section: Removed entries prior to 2/1/2024"
+        },
+        {
+          "key": "2/1/2025",
+          "value": "Policy Version Change History Section: Removed entries prior to 2/1/2023"
+        },
+        {
+          "key": "2/1/2024",
+          "value": "Policy Version Change Policy Logo Updated"
+        },
+        {
+          "key": "9/1/2018",
+          "value": "Policy implemented by UnitedHealthcare Medicare Advantage"
+        },
+        {
+          "key": "3/14/2018",
+          "value": "Policy Approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "95940",
+    "G0453"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "26",
+    "TC"
+  ]
+}

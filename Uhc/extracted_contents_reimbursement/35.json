@@ -1,0 +1,245 @@
+{
+  "policy_title": "Clinical Laboratory Improvement Amendments (CLIA) ID Requirement - Reimbursement Policy",
+  "policy_number": "2026R6000A",
+  "policy_dates": {
+    "effective_date": "4/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy describes the information that is required on certain claims that are reported for laboratory services under the Clinical Laboratory Improvement Amendment (CLIA) 1988 statute and regulations. All services described in this policy may be subject to additional UnitedHealthcare Medicare Advantage reimbursement policies including, but not limited to, the Medical Unlikely Edits (MUE) Policy and the Rebundling CCI Editing Policy."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "Background CLIA was established to strengthen federal oversight of clinical laboratories to ensure the accuracy and reliability of patient test results. CLIA applies to all laboratories that examine \"materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.\" This applies if even one test is to be performed. CLIA regulatory requirements vary according to the kind of test(s) each laboratory conducts. All entities that meet the definition of a \"Laboratory\" under the CLIA statutes and regulations must obtain an appropriate CLIA certificate prior to conducting patient testing. Purpose For purposes of this policy, a valid CLIA Certificate Identification number will be required for reimbursement of clinical laboratory services reported on a1500 Health Insurance Claim Form (a/k/a CMS-1500) or its electronic equivalent. The CLIA Number is reported in: - ANSI X12 837 professional claim format Ref Segment as REF02 with qualifier of \"X4\" in REF01 or - Field 23 of the paper CMS-1500 Claims Submission Process Laboratory service providers must ensure that the required CLIA information is submitted using the correct loops, segments, and associated line level qualifiers (X4 and F4). Please refer to the ANSI X12N 837 Professional Claim guidelines and the Medicare Claims Processing Manual Chapters 1, 16, 26 and 35 for more information. Additional information regarding CLIA, applying for or renewing a certificate, or regarding assigned test complexity levels can be found at the following website. Clinical Laboratory Amendments (CLIA) Website Modifier QW Inclusion of this modifier when any applicable laboratory service is reported on a CMS 1500 claim form will be necessary to evaluate the claim to determine eligibility for benefit coverage of the laboratory services performed based upon the CLIA certification. Additional information regarding the categorization of laboratory tests by CLIA may be found at the website below. CLIA Categorization of Laboratory Tests Summary Any claim that does not contain the CLIA ID, invalid ID, and/or the complete servicing provider demographic information will be considered incomplete and rejected or denied. Claim line edits will also be applied if the lab certification level does not support the billed service code. Laboratory service providers who do not meet the reporting requirements and/or do not have the appropriate level of CLIA certification for the services reported will not be reimbursed. Definitions Billing Laboratory The laboratory that submits a bill or claim to Medicare. Clinical Laboratory Improvement Amendments (CLIA) The Centers for Medicare & Medicaid Services (CMS) regulates all laboratory testing (except research) performed on humans in the U.S. through the Clinical Laboratory Improvement Amendments (CLIA). In total, CLIA covers approximately 260,000 laboratory entities. The Division of Laboratory Services, within the Survey and Certification Group, under the Center for Clinical Standards and Quality (CCSQ) has the responsibility for implementing the CLIA Program. More information is available at: Clinical Laboratory Amendments (CLIA) Website CLIA Waived Test As defined by CLIA, waived tests are categorized as \"simple laboratory examinations and procedures that have an insignificant risk of an erroneous result.\" http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfClia/analyteswaived.cfm Laboratory The CLIA regulations define a laboratory to be \"a facility for the biological, microbiological, serological, chemical, immunohematological, hematological, biophysical, cytological, pathological, or other examination of materials derived from the human body for the purposes of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings. These examinations also include procedures to determine, measure, or otherwise describe the presence or absence of various substances or organisms in the body\" Medicare Approved Laboratory A laboratory that meets all of the enrollment standards as a Medicare provider including the certification by a CLIA certifying authority. Modifier QW CLIA Waived Test Referred Laboratory Test A billed laboratory service will be considered referred when the testing is performed by a servicing location other than the billing location. The appropriate claim line qualifier should be applied to indicate which location (billing or servicing) on the electronic claim applies to the submitted CLIA ID for the billed service code. Referring Laboratory A Medicare-approved laboratory that receives a specimen to be tested and that refers the specimen to another laboratory for performance of the laboratory test. CLIA further states a referring laboratory as a credentialed laboratory that receives a specimen to be tested and that refers the specimen to another credentialed laboratory for performance of the laboratory test. Reference Laboratory A Medicare-enrolled laboratory that receives a specimen from another, referring laboratory for testing and that actually performs the test. CLIA further states a reference laboratory as a credentialed laboratory that receives a specimen from another, referring laboratory for testing and that actually performs the test. Questions and Answers 1 Q: How do the Centers for Medicare & Medicaid Services (CMS) determine CLIA applicability? A: CLIA applicability is determined using the regulatory definition of \"laboratory\" quoted above. United Healthcare is acknowledging the CDC, FDA, and CMS CLIA regulations. Specifically, CLIA applies when: (1) patient-specific results are reported from the laboratory to another entity; AND (2) the results are made available \"for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.\" As stated above, whether a test service is billed to Medicare has no bearing on CLIA applicability. Therefore, if a facility performs tests for the above-stated purposes, it is considered a laboratory under CLIA and must obtain a certificate that corresponds to the complexity of testing performed. 2 Q: Where is there more information about the ANSI X12N implementation guidelines? A: More information can be found at www.x12.org or www.wpc-edi.com. 3 Q: Will a billed lab service be considered referred even if both labs are wholly or in part owned/operated by the same entity? A: Yes, the unique CLIA ID and servicing location information is required for every location where testing was performed. (See Referred Laboratory Test and Referring Laboratory definitions for additional information) 4 Q: Should modifier 90 be applied to all line level service codes for testing referred to another laboratory? A: Provider should continue to follow the defined coding and billing guidelines for the use of all applicable",
+          "subsections": [
+            {
+              "title": "Background",
+              "content": "CLIA was established to strengthen federal oversight of clinical laboratories to ensure the accuracy and reliability of patient test results. CLIA applies to all laboratories that examine “materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.”  This applies if even one test is to be performed. CLIA regulatory requirements vary according to the kind of test(s) each laboratory conducts. All entities that meet the definition of a “Laboratory” under the CLIA statutes and regulations must obtain an appropriate CLIA certificate prior to conducting patient testing."
+            },
+            {
+              "title": "Purpose",
+              "content": "For purposes of this policy, a valid CLIA Certificate Identification number will be required for reimbursement of clinical laboratory services reported on a1500 Health Insurance Claim Form (a/k/a CMS-1500) or its electronic equivalent. The CLIA Number is reported in: • ANSI X12 837 professional claim format Ref Segment as REF02 with qualifier of “X4” in REF01 or • Field 23 of the paper CMS-1500"
+            },
+            {
+              "title": "Claims Submission Process",
+              "content": "Laboratory service providers must ensure that the required CLIA information is submitted using the correct loops, segments, and associated line level qualifiers (X4 and F4).  Please refer to the ANSI X12N 837 Professional Claim guidelines and the Medicare Claims Processing Manual Chapters 1, 16, 26 and 35 for more information. Additional information regarding CLIA, applying for or renewing a certificate, or regarding assigned test complexity levels can be found at the following website. Clinical Laboratory Amendments (CLIA) Website"
+            },
+            {
+              "title": "Modifier QW",
+              "content": "Inclusion of this modifier when any applicable laboratory service is reported on a CMS 1500 claim form will be necessary to evaluate the claim to determine eligibility for benefit coverage of the laboratory services performed based upon the CLIA certification.  Additional information regarding the categorization of laboratory tests by CLIA may be found at the website below. CLIA Categorization of Laboratory Tests"
+            },
+            {
+              "title": "Summary",
+              "content": "Any claim that does not contain the CLIA ID, invalid ID, and/or the complete servicing provider demographic information will be considered incomplete and rejected or denied. Claim line edits will also be applied if the lab certification level does not support the billed service code. Laboratory service providers who do not meet the reporting requirements and/or do not have the appropriate level of CLIA certification for the services reported will not be reimbursed. Definitions Billing Laboratory The laboratory that submits a bill or claim to Medicare. Clinical Laboratory Improvement Amendments (CLIA) The Centers for Medicare & Medicaid Services (CMS) regulates all laboratory testing (except research) performed on humans in the U.S. through the Clinical Laboratory Improvement Amendments (CLIA). In total, CLIA covers approximately 260,000 laboratory entities. The Division of Laboratory Services, within the Survey and Certification Group, under the Center for Clinical Standards and Quality (CCSQ) has the responsibility for implementing the CLIA Program.  More information is available at: Clinical Laboratory Amendments (CLIA) Website CLIA Waived Test As defined by CLIA, waived tests are categorized as “simple laboratory examinations and procedures that have an insignificant risk of an erroneous result.” http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfClia/analyteswaived.cfm Laboratory The CLIA regulations define a laboratory to be “a facility for the biological, microbiological, serological, chemical, immunohematological, hematological, biophysical, cytological, pathological, or other examination of materials derived from the human body for the purposes of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings. These examinations also include procedures to determine, measure, or otherwise describe the presence or absence of various substances or organisms in the body” Medicare Approved Laboratory A laboratory that meets all of the enrollment standards as a Medicare provider including the certification by a CLIA certifying authority. Modifier QW CLIA Waived Test Referred Laboratory Test A billed laboratory service will be considered referred when the testing is performed by a servicing location other than the billing location.  The appropriate claim line qualifier should be applied to indicate which location (billing or servicing) on the electronic claim applies to the submitted CLIA ID for the billed service code. Referring Laboratory A Medicare-approved laboratory that receives a specimen to be tested and that refers the specimen to another laboratory for performance of the laboratory test. CLIA further states a referring laboratory as a credentialed laboratory that receives a specimen to be tested and that refers the specimen to another credentialed laboratory for performance of the laboratory test. Reference Laboratory A Medicare-enrolled laboratory that receives a specimen from another, referring laboratory for testing and that actually performs the test. CLIA further states a reference laboratory as a credentialed laboratory that receives a specimen from another, referring laboratory for testing and that actually performs the test. Questions and Answers 1 Q: How do the Centers for Medicare & Medicaid Services (CMS) determine CLIA applicability? A:  CLIA applicability is determined using the regulatory definition of “laboratory” quoted above. United Healthcare is acknowledging the CDC, FDA, and CMS CLIA regulations. Specifically, CLIA applies when: (1) patient-specific results are reported from the laboratory to another entity; AND (2) the results are made available “for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.” As stated above, whether a test service is billed to Medicare has no bearing on CLIA applicability. Therefore, if a facility performs tests for the above-stated purposes, it is considered a laboratory under CLIA and must obtain a certificate that corresponds to the complexity of testing performed. 2 Q: Where is there more information about the ANSI X12N implementation guidelines? A:  More information can be found at www.x12.org or www.wpc-edi.com. 3 Q:  Will a billed lab service be considered referred even if both labs are wholly or in part owned/operated by the same entity? A:  Yes, the unique CLIA ID and servicing location information is required for every location where testing was performed.  (See Referred Laboratory Test and Referring Laboratory definitions for additional information) 4 Q:  Should modifier 90 be applied to all line level service codes for testing referred to another laboratory? A:  Provider should continue to follow the defined coding and billing guidelines for the use of all applicable"
+            }
+          ],
+          "children": [
+            {
+              "title": "Modifiers",
+              "level": 3,
+              "confirmed": true,
+              "page": 4,
+              "matched_via": "blue",
+              "type": "mixed",
+              "content": [
+                {
+                  "key": "6",
+                  "value": {
+                    "Q": "Do I need to have CLIA certificate even if I am just performing simple laboratory tests?",
+                    "A": "Yes, the CLIA regulations apply to all laboratories that examine \"materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.\" This applies if even one test is to be performed."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Billing Laboratory",
+          "value": "The laboratory that submits a bill or claim to Medicare."
+        },
+        {
+          "key": "Clinical Laboratory Improvement Amendments (CLIA)",
+          "value": "The Centers for Medicare & Medicaid Services (CMS) regulates all laboratory testing (except research) performed on humans in the U.S. through the Clinical Laboratory Improvement Amendments (CLIA). In total, CLIA covers approximately 260,000 laboratory entities. The Division of Laboratory Services, within the Survey and Certification Group, under the Center for Clinical Standards and Quality (CCSQ) has the responsibility for implementing the CLIA Program. More information is available at: Clinical Laboratory Amendments (CLIA) Website"
+        },
+        {
+          "key": "CLIA Waived Test",
+          "value": "As defined by CLIA, waived tests are categorized as \"simple laboratory examinations and procedures that have an insignificant risk of an erroneous result.\" http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfClia/analyteswaived.cfm"
+        },
+        {
+          "key": "Laboratory",
+          "value": "The CLIA regulations define a laboratory to be \"a facility for the biological, microbiological, serological, chemical, immunohematological, hematological, biophysical, cytological, pathological, or other examination of materials derived from the human body for the purposes of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings. These examinations also include procedures to determine, measure, or otherwise describe the presence or absence of various substances or organisms in the body\""
+        },
+        {
+          "key": "Medicare Approved Laboratory",
+          "value": "A laboratory that meets all of the enrollment standards as a Medicare provider including the certification by a CLIA certifying authority."
+        },
+        {
+          "key": "Modifier QW",
+          "value": "CLIA Waived Test"
+        },
+        {
+          "key": "Referred Laboratory Test",
+          "value": "A billed laboratory service will be considered referred when the testing is performed by a servicing location other than the billing location. The appropriate claim line qualifier should be applied to indicate which location (billing or servicing) on the electronic claim applies to the submitted CLIA ID for the billed service code."
+        },
+        {
+          "key": "Referring Laboratory",
+          "value": "A Medicare-approved laboratory that receives a specimen to be tested and that refers the specimen to another laboratory for performance of the laboratory test. CLIA further states a referring laboratory as a credentialed laboratory that receives a specimen to be tested and that refers the specimen to another credentialed laboratory for performance of the laboratory test."
+        },
+        {
+          "key": "Reference Laboratory",
+          "value": "A Medicare-enrolled laboratory that receives a specimen from another, referring laboratory for testing and that actually performs the test. CLIA further states a reference"
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "How do the Centers for Medicare & Medicaid Services (CMS) determine CLIA applicability?",
+            "A": "CLIA applicability is determined using the regulatory definition of \"laboratory\" quoted above. United Healthcare is acknowledging the CDC, FDA, and CMS CLIA regulations. Specifically, CLIA applies when: (1) patient-specific results are reported from the laboratory to another entity; AND (2) the results are made available \"for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.\" As stated above, whether a test service is billed to Medicare has no bearing on CLIA applicability. Therefore, if a facility performs tests for the above-stated purposes, it is considered a laboratory under CLIA and must obtain a certificate that corresponds to the complexity of testing performed."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Where is there more information about the ANSI X12N implementation guidelines?",
+            "A": "More information can be found at www.x12.org or www.wpc-edi.com."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "Will a billed lab service be considered referred even if both labs are wholly or in part owned/operated by the same entity?",
+            "A": "Yes, the unique CLIA ID and servicing location information is required for every location where testing was performed. (See Referred Laboratory Test and Referring Laboratory definitions for additional information)"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "Q": "Should modifier 90 be applied to all line level service codes for testing referred to another laboratory?",
+            "A": "Provider should continue to follow the defined coding and billing guidelines for the use of all applicable modifiers."
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "Q": "For the purpose of claim line level submission, how should the X4 and F4 qualifiers be applied?",
+            "A": "For all billed laboratory services subject to CLIA the as submitted CLIA ID and servicing location will be verified utilizing the CLIA source validation files. The decision to validate using the billing or servicing location submitted on the claim is determined by the qualifier applied to the claim line as follows: Testing performed at billing location (test not referred): - Report the billing laboratory's CLIA ID number in: Loop 2300, REF02, REF01=X4 for all CLIA-covered laboratory tests submitted on the claim, OR - Report the billing laboratory's CLIA ID number in: Loop 2400, REF02, REF01=X4 for each specific CLIA-covered laboratory tests submitted on the claim, Testing performed at a location other than the billing location as submitted on the claim (test referred): - Report the referral laboratory's CLIA number in: Loop 2400, REF02, REF01=F4 for CLIA-covered laboratory tests referred to another (referral/rendered) laboratory. (See Referred Laboratory Test and Referring Laboratory definition for additional information)"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Attachments",
+      "level": 1,
+      "confirmed": true,
+      "page": 5,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "List of CLIA Waived Tests",
+          "value": "Transmittal R11717CP"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 5,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "Centers for Medicare and Medicaid Services, ANSI X12N 837 Professional Claim Guidelines Centers for Medicare and Medicaid Services, Clinical Laboratory Improvement Amendments (CLIA), Clinical Lab fee schedule Centers for Disease Control and Prevention (CDC) Medicare Claims Processing Manual - Chapter 01 - General Billing Requirements - Section: 80.3.2 Medicare Claims Processing Manual - Chapter 16 - Laboratory Services - Section 70.8, 70.9, 70.10, 70.10.1 The Medicare Learning Network (MLN): CLIA Brochure - MLN006270, MM12381 US Food and Drug Administration (FDA)"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 5,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "4/1/2026",
+          "value": "Policy Version Change Anniversary Review History Section: Entries prior to 4/1/2024 archived"
+        },
+        {
+          "key": "4/1/2025",
+          "value": "Policy Version Change Resource Section: Updated History Section: Entries Prior to 4/1/2023 archived"
+        },
+        {
+          "key": "4/1/2024",
+          "value": "Policy Version Change Application Section: Updated History Section: Entries Prior to 4/1/2022 archived"
+        },
+        {
+          "key": "08/01/2016",
+          "value": "Policy implemented by UnitedHealthcare Medicare Advantage"
+        },
+        {
+          "key": "04/13/2016",
+          "value": "Policy approved by the Payment Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [],
+  "ICD_CODES_USED": [
+    "X12",
+    "x12.org"
+  ],
+  "modifiers_used_here": [
+    "QW",
+    "90"
+  ]
+}

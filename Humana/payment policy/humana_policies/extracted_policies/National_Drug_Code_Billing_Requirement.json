@@ -1,0 +1,154 @@
+{
+  "policy_metadata": {
+    "policy_title": "National Drug Code Billing Requirement",
+    "policy_number": "CP2015102",
+    "published_date": null,
+    "effective_date": "01/2015",
+    "revision_date": "07/2026",
+    "last_reviewed": "07/2026",
+    "Line_of_Business": "Medicare Advantage and Medicaid Products",
+    "Billingclass": "Both",
+    "source_pdf": "National_Drug_Code_Billing_Requirement_Revised-c134e4ce.pdf",
+    "total_pages": 3,
+    "related_policies": [
+      "Modifiers JW and JZ"
+    ]
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "33333"
+    ],
+    "cpt_codes": [
+      "33333"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "This policy outlines Humana’s national drug code (NDC) billing requirements."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. The following policy applies to professional and facility claims, except inpatient facility claims. The NDC is the industry standard for identifying the specific drug administered. Reporting the NDC enables accurate and timely claims adjudication. Other than the exceptions outlined in this policy, Humana requires a provider to report an accurate, valid NDC with a Healthcare Common Procedure Coding System (HCPCS) drug code. Humana denies a HCPCS drug code submitted without an NDC. A denied HCPCS drug code that requires an NDC can be resubmitted with an NDC, within timely filing guidelines, for reconsideration of",
+        "payment. To eliminate the need to try to determine whether an NDC would be required in a specific scenario, Humana strongly encourages providers to submit each HCPCS drug code with the accurate, valid corresponding NDC. Exceptions An NDC is not required with the following: • Child and adult immunization drug codes; • Gene therapy drug codes; • Hemophilia drug codes; and • Radiopharmaceutical drug codes."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Reporting an NDC",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "Humana requires the following when reporting an NDC: • For CMS-1500 paper claims: Report the NDC qualifier N4 followed by the 11-digit NDC in box 24. • For UB-04 paper claims: Report the NDC qualifier N4 followed by the 11-digit NDC in box 43. • For electronic claims: Report the NDC in loop 2410. Report NDC qualifier N4 in segment LIN 02 and the NDC in segment LIN 03. • When using different vial sizes that share the same HCPCS drug code but have different NDCs, for the same patient, bill multiple lines in order to report each unique NDC. • Report the NDC in a 5-4-2 digit format. If necessary, add a zero, as indicated in the examples below. • Do not report dashes, as indicated in the examples below."
+          ],
+          "tables": [],
+          "subsections": [
+            {
+              "heading": "Examples",
+              "level": 3,
+              "page_start": 2,
+              "page_end": 2,
+              "content": [],
+              "tables": [
+                {
+                  "type": "table",
+                  "page_start": 2,
+                  "page_end": 2,
+                  "columns": [
+                    "",
+                    "NDC on package",
+                    "Add zero to create a 5-4-2 digit format",
+                    "NDC reported on claim"
+                  ],
+                  "row_count": 3,
+                  "rows": [
+                    {
+                      "column_1": "Example 1",
+                      "NDC on package": "3333-4444-55",
+                      "Add zero to create a 5-4-2 digit format": "03333-4444-55",
+                      "NDC reported on claim": "03333444455"
+                    },
+                    {
+                      "column_1": "Example 2",
+                      "NDC on package": "33333-444-55",
+                      "Add zero to create a 5-4-2 digit format": "33333-0444-55",
+                      "NDC reported on claim": "33333044455"
+                    },
+                    {
+                      "column_1": "Example 3",
+                      "NDC on package": "33333-4444-5",
+                      "Add zero to create a 5-4-2 digit format": "33333-4444-05",
+                      "NDC reported on claim": "33333444405"
+                    }
+                  ]
+                }
+              ],
+              "subsections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Medicaid Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 3,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana Medicaid plans require a provider to submit a HCPCS drug code charge with an accurate, valid corresponding NDC according to applicable state Medicaid agency requirements."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "• U.S. Food and Drug Administration website. National Drug Code Directory . www.fda.gov."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": null,
+  "references": [
+    "U.S. Food and Drug Administration website. National Drug Code Directory . www.fda.gov."
+  ],
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 7,
+    "total_tables": 1,
+    "total_characters": 3616
+  }
+}

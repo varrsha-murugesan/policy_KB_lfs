@@ -1,0 +1,182 @@
+{
+  "policy_title": "Acupuncture Policy",
+  "policy_number": "2026R6006A",
+  "policy_dates": {
+    "effective_date": "7/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to services reported using the 1500 Health Insurance Claim Form (a/k/a CMS-1500) or its electronic equivalent or its successor form. This policy applies to all products, all network and non-network physicians and other qualified health care professionals, including, but not limited to, non-network authorized and percent of charge contract physicians and other qualified health care professionals.",
+      "children": [
+        {
+          "title": "UnitedHealthcare Commercial",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all UnitedHealthcare Commercial benefit plans."
+        },
+        {
+          "title": "UnitedHealthcare Individual Exchange",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all Individual Exchange benefit plans."
+        }
+      ]
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "Acupuncture is the selection and manipulation of specific acupuncture points through the insertion of needles or \"needling,\" or other \"non-needling\" techniques focused on these points. This policy defines the maximum time unit of service (UOS) for Acupuncture services for face-to-face contact with the patient, addresses supplies that are included in the Acupuncture services and describes the submission of evaluation and management services in conjunction with Acupuncture services. All services described in this policy may be subject to additional UnitedHealthcare reimbursement policies including, but not limited to, the Maximum Frequency Per Day Policy, the Supply Policy and the CCI Editing Policy."
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "bold",
+      "type": "mixed",
+      "content": [
+        "This policy enforces the code description for Acupuncture services which are to be reported based on 15 minute time increments of personal face-to-face contact with the patient and not the duration of the needle(s) placement. In addition, CPT code guidelines state only one initial CPT code, 97810 or 97813, should be reported per day.",
+        "In accordance with the code descriptions and/or the Centers for Medicare and Medicaid Services (CMS) guidelines and National Correct Coding Initiative (NCCI) established Medically Unlikely Edits (MUE) values, the maximum units of Acupuncture services allowed per date of service are as follows:",
+        {
+          "key": "97810",
+          "value": "1"
+        },
+        {
+          "key": "97811",
+          "value": "2"
+        },
+        {
+          "key": "97813",
+          "value": "1"
+        },
+        {
+          "key": "97814",
+          "value": "2"
+        },
+        {
+          "key": "S8930",
+          "value": "3"
+        },
+        "The cost of needles (A4212 and A4215) is included in the Acupuncture service and will be denied if submitted in addition to the Acupuncture service. The CMS National Physician Fee Schedule (NPFS) indicates these supplies are part of the Practice Expense (PE) and should not be reported separately.",
+        "Consistent with the CPT code description and the CMS NCCI Procedure to Procedure Coding Edits (PTP), electrical stimulation services (97014 and 97032) should not be reported in addition to specific Acupuncture services that include electrical stimulation (97813, 97814, and S8930) as these are mutually exclusive procedures. In addition, acupuncture codes 97813, 97814 and S8930 are considered inclusive to G0283. A modifier may be appropriate when an electrical stimulation service is performed distinctly and separate from the Acupuncture service and the documentation supports the service was not related to the Acupuncture.",
+        "Per CPT guidelines an evaluation and management (E/M) service may only be reported in addition to Acupuncture services if the patient's condition requires a significant, separately identifiable E/M service above and beyond the usual pre-service and post-service work associated with the Acupuncture service. When a separate E/M service is reported, the time spent for the E/M service is not to be included in the time UOS for the Acupuncture service."
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "When selecting the appropriate code based on the services performed, is it appropriate to use the duration of time the patient is in the exam room even if the provider is not present after the needle insertion to determine the units of service?",
+            "A": "No, Acupuncture code selection is based on the service provided in 15 minute increments. The time calculation is determined using face-to-face patient contact only. It would not be appropriate to count time spent away from the patient as part of the code selection and units submitted. Example of billable time: After needle insertion, the practitioner spent time assisting a nauseous patient who had vomited."
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "Q": "Will UnitedHealthcare allow reimbursement for electrical stimulation when performed on a separate body part from where Acupuncture services are performed.",
+            "A": "Yes, UnitedHealthcare will allow separate reimbursement if modifiers are appropriately used based on the services performed and the modifier description criteria are met."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "May both CPT codes 97810 and 97813 be reported when an Acupuncture treatment was initially started without electrical stimulation and then a new needle was inserted so the treatment could be completed with electrical stimulation?",
+            "A": "No, only one initial code may be reported per day. In this scenario, CPT code 97810 may be used for the initial 15 minutes without electrical stimulation and CPT code 97814 with electrical stimulation may be reported for the additional face-to-face time."
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "Q": "What services would be included in the initial Acupuncture service that would not be separately billable using an E/M code.",
+            "A": "The initial Acupuncture service codes include E/M components such as the assessment provided prior to and after the needle insertion, treatment discussion and recommendations, preparation, documentation and home instruction."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association, Current Procedural Terminology (CPT) and associated publications and services Centers for Medicare and Medicaid Services, Healthcare Common Procedure Coding System, HCPCS Release and Code Sets Centers for Medicare and Medicaid Services, CMS Manual System and other CMS publications and services. Centers for Medicare and Medicaid Services, National Correct Coding Initiative (NCCI) publications American Association of Acupuncture and Oriental Medicine (AAAOM) Position Statement on Acupuncture Reimbursement Codes"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "7/1/2026",
+          "value": "Anniversary Review and Version Change History Section - Entries prior to 7/1/2024 archived"
+        },
+        {
+          "key": "8/4/2025",
+          "value": "Policy Version Change History Section: Entries prior to 8/4/2023 archived"
+        },
+        {
+          "key": "12/1/2017",
+          "value": "Policy implemented by UnitedHealthcare Employer & Individual"
+        },
+        {
+          "key": "7/12/2017",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Commercial",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "97810",
+    "97813",
+    "97811",
+    "97814",
+    "S8930",
+    "A4212",
+    "A4215",
+    "97014",
+    "97032",
+    "G0283"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

@@ -1,0 +1,121 @@
+{
+  "policy_title": "Place of Service",
+  "policy_number": "ABHIL-RP-0033",
+  "effective_date": "12/01/2020",
+  "expiry_date": "03/15/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "99155",
+    "99156",
+    "99157"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for services and/ or procedures when the place of service is \nappropriately reported. Appropriate reporting includes \n• \nModerate sedation services conducted by a second physician are only reported with a \nPOS code that represents a facility setting \n• \nServices designated as “NA” in the Non- Facility indicator column of the CMS Physician \nfee schedule are not reported as rendered in POS 11 (physician’s office) Effective 11/01/2023 \n• \nServices provided on the same date of service as inpatient care where the patient was not \ndischarged on the same day or subsequent day are reported using POS 21 (inpatient \nhospital) Effective 11/01/2023 \n \nClaims that are submitted will be denied when \n• \nModerate sedation services conducted by a second physician are reported with a POS \ncode that does not represent a facility setting \n• \nServices designated as “NA” in the Non- Facility indicator column of the CMS Physician \nfee schedule are reported as rendered in POS 11 (physician’s office) Effective 11/01/2023 \n• \nServices provided on the same date of service as inpatient care where the patient was not \ndischarged on the same day or subsequent day are not reported using POS 21 (inpatient \nhospital) Effective 11/01/2023 \n \nThe medical record documentation is expected to support the specific CPT code(s) and ICD-10-\nCM codes reported.",
+    "subsections": [
+      {
+        "title": "Moderate sedation services conducted by a second physician are only reported with a",
+        "content": "POS code that represents a facility setting"
+      },
+      {
+        "title": "Services designated as “NA” in the Non- Facility indicator column of the CMS Physician",
+        "content": "fee schedule are not reported as rendered in POS 11 (physician’s office) Effective 11/01/2023"
+      },
+      {
+        "title": "Services provided on the same date of service as inpatient care where the patient was not",
+        "content": "discharged on the same day or subsequent day are reported using POS 21 (inpatient hospital) Effective 11/01/2023 Claims that are submitted will be denied when"
+      },
+      {
+        "title": "Moderate sedation services conducted by a second physician are reported with a POS",
+        "content": "code that does not represent a facility setting"
+      },
+      {
+        "title": "Services designated as “NA” in the Non- Facility indicator column of the CMS Physician",
+        "content": "fee schedule are reported as rendered in POS 11 (physician’s office) Effective 11/01/2023"
+      },
+      {
+        "title": "Services provided on the same date of service as inpatient care where the patient was not",
+        "content": "discharged on the same day or subsequent day are not reported using POS 21 (inpatient hospital) Effective 11/01/2023 The medical record documentation is expected to support the specific CPT code(s) and ICD-10- CM codes reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for services and/ or procedures when the place of service is\nappropriately reported. Appropriate reporting includes\n• Moderate sedation services conducted by a second physician are only reported with a\nPOS code that represents a facility setting\n• Services designated as “NA” in the Non- Facility indicator column of the CMS Physician\nfee schedule are not reported as rendered in POS 11 (physician’s office) Effective 11/01/2023\n• Services provided on the same date of service as inpatient care where the patient was not\ndischarged on the same day or subsequent day are reported using POS 21 (inpatient\nhospital) Effective 11/01/2023\nClaims that are submitted will be denied when\n• Moderate sedation services conducted by a second physician are reported with a POS\ncode that does not represent a facility setting\n• Services designated as “NA” in the Non- Facility indicator column of the CMS Physician\nfee schedule are reported as rendered in POS 11 (physician’s office) Effective 11/01/2023\n• Services provided on the same date of service as inpatient care where the patient was not\ndischarged on the same day or subsequent day are not reported using POS 21 (inpatient\nhospital) Effective 11/01/2023\nThe medical record documentation is expected to support the specific CPT code(s) and ICD-10-\nCM codes reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "Applicable Moderate Sedation CPT Codes\n99155 Moderate sedation services provided by a physician or other qualified health\n99156 care professional other than the physician or other qualified health care\n99157 professional performing the diagnostic or therapeutic service that the\nsedation supports",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "99155\n99156\n99157",
+            "value": "Moderate sedation services provided by a physician or other qualified health\ncare professional other than the physician or other qualified health care\nprofessional performing the diagnostic or therapeutic service that the\nsedation supports"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "F. Frequently Asked Questions",
+            "value": ""
+          },
+          {
+            "key": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "G. Review/Revision Date",
+            "value": ""
+          },
+          {
+            "key": "Action",
+            "value": "Date | Comments"
+          },
+          {
+            "key": "Revision",
+            "value": "04/01/2026 | Policy template updated; no content changes"
+          },
+          {
+            "key": "Revision",
+            "value": "11/01/2023 | Guidance added on non-facility indicator NA and Mutually\nExclusive Places of Service (effective 11/01/2023)"
+          },
+          {
+            "key": "Effective Date",
+            "value": "12/01/2020"
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. CPT Professional Edition 2026, AMA; 2025. \n2. Centers for Medicare & Medicaid Services. (2024). Medicare claims processing manual \n(Internet-Only Manual, Pub. 100-04, Ch. 26, § 10.6). U.S. Department of Health and Human \nServices. https://www.cms.gov/regulations-and-\nguidance/guidance/manuals/downloads/clm104c26.pd \n3. Centers for Medicare & Medicaid Services. (2026). Physician fee schedule. U.S. Department \nof Health and Human Services. https://www.cms.gov/medicare/payment/fee-\nschedules/physician"
+}

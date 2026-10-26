@@ -1,0 +1,146 @@
+{
+  "policy_title": "Diagnostic Testing for Inflammatory Bowel Disease Policy",
+  "policy_number": "2026R8217A",
+  "policy_dates": {
+    "effective_date": "9/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy describes the reimbursement methodology for diagnostic testing associated with inflammatory bowel disease when billed with designated conditions."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "NOTE: Procedure codes appearing in policy documents are included only as a general reference tool for each policy. They may not be all-inclusive.",
+          "children": [
+            {
+              "title": "Serologic Testing",
+              "level": 3,
+              "confirmed": true,
+              "page": 2,
+              "matched_via": "blue",
+              "type": "mixed",
+              "content": [
+                "UnitedHealthcare will not consider reimbursement of the following serologic marker procedure codes for individuals with crohn's disease, ulcerative colitis, or irritable bowel syndrome.",
+                "Procedure Code(s)",
+                {
+                  "key": "83516",
+                  "value": "83520 86021 86036 86037 86255"
+                },
+                {
+                  "key": "86671",
+                  "value": "0176U"
+                }
+              ]
+            },
+            {
+              "title": "Diagnostic Testing",
+              "level": 3,
+              "confirmed": true,
+              "page": 2,
+              "matched_via": "blue",
+              "type": "mixed",
+              "content": [
+                "UnitedHealthcare will not consider reimbursement of diagnostic algorithm-based testing (e.g. ibs-smartTM, PredictSURE IBDTM Test, Prometheus testing) for the diagnosis or monitoring of individuals with irritable bowel syndrome.",
+                "Procedure Code(s)",
+                {
+                  "key": "82397",
+                  "value": "83520 88346 88350 0164U 0203U"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association (AMA) Current Procedural Terminology (CPT) Centers for Medicare and Medicaid Services: PFS Relative Value Files"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "9/1/2026",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "12/01/2025",
+          "value": "New Policy"
+        },
+        {
+          "key": "09/22/2025",
+          "value": "Policy Version Change Policy Code update in Reimbursement Guidelines section"
+        },
+        {
+          "key": "09/01/2025",
+          "value": "Policy published"
+        },
+        {
+          "key": "8/26/2025",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "83516",
+    "83520",
+    "86021",
+    "86036",
+    "86037",
+    "86255",
+    "86671",
+    "0176U",
+    "82397",
+    "88346",
+    "88350",
+    "0164U",
+    "0203U",
+    "0598U"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

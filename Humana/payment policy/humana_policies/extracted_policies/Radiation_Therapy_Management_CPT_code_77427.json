@@ -1,0 +1,144 @@
+{
+  "policy_metadata": {
+    "policy_title": "Radiation Therapy Management – CPT code 77427",
+    "policy_number": "CP2014019",
+    "published_date": "09/2014",
+    "effective_date": "09/2014",
+    "revision_date": "08/2026",
+    "last_reviewed": "08/2026",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Both",
+    "source_pdf": "Radiation_Therapy_Management_-_CPT_code_77427_Revised-983c2061.pdf",
+    "total_pages": 3,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "77427"
+    ],
+    "cpt_codes": [
+      "77427"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "This policy outlines Humana’s billing requirements and reimbursement for Current Procedural Terminology (CPT®) code 77427 ."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Sessions and Fractions",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "CPT code 77427 may only be submitted for five sessions , regardless of the actual time period in which the services were furnished. Multiple fractions representing two or more treatment sessions furnished on the same day may be counted separately only if there was a distinct break between same-day therapy sessions , and only if the fractions are of a character usually furnished on different",
+            "days. Humana plans deny, as inappropriately billed, charges for fewer than five sessions . Exception : A provider may submit CPT code 77427 for three or four sessions at the end of a course of treatment. Humana plans deny, as inappropriately billed, charges at the end of a course of treatment for fewer than three sessions ."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Units",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "The billing provider must submit each unit of five sessions as a distinct single-unit charge. For a three- session unit or four- session unit at the end of a course of treatment, the billing provider must submit a single-unit charge distinct from all other units. Humana plans allow no more than one unit per charge and deny any additional unit(s) as inappropriately billed."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Service Dates",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "Humana plans require providers to submit each charge for CPT code 77427 with a “from” date representing the date of the first session of the charge and a “to” date representing the date of the last session of the charge."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Note",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "A provider must submit a charge for CPT code 77427 with a note indicating the number of fractions performed. Use the following syntax in Loop 2400 in the 837 electronic transaction: “NTE ✽ ADD ✽ X FRACTION(S) ~ ”. For example, if five fractions were performed, enter “NTE ✽ ADD ✽ 5 FRACTIONS ~ ”. If one fraction was performed, enter “NTE ✽ ADD ✽ 1 FRACTION ~ ”."
+          ],
+          "tables": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "• CPT code 77427 : Radiation treatment management, 5 treatments. • Fraction : An amount of radiation treatment. • Session : The encounter in which a fraction of radiation is delivered."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "• Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 13 – Radiology Services and Other Diagnostic Procedures . Section 70.1 – Weekly Radiation Therapy Management (CPT 77419 – 77430). www.cms.gov. • American Medical Association’s CPT® and associated publications and services."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 3,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "CPT code 77427": "Radiation treatment management, 5 treatments. • Fraction : An amount of radiation treatment. • Session : The encounter in which a fraction of radiation is delivered."
+  },
+  "references": [
+    "Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 13 – Radiology Services and Other Diagnostic Procedures . Section 70.1 – Weekly Radiation Therapy Management (CPT 77419 – 77430). www.cms.gov. • American Medical Association’s CPT® and associated publications and services."
+  ],
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 9,
+    "total_tables": 0,
+    "total_characters": 3579
+  }
+}

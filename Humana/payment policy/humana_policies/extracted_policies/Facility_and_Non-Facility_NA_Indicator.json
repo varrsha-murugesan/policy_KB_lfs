@@ -1,0 +1,117 @@
+{
+  "policy_metadata": {
+    "policy_title": "Facility and Non-Facility NA Indicator",
+    "policy_number": "CP2024006",
+    "published_date": "09/2024",
+    "effective_date": "09/2024",
+    "revision_date": null,
+    "last_reviewed": null,
+    "Line_of_Business": "Kentucky Medicaid",
+    "Billingclass": "Professional",
+    "source_pdf": "Facility_and_Non-Facility_NA_Indicator-06f0c88f.pdf",
+    "total_pages": 3,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [],
+    "cpt_codes": [],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "This policy outlines Humana’s reimbursement of professional claims for services identified with “NA” in either the facility NA indicator field or the non-facility NA indicator field of the Medicare Physician Fee Schedule (MPFS) Relative Value File . According to the Centers for Medicare & Medicaid Services (CMS), an “NA” in the facility NA indicator field of the MPFS Relative Value File signifies that the service is “rarely or never performed in the facility setting.” Similarly, an “NA” in the non-facility NA indicator field of the MPFS Relative Value File signifies that the service is “rarely or never performed in the non-facility setting.”"
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Kentucky Medicaid Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. The following policy applies to only professional services. Humana uses the place of service (POS) code reported on a professional claim to determine reimbursement of a service identified with “NA” in either the facility NA indicator field or the non-facility NA indicator field of the MPFS Relative Value File ."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Facility POS Code",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "For a professional claim reported with a facility POS code , Humana does not allow reimbursement for the service code and modifier combinations that CMS has identified with “NA” in the facility NA indicator field of the MPFS Relative Value File ."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Non-Facility POS Code",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "For a professional claim reported with a non-facility POS code , Humana does not allow reimbursement for the service code and modifier combinations that CMS has identified with “NA” in the non-facility NA indicator field of the MPFS Relative Value File . Note: In certain circumstances, additional payment rules may apply. For example, when applicable, claims are subject to the Humana Healthy Horizons in Kentucky out-of-network payment policy. For more information, see the relevant guidance in the References section of this policy."
+          ],
+          "tables": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "• Facility place of service (POS) code : A place of service code for a setting defined by the Centers for Medicare & Medicaid Services as a facility setting. • Medicare Physician Fee Schedule (MPFS) Relative Value File: A file published by the Centers for Medicare & Medicaid Services that includes, among other information, facility and non-facility NA indicators, relative value units and conversion factors for physician services. This file is commonly referred to as the relative value unit (RVU) table. • Non-facility place of service (POS) code : A place of service code for a setting defined by the Centers for Medicare & Medicaid Services as a non-facility setting. • Professional claim: Charges for professional services submitted on the CMS-1500 form, or its electronic equivalent."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "• Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 26 – Completing and Processing Form CMS-1500 Data Set . Section 10.5 – Place of Service Codes (POS) and Definitions. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Physician Fee Schedule (MPFS) Relative Value Files . www.cms.gov. • Kentucky Cabinet for Health and Family Services website. Department for Medicaid Services . www.chfs.ky.gov. • Humana website. Humana Healthy Horizons in Kentucky . Humana.com."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 3,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Facility place of service (POS) code": "A place of service code for a setting defined by the Centers for Medicare & Medicaid Services as a facility setting. • Medicare Physician Fee Schedule (MPFS) Relative Value File: A file published by the Centers for Medicare & Medicaid Services that includes, among other information, facility and non-facility NA indicators, relative value units and conversion factors for physician services. This file is commonly referred to as the relative value unit (RVU) table. • Non-facility place of service (POS) code : A place of service code for a setting defined by the Centers for Medicare & Medicaid Services as a non-facility setting. • Professional claim: Charges for professional services submitted on the CMS-1500 form, or its electronic equivalent."
+  },
+  "references": [
+    "Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 26 – Completing and Processing Form CMS-1500 Data Set . Section 10.5 – Place of Service Codes (POS) and Definitions. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Physician Fee Schedule (MPFS) Relative Value Files . www.cms.gov. • Kentucky Cabinet for Health and Family Services website. Department for Medicaid Services . www.chfs.ky.gov. • Humana website. Humana Healthy Horizons in Kentucky . Humana.com."
+  ],
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 7,
+    "total_tables": 0,
+    "total_characters": 4344
+  }
+}

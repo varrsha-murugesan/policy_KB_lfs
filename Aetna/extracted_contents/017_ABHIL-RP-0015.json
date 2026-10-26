@@ -1,0 +1,159 @@
+{
+  "policy_title": "Never Events",
+  "policy_number": "ABHIL-RP-0015",
+  "effective_date": "12/01/2020",
+  "expiry_date": "01/13/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for procedures/ services when appropriately performed and reported \nwhen \n• \nA surgical or invasive procedure is conducted on the correct and intended patient \n• \nA surgical or invasive procedure is conducted on the correct and intended body part \n• \nThe correct and intended surgical or invasive procedure is conducted \n \nClaims that are submitted will be denied as non- reimbursable when \n• \nA Never Event modifier as specified by this policy is reported \n• \nA surgical or invasive procedure is conducted on the incorrect or unintended patient \n• \nA surgical or invasive procedure is conducted on the incorrect and unintended body part \n• \nThe incorrect and unintended surgical or invasive procedure is conducted \n \nThe medical record documentation is expected to support the specific CPT code(s) and \nmodifiers reported.",
+    "subsections": [
+      {
+        "title": "A surgical or invasive procedure is conducted on the correct and intended patient",
+        "content": "A surgical or invasive procedure is conducted on the correct and intended patient"
+      },
+      {
+        "title": "A surgical or invasive procedure is conducted on the correct and intended body part",
+        "content": "A surgical or invasive procedure is conducted on the correct and intended body part"
+      },
+      {
+        "title": "The correct and intended surgical or invasive procedure is conducted",
+        "content": "Claims that are submitted will be denied as non- reimbursable when"
+      },
+      {
+        "title": "A Never Event modifier as specified by this policy is reported",
+        "content": "A Never Event modifier as specified by this policy is reported"
+      },
+      {
+        "title": "A surgical or invasive procedure is conducted on the incorrect or unintended patient",
+        "content": "A surgical or invasive procedure is conducted on the incorrect or unintended patient"
+      },
+      {
+        "title": "A surgical or invasive procedure is conducted on the incorrect and unintended body part",
+        "content": "A surgical or invasive procedure is conducted on the incorrect and unintended body part"
+      },
+      {
+        "title": "The incorrect and unintended surgical or invasive procedure is conducted",
+        "content": "The medical record documentation is expected to support the specific CPT code(s) and modifiers reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Current\nProcedural\nTerminology\n(CPT)",
+            "value": "A medical code set maintained by the American Medical\nAssociation through the CPT Editorial Panel. The CPT code set\n(copyright protected by the AMA) describes medical, surgical,\nand diagnostic services and is designed to communicate uniform\ninformation about medical services and procedures among\nphysicians, coders, patients, accreditation organizations, and\npayers for administrative, financial, and analytical purposes."
+          },
+          {
+            "key": "Illinois Department\nof Health Care and\nFamily Services\n(HFS)",
+            "value": "The Department of Healthcare and Family Services\nadministers health insurance programs for children, pregnant\nwomen, and adults who are residents of Illinois."
+          },
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for procedures/ services when appropriately performed and reported\nwhen\n• A surgical or invasive procedure is conducted on the correct and intended patient\n• A surgical or invasive procedure is conducted on the correct and intended body part\n• The correct and intended surgical or invasive procedure is conducted\nClaims that are submitted will be denied as non- reimbursable when\n• A Never Event modifier as specified by this policy is reported\n• A surgical or invasive procedure is conducted on the incorrect or unintended patient\n• A surgical or invasive procedure is conducted on the incorrect and unintended body part\n• The incorrect and unintended surgical or invasive procedure is conducted\nThe medical record documentation is expected to support the specific CPT code(s) and\nmodifiers reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "PA Surgical or other invasive procedure on wrong body part\nPB Surgical or other invasive procedure on wrong patient\nPC Wrong surgery or other invasive procedure on patient",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "PA",
+            "value": "Surgical or other invasive procedure on wrong body part"
+          },
+          {
+            "key": "PB",
+            "value": "Surgical or other invasive procedure on wrong patient"
+          },
+          {
+            "key": "PC",
+            "value": "Wrong surgery or other invasive procedure on patient"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "F. Frequently Asked Questions",
+            "value": ""
+          },
+          {
+            "key": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "G. Review/Revision Date",
+            "value": ""
+          },
+          {
+            "key": "Action",
+            "value": "Date | Comments"
+          },
+          {
+            "key": "Review",
+            "value": "01/13/2026 | Policy template updated- No other content changes"
+          },
+          {
+            "key": "Effective Date",
+            "value": "12/01/2020"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "H. Resources",
+            "value": ""
+          },
+          {
+            "key": "1. American Medical Association. CPT Professional Edition 2025, AMA; 2024.\n2. Centers for Medicare & Medicaid Services (CMS). Medicare National Coverage\nDeterminations Manual. Pub 100-03, Ch 1 (“Medicare National Coverage Determinations”),\n§ 140.6, “Wrong Surgical or Other Procedure Performed on a Patient” (New, effective\nJan 15, 2009), Transmittal 101, June 12, 2009.\n3. Centers for Medicare & Medicaid Services (CMS). CMS Fact Sheet. Eliminating Serious,\nPreventable, and Costly Medical Errors- Never Events.” Published May 18, 2006",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. CPT Professional Edition 2025, AMA; 2024. \n2. Centers for Medicare & Medicaid Services (CMS). Medicare National Coverage \nDeterminations Manual. Pub 100-03, Ch 1 (“Medicare National Coverage Determinations”), \n§ 140.6, “Wrong Surgical or Other Procedure Performed on a Patient” (New, effective \nJan 15, 2009), Transmittal 101, June 12, 2009. \n3. Centers for Medicare & Medicaid Services (CMS). CMS Fact Sheet. Eliminating Serious, \nPreventable, and Costly Medical Errors- Never Events.” Published May 18, 2006"
+}

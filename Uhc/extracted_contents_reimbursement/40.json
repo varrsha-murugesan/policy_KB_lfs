@@ -1,0 +1,141 @@
+{
+  "policy_title": "Diagnostic Testing for Influenza Policy",
+  "policy_number": "2026R8203A",
+  "policy_dates": {
+    "effective_date": "9/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy describes the reimbursement methodology for influenza testing which is considered for reimbursement when billed with designated conditions."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "NOTE: Procedure codes appearing in policy documents are included only as a general reference tool for each policy. They may not be all-inclusive.",
+          "children": [
+            {
+              "title": "Diagnostic Testing",
+              "level": 3,
+              "confirmed": true,
+              "page": 2,
+              "matched_via": "blue",
+              "type": "mixed",
+              "content": [
+                "UnitedHealthcare will consider reimbursement of the following influenza testing procedure codes when billed for any of the conditions listed below:",
+                "Procedure Code(s)",
+                {
+                  "key": "87275",
+                  "value": "87276 87400 87501 87502 87804"
+                },
+                "Condition(s)",
+                "a. Abdominal Pain b. Acute bronchitis c. Acute sinusitis d. Acute tonsillitis, laryngitis and tracheitis e. Asthma exacerbation f. Chest pain g. Cough h. Dehydration i. Fatigue j. Fever k. Gastritis, unspecified, without bleeding l. Headache m. Infectious mononucleosis n. Influenza o. Nausea, vomiting p. Pharyngitis q. Shortness of breath r. Upper respiratory infection s. Viral infections t. Viral intestinal infection, unspecified u. Viral or bacterial pneumonia v. Whooping cough",
+                "UnitedHealthcare will not consider reimbursement of the influenza testing procedure codes above for any other conditions."
+              ]
+            },
+            {
+              "title": "Viral Culture Testing",
+              "level": 3,
+              "confirmed": true,
+              "page": 3,
+              "matched_via": "blue",
+              "type": "text",
+              "content": "UnitedHealthcare will not consider reimbursement of viral culture testing for influenza. Procedure Code(s) 87254"
+            },
+            {
+              "title": "Serology Testing",
+              "level": 3,
+              "confirmed": true,
+              "page": 3,
+              "matched_via": "blue",
+              "type": "text",
+              "content": "UnitedHealthcare will not consider reimbursement of serology testing for influenza. Procedure Code(s) 86710"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association (AMA) Current Procedural Terminology (CPT) Centers for Medicare and Medicaid Services: PFS Relative Value Files"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "9/1/2026",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "12/01/2025",
+          "value": "New Policy"
+        },
+        {
+          "key": "9/22/2025",
+          "value": "Policy Version Change Policy Code update in Reimbursement Guidelines section"
+        },
+        {
+          "key": "9/01/2025",
+          "value": "Policy published"
+        },
+        {
+          "key": "8/26/2025",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "87275",
+    "87276",
+    "87400",
+    "87501",
+    "87502",
+    "87804",
+    "87254",
+    "86710"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

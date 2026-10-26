@@ -1,0 +1,144 @@
+{
+  "policy_title": "Autoimmune Rheumatic Disease Policy",
+  "policy_number": "2026R8207A",
+  "policy_dates": {
+    "effective_date": "9/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy describes the reimbursement methodology for biomarker testing associated with autoimmune rheumatic disease."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "NOTE: Procedure codes appearing in policy documents are included only as a general reference tool for each policy. They may not be all-inclusive.",
+          "children": [
+            {
+              "title": "Antinuclear Antibodies and Extractable Nuclear Antigen",
+              "level": 3,
+              "confirmed": true,
+              "page": 2,
+              "matched_via": "blue",
+              "type": "mixed",
+              "content": [
+                "UnitedHealthcare will not consider reimbursement of antinuclear antibodies (ANA) and extractable nuclear antigen (ENA) testing procedure codes for a general encounter without abnormal findings.",
+                "Procedure Code(s)",
+                {
+                  "key": "86038",
+                  "value": "86039 86235"
+                }
+              ]
+            },
+            {
+              "title": "Cell-Bound Complement Activation",
+              "level": 3,
+              "confirmed": true,
+              "page": 2,
+              "matched_via": "blue",
+              "type": "text",
+              "content": "UnitedHealthcare will not consider reimbursement of the following procedure code for the use of cell-bound complement activation products (e.g., Avise Lupus). Procedure Code(s) 0312U"
+            },
+            {
+              "title": "Diagnostic Testing",
+              "level": 3,
+              "confirmed": true,
+              "page": 2,
+              "matched_via": "blue",
+              "type": "mixed",
+              "content": [
+                "UnitedHealthcare will not consider reimbursement of serum biomarker panel testing with proprietary algorithms and index scores for the diagnosis of systemic lupus erythematosus or connective tissue diseases when submitted for the conditions of systemic lupus erythematosus or connective tissue disease.",
+                "Procedure Code(s)",
+                {
+                  "key": "0062U",
+                  "value": "0446U 0447U"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association (AMA) Current Procedural Terminology (CPT) Centers for Medicare and Medicaid Services: PFS Relative Value Files"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "9/1/2026",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "12/01/2025",
+          "value": "New Policy"
+        },
+        {
+          "key": "09/18/2025",
+          "value": "Policy Version Change Policy Language update in Reimbursement Guidelines section"
+        },
+        {
+          "key": "09/01/2025",
+          "value": "Policy published"
+        },
+        {
+          "key": "8/26/2025",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "86038",
+    "86039",
+    "86235",
+    "0312U",
+    "0062U",
+    "0446U",
+    "0447U"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

@@ -1,0 +1,143 @@
+{
+  "policy_title": "Polysomnography",
+  "policy_number": "ABHIL-RP-0032",
+  "effective_date": "12/01/2020",
+  "expiry_date": "12/01/2026",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "95782",
+    "95783",
+    "95808",
+    "95810",
+    "95811"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for polysomnography procedures when appropriately reported. \nAppropriate reporting includes \n \nReporting an age-based procedure code that is consistent with the patients’ actual age on \nthe date of service \n \nReporting polysomnography as conducted in an appropriate place of service- not in the \npatients’ home \n \nClaims that are submitted will be denied when \n \nAn age-based procedure code is reported that is inconsistent with the patients’ actual age \non the date of service \n \nPolysomnography is reported as conducted in the patients’ home using the place of \nservice code 12 \n \nThe medical record documentation is expected to support the specific CPT code(s) and ICD-10-\nCM codes reported.",
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Illinois Department\nof Health Care and\nFamily Services\n(HFS)",
+            "value": "The Department of Healthcare and Family Services\nadministers health insurance programs for children, pregnant\nwomen, and adults who are residents of Illinois."
+          },
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          },
+          {
+            "key": "Place of Service\nCode (POS)",
+            "value": "A Place of Service (POS) code is a two-digit code used on\nprofessional healthcare claims to identify the setting or location\nwhere healthcare services were provided. Place of Service codes\nare maintained by the Centers for Medicare & Medicaid Services\n(CMS)"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for polysomnography procedures when appropriately reported.\nAppropriate reporting includes\n Reporting an age-based procedure code that is consistent with the patients’ actual age on\nthe date of service\n Reporting polysomnography as conducted in an appropriate place of service- not in the\npatients’ home\nClaims that are submitted will be denied when\n An age-based procedure code is reported that is inconsistent with the patients’ actual age\non the date of service\n Polysomnography is reported as conducted in the patients’ home using the place of\nservice code 12\nThe medical record documentation is expected to support the specific CPT code(s) and ICD-10-\nCM codes reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "Applicable CPT Codes\n95808 Polysomnography; any age, sleep staging with 1-3 additional parameters of sleep,\nattended by a technologist\n95810 Polysomnography; age 6 years or older, sleep staging with 4 or more additional\nparameters of sleep, attended by a technologist\n95811 Polysomnography; age 6 years or older, sleep staging with 4 or more additional\nparameters of sleep, with initiation of continuous positive airway pressure therapy or\nbilevel ventilation, attended by a technologist\n95782 Polysomnography; younger than 6 years, sleep staging with 4 or more additional\nparameters of sleep, attended by a technologist\n95783 Polysomnography; younger than 6 years, sleep staging with 4 or more additional\nparameters of sleep, with initiation of continuous positive airway pressure therapy or\nbi-level ventilation, attended by a technologist",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "95808",
+            "value": "Polysomnography; any age, sleep staging with 1-3 additional parameters of sleep,\nattended by a technologist"
+          },
+          {
+            "key": "95810",
+            "value": "Polysomnography; age 6 years or older, sleep staging with 4 or more additional\nparameters of sleep, attended by a technologist"
+          },
+          {
+            "key": "95811",
+            "value": "Polysomnography; age 6 years or older, sleep staging with 4 or more additional\nparameters of sleep, with initiation of continuous positive airway pressure therapy or\nbilevel ventilation, attended by a technologist"
+          },
+          {
+            "key": "95782",
+            "value": "Polysomnography; younger than 6 years, sleep staging with 4 or more additional\nparameters of sleep, attended by a technologist"
+          },
+          {
+            "key": "95783",
+            "value": "Polysomnography; younger than 6 years, sleep staging with 4 or more additional\nparameters of sleep, with initiation of continuous positive airway pressure therapy or\nbi-level ventilation, attended by a technologist"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "F. Frequently Asked Questions",
+            "value": ""
+          },
+          {
+            "key": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "G. Review/Revision Date",
+            "value": ""
+          },
+          {
+            "key": "Action",
+            "value": "Date | Comments"
+          },
+          {
+            "key": "Revision",
+            "value": "04/01/2026 | Update to new template- no content changes"
+          },
+          {
+            "key": "Effective Date",
+            "value": "12/01/2020"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "H. Resources",
+            "value": ""
+          },
+          {
+            "key": "1. American Medical Association. CPT Professional Edition 2026, AMA; 2025.",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. CPT Professional Edition 2026, AMA; 2025."
+}

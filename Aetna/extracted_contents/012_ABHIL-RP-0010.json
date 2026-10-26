@@ -1,0 +1,196 @@
+{
+  "policy_title": "Intensity Modulated Radiation Therapy (IMRT)",
+  "policy_number": "ABHIL-RP-0010",
+  "effective_date": "10/01/2024",
+  "expiry_date": "10/01/2026",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "12979",
+    "77014",
+    "77231",
+    "77280",
+    "77281",
+    "77282",
+    "77283",
+    "77284",
+    "77285",
+    "77286",
+    "77287",
+    "77288",
+    "77289",
+    "77290",
+    "77295",
+    "77301",
+    "77306",
+    "77307",
+    "77316",
+    "77317",
+    "77318",
+    "77331",
+    "77370"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for IMRT planning and delivery when appropriately reported. \nAppropriate reporting includes \n• \nIMRT plan reported no more than once during an eight- week period, even if there is a \nplanned \"cone down\" treatment feature or change in field size. \n• \nIMRT therapy procedures that are considered incidental to the creation of the IMRT plan \n(reported up to two weeks prior to the IMRT plan with the same primary diagnosis code as \nthe reported IMRT planning claim line) are not reported separately. \n \nClaims that are submitted will be denied when \n• \nIMRT planning is reported on more than one date within an eight-week period. \n• \nIMRT therapy is reported two weeks prior to the reporting of an IMRT plan and the primary \ndiagnosis is the same as any diagnosis reported on the IMRT planning claim line \n \nThe medical record documentation is expected to support the specific CPT code(s), ICD-10-CM \ndiagnosis codes and modifiers reported.",
+    "subsections": [
+      {
+        "title": "IMRT plan reported no more than once during an eight- week period, even if there is a",
+        "content": "planned \"cone down\" treatment feature or change in field size."
+      },
+      {
+        "title": "IMRT therapy procedures that are considered incidental to the creation of the IMRT plan",
+        "content": "(reported up to two weeks prior to the IMRT plan with the same primary diagnosis code as the reported IMRT planning claim line) are not reported separately. Claims that are submitted will be denied when"
+      },
+      {
+        "title": "IMRT planning is reported on more than one date within an eight-week period.",
+        "content": "IMRT planning is reported on more than one date within an eight-week period."
+      },
+      {
+        "title": "IMRT therapy is reported two weeks prior to the reporting of an IMRT plan and the primary",
+        "content": "diagnosis is the same as any diagnosis reported on the IMRT planning claim line The medical record documentation is expected to support the specific CPT code(s), ICD-10-CM diagnosis codes and modifiers reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "International\nStatistical\nClassification of\nDiseases (ICD-10-\nCM)",
+            "value": "The 10th revision of the (ICD), a medical classification list by the\nWorld Health Organization (WHO). It contains codes for diseases,\nsigns and symptoms, abnormal findings, complaints, social\ncircumstances, and external causes of injury or diseases."
+          },
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for IMRT planning and delivery when appropriately reported.\nAppropriate reporting includes\n• IMRT plan reported no more than once during an eight- week period, even if there is a\nplanned \"cone down\" treatment feature or change in field size.\n• IMRT therapy procedures that are considered incidental to the creation of the IMRT plan\n(reported up to two weeks prior to the IMRT plan with the same primary diagnosis code as\nthe reported IMRT planning claim line) are not reported separately.\nClaims that are submitted will be denied when\n• IMRT planning is reported on more than one date within an eight-week period.\n• IMRT therapy is reported two weeks prior to the reporting of an IMRT plan and the primary\ndiagnosis is the same as any diagnosis reported on the IMRT planning claim line\nThe medical record documentation is expected to support the specific CPT code(s), ICD-10-CM\ndiagnosis codes and modifiers reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "IMRT Planning- CPT Codes\n77301 Intensity modulated radiotherapy plan, including dose-volume histograms\nfor target and critical structure partial tolerance specifications\nIMRT Planning- Incidental CPT Codes\n77014 Computed tomography guidance for placement of radiation therapy fields\n77280- Therapeutic radiology simulation-aided field setting\n77290\n77295 3-dimensional radiotherapy plan, including dose-volume histograms\n77306- Teletherapy isodose plan\n77307\n77316- Brachytherapy isodose plan\n77318\n77231 Special teletherapy port plan, particles, hemibody, total body\n77331 Special dosimetry (eg, TLD, microdosimetry) (specify), only when prescribed\nby the treating physician\n77370 Special medical radiation physics consultation",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "77301",
+            "value": "Intensity modulated radiotherapy plan, including dose-volume histograms\nfor target and critical structure partial tolerance specifications"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "77014",
+            "value": "Computed tomography guidance for placement of radiation therapy fields"
+          },
+          {
+            "key": "77280-\n77290",
+            "value": "Therapeutic radiology simulation-aided field setting"
+          },
+          {
+            "key": "77295",
+            "value": "3-dimensional radiotherapy plan, including dose-volume histograms"
+          },
+          {
+            "key": "77306-\n77307",
+            "value": "Teletherapy isodose plan"
+          },
+          {
+            "key": "77316-\n77318",
+            "value": "Brachytherapy isodose plan"
+          },
+          {
+            "key": "77231",
+            "value": "Special teletherapy port plan, particles, hemibody, total body"
+          },
+          {
+            "key": "77331",
+            "value": "Special dosimetry (eg, TLD, microdosimetry) (specify), only when prescribed\nby the treating physician"
+          },
+          {
+            "key": "77370",
+            "value": "Special medical radiation physics consultation"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "F. Frequently Asked Questions",
+            "value": ""
+          },
+          {
+            "key": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "G. Review/Revision Date",
+            "value": ""
+          },
+          {
+            "key": "Action",
+            "value": "Date | Comments"
+          },
+          {
+            "key": "Revision",
+            "value": "12/04/2025 | Revise to update policy template- no content changes"
+          },
+          {
+            "key": "Effective Date",
+            "value": "10/01/2024 | New Policy"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "H. Resources",
+            "value": ""
+          },
+          {
+            "key": "1. American Medical Association. CPT Professional Edition 2025, AMA; 2024.\n2. American Society for Radiation Oncology. Model Policies: Intensity Modulated Radiation\nTherapy (IMRT). American Society for Radiation Oncology; [2022].\n3. Centers for Medicare & Medicaid Services. Medicare Claims Processing Manual: Chapter 4 –\nPart B Hospital (Including Inpatient Hospital Part B and OPPS)- 200.3.1, Rev. 12979; Issued\nNovember 22, 2024.",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. CPT Professional Edition 2025, AMA; 2024. \n2. American Society for Radiation Oncology. Model Policies: Intensity Modulated Radiation \nTherapy (IMRT). American Society for Radiation Oncology; [2022]. \n3. Centers for Medicare & Medicaid Services. Medicare Claims Processing Manual: Chapter 4 – \nPart B Hospital (Including Inpatient Hospital Part B and OPPS)- 200.3.1, Rev. 12979; Issued \nNovember 22, 2024."
+}

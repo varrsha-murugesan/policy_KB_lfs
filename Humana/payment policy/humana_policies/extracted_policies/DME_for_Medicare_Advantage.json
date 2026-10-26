@@ -1,0 +1,215 @@
+{
+  "policy_metadata": {
+    "policy_title": "DME for Medicare Advantage",
+    "policy_number": "CP2024013",
+    "published_date": "10/2025",
+    "effective_date": "10/2025",
+    "revision_date": null,
+    "last_reviewed": null,
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Both",
+    "source_pdf": "DME_for_Medicare_Advantage-b6133bf4.pdf",
+    "total_pages": 7,
+    "related_policies": [
+      "Common CPT and HCPCS Modifiers, DMEPOS Proof of Delivery"
+    ]
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "QE",
+      "RA",
+      "RB",
+      "RR",
+      "UP"
+    ],
+    "cpt_codes": [],
+    "hcpcs_codes": [],
+    "modifiers": [
+      "QE",
+      "RA",
+      "RB",
+      "RR",
+      "UP"
+    ],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": [
+        "This policy outlines Humana’s billing requirements and reimbursement for durable medical equipment (DME). • • •"
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Specific Guidelines for DME Items Categorized as TENS Units",
+          "level": 2,
+          "page_start": 1,
+          "page_end": 1,
+          "content": [
+            "•"
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Specific Guidelines for DME Items Categorized as Inexpensive or Routinely Purchased DME Items",
+          "level": 2,
+          "page_start": 1,
+          "page_end": 2,
+          "content": [
+            "• •"
+          ],
+          "tables": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "General Policy Guidelines",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "Humana Medicare Advantage (MA) plans generally allow DME according to the applicable Centers for Medicare & Medicaid Services (CMS) guidance. Except where guidance in this policy differs from Original Medicare, providers should follow the applicable CMS guidance. For a DME item that can be rented or purchased, whether that item is rented or purchased is subject to any applicable referral or prior authorization determination. For a DME item that can be rented, when the Medicare Durable Medical Equipment, Prosthetics, Orthotics and Supplies (DMEPOS) Fee Schedule has no rental rate for that item, Humana will apply a contracted rental rate, where applicable. If there is no contracted rental rate, Humana may allow the item at the purchase rate. For a DME item that can be purchased, the amount allowed is affected by which purchase modifier is reported. • If a charge for a covered DME item is submitted with modifier NU , the amount allowed is the new equipment purchase rate. • If a charge for a covered DME item is submitted with modifier UE , the amount allowed is the used equipment purchase rate. The amount allowed for purchased used equipment is a reduced rate, typically 75%, of the new equipment purchase rate. Reimbursement for the DME item includes reimbursement for delivery and set-up. Humana does not reimburse separately for delivery and set-up. Reimbursement for covered services provided to an MA member is subject to the same special pricing rules that would apply for covered services provided to Original Medicare enrollees. For example, if a covered service provided to an Original Medicare enrollee would be priced using the Competitive Bidding Program rate, then that service provided to a Humana MA member in the same competitive bidding area is reimbursed using the same rate."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Specific Guidelines for DME Items Categorized as Capped Rental DME Items",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 3,
+          "content": [
+            "Humana requires an appropriate capped rental modifier and transaction modifier . Humana determines the amount allowed based on the transaction modifier billed for an item categorized as a capped rental DME item as described below. Rental If a charge for a covered capped rental DME item is submitted with modifier RR , the amount allowed is the monthly rental rate, as described below. Rental is allowed for a period of continuous use not to exceed 13 months. Reimbursement to a provider whose contract is not based on the Medicare DMEPOS Fee Schedule is allowed at the contracted rental rate. Otherwise, Humana allows an item, other than a power wheelchair, at a monthly rental rate of 10% of the item’s purchase rate for each of the first three months and then 7.5% of the purchase rate for the remainder of the rental period. For a power wheelchair, Humana allows at a monthly rental rate of 15% of the item’s purchase rate for the first three months and then 6% of the purchase rate for the remainder of the rental period. In both scenarios, the monthly rental rate is based on the purchase rate in effect for the date of service billed. A capped rental DME item is considered purchased after 13 continuous months of covered rental. Humana reserves the right to allow at the purchase rate at any time, regardless of the submission of modifier RR . In such cases, the amount allowed is either the new equipment purchase rate or used equipment purchase rate, as described in the General Policy Guidelines section of this policy. Purchase Humana generally allows a purchase option for an item that CMS defines as a complex, rehabilitative power wheelchair and for certain accessories, as defined by CMS, provided for use with that wheelchair. To indicate that a charge is for the purchase of a capped rental DME item, the supplier must submit the charge with the appropriate purchase modifier . The amount allowed is either the new equipment purchase rate or used equipment purchase rate, as described in the General Policy Guidelines section of this policy."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Specific Guidelines for DME Items Categorized as Oxygen",
+          "level": 2,
+          "page_start": 3,
+          "page_end": 4,
+          "content": [
+            "Equipment Humana allows reimbursement for rental of oxygen equipment for a period of continuous use not to exceed 36 months. Only one supplier is reimbursed per month. If there is a change in supplier or a change in the type of stationary oxygen equipment supplied, the same 36-month rental period continues. If both stationary and portable equipment are used, each is allowed through 36 continuous months. If there is a gap in service of 60 days or more during a 36-month rental period, a new 36-month rental period",
+            "begins. If there is a gap in service for fewer than 60 days, the original 36-month rental period continues. Humana requires modifier RR for rental of oxygen equipment. The amount allowed is the monthly rental rate. The monthly rental rate may be subject to adjustment depending on the amount of oxygen prescribed and whether portable oxygen has been",
+            "prescribed. In such circumstances, Humana also requires a provider to report one of the following modifiers, as supported by the prescription: modifier QA , QB , QE , QF , QG or QR . Humana determines the amount allowed as follows: • If a charge for stationary equipment is submitted with modifier QA or QE , the amount allowed is 50% of the monthly rental rate. • If a charge for stationary equipment is submitted with modifier QG or QR , the amount allowed is 150% of the monthly rental rate. • If a charge for portable equipment is submitted with modifier QF or QB , the amount allowed is the greater of 50% of the monthly rental rate for stationary equipment or 100% of the monthly rental rate for portable equipment. Equipment Replacement A new 36-month rental period may begin if the oxygen equipment has been lost, stolen or unintentionally damaged beyond repair or has met the reasonable useful lifetime (RUL) of at least five years. The RUL begins with the initial month’s rental. For additional guidance, see the Repair and Replacement section of this policy. Contents Humana allows reimbursement for oxygen contents unless one or more of the following situations applies: • Contents are not reimbursable when, in the same month, only a concentrator is supplied. • Stationary contents are not separately reimbursable if there is an allowed, same-month stationary equipment charge. • Portable contents are not separately reimbursable if there is an allowed, same-month stationary equipment charge or stationary contents charge. Reimbursement for maintenance and servicing does not include reimbursement for contents. Therefore, contents are separately reimbursable when billed the same month as maintenance and servicing. Supplies and Accessories Reimbursement for the rental of stationary or portable oxygen equipment includes reimbursement for oxygen supplies and",
+            "accessories. Humana does not reimburse separately for oxygen supplies and accessories until after the 36-month rental period has ended. Maintenance and Servicing Humana allows reimbursement for maintenance and servicing of certain concentrators and refilling equipment, indicated by modifier MS , once every six months beginning the later of six months after the 36-month rental period or six months from the manufacturer’s warranty expiration. Humana does not allow reimbursement for maintenance and servicing of gaseous and liquid equipment. Specific Guidelines for DME Items Categorized as Transcutaneous Electrical Nerve Stimulator (TENS) Units Acute Post-Operative Pain Humana allows a one-month rental period if a TENS unit is used to treat acute post-operative pain. The supplier must submit the charge with modifier RR . Chronic Pain Humana requires an appropriate transaction modifier . Humana determines the amount allowed based on the transaction modifier billed for a TENS unit as described below. Humana requires a two-month rental trial period to assess an individual’s suitability for ongoing treatment if a TENS unit is used to treat chronic pain. The supplier must submit charges for the two-month rental trial period with modifier RR . If the TENS unit is approved for on-going rental or purchase, the applicable rental rate or purchase amount will be allowed as described below. Rental If the TENS unit is approved for on-going use, and the charge is submitted with modifier RR , the amount allowed is the monthly rental rate. However, Humana reserves the right to allow at the purchase rate at any time, regardless of the submission of modifier RR . Rental is allowed for a period of continuous use not to exceed 13 months. The two-month rental trial period does not count towards the 13-month rental period. After the two-month rental trial period, the TENS unit is considered purchased in the month in which the total of all amounts allowed, for one or multiple charges, reaches the applicable purchase amount or exceeds the 13-month rental period. Purchase If the TENS unit is approved for on-going use, and the unit is purchased, the supplier must submit the charge with the appropriate purchase modifier . The amount allowed is either the new equipment purchase rate or used equipment purchase rate, as described in the General Policy Guidelines section of this policy, for the month billed. If the item was previously rented, then the purchase rate is based on the purchase rate in effect at the time of the first month’s rental. The two-month rental trial period does not count towards the purchase amount. After the two-month rental trial period, the TENS unit is considered purchased in the month in which the total of all amounts allowed, for one or multiple charges, reaches the applicable purchase amount or exceeds the 13-month rental period."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Specific Guidelines for DME Items Categorized as Inexpensive or Routinely Purchased (IRP) DME Items",
+          "level": 2,
+          "page_start": 4,
+          "page_end": 5,
+          "content": [
+            "Although transcutaneous electrical nerve stimulator (TENS) units qualify as items of IRP DME, reimbursement for TENS units differs. See the Transcutaneous Electrical Nerve Stimulator section of this policy. Humana requires an appropriate transaction modifier . Humana determines the amount allowed based on the transaction modifier billed for an item categorized as IRP DME as described below. Rental If a charge for a covered IRP DME item is submitted with modifier RR , the amount allowed is the monthly rental rate. However, Humana reserves the right to allow at the purchase rate at any time, regardless of the submission of modifier RR . An IRP DME item is considered purchased in the month in which the total of all amounts allowed equals the applicable purchase amount for that item. Purchase To indicate that a charge is for the purchase of an IRP DME item, the supplier must submit the charge with the appropriate purchase modifier . The amount allowed is either the new equipment purchase rate or used equipment purchase rate, as described in the General Policy Guidelines section of this policy, for the month billed. If the item was previously rented, then the purchase rate is based on the purchase rate in effect at the time of the first month’s rental, less the total amount allowed for all previous rentals."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Repair and Replacement",
+          "level": 2,
+          "page_start": 5,
+          "page_end": 6,
+          "content": [
+            "Humana may reimburse the replacement of a DME base item, part or accessory after the expiration of the RUL if it is still medically necessary but no longer functional. The RUL period begins the first date of service when the specific base item, part or accessory was individually reimbursed. Additionally, the following criteria must be met: • The maximum number of allowed units has not been exceeded. • The cost to replace a part or accessory, including labor and parts, does not exceed the cost of renting or purchasing a new base item. • Base item, part or accessory replacement is not due to intentional damage, neglect or misuse of equipment. • Replacement of a part or accessory is only allowed for a member if the same member owns the base item. • The base item, part or accessory must not be under warranty. Documentation of an expired or denied warranty is required, upon request. • The base item, part or accessory is not currently being rented. Replacement Prior to the Expiration of the RUL In addition to the relevant requirements outlined above, the following conditions apply to replacement of a DME base item, part or accessory before expiration of the RUL. Modifier RA Humana may reimburse the replacement of a base item, part or accessory before expiration of the RUL only if either of the following scenarios are true: • The member’s medical needs have changed such that a different item is medically necessary; or • The item was lost, stolen or unintentionally damaged beyond repair. For only the first charge for the replacement item, modifier RA must be billed with the Healthcare Common Procedure Coding System (HCPCS) code for a base item, part or accessory replaced for one of the scenarios described above. Modifier RB Humana may reimburse the replacement of a part or accessory in association with the covered repair of a base item before the expiration of the RUL of the part or accessory when the following criteria are met: • The part or accessory is not an upgrade to the base item. • Replacement is necessary to make the base item functional. • The part or accessory is not billed on the same date of service as the base item. • The base item is not categorized as Frequently Serviced or Oxygen Equipment. • A charge for the base item was not previously denied. • The base item was previously purchased, including an item for which payment has capped through rental payments. • Modifier RR is not also billed. • Box 19 on the claim form or its electronic equivalent includes the base item code and purchase date. Modifier RB must be billed with the HCPCS code for that replaced part or accessory. When all requirements are met, the replacement of a part or accessory will be allowed at the purchase rate."
+          ],
+          "tables": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Additional Resources on this Topic",
+      "level": 1,
+      "page_start": 6,
+      "page_end": 6,
+      "content": [
+        "Humana’s Making it Easier web-based training series includes a video highlighting Humana’s guidance on durable medical equipment that may supplement your understanding of this policy."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 6,
+      "page_end": 6,
+      "content": [
+        "• Capped rental modifier: A modifier that indicates the rental month. Modifier KH indicates a charge for the initial month",
+        "supplied. Modifier KI indicates a charge for the second or third month supplied. Modifier KJ indicates a charge for the fourth or later month supplied. • Medicare Durable Medical Equipment, Prosthetics, Orthotics and Supplies (DMEPOS) Fee Schedule: A file published by the Centers for Medicare & Medicaid Services (CMS) that includes, among other information, codes that indicate the CMS-defined DMEPOS categories for DMEPOS items. • Transaction modifier: A modifier that indicates whether the charge is for rental of the item or purchase of the item; and, if for purchase, whether the item was new or used. The transaction modifiers described in this policy are modifiers NU, RR and UE. • Purchase modifier: A modifier that indicates whether the charge is for the purchase of new equipment or used equipment. The purchase modifiers described in this policy are modifiers NU and UE."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Applicable Modifiers",
+          "level": 2,
+          "page_start": 6,
+          "page_end": 6,
+          "content": [
+            "The following modifiers may be used when billing DME items. This is not an all-inclusive list. • Modifier KH: DMEPOS item, initial claim, purchase or first month rental • Modifier KI: DMEPOS item, second or third month rental • Modifier KJ: DMEPOS, parenteral and enteral nutrition (PEN) pump or capped rental, months four to fifteen • Modifier MS: Six month maintenance and servicing fee for reasonable and necessary parts and labor which are not covered under any manufacturer or supplier warranty • Modifier NU: New equipment • Modifier QA: Prescribed amounts of stationary oxygen for daytime use while at rest and nighttime use differ and the average of the two amounts is less than 1 liter per minute (LPM) • Modifier QB: Prescribed amounts of stationary oxygen for daytime use while at rest and nighttime use differ and the average of the two amounts exceeds 4 liters per minute (LPM) and portable oxygen is prescribed • Modifier QE: Prescribed amount of stationary oxygen while at rest is less than 1 liter per minute (LPM) • Modifier QF: Prescribed amount of stationary oxygen while at rest exceeds 4 liters per minute (LPM) and portable oxygen is prescribed • Modifier QG: Prescribed amount of stationary oxygen while at rest is greater than 4 liters per minute (LPM) • Modifier QR: Prescribed amounts of stationary oxygen for daytime use while at rest and nighttime use differ and the average of the two amounts is greater than 4 liters per minute (LPM) • Modifier RA: Replacement of a DME, orthotic or prosthetic item • Modifier RB: Replacement of a part of DME, orthotic or prosthetic item furnished as part of a repair • Modifier RR: Rental • Modifier UE: Used durable medical equipment"
+          ],
+          "tables": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 6,
+      "page_end": 7,
+      "content": [
+        "• Centers for Medicare & Medicaid Services website. Medicare Benefit Policy Manual. Chapter 15 – Covered Medical and Other Health Services . Section 110 – Durable Medical Equipment - General. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 20 – Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) . www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Durable Medical Equipment, Prosthetics, Orthotics and Supplies (DMEPOS) Fee Schedule . www.cms.gov. • Centers for Medicare & Medicaid Services website. Local Coverage Determination (LCD): Transcutaneous Electrical Nerve Stimulators (TENS) (L33802) . www.cms.gov. • Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 7,
+      "page_end": 7,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Capped rental modifier": "A modifier that indicates the rental month. Modifier KH indicates a charge for the initial month"
+  },
+  "references": [
+    "Centers for Medicare & Medicaid Services website. Medicare Benefit Policy Manual. Chapter 15 – Covered Medical and Other Health Services . Section 110 – Durable Medical Equipment - General. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 20 – Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) . www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Durable Medical Equipment, Prosthetics, Orthotics and Supplies (DMEPOS) Fee Schedule . www.cms.gov. • Centers for Medicare & Medicaid Services website. Local Coverage Determination (LCD): Transcutaneous Electrical Nerve Stimulators (TENS) (L33802) . www.cms.gov. • Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services."
+  ],
+  "resources": [
+    "Humana’s Making it Easier web-based training series includes a video highlighting Humana’s guidance on durable medical equipment that may supplement your understanding of this policy.",
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 14,
+    "total_tables": 0,
+    "total_characters": 18637
+  }
+}

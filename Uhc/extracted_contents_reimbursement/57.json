@@ -1,0 +1,265 @@
+{
+  "policy_title": "Hospital Inclusive Charges Policy",
+  "policy_number": "2025R9065A",
+  "policy_dates": {
+    "effective_date": "12/1/2025",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": false,
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Intravenous (IV) Therapy, IV Infusion Pump, IV Pharmacy Services",
+          "value": "Sterile Supplies (Surgical Instruments, Biopsy Forceps, Implanted Medical Devices)"
+        },
+        {
+          "key": "Non-Sterile Supplies (Stethoscopes, Bandages, Diagnostic Kits, Medical Instruments)",
+          "value": "Perfusion Equipment and Supplies"
+        },
+        {
+          "key": "Machines (Anesthesia, Bladder Scanner, Blood Pressure, Humidifier, CPAP)",
+          "value": "Pumps (IV, Bio, syringe, blood warmer, suction, feeding, PCA)"
+        },
+        {
+          "key": "Beds, Commodes, Scales, Overhead Frame",
+          "value": "Fetal Monitors"
+        },
+        {
+          "key": "Alcohol Swabs/Pads/Baby Powder",
+          "value": "Basin"
+        },
+        {
+          "key": "Bandages/Dressings",
+          "value": "Mouth Care Kits"
+        },
+        {
+          "key": "Batteries",
+          "value": "Oxygen and Supplies (Masks, Cannula, Tubing)"
+        },
+        {
+          "key": "Bedpans",
+          "value": "Breast Pumps"
+        },
+        {
+          "key": "Cold/Hot Packs",
+          "value": "Reusable Equipment or Items"
+        },
+        {
+          "key": "Heat Lights or Pads",
+          "value": "Thermometers"
+        },
+        {
+          "key": "IV Solutions",
+          "value": "IV Saline and/or Heparin Flushes"
+        },
+        {
+          "key": "Tubing (IV, Blood)",
+          "value": "Items used for specimens' collection (arterial blood gas kit, urine collection kits, mucus traps)"
+        }
+      ],
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "Certain categories of items and services are included within the overall room and board charge, or facility charge for an inpatient or outpatient visit, or otherwise bundled within certain services provided as part of the visit, and therefore are not considered separately reimbursable by UnitedHealthcare. UnitedHealthcare applies CMS guidelines and industry coding sources to identify routine services, supplies, equipment/items included in the primary room and board charge, facility charge, or other service charge to address unbundled charges. This policy does not address professional charges which may be associated with the services covered under this policy."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "mixed",
+          "content": [
+            "UnitedHealthcare incorporates CMS's Provider Reimbursement Manual definition of \"routine services\". Routine services encompass regular room/observation room costs, dietary and nursing services, minor medical and surgical supplies, medical and psychiatric social services, and the use of certain equipment and facilities without a separate charge. While services not considered routine (or \"ancillary\") may be considered for reimbursement, routine aspects of such ancillary services will not be separately reimbursed.",
+            "Routine services are incorporated into the reimbursement for the room and board charge (which can include both standard hospital rooms and special care units such as the CCU or ICU), facility charge, or ancillary service charge, as appropriate for the location where the services are provided. There is no separate reimbursement for bundled separately billed routine services.",
+            "The following lists offer examples of routine services that are not eligible for separate reimbursement. Please note, these are examples and do not constitute a comprehensive list, whether explicitly mentioned or implied in parentheses.",
+            "Routine medical equipment and supplies are not eligible for separate reimbursement as they are included in the reimbursement for the procedure or facility charge. These items, which are generally available to all patients receiving services, are considered floor stock, and are incorporated into the overall reimbursement of the procedure or facility charge. Therefore, routine supplies are not separately reimbursable.",
+            "Medical Equipment/Supplies This includes, but is not limited to, items associated with revenue codes 260-269, 270, 279, 410, and 412 Intravenous (IV) Therapy, IV Infusion Pump, IV Sterile Supplies (Surgical Instruments, Biopsy Forceps, Pharmacy Services Implanted Medical Devices) Non-Sterile Supplies (Stethoscopes, Bandages, Perfusion Equipment and Supplies Diagnostic Kits, Medical Instruments) Machines (Anesthesia, Bladder Scanner, Blood Pumps (IV, Bio, syringe, blood warmer, suction, feeding, Pressure, Humidifier, CPAP) PCA) Beds, Commodes, Scales, Overhead Frame Fetal Monitors",
+            "Medical/Surgical Supplies This includes, but is not limited to, items associated with revenue codes 250, 270-279 Alcohol Swabs/Pads/Baby Powder Basin Bandages/Dressings Mouth Care Kits Batteries Oxygen and Supplies (Masks, Cannula, Tubing) Bedpans Breast Pumps Cold/Hot Packs Reusable Equipment or Items Heat Lights or Pads Thermometers IV Solutions IV Saline and/or Heparin Flushes Tubing (IV, Blood) Items used for specimens' collection (arterial blood gas kit, urine collection kits, mucus traps)",
+            "Nursing Care/Services, carried out by primary bedside nurses (RN and/or LPN), respiratory therapists, certified nursing assistants, perfusionists or other technicians as part of their daily responsibilities, are included in the reimbursement for the room and board charge and are not eligible for separate reimbursement.",
+            {
+              "key": "Administration of Blood or any Blood Product",
+              "value": "Administration/Application of any Medication, Chemotherapy, and/or IV Fluids"
+            },
+            {
+              "key": "Assisting Physician in Performing any Procedure",
+              "value": "Medical Record Documentation"
+            },
+            {
+              "key": "Accessing Indwelling IV Catheter",
+              "value": "Preparing and Dispensing Medication"
+            },
+            {
+              "key": "Monitoring (Cardiac Monitors, Vital Signs)",
+              "value": "Fluid Specimen Collection"
+            },
+            {
+              "key": "Personal Hygiene",
+              "value": "Point of Care Testing (Glucose, Urine Dip, ABG)"
+            },
+            {
+              "key": "Respiratory Treatments",
+              "value": "Incremental Nursing Care"
+            },
+            {
+              "key": "Insertion, removal, maintenance of Nasogastric Tubes",
+              "value": "IV Hydration"
+            },
+            {
+              "key": "Maintenance or Flushing of Tubing",
+              "value": "Tracheostomy Care"
+            },
+            {
+              "key": "Urinary Catheterization",
+              "value": "Venipuncture (Venous or Arterial)"
+            },
+            {
+              "key": "IV and PICC line insertions",
+              "value": "IV transfusions"
+            },
+            "In addition to the above-listed services, personal and supply items, and equipment, if post-operative surgical or procedural recovery services are performed in any critical care room setting other than the Pre-and Post-Anesthesia Recovery Room, the critical care daily room charges will cover service charges. This coverage extends to surgical suites (both major and minor), treatment rooms, endoscopy labs, cardiac cath labs, X-ray facilities, pulmonary and cardiology procedural rooms. Reimbursement of the hospital's charge for surgical suites and services includes the entire range of nursing personnel services, supplies, and equipment, as already included in the basic or critical care daily room charges. Additionally, the following services and equipment will be incorporated into the surgical rooms and service charge reimbursement.",
+            {
+              "key": "Anesthesia Equipment, Monitors and Gases",
+              "value": "Robotic Assisted Techniques"
+            },
+            {
+              "key": "Intubation/Extubation",
+              "value": "Drill bits, Saws, Blades, etc."
+            },
+            {
+              "key": "Blood Pressure/Vital Sign Equipment",
+              "value": "Batteries for any Equipment"
+            },
+            {
+              "key": "Cardiac Monitors",
+              "value": "Saline Infusion, slush machine,"
+            },
+            {
+              "key": "Cardiopulmonary Bypass Equipment",
+              "value": "CO2 Monitors"
+            },
+            {
+              "key": "Surgeons' Loupes or visual Assisting Devices",
+              "value": "Surgical Cultures"
+            },
+            {
+              "key": "Grounding Pads",
+              "value": "Hemochron Supplies"
+            },
+            {
+              "key": "Laparoscopes, Bronchoscopes, Endoscopes, Fluoroscopies/C-arm, and Additional Accessories",
+              "value": "Local Anesthesia"
+            },
+            {
+              "key": "Laboratory Specimen Collection",
+              "value": "Video Camera Equipment"
+            },
+            "Charges for the management of a Ventilator or CPAP, owned by the facility, will be considered for reimbursement for one (1) unit per day. Certain services ancillary to the Ventilator or CPAP usage are separately reimbursable, however there are components within these services that are routine and integral to the delivery and are not separately reimbursed.",
+            {
+              "key": "System Set Up, System Checks, Circuit Change",
+              "value": "Respiratory assessment"
+            },
+            {
+              "key": "Tracheostomy, Supplies and Care",
+              "value": "Carbon Dioxide end tidal system setup and/or monitoring"
+            },
+            {
+              "key": "O2, CPAP, PEEP changes",
+              "value": "Endotracheal suctioning, weaning, extubating,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association, Current Procedural Terminology ( CPT ) Professional Edition and associated publications and services Centers for Medicare and Medicaid Services, CMS Manual System and other CMS publications and services Centers for Medicare and Medicaid Services, Healthcare Common Procedure Coding System, HCPCS Release and Code Sets CMS, National Correct Coding Initiative Policy Manual for Medicare & Medicaid"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "12/1/2025",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "12/1/2024",
+          "value": "Policy implemented by UnitedHealthcare Medicare Advantage"
+        },
+        {
+          "key": "11/19/2024",
+          "value": "Added Q&A section"
+        },
+        {
+          "key": "1/23/2024",
+          "value": "Policy approved by Reimbursement Policy Oversight Committee"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": false,
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Why did UnitedHealthcare publish this policy?",
+            "A": "UnitedHealthcare introduced the Hospital Inclusive Charges Policy to provide greater transparency into our process regarding items associated with certain inpatient and outpatient stays that aren't considered separately reimbursable. These items are already included within the room and board reimbursement or the reimbursement for an underlying procedure, as applicable."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "What should facilities expect to see differently?",
+            "A": "Facilities already receive documentation requests to ensure reimbursements comply with policy requirements as part of our standard process. This will provide greater transparency into that process, which is used today in reviews and audits of claims paid on a percent of charge basis such as itemized bill reviews and hospital bill audits."
+          }
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Facility",
+  "CPT_CODES_USED": [],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

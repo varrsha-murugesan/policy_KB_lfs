@@ -1,0 +1,201 @@
+payer,policy_uid,policy_title,section_seq,hierarchy_path,evidence_location,source_pointer,status,reasons
+Acme Health,acme_health:c220c969c60e,Acupuncture Coverage,0,Coverage,policy_text,$.payload.documents[1].body.paragraphs[0],inferred_candidates,all_ambiguous
+Acme Health,acme_health:c220c969c60e,Acupuncture Coverage,1,Covered Codes,policy_table,$.payload.documents[1].body.code_table[0],explicit_codes,
+Acme Health,acme_health:c220c969c60e,Acupuncture Coverage,2,Covered Codes,policy_table,$.payload.documents[1].body.code_table[1],explicit_codes,
+Acme Health,acme_health:fc1290cf0fab,Care Coordination Program,0,Coverage,policy_text,$.payload.documents[0].body.paragraphs[0],inferred_candidates,
+Acme Health,acme_health:fc1290cf0fab,Care Coordination Program,1,Limits,policy_text,$.payload.documents[0].body.paragraphs[1],inferred_candidates,
+Acme Health,acme_health:fc1290cf0fab,Care Coordination Program,2,Covered Codes,policy_table,$.payload.documents[0].body.code_table[0],explicit_codes,
+Acme Health,acme_health:fc1290cf0fab,Care Coordination Program,3,Is a care plan required?,policy_qa,$.payload.documents[0].faq[0],not_applicable,role:qa
+Humana,humana:07af210a740b,Acupuncture for Chronic Lower Back Pain,0,Overview,policy_text,$[0].extracted_content[0],inferred_candidates,all_ambiguous
+Humana,humana:07af210a740b,Acupuncture for Chronic Lower Back Pain,1,Medicare Advantage Payment Policy,policy_text,$[0].extracted_content[1],inferred_candidates,
+Humana,humana:07af210a740b,Acupuncture for Chronic Lower Back Pain,2,Medicare Advantage Payment Policy > Practitioner Type,policy_text,$[0].extracted_content[2],inferred_candidates,all_ambiguous
+Humana,humana:07af210a740b,Acupuncture for Chronic Lower Back Pain,3,Medicare Advantage Payment Policy > Number of Sessions,policy_text,$[0].extracted_content[3],inferred_candidates,all_ambiguous
+Humana,humana:07af210a740b,Acupuncture for Chronic Lower Back Pain,4,Definitions of Italicized Terms,policy_text,$[0].extracted_content[4],not_applicable,role:definition
+Humana,humana:07af210a740b,Acupuncture for Chronic Lower Back Pain,5,Definitions of Italicized Terms > Modifier KX,policy_text,$[0].extracted_content[5],not_applicable,role:definition
+Humana,humana:08f1ec0b53e7,Ambulance Services,0,Overview,policy_text,$[1].extracted_content[0],not_applicable,role:overview
+Humana,humana:08f1ec0b53e7,Ambulance Services,1,Medicare Advantage Payment Policy,policy_text,$[1].extracted_content[1],explicit_codes,
+Humana,humana:08f1ec0b53e7,Ambulance Services,2,Medicare Advantage Payment Policy > Billing,policy_text,$[1].extracted_content[2],not_applicable,role:payment_policy
+Humana,humana:08f1ec0b53e7,Ambulance Services,3,Medicare Advantage Payment Policy > Billing,policy_text,$[1].extracted_content[3],not_applicable,role:payment_policy
+Humana,humana:08f1ec0b53e7,Ambulance Services,4,Medicare Advantage Payment Policy > Additional provision for out-of-network providers,policy_text,$[1].extracted_content[4],not_applicable,role:payment_policy
+Humana,humana:08f1ec0b53e7,Ambulance Services,5,Definitions of Italicized Terms,policy_text,$[1].extracted_content[5],explicit_codes,
+Humana,humana:08f1ec0b53e7,Ambulance Services,6,Definitions of Italicized Terms > Ambulance origin and destination modifiers,policy_text,$[1].extracted_content[6],explicit_codes,
+Humana,humana:6d587dc878ea,Anesthesia Services,0,Overview,policy_text,$[2].extracted_content[0],not_applicable,role:overview
+Humana,humana:6d587dc878ea,Anesthesia Services,1,Medicare Advantage Payment Policy,policy_text,$[2].extracted_content[1],not_applicable,role:payment_policy
+Humana,humana:6d587dc878ea,Anesthesia Services,2,Medicare Advantage Payment Policy > Reporting Anesthesia Services,policy_text,$[2].extracted_content[2],broad_code_range,00100-01999
+Humana,humana:6d587dc878ea,Anesthesia Services,3,Medicare Advantage Payment Policy > Anesthesia Reimbursement Calculation,policy_text,$[2].extracted_content[3],not_applicable,role:payment_policy
+Humana,humana:6d587dc878ea,Anesthesia Services,4,Medicare Advantage Payment Policy > Reporting Anesthesia Time,policy_text,$[2].extracted_content[4],not_applicable,role:payment_policy
+Humana,humana:6d587dc878ea,Anesthesia Services,5,Medicare Advantage Payment Policy > Common Modifiers for Anesthesia Claims,policy_text,$[2].extracted_content[5],not_applicable,role:payment_policy
+Humana,humana:6d587dc878ea,Anesthesia Services,6,Medicare Advantage Payment Policy > Common Modifiers for Anesthesia Claims,policy_table,$[2].extracted_content[6],not_applicable,role:payment_policy
+Humana,humana:6d587dc878ea,Anesthesia Services,7,Medicare Advantage Payment Policy > Common Modifiers for Anesthesia Claims,policy_table,$[2].extracted_content[7],not_applicable,role:payment_policy
+Humana,humana:6d587dc878ea,Anesthesia Services,8,Medicare Advantage Payment Policy > Common Modifiers for Anesthesia Claims,policy_table,$[2].extracted_content[8],not_applicable,role:payment_policy
+Humana,humana:6d587dc878ea,Anesthesia Services,9,Medicare Advantage Payment Policy > Common Modifiers for Anesthesia Claims,policy_table,$[2].extracted_content[9],not_applicable,role:payment_policy
+Humana,humana:6d587dc878ea,Anesthesia Services,10,Medicare Advantage Payment Policy > Common Modifiers for Anesthesia Claims,policy_table,$[2].extracted_content[10],not_applicable,role:payment_policy
+Humana,humana:6d587dc878ea,Anesthesia Services,11,Medicare Advantage Payment Policy > Anesthesia Physical Status Modifiers,policy_text,$[2].extracted_content[11],not_applicable,role:payment_policy
+Humana,humana:6d587dc878ea,Anesthesia Services,12,Medicare Advantage Payment Policy > Qualifying Circumstance Codes,policy_text,$[2].extracted_content[12],explicit_codes,
+Humana,humana:6d587dc878ea,Anesthesia Services,13,Medicare Advantage Payment Policy > Reimbursement for Post-Operative Pain Management Procedures,policy_text,$[2].extracted_content[13],unresolved,phrase:epidural injection;phrase:post operative pain management
+Humana,humana:6d587dc878ea,Anesthesia Services,14,Medicare Advantage Payment Policy > Additional Reporting and Reimbursement Considerations,policy_text,$[2].extracted_content[14],not_applicable,role:payment_policy
+Humana,humana:6d587dc878ea,Anesthesia Services,15,Definitions of Italicized Terms,policy_text,$[2].extracted_content[15],explicit_codes,
+Humana,humana:6d587dc878ea,Anesthesia Services,16,Definitions of Italicized Terms,policy_text,$[2].extracted_content[16],not_applicable,role:definition
+Humana,humana:6d587dc878ea,Anesthesia Services,17,Definitions of Italicized Terms > Base maximum amount payable under the member's plan,policy_text,$[2].extracted_content[17],explicit_codes,
+Humana,humana:f753fce6f553,Assistant at Surgery Reimbursement,0,Overview,policy_text,$[3].extracted_content[0],unresolved,phrase:cms assistant at surgery
+Humana,humana:f753fce6f553,Assistant at Surgery Reimbursement,1,Medicare Advantage Payment Policy,policy_text,$[3].extracted_content[1],not_applicable,role:payment_policy
+Humana,humana:f753fce6f553,Assistant at Surgery Reimbursement,2,Medicare Advantage Payment Policy > Coverage,policy_text,$[3].extracted_content[2],unresolved,phrase:assistant at surgery;phrase:file assistant at surgery
+Humana,humana:f753fce6f553,Assistant at Surgery Reimbursement,3,Medicare Advantage Payment Policy > Assistant at Surgery in a Teaching Hospital,policy_text,$[3].extracted_content[3],unresolved,phrase:assistant at surgery
+Humana,humana:f753fce6f553,Assistant at Surgery Reimbursement,4,Medicare Advantage Payment Policy > Billing,policy_text,$[3].extracted_content[4],explicit_codes,
+Humana,humana:f753fce6f553,Assistant at Surgery Reimbursement,5,Medicare Advantage Payment Policy > Reimbursement,policy_text,$[3].extracted_content[5],unresolved,phrase:assistant at surgery
+Humana,humana:f753fce6f553,Assistant at Surgery Reimbursement,6,Medicare Advantage Payment Policy > Examples > Contracted Providers,policy_text,$[3].extracted_content[6],not_applicable,role:payment_policy
+Humana,humana:f753fce6f553,Assistant at Surgery Reimbursement,7,Medicare Advantage Payment Policy > Examples > Contracted Providers,policy_table,$[3].extracted_content[7],not_applicable,role:payment_policy
+Humana,humana:f753fce6f553,Assistant at Surgery Reimbursement,8,Medicare Advantage Payment Policy > Examples > Contracted Providers,policy_table,$[3].extracted_content[8],not_applicable,role:payment_policy
+Humana,humana:f753fce6f553,Assistant at Surgery Reimbursement,9,Medicare Advantage Payment Policy > Examples > Contracted Providers,policy_table,$[3].extracted_content[9],not_applicable,role:payment_policy
+Humana,humana:f753fce6f553,Assistant at Surgery Reimbursement,10,Medicare Advantage Payment Policy > Examples > Noncontracted Providers,policy_text,$[3].extracted_content[10],not_applicable,role:payment_policy
+Humana,humana:f753fce6f553,Assistant at Surgery Reimbursement,11,Medicare Advantage Payment Policy > Examples > Noncontracted Providers,policy_table,$[3].extracted_content[11],not_applicable,role:payment_policy
+Humana,humana:f753fce6f553,Assistant at Surgery Reimbursement,12,Definitions of Italicized Terms,policy_text,$[3].extracted_content[12],explicit_codes,
+Humana,humana:f753fce6f553,Assistant at Surgery Reimbursement,13,Definitions of Italicized Terms,policy_text,$[3].extracted_content[13],unresolved,phrase:assistant at surgery
+Humana,humana:f753fce6f553,Assistant at Surgery Reimbursement,14,Definitions of Italicized Terms > Base maximum amount payable under the member’s plan,policy_text,$[3].extracted_content[14],explicit_codes,
+Humana,humana:0a08a47655b3,Automobile and Workplace Injuries,0,Overview,policy_text,$[4].extracted_content[0],not_applicable,role:overview
+Humana,humana:0a08a47655b3,Automobile and Workplace Injuries,1,Medicare Advantage Payment Policy,policy_text,$[4].extracted_content[1],not_applicable,role:payment_policy
+Humana,humana:0a08a47655b3,Automobile and Workplace Injuries,2,Medicaid Payment Policy,policy_text,$[4].extracted_content[2],not_applicable,role:payment_policy
+Humana,humana:d2ebc634f0fd,Cell and Gene Therapy (CGT) Access Model,0,Overview,policy_text,$[5].extracted_content[0],unresolved,phrase:cell and gene therapy
+Humana,humana:d2ebc634f0fd,Cell and Gene Therapy (CGT) Access Model,1,Kentucky Medicaid Payment Policy,policy_text,$[5].extracted_content[1],unresolved,phrase:cell and gene therapy
+Humana,humana:d2ebc634f0fd,Cell and Gene Therapy (CGT) Access Model,2,Definition of Italicized Terms,policy_text,$[5].extracted_content[2],not_applicable,role:definition
+Humana,humana:d2ebc634f0fd,Cell and Gene Therapy (CGT) Access Model,3,Definitions of Italicized Terms > Modifier TB,policy_text,$[5].extracted_content[3],not_applicable,role:definition
+Humana,humana:e8a1db5db885,Chiropractic Services for Acute Treatment,0,Overview,policy_text,$[6].extracted_content[0],not_applicable,role:overview
+Humana,humana:e8a1db5db885,Chiropractic Services for Acute Treatment,1,Medicare Advantage Payment Policy,policy_text,$[6].extracted_content[1],not_applicable,role:payment_policy
+Humana,humana:e8a1db5db885,Chiropractic Services for Acute Treatment,2,Medicare Advantage Payment Policy,policy_text,$[6].extracted_content[2],not_applicable,role:payment_policy
+Humana,humana:e8a1db5db885,Chiropractic Services for Acute Treatment,3,Medicare Advantage Payment Policy,policy_text,$[6].extracted_content[3],broad_code_range,98940-98942
+Humana,humana:e8a1db5db885,Chiropractic Services for Acute Treatment,4,Definitions of Italicized Terms,policy_text,$[6].extracted_content[4],explicit_codes,
+Humana,humana:e8a1db5db885,Chiropractic Services for Acute Treatment,5,Definitions of Italicized Terms > Modifier AT,policy_text,$[6].extracted_content[5],explicit_codes,
+Humana,humana:6ae5758588e6,Chronic Care Management and Principal Care Management,0,Overview,policy_text,$[7].extracted_content[0],inferred_candidates,
+Humana,humana:6ae5758588e6,Chronic Care Management and Principal Care Management,1,Medicare Advantage Payment Policy,policy_text,$[7].extracted_content[1],inferred_candidates,
+Humana,humana:6ae5758588e6,Chronic Care Management and Principal Care Management,2,Medicare Advantage Payment Policy,policy_text,$[7].extracted_content[2],inferred_candidates,
+Humana,humana:42e44e6dae23,Claim Disputes,0,Overview,policy_text,$[8].extracted_content[0],not_applicable,role:overview
+Humana,humana:42e44e6dae23,Claim Disputes,1,Medicare Advantage and Medicaid Payment Policy,policy_text,$[8].extracted_content[1],unresolved,phrase:healthcare provider may contest
+Humana,humana:42e44e6dae23,Claim Disputes,2,Medicare Advantage Specific Requirements,policy_text,$[8].extracted_content[2],not_applicable,role:payment_policy
+Humana,humana:42e44e6dae23,Claim Disputes,3,Medicaid Specific Requirements,policy_text,$[8].extracted_content[3],not_applicable,role:payment_policy
+Humana,humana:42e44e6dae23,Claim Disputes,4,Definitions of Italicized Terms,policy_text,$[8].extracted_content[4],not_applicable,role:definition
+Humana,humana:42e44e6dae23,Claim Disputes,5,Definitions of Italicized Terms > Corrected claim,policy_text,$[8].extracted_content[5],not_applicable,role:definition
+Humana,humana:f3be665f397d,Claims Reporting Standards,0,Overview,policy_text,$[9].extracted_content[0],not_applicable,role:overview
+Humana,humana:f3be665f397d,Claims Reporting Standards,1,Medicare Advantage Payment Policy,policy_text,$[9].extracted_content[1],not_applicable,role:payment_policy
+Humana,humana:f3be665f397d,Claims Reporting Standards,2,Medicare Advantage Payment Policy,policy_text,$[9].extracted_content[2],not_applicable,role:payment_policy
+Humana,humana:f3be665f397d,Claims Reporting Standards,3,Medicare Advantage Payment Policy,policy_text,$[9].extracted_content[3],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,0,Overview,policy_text,$[10].extracted_content[0],not_applicable,role:overview
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,1,Medicare Advantage Payment Policy,policy_text,$[10].extracted_content[1],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,2,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[2],unresolved,phrase:evaluation and management
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,3,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[3],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,4,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[4],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,5,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[5],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,6,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[6],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,7,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[7],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,8,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[8],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,9,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[9],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,10,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[10],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,11,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[11],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,12,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[12],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,13,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[13],unresolved,phrase:minor surgery;phrase:perform major surgery
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,14,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[14],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,15,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[15],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,16,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[16],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,17,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[17],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,18,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[18],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,19,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[19],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,20,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[20],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,21,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[21],explicit_codes,
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,22,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[22],explicit_codes,
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,23,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[23],explicit_codes,
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,24,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[24],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,25,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[25],unresolved,phrase:lab test;phrase:laboratory test
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,26,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[26],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,27,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[27],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,28,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[28],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,29,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[29],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,30,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[30],explicit_codes,
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,31,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[31],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,32,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[32],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,33,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[33],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,34,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[34],unresolved,phrase:computed tomography
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,35,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[35],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,36,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[36],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,37,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[37],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,38,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[38],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,39,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[39],unresolved,phrase:based imaging;phrase:computed radiography
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,40,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[40],unresolved,phrase:diagnosis evaluation
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,41,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[41],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,42,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[42],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,43,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[43],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,44,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[44],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,45,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[45],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,46,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[46],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,47,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[47],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,48,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[48],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,49,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[49],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,50,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[50],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,51,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[51],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,52,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[52],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,53,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[53],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,54,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[54],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,55,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[55],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,56,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[56],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,57,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[57],unresolved,phrase:wrong surgery
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,58,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[58],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,59,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[59],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,60,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[60],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,61,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[61],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,62,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[62],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,63,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[63],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,64,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[64],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,65,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[65],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,66,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[66],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,67,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[67],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,68,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[68],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,69,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[69],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,70,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[70],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,71,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[71],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,72,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[72],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,73,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[73],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,74,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[74],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,75,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[75],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,76,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[76],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,77,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[77],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,78,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[78],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,79,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[79],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,80,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[80],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,81,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[81],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,82,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[82],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,83,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[83],not_applicable,role:payment_policy
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,84,Medicare Advantage Payment Policy > CPT Modifiers,policy_table,$[10].extracted_content[84],not_applicable,role:payment_policy
+Humana,humana:d4ae8cffa5c0,Cost-Sharing for Cost-Share Protected Members,0,Overview,policy_text,$[11].extracted_content[0],not_applicable,role:overview
+Humana,humana:d4ae8cffa5c0,Cost-Sharing for Cost-Share Protected Members,1,Medicare Advantage and Medicaid Payment Policy,policy_text,$[11].extracted_content[1],not_applicable,role:payment_policy
+Humana,humana:d4ae8cffa5c0,Cost-Sharing for Cost-Share Protected Members,2,Definitions of Italicized Terms,policy_text,$[11].extracted_content[2],not_applicable,role:definition
+Humana,humana:d4ae8cffa5c0,Cost-Sharing for Cost-Share Protected Members,3,Definitions of Italicized Terms > Cost-share,policy_text,$[11].extracted_content[3],not_applicable,role:definition
+Humana,humana:3390f9c6ef36,DME for Indiana PathWays for Aging Medicaid Program,0,Overview,policy_text,$[13].extracted_content[0],not_applicable,role:overview
+Humana,humana:3390f9c6ef36,DME for Indiana PathWays for Aging Medicaid Program,1,Indiana Medicaid Payment Policy,policy_text,$[13].extracted_content[1],not_applicable,role:payment_policy
+Humana,humana:3390f9c6ef36,DME for Indiana PathWays for Aging Medicaid Program,2,Indiana Medicaid Payment Policy > Negative Pressure Wound Therapy Supplies,policy_text,$[13].extracted_content[2],unresolved,phrase:negative pressure wound therapy
+Humana,humana:3390f9c6ef36,DME for Indiana PathWays for Aging Medicaid Program,3,Indiana Medicaid Payment Policy > Replacement,policy_text,$[13].extracted_content[3],not_applicable,role:payment_policy
+Humana,humana:3390f9c6ef36,DME for Indiana PathWays for Aging Medicaid Program,4,Indiana Medicaid Payment Policy > Servicing of Parenteral and Enteral Nutrition Pumps,policy_text,$[13].extracted_content[4],not_applicable,role:payment_policy
+Humana,humana:3390f9c6ef36,DME for Indiana PathWays for Aging Medicaid Program,5,Definitions of Italicized Terms,policy_text,$[13].extracted_content[5],not_applicable,role:definition
+Humana,humana:3390f9c6ef36,DME for Indiana PathWays for Aging Medicaid Program,6,Definitions of Italicized Terms > Modifier A1,policy_text,$[13].extracted_content[6],not_applicable,role:definition
+Humana,humana:221aa6538ad3,DME for Medicare Advantage,0,Overview,policy_text,$[14].extracted_content[0],not_applicable,role:overview
+Humana,humana:221aa6538ad3,DME for Medicare Advantage,1,Medicare Advantage Payment Policy,policy_text,$[14].extracted_content[1],not_applicable,role:payment_policy
+Humana,humana:221aa6538ad3,DME for Medicare Advantage,2,Medicare Advantage Payment Policy > General Policy Guidelines,policy_text,$[14].extracted_content[2],not_applicable,role:payment_policy
+Humana,humana:221aa6538ad3,DME for Medicare Advantage,3,Medicare Advantage Payment Policy > Specific Guidelines for DME Items Categorized as Capped Rental DME Items,policy_text,$[14].extracted_content[3],not_applicable,role:payment_policy
+Humana,humana:221aa6538ad3,DME for Medicare Advantage,4,Medicare Advantage Payment Policy > Specific Guidelines for DME Items Categorized as Oxygen,policy_text,$[14].extracted_content[4],not_applicable,role:payment_policy
+Humana,humana:221aa6538ad3,DME for Medicare Advantage,5,Medicare Advantage Payment Policy > Specific Guidelines for DME Items Categorized as Oxygen,policy_text,$[14].extracted_content[5],not_applicable,role:payment_policy
+Humana,humana:221aa6538ad3,DME for Medicare Advantage,6,Medicare Advantage Payment Policy > Specific Guidelines for DME Items Categorized as Oxygen,policy_text,$[14].extracted_content[6],unresolved,phrase:unintentionally damaged beyond repair
+Humana,humana:221aa6538ad3,DME for Medicare Advantage,7,Medicare Advantage Payment Policy > Specific Guidelines for DME Items Categorized as Oxygen,policy_text,$[14].extracted_content[7],not_applicable,role:payment_policy
+Humana,humana:221aa6538ad3,DME for Medicare Advantage,8,Medicare Advantage Payment Policy > Specific Guidelines for DME Items Categorized as Inexpensive or Routinely Purchased (IRP) DME Items,policy_text,$[14].extracted_content[8],not_applicable,role:payment_policy
+Humana,humana:221aa6538ad3,DME for Medicare Advantage,9,Medicare Advantage Payment Policy > Repair and Replacement,policy_text,$[14].extracted_content[9],unresolved,phrase:unintentionally damaged beyond repair
+Humana,humana:221aa6538ad3,DME for Medicare Advantage,10,Definitions of Italicized Terms,policy_text,$[14].extracted_content[10],not_applicable,role:definition
+Humana,humana:221aa6538ad3,DME for Medicare Advantage,11,Definitions of Italicized Terms,policy_text,$[14].extracted_content[11],not_applicable,role:definition
+Humana,humana:221aa6538ad3,DME for Medicare Advantage,12,Definitions of Italicized Terms > Applicable Modifiers,policy_text,$[14].extracted_content[12],not_applicable,role:definition
+Humana,humana:221aa6538ad3,DME for Medicare Advantage,13,Definitions of Italicized Terms > Capped rental modifier,policy_text,$[14].extracted_content[13],not_applicable,role:definition
+Humana,humana:2af6cc78a763,DMEPOS Proof of Delivery Documentation,0,Overview,policy_text,$[12].extracted_content[0],not_applicable,role:overview
+Humana,humana:2af6cc78a763,DMEPOS Proof of Delivery Documentation,1,Medicare Advantage Payment Policy,policy_text,$[12].extracted_content[1],not_applicable,role:payment_policy
+Humana,humana:2af6cc78a763,DMEPOS Proof of Delivery Documentation,2,Medicaid Payment Policy,policy_text,$[12].extracted_content[2],not_applicable,role:payment_policy
+Humana,humana:2af6cc78a763,DMEPOS Proof of Delivery Documentation,3,Definitions of Italicized Terms,policy_text,$[12].extracted_content[3],not_applicable,role:definition
+Humana,humana:2af6cc78a763,DMEPOS Proof of Delivery Documentation,4,"Definitions of Italicized Terms > Durable medical equipment, prosthetics, orthotics and supplies (DMEPOS)",policy_text,$[12].extracted_content[4],not_applicable,role:definition
+Humana,humana:f6e22061c1ac,Dental Services Inextricably Linked to Medical Services,0,Overview,policy_text,$[15].extracted_content[0],not_applicable,role:overview
+Humana,humana:f6e22061c1ac,Dental Services Inextricably Linked to Medical Services,1,Medicare Advantage Payment Policy,policy_text,$[15].extracted_content[1],not_applicable,role:payment_policy
+Humana,humana:f6e22061c1ac,Dental Services Inextricably Linked to Medical Services,2,Medicare Advantage Payment Policy > Modifier KX,policy_text,$[15].extracted_content[2],not_applicable,role:payment_policy
+Humana,humana:f6e22061c1ac,Dental Services Inextricably Linked to Medical Services,3,Medicare Advantage Payment Policy > Diagnosis Codes,policy_text,$[15].extracted_content[3],not_applicable,role:payment_policy
+Humana,humana:f6e22061c1ac,Dental Services Inextricably Linked to Medical Services,4,Medicare Advantage Payment Policy > Diagnosis Codes,policy_text,$[15].extracted_content[4],not_applicable,role:payment_policy
+Humana,humana:f6e22061c1ac,Dental Services Inextricably Linked to Medical Services,5,Definitions of Italicized Terms,policy_text,$[15].extracted_content[5],not_applicable,role:definition

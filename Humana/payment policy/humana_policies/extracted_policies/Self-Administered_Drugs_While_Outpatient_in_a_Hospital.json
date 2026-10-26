@@ -1,0 +1,113 @@
+{
+  "policy_metadata": {
+    "policy_title": "Self-Administered Drugs While Outpatient in a Hospital",
+    "policy_number": "CP2024007",
+    "published_date": "06/2024",
+    "effective_date": "06/2024",
+    "revision_date": null,
+    "last_reviewed": null,
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Facility",
+    "source_pdf": "Self-Administered_Drugs_While_Outpatient_in_a_Hospital-b5156d8b.pdf",
+    "total_pages": 2,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "0637",
+      "A9270"
+    ],
+    "cpt_codes": [],
+    "hcpcs_codes": [
+      "A9270"
+    ],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": [
+      "0637"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "This policy outlines Humana’s billing requirements and reimbursement for self-administered drugs , including biologicals, furnished by a hospital to a patient during an outpatient hospital encounter."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "The following policy applies to only facility services.",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "Humana does not reimburse, under Medicare Advantage (MA) basic benefits, for self-administered drugs that are given in the outpatient hospital setting in the applicable jurisdiction. Self-administered drugs given in an outpatient hospital setting should be reported on hospital institutional claims using revenue code 0637 and Healthcare Common Procedure Coding System (HCPCS) code A9270 . Drugs and biologicals given in an outpatient hospital setting that are not self-administered drugs should be reported using the combination of the applicable revenue code and applicable Current Procedural Terminology (CPT®) or HCPCS code. A Humana MA member with Medicare Part D prescription drug coverage may be entitled to coverage of self-administered drugs by the Part D benefit carrier, and the enrollee may request reimbursement from that Part D benefit carrier."
+          ],
+          "tables": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "• HCPCS code A9270 : Noncovered item or service • Revenue code 0637 : Self-administered drugs • Self-administered drugs : Drugs and biologicals excluded, in a jurisdiction, from Original Medicare Part B coverage because the jurisdiction’s A/B Medicare Administrative Contractor (MAC) has determined that they are usually self-administered by the patients who use them. Each A/B MAC publishes a list of drugs and biologicals that it has identified, for this purpose, as self- administered drugs."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "• Centers for Medicare & Medicaid Services website. Medicare Benefit Policy Manual. Chapter 15 – Covered Medical and Other Health Services . Section 50.2 – Determining Self-Administration of Drug or Biological. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Prescription Drug Coverage Tip Sheet. Billing for Self-Administered Drugs Given in Outpatient Settings . www.cms.gov. • Centers for Medicare & Medicaid Services website. How Medicare Covers Self-Administered Drugs Given in Hospital Outpatient Settings . www.medicare.gov."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "HCPCS code A9270": "Noncovered item or service • Revenue code 0637 : Self-administered drugs • Self-administered drugs : Drugs and biologicals excluded, in a jurisdiction, from Original Medicare Part B coverage because the jurisdiction’s A/B Medicare Administrative Contractor (MAC) has determined that they are usually self-administered by the patients who use them. Each A/B MAC publishes a list of drugs and biologicals that it has identified, for this purpose, as self- administered drugs."
+  },
+  "references": [
+    "Centers for Medicare & Medicaid Services website. Medicare Benefit Policy Manual. Chapter 15 – Covered Medical and Other Health Services . Section 50.2 – Determining Self-Administration of Drug or Biological. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Prescription Drug Coverage Tip Sheet. Billing for Self-Administered Drugs Given in Outpatient Settings . www.cms.gov. • Centers for Medicare & Medicaid Services website. How Medicare Covers Self-Administered Drugs Given in Hospital Outpatient Settings . www.medicare.gov."
+  ],
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 6,
+    "total_tables": 0,
+    "total_characters": 3387
+  }
+}

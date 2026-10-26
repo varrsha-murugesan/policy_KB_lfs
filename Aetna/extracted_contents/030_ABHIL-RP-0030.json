@@ -1,0 +1,129 @@
+{
+  "policy_title": "Lung Cancer Screening with Low Dose\nComputed Tomography (LDCT)",
+  "policy_number": "ABHIL-RP-0030",
+  "effective_date": "06/01/2024",
+  "expiry_date": "05/01/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "71271",
+    "G0296"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for prostate cancer screening when appropriately reported. \nAppropriate reporting includes \n• \nReporting the screening CPT code or counseling HCPCS code for patients 50 years of age \nor older \n• \nReporting the screening CPT code or counseling HCPCS code with a diagnosis indicating \nnicotine dependence \n• \nReporting the screening CPT code no more than once per year by any provider \n \nClaims that are submitted will be denied when \n• \nThe screening CPT code or counseling HCPCS code is reported for patients 49 years of \nage or younger \n• \nThe screening CPT code or counseling HCPCS code is not reported with a diagnosis \nindicating nicotine dependence \n• \nThe screening CPT code is reported more than once per year by any provider \n \nThe medical record documentation is expected to support the specific CPT, HCPCS code(s), \nICD-10-CM codes and modifiers reported.",
+    "subsections": [
+      {
+        "title": "Reporting the screening CPT code or counseling HCPCS code for patients 50 years of age",
+        "content": "or older"
+      },
+      {
+        "title": "Reporting the screening CPT code or counseling HCPCS code with a diagnosis indicating",
+        "content": "nicotine dependence"
+      },
+      {
+        "title": "Reporting the screening CPT code no more than once per year by any provider",
+        "content": "Claims that are submitted will be denied when"
+      },
+      {
+        "title": "The screening CPT code or counseling HCPCS code is reported for patients 49 years of",
+        "content": "age or younger"
+      },
+      {
+        "title": "The screening CPT code or counseling HCPCS code is not reported with a diagnosis",
+        "content": "indicating nicotine dependence"
+      },
+      {
+        "title": "The screening CPT code is reported more than once per year by any provider",
+        "content": "The medical record documentation is expected to support the specific CPT, HCPCS code(s), ICD-10-CM codes and modifiers reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for prostate cancer screening when appropriately reported.\nAppropriate reporting includes\n• Reporting the screening CPT code or counseling HCPCS code for patients 50 years of age\nor older\n• Reporting the screening CPT code or counseling HCPCS code with a diagnosis indicating\nnicotine dependence\n• Reporting the screening CPT code no more than once per year by any provider\nClaims that are submitted will be denied when\n• The screening CPT code or counseling HCPCS code is reported for patients 49 years of\nage or younger\n• The screening CPT code or counseling HCPCS code is not reported with a diagnosis\nindicating nicotine dependence\n• The screening CPT code is reported more than once per year by any provider\nThe medical record documentation is expected to support the specific CPT, HCPCS code(s),\nICD-10-CM codes and modifiers reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "Applicable CPT Code\n71271 Computed tomography, thorax, low dose for lung cancer screening, without\ncontrast material(s)\nApplicable HCPCS Code\nG0296 Counseling visit to discuss need for lung cancer screening using low dose\nCT scan (LDCT)\nApplicable ICD-10-CM Diagnosis Code\nF17.21X Nicotine dependence, cigarettes\nF17.29X Nicotine Dependence\nZ12.2 Encounter for screening for malignant neoplasm of respiratory organs\nZ72.0 Tobacco Use\nZ87.891 Personal history of nicotine dependence",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "71271",
+            "value": "Computed tomography, thorax, low dose for lung cancer screening, without\ncontrast material(s)"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "G0296",
+            "value": "Counseling visit to discuss need for lung cancer screening using low dose\nCT scan (LDCT)"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "F17.21X",
+            "value": "Nicotine dependence, cigarettes"
+          },
+          {
+            "key": "F17.29X",
+            "value": "Nicotine Dependence"
+          },
+          {
+            "key": "Z12.2",
+            "value": "Encounter for screening for malignant neoplasm of respiratory organs"
+          },
+          {
+            "key": "Z72.0",
+            "value": "Tobacco Use"
+          },
+          {
+            "key": "Z87.891",
+            "value": "Personal history of nicotine dependence"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "F. Frequently Asked Questions",
+            "value": ""
+          },
+          {
+            "key": "N/A",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. Aetna. (2025, August 1). Lung cancer screening (Clinical policy bulletin No. 0380). \nhttps://www.aetna.com/cpb/medical/data/300_399/0380.html \n2. American Medical Association. CPT Professional Edition 2026, AMA; 2025. \n3. American Medical Association. HCPCS Level II Professional 2026, AMA; 2025. \n4. American Medical Association. ICD-10-CM 2026 the Complete Official Codebook, AMA; 2025."
+}

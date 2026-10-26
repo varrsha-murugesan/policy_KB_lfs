@@ -1,0 +1,106 @@
+{
+  "policy_metadata": {
+    "policy_title": "Preventable Subsequent Observation Stay Review",
+    "policy_number": "CP2026008",
+    "published_date": "07/2026",
+    "effective_date": "07/2026",
+    "revision_date": null,
+    "last_reviewed": null,
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Both",
+    "source_pdf": "Preventable_Subsequent_Observation_Stay_Review_New-97f3f7c4.pdf",
+    "total_pages": 3,
+    "related_policies": [
+      "Preventable Inpatient Readmission Review, Observation Services"
+    ]
+  },
+  "clinical_codes": {
+    "all_codes": [],
+    "cpt_codes": [],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "This policy outlines Humana’s preventable subsequent observation stay review standards."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. The following policy applies to facility services only. General Subsequent Observation Stay Review Requirements Observation stays following an inpatient admission at the same facility are subject to review to determine if the subsequent observation stay was preventable."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Preventable Subsequent Observation Stays",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "If Humana determines that a subsequent observation stay was preventable, Humana does not allow payment for the subsequent observation stay . The following are examples of preventable subsequent observation stays . This is not an all-inclusive list: • Premature discharge from an inpatient admission that resulted in a subsequent observation stay . This is based on information that the provider or physician knew, or should have known, at the time of discharge. • Care rendered during the subsequent observation stay that should have occurred during the prior inpatient admission. • A subsequent observation stay that was not medically necessary. • A subsequent observation stay that is an attempt to circumvent Inpatient Prospective Payment System (IPPS) payment."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Separately Payable Subsequent Observation Stays",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "If Humana determines that a subsequent observation stay was not preventable or was unrelated to the prior admission, Humana may allow separate payment for both the prior inpatient admission and the subsequent observation stay . The following are examples of subsequent observation stays that may be separately payable: • A subsequent observation stay that is due to a reoccurrence of a chronic condition and is not a continuation of the previous episode’s prior inpatient admission. • An unrelated subsequent observation stay , including an unrelated same-day subsequent observation stay . Facilities cannot be held responsible for subsequent observation stays beyond their control, which may include, but are not limited to, the following: • Failure of the patient to follow discharge instructions. This requires documentation that instructions were properly communicated to a patient or caregiver who was both not impaired and capable of following the instructions. • A condition caused by post-care services provided beyond the facility’s control. • A subsequent observation stay after the patient left the same facility against medical advice."
+          ],
+          "tables": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 3,
+      "content": [
+        "• Same facility : An entity that owns or controls the facility for the prior inpatient admission, an entity owned or controlled by the facility for the prior inpatient admission, or an entity that is under common ownership or control as the facility for the prior inpatient admission. • Subsequent observation stay : A hospital stay during which the patient is placed in observation status, but not admitted as an inpatient, that follows a prior inpatient admission."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Same facility": "An entity that owns or controls the facility for the prior inpatient admission, an entity owned or controlled by the facility for the prior inpatient admission, or an entity that is under common ownership or control as the facility for the prior inpatient admission. • Subsequent observation stay : A hospital stay during which the patient is placed in observation status, but not admitted as an inpatient, that follows a prior inpatient admission."
+  },
+  "references": null,
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 6,
+    "total_tables": 0,
+    "total_characters": 4015
+  }
+}

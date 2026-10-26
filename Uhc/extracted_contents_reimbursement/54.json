@@ -1,0 +1,136 @@
+{
+  "policy_title": "Home Health Services Policy",
+  "policy_number": "2026R9067A",
+  "policy_dates": {
+    "effective_date": "7/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy addresses reimbursement for home health services reported on a UB-04 claim form or services with Place of Service (POS) 12 on a CMS-1500 claim form, during an inpatient stay. Home health services may include part-time or intermittent skilled nursing services, physical therapy, occupational therapy, speech-language pathology services, part-time or intermittent home health aide services, medical social services, Durable Medical Equipment (DME), and medical supplies."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "To align with the Centers for Medicare and Medicaid Services (CMS), if both home health services (POS 12 on a CMS- 1500 claim form or type of bill 321-329, 341-345, or 347-349 on a UB-04 claim form) and inpatient care are billed for the same dates of service, UnitedHealthcare will reimburse the inpatient care only. During this period, the home health services will not be eligible for reimbursement. The dates of admission and discharge for inpatient care are exceptions. If home health services are provided on these dates, those days may still be eligible for reimbursement. Home health services must be submitted either with POS 12 on a CMS-1500 claim form or type of bill 321-329, 341- 345, or 347-349 on a UB-04 claim form, which indicates the patient received these services in a private residence and not a hospital or other facility.",
+          "children": [
+            {
+              "title": "Definitions",
+              "level": 3,
+              "confirmed": true,
+              "page": 2,
+              "matched_via": "blue",
+              "type": "mixed",
+              "content": [
+                {
+                  "key": "Durable Medical Equipment (DME)",
+                  "value": "Medical equipment which: *Can withstand repeated use *Is not disposable *Is used to serve a medical purpose *Is generally not useful to a person in the absence of sickness or injury *Is appropriate for use in the home"
+                },
+                {
+                  "key": "Place of Service",
+                  "value": "A two-digit code used on health care professional claims to indicate the setting in which a service was provided."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Do health care professionals need to be contracted with UnitedHealthcare to be considered for reimbursement under this policy?",
+            "A": "For benefit plans that include out-of-network coverage, this policy applies to claims submitted by both participating and non-participating care providers."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Does Durable Medical Equipment (DME) with POS 12 apply to this policy?",
+            "A": "Yes, this policy is applicable to billing that falls within the dates of an inpatient claim (not including the dates of admission and discharge)"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "What happens if the patient is discharged and receives home health services on the same day as the discharge with POS 12?",
+            "A": "Home health services provided on the dates of admission and discharge are still eligible for reimbursement."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association, Current Procedural Terminology (CPT) and associated publications Centers for Medicare and Medicaid Services, CMS Manual System and other CMS publications and services Section: Pub. 100-04, Ch. 10, 30.B"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "7/1/2026",
+          "value": "Policy Version Change Anniversary Review"
+        },
+        {
+          "key": "7/1/2025",
+          "value": "Policy Version Change Anniversary Review"
+        },
+        {
+          "key": "10/1/2024",
+          "value": "New Policy Implemented by UnitedHealthcare Medicare Advantage"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

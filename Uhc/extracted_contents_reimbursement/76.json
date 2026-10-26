@@ -1,0 +1,196 @@
+{
+  "policy_title": "Multiple Procedure Payment Reduction (MPPR) for Diagnostic Cardiovascular and Ophthalmology Procedures, Professional - Reimbursement Policy",
+  "policy_number": "2026R9023A",
+  "policy_dates": {
+    "effective_date": "8/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "Section 3134 of the Affordable Care Act (ACA) added section 1848(c)(2)(K) of the Social Security Act which specifies that the Secretary shall identify potentially misvalued codes by examining multiple codes that are frequently billed in conjunction with furnishing a single service. The UnitedHealthcare Medicare Advantage Policy is based on the Centers for Medicare and Medicaid Services (CMS) Multiple Procedure Payment Reduction (MPPR) Policy. UnitedHealthcare Medicare Advantage has adopted CMS guidelines that when multiple Diagnostic Cardiovascular Procedures or Diagnostic Ophthalmology Procedures are performed on the same day, most of the clinical labor activities are not performed or furnished twice. When multiple procedures are performed on the same day, by the Same Group Physician and/or Other Qualified Health Care Professional, reduction in reimbursement for secondary and subsequent procedures will occur. Payment at 100% for secondary and subsequent procedures would represent reimbursement for duplicative components of the primary procedure. Examples of clinical labor activities, not furnished twice, include but are not limited to: - Greeting the patient. - Positioning and escorting the patient. - Providing education and obtaining consent. - Retrieving prior exams. - Setting up the IV. - Preparing and cleaning the room. CMS assigns Multiple Procedure Indicators (MPI) on the National Physician Fee Schedule (NPFS) to procedures that are subject to the MPPR Policy. The codes with the following CMS multiple procedure indicators are addressed within this reimbursement policy: - Multiple Procedure Indicator (MPI) 6 - Diagnostic Cardiovascular Procedures - Multiple Procedure Indicator (MPI) 7-Diagnostic Ophthalmology Procedures"
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "Multiple Diagnostic Cardiovascular Reductions (MDCR) With the exception of those Global Test Only Codes, UnitedHealthcare Medicare Advantage utilizes the CMS NPFS MPI of 6 and Non-Facility Total Relative Value Units (RVUs) to determine which Diagnostic Cardiovascular Procedures are eligible for MDCR to the TC portion of the procedure. When the TC for two or more Diagnostic Cardiovascular Procedures are performed on the same patient by the Same Group Physician and/or Other Health Care Professional on the same day, UnitedHealthcare Medicare Advantage will apply a MDCR to reduce the Allowable Amount for the TC of the second and each subsequent procedure by 25%. No reduction is taken on the TC with the highest TC Non-facility Total RVU according to the NPFS. The MDCR applies to the Technical Component Only codes (PC/TC Indicator 3), and to the TC portion of Global Procedure Codes (PC/TC Indicator 1). The MDCR will apply when: - Multiple Diagnostic Cardiovascular Procedures with an MPI of 6 are performed on the same patient by the Same Group Physician and/or Other Health Care Professional on the same day. - A single Diagnostic Cardiovascular Procedure subject to the MDCR is submitted with multiple units. For example, code 78445 is submitted with 2 units. A MDCR would apply to the TC of the second unit. The MDCR will not apply when: - Multiple Diagnostic Cardiovascular Procedures are billed, appended with modifier 26 for the Professional Component (PC) only. MDCRs will not be applied to the PC. - The procedure does not have an MPI of 6 and is not included on the Diagnostic Cardiovascular Procedures Subject to MPPR list. Multiple Diagnostic Ophthalmology Reductions (MDOR) UnitedHealthcare Medicare Advantage utilizes the CMS NPFS MPI of 7 and Non-Facility Total RVUs to determine which Diagnostic Ophthalmology Procedures are eligible for MDOR to the TC portion of the procedure. When the TC for two or more Diagnostic Ophthalmology Procedures are performed on the same patient by the Same Group Physician and/or Other Health Care Professional on the same day, UnitedHealthcare Medicare Advantage will apply a MDOR to reduce the Allowable Amount for the TC of the second and each subsequent procedure by 20%. No reduction is taken on the TC with the highest TC Non-Facility Total RVU according to the NPFS. The MDOR applies to TC only services and the TC portion of Global Procedure Codes. The MDOR will apply when: - Multiple Diagnostic Ophthalmology Procedures with an MPI of 7 are performed on the same patient by the Same Group Physician and/or Other Health Care Professional on the same day. - A single Diagnostic Ophthalmology Procedure subject to MDOR is submitted with multiple units. For example, code 92060 is submitted with 2 units. A MDOR would apply to the TC of the second unit. The MDOR will not apply when: - Multiple Diagnostic Ophthalmology Procedures are billed, appended with modifier 26 for the PC only. MDORs will not be applied to the PC. - The procedure does not have an MPI of 7 and is not included on the Diagnostic Ophthalmology Procedures Subject to MPPR list. Multiple Diagnostic Cardiovascular and Ophthalmology Procedures Billed Globally When the Same Group Physician and/or Other Health Care Professional bills multiple Diagnostic Cardiovascular Procedure Global Procedure Codes (PC/TC indicator 1) or multiple Diagnostic Ophthalmology Procedure Global Procedure Codes (PC/TC indicator 1) the procedures will be ranked to determine which procedure(s) are considered secondary or subsequent as indicated below: For Diagnostic Cardiovascular or Diagnostic Ophthalmology Global Procedure Codes (assigned PC/TC indicator 1): When a provider bills globally for two or more procedures subject to multiple diagnostic cardiovascular or ophthalmology reduction, the charge for the Global Procedure Codes will be divided into the PC and TC (indicated by modifiers 26 and TC) using UnitedHealthcare Medicare Advantage's standard Professional/Technical percentage splits. Ranking is based on the TC Non-Facility Total RVU and a reduction of 25% will be applied for MDCR and 20% will be applied for MDOR. Diagnostic Cardiovascular and Ophthalmology Procedures with No Assigned CMS RVU Services that CMS indicates may be carrier-priced, or those for which CMS does not develop RVUs are considered Gap Fill Codes and are addressed as follows: 0.00 RVU Codes: Some codes cannot be assigned a gap value or remain without an RVU due to the nature of the service (example: unlisted codes). Codes assigned an RVU value of 0.00 will not be included in the Diagnostic Cardiovascular Procedures or Diagnostic Ophthalmology Procedures Subject to CMS MPPR Policy guidance and therefore, will be excluded from ranking.",
+          "subsections": [
+            {
+              "title": "Multiple Diagnostic Cardiovascular Reductions (MDCR)",
+              "content": "With the exception of those Global Test Only Codes, UnitedHealthcare Medicare Advantage utilizes the CMS NPFS MPI of 6 and Non-Facility Total Relative Value Units (RVUs) to determine which Diagnostic Cardiovascular Procedures are eligible for MDCR to the TC portion of the procedure. When the TC for two or more Diagnostic Cardiovascular Procedures are performed on the same patient by the Same Group Physician and/or Other Health Care Professional on the same day, UnitedHealthcare Medicare Advantage will apply a MDCR to reduce the Allowable Amount for the TC of the second and each subsequent procedure by 25%. No reduction is taken on the TC with the highest TC Non-facility Total RVU according to the NPFS. The MDCR applies to the Technical Component Only codes (PC/TC Indicator 3), and to the TC portion of Global Procedure Codes (PC/TC Indicator 1). The MDCR will apply when: ▪ Multiple Diagnostic Cardiovascular Procedures with an MPI of 6 are performed on the same patient by the Same Group Physician and/or Other Health Care Professional on the same day. ▪ A single Diagnostic Cardiovascular Procedure subject to the MDCR is submitted with multiple units. For example, code 78445 is submitted with 2 units. A MDCR would apply to the TC of the second unit. The MDCR will not apply when: ▪ Multiple Diagnostic Cardiovascular Procedures are billed, appended with modifier 26 for the Professional Component (PC) only. MDCRs will not be applied to the PC. ▪ The procedure does not have an MPI of 6 and is not included on the Diagnostic Cardiovascular Procedures Subject to MPPR list."
+            },
+            {
+              "title": "Multiple Diagnostic Ophthalmology Reductions (MDOR)",
+              "content": "UnitedHealthcare Medicare Advantage utilizes the CMS NPFS MPI of 7 and Non-Facility Total RVUs to determine which Diagnostic Ophthalmology Procedures are eligible for MDOR to the TC portion of the procedure. When the TC for two or more Diagnostic Ophthalmology Procedures are performed on the same patient by the Same Group Physician and/or Other Health Care Professional on the same day, UnitedHealthcare Medicare Advantage will apply a MDOR to reduce the Allowable Amount for the TC of the second and each subsequent procedure by 20%. No reduction is taken on the TC with the highest TC Non-Facility Total RVU according to the NPFS. The MDOR applies to TC only services and the TC portion of Global Procedure Codes. The MDOR will apply when: ▪ Multiple Diagnostic Ophthalmology Procedures with an MPI of 7 are performed on the same patient by the Same Group Physician and/or Other Health Care Professional on the same day. ▪ A single Diagnostic Ophthalmology Procedure subject to MDOR is submitted with multiple units. For example, code 92060 is submitted with 2 units. A MDOR would apply to the TC of the second unit. The MDOR will not apply when: ▪ Multiple Diagnostic Ophthalmology Procedures are billed, appended with modifier 26 for the PC only. MDORs will not be applied to the PC. ▪ The procedure does not have an MPI of 7 and is not included on the Diagnostic Ophthalmology Procedures Subject to MPPR list."
+            },
+            {
+              "title": "Multiple Diagnostic Cardiovascular and Ophthalmology Procedures Billed Globally",
+              "content": "When the Same Group Physician and/or Other Health Care Professional bills multiple Diagnostic Cardiovascular Procedure Global Procedure Codes (PC/TC indicator 1) or multiple Diagnostic Ophthalmology Procedure Global Procedure Codes (PC/TC indicator 1) the procedures will be ranked to determine which procedure(s) are considered secondary or subsequent as indicated below: For Diagnostic Cardiovascular or Diagnostic Ophthalmology Global Procedure Codes (assigned PC/TC indicator 1): When a provider bills globally for two or more procedures subject to multiple diagnostic cardiovascular or ophthalmology reduction, the charge for the Global Procedure Codes will be divided into the PC and TC (indicated by modifiers 26 and TC) using UnitedHealthcare Medicare Advantage’s standard Professional/Technical percentage splits.  Ranking is based on the TC Non-Facility Total RVU and a reduction of 25% will be applied for MDCR and 20% will be applied for MDOR."
+            },
+            {
+              "title": "Diagnostic Cardiovascular and Ophthalmology Procedures with No Assigned CMS RVU",
+              "content": "Services that CMS indicates may be carrier-priced, or those for which CMS does not develop RVUs are considered Gap Fill Codes and are addressed as follows: 0.00 RVU Codes: Some codes cannot be assigned a gap value or remain without an RVU due to the nature of the service (example: unlisted codes). Codes assigned an RVU value of 0.00 will not be included in the Diagnostic Cardiovascular Procedures or Diagnostic Ophthalmology Procedures Subject to CMS MPPR Policy guidance and therefore, will be excluded from ranking."
+            }
+          ],
+          "children": [
+            {
+              "title": "Definitions",
+              "level": 3,
+              "confirmed": true,
+              "page": 4,
+              "matched_via": "blue",
+              "type": "mixed",
+              "content": [
+                {
+                  "key": "Allowable Amount",
+                  "value": "Defined as the dollar amount eligible for reimbursement to the physician or health care professional on the claim. Contracted rate, reasonable charge, or billed charges are examples of an Allowable Amount, whichever is applicable. For percent of charge or discount contracts, the Allowable Amount is determined as the billed amount, less the discount."
+                },
+                {
+                  "key": "Diagnostic Cardiovascular Procedures",
+                  "value": "Those procedures listed in the Diagnostic Cardiovascular Procedures Subject to MPPR Policy Lists set forth in this policy."
+                },
+                {
+                  "key": "Diagnostic Ophthalmology Procedures",
+                  "value": "Those procedures listed in the Diagnostic Ophthalmology Procedures Subject to MPPR Policy List set forth in this policy."
+                },
+                {
+                  "key": "Global Procedure Code",
+                  "value": "A Global Procedure Code includes both Professional and Technical Components. When a physician or other health care professional bills a Global Procedure Code, he or she is submitting for both the Professional and Technical Components of that code. Submission of a Global Procedure Code asserts that the physician or other health care professional provided the supervision and interpretation as well as the technician, equipment, and the facility needed to perform the procedure. The global procedure is identified by reporting the appropriate Professional Technical eligible procedure code with no modifier attached."
+                },
+                {
+                  "key": "Global Test Only Code",
+                  "value": "A Global Test Only Code is designated by a PC/TC indicator of 4 on the CMS NPFS. This indicator identifies stand-alone codes that describe selected diagnostic tests for which there are separate but associated codes that describe the Professional Component of the test only code, and the Technical Component of the test only code. Modifiers 26 and TC cannot be used with these codes. The total RVUs for global procedure only codes include values for physician work, practice expense, and malpractice expense. The total RVUs for Global Test Only Codes equals the sum of the total RVUs for the Professional and Technical Component Only Codes combined."
+                },
+                {
+                  "key": "Professional Component (PC)",
+                  "value": "The Professional Component represents the physician or other qualified health care professional work portion (physician work/practice overhead/malpractice expense) of the procedure. The Professional Component is the physician or other health care professional supervision and interpretation of a procedure that is personally furnished to an individual patient, results in a written narrative report to be included in the patient's medical record, and directly contributes to the patient's diagnosis and/or treatment. In appropriate circumstances, it is identified by appending modifier 26 to the designated procedure code or by reporting a standalone code that describes the Professional Component only of a selected diagnostic test."
+                },
+                {
+                  "key": "Same Group Physician and/or Other Health Care Professional",
+                  "value": "All physicians and/or other health care professionals of the same group reporting the same Federal Tax Identification number."
+                },
+                {
+                  "key": "Technical Component (TC)",
+                  "value": "The Technical Component is the performance (technician/equipment/facility) of the procedure. In appropriate circumstances, it is identified by appending modifier TC to the"
+                },
+                {
+                  "key": "Technical Component Only Code",
+                  "value": "A Technical Component Only Code is designated by a PC/TC indicator of 3 on the CMS NPFS. This indicator identifies stand-alone codes that describe the technical component of selected diagnostic tests for which there is a separate but associated code that describes the professional component of the diagnostic test only. It also identifies codes that are covered only as diagnostic tests and therefore do not have a related professional code. Modifiers 26 and TC cannot be used with these codes. The total RVUs for Technical Component Only Codes include values for practice expense and malpractice expense only."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 5,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "PC",
+          "value": "$77.00 $65.00 $142.00 $142.00 No reduction"
+        },
+        {
+          "key": "TC",
+          "value": "$427.00 $148.00 $575.00 $538.00 $427 + (.75 x $148)"
+        },
+        {
+          "key": "Global",
+          "value": "$504.00 $213.00 $717.00 $680.00 $142 + $427 + (.75 x $148)"
+        },
+        {
+          "key": "PC",
+          "value": "$4600 $23.00 $69.00 $69.00 No reduction"
+        },
+        {
+          "key": "TC",
+          "value": "$92.00 $53.00 $145.00 $134.40 $92 + (.80 x $53)"
+        },
+        {
+          "key": "Global",
+          "value": "$138.00 $76.00 $214.00 $203.40 $69 + $92 + (.80 x $53)"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 5,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov Centers for Medicare and Medicaid Services: PFS Relative Value Files. The Medicare Learning Network (MLN): MLN Matters MM7848"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 6,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "8/1/2026",
+          "value": "Policy Version Change Anniversary Review"
+        },
+        {
+          "key": "8/1/2025",
+          "value": "Policy Version Change Table of Content Section: Updated hyperlinks History Section: Entries prior to 8/1/2023 archived"
+        },
+        {
+          "key": "2/13/2013",
+          "value": "Policy Approved"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "78445",
+    "92060",
+    "78452",
+    "93306",
+    "92235",
+    "92250"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "26",
+    "PC",
+    "TC"
+  ]
+}

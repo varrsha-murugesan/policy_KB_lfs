@@ -1,0 +1,251 @@
+{
+  "policy_title": "New Patient Visit Policy",
+  "policy_number": "2026R9024A",
+  "policy_dates": {
+    "effective_date": "6/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "This policy addresses the appropriate submission of a New Patient Evaluation and Management (E/M) service code and an Initial Visit HCPCS code."
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "For the purposes of this policy, Same Specialty Physician is defined as a Physician and/or Other Qualified Health Care Professional of the same group and same specialty reporting the same Federal Tax Identification number. According to the Centers for Medicare Services (CMS), a New Patient is a patient who has not received any professional services, i.e., E&M service or other face-to-face service (e.g., surgical procedure) from the physician or physician group practice (same physician specialty) within the previous 3 years. UnitedHealthcare Medicare Advantage will reimburse a New Patient E/M code only when the elements of the New Patient definition have been met. In the instance where a physician is on-call or covering for another physician and billing under the same Federal Tax Identification number, the patient's encounter with the on-call physician is classified as it would have been classified by the physician who was not available. This patient is not considered a New Patient merely because the visit is covered by an on-call physician from whom the patient has not previously received services. If a professional component of a previous procedure is billed in a 3 year time period, e.g., a lab interpretation is billed and no E/M service or other face-to-face service with the patient is performed, then this patient remains a New Patient for the Initial Visit. An interpretation of a diagnostic test, reading an x-ray or EKG etc., in the absence of an E/M service or other face-to-face service with the patient does not affect the designation of a New Patient. There are some procedure codes that can be submitted on a claim prior to the provider seeing that patient as a New Patient. These types of procedure codes tend to encompass services that are performed prior to a provider having face to face office visit. As for all other E/M services except where specifically noted, UnitedHealthcare Medicare Advantage will not pay two E/M office visits billed by a physician (or physician of the same specialty from the same group practice) for the same beneficiary on the same day unless the physician documents that the visits were for unrelated problems in the office or outpatient setting which could not be provided during the same encounter (e.g., office visit for blood pressure medication evaluation, followed five hours later by a visit for evaluation of leg pain following an accident). Physicians in the same group practice who are in the same specialty must bill and be paid as though they were a single physician. Instead of billing separately, the physicians should select a level of service representative of the combined visits and submit the appropriate code for that level. Physicians in the same group practice but who are in different specialties may bill and be paid without regard to their membership in the same group. The provider must ensure that medical record documentation supports the level of service reported. The volume of documentation should not be used to determine which specific level of service is billed. In addition to the individual requirements associated with the billing of a selected E/M code, in order to receive payment from UnitedHealthcare Medicare Advantage for a service, the service must also be considered reasonable and necessary. Therefore, the service must be: - Furnished for the diagnosis, direct care, and treatment of the beneficiary's medical condition (i.e., not provided mainly for the convenience of the beneficiary, provider, or supplier); and - Compliant with the standards of good medical practice. UnitedHealthcare Medicare Advantage will pay for E/M services for specific non-physician practitioners (i.e., nurse practitioner (NP), clinical nurse specialist (CNS) and certified nurse midwife (CNM)) whose Medicare benefit permits them to bill these services. A physician assistant (PA) may also provide a physician service, however, the physician collaboration and general supervision rules as well as all billing rules apply to all the above non-physician practitioners. The service provided must be medically necessary and the service must be within the scope of practice for a non- physician practitioner in the State in which he/she practices. UnitedHealthcare Medicare Advantage will NOT pay for CPT evaluation and management codes billed by physical therapists in independent practice or by occupational therapists in independent practice. Medical necessity of a service is the overarching criterion for payment in addition to the individual requirements of a CPT code. It would not be medically necessary or appropriate to bill a higher level of evaluation and management service when a lower level of service is warranted. The volume of documentation should not be the primary influence upon which a specific level of service is billed. The service should be documented during, or as soon as practicable after it is provided in order to maintain an accurate medical record."
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Initial Visit",
+          "value": "An Initial Visit is considered the first patient encounter for a specific purpose."
+        },
+        {
+          "key": "New Patient",
+          "value": "A New Patient is one who has not received any professional services from the physician, or other qualified health care professionals of the same specialty who belongs to the same group practice, within the past three years."
+        },
+        {
+          "key": "Physician or Other Qualified Health Care Professional",
+          "value": "Per the CPT book, a Physician or Other Qualified Health Care Professional is an individual who is qualified by education, training, licensure/regulation (when applicable), and facility privileging (when applicable) who performs a professional service within his/her scope of practice and independently reports that professional service."
+        },
+        {
+          "key": "Same Individual Physician or Other Qualified Health Care Professional",
+          "value": "The same individual rendering health care services reporting the same National Provider Identifier (NPI)."
+        },
+        {
+          "key": "Same Group Physician and/or Other Qualified Health Care Professional",
+          "value": "All physicians and/or other qualified health care professionals of the same group reporting the same Federal Tax Identification number."
+        },
+        {
+          "key": "Same Specialty Physician or Other Qualified Health Care Professional",
+          "value": "Physicians and/or other qualified health care professionals of the same group and same specialty reporting the same Federal Tax Identification number."
+        },
+        {
+          "key": "Subsequent Visit",
+          "value": "Subsequent Visit is any encounter that occurs after the initial patient encounter for a specific purpose."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "How should an emergency department service be reported for a New Patient?",
+            "A": "For the purposes of determining E/M coding, the CPT book makes no distinction between new and established patients for services provided in the emergency department. E/M services performed in the emergency department may be reported for any new or established patient who presents for treatment."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "If multiple physicians or practitioners in the same group, with the same specialty, who have different subspecialties report a New Patient visit code in the same 3-year period would each New Patient visit be considered for reimbursement?",
+            "A": "No, for Medicare E/M services the same specialty is determined by the physician's or practitioner's primary specialty."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "Will UnitedHealthcare Medicare Advantage reimburse the Initial Visit HCPCS code if the patient has received an Initial or Subsequent Visit in the past?",
+            "A": "No. UnitedHealthcare Medicare Advantage will only reimburse an Initial Visit if the patient has not previously been seen for an Initial or Subsequent Visit."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Attachments",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "New Patient and Initial Visit List",
+          "value": "A list of New Patient and Initial Visit Evaluation and Management (E/M) codes applicable to this policy."
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov American Medical Association, Current Procedural Terminology (CPT) and associated publications and services Medicare Claims Processing Manual - Chapter 12 - Physicians/Nonphysician Practitioners: Sections 30.6.7 National Correct Coding Initiative Edits: Add-On Code Edits The Medicare Learning Network (MLN): MLN Matters MM8165, MLN006764, MLN4649244, ICN006764 Medicare Claims Processing Manual Chapter 26 - Completing and Processing Form CMS-1500 Data Set"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "6/1/2026",
+          "value": "Policy Version Change Resource Section: Updated History Section: Entries prior to 6/1/2024 archived"
+        },
+        {
+          "key": "3/5/2025",
+          "value": "Policy Version Change Policy list: Updated"
+        },
+        {
+          "key": "1/1/2025",
+          "value": "Policy Version Change Policy list: Updated History Section: Entries prior to 1/1/2023 archived"
+        },
+        {
+          "key": "6/1/2024",
+          "value": "Policy Version Change Attachment Section: Converted from PDF to Excel Table"
+        },
+        {
+          "key": "10/10/2012",
+          "value": "Policy implemented by UnitedHealthcare Medicare Advantage"
+        },
+        {
+          "key": "10/10/2012",
+          "value": "Policy approved by the UnitedHealthcare Medicare Advantage Stakeholders"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [
+    {
+      "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/attachments/reimbursement/New-Patient-and-Initial-Visit-List.pdf",
+      "content": [
+        {
+          "page": 1,
+          "content": "New Patient and Initial Visit E&M Codes List\n92002\n92004\n98000\n98001\n98002\n98003\n98008\n98009\n98010\n98011\n99201\n99202\n99203\n99204\n99205\n99324\n99325\n99326\n99327\n99328\n99341\n99342\n99343\n99344\n99345\n99381\n99382\n99383\n99384\n99385\n99386\n99387\nG0076\nG0077\nG0078\nG0079\nG0080\nG0245\nG0519\nG0520\nG0521\nG0522\nG0523"
+        },
+        {
+          "page": 2,
+          "content": "G2001\nG2002\nG2003\nG2004\nG2005\nG9481\nG9482\nG9483\nG9484\nG9485\nS0610\nS0620"
+        }
+      ],
+      "tables": [],
+      "CPT_CODES_USED": [
+        "92002",
+        "92004",
+        "98000",
+        "98001",
+        "98002",
+        "98003",
+        "98008",
+        "98009",
+        "98010",
+        "98011",
+        "99201",
+        "99202",
+        "99203",
+        "99204",
+        "99205",
+        "99324",
+        "99325",
+        "99326",
+        "99327",
+        "99328",
+        "99341",
+        "99342",
+        "99343",
+        "99344",
+        "99345",
+        "99381",
+        "99382",
+        "99383",
+        "99384",
+        "99385",
+        "99386",
+        "99387",
+        "G0076",
+        "G0077",
+        "G0078",
+        "G0079",
+        "G0080",
+        "G0245",
+        "G0519",
+        "G0520",
+        "G0521",
+        "G0522",
+        "G0523",
+        "G2001",
+        "G2002",
+        "G2003",
+        "G2004",
+        "G2005",
+        "G9481",
+        "G9482",
+        "G9483",
+        "G9484",
+        "G9485",
+        "S0610",
+        "S0620"
+      ],
+      "ICD_CODES_USED": []
+    }
+  ],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

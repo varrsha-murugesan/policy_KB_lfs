@@ -1,0 +1,715 @@
+{
+  "policy_metadata": {
+    "policy_title": "South Carolina quality measure guide",
+    "policy_number": null,
+    "published_date": null,
+    "effective_date": null,
+    "revision_date": null,
+    "last_reviewed": null,
+    "Line_of_Business": null,
+    "Billingclass": "Both",
+    "source_pdf": "South_Carolina_quality_measure_guide-e504dd0a.pdf",
+    "total_pages": 26,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "Q36",
+      "Q37",
+      "Q53",
+      "UP",
+      "W30"
+    ],
+    "cpt_codes": [],
+    "hcpcs_codes": [],
+    "modifiers": [
+      "UP"
+    ],
+    "icd_codes": [
+      "Q36",
+      "Q37",
+      "Q53",
+      "W30"
+    ],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Pediatric Wellness and Access to Care",
+      "level": 2,
+      "page_start": 1,
+      "page_end": 1,
+      "content": [
+        "Child and Adolescent Well-Care Visits (WCV) ......................................................................................................................... 3 Childhood Immunization Status (CIS) .................................................................................................................................... 3 Immunizations for Adolescents (IMA) ................................................................................................................................... 4 Well-Child Visits in the First 30 Months of Life (W30) ............................................................................................................ 4 Weight Assessment and Counseling for Nutrition and Physical Activity for Children/Adolescents – BMI Percentile (WCC) 5"
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Behavioral Health",
+      "level": 2,
+      "page_start": 1,
+      "page_end": 1,
+      "content": [
+        "Adherence to Antipsychotic Medications for Individuals with Schizophrenia (SAA) ............................................................. 6 Antidepressant Medication Management (AMM) ................................................................................................................. 6 Diabetes Screening for People with Schizophrenia or Bipolar Disorder Who Are Using Antipsychotic Medications (SSD).. 6 Initiation and Engagement of Substance Use Disorder Treatment (IET) ................................................................................ 7 Follow-Up After Emergency Department Visit for Mental Illness – Seven Days (FUM) ........................................................ 7 Follow-Up After Emergency Department Visit for Substance Use – Seven Days (FUA) ........................................................ 7 Follow-Up After High-Intensity Care for Substance Use Disorder – Seven Days (FUI) .......................................................... 8 Follow-Up After Hospitalization for Mental Illness – Seven Days (FUH) ............................................................................... 8 Follow-up Care for Children Prescribed ADHD Medication (ADD) ......................................................................................... 8 Metabolic Monitoring for Children and Adolescents on Antipsychotics (APM) ..................................................................... 9 Pharmacotherapy for Opioid Use Disorder (POD) ................................................................................................................. 9 Use of First-Line Psychosocial Care for Children and Adolescents on Antipsychotics (APP) ................................................. 9"
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Diabetes Care",
+      "level": 2,
+      "page_start": 1,
+      "page_end": 1,
+      "content": [
+        "Blood Pressure Control (<140/90) for Patients with Diabetes (BPD) .................................................................................. 11 Eye Exam for Patients with Diabetes (EED) .......................................................................................................................... 11 Hemoglobin A1c Control for Patients with Diabetes (HBD).................................................................................................. 12 Kidney Health Evaluation for Patients with Diabetes (KED) ................................................................................................. 12 Statin Therapy for Patients with Diabetes (SPD) .................................................................................................................. 13"
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Heart Disease",
+      "level": 2,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "Controlling High Blood Pressure (CBP) ................................................................................................................................. 15"
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Overuse of Opioids",
+      "level": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "Use of Opioids at High Dosage (HDO) ................................................................................................................................... 18 Use of Opioids from Multiple Providers – Multiple Prescribers and Multiple Pharmacies (UOP) ....................................... 18 Risk of Continued Opioid Use (COU) ..................................................................................................................................... 19"
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Treatment",
+      "level": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "Asthma Medication Ratio (AMR) .......................................................................................................................................... 20 Appropriate Testing for Pharyngitis (CWP) ........................................................................................................................... 20 Appropriate Treatment for Upper Respiratory Infection (URI) ............................................................................................ 20 Avoidance of Antibiotic Treatment for Acute Bronchitis/Bronchiolitis (AAB) ...................................................................... 21 Pharmacotherapy Management of COPD Exacerbation – Bronchodilator (PCE) ................................................................. 21 Pharmacotherapy Management of COPD Exacerbation – Systemic Corticosteroid (PCE) ................................................... 22 Use of Imaging Studies for Low Back Pain (LBP) ................................................................................................................... 22"
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Utilization",
+      "level": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "Plan All-Cause Readmissions (PCR) ....................................................................................................................................... 23"
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Women’s Health",
+      "level": 2,
+      "page_start": 2,
+      "page_end": 22,
+      "content": [
+        "Breast Cancer Screening (BCS-E) ........................................................................................................................................... 23 Cervical Cancer Screening (CCS)............................................................................................................................................ 23 Chlamydia Screening in Women (CHL)…………………………………………………………………………………………………………………………….24 Postpartum Care (PPC) .......................................................................................................................................................... 24 Timeliness of Prenatal Care (PPC) ......................................................................................................................................... 24 Prenatal Immunization Status (PRS-E) .................................................................................................................................. 25"
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 3,
+          "page_end": 3,
+          "columns": [
+            "Measure name",
+            "Measure description",
+            "Service needed for\ncompliance",
+            "Exclusions"
+          ],
+          "row_count": 2,
+          "rows": [
+            {
+              "Measure name": "Child and Adolescent\nWell-Care Visits (WCV)",
+              "Measure description": "The percentage of patients 3–\n21 years old who had at least\none comprehensive well-care\nvisit with a primary care\nphysician (PCP) or obstetrician-\ngynecologist (OB-GYN) during\nthe measurement year",
+              "Service needed for\ncompliance": "One or more well-care visits\nduring the measurement\nyear. The well-care visit must\noccur with a PCP or an OB-\nGYN practitioner, but the\npractitioner does not have to\nbe assigned to the patient.",
+              "Exclusions": "Patients in hospice\nPatients who died during\nthe measurement year"
+            },
+            {
+              "Measure name": "Childhood Immunization\nStatus (CIS)",
+              "Measure description": "The percentage of children 2\nyears old who had four (4)\ndiphtheria, tetanus and\nacellular pertussis (DTaP); three\n(3) polio (IPV); one (1) measles,\nmumps and rubella (MMR);\nthree (3) haemophilus influenza\ntype B (HiB); three (3) hepatitis\nB (HepB); one (1) chicken pox\n(VZV); four (4) pneumococcal\nconjugate (PCV); one (1)\nhepatitis A (HepA); two or\nthree (2 or 3) rotavirus (RV);\nand two (2) influenza (flu)\nvaccines by their second\nbirthday\nA rate for each vaccine and\nthree combination rates are\nreported",
+              "Service needed for\ncompliance": "Combo 3:\n• 4 doses – DTap, PCV\n• 3 doses – Hib, IPV, Hep B\n• 1 dose – MMR, VZV (on or\nbetween child’s first and\nsecond birthday)\nCombo 7: Combo 3 vaccines\nand:\n• 1 dose – Hep A (on or\nbetween child’s first and\nsecond birthday)\n• 2 doses – Rotavirus\nMonovalent (Rotarix-RVI)\nor 3 doses-Rotavirus\nPentavalent (RotaTeq-TIV)\nCombo 10: Combo 7 vaccines\nand:\n• 2 doses – Influenza",
+              "Exclusions": "Patients who died during\nthe measurement year\nAll – anaphylactic\nreaction to vaccine or its\ncomponents\nDTaP – encephalopathy\nMMR, VZV and flu –\nimmunodeficiency,\nhuman\nimmunodeficiency\nviruses (HIV),\nlymphoreticular cancer,\nmultiple myeloma,\nleukemia, anaphylactic\nreaction to neomycin\nRotavirus – severe\ncombined\nimmunodeficiency,\nhistory of intussusception\nIPV – anaphylactic\nreaction to streptomycin,\npolymyxin B or neomycin\nHepatitis B –\nanaphylactic reaction to\ncommon baker’s yeast\nPatients in hospice\nPatients who had any of\nthe following before their\nsecond birthday: severe\ncombined\nimmunodeficiency,"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 4,
+          "page_end": 4,
+          "columns": [
+            "",
+            "",
+            "",
+            "immunodeficiency, HIV,\nlymphoreticular cancer,\nmultiple myeloma,\nleukemia or\nintussusception"
+          ],
+          "row_count": 2,
+          "rows": [
+            {
+              "column_1": "Immunizations for\nAdolescents (IMA)",
+              "column_2": "The percentage of adolescents\n13 years old who had one dose\nof meningococcal vaccine, one\ntetanus, diphtheria toxoids and\nacellular pertussis (Tdap)\nvaccine and have completed\nthe human papillomavirus\n(HPV) vaccine series by their\n13th birthday. The measure\ncalculates a rate for each\nvaccine and two combination\nrates.",
+              "column_3": "Combination 1:\n• One dose of\nmeningococcal vaccine\nbetween the patient’s\n11th and 13th birthdays,\nand\n• One Tdap vaccine\nbetween the patient’s\n10th and 13th birthdays\nCombination 2: Combination\n1 vaccines and:\n• Completed HPV vaccine\nseries between the\npatient’s 9th and 13th\nbirthdays (either two HPV\nvaccine doses on different\ndates of service at least\n146 days apart or three\nHPV vaccine doses on\ndifferent dates of service)",
+              "immunodeficiency, HIV,\nlymphoreticular cancer,\nmultiple myeloma,\nleukemia or\nintussusception": "All – anaphylactic\nreaction to vaccine or its\ncomponents\nTdap – encephalopathy\nPatients in hospice\nPatients who died during\nthe measurement year"
+            },
+            {
+              "column_1": "Well-Child Visits in the\nFirst 30 Months of Life\n(W30)",
+              "column_2": "The percentage of patients who\nhad the following number of\nwell-child visits with a PCP\nduring the last 15 months\nThe following rates are\nreported:\nWell-Child Visits in the First 15\nMonths.\nChildren who turned 15 months\nold during the measurement\nyear: Six or more well-child\nvisits\nWell-Child Visits for Age 15\nMonths–30 Months\nChildren who turned 30 months\nold during the measurement\nyear: Two or more well-child\nvisits",
+              "column_3": "Six or more well-child visits\nduring the first 15 months of\nlife\nTwo or more well-child visits\nbetween 15 months old and\n30 months old\nNote: Visits must occur with a\nPCP.",
+              "immunodeficiency, HIV,\nlymphoreticular cancer,\nmultiple myeloma,\nleukemia or\nintussusception": "Patients in hospice\nPatients who died during\nthe measurement year"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 5,
+          "page_end": 5,
+          "columns": [
+            "Weight Assessment and\nCounseling for Nutrition\nand Physical Activity for\nChildren/Adolescents –\nBMI Percentile (WCC)",
+            "The percentage of patients 3–\n17 years old who had evidence\nof the following during the\nmeasurement year:\n• Body mass index (BMI)\npercentile documentation\n• Counseling for nutrition\n• Counseling for physical\nactivity\nIncludes all provider types,\n(including specialists and\nregistered nurses [RNs]) and\ndoes not require a particular\nsetting (may include\ninpatient/emergency\ndepartment [ED]/urgent care\n[UC])",
+            "BMI percentile measured and\ndocumented during the\nmeasurement year (can be\nplotted on age-growth chart\nor documented as a value);\nservices count regardless of\nthe intent of visit\nNot acceptable for BMI:\n1. BMI percentile ranges\n2. No BMI percentile\ndocumented in medical\nrecord or plotted on age-\ngrowth chart\n3. Notification of BMI value\nonly\n4. Notification of height and\nweight only\nServices may be rendered\nduring a visit other than a\nwell-child visit; however,\nservices specific to the\nassessment or treatment of\nan acute or chronic condition\ndo not count toward the\nCounseling for Nutrition and\nPhysical Activity indicators",
+            "Patients in hospice\nPatients with a diagnosis\nof pregnancy during the\nmeasurement year\nPatients who died during\nthe measurement year"
+          ],
+          "row_count": 0,
+          "rows": []
+        },
+        {
+          "type": "table",
+          "page_start": 6,
+          "page_end": 6,
+          "columns": [
+            "Measure name",
+            "Measure description",
+            "Service needed for\ncompliance",
+            "Exclusions"
+          ],
+          "row_count": 3,
+          "rows": [
+            {
+              "Measure name": "Adherence to\nAntipsychotic\nMedications for\nIndividuals with\nSchizophrenia (SAA)",
+              "Measure description": "The percentage of patients 18\nyears old and older with\nschizophrenia or schizoaffective\ndisorder who were dispensed\nand remained on an\nantipsychotic medication for at\nleast 80% of their treatment\nperiod",
+              "Service needed for\ncompliance": "Remained on an\nantipsychotic medication for\nat least 80% of their\ntreatment period",
+              "Exclusions": "Patients in hospice\nPatients with dementia\nPatients 66–80 years old\nwith two indications of\nfrailty on different dates\nof service and advanced\nillness\nPatients 81 years old and\nolder with frailty during\nthe measurement year\nDid not have at least two\nantipsychotic medication\ndispensing events\nPatients who died during\nthe measurement year"
+            },
+            {
+              "Measure name": "Antidepressant\nMedication Management\n(AMM)",
+              "Measure description": "The percentage of patients 18\nyears and older who were\ntreated with antidepressant\nmedication, had a diagnosis of\nmajor depression and who\nremained on antidepressant\nmedication. Two rates are\nreported:\n• Effective acute phase\ntreatment\n• Effective continuous phase\ntreatment",
+              "Service needed for\ncompliance": "Acute phase: Stayed on\nantidepressant medication\nfor at least 84 days (12\nweeks) out of the first 115\ndays after the initial\nprescription\nContinuous phase: Stayed on\nantidepressant medication\nfor at least 180 days (six\nmonths) out of the first 232\ndays after the initial\nprescription",
+              "Exclusions": "Patients in hospice\nPatients who did not have\nan encounter with a\ndiagnosis of major\ndepression during the\n121-day period from 60\ndays prior to the IPSD\n(initial prescription start\ndate), through the IPSD\nand the 60 days after the\nIPSD\nPatients who died during\nthe measurement year"
+            },
+            {
+              "Measure name": "Diabetes Screening for\nPeople with\nSchizophrenia or Bipolar\nDisorder Who Are Using\nAntipsychotic\nMedications (SSD)",
+              "Measure description": "The percentage of patients 18–\n64 years old with schizophrenia,\nschizoaffective disorder or\nbipolar disorder who were\ndispensed an antipsychotic\nmedication and had a diabetes\nscreening test during the\nmeasurement year",
+              "Service needed for\ncompliance": "A glucose test or an HbA1c\ntest during the measurement\nyear",
+              "Exclusions": "Patients in hospice\nPatients with diabetes\nPatients who were not\ndispensed an\nantipsychotic medication\nduring the measurement\nyear"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 7,
+          "page_end": 7,
+          "columns": [
+            "",
+            "",
+            "",
+            "Patients who died during\nthe measurement year"
+          ],
+          "row_count": 3,
+          "rows": [
+            {
+              "column_1": "Initiation and\nEngagement of\nSubstance Use Disorder\nTreatment (IET)",
+              "column_2": "The percentage of new\nsubstance use disorder (SUD)\nepisodes that result in\ntreatment initiation and\nengagement\nTwo rates are reported:\n• Initiation of SUD Treatment:\nThe percentage of new SUD\nepisodes that result in\ntreatment initiation through\nan inpatient SUD admission,\noutpatient visit, intensive\noutpatient encounter,\npartial hospitalization,\ntelehealth visit or\nmedication treatment\nwithin 14 days\n• Engagement of SUD\nTreatment: The percentage\nof new SUD episodes that\nhave evidence of treatment\nengagement within 34 days\nof initiation",
+              "column_3": "Initiation of SUD Treatment:\nInitiation of SUD treatment\nwithin 14 days of the SUD\nepisode date\nEngagement of SUD\nTreatment: Engaged with\nSUD treatment within 34\ndays of their initiation of\ntreatment",
+              "Patients who died during\nthe measurement year": "Patients in hospice\nPatients who died during\nthe measurement year"
+            },
+            {
+              "column_1": "Follow-Up After\nEmergency Department\nVisit for Mental Illness –\nSeven Days (FUM)",
+              "column_2": "The percentage of emergency\ndepartment (ED) visits for\npatients six years old and older\nwith a principal diagnosis of\nmental illness or intentional\nself-harm who had a follow-up\nvisit for mental illness\nTwo rates are reported:\n• Follow-up within seven days\nof the ED visit\n• Follow-up within 30 days of\nthe ED visit",
+              "column_3": "Seven-day follow-up – a\nfollow-up visit within seven\ndays after the ED visit\n30-day follow-up – a follow-\nup visit within 30 days after\nthe ED visit",
+              "Patients who died during\nthe measurement year": "Patients in hospice\nPatients who died during\nthe measurement year"
+            },
+            {
+              "column_1": "Follow-Up After\nEmergency Department\nVisit for Substance Use –\nSeven Days (FUA)",
+              "column_2": "The percentage of ED visits for\npatients 13 years old and older\nwith a principal diagnosis of SUD\nor any diagnosis of drug\noverdose, for which there was\nfollow-up\nTwo rates are reported:",
+              "column_3": "Seven-day follow-up – a\nfollow-up visit or a\npharmacotherapy dispensing\nevent within seven days after\nthe ED visit\n30-day follow-up – a follow-\nup visit or a",
+              "Patients who died during\nthe measurement year": "Patients in hospice\nPatients who died during\nthe measurement year"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 8,
+          "page_end": 8,
+          "columns": [
+            "",
+            "• Follow-up within seven days\nof the ED visit\n• Follow-up within 30 days of\nthe ED visit",
+            "pharmacotherapy dispensing\nevent within 30 days after\nthe ED visit",
+            ""
+          ],
+          "row_count": 3,
+          "rows": [
+            {
+              "column_1": "Follow-Up After High-\nIntensity Care for\nSubstance Use Disorder –\nSeven Days (FUI)",
+              "• Follow-up within seven days\nof the ED visit\n• Follow-up within 30 days of\nthe ED visit": "The percentage of acute\ninpatient hospitalizations,\nresidential treatment or\nwithdrawal management visits\nfor a diagnosis of SUD among\npatients 13 years old and older\nthat result in a follow-up visit or\nservice for substance use\ndisorder\nTwo rates are reported:\n• Follow-up within seven days\nof the visit or discharge\n• Follow-up within 30 days\nvisit or discharge",
+              "pharmacotherapy dispensing\nevent within 30 days after\nthe ED visit": "Seven-day follow-up – a\nfollow-up visit within seven\ndays after the visit or\ndischarge\n30-day follow-up – a follow-\nup visit within 30 days after\nthe visit or discharge",
+              "column_4": "Patients in hospice\nPatients who died during\nthe measurement year"
+            },
+            {
+              "column_1": "Follow-Up After\nHospitalization for\nMental Illness – Seven\nDays (FUH)",
+              "• Follow-up within seven days\nof the ED visit\n• Follow-up within 30 days of\nthe ED visit": "The percentage of discharges\nfor patients 6 years old and\nolder who were hospitalized for\ntreatment of selected mental\nillness or intentional self-harm\ndiagnoses and who had a\nfollow-up visit with a mental\nhealth practitioner\nTwo rates are reported:\n• Follow-up within seven days\nof the discharge\n• Follow-up within 30 days of\nthe discharge",
+              "pharmacotherapy dispensing\nevent within 30 days after\nthe ED visit": "Seven-day follow-up – a\nfollow-up visit within seven\ndays after the date of\ndischarge\n30-day follow-up – a follow-\nup visit within 30 days after\nthe date of discharge\nVisits that occur on the date\nof discharge may not be\ncounted",
+              "column_4": "Patients in hospice\nPatients who died during\nthe measurement year"
+            },
+            {
+              "column_1": "Follow-up Care for\nChildren Prescribed\nADHD Medication (ADD)",
+              "• Follow-up within seven days\nof the ED visit\n• Follow-up within 30 days of\nthe ED visit": "The percentage of patients 6–12\nyears old who were newly\nprescribed attention-deficit/\nhyperactivity disorder (ADHD)\nmedication and who had at\nleast three follow-up care visits\nwithin a 10-month period, one\nof which was within 30 days of\nwhen the first ADHD medication\nwas dispensed\nTwo rates are reported:\n• Initiation phase\n• Continuation and\nMaintenance (C & M) phase",
+              "pharmacotherapy dispensing\nevent within 30 days after\nthe ED visit": "Initiation phase – one follow-\nup visit with a practitioner\nwith prescribing authority\nduring the 30 days after the\ninitial ADHD medication\ndispensing date\nContinuation and\nMaintenance (C & M) phase\n– at least two follow-up visits\nwith a practitioner with\nprescribing authority within\n270 days after the 30-day\ninitiation phase has ended",
+              "column_4": "Patients in hospice\nPatients with a diagnosis\nof narcolepsy any time in\ntheir history through Dec.\n31 of the measurement\nyear\nPatients who died during\nthe measurement year"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 9,
+          "page_end": 9,
+          "columns": [
+            "Metabolic Monitoring for\nChildren and Adolescents\non Antipsychotics (APM)",
+            "The percentage of children and\nadolescents 1–17 years old who\nhad two or more antipsychotic\nprescriptions and had metabolic\ntesting. Three rates are\nreported:\nRate 1:\nThe percentage of children and\nadolescents on antipsychotics\nwho received blood glucose\ntesting\nRate 2:\nThe percentage of children and\nadolescents on antipsychotics\nwho received cholesterol testing\nRate 3:\nThe percentage of children and\nadolescents on antipsychotics\nwho received blood glucose and\ncholesterol testing",
+            "Patients who received both\nof the following during the\nmeasurement year on\nthe same or different dates\nof service:\n1. At least one test for\nblood glucose or HbA1c\nand\n2. At least one test for\nLDL-C or cholesterol",
+            "Patients in hospice\nPatients who died during\nthe measurement year"
+          ],
+          "row_count": 2,
+          "rows": [
+            {
+              "Metabolic Monitoring for\nChildren and Adolescents\non Antipsychotics (APM)": "Pharmacotherapy for\nOpioid Use Disorder\n(POD)",
+              "The percentage of children and\nadolescents 1–17 years old who\nhad two or more antipsychotic\nprescriptions and had metabolic\ntesting. Three rates are\nreported:\nRate 1:\nThe percentage of children and\nadolescents on antipsychotics\nwho received blood glucose\ntesting\nRate 2:\nThe percentage of children and\nadolescents on antipsychotics\nwho received cholesterol testing\nRate 3:\nThe percentage of children and\nadolescents on antipsychotics\nwho received blood glucose and\ncholesterol testing": "The percentage of opioid use\ndisorder (OUD)\npharmacotherapy events that\nlasted at least 180 days among\npatients 16 years old and older\nwith a diagnosis of OUD and a\nnew OUD pharmacotherapy\nevent",
+              "Patients who received both\nof the following during the\nmeasurement year on\nthe same or different dates\nof service:\n1. At least one test for\nblood glucose or HbA1c\nand\n2. At least one test for\nLDL-C or cholesterol": "New OUD pharmacotherapy\nevents with OUD\npharmacotherapy for 180 or\nmore days without a gap in\ntreatment of eight or more\nconsecutive days",
+              "Patients in hospice\nPatients who died during\nthe measurement year": "Patients in hospice\nPatients who died during\nthe measurement year"
+            },
+            {
+              "Metabolic Monitoring for\nChildren and Adolescents\non Antipsychotics (APM)": "Use of First-Line\nPsychosocial Care for\nChildren and Adolescents\non Antipsychotics (APP)",
+              "The percentage of children and\nadolescents 1–17 years old who\nhad two or more antipsychotic\nprescriptions and had metabolic\ntesting. Three rates are\nreported:\nRate 1:\nThe percentage of children and\nadolescents on antipsychotics\nwho received blood glucose\ntesting\nRate 2:\nThe percentage of children and\nadolescents on antipsychotics\nwho received cholesterol testing\nRate 3:\nThe percentage of children and\nadolescents on antipsychotics\nwho received blood glucose and\ncholesterol testing": "The percentage of patients 1–17\nyears old who had a new\nprescription for an antipsychotic\nmedication and had\ndocumentation of psychosocial\ncare as a first-line treatment",
+              "Patients who received both\nof the following during the\nmeasurement year on\nthe same or different dates\nof service:\n1. At least one test for\nblood glucose or HbA1c\nand\n2. At least one test for\nLDL-C or cholesterol": "Documentation of\npsychosocial care in the 121-\nday period from 90 days\nprior to the start date of the\nnew antipsychotic\nprescription through 30 days\nafter the start date of the\nnew antipsychotic\nprescription",
+              "Patients in hospice\nPatients who died during\nthe measurement year": "Patients in hospice\nPatients with at least one\nacute inpatient encounter\nwith a diagnosis of\nschizophrenia,\nschizoaffective disorder,\nbipolar disorder, other\npsychotic disorder, autism\nor other developmental\ndisorder during the\nmeasurement year\nPatients with at least two\nvisits in an outpatient,\nintensive outpatient or\npartial hospitalization\nsetting on different dates"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 10,
+          "page_end": 10,
+          "columns": [
+            "of service, with a\ndiagnosis of\nschizophrenia,\nschizoaffective disorder,\nbipolar disorder, other\npsychotic disorder, autism\nor other developmental\ndisorder during the\nmeasurement year\nPatients who died during\nthe measurement year"
+          ],
+          "row_count": 0,
+          "rows": []
+        },
+        {
+          "type": "table",
+          "page_start": 11,
+          "page_end": 11,
+          "columns": [
+            "Measure name",
+            "Measure description",
+            "Service needed for\ncompliance",
+            "Exclusions"
+          ],
+          "row_count": 2,
+          "rows": [
+            {
+              "Measure name": "Blood Pressure Control\n(<140/90) for Patients\nwith Diabetes (BPD)",
+              "Measure description": "The percentage of patients 18–\n75 years old with diabetes (type\n1 or 2) whose blood pressure\n(BP) was adequately controlled\n(<140/90 Hg) during the\nmeasurement year",
+              "Service needed for\ncompliance": "Most recent BP level taken\nduring the measurement\nyear (last BP of the year) is\nless than 140/90\nReadings from an acute\ninpatient visit and ED visit\nare excluded",
+              "Exclusions": "Patients who do not have\na diagnosis of diabetes\nduring the measurement\nyear or prior year and had\na diagnosis of polycystic\novarian syndrome,\ngestational diabetes or\nsteroid-induced diabetes\nPatients in hospice\nPatients who died during\nthe measurement year\nPatients who received\npalliative care during the\nmeasurement year\nPatients 66 years old and\nolder with at least two\nindications of frailty with\ndifferent dates of service\nduring the measurement\nyear"
+            },
+            {
+              "Measure name": "Eye Exam for Patients\nwith Diabetes (EED)",
+              "Measure description": "The percentage of patients 18–\n75 years old with diabetes (type\n1 or 2) who had a retinal eye\nexam",
+              "Service needed for\ncompliance": "Screening or monitoring for\ndiabetic retinal disease of a\ndiabetic patient by doing one\nof the following:\n1. Retinal or dilated eye\nexam by an optometrist\nor ophthalmologist in the\nmeasurement year\n2. Negative retinal or\ndilated eye exam\n(negative for\nretinopathy) by an\noptometrist or\nophthalmologist in year\nprior to the\nmeasurement year\n3. Bilateral eye enucleation\nany time during the\npatient’s history through",
+              "Exclusions": "Patients in hospice\nPatients who died during\nthe measurement year\nPatients who do not have\na diagnosis of diabetes\nduring or prior to the\nmeasurement year and\nhave a diagnosis of\npolycystic ovarian\nsyndrome, gestational\ndiabetes or steroid-\ninduced diabetes\nPatients who received\npalliative care during the\nmeasurement year\nPatients 66 years old and\nolder with at least two\nindications of frailty with"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 12,
+          "page_end": 12,
+          "columns": [
+            "",
+            "",
+            "Dec. 31 of the\nmeasurement year",
+            "different dates of service\nduring the measurement\nyear"
+          ],
+          "row_count": 2,
+          "rows": [
+            {
+              "column_1": "Hemoglobin A1c Control\nfor Patients with\nDiabetes (HBD)",
+              "column_2": "The percentage of patients 18–\n75 years old with diabetes (type\n1 and 2) whose hemoglobin\n(HbA1c) was at the following\nlevel during the measurement\nyear:\n• HbA1c Control (<8.0%)\n• HbA1c Poor Control (>9.0%)\nHbA1c Poor Control (>9.0%) is\nan inverse measure; the goal is\nfor patients to have an A1C in\nthe controlled range (<8%)",
+              "Dec. 31 of the\nmeasurement year": "HbA1c Control (<8.0%) –\nMost recent HbA1c test\nduring the measurement\nyear has a result of less than\n8.0%\nHbA1c Poor Control (>9.0%)\n– Most recent HbA1c test\nduring the measurement\nyear has a result of greater\nthan 9.0%",
+              "different dates of service\nduring the measurement\nyear": "Patients in hospice\nPatients who died during\nthe measurement year\nPatients without a\ndiagnosis of diabetes\nduring or prior to the\nmeasurement year and\nhave had a diagnosis of\npolycystic ovarian\nsyndrome, gestational\ndiabetes or steroid-\ninduced diabetes\nPatients receiving\npalliative care\nPatients 66 years old and\nolder with at least two\nindications of frailty with\ndifferent dates of service\nduring the measurement\nyear"
+            },
+            {
+              "column_1": "Kidney Health Evaluation\nfor Patients with\nDiabetes (KED)",
+              "column_2": "The percentage of patients 18–\n85 years old with diabetes (type\n1 or type 2) who received a\nkidney health evaluation,\ndefined by an estimated\nglomerular filtration rate (eGFR)\nand a urine albumin-creatinine\nratio (uACR), during the\nmeasurement year",
+              "Dec. 31 of the\nmeasurement year": "Both an eGFR and uACR\nduring the measurement\nyear on the same or different\ndates of service",
+              "different dates of service\nduring the measurement\nyear": "Patients in hospice\nPatients who died during\nthe measurement year\nPatients with end-stage\nrenal disease (ESRD) or\ndialysis any time in the\npatient’s history on or\nprior to Dec. 31 of the\nmeasurement year\nPatients who received\npalliative care during the\nmeasurement year\nPatients who do not have\na diagnosis of diabetes\nand who had a diagnosis\nof polycystic ovarian\nsyndrome, gestational\ndiabetes or steroid-"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 13,
+          "page_end": 13,
+          "columns": [
+            "",
+            "",
+            "",
+            "induced diabetes during\nthe measurement year or\nthe year prior\nPatients 66–80 years old\nwith at least two\nindications of frailty on\ndifferent dates of service\nand advanced illness\nPatients 81 years old and\nolder with at least two\nindications of frailty with\ndifferent dates of service"
+          ],
+          "row_count": 1,
+          "rows": [
+            {
+              "column_1": "Statin Therapy for\nPatients with Diabetes\n(SPD)",
+              "column_2": "The percentage of patients 40–\n75 years old during the\nmeasurement year with\ndiabetes who do not have\nclinical atherosclerotic\ncardiovascular disease (ASCVD)\nwho met the following criteria:\nTwo rates are reported:\nRate 1:\nReceived statin therapy\nRate 2:\nStatin adherence 80%",
+              "column_3": "Received statin therapy –\npatients who were dispensed\nat least one statin\nmedication of any intensity\nduring the measurement\nyear\nStatin adherence 80% –\npatients who remained on a\nstatin medication of any\nintensity for at least 80% of\nthe treatment period",
+              "induced diabetes during\nthe measurement year or\nthe year prior\nPatients 66–80 years old\nwith at least two\nindications of frailty on\ndifferent dates of service\nand advanced illness\nPatients 81 years old and\nolder with at least two\nindications of frailty with\ndifferent dates of service": "Patients who do not have\na diagnosis of diabetes\nand who had a diagnosis\nof polycystic ovarian\nsyndrome, gestational\ndiabetes or steroid-\ninduced diabetes during\nthe measurement year or\nthe year prior\nPatients with an ischemic\nvascular disease (IVD)\ndiagnosis both the\nmeasurement year and\nyear prior\nPatients in hospice\nPatients with at least one\nof the following during\nthe year prior to the\nmeasurement year: an\ninpatient discharge with a\nmyocardial infarction or in\nany setting a coronary\nartery bypass graft\n(CABG), percutaneous\ncoronary intervention\n(PCI) or other\nrevascularization\nPatients who are\npregnant, underwent in\nvitro fertilization (IVF),\nwho had at least one\nprescription dispensed for"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 14,
+          "page_end": 14,
+          "columns": [
+            "clomiphene, ESRD or\ndialysis or with cirrhosis\nduring the measurement\nyear or the year prior\nPatients with myalgia,\nmyositis, myopathy or\nrhabdomyolysis during\nthe measurement year\nPatients who died during\nthe measurement year\nPatients in palliative care\nany time during the\nmeasurement year\nPatients 66 years old and\nolder with at least two\nindications of frailty on\ndifferent dates of service\nand advanced illness"
+          ],
+          "row_count": 0,
+          "rows": []
+        },
+        {
+          "type": "table",
+          "page_start": 15,
+          "page_end": 15,
+          "columns": [
+            "Controlling High Blood\nPressure (CBP)",
+            "The percentage of patients 18–\n85 years old who had a\ndiagnosis of hypertension\n(HTN) and whose BP was\nadequately controlled (less\nthan 140/90)\nNote: Both a representative\nsystolic BP <140 mmHg and a\nrepresentative diastolic BP of\n<90 mmHg",
+            "Patients become eligible\nafter the second diagnosis\nof hypertension\nRepresentative BP is the\nmost recent reading in the\nmeasurement year and\nmust be less than 140/90\nNote: If multiple BP readings\nare noted in the chart on\nthe same date, the lowest\nsystolic and lowest diastolic\nBP result will be used.",
+            "Patients in hospice\nPatients who died during\nthe measurement year\nPatients receiving\npalliative care any time\nduring the measurement\nyear\nPatients 66–80 years old\nwith two indications of\nfrailty on different\nservice dates and\nadvanced illness\nPatients 81 years old and\nolder with two\nindications of frailty with\ndifferent dates of service\nduring the measurement\nyear\nPatients with ESRD,\ndialysis, nephrectomy or\nkidney transplant on or\nprior to Dec. 31 of the\nmeasurement year\nPatients with a diagnosis\nof pregnancy during the\nmeasurement year\nPatients who had a\nnonacute inpatient\nadmission"
+          ],
+          "row_count": 0,
+          "rows": []
+        },
+        {
+          "type": "table",
+          "page_start": 16,
+          "page_end": 16,
+          "columns": [
+            "Measure name",
+            "Measure description",
+            "Service needed for\ncompliance",
+            "Exclusions"
+          ],
+          "row_count": 2,
+          "rows": [
+            {
+              "Measure name": "Medical Assistance with\nSmoking and Tobacco\nUse Cessation –\nAdvising Smokers and\nTobacco Users to Quit\n(MSC)",
+              "Measure description": "Assesses different facets of\nproviding medical assistance\nwith smoking and tobacco use\ncessation using a rolling\naverage that represents the\npercentage of patients 18 years\nold and older who were current\nsmokers or tobacco users.\nThere are three components:\n• Advising smokers and\ntobacco users to quit\n• Discussing cessation\nmedications\n• Discussing cessation\nstrategies",
+              "Service needed for\ncompliance": "Advising smokers and\ntobacco users to quit:\nThe number of patients in\nthe denominator who\nindicated that they received\nadvice to quit from a doctor\nor other health provider by\nanswering “Sometimes” or\n“Usually” or “Always” to\nQ53 on the Adult CAHPS\nHealth Plan Survey\nDiscussing cessation\nmedications:\nThe number of patients in\nthe denominator who\nindicated that their doctor\nor health provider\nrecommended or discussed\ncessation medications by\nanswering “Sometimes” or\n“Usually” or “Always” to\nQ36 on the Adult CAHPS\nHealth Plan Survey\nDiscussing cessation\nstrategies :\nThe number of patients in\nthe denominator who\nindicated that their doctor\nor health provider discussed\nor provided cessation\nmethods and strategies by\nanswering “Sometimes” or\n“Usually” or “Always” to\nQ37 on the Adult CAHPS\nHealth Plan Survey",
+              "Exclusions": "Patients who indicate\nthey are not current\nsmokers on the Adult\nConsumer Assessment of\nHealthcare Providers and\nSystems (CAHPS®) Health\nPlan Survey"
+            },
+            {
+              "Measure name": "Adult Immunization\nStatus (AIS-E)",
+              "Measure description": "The percentage of members 19\nyears old and older who are up\nto date on recommended\nroutine vaccines for influenza,\ntetanus and diphtheria (Td) or\ntetanus, diphtheria and\nacellular pertussis (Tdap),\nzoster and pneumococcal",
+              "Service needed for\ncompliance": "AIS – Influenza: influenza\nvaccine on or between July\n1 of the year prior to the\nmeasurement period and\nJune 30 of the measurement\nperiod",
+              "Exclusions": "All – anaphylactic\nreaction to vaccine,\npatients in hospice,\npatients who died during\nthe measurement year\nTdaP – encephalitis"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 17,
+          "page_end": 17,
+          "columns": [
+            "AIS – Td/Tdap: at least one\nTd vaccine or one Tdap\nvaccine between nine years\nprior to the start of the\nmeasurement period and\nthe end of the measurement\nperiod\nAIS – Zoster: received at\nleast one dose of the herpes\nzoster live vaccine or two\ndoses of the herpes zoster\nrecombinant vaccine at least\n28 days apart, any time on\nor after the member’s 50th\nbirthday and before or\nduring the measurement\nperiod\nAIS – Pneumococcal:\nadministered at least one\ndose of an adult\npneumococcal vaccine on or\nafter the member’s 19th\nbirthday and before or\nduring the measurement\nperiod"
+          ],
+          "row_count": 0,
+          "rows": []
+        },
+        {
+          "type": "table",
+          "page_start": 18,
+          "page_end": 18,
+          "columns": [
+            "Measure name",
+            "Measure description",
+            "Service needed for\ncompliance",
+            "Exclusions"
+          ],
+          "row_count": 2,
+          "rows": [
+            {
+              "Measure name": "Use of Opioids at High\nDosage (HDO)",
+              "Measure description": "The percentage of patients 18\nyears old and older who\nreceived prescription opioids at\na high dosage for 15 or more\ndays during the measurement\nyear\nPatients are only included in\nthe measure if they have two\nor more opioid dispensing\nevents on different dates of\nservice during the\nmeasurement year\nA lower rate is better for this\nmeasure",
+              "Service needed for\ncompliance": "Received prescription\nopioids at high dosage for\nfewer than 15 days during\nthe measurement year\nA high dosage is defined as\naverage morphine milligram\nequivalent (MME) dose\ngreater than or equal to 90;\na lower rate on this measure\nindicates better\nperformance\nThe following opioid\nmedications are not\nincluded in the measure:\nInjectables, opioid cough\nand cold products, Ionsys®\nfentanyl transdermal patch\nand methadone for the\ntreatment of opioid use\ndisorder",
+              "Exclusions": "Patients in hospice\nPatients who died during\nthe measurement year\nPatients with a diagnosis\nof cancer or sickle cell\ndisease during the\nmeasurement year\nPatients receiving\npalliative care during the\nmeasurement year\nNote: Denied claims do\nnot count toward this\nmeasure."
+            },
+            {
+              "Measure name": "Use of Opioids from\nMultiple Providers –\nMultiple Prescribers and\nMultiple Pharmacies\n(UOP)",
+              "Measure description": "The percentage of patients 18\nyears old and older receiving\nprescription opioids for 15 days\nor more during the\nmeasurement year who\nreceived opioids from multiple\nproviders\nThree rates are reported:\n• Multiple prescribers\n• Multiple pharmacies\n• Multiple prescribers and\nmultiple pharmacies\nNote: A lower rate is better for\nall three rates.",
+              "Service needed for\ncompliance": "Multiple prescribers –\npercentage of patients\nreceiving prescriptions for\nopioids from four or more\ndifferent prescribers during\nthe measurement year\nMultiple pharmacies –\npercentage of patients\nreceiving prescriptions for\nopioids from four or more\ndifferent pharmacies during\nthe measurement year\nMultiple prescribers and\nmultiple pharmacies –\npercentage of patients\nreceiving prescriptions for\nopioids from four or more\ndifferent prescribers and\nfour or more different\npharmacies during the\nmeasurement year",
+              "Exclusions": "Patients in hospice\nPatients who died during\nthe measurement year\nNote: Denied claims do\nnot count toward this\nmeasure."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 19,
+          "page_end": 19,
+          "columns": [
+            "",
+            "",
+            "Note: The following opioid\nmedications are not\nincluded in the measure:\nInjectables, opioid cough\nand cold products, single-\nagent and combination\nbuprenorphine products\nused as part of medication\nassisted treatment of opioid\nuse disorder (buprenorphine\nsublingual tablets,\nbuprenorphine\nsubcutaneous implant and\nall buprenorphine/ naloxone\ncombination products),\nIonsys® fentanyl\ntransdermal patch and\nmethadone for the\ntreatment of opioid use\ndisorder",
+            ""
+          ],
+          "row_count": 1,
+          "rows": [
+            {
+              "column_1": "Risk of Continued\nOpioid Use (COU)",
+              "column_2": "The percentage of patients 18\nyears old and older who have a\nnew episode of opioid use that\nputs them at risk for continued\nopioid use\nTwo rates are reported:\n• At least 15 days of\nprescription opioids in a\n30-day period\n• At least 31 days of\nprescription opioids in a\n62-day period\nNote: A lower rate indicates\nbetter performance.",
+              "Note: The following opioid\nmedications are not\nincluded in the measure:\nInjectables, opioid cough\nand cold products, single-\nagent and combination\nbuprenorphine products\nused as part of medication\nassisted treatment of opioid\nuse disorder (buprenorphine\nsublingual tablets,\nbuprenorphine\nsubcutaneous implant and\nall buprenorphine/ naloxone\ncombination products),\nIonsys® fentanyl\ntransdermal patch and\nmethadone for the\ntreatment of opioid use\ndisorder": "At least 15 days covered –\npatients who had 15 or\nmore calendar days covered\nby an opioid medication\nduring the 30-day period\nbeginning on the index\nprescription start date\n(IPSD) through 29 days after\nthe IPSD\nAt least 31 days covered –\npatients who had 31 or\nmore calendar days covered\nby an opioid medication\nduring the 62-day period\nbeginning on the IPSD\nthrough 61 days after the\nIPSD",
+              "column_4": "Patients who met at least\none of the following at\nany time during the 12\nmonths (one year) prior\nto the IPSD through 61\ndays after the IPSD:\ncancer, sickle cell\ndisease, palliative care\nPatients in hospice\nPatients who died during\nthe measurement year"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 20,
+          "page_end": 20,
+          "columns": [
+            "Measure name",
+            "Measure description",
+            "Service needed for\ncompliance",
+            "Exclusions"
+          ],
+          "row_count": 3,
+          "rows": [
+            {
+              "Measure name": "Asthma Medication\nRatio (AMR)",
+              "Measure description": "The percentage of patients 5–\n64 years old who were\nidentified as having persistent\nasthma and had a ratio of\ncontroller medications to total\nasthma medications of 0.50 or\ngreater during the\nmeasurement year",
+              "Service needed for\ncompliance": "Patients on asthma\nmedications should have a\nratio of controller\nmedications to total asthma\nmedications of 0.50 or\ngreater during the\nmeasurement year. This\nmeans that of all units of\nasthma medications\ndispensed to a patient\nduring the measurement\nyear, at least half of them\nshould be units of controller\nmedications. One\nmedication unit equals one\ninhaler canister, one\ninjection, one infusion or a\n30-day or less supply of an\noral medication.",
+              "Exclusions": "Patients in hospice\nPatients with\nemphysema, chronic\nobstructive pulmonary\ndisease (COPD),\nobstructive chronic\nbronchitis, cystic fibrosis,\nacute respiratory failure\nor chronic respiratory\nconditions with fumes or\nvapors any time through\nDec. 31 of the\nmeasurement year\nPatients who had no\nasthma controller or\nreliever medications\ndispensed during the\nmeasurement year\nPatients who died during\nthe measurement year"
+            },
+            {
+              "Measure name": "Appropriate Testing for\nPharyngitis (CWP)",
+              "Measure description": "The percentage of episodes for\npatients three years old and\nolder in which the patient was\ndiagnosed with pharyngitis,\ndispensed an antibiotic and\nreceived a group A\nstreptococcus (strep) test for\nthe episode",
+              "Service needed for\ncompliance": "A group A strep test after\npharyngitis diagnosis, if an\nantibiotic is dispensed in the\nseven-day period from three\ndays prior to the episode\ndate through three days\nafter the episode date",
+              "Exclusions": "Patients in hospice\nPatients who died during\nthe measurement year"
+            },
+            {
+              "Measure name": "Appropriate Treatment\nfor Upper Respiratory\nInfection (URI)",
+              "Measure description": "The percentage of episodes for\npatients three months and\nolder with a diagnosis of upper\nrespiratory infection (URI) that\ndid not result in an antibiotic\ndispensing event\nThe measure is reported as an\ninverted rate (1–[numerator/\neligible population]). A higher\nrate indicates appropriate URI\ntreatment (i.e., the proportion\nof episodes that did not result\nin an antibiotic dispensing\nevent).",
+              "Service needed for\ncompliance": "Patients were dispensed a\nprescription for an antibiotic\nmedication on or three days\nafter the episode date",
+              "Exclusions": "Patients in hospice\nPatients who died during\nthe measurement year"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 21,
+          "page_end": 21,
+          "columns": [
+            "",
+            "This measure evaluates\nabsence of antibiotic treatment\nfor episodes of URI diagnoses\nthat occur between July 1 of\nthe year prior to the\nmeasurement year through\nJune 30 of the measurement\nyear",
+            "",
+            ""
+          ],
+          "row_count": 3,
+          "rows": [
+            {
+              "column_1": "Avoidance of Antibiotic\nTreatment for Acute\nBronchitis/Bronchiolitis\n(AAB)",
+              "This measure evaluates\nabsence of antibiotic treatment\nfor episodes of URI diagnoses\nthat occur between July 1 of\nthe year prior to the\nmeasurement year through\nJune 30 of the measurement\nyear": "The percentage of episodes for\npatients three months and\nolder with a diagnosis of acute\nbronchitis/bronchiolitis that did\nnot result in an antibiotic\ndispensing event\nThe measure is reported as an\ninverted rate (1–[numerator/\neligible population])\nA higher rate indicates\nappropriate acute\nbronchitis/bronchiolitis\ntreatment (i.e., the proportion\nfor episodes that did not result\nin an antibiotic dispensing\nevent)",
+              "column_3": "Patients dispensed a\nprescription for an antibiotic\nmedication on or three days\nafter the episode date",
+              "column_4": "Patients in hospice\nPatients who died during\nthe measurement year"
+            },
+            {
+              "column_1": "Pharmacotherapy\nManagement of COPD\nExacerbation –\nBronchodilator (PCE)",
+              "This measure evaluates\nabsence of antibiotic treatment\nfor episodes of URI diagnoses\nthat occur between July 1 of\nthe year prior to the\nmeasurement year through\nJune 30 of the measurement\nyear": "The percentage of COPD\nexacerbations for patients 40\nyears old and older who had an\nacute inpatient discharge or ED\nvisit on or between Jan. 1 and\nNov. 30 of the measurement\nyear and who were dispensed a\nbronchodilator (or there was\nevidence of an active\nprescription) within 30 days of\nthe event",
+              "column_3": "Patients were dispensed a\nbronchodilator within 30\ndays of inpatient discharge\nor ED visit for COPD\nexacerbation\nIf a patient has an active\nprescription dispensed prior\nto the date of admission for\nan acute inpatient stay or\ndate of service for an ED\nvisit, this also counts as\ncompliant as long as the\ndays’ supply indicated on\nthe date the patient filled\nthe prescription is the\nnumber of days or more\nbetween that date and the\ndate of admission for an\nacute inpatient stay or date\nof service for an ED visit",
+              "column_4": "Patients in hospice\nPatients who died during\nthe measurement year"
+            },
+            {
+              "column_1": "Pharmacotherapy\nManagement of COPD",
+              "This measure evaluates\nabsence of antibiotic treatment\nfor episodes of URI diagnoses\nthat occur between July 1 of\nthe year prior to the\nmeasurement year through\nJune 30 of the measurement\nyear": "The percentage of COPD\nexacerbations for patients 40",
+              "column_3": "Patients were dispensed a\nsystemic corticosteroid",
+              "column_4": "Patients in hospice"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 22,
+          "page_end": 22,
+          "columns": [
+            "Exacerbation – Systemic\nCorticosteroid (PCE)",
+            "years old and older who had an\nacute inpatient discharge or ED\nvisit on or between Jan. 1 and\nNov. 30 of the measurement\nyear and who were dispensed a\nsystemic corticosteroid (or\nthere was evidence of an active\nprescription) within 14 days of\nthe event",
+            "within 14 days after\ndischarge or ED visit for\nCOPD exacerbation\nIf a patient has an active\nprescription dispensed prior\nto the date of admission for\nan acute inpatient stay or\ndate of service for an ED\nvisit, this also counts as\ncompliant as long as the\ndays’ supply indicated on\nthe date the patient filled\nthe prescription is the\nnumber of days or more\nbetween that date and the\ndate of admission for an\nacute inpatient stay or date\nof service for an ED visit",
+            "Patients who died during\nthe measurement year"
+          ],
+          "row_count": 1,
+          "rows": [
+            {
+              "Exacerbation – Systemic\nCorticosteroid (PCE)": "Use of Imaging Studies\nfor Low Back Pain (LBP)",
+              "years old and older who had an\nacute inpatient discharge or ED\nvisit on or between Jan. 1 and\nNov. 30 of the measurement\nyear and who were dispensed a\nsystemic corticosteroid (or\nthere was evidence of an active\nprescription) within 14 days of\nthe event": "The percentage of patients 18–\n75 years old with a primary\ndiagnosis of low back pain who\ndid not have an imaging study\n(plain X-ray, magnetic\nresonance imaging [MRI],\ncomputer tomography [CT]\nscan) within 28 days of the\ndiagnosis\nThe measure is reported as an\ninverted rate (1–[numerator/\neligible population])\nA higher score indicates\nappropriate treatment of low\nback pain (i.e., the proportion\nfor whom imaging studies did\nnot occur)",
+              "within 14 days after\ndischarge or ED visit for\nCOPD exacerbation\nIf a patient has an active\nprescription dispensed prior\nto the date of admission for\nan acute inpatient stay or\ndate of service for an ED\nvisit, this also counts as\ncompliant as long as the\ndays’ supply indicated on\nthe date the patient filled\nthe prescription is the\nnumber of days or more\nbetween that date and the\ndate of admission for an\nacute inpatient stay or date\nof service for an ED visit": "An imaging study with a\ndiagnosis of uncomplicated\nlow back pain on the index\nepisode start date (IESD) or\nin the 28 days following the\nIESD",
+              "Patients who died during\nthe measurement year": "Patients in hospice\nPatients who died during\nthe measurement year\nPatients with cancer,\nrecent trauma,\nintravenous drug use,\nneurologic impairment,\nHIV, spinal infection,\nmajor organ transplant,\nprolonged use of\ncorticosteroids,\nosteoporosis, fragility\nfracture, lumbar surgery\nor spondylopathy\nPatients receiving\npalliative care\nPatients 66 years old and\nolder with at least two\nindications of frailty with\ndifferent dates of service\nduring the measurement\nyear and advanced illness"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Utilization",
+      "level": 2,
+      "page_start": 22,
+      "page_end": 23,
+      "content": [
+        "Measure name Measure description Exclusions"
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 22,
+          "page_end": 22,
+          "columns": [
+            "Measure name",
+            "Measure description",
+            "Service needed for\ncompliance",
+            "Exclusions"
+          ],
+          "row_count": 0,
+          "rows": []
+        },
+        {
+          "type": "table",
+          "page_start": 23,
+          "page_end": 23,
+          "columns": [
+            "Plan All-Cause\nReadmissions (PCR)",
+            "For patients 18–64 years old as\nof the index discharge date, the\nnumber of acute inpatient and\nobservation stays during the\nmeasurement year that were\nfollowed by an unplanned\nacute readmission for any\ndiagnosis within 30 days and\nthe predicted probability of an\nacute readmission",
+            "At least one acute\nreadmission for any\ndiagnosis within 30 days of\nthe index discharge date on\nor between Jan. 1 and Dec.\n1 of the measurement year",
+            "Patients in hospice"
+          ],
+          "row_count": 0,
+          "rows": []
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Women’s Health",
+      "level": 2,
+      "page_start": 23,
+      "page_end": 26,
+      "content": [
+        "endorsement about the quality of any organization or physician that uses or reports performance measures and NCQA has no liability to anyone who relies on such measure specifications. NCQA holds a copyright in these materials and can rescind or alter these materials at any time. These materials may not be modified by anyone other than NCQA. Use of the Rules for Allowable Adjustments of HEDIS to make permitted adjustments of the materials does not constitute a",
+        "modification. Any commercial use and/or internal or external reproduction, distribution and publication must be approved by NCQA and are subject to a license at the discretion of NCQA. Any use of the materials to identify records or calculate measure results, for example, requires a custom license and may necessitate certification pursuant to NCQA’s Measure Certification Program. Reprinted with permission by NCQA. © 2023 NCQA, all rights reserved. The full text of this notice and disclaimer is available here ."
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 23,
+          "page_end": 23,
+          "columns": [
+            "Measure name",
+            "Measure description",
+            "Service needed for\ncompliance",
+            "Exclusions"
+          ],
+          "row_count": 2,
+          "rows": [
+            {
+              "Measure name": "Breast Cancer Screening\n(BCS-E)",
+              "Measure description": "The percentage of female\npatients 50–74 years old as of\nDec. 31, 2023, who had a\nmammogram to screen for\nbreast cancer",
+              "Service needed for\ncompliance": "Mammogram for breast\ncancer screening between\nOct. 1, 2021, and Dec. 31,\n2023\nPatients must turn 52 during\nthe measurement year\nNote: 50 years old reflects a\nlookback of 50 and older on\nthe test date.",
+              "Exclusions": "Patients who have had a\nbilateral mastectomy or\nhave had both a unilateral\nleft and unilateral right\nmastectomy (a single\nunilateral mastectomy\ndoes not count as a full\nexclusion)\nPatients in hospice\nPatients who received\npalliative care\nPatients 66 years old and\nolder with at least two\nindications of frailty with\ndifferent dates of service\nduring measurement year\nand advanced illness"
+            },
+            {
+              "Measure name": "Cervical Cancer Screening\n(CCS)",
+              "Measure description": "The percentage of female\npatients 21–64 years old, who\nwere screened for cervical\ncancer using the criteria in the\nnext column\nNote: Three-year lookback\nrequires 21 years old and older\non test date.\nNote: Five-year lookback\nrequires 30 years old and older\non test date.",
+              "Service needed for\ncompliance": "24–64 years old (as of Dec.\n31 of the measurement\nyear): Cervical cytology\nperformed within the last\nthree years (Jan. 1, 2021,\nthrough Dec. 31, 2023)\n30–64 years old: Cervical\nhigh-risk human\npapillomavirus (hrHPV)\ntesting performed within the\nlast five years or\n30–64 years old: Cervical\ncytology/hrHPV co-testing\nwithin the last five years (Jan.",
+              "Exclusions": "Patients in hospice\nPatients who died during\nthe measurement year\nPatients receiving\npalliative care\nHysterectomy with no\nresidual cervix, cervical\nagenesis or acquired\nabsence of cervix any time\nduring the patient’s\nhistory through Dec. 31 of\nmeasurement year\nNote: Documentation of\nhysterectomy alone does"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 24,
+          "page_end": 24,
+          "columns": [
+            "",
+            "Note: Documentation in the\nmedical record must include\ndate and result.",
+            "1, 2019, through Dec. 31,\n2023)",
+            "not meet criteria because\nit is not sufficient\nevidence that the cervix\nwas removed."
+          ],
+          "row_count": 3,
+          "rows": [
+            {
+              "column_1": "Chlamydia Screening in\nWomen (CHL)",
+              "Note: Documentation in the\nmedical record must include\ndate and result.": "The percentage of female\npatients 16–24 years old who\nwere identified as sexually\nactive and who had at least one\ntest for chlamydia during the\nmeasurement year",
+              "1, 2019, through Dec. 31,\n2023)": "One chlamydia test during\nthe measurement year",
+              "not meet criteria because\nit is not sufficient\nevidence that the cervix\nwas removed.": "Patients in hospice\nPatients who died during\nthe measurement year\nPatients who are\nidentified based on a\npregnancy test alone with\neither a prescription for\nisotretinoin or an X-ray on\nthe date of the pregnancy\ntest or the six days after\nthe pregnancy test"
+            },
+            {
+              "column_1": "Postpartum Care (PPC)",
+              "Note: Documentation in the\nmedical record must include\ndate and result.": "The percentage of patients who\nhad deliveries of live births that\nreceived a postpartum visit on\nor between seven and 84 days\nafter delivery",
+              "1, 2019, through Dec. 31,\n2023)": "A postpartum visit on or\nbetween seven and 84 days\nafter delivery\nAny of the following meet\ncriteria:\n• A postpartum visit\n• Cervical cytology\n• A bundled service in\nwhich the date when\npostpartum care was\nrendered is identifiable\nfrom the claim form",
+              "not meet criteria because\nit is not sufficient\nevidence that the cervix\nwas removed.": "Patients in hospice\nPatients who died during\nthe measurement year"
+            },
+            {
+              "column_1": "Timeliness of Prenatal\nCare (PPC)",
+              "Note: Documentation in the\nmedical record must include\ndate and result.": "The percentage of deliveries of\nlive births that received a\nprenatal care visit in the first\ntrimester, on or before the\nenrollment start date or within\n42 days of enrollment in the\nhealth plan",
+              "1, 2019, through Dec. 31,\n2023)": "A prenatal care visit in the\nfirst trimester or on or\nbefore the enrollment start\ndate or within 42 days of\nenrollment with the health\nplan\nAny of the following, in\nwhich the practitioner type is\nan OB-GYN or other prenatal\ncare practitioner or PCP,\nmeet criteria for a prenatal\nvisit:\n• A bundled service in\nwhich the date when\nprenatal care was\ninitiated is identifiable\nfrom the claim form\n• A visit for prenatal care\n• A prenatal visit with a\npregnancy-related\ndiagnosis code",
+              "not meet criteria because\nit is not sufficient\nevidence that the cervix\nwas removed.": "Patients in hospice\nPatients who died during\nthe measurement year"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 25,
+          "page_end": 25,
+          "columns": [
+            "Prenatal Immunization\nStatus (PRS-E)",
+            "The percentage of deliveries in\nthe measurement period in\nwhich patients had received\ninfluenza and tetanus,\ndiphtheria toxoids and acellular\npertussis (Tdap) vaccinations",
+            "Immunization status:\ninfluenza\n• Deliveries in which\npatients received an\nadult influenza vaccine\non or between July 1 of\nthe year prior to the\nmeasurement period and\nthe delivery date, or\n• Deliveries in which\npatients had anaphylaxis\ndue to the influenza\nvaccine on or before the\ndelivery date\nImmunization status: Tdap\n• Deliveries in which\npatients received at least\none Tdap vaccine during\nthe pregnancy (including\non the delivery date), or\n• Deliveries in which\npatients had any of the\nfollowing on or before\nthe delivery date:\n– Anaphylaxis due to\nthe diphtheria,\ntetanus or pertussis\nvaccine\n– Encephalitis due to\nthe diphtheria,\ntetanus or pertussis\nvaccine\nImmunization status:\ncombination\nDeliveries that met criteria\nfor influenza and Tdap\nimmunization status",
+            "Deliveries that occurred at\nless than 37 weeks\ngestation\nDeliveries by patients in\nhospice"
+          ],
+          "row_count": 0,
+          "rows": []
+        }
+      ],
+      "subsections": []
+    }
+  ],
+  "definitions": null,
+  "references": null,
+  "resources": null,
+  "_extraction_stats": {
+    "total_sections": 10,
+    "total_tables": 25,
+    "total_characters": 7228
+  }
+}

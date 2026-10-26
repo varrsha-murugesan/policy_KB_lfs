@@ -1,0 +1,138 @@
+{
+  "policy_title": "Anatomical Modifiers",
+  "policy_number": "ABHIL-RP-0016",
+  "effective_date": "04/06/2023",
+  "expiry_date": "08/01/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for procedures/ services when appropriately reported with the \nspecific anatomical modifier applicable when \n• \nThe procedure code reported applies to a specific paired organ or structure \n• \nThe procedure code reported applies to a distinct body part (fingers, toes or eyelids) \n• \nThe procedure code reported for a unilateral procedure which was conducted bilaterally \nis correctly reported with the appropriate modifier appended \n \nClaims that are submitted will be denied when \n• \nThe anatomical modifier code reported does not match the organ, body part or structure \nreported by the CPT code \n• \nThe procedure reported is defined as requiring an anatomical modifier, but the correct or \nno anatomical modifier is not reported \n• \nThe procedure code reported for a unilateral procedure which was conducted bilaterally \nis reported without the appropriate bilateral modifier or an inappropriate modifier is \nappended. \n \nThe medical record documentation is expected to support the specific CPT code(s), ICD-10-CM, \nHCPCS code(s) and modifier(s) reported.",
+    "subsections": [
+      {
+        "title": "The procedure code reported applies to a specific paired organ or structure",
+        "content": "The procedure code reported applies to a specific paired organ or structure"
+      },
+      {
+        "title": "The procedure code reported applies to a distinct body part (fingers, toes or eyelids)",
+        "content": "The procedure code reported applies to a distinct body part (fingers, toes or eyelids)"
+      },
+      {
+        "title": "The procedure code reported for a unilateral procedure which was conducted bilaterally",
+        "content": "is correctly reported with the appropriate modifier appended Claims that are submitted will be denied when"
+      },
+      {
+        "title": "The anatomical modifier code reported does not match the organ, body part or structure",
+        "content": "reported by the CPT code"
+      },
+      {
+        "title": "The procedure reported is defined as requiring an anatomical modifier, but the correct or",
+        "content": "no anatomical modifier is not reported"
+      },
+      {
+        "title": "The procedure code reported for a unilateral procedure which was conducted bilaterally",
+        "content": "is reported without the appropriate bilateral modifier or an inappropriate modifier is appended. The medical record documentation is expected to support the specific CPT code(s), ICD-10-CM, HCPCS code(s) and modifier(s) reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for procedures/ services when appropriately reported with the\nspecific anatomical modifier applicable when\n• The procedure code reported applies to a specific paired organ or structure\n• The procedure code reported applies to a distinct body part (fingers, toes or eyelids)\n• The procedure code reported for a unilateral procedure which was conducted bilaterally\nis correctly reported with the appropriate modifier appended\nClaims that are submitted will be denied when\n• The anatomical modifier code reported does not match the organ, body part or structure\nreported by the CPT code\n• The procedure reported is defined as requiring an anatomical modifier, but the correct or\nno anatomical modifier is not reported\n• The procedure code reported for a unilateral procedure which was conducted bilaterally\nis reported without the appropriate bilateral modifier or an inappropriate modifier is\nappended.\nThe medical record documentation is expected to support the specific CPT code(s), ICD-10-CM,\nHCPCS code(s) and modifier(s) reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "Side of Body Modifiers",
+            "value": ""
+          },
+          {
+            "key": "Modifier - RT",
+            "value": "Right side"
+          },
+          {
+            "key": "Modifier - LT",
+            "value": "Left side"
+          },
+          {
+            "key": "Modifier - 50",
+            "value": "Bilateral"
+          },
+          {
+            "key": "Eye Lid Modifiers",
+            "value": ""
+          },
+          {
+            "key": "Modifier – E1",
+            "value": "Upper left eyelid"
+          },
+          {
+            "key": "Modifier – E2",
+            "value": "Lower left eyelid"
+          },
+          {
+            "key": "Modifier – E3",
+            "value": "Upper right eyelid"
+          },
+          {
+            "key": "Modifier – E4",
+            "value": "Lower right eyelid"
+          },
+          {
+            "key": "Finger/Digit of Hand Modifiers",
+            "value": ""
+          },
+          {
+            "key": "Modifier - FA",
+            "value": "Left hand thumb"
+          },
+          {
+            "key": "Modifier – F1",
+            "value": "Left hand, second digit"
+          },
+          {
+            "key": "Modifier – F2",
+            "value": "Left hand, third digit"
+          },
+          {
+            "key": "Modifier – F3",
+            "value": "Left hand, fourth digit"
+          },
+          {
+            "key": "Modifier – F4",
+            "value": "Left hand, fifth digit"
+          },
+          {
+            "key": "Modifier – F5",
+            "value": "Right hand, thumb"
+          },
+          {
+            "key": "Modifier – F6",
+            "value": "Right hand, second digit"
+          },
+          {
+            "key": "Modifier – F7",
+            "value": "Right hand, third digit"
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. HCPCS Level II Professional 2026, AMA; 2025. \n2. American Medical Association. ICD-10-CM 2026 the Complete Official Codebook, AMA; 2025."
+}

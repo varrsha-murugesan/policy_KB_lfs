@@ -1,0 +1,97 @@
+{
+  "policy_metadata": {
+    "policy_title": "Outpatient Claim Itemized Bill Review",
+    "policy_number": "CP2022008",
+    "published_date": "02/2023",
+    "effective_date": "02/2023",
+    "revision_date": "06/2026",
+    "last_reviewed": "06/2026",
+    "Line_of_Business": "Medicare Advantage and Medicaid Products",
+    "Billingclass": "Facility",
+    "source_pdf": "Outpatient_Claim_Itemized_Bill_Review_Revised-cd794bff.pdf",
+    "total_pages": 3,
+    "related_policies": [
+      "Itemized Bill, Itemized Bill Review for Inpatient Routine Services"
+    ]
+  },
+  "clinical_codes": {
+    "all_codes": [],
+    "cpt_codes": [],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "Facility billing guidelines for the UB-04 claim form, also known as the CMS-1450, and the 837 institutional electronic equivalent require providers to bill revenue codes to describe services furnished. Revenue codes are categorical and do not provide detailed descriptions of specific items, supplies and services provided during an outpatient encounter. Humana may request an itemized bill for an outpatient facility claim to verify that billed revenue codes represent charges for appropriately billed items, supplies and",
+        "services. Routine items, supplies and services already included in other outpatient charges are not separately billable. Medicare Advantage Payment Policy Medicare Advantage Payment Policy In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. This policy applies to outpatient facilities that include, but are not limited to, hospital outpatient departments and ambulatory surgery centers. To separately bill for items, supplies and services, a provider must consistently follow its customary charging practices for all Medicare and non-Medicare patients, for all payers and health plans. Humana sometimes reviews an itemized bill for an outpatient encounter to determine whether supplies, items and services specified on the itemized bill are separately billable. The following supplies, items and services are typically not separately billable and, therefore, not separately payable from primary service charge(s). Please note that the examples given do not represent an exhaustive list. • Any supplies, items and services that, under customary charging practices , are included in charges for a specific service or in charges for the delivery of services in a specific location. Examples of included supplies and services are bandages, IV flushing, dressing changes, equipment monitoring and routine nursing care and assessments. • All items and supplies that may be purchased over the counter, such as personal care items, ice packs, alcohol wipes and cotton balls. • All reusable items, supplies and equipment that are provided to all patients on a routine basis during an outpatient encounter; this applies to all outpatient encounters. Examples of reusable items, supplies and equipment are cardiac monitors and durable medical equipment (DME) items used while in an outpatient facility."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicaid Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana Medicaid plans review outpatient itemized bills with routine services according to applicable state Medicaid agency requirements."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "• Customary charging practices : A provider’s common or established practice for classifying a particular item or service that is consistently followed for all patients and does not result in an inequitable apportionment of cost to the Medicare Program."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "• Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 4 – Part B Hospital (Including Inpatient Hospital Part B and OPPS) . Sections 20.1 and 240. www.cms.gov. • Centers for Medicare & Medicaid Services website. The Provider Reimbursement Manual – Part 1. Chapter 22 – Determination of Cost of Services . Sections 2202.4, 2202.8 and 2203. www.cms.gov."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 3,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Customary charging practices": "A provider’s common or established practice for classifying a particular item or service that is consistently followed for all patients and does not result in an inequitable apportionment of cost to the Medicare Program."
+  },
+  "references": [
+    "Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 4 – Part B Hospital (Including Inpatient Hospital Part B and OPPS) . Sections 20.1 and 240. www.cms.gov. • Centers for Medicare & Medicaid Services website. The Provider Reimbursement Manual – Part 1. Chapter 22 – Determination of Cost of Services . Sections 2202.4, 2202.8 and 2203. www.cms.gov."
+  ],
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 5,
+    "total_tables": 0,
+    "total_characters": 4586
+  }
+}

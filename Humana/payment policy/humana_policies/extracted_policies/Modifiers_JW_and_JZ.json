@@ -1,0 +1,704 @@
+{
+  "policy_metadata": {
+    "policy_title": "Modifiers JW and JZ",
+    "policy_number": "CP2011102",
+    "published_date": "09/2017",
+    "effective_date": "09/2017",
+    "revision_date": "11/2024",
+    "last_reviewed": "11/2024",
+    "Line_of_Business": "Medicare Advantage and Commercial Products",
+    "Billingclass": "Both",
+    "source_pdf": "Modifiers_JW_and_JZ-3609def9.pdf",
+    "total_pages": 5,
+    "related_policies": [
+      "Common CPT and HCPCS Modifiers"
+    ]
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "15271",
+      "15272",
+      "15273",
+      "15274",
+      "15275",
+      "15276",
+      "15277",
+      "15278",
+      "62362",
+      "86932",
+      "88161",
+      "97810",
+      "97811",
+      "C1753",
+      "C1757",
+      "C2628",
+      "JW",
+      "JZ",
+      "L1690",
+      "L5615",
+      "L5710",
+      "L5712",
+      "L5714",
+      "L5716",
+      "L5718",
+      "L5722",
+      "L5724",
+      "L5726",
+      "L5728",
+      "L5780",
+      "L5785",
+      "L5790",
+      "L5795",
+      "L5810",
+      "L5811",
+      "L5812",
+      "L5814",
+      "L5816",
+      "L5818",
+      "L5822",
+      "L5824",
+      "L5826",
+      "L5828",
+      "L5830",
+      "Q4330"
+    ],
+    "cpt_codes": [
+      "15271",
+      "15272",
+      "15273",
+      "15274",
+      "15275",
+      "15276",
+      "15277",
+      "15278",
+      "62362",
+      "86932",
+      "88161",
+      "97810",
+      "97811"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [
+      "JW",
+      "JZ"
+    ],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "This policy outlines Humana\u2019s billing requirements and reimbursement for a charge reported with modifier JW or JZ ."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage and Commercial Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana expects each healthcare provider to administer drugs and biologicals, collectively referred to as drugs, efficiently and in a clinically appropriate manner. This includes using multi-dose vials or packages when available and clinically appropriate. Humana also expects providers to use the combination of available single-dose vials or packages that results in the least amount of discarded drug. For example, if: \u2022 A drug is only available in single-dose 500 milligram and 120 milligram vials, \u2022 540 milligrams are administered, and \u2022 The Healthcare Common Procedure Coding System (HCPCS) code defines one base unit of the code as 10 milligrams, Then five of the 120 milligram vials should be used, resulting in a discarded amount of 60 milligrams (6 units). It is not appropriate to use a combination of one 500 milligram vial and one 120 milligram vial, resulting in a discarded amount of 80 milligrams (8 units). Humana reimburses for the discarded amount of a drug when all of the following criteria are satisfied: \u2022 The drug is a covered expense, \u2022 The discarded amount is the remainder of a single-dose vial or package used to treat the patient, and \u2022 The drug is billed as described below. When those criteria are satisfied, Humana reimburses no more, for the total administered and total discarded, for a drug than the amount appropriate, in dollars, for the efficient administration amount of the drug."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Billing For a Discarded Amount",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 4,
+          "content": [
+            "When there is a discarded amount of drug from a single-dose vial or package, Humana expects providers to report modifier JW according to applicable Centers for Medicare & Medicaid Services (CMS) guidance. When, as discussed above, a discarded amount is reimbursable for a date of service, the billing provider must submit two lines, as described below, using the HCPCS code appropriate for that drug for that date of service: The number of base units submitted for each of the two lines must be calculated using the appropriate unit size indicated by the HCPCS code description. The first of the two lines must indicate the number of base units appropriate for the amount administered to the patient, with fractions rounded up to the next highest whole number of base units . For example, if: \u2022 14 milligrams are administered and \u2022 The HCPCS code defines one base unit of the code as 10 milligrams, Then the first of the two lines must indicate 2 units of the HCPCS code because the 14 milligrams administered are one base unit of the HCPCS code and a fraction of a second base unit of the HCPCS code. The second of the two lines, with modifier JW appended, must indicate the number of base units that is the difference between the efficient administration amount and the number of base units indicated on the first of the two lines. Continuing the example above, if: \u2022 14 milligrams are administered, \u2022 The HCPCS code defines one base unit of the code as 10 milligrams, and \u2022 Of the vials available for provider purchase, the amount that results in the least amount of discarded drug is one 30 milligram vial Then the second of the two lines must indicate 1 unit of the HCPCS code because \u2022 The efficient administration amount is 30 milligrams, \u2022 The number of base units for the efficient administration amount is 3, and \u2022 The difference between the number of base units for the efficient administration amount (3) and the number of base units indicated on the first of the two lines (2) is 1. For each of those two lines, the provider must submit a charge amount that is the charge amount applicable per base unit multiplied by the number of base units indicated for that line. Continuing the example above: For each drug with a reimbursable discarded amount for a date of service, the combined amount charged for both lines must not exceed the total charge that would be appropriate if, for the efficient administration amount , the provider had administered all of each vial or package used. If the number of base units that would be appropriate for the billing of the first of two lines equals the number of base units for the efficient administration amount , then, instead of submitting two lines, the provider submits only one line with modifier JZ . For example, if: \u2022 40 milligrams are administered, \u2022 The HCPCS code defines one base unit of the code as 25 milligrams, and \u2022 Of the vials available for provider purchase, the amount that results in the least amount of discarded drug is two 25 milligram vials, Then only one line is submitted and must indicate 2 units of the HCPCS code because the 40 milligrams administered are one base unit of the HCPCS code and a fraction of a second base unit of the HCPCS code. Suppliers who dispense but do not administer drugs from single-dose vials and packages should report modifier JW when there was a discarded amount of drug during the preparation process before supplying the drug. In addition to the limitations described above, Humana will deny a line reported with modifier JW when: \u2022 The billing provider submitted the line with a procedure code that is not a drug code, \u2022 The billing provider submitted that line to report a multi-dose vial or package, \u2022 The billing provider did not also submit a line for the administered amount, without modifier JW , for the same drug code and date of service, or \u2022 The combined number of units submitted for both lines exceeds the total base units for the efficient administration amount ."
+          ],
+          "tables": [
+            {
+              "type": "table",
+              "page_start": 2,
+              "page_end": 3,
+              "columns": [
+                "Drug code",
+                "Modifier",
+                "Number of units"
+              ],
+              "row_count": 3,
+              "rows": [
+                {
+                  "Drug code": "XXXXX",
+                  "Modifier": "\u2013",
+                  "Number of units": "2"
+                },
+                {
+                  "Drug code": "XXXXX",
+                  "Modifier": "\u2013",
+                  "Number of units": "2"
+                },
+                {
+                  "Drug code": "XXXXX",
+                  "Modifier": "JW",
+                  "Number of units": "1"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 3,
+              "page_end": 3,
+              "columns": [
+                "Drug code",
+                "Modifier",
+                "Number of units",
+                "Charge"
+              ],
+              "row_count": 2,
+              "rows": [
+                {
+                  "Drug code": "XXXXX",
+                  "Modifier": "\u2013",
+                  "Number of units": "2",
+                  "Charge": "$20"
+                },
+                {
+                  "Drug code": "XXXXX",
+                  "Modifier": "JW",
+                  "Number of units": "1",
+                  "Charge": "$10"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 3,
+              "page_end": 4,
+              "columns": [
+                "Drug code",
+                "Modifier",
+                "Number of units"
+              ],
+              "row_count": 2,
+              "rows": [
+                {
+                  "Drug code": "YYYYY",
+                  "Modifier": "JZ",
+                  "Number of units": "2"
+                },
+                {
+                  "Drug code": "ZZZZZ",
+                  "Modifier": "JZ",
+                  "Number of units": "2"
+                }
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "heading": "Billing When There is No Discarded Amount",
+          "level": 2,
+          "page_start": 4,
+          "page_end": 4,
+          "content": [
+            "When no amount of drug was discarded from any single-dose vial or package, Humana expects providers to report modifier JZ according to applicable CMS guidance. For dates of service beginning July 1, 2023, modifier JZ is required, in such circumstances, when reporting a drug for which modifier JW would have been required if there had been a discarded amount. For example, if: \u2022 50 milligrams are administered, \u2022 The HCPCS code defines one base unit of the code as 25 milligrams, and \u2022 Of the vials available for provider purchase, the amount that results in no discarded drug is two 25 milligram vials, Then only one line is submitted and must indicate 2 units of the HCPCS code because the 50 milligrams administered are two base units of the HCPCS code. Suppliers who dispense but do not administer drugs from single-dose vials and packages must report such drugs with modifier JZ when no amount of drug was discarded during the preparation process before supplying the drug. Humana will deny a line reported with modifier JZ when: \u2022 The billing provider submitted the line with a procedure code that is not a drug code, or \u2022 The billing provider submitted that line to report a multi-dose vial or package."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Billing Without Modifier JW or Modifier JZ",
+          "level": 2,
+          "page_start": 4,
+          "page_end": 4,
+          "content": [
+            "A charge for a drug from a single-dose vial or package that requires modifier JW or JZ , as described above, will be denied if neither is reported."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Billing With Both Modifier JW and Modifier JZ",
+          "level": 2,
+          "page_start": 4,
+          "page_end": 5,
+          "content": [
+            "As stated above, Humana also expects providers to use the combination of available single-dose vials or packages that results in the least amount of discarded drug. For example, if: \u2022 A drug is only available in single-dose 500 milligram and 100 milligram vials, \u2022 550 milligrams are administered, and \u2022 The Healthcare Common Procedure Coding System (HCPCS) code defines one base unit of the code as 10 milligrams, Then one of the 500 milligram vials and one of the 100 milligram vials should be used, resulting in a discarded amount of 50 milligrams (5 units). Each vial should be reported separately, using the appropriate National Drug Code (NDC). In such instances, report modifiers JW and JZ, as shown in the example below:"
+          ],
+          "tables": [
+            {
+              "type": "table",
+              "page_start": 5,
+              "page_end": 5,
+              "columns": [
+                "Drug code",
+                "Modifier",
+                "Number of units",
+                "NDC"
+              ],
+              "row_count": 3,
+              "rows": [
+                {
+                  "Drug code": "AAAAA",
+                  "Modifier": "\u2013",
+                  "Number of units": "5",
+                  "NDC": "BBBBBBBBBBB"
+                },
+                {
+                  "Drug code": "AAAAA",
+                  "Modifier": "JW",
+                  "Number of units": "5",
+                  "NDC": "BBBBBBBBBBB"
+                },
+                {
+                  "Drug code": "AAAAA",
+                  "Modifier": "JZ",
+                  "Number of units": "50",
+                  "NDC": "CCCCCCCCCCC"
+                }
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 5,
+      "page_end": 5,
+      "content": [
+        "\u2022 Base unit : For billing purposes, the specific amount of a drug that is defined in the unit measurement indicated in the drug code\u2019s long descriptor. Example: If the drug code\u2019s long descriptor defines the code as \u201c10 mg\u201d, one base unit for that code is 10 milligrams. \u2022 Efficient administration amount : The total amount for the vials or packages that, in combination, represent the minimum amount necessary for use, given all the vial or package sizes available for provider purchase, to administer the appropriate amount. \u2022 Modifier JW : Drug amount discarded/not administered to any patient. \u2022 Modifier JZ : Zero drug amount discarded/not administered to any patient."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 5,
+      "page_end": 5,
+      "content": [
+        "\u2022 U.S. Government Publishing Office website. Federal Register, Vol. 88, No. 220. Department of Health and Human Services. Final Rule CMS-1784-F . www.govinfo.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 17 \u2013 Drugs and Biologicals . Section 40 \u2013 Discarded Drugs and Biologicals. www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Program FAQ: Discarded Drugs and Biologicals \u2013 JW Modifier and JZ Modifier Policy . www.cms.gov. \u2022 Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services. \u2022 American Medical Association. Coding with Modifiers: A Guide to Correct CPT\u00ae and HCPCS Modifier Usage."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 5,
+      "page_end": 5,
+      "content": [
+        "\u2022 Availity \u2013 Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. \u2022 Claims processing edit notifications \u2013 Alerts of upcoming claims payment changes are posted on the first Friday of each month. \u2022 Claims resources \u2013 Providers can find information on referrals, authorizations, electronic claim submissions and more. \u2022 Making it easier \u2013 This page contains an educational series for providers and healthcare professionals. \u2022 Medical and pharmacy coverage policies \u2013 Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. \u2022 Publications \u2013 This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana\u2019s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Base unit": "For billing purposes, the specific amount of a drug that is defined in the unit measurement indicated in the drug code\u2019s long descriptor. Example: If the drug code\u2019s long descriptor defines the code as \u201c10 mg\u201d, one base unit for that code is 10 milligrams. \u2022 Efficient administration amount : The total amount for the vials or packages that, in combination, represent the minimum amount necessary for use, given all the vial or package sizes available for provider purchase, to administer the appropriate amount. \u2022 Modifier JW : Drug amount discarded/not administered to any patient. \u2022 Modifier JZ : Zero drug amount discarded/not administered to any patient."
+  },
+  "references": [
+    "U.S. Government Publishing Office website. Federal Register, Vol. 88, No. 220. Department of Health and Human Services. Final Rule CMS-1784-F . www.govinfo.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 17 \u2013 Drugs and Biologicals . Section 40 \u2013 Discarded Drugs and Biologicals. www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Program FAQ: Discarded Drugs and Biologicals \u2013 JW Modifier and JZ Modifier Policy . www.cms.gov. \u2022 Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services. \u2022 American Medical Association. Coding with Modifiers: A Guide to Correct CPT\u00ae and HCPCS Modifier Usage."
+  ],
+  "resources": [
+    "Availity \u2013 Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. \u2022 Claims processing edit notifications \u2013 Alerts of upcoming claims payment changes are posted on the first Friday of each month. \u2022 Claims resources \u2013 Providers can find information on referrals, authorizations, electronic claim submissions and more. \u2022 Making it easier \u2013 This page contains an educational series for providers and healthcare professionals. \u2022 Medical and pharmacy coverage policies \u2013 Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. \u2022 Publications \u2013 This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana\u2019s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 9,
+    "total_tables": 4,
+    "total_characters": 10271
+  },
+  "mapped_cpt_codes": [
+    {
+      "code": "L1690",
+      "code_system": "HCPCS_L2",
+      "description": "Combination, bilateral, lumbo-sacral, hip, femur orthosis providing adduction and internal rotation control, prefabricated, includes fitting and adjustment",
+      "confidence_tier": "D",
+      "score": 50.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "Q4330",
+      "code_system": "HCPCS_L2",
+      "description": "Total, per square centimeter (add-on, list separately in addition to primary procedure)",
+      "confidence_tier": "D",
+      "score": 50.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "62362",
+      "code_system": "CPT",
+      "description": "Implantation or replacement of device for intrathecal or epidural drug infusion; programmable pump, including preparation of pump, with or without programming",
+      "confidence_tier": "D",
+      "score": 48.49,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "86932",
+      "code_system": "CPT",
+      "description": "Freezing and thawing of blood unit",
+      "confidence_tier": "D",
+      "score": 48.49,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "88161",
+      "code_system": "CPT",
+      "description": "Cytopathology, smears, any other source; preparation, screening and interpretation",
+      "confidence_tier": "D",
+      "score": 48.49,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5615",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, 4 bar linkage or multiaxial, fluid swing and stance phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5710",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, single axis, manual lock",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5712",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, single axis, friction swing and stance phase control (safety knee)",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5714",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, single axis, variable friction swing phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5716",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, polycentric, mechanical stance phase lock",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5718",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, polycentric, friction swing and stance phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5722",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, single axis, pneumatic swing, friction stance phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5724",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, single axis, fluid swing phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5726",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, single axis, external joints fluid swing phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5728",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, single axis, fluid swing and stance phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5780",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, single axis, pneumatic/hydra pneumatic swing phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5785",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal system, below knee, ultra-light material (titanium, carbon fiber or equal)",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5790",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal system, above knee, ultra-light material (titanium, carbon fiber or equal)",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5795",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal system, hip disarticulation, ultra-light material (titanium, carbon fiber or equal)",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5810",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, single axis, manual lock",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5811",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, single axis, manual lock, ultra-light material",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5812",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, single axis, friction swing and stance phase control (safety knee)",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5814",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, polycentric, hydraulic swing phase control, mechanical stance phase lock",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5816",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, polycentric, mechanical stance phase lock",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5818",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, polycentric, friction swing, and stance phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5822",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, single axis, pneumatic swing, friction stance phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5824",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, single axis, fluid swing phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5826",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, single axis, hydraulic swing phase control, with miniature high activity frame",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5828",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, single axis, fluid swing and stance phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5830",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, single axis, pneumatic/ swing phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "15271",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to trunk, arms, legs, total wound surface area up to 100 sq cm; first 25 sq cm or less wound surface area",
+      "confidence_tier": "E",
+      "score": 29.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15272",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to trunk, arms, legs, total wound surface area up to 100 sq cm; each additional 25 sq cm wound surface area, or part thereof (List separately in addition to code for primary procedure)",
+      "confidence_tier": "E",
+      "score": 29.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15273",
+      "code_system": "CPT",
+      "description": "Skin substitute graft to wound 100.0 sq cm or more of trunk, arms, or legs, 100.0 sq cm or 1% body area for infants and children, or less",
+      "confidence_tier": "E",
+      "score": 29.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15274",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to trunk, arms, legs, total wound surface area greater than or equal to 100 sq cm; each additional 100 sq cm wound surface area, or part thereof, or each additional 1% of body area of infants and children, or part thereof (List separately in addition to code for primary procedure)",
+      "confidence_tier": "E",
+      "score": 29.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15275",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, hands, feet, and/or multiple digits, total wound surface area up to 100 sq cm; first 25 sq cm or less wound surface area",
+      "confidence_tier": "E",
+      "score": 29.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15276",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to wound of face, scalp, eyelids, mouth, neck, ears, around eyes, genitals, hands, feet, fingers, or toes, each additional 25.0 sq cm of wound 100.0 sq cm or less",
+      "confidence_tier": "E",
+      "score": 29.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15277",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, hands, feet, and/or multiple digits, total wound surface area greater than or equal to 100 sq cm; first 100 sq cm wound surface area, or 1% of body area of infants and children",
+      "confidence_tier": "E",
+      "score": 29.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15278",
+      "code_system": "CPT",
+      "description": "Skin substitute graft to wound 100.0 sq cm or more of face, scalp, eyelids, mouth, neck, ears, around eyes, genitals, hands, feet, fingers, or toes, each additional 100.0 sq cm or 1% body area for infants and children, or less",
+      "confidence_tier": "E",
+      "score": 29.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "C1753",
+      "code_system": "HCPCS_L2",
+      "description": "Catheter, intravascular ultrasound",
+      "confidence_tier": "E",
+      "score": 29.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "C1757",
+      "code_system": "HCPCS_L2",
+      "description": "Catheter, thrombectomy/embolectomy",
+      "confidence_tier": "E",
+      "score": 29.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "C2628",
+      "code_system": "HCPCS_L2",
+      "description": "Catheter, occlusion",
+      "confidence_tier": "E",
+      "score": 29.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "97810",
+      "code_system": "CPT",
+      "description": "Acupuncture, 1 or more needles; without electrical stimulation, initial 15 minutes of personal one-on-one contact with the patient",
+      "confidence_tier": "E",
+      "score": 29.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "97811",
+      "code_system": "CPT",
+      "description": "Acupuncture, 1 or more needles; without electrical stimulation, each additional 15 minutes of personal one-on-one contact with the patient, with insertion of needle(s) (List separately in addition to code for primary procedure)",
+      "confidence_tier": "E",
+      "score": 29.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    }
+  ]
+}

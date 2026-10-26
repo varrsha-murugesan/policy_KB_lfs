@@ -1,0 +1,107 @@
+{
+  "policy_title": "Urodynamic Testing",
+  "policy_number": "ABHIL-RP-0014",
+  "effective_date": "12/01/2020",
+  "expiry_date": "11/01/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "0811T",
+    "0812T",
+    "51725",
+    "51726",
+    "51727",
+    "51728",
+    "51729",
+    "51741",
+    "51797",
+    "51798"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for the appropriate reporting of urodynamic testing when \n• \nUrodynamic testing is reported with an ICD-10-CM diagnosis code that is indicated as \nappropriate by this policy \n \nClaims that are submitted will be denied when \n• \nUrodynamic testing is reported with an ICD-10-CM diagnosis code that is not indicated as \nappropriate by this policy \n \nThe medical record documentation is expected to support the specific CPT code(s) and ICD-10-\nCM codes reported.",
+    "subsections": [
+      {
+        "title": "Urodynamic testing is reported with an ICD-10-CM diagnosis code that is indicated as",
+        "content": "appropriate by this policy Claims that are submitted will be denied when"
+      },
+      {
+        "title": "Urodynamic testing is reported with an ICD-10-CM diagnosis code that is not indicated as",
+        "content": "appropriate by this policy The medical record documentation is expected to support the specific CPT code(s) and ICD-10- CM codes reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for the appropriate reporting of urodynamic testing when\n• Urodynamic testing is reported with an ICD-10-CM diagnosis code that is indicated as\nappropriate by this policy\nClaims that are submitted will be denied when\n• Urodynamic testing is reported with an ICD-10-CM diagnosis code that is not indicated as\nappropriate by this policy\nThe medical record documentation is expected to support the specific CPT code(s) and ICD-10-\nCM codes reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "CPT Codes\n51726 Complex cystometrogram (ie, calibrated electronic equipment);\n51727 Complex cystometrogram (ie, calibrated electronic equipment); with\nurethral pressure profile studies (ie, urethral closure pressure profile), any\ntechnique\n51728 Complex cystometrogram (ie, calibrated electronic equipment); with\nvoiding pressure studies (ie, bladder voiding pressure), any technique\n51729 Complex cystometrogram (ie, calibrated electronic equipment); with\nvoiding pressure studies (ie, bladder voiding pressure) and urethral\npressure profile studies (ie, urethral closure pressure profile), any technique\n51741 Complex uroflowmetry (eg, calibrated electronic equipment)\n51797 Voiding pressure studies, intra-abdominal (ie, rectal, gastric,\nintraperitoneal) (List separately in addition to code for primary procedure)",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "51726",
+            "value": "Complex cystometrogram (ie, calibrated electronic equipment);"
+          },
+          {
+            "key": "51727",
+            "value": "Complex cystometrogram (ie, calibrated electronic equipment); with\nurethral pressure profile studies (ie, urethral closure pressure profile), any\ntechnique"
+          },
+          {
+            "key": "51728",
+            "value": "Complex cystometrogram (ie, calibrated electronic equipment); with\nvoiding pressure studies (ie, bladder voiding pressure), any technique"
+          },
+          {
+            "key": "51729",
+            "value": "Complex cystometrogram (ie, calibrated electronic equipment); with\nvoiding pressure studies (ie, bladder voiding pressure) and urethral\npressure profile studies (ie, urethral closure pressure profile), any technique"
+          },
+          {
+            "key": "51741",
+            "value": "Complex uroflowmetry (eg, calibrated electronic equipment)"
+          },
+          {
+            "key": "51797",
+            "value": "Voiding pressure studies, intra-abdominal (ie, rectal, gastric,\nintraperitoneal) (List separately in addition to code for primary procedure)"
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. Aetna. Urinary Incontinence. Medical Clinical Policy Bulletin 0223. March 1998. Updated July \n2026. \n2. American Medical Association. CPT Professional Edition 2026, AMA; 2025. \n3. American Medical Association. ICD-10-CM 2026 the Complete Official Codebook, AMA; 2025."
+}

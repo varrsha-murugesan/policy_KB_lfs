@@ -1,0 +1,150 @@
+{
+  "policy_title": "Diabetes Mellitus Testing Policy",
+  "policy_number": "2026R8200A",
+  "policy_dates": {
+    "effective_date": "9/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy describes the reimbursement methodology for diabetes mellitus testing subject to frequency limitations."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "mixed",
+          "content": [
+            "NOTE: Procedure codes appearing in policy documents are included only as a general reference tool for each policy. They may not be all-inclusive.",
+            "UnitedHealthcare will consider reimbursement of either of the following hemoglobin A1C procedure codes for diabetes mellitus testing, once every three months, when billed for any of the conditions listed below:",
+            "Procedure Code(s)",
+            {
+              "key": "83036",
+              "value": "83037"
+            },
+            "Condition(s)",
+            "a. Type 1 Diabetes mellitus b. Type 2 Diabetes mellitus",
+            "UnitedHealthcare will consider reimbursement for the hemoglobin A1C procedure codes listed above when billed with any other condition. Frequency limitation is only applicable when the codes are billed for the conditions listed above."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Once every three months",
+          "value": "90 consecutive calendar days from the initial date of service"
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Is the once every three months limitation based on individual provider per member?",
+            "A": "The once every three months limitation is applicable regardless of billing and/or rendering provider (any individual provider OR any facility) for each individual member for the same date of service."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Does the frequency limitation apply to each procedure code individually or do both procedure codes count toward the same limit?",
+            "A": "Billing either procedure code counts toward the frequency limit."
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "Q": "Will UnitedHealthcare consider reimbursement of hemoglobin A1C procedure codes when billed with other conditions?",
+            "A": "Yes. The frequency limitation in this policy only applies when the hemoglobin A1C procedure codes are billed for type 1 or type 2 diabetes mellitus."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association (AMA) Current Procedural Terminology (CPT) Centers for Medicare and Medicaid Services: PFS Relative Value Files"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "9/1/2026",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "12/01/2025",
+          "value": "New Policy"
+        },
+        {
+          "key": "9/1/2025",
+          "value": "Policy published"
+        },
+        {
+          "key": "8/26/2025",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "83036",
+    "83037"
+  ],
+  "ICD_CODES_USED": [
+    "A1C"
+  ],
+  "modifiers_used_here": []
+}

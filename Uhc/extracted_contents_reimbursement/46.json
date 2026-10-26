@@ -1,0 +1,200 @@
+{
+  "policy_title": "Enzyme Testing for Acute Pancreatitis Policy",
+  "policy_number": "2026R8218A",
+  "policy_dates": {
+    "effective_date": "3/3/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy describes the reimbursement methodology for services associated with pancreatic enzyme testing for acute pancreatitis when billed with designated conditions. Certain services are also subject to specific procedure code limitations."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "NOTE: Procedure codes appearing in policy documents are included only as a general reference tool for each policy. They may not be all-inclusive.",
+          "children": [
+            {
+              "title": "Serum Lipase",
+              "level": 3,
+              "confirmed": true,
+              "page": 2,
+              "matched_via": "blue",
+              "type": "text",
+              "content": "UnitedHealthcare will consider reimbursement of the following serum lipase concentration procedure code for the initial determination of acute pancreatitis, no more than once per week, when billed for any of the conditions listed below: Procedure Code(s) 83690 Condition(s) a. Mild to severe epigastric pain that begins slowly or suddenly (may spread to the back in the same patients) b. Nausea c. Vomiting d. Tender to palpitation of epigastrium e. Abdominal distention f. Hypoactive bowel sounds g. Fever h. Rapid pulse i. Tachypnea j. Hypoxemia k. Hypotension l. Anorexia m. Diarrhea n. Cullen sign o. Grey Turner sign UnitedHealthcare will not consider reimbursement of the serum lipase procedure codes above for any other conditions."
+            },
+            {
+              "title": "Serum Amylase",
+              "level": 3,
+              "confirmed": true,
+              "page": 3,
+              "matched_via": "blue",
+              "type": "mixed",
+              "content": [
+                "UnitedHealthcare will not consider separate reimbursement of serum amylase when submitted in conjunction with lipase for the same date of service.",
+                "Procedure Code(s)",
+                {
+                  "key": "82150",
+                  "value": "83690"
+                }
+              ]
+            },
+            {
+              "title": "Urine Amylase",
+              "level": 3,
+              "confirmed": true,
+              "page": 3,
+              "matched_via": "blue",
+              "type": "text",
+              "content": "UnitedHealthcare will not consider reimbursement of urinary amylase concentration for the initial determination of acute pancreatitis for individuals presenting with signs and symptoms of acute pancreatitis. Procedure Code(s) 82150"
+            },
+            {
+              "title": "Serum or Urine Trypsin/Trypsinogen/TAP",
+              "level": 3,
+              "confirmed": true,
+              "page": 3,
+              "matched_via": "blue",
+              "type": "text",
+              "content": "UnitedHealthcare will not consider reimbursement of serum or urine trypsin/trypsinogen/ TAP for the assessment, prognosis, and/or determination of acute pancreatitis. Procedure Code(s) 83519"
+            },
+            {
+              "title": "Biomarker Testing",
+              "level": 3,
+              "confirmed": true,
+              "page": 3,
+              "matched_via": "blue",
+              "type": "mixed",
+              "content": [
+                "UnitedHealthcare will not consider reimbursement of the following biomarker procedure codes for the assessment, prognosis, and/or determination of acute pancreatitis.",
+                "Procedure Code(s)",
+                {
+                  "key": "83520",
+                  "value": "83529 84145 86140"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Once per week",
+          "value": "Seven consecutive calendar days from the initial date of service, excluding the same date of service."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Is the once per week limitation based on individual provider per member?",
+            "A": "The once per week limitation is applicable across all billing and/or rendering providers (including any individual provider OR any facility) for each individual member."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Is same date of service based on individual provider per member?",
+            "A": "Same date of service is applicable across all billing and/or rendering providers (including any individual provider OR any facility) for each individual member."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association (AMA) Current Procedural Terminology (CPT) Centers for Medicare and Medicaid Services: PFS Relative Value Files"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "3/3/2026",
+          "value": "Policy Version Change Q&A Section Update Definitions Section Update"
+        },
+        {
+          "key": "12/01/2025",
+          "value": "New Policy"
+        },
+        {
+          "key": "9/22/2025",
+          "value": "Policy Version Change Policy Language and Code update in Reimbursement Guidelines section"
+        },
+        {
+          "key": "9/01/2025",
+          "value": "Policy published"
+        },
+        {
+          "key": "8/26/2025",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "83690",
+    "82150",
+    "83519",
+    "83520",
+    "83529",
+    "84145",
+    "86140"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

@@ -1,0 +1,9 @@
+{
+  "payer": "UnitedHealthcare",
+  "adapter": "guidelines_document",
+  "detection_patterns": ["\\bUnited\\s?Healthcare\\b", "\\bUHC\\b"],
+  "id_fields": ["policy_number"],
+  "generic_title_patterns": ["^\\s*\\d{1,2}/\\d{1,2}/\\d{4}\\s*[\u2013-]\\s*UnitedHealthcare .*Reimbursement Policy\\s*$"],
+  "section_role_patterns": {"definition": "\\bdefinitions?\\b"},
+  "adapter_options": {"keys": {}}
+}

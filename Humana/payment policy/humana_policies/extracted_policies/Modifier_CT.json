@@ -1,0 +1,742 @@
+{
+  "policy_metadata": {
+    "policy_title": "Modifier CT",
+    "policy_number": "CP2015012",
+    "published_date": "12/2016",
+    "effective_date": "12/2016",
+    "revision_date": "05/2026",
+    "last_reviewed": "05/2026",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Professional",
+    "source_pdf": "Modifier_CT_Revised-6e55ade3.pdf",
+    "total_pages": 3,
+    "related_policies": [
+      "Common CPT and HCPCS Modifiers"
+    ]
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "0552T",
+      "0633T",
+      "0634T",
+      "0635T",
+      "0636T",
+      "0637T",
+      "0638T",
+      "21209",
+      "4181F",
+      "4182F",
+      "54600",
+      "70450",
+      "70460",
+      "70470",
+      "70480",
+      "70481",
+      "70482",
+      "70486",
+      "70487",
+      "70488",
+      "70490",
+      "70491",
+      "70492",
+      "71250",
+      "71260",
+      "71270",
+      "71271",
+      "72125",
+      "72126",
+      "72127",
+      "72130",
+      "76380",
+      "76497",
+      "77011",
+      "77012",
+      "77078",
+      "77263",
+      "77299",
+      "77306",
+      "77307",
+      "77321",
+      "77331",
+      "77332",
+      "77333",
+      "77334",
+      "77370",
+      "77399",
+      "77470",
+      "77610",
+      "77615",
+      "77620",
+      "77750",
+      "77761",
+      "77762",
+      "77763",
+      "77778",
+      "77790",
+      "77799",
+      "S8092",
+      "TC"
+    ],
+    "cpt_codes": [
+      "21209",
+      "54600",
+      "70450",
+      "70460",
+      "70470",
+      "70480",
+      "70481",
+      "70482",
+      "70486",
+      "70487",
+      "70488",
+      "70490",
+      "70491",
+      "70492",
+      "71250",
+      "71260",
+      "71270",
+      "71271",
+      "72125",
+      "72126",
+      "72127",
+      "72130",
+      "76380",
+      "76497",
+      "77011",
+      "77012",
+      "77078",
+      "77263",
+      "77299",
+      "77306",
+      "77307",
+      "77321",
+      "77331",
+      "77332",
+      "77333",
+      "77334",
+      "77370",
+      "77399",
+      "77470",
+      "77610",
+      "77615",
+      "77620",
+      "77750",
+      "77761",
+      "77762",
+      "77763",
+      "77778",
+      "77790",
+      "77799"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [
+      "TC"
+    ],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "The Centers for Medicare & Medicaid Services (CMS) has directed providers to use modifier CT to report computed tomography (CT) services furnished on equipment that is not consistent with dose optimization standards established by the National Electrical Manufacturers Association (NEMA). Enforcement of NEMA Standard XR 29-2013, also known as the MITA Smart Dose standard, for the Medicare Program is required by the Protecting Access to Medicare Act of 2014. The criteria of NEMA Standard XR 29-2013 ensure use of the lowest radiation dose necessary to get the image quality needed by providers to make a proper diagnosis. The standard outlines four attributes CT equipment should meet to ensure that a patient receives the highest standard of care as established by professional societies and regulatory agencies. Performing CT services on equipment that meets all elements of the standard helps reduce a patient\u2019s lifetime exposure to potentially cancer-causing medical radiation. Humana works to reduce our members\u2019 exposure to medical radiation. Directly and through vendor partnerships, we educate our members on the risks of medical radiation exposure and encourage our in-network providers to provide high quality advanced diagnostic services that meet a broad set of industry standards, including NEMA Standard XR 29-2013. This policy outlines Humana\u2019s billing requirements and reimbursement for services reported with modifier CT ."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana requires providers to follow the appropriate Medicare Program guidance for correct coding using modifier CT . Providers must report modifier CT with procedure codes for applicable CT services performed on equipment that does not meet all four attributes of NEMA Standard XR 29-2013. Humana reduces reimbursement for the technical component ( TC) of an applicable CT service reported with modifier CT by five percent for dates of service in 2016 and by 15 percent for dates of service beginning January 1, 2017. Note: Pre-authorization requirements may apply when applicable CT services are provided to a Humana member."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "\u2022 Applicable CT services : Computed tomography services identified by the Centers for Medicare & Medicaid Services (CMS) as subject to the modifier CT payment reduction rule. \u2022 Modifier CT : Computed tomography services furnished using equipment that does not meet each of the attributes of the National Electrical Manufacturers Association (NEMA) XR-29-2013 standard. \u2022 Technical component (TC) : The technical component of a service is for all non-physician work and includes administrative, personnel and capital (equipment and facility) costs and related malpractice expenses. Modifier TC is used with the billing code to indicate that the TC is being billed."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "\u2022 U.S. Government Publishing Office website. Protecting Access to Medicare Act of 2014, Section 218 . www.gpo.gov. \u2022 U.S. Government Publishing Office website. Federal Register, Vol. 80, No. 219. Department of Health and Human Services. Final Rule CMS-1633-FC . www.gpo.gov. \u2022 Centers for Medicare & Medicaid Services website. Transmittal 3402, Change Request 9250. Payment Reduction for Computed Tomography (CT) Diagnostic Imaging Services . www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. MLN Matters\u00ae Number: MM9250. Payment Reduction for Computed Tomography (CT) Diagnostic Imaging Services . www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Transmittal 3425, Change Request 9486. January 2016 Update of the Hospital Outpatient Prospective Payment System (OPPS) . www.cms.gov. \u2022 Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services. \u2022 Palmetto GBA website. Jurisdiction M MAC. HCPCS Modifier CT . www.palmettogba.com. \u2022 Food and Drug Administration website. Initiative to Reduce Unnecessary Radiation Exposure from Medical Imaging . www.fda.gov. \u2022 American College of Radiology website. NEMA XR-29 (MITA Smart Dose) Standard: Frequently Asked Questions . www.acr.org. \u2022 American Medical Association\u2019s CPT\u00ae and associated publications and services."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 3,
+      "content": [
+        "\u2022 Availity \u2013 Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. \u2022 Claims processing edit notifications \u2013 Alerts of upcoming claims payment changes are posted on the first Friday of each month. \u2022 Claims resources \u2013 Providers can find information on referrals, authorizations, electronic claim submissions and more. \u2022 Making it easier \u2013 This page contains an educational series for providers and healthcare professionals. \u2022 Medical and pharmacy coverage policies \u2013 Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. \u2022 Publications \u2013 This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana\u2019s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Applicable CT services": "Computed tomography services identified by the Centers for Medicare & Medicaid Services (CMS) as subject to the modifier CT payment reduction rule. \u2022 Modifier CT : Computed tomography services furnished using equipment that does not meet each of the attributes of the National Electrical Manufacturers Association (NEMA) XR-29-2013 standard. \u2022 Technical component (TC) : The technical component of a service is for all non-physician work and includes administrative, personnel and capital (equipment and facility) costs and related malpractice expenses. Modifier TC is used with the billing code to indicate that the TC is being billed."
+  },
+  "references": [
+    "U.S. Government Publishing Office website. Protecting Access to Medicare Act of 2014, Section 218 . www.gpo.gov. \u2022 U.S. Government Publishing Office website. Federal Register, Vol. 80, No. 219. Department of Health and Human Services. Final Rule CMS-1633-FC . www.gpo.gov. \u2022 Centers for Medicare & Medicaid Services website. Transmittal 3402, Change Request 9250. Payment Reduction for Computed Tomography (CT) Diagnostic Imaging Services . www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. MLN Matters\u00ae Number: MM9250. Payment Reduction for Computed Tomography (CT) Diagnostic Imaging Services . www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Transmittal 3425, Change Request 9486. January 2016 Update of the Hospital Outpatient Prospective Payment System (OPPS) . www.cms.gov. \u2022 Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services. \u2022 Palmetto GBA website. Jurisdiction M MAC. HCPCS Modifier CT . www.palmettogba.com. \u2022 Food and Drug Administration website. Initiative to Reduce Unnecessary Radiation Exposure from Medical Imaging . www.fda.gov. \u2022 American College of Radiology website. NEMA XR-29 (MITA Smart Dose) Standard: Frequently Asked Questions . www.acr.org. \u2022 American Medical Association\u2019s CPT\u00ae and associated publications and services."
+  ],
+  "resources": [
+    "Availity \u2013 Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. \u2022 Claims processing edit notifications \u2013 Alerts of upcoming claims payment changes are posted on the first Friday of each month. \u2022 Claims resources \u2013 Providers can find information on referrals, authorizations, electronic claim submissions and more. \u2022 Making it easier \u2013 This page contains an educational series for providers and healthcare professionals. \u2022 Medical and pharmacy coverage policies \u2013 Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. \u2022 Publications \u2013 This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana\u2019s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 5,
+    "total_tables": 0,
+    "total_characters": 5339
+  },
+  "mapped_cpt_codes": [
+    {
+      "code": "0633T",
+      "code_system": "CPT",
+      "description": "Computed tomography, breast, including 3D rendering, when performed, unilateral; without contrast material",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "0634T",
+      "code_system": "CPT",
+      "description": "Computed tomography, breast, including 3D rendering, when performed, unilateral; with contrast material(s)",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "0635T",
+      "code_system": "CPT",
+      "description": "Computed tomography, breast, including 3D rendering, when performed, unilateral; without contrast, followed by contrast material(s)",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "0636T",
+      "code_system": "CPT",
+      "description": "CT of both breasts with 3D rendering",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "0637T",
+      "code_system": "CPT",
+      "description": "Computed tomography, breast, including 3D rendering, when performed, bilateral; with contrast material(s)",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "0638T",
+      "code_system": "CPT",
+      "description": "Computed tomography, breast, including 3D rendering, when performed, bilateral; without contrast, followed by contrast material(s)",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "70450",
+      "code_system": "CPT",
+      "description": "CT scan head or brain without contrast",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "70460",
+      "code_system": "CPT",
+      "description": "Computed tomography, head or brain; with contrast material(s)",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "70470",
+      "code_system": "CPT",
+      "description": "CT scan of head or brain before and after contrast",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "70480",
+      "code_system": "CPT",
+      "description": "CT scan of cranial cavity without contrast",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "70481",
+      "code_system": "CPT",
+      "description": "Computed tomography, orbit, sella, or posterior fossa or outer, middle, or inner ear; with contrast material(s)",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "70482",
+      "code_system": "CPT",
+      "description": "CT scan of cranial cavity before and after contrast",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "70486",
+      "code_system": "CPT",
+      "description": "Computed tomography, maxillofacial area; without contrast material",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "70487",
+      "code_system": "CPT",
+      "description": "Computed tomography, maxillofacial area; with contrast material(s)",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "70488",
+      "code_system": "CPT",
+      "description": "CT scan of face before and after contrast",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "70490",
+      "code_system": "CPT",
+      "description": "Computed tomography, soft tissue neck; without contrast material",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "70491",
+      "code_system": "CPT",
+      "description": "Computed tomography, soft tissue neck; with contrast material(s)",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "70492",
+      "code_system": "CPT",
+      "description": "CT scan of soft tissue of neck before and after contrast",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "71250",
+      "code_system": "CPT",
+      "description": "CT scan of chest without contrast",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "71260",
+      "code_system": "CPT",
+      "description": "CT scan of chest with contrast",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "71270",
+      "code_system": "CPT",
+      "description": "Computed tomography, thorax, diagnostic; without contrast material, followed by contrast material(s) and further sections",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "71271",
+      "code_system": "CPT",
+      "description": "Computed tomography, thorax, low dose for lung cancer screening, without contrast material(s)",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "72125",
+      "code_system": "CPT",
+      "description": "CT scan of upper spine without contrast",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "72126",
+      "code_system": "CPT",
+      "description": "Computed tomography, cervical spine; with contrast material",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "72127",
+      "code_system": "CPT",
+      "description": "Computed tomography, cervical spine; without contrast material, followed by contrast material(s) and further sections",
+      "confidence_tier": "D",
+      "score": 38.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "21209",
+      "code_system": "CPT",
+      "description": "Incision and repair of bony defect of cheek bone including bony segment reduction",
+      "confidence_tier": "E",
+      "score": 24.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "54600",
+      "code_system": "CPT",
+      "description": "Repair of twisted testicle",
+      "confidence_tier": "E",
+      "score": 24.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "72130",
+      "code_system": "CPT",
+      "description": "CT scan of middle spine before and after contrast",
+      "confidence_tier": "E",
+      "score": 12.8,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "76380",
+      "code_system": "CPT",
+      "description": "Limited or follow-up CT scan",
+      "confidence_tier": "E",
+      "score": 12.8,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "76497",
+      "code_system": "CPT",
+      "description": "Unlisted computed tomography procedure (eg, diagnostic, interventional)",
+      "confidence_tier": "E",
+      "score": 12.8,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77011",
+      "code_system": "CPT",
+      "description": "CT guidance for needle or tube localization",
+      "confidence_tier": "E",
+      "score": 12.8,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77012",
+      "code_system": "CPT",
+      "description": "Review by radiologist of CT guidance for needle placement",
+      "confidence_tier": "E",
+      "score": 12.8,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77078",
+      "code_system": "CPT",
+      "description": "CT scan for measuring calcium and other minerals in bone",
+      "confidence_tier": "E",
+      "score": 12.8,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "S8092",
+      "code_system": "HCPCS_L2",
+      "description": "Electron beam computed tomography (also known as ultrafast ct, cine ct)",
+      "confidence_tier": "E",
+      "score": 12.8,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "0552T",
+      "code_system": "CPT",
+      "description": "Low-level laser therapy",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "4181F",
+      "code_system": "CPT",
+      "description": "Conformal radiation therapy received (nma-no measure associated)",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "4182F",
+      "code_system": "CPT",
+      "description": "Conformal radiation therapy not received (nma-no measure associated)",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77263",
+      "code_system": "CPT",
+      "description": "Complex radiation therapy planning",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77299",
+      "code_system": "CPT",
+      "description": "Other management of radiation therapy or therapeutic radiology",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77306",
+      "code_system": "CPT",
+      "description": "Teletherapy isodose plan; simple (1 or 2 unmodified ports directed to a single area of interest), includes basic dosimetry calculation(s)",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77307",
+      "code_system": "CPT",
+      "description": "Teletherapy isodose plan; complex (multiple treatment areas, tangential ports, the use of wedges, blocking, rotational beam, or special beam considerations), includes basic dosimetry calculation(s)",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77321",
+      "code_system": "CPT",
+      "description": "Special teletherapy port plan, particles, hemibody, total body",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77331",
+      "code_system": "CPT",
+      "description": "Special dosimetry (eg, TLD, microdosimetry) (specify), only when prescribed by the treating physician",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77332",
+      "code_system": "CPT",
+      "description": "Treatment devices, design and construction; simple (simple block, simple bolus)",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77333",
+      "code_system": "CPT",
+      "description": "Treatment devices, design and construction; intermediate (multiple blocks, stents, bite blocks, special bolus)",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77334",
+      "code_system": "CPT",
+      "description": "Design and construction of complex radiation treatment device",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77370",
+      "code_system": "CPT",
+      "description": "Special medical radiation therapy consultation",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77399",
+      "code_system": "CPT",
+      "description": "Unlisted procedure, medical radiation physics, dosimetry and treatment devices, and special services",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77470",
+      "code_system": "CPT",
+      "description": "Special treatment procedure (eg, total body irradiation, hemibody radiation, per oral or endocavitary irradiation)",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77610",
+      "code_system": "CPT",
+      "description": "Hyperthermia generated by interstitial probe(s); 5 or fewer interstitial applicators",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77615",
+      "code_system": "CPT",
+      "description": "Hyperthermia generated by interstitial probe(s); more than 5 interstitial applicators",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77620",
+      "code_system": "CPT",
+      "description": "Use of body cavity probe generated heat to increase temperature of cancer cell",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77750",
+      "code_system": "CPT",
+      "description": "Infusion or instillation of radioelement solution (includes 3-month follow-up care)",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77761",
+      "code_system": "CPT",
+      "description": "Intracavitary radiation source application; simple",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77762",
+      "code_system": "CPT",
+      "description": "Intermediate body cavity radiation source application",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77763",
+      "code_system": "CPT",
+      "description": "Intracavitary radiation source application; complex",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77778",
+      "code_system": "CPT",
+      "description": "Interstitial radiation source application, complex, includes supervision, handling, loading of radiation source, when performed",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77790",
+      "code_system": "CPT",
+      "description": "Supervision, handling, and loading of radiation source",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "77799",
+      "code_system": "CPT",
+      "description": "Unlisted procedure, clinical brachytherapy",
+      "confidence_tier": "E",
+      "score": 10.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "policy_title": "Laboratory-Pathology Policy",
+  "policy_number": "XXXX.XX",
+  "effective_date": "11/1/2023",
+  "expiry_date": null,
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "0115U",
+    "0202U",
+    "0223U",
+    "0225U",
+    "0240U",
+    "0241U",
+    "87631",
+    "87632",
+    "87633",
+    "87636",
+    "87637"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "• \nAccording to our policy, which is based on CMS Policy, vitamin D testing is covered \nwhen it is reported with a diagnosis that supports medical necessity for the \nprocedure which includes hypothyroidism; unspecified vitamin D deficiency. \n• \nAccording to our policy, which is based on the AMA CPT Manual and HCPCS Level \nII Manual, nucleic acid testing for SARS-CoV-2 should only be allowed one unit per \nday, unless reported with modifier 59 to indicate testing of separate samples \nfrom the same patient. \n \n• \nRespiratory Pathogen Panels Testing (J-5, J-8, J-15, J-E, J-F). The new policies will \ndefine guideline requirements for the following: \n\n\n \nAETNA BETTER HEALTH® of Illinois Policy \nPolicy Name: \nLaboratory-Pathology Policy \nPage: \n3 of 5 \nDepartment: \nMedical Payment Policy \nPolicy Number: XXXX.XX \nSubsection: \n \nEffective Date: \n11/1/2023 \nApplies to: \n■ Medicaid Health Plans \n \nMedical Payment Policy \n \n Revised: 08/25/2025 \n 87631, 87632, 87633, 87636, 87637, 0115U, 0202U, 0223U, \n 0225U, 0240U, or 0241U  \n \n \n According to our policy, which is based on CMS Policy, only one \n respiratory panel test is allowed to be reported for a single date of \nservice. \n \n• \nThe billed respiratory panel test will be denied when \n reported with another respiratory panel test on the same \n date of service.",
+    "subsections": [
+      {
+        "title": "According to our policy, which is based on the AMA CPT Manual and HCPCS Level",
+        "content": "II Manual, nucleic acid testing for SARS-CoV-2 should only be allowed one unit per day, unless reported with modifier 59 to indicate testing of separate samples from the same patient."
+      },
+      {
+        "title": "Respiratory Pathogen Panels Testing (J-5, J-8, J-15, J-E, J-F). The new policies will",
+        "content": "define guideline requirements for the following: AETNA BETTER HEALTH® of Illinois Policy Policy Name: Laboratory-Pathology Policy Page: 3 of 5 Department: Medical Payment Policy Policy Number: XXXX.XX Subsection: Effective Date: 11/1/2023 Applies to: ■ Medicaid Health Plans Medical Payment Policy Revised: 08/25/2025 87631, 87632, 87633, 87636, 87637, 0115U, 0202U, 0223U, 0225U, 0240U, or 0241U According to our policy, which is based on CMS Policy, only one respiratory panel test is allowed to be reported for a single date of service."
+      },
+      {
+        "title": "The billed respiratory panel test will be denied when",
+        "content": "reported with another respiratory panel test on the same date of service."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "people of all ages with End-Stage Renal Disease (permanent kidney\nfailure requiring dialysis or a kidney transplant).",
+            "value": ""
+          },
+          {
+            "key": "Laboratory-\nPathology Policy",
+            "value": "Pathology policy is a set of guidelines, that are normally established by\nrules for billing, coverage, and payment for laboratory and pathology\nservices including test performance, specimen handling, and physician\ninterpretation."
+          },
+          {
+            "key": "Laboratory-\nPathology Policy-\nVitamin D Testing",
+            "value": "Policy typically covers for specific risk factors for vitamin D testing\nthat is medically necessary for a specific condition with symptoms of\ndeficiency, or underlying diseases linked to vitamin D deficiency or\nimpaired metabolism, but routine screening in the healthy population."
+          },
+          {
+            "key": "Laboratory-\nPathology Policy-\nCOVID-19 Testing\nand Specimen\nCollection",
+            "value": "Testing and specimen collection provides specific guidlelines for\nhandling and processing SARS-CoV-2 samples,"
+          },
+          {
+            "key": "Laboratory-\nPathology Policy –\nRespiratory\nPathogen Panels\nTesting (J-5, J-8, J-\n15, J-E, J-F)",
+            "value": "Tests that are performed, covered, and billed by a laboratory or\nhealthcare system."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "According to our policy, which is based on CMS Policy, vitamin D testing is covered",
+            "value": ""
+          },
+          {
+            "key": "when it is reported with a diagnosis that supports medical necessity for the",
+            "value": ""
+          },
+          {
+            "key": "procedure which includes hypothyroidism; unspecified vitamin D deficiency.",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "• Federal and state laws, rules, and regulations concerning the practice of pharmacy, third \nparty administration, Medicaid laws, rules, and regulations \n• Applicable federal and state laws, regulations, and directives regarding the confidentiality \nof member information (e.g., Health Insurance Portability and Accountability Act \n[HIPAA])"
+}

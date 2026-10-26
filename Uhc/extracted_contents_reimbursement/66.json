@@ -1,0 +1,110 @@
+{
+  "policy_title": "Iron Homeostasis and Metabolism Policy",
+  "policy_number": "2026R8201A",
+  "policy_dates": {
+    "effective_date": "9/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy describes the reimbursement methodology for diagnostic testing associated with iron homeostasis and metabolism."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "mixed",
+          "content": [
+            "NOTE: Procedure codes appearing in policy documents are included only as a general reference tool for each policy. They may not be all-inclusive.",
+            "Diagnostic Testing UnitedHealthcare will not consider reimbursement of Serum hepcidin testing, including immunoassays and GlycA testing to monitor transferrin or other glycosylated proteins for iron homeostasis and metabolism.",
+            "Procedure Code(s)",
+            {
+              "key": "0024U",
+              "value": "0251U"
+            }
+          ],
+          "subsections": [
+            {
+              "title": "Diagnostic Testing",
+              "content": "UnitedHealthcare will not consider reimbursement of Serum hepcidin testing, including immunoassays and GlycA testing to monitor transferrin or other glycosylated proteins for iron homeostasis and metabolism.",
+              "procedure_codes": [
+                "0024U",
+                "0251U"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association (AMA) Current Procedural Terminology (CPT) Centers for Medicare and Medicaid Services: PFS Relative Value Files"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "9/1/2026",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "12/01/2025",
+          "value": "Policy Implemented by UnitedHealthcare Medicare Advantage"
+        },
+        {
+          "key": "9/1/2025",
+          "value": "Policy published"
+        },
+        {
+          "key": "8/26/2025",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "0024U",
+    "0251U"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

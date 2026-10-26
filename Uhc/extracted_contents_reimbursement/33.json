@@ -1,0 +1,221 @@
+{
+  "policy_title": "Cardiovascular Disease Risk Assessment Policy",
+  "policy_number": "2026R8214A",
+  "policy_dates": {
+    "effective_date": "9/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy applies to editing for services associated with cardiovascular disease risk assessment which are considered for reimbursement when billed with designated conditions. Certain services are also subject to specific procedure code limitations."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "NOTE: Procedure codes appearing in policy documents are included only as a general reference tool for each policy. They may not be all-inclusive.",
+          "children": [
+            {
+              "title": "Apolipoprotein B",
+              "level": 3,
+              "confirmed": true,
+              "page": 2,
+              "matched_via": "blue",
+              "type": "text",
+              "content": "UnitedHealthcare will consider reimbursement for the following apolipoprotein B (Apo B) procedure code when billed for any of the conditions listed below: Procedure Code(s) 82172 Condition(s): a. Hypertriglyceridemia b. Diabetes mellitus c. Obesity or metabolic syndrome d. Dyslipidemias (such as very low LDL-C) e. On lipid therapy f. Familial dysbetalipoproteinemia or familial combined hyperlipidemia UnitedHealthcare will not consider reimbursement of the apolipoprotein B (Apo B) procedure code above for any other conditions."
+            },
+            {
+              "title": "Lipoprotein Lp(a)",
+              "level": 3,
+              "confirmed": true,
+              "page": 2,
+              "matched_via": "blue",
+              "type": "text",
+              "content": "UnitedHealthcare will consider reimbursement of Lipoprotein Lp(a) for individuals age 19 or older, once per lifetime. Procedure Code(s) 83695 C-Reactive Protein (CRP) UnitedHealthcare will not consider reimbursement of testing for conventional C-reactive protein for cardiovascular disease risk assessment. Procedure Code(s) 86140",
+              "subsections": [
+                {
+                  "title": "C-Reactive Protein (CRP)",
+                  "content": "UnitedHealthcare will not consider reimbursement of testing for conventional C-reactive protein for cardiovascular disease risk assessment.",
+                  "procedure_codes": [
+                    "86140"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Conventional C-Reactive Protein (CRP)",
+              "level": 3,
+              "confirmed": false,
+              "type": "text",
+              "content": ""
+            },
+            {
+              "title": "Homocysteine Testing",
+              "level": 3,
+              "confirmed": true,
+              "page": 3,
+              "matched_via": "blue",
+              "type": "text",
+              "content": "UnitedHealthcare will not consider reimbursement of homocysteine testing as a screening study to evaluate cardiovascular disease risk. Procedure Code(s) 83090"
+            },
+            {
+              "title": "Biomarker Testing",
+              "level": 3,
+              "confirmed": true,
+              "page": 3,
+              "matched_via": "blue",
+              "type": "mixed",
+              "content": [
+                "UnitedHealthcare will not consider reimbursement of novel lipid and non-lipid biomarkers testing (e.g., apolipoprotein AI, apolipoprotein E, B-type natriuretic peptide, cystatin C, fibrinogen, leptin, LDL subclass, HDL subclass) for cardiovascular disease risk assessment.",
+                "Procedure Code(s)",
+                {
+                  "key": "82610",
+                  "value": "83700 83701 83704 83719 83722"
+                },
+                {
+                  "key": "83880",
+                  "value": "85384 85415 0541U"
+                }
+              ]
+            },
+            {
+              "title": "Cardiovascular Disease Panel Testing with Multiple Individual Biomarkers",
+              "level": 3,
+              "confirmed": true,
+              "page": 3,
+              "matched_via": "blue",
+              "type": "mixed",
+              "content": [
+                "UnitedHealthcare will not consider reimbursement for cardiovascular disease panel testing consisting of multiple individual biomarkers for cardiovascular disease risk assessment.",
+                "Procedure Code(s)",
+                {
+                  "key": "0052U",
+                  "value": "0308U 0309U 0415U"
+                }
+              ]
+            },
+            {
+              "title": "Serum Intermediate Density Lipoproteins",
+              "level": 3,
+              "confirmed": false,
+              "type": "text",
+              "content": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": false,
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": false,
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Attachments",
+      "level": 1,
+      "confirmed": false,
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association (AMA) Current Procedural Terminology (CPT) Centers for Medicare and Medicaid Services: PFS Relative Value Files"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "9/1/2026",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "12/01/2025",
+          "value": "New Policy"
+        },
+        {
+          "key": "9/22/2025",
+          "value": "Policy Version Change Policy Language and Code update in Reimbursement Guidelines section"
+        },
+        {
+          "key": "9/01/2025",
+          "value": "Policy published"
+        },
+        {
+          "key": "8/26/2025",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "82172",
+    "83695",
+    "86140",
+    "83090",
+    "82610",
+    "83700",
+    "83701",
+    "83704",
+    "83719",
+    "83722",
+    "83880",
+    "85384",
+    "85415",
+    "0541U",
+    "0052U",
+    "0308U",
+    "0309U",
+    "0415U"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

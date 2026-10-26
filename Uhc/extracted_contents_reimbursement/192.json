@@ -1,0 +1,135 @@
+{
+  "policy_title": "Autoimmune Rheumatic Disease Policy",
+  "policy_number": "2026R8007A",
+  "policy_dates": {
+    "effective_date": "8/26/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to services reported using the 1500 Health Insurance Claim Form (a/k/a CMS-1500), UB04 claim form or its electronic equivalent or its successor form. This policy applies to all products, all network and non-network physicians and other qualified health care professionals, outpatient facility claims, Ambulatory Surgical Centers (ASC), Outpatient Surgical Centers (OSC), including, but not limited to, non-network authorized and percent of charge contract physicians, other qualified health care professionals or facilities.",
+      "children": [
+        {
+          "title": "United Healthcare Commercial",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all UnitedHealthcare Commercial benefit plans."
+        },
+        {
+          "title": "UnitedHealthcare Individual Exchange",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all Individual Exchange benefit plans."
+        }
+      ]
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "This policy describes the reimbursement methodology for biomarker testing associated with autoimmune rheumatic disease."
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "bold",
+      "type": "mixed",
+      "content": [
+        "NOTE: Procedure codes appearing in policy documents are included only as a general reference tool for each policy. They may not be all-inclusive.",
+        "Antinuclear Antibodies and Extractable Nuclear Antigen UnitedHealthcare will not consider reimbursement of antinuclear antibodies (ANA) and extractable nuclear antigen (ENA) testing procedure codes for a general encounter without abnormal findings.",
+        "Procedure Code(s)",
+        {
+          "key": "86038",
+          "value": "86039 86235"
+        },
+        "Cell-Bound Complement Activation UnitedHealthcare will not consider reimbursement of the following procedure code for the use of cell-bound complement activation products (e.g., Avise Lupus).",
+        "Procedure Code(s) 0312U",
+        "Diagnostic Testing UnitedHealthcare will not consider reimbursement of serum biomarker panel testing with proprietary algorithms and index scores for the diagnosis of systemic lupus erythematosus or connective tissue diseases when submitted for the conditions of systemic lupus erythematosus or connective tissue disease.",
+        "Procedure Code(s)",
+        {
+          "key": "0062U",
+          "value": "0446U 0447U"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association, Current Procedural Terminology (CPT) and associated publications and services Centers for Medicare and Medicaid Services (CMS) Recovery Audit Contractors (RAC)"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "8/26/2026",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "12/1/2025",
+          "value": "Policy implemented by UnitedHealthcare Employer & Individual and Individual Family Plan (IFP) Exchange"
+        },
+        {
+          "key": "9/18/2025",
+          "value": "Policy Version Change Policy Language update in Reimbursement Guidelines section"
+        },
+        {
+          "key": "9/1/2025",
+          "value": "Policy published"
+        },
+        {
+          "key": "8/26/2025",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Commercial",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "86038",
+    "86039",
+    "86235",
+    "0312U",
+    "0062U",
+    "0446U",
+    "0447U"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

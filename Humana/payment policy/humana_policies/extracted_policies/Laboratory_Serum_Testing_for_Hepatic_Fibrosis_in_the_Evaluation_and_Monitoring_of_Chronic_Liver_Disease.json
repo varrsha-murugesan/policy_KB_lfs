@@ -1,0 +1,198 @@
+{
+  "policy_metadata": {
+    "policy_title": "Laboratory – Serum Testing for Hepatic Fibrosis in the Evaluation and Monitoring of Chronic Liver Disease",
+    "policy_number": "LAB2026002",
+    "published_date": "10/2026",
+    "effective_date": "10/2026",
+    "revision_date": null,
+    "last_reviewed": null,
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Professional",
+    "source_pdf": "Laboratory_-_Serum_Testing_for_Hepatic_Fibrosis_in_the_Evaluation_and_Monitoring-6fb3ecae.pdf",
+    "total_pages": 5,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "0002M",
+      "0003M",
+      "0166U",
+      "0344U",
+      "0468U",
+      "81517",
+      "81596"
+    ],
+    "cpt_codes": [
+      "0002M",
+      "0003M",
+      "0166U",
+      "0344U",
+      "0468U",
+      "81517",
+      "81596"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": [
+        "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. • For chronic hepatitis B, chronic hepatitis C, metabolic dysfunction-associated steatotic liver disease (MASLD) including metabolic dysfunction-associated steatohepatitis (MASH) alcoholic hepatitis, or an elevated liver stiffness measurement, the use of the following multianalyte assays with algorithmic analysis to distinguish hepatic cirrhosis from non-cirrhosis IS REIMBURSABLE no more than one test every six months: – ELF™ (CPT code 81517***) – FibroTest® (CPT code 81596*) – HCV FibroSURE® (CPT code 81596*) • For all other situations not described above, ELF™ (CPT code 81517***), FibroTest® (CPT code 81596*) and HCV FibroSURE® (CPT code 81596*) ARE NOT REIMBURSABLE . • The use of other multianalyte assays with algorithmic analysis (CPT code 0002M**, CPT code 0003M**, CPT code 0166U, CPT code 0344U**, CPT code 0468U**) IS NOT REIMBURSABLE."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Applicable procedures for Medicare Advantage plans",
+          "level": 2,
+          "page_start": 1,
+          "page_end": 2,
+          "content": [
+            "**The payment criteria for 0002M, 0003M, 0344U, 0468U applies to all Medicare jurisdictions, except those states awarded to CGS Administrators, LLC; Noridian Healthcare Solutions, LLC; Palmetto GBA; WPS Insurance Corporation. ***The payment criteria for 81517 applies to all Medicare jurisdictions, except those states awarded to CGS Administrators, LLC; Noridian Healthcare Solutions, LLC; Palmetto GBA; WPS Insurance Corporation."
+          ],
+          "tables": [
+            {
+              "type": "table",
+              "page_start": 1,
+              "page_end": 2,
+              "columns": [
+                "Procedure code",
+                "Code description"
+              ],
+              "row_count": 8,
+              "rows": [
+                {
+                  "Procedure code": "81517***",
+                  "Code description": "Liver disease, analysis of 3 biomarkers (hyaluronic acid [HA], procollagen III amino terminal peptide\n[PIIINP], tissue inhibitor of metalloproteinase 1 [TIMP-1]), using immunoassays, utilizing serum,\nprognostic algorithm reported as a risk score and risk of liver fibrosis and liver-related clinical events\nwithin 5 years"
+                },
+                {
+                  "Procedure code": "81596*",
+                  "Code description": "Infectious disease, chronic hepatitis c virus (HCV) infection, six biochemical assays (ALT, A2-\nmacroglobulin, apolipoprotein A-1, total bilirubin, GGT, and haptoglobin) utilizing serum, prognostic\nalgorithm reported as scores for fibrosis and necroinflammatory activity in liver"
+                },
+                {
+                  "Procedure code": "0002M**",
+                  "Code description": "Liver disease, ten biochemical assays (ALT, A2-macroglobulin, apolipoprotein A-1, total bilirubin, GGT,\nhaptoglobin, AST, glucose, total cholesterol and triglycerides) utilizing serum, prognostic algorithm\nreported as quantitative scores for fibrosis, steatosis and alcoholic steatohepatitis (ASH)"
+                },
+                {
+                  "Procedure code": "",
+                  "Code description": "Proprietary test: ASH FibroSURE™\nLaboratory/Manufacturer: BioPredictive S.A.S"
+                },
+                {
+                  "Procedure code": "0003M**",
+                  "Code description": "Liver disease, ten biochemical assays (ALT, A2-macroglobulin, apolipoprotein A-1, total bilirubin, GGT,\nhaptoglobin, AST, glucose, total cholesterol and triglycerides) utilizing serum, prognostic algorithm\nreported as quantitative scores for fibrosis, steatosis and nonalcoholic steatohepatitis (NASH)\nProprietary test: NASH FibroSURE™\nLaboratory/Manufacturer: BioPredictive S.A.S"
+                },
+                {
+                  "Procedure code": "0166U",
+                  "Code description": "Liver disease, 10 biochemical assays (α2-macroglobulin, haptoglobin, apolipoprotein A1, bilirubin, GGT,\nALT, AST, triglycerides, cholesterol, fasting glucose) and biometric and demographic data, utilizing serum,\nalgorithm reported as scores for fibrosis, necroinflammatory activity, and steatosis with a summary\ninterpretation\nProprietary test: LiverFASt™\nLab/Manufacturer: Fibronostics"
+                },
+                {
+                  "Procedure code": "0344U**",
+                  "Code description": "Hepatology (nonalcoholic fatty liver disease [NAFLD]), semiquantitative evaluation of 28 lipid markers by\nliquid chromatography with tandem mass spectrometry (LC-MS/MS), serum, reported as at-risk for\nnonalcoholic steatohepatitis (NASH) or not NASH\nProprietary test: OWLiver®\nLab/Manufacturer: CIMA Sciences, LLC"
+                },
+                {
+                  "Procedure code": "0468U**",
+                  "Code description": "Hepatology (nonalcoholic steatohepatitis [NASH]), miR-34a-5p, alpha 2-macroglobulin, YKL40, HbA1c,\nserum and whole blood, algorithm reported as a single score for NASH activity and fibrosis\nProprietary test: NASHnextTM (NIS4TM)\nLab/Manufacturer: Labcorp"
+                }
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Original Medicare Local Coverage Determinations (LCDs)",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 3,
+      "content": [],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 2,
+          "page_end": 3,
+          "columns": [
+            "Contractor name",
+            "Policy title",
+            "Policy number",
+            "Procedure code"
+          ],
+          "row_count": 6,
+          "rows": [
+            {
+              "Contractor name": "CGS Administrators, LLC",
+              "Policy title": "MolDX: Molecular Diagnostic\nTest (MDT)",
+              "Policy number": "L36021",
+              "Procedure code": "0002M\n0003M\n0344U\n0468U\n81517"
+            },
+            {
+              "Contractor name": "Noridian Healthcare\nSolutions, LLC",
+              "Policy title": "MolDX: Molecular Diagnostic\nTest (MDT)",
+              "Policy number": "L35160",
+              "Procedure code": "0002M\n0003M\n0344U\n0468U\n81517"
+            },
+            {
+              "Contractor name": "Noridian Healthcare\nSolutions, LLC",
+              "Policy title": "MolDX: Molecular Diagnostic\nTest (MDT)",
+              "Policy number": "L36256",
+              "Procedure code": "0002M\n0003M\n0344U"
+            },
+            {
+              "Contractor name": "Novitas Solutions, Inc",
+              "Policy title": "Biomarkers Overview",
+              "Policy number": "L35062",
+              "Procedure code": "81596"
+            },
+            {
+              "Contractor name": "Palmetto GBA",
+              "Policy title": "MolDX: Molecular Diagnostic\nTest (MDT)",
+              "Policy number": "L35025",
+              "Procedure code": "0002M\n0003M\n0344U\n0468U\n81517"
+            },
+            {
+              "Contractor name": "Wisconsin Physician Service\nInsurance Corporation",
+              "Policy title": "MolDX: Molecular Diagnostic\nTest (MDT)",
+              "Policy number": "L36807",
+              "Procedure code": "0002M\n0003M\n0344U\n0468U\n81517"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 5,
+      "content": [
+        "AAFP. Cirrhosis: Diagnosis and Management. American Family Physician . 2019. https://www.aafp.org/pubs/afp/issues/2019/1215/p759.html AASLD-IDSA. HCV Guidance: Recommendations for Testing, Managing, and Treating Hepatitis C. Updated December 19, 2023. https://www.hcvguidelines.org/sites/default/files/full-guidance-pdf/AASLD-IDSA_HCVGuidance_December_19_2023.pdf Abdel-Al A, El-Ahwany E, Zoheiry M, et al. miRNA-221 and miRNA-222 are promising biomarkers for progression of liver fibrosis in HCV Egyptian patients. Virus research . Jul 15 2018;253:135-139. doi:10.1016/j.virusres.2018.06.007 Berends MA, Snoek J, de Jong EM, et al. Biochemical and biophysical assessment of MTX-induced liver fibrosis in psoriasis patients: Fibrotest predicts the presence and Fibroscan predicts the absence of significant liver fibrosis. Liver international : official journal of the International Association for the Study of the Liver . Jun 2007;27(5):639-45. doi:10.1111/j.1478-3231.2007.01489.x BioPredictive. FibroMax. https://www.biopredictive.com/products/fibromax/ Bracht T, Molleken C, Ahrens M, et al. Evaluation of the biomarker candidate MFAP4 for non-invasive assessment of hepatic fibrosis in hepatitis C patients. Journal of translational medicine . Jul 4 2016;14(1):201. doi:10.1186/s12967-016-0952-3 Bril F, McPhaul MJ, Caulfield MP, et al. Performance of the SteatoTest, ActiTest, NashTest and FibroTest in a multiethnic cohort of patients with type 2 diabetes mellitus. J Investig Med . Feb 2019;67(2):303-311. doi:10.1136/jim-2018-000864 CDC. Clinical Screening and Diagnosis for Hepatitis C. Updated January 31, 2025. https://www.cdc.gov/hepatitis-c/hcp/diagnosis- testing/ Chalasani N, Younossi Z, Lavine JE, et al. The diagnosis and management of nonalcoholic fatty liver disease: Practice guidance from the American Association for the Study of Liver Diseases. Hepatology (Baltimore, Md) . Jan 2017;67(1):328-357. doi:10.1002/hep.29367 Chin JL, Pavlides M, Moolla A, Ryan JD. Non-invasive Markers of Liver Fibrosis: Adjuncts or Alternatives to Liver Biopsy? Frontiers in pharmacology . 2016;7:159. doi:10.3389/fphar.2016.00159 Chow KW, Futela P, Saharan A, Saab S. Comparison of Guidelines for the Screening, Diagnosis, and Noninvasive Assessment of Nonalcoholic Fatty Liver Disease. J Clin Exp Hepatol . Sep-Oct 2023;13(5):783-793. doi:10.1016/j.jceh.2023.01.016 CIMA Sciences. OWLiver: Test for Fatty Liver Disease. https://cimasciences.com/owliver/ Curry M, Afdhal N. Noninvasive assessment of hepatic fibrosis: Overview of serologic and radiographic tests. Updated March 13,",
+        "2025. https://www.uptodate.com/contents/noninvasive-assessment-of-hepatic-fibrosis-overview-of-serologic-tests-and- imaging-examinations Cusi K, Chang Z, Harrison S, et al. Limited value of plasma cytokeratin-18 as a biomarker for NASH and fibrosis in patients with non- alcoholic fatty liver disease. Journal of hepatology . Jan 2014;60(1):167-74. doi:10.1016/j.jhep.2013.07.042 Dong H, Xu C, Zhou W, et al. The combination of 5 serum markers compared to FibroScan to predict significant liver fibrosis in patients with chronic hepatitis B virus. Clinica chimica acta; international journal of clinical chemistry . Aug 2018;483:145-150. doi:10.1016/j.cca.2018.04.036 EASL, ALEH. EASL-ALEH Clinical Practice Guidelines: Non-invasive tests for evaluation of liver disease severity and prognosis. Journal of hepatology . Jul 2015;63(1):237-64. doi:10.1016/j.jhep.2015.04.006 EASL, EASD, EASO. EASL-EASD-EASO Clinical Practice Guidelines for the management of non-alcoholic fatty liver disease. Journal of hepatology . Jun 2016;64(6):1388-402. doi:10.1016/j.jhep.2015.11.004 EASL. EASL 2017 Clinical Practice Guidelines on the management of hepatitis B virus infection. 2017. https://easl.eu/wp- content/uploads/2018/10/HepB-English-report.pdf EASL. EASL Clinical Practice Guidelines on non-invasive tests for evaluation of liver disease severity and prognosis – 2020 update.",
+        "2020. https://www.echosens.com/wp-content/uploads/2021/07/EASL-CPG-NITs-2021_Supplementary-1.pdf EASL. EASL Clinical Practice Guidelines on non-invasive tests for evaluation of liver disease severity and prognosis - 2021 update. Journal of hepatology . Sep 2021;75(3):659-689. doi:10.1016/j.jhep.2021.05.025 EASL. EASL recommendations on treatment of hepatitis C: Final update of the series. 2020. https://easl.eu/wp- content/uploads/2020/10/EASL-recommendations-on-treatment-of-hepatitis-C.pdf EASL. Multinational liver societies announce new “Fatty” liver disease nomenclature that is affirmative and non-stigmatising. https://easl.eu/news/new_fatty_liver_disease_nomenclature-2/ Fibronsotics. LIVERFAst. https://www.fibronostics.com/liverfast/ Fouad A, Sabry D, Ahmed R, et al. Comparative diagnostic study of biomarkers using FibroMax™ and pathology for prediction of liver steatosis in patients with chronic hepatitis C virus infection: an Egyptian study. Int J Gen Med . 2013;6:127-34. doi:10.2147/ijgm.s36433 Friedman SL. Pathogenesis of hepatic fibrosis. Updated April 2, 2025. https://www.uptodate.com/contents/pathogenesis-of- hepatic-fibrosis Gao Y, Zheng J, Liang P, et al. Liver Fibrosis with Two-dimensional US Shear-Wave Elastography in Participants with Chronic Hepatitis B: A Prospective Multicenter Study. Radiology . Jul 24 2018:172479. doi:10.1148/radiol.2018172479 Huang H, Wu T, Mao J, et al. CHI3L1 Is a Liver-Enriched, Noninvasive Biomarker That Can Be Used to Stage and Diagnose Substantial Hepatic Fibrosis. Omics : a journal of integrative biology . Jun 2015;19(6):339-45. doi:10.1089/omi.2015.0037 Itoh Y, Seko Y, Shima T, et al. The accuracy of noninvasive scoring systems for diagnosing nonalcoholic steatohepatitis-related fibrosis: multi-center validation study. Hepatol Res . Jul 4 2018;doi:10.1111/hepr.13226 Kar S, Paglialunga S, Jaycox SH, Islam R, Paredes AH. Assay validation and clinical performance of chronic inflammatory and chemokine biomarkers of NASH fibrosis. PloS one . 2019;14(7):e0217263. doi:10.1371/journal.pone.0217263 Kaswala DH, Lai M, Afdhal NH. Fibrosis Assessment in Nonalcoholic Fatty Liver Disease (NAFLD) in 2016. Digestive diseases and sciences . May 2016;61(5):1356-64. doi:10.1007/s10620-016-4079-4 Kim SS, Nam JS, Cho HJ, et al. Plasma micoRNA-122 as a predictive marker for treatment response following transarterial chemoembolization in patients with hepatocellular carcinoma. Journal of gastroenterology and hepatology . Jan 2017;32(1):199-",
+        "207. doi:10.1111/jgh.13448 Kwok R, Tse YK, Wong GL, et al. Systematic review with meta-analysis: non-invasive assessment of non-alcoholic fatty liver disease-- the role of transient elastography and plasma cytokeratin-18 fragments. Alimentary pharmacology & therapeutics . Feb 2014;39(3):254-69. doi:10.1111/apt.12569 Lim JK, Flamm SL, Singh S, Falck-Ytter YT. American Gastroenterological Association Institute Guideline on the Role of Elastography in the Evaluation of Liver Fibrosis. Gastroenterology . May 2017;152(6):1536-1543. doi:10.1053/j.gastro.2017.03.017 NICE. Non-alcoholic fatty liver disease (NAFLD): assessment and management. Updated July 6, 2016. https://www.nice.org.uk/guidance/NG49/chapter/Recommendations#assessment-for-advanced-liver-fibrosis Parikh P, Ryan JD, Tsochatzis EA. Fibrosis assessment in patients with chronic hepatitis B virus (HBV) infection. Annals of translational medicine . Feb 2017;5(3):40. doi:10.21037/atm.2017.01.28 Patel YA, Gifford EJ, Glass LM, et al. Identifying Nonalcoholic Fatty Liver Disease Advanced Fibrosis in the Veterans Health Administration. Digestive diseases and sciences . May 19 2018;doi:10.1007/s10620-018-5123-3 Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al. AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease. Hepatology (Baltimore, Md) . May 1 2023;77(5):1797-1835. doi:10.1097/hep.0000000000000323 Sarkar M, Brady CW, Fleckenstein J, et al. Reproductive Health and Liver Disease: Practice Guidance by the American Association for the Study of Liver Diseases. Hepatology (Baltimore, Md) . Jan 2021;73(1):318-365. doi:10.1002/hep.31559 Srivastava A, Jong S, Gola A, et al. Cost-comparison analysis of FIB-4, ELF and fibroscan in community pathways for non-alcoholic fatty liver disease. BMC gastroenterology . Jul 11 2019;19(1):122. doi:10.1186/s12876-019-1039-4 Suehiro T, Miyaaki H, Kanda Y, et al. Serum exosomal microRNA-122 and microRNA-21 as predictive biomarkers in transarterial chemoembolization-treated hepatocellular carcinoma patients. Oncology letters . Sep 2018;16(3):3267-3273. doi:10.3892/ol.2018.8991 Tendler D. Pathogenesis of nonalcoholic fatty liver disease. Updated August 13, 2024. https://www.uptodate.com/contents/pathogenesis-of-nonalcoholic-fatty-liver-disease Terrault NA, Lok ASF, McMahon BJ, et al. Update on prevention, diagnosis, and treatment of chronic hepatitis B: AASLD 2018 hepatitis B guidance. Hepatology (Baltimore, Md) . Apr 2018;67(4):1560-1599. doi:10.1002/hep.29800 USPSTF. Hepatitis C Virus Infection in Adolescents and Adults: Screening. Updated March 2, 2020. https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hepatitis-c-screening Vali Y, Lee J, Boursier J, et al. Biomarkers for staging fibrosis and non-alcoholic steatohepatitis in non-alcoholic fatty liver disease (the LITMUS project): a comparative diagnostic accuracy study. Lancet Gastroenterol Hepatol . Aug 2023;8(8):714-725. doi:10.1016/s2468-1253(23)00017-1 Vali Y, Lee J, Boursier J, et al. FibroTest for Evaluating Fibrosis in Non-Alcoholic Fatty Liver Disease Patients: A Systematic Review and Meta-Analysis. J Clin Med . 2021;10(11):2415. doi:10.3390/jcm10112415 Valva P, Rios DA, De Matteo E, Preciado MV. Chronic hepatitis C virus infection: Serum biomarkers in predicting liver damage. World journal of gastroenterology . Jan 28 2016;22(4):1367-81. doi:10.3748/wjg.v22.i4.1367 Wang L, Liu T, Zhou J, You H, Jia J. Changes in serum chitinase 3-like 1 levels correlate with changes in liver fibrosis measured by two established quantitative methods in chronic hepatitis B patients following antiviral therapy. Hepatol Res . Feb 2018;48(3):E283-",
+        "e290. doi:10.1111/hepr.12982 Wattacheril JJ, Abdelmalek MF, Lim JK, Sanyal AJ. AGA Clinical Practice Update on the Role of Noninvasive Biomarkers in the Evaluation and Management of Nonalcoholic Fatty Liver Disease: Expert Review. Gastroenterology . Oct 2023;165(4):1080-1088. doi:10.1053/j.gastro.2023.06.013 Weis A, Marquart L, Calvopina DA, Genz B, Ramm GA, Skoien R. Serum MicroRNAs as Biomarkers in Hepatitis C: Preliminary Evidence of a MicroRNA Panel for the Diagnosis of Hepatocellular Carcinoma. International journal of molecular sciences . Feb 17 2019;20(4)doi:10.3390/ijms20040864 WHO. Guidelines for the care and treatment of persons diagnosed with chronic hepatitis C virus infection https://apps.who.int/iris/bitstream/handle/10665/273174/9789241550345-eng.pdf WHO. Guidelines for the Prevention, Care and Treatment of Persons with Chronic Hepatitis B Infection https://apps.who.int/iris/bitstream/handle/10665/154590/9789241549059_eng.pdf WHO. Guidelines for the prevention, diagnosis, care and treatment for people with chronic hepatitis B infection https://iris.who.int/bitstream/handle/10665/376353/9789240090903-eng.pdf"
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": null,
+  "references": [
+    "AAFP. Cirrhosis: Diagnosis and Management. American Family Physician . 2019. https://www.aafp.org/pubs/afp/issues/2019/1215/p759.html AASLD-IDSA. HCV Guidance: Recommendations for Testing, Managing, and Treating Hepatitis C. Updated December 19, 2023. https://www.hcvguidelines.org/sites/default/files/full-guidance-pdf/AASLD-IDSA_HCVGuidance_December_19_2023.pdf Abdel-Al A, El-Ahwany E, Zoheiry M, et al. miRNA-221 and miRNA-222 are promising biomarkers for progression of liver fibrosis in HCV Egyptian patients. Virus research . Jul 15 2018;253:135-139. doi:10.1016/j.virusres.2018.06.007 Berends MA, Snoek J, de Jong EM, et al. Biochemical and biophysical assessment of MTX-induced liver fibrosis in psoriasis patients: Fibrotest predicts the presence and Fibroscan predicts the absence of significant liver fibrosis. Liver international : official journal of the International Association for the Study of the Liver . Jun 2007;27(5):639-45. doi:10.1111/j.1478-3231.2007.01489.x BioPredictive. FibroMax. https://www.biopredictive.com/products/fibromax/ Bracht T, Molleken C, Ahrens M, et al. Evaluation of the biomarker candidate MFAP4 for non-invasive assessment of hepatic fibrosis in hepatitis C patients. Journal of translational medicine . Jul 4 2016;14(1):201. doi:10.1186/s12967-016-0952-3 Bril F, McPhaul MJ, Caulfield MP, et al. Performance of the SteatoTest, ActiTest, NashTest and FibroTest in a multiethnic cohort of patients with type 2 diabetes mellitus. J Investig Med . Feb 2019;67(2):303-311. doi:10.1136/jim-2018-000864 CDC. Clinical Screening and Diagnosis for Hepatitis C. Updated January 31, 2025. https://www.cdc.gov/hepatitis-c/hcp/diagnosis- testing/ Chalasani N, Younossi Z, Lavine JE, et al. The diagnosis and management of nonalcoholic fatty liver disease: Practice guidance from the American Association for the Study of Liver Diseases. Hepatology (Baltimore, Md) . Jan 2017;67(1):328-357. doi:10.1002/hep.29367 Chin JL, Pavlides M, Moolla A, Ryan JD. Non-invasive Markers of Liver Fibrosis: Adjuncts or Alternatives to Liver Biopsy? Frontiers in pharmacology . 2016;7:159. doi:10.3389/fphar.2016.00159 Chow KW, Futela P, Saharan A, Saab S. Comparison of Guidelines for the Screening, Diagnosis, and Noninvasive Assessment of Nonalcoholic Fatty Liver Disease. J Clin Exp Hepatol . Sep-Oct 2023;13(5):783-793. doi:10.1016/j.jceh.2023.01.016 CIMA Sciences. OWLiver: Test for Fatty Liver Disease. https://cimasciences.com/owliver/ Curry M, Afdhal N. Noninvasive assessment of hepatic fibrosis: Overview of serologic and radiographic tests. Updated March 13,",
+    "2025. https://www.uptodate.com/contents/noninvasive-assessment-of-hepatic-fibrosis-overview-of-serologic-tests-and- imaging-examinations Cusi K, Chang Z, Harrison S, et al. Limited value of plasma cytokeratin-18 as a biomarker for NASH and fibrosis in patients with non- alcoholic fatty liver disease. Journal of hepatology . Jan 2014;60(1):167-74. doi:10.1016/j.jhep.2013.07.042 Dong H, Xu C, Zhou W, et al. The combination of 5 serum markers compared to FibroScan to predict significant liver fibrosis in patients with chronic hepatitis B virus. Clinica chimica acta; international journal of clinical chemistry . Aug 2018;483:145-150. doi:10.1016/j.cca.2018.04.036 EASL, ALEH. EASL-ALEH Clinical Practice Guidelines: Non-invasive tests for evaluation of liver disease severity and prognosis. Journal of hepatology . Jul 2015;63(1):237-64. doi:10.1016/j.jhep.2015.04.006 EASL, EASD, EASO. EASL-EASD-EASO Clinical Practice Guidelines for the management of non-alcoholic fatty liver disease. Journal of hepatology . Jun 2016;64(6):1388-402. doi:10.1016/j.jhep.2015.11.004 EASL. EASL 2017 Clinical Practice Guidelines on the management of hepatitis B virus infection. 2017. https://easl.eu/wp- content/uploads/2018/10/HepB-English-report.pdf EASL. EASL Clinical Practice Guidelines on non-invasive tests for evaluation of liver disease severity and prognosis – 2020 update.",
+    "2020. https://www.echosens.com/wp-content/uploads/2021/07/EASL-CPG-NITs-2021_Supplementary-1.pdf EASL. EASL Clinical Practice Guidelines on non-invasive tests for evaluation of liver disease severity and prognosis - 2021 update. Journal of hepatology . Sep 2021;75(3):659-689. doi:10.1016/j.jhep.2021.05.025 EASL. EASL recommendations on treatment of hepatitis C: Final update of the series. 2020. https://easl.eu/wp- content/uploads/2020/10/EASL-recommendations-on-treatment-of-hepatitis-C.pdf EASL. Multinational liver societies announce new “Fatty” liver disease nomenclature that is affirmative and non-stigmatising. https://easl.eu/news/new_fatty_liver_disease_nomenclature-2/ Fibronsotics. LIVERFAst. https://www.fibronostics.com/liverfast/ Fouad A, Sabry D, Ahmed R, et al. Comparative diagnostic study of biomarkers using FibroMax™ and pathology for prediction of liver steatosis in patients with chronic hepatitis C virus infection: an Egyptian study. Int J Gen Med . 2013;6:127-34. doi:10.2147/ijgm.s36433 Friedman SL. Pathogenesis of hepatic fibrosis. Updated April 2, 2025. https://www.uptodate.com/contents/pathogenesis-of- hepatic-fibrosis Gao Y, Zheng J, Liang P, et al. Liver Fibrosis with Two-dimensional US Shear-Wave Elastography in Participants with Chronic Hepatitis B: A Prospective Multicenter Study. Radiology . Jul 24 2018:172479. doi:10.1148/radiol.2018172479 Huang H, Wu T, Mao J, et al. CHI3L1 Is a Liver-Enriched, Noninvasive Biomarker That Can Be Used to Stage and Diagnose Substantial Hepatic Fibrosis. Omics : a journal of integrative biology . Jun 2015;19(6):339-45. doi:10.1089/omi.2015.0037 Itoh Y, Seko Y, Shima T, et al. The accuracy of noninvasive scoring systems for diagnosing nonalcoholic steatohepatitis-related fibrosis: multi-center validation study. Hepatol Res . Jul 4 2018;doi:10.1111/hepr.13226 Kar S, Paglialunga S, Jaycox SH, Islam R, Paredes AH. Assay validation and clinical performance of chronic inflammatory and chemokine biomarkers of NASH fibrosis. PloS one . 2019;14(7):e0217263. doi:10.1371/journal.pone.0217263 Kaswala DH, Lai M, Afdhal NH. Fibrosis Assessment in Nonalcoholic Fatty Liver Disease (NAFLD) in 2016. Digestive diseases and sciences . May 2016;61(5):1356-64. doi:10.1007/s10620-016-4079-4 Kim SS, Nam JS, Cho HJ, et al. Plasma micoRNA-122 as a predictive marker for treatment response following transarterial chemoembolization in patients with hepatocellular carcinoma. Journal of gastroenterology and hepatology . Jan 2017;32(1):199-",
+    "207. doi:10.1111/jgh.13448 Kwok R, Tse YK, Wong GL, et al. Systematic review with meta-analysis: non-invasive assessment of non-alcoholic fatty liver disease-- the role of transient elastography and plasma cytokeratin-18 fragments. Alimentary pharmacology & therapeutics . Feb 2014;39(3):254-69. doi:10.1111/apt.12569 Lim JK, Flamm SL, Singh S, Falck-Ytter YT. American Gastroenterological Association Institute Guideline on the Role of Elastography in the Evaluation of Liver Fibrosis. Gastroenterology . May 2017;152(6):1536-1543. doi:10.1053/j.gastro.2017.03.017 NICE. Non-alcoholic fatty liver disease (NAFLD): assessment and management. Updated July 6, 2016. https://www.nice.org.uk/guidance/NG49/chapter/Recommendations#assessment-for-advanced-liver-fibrosis Parikh P, Ryan JD, Tsochatzis EA. Fibrosis assessment in patients with chronic hepatitis B virus (HBV) infection. Annals of translational medicine . Feb 2017;5(3):40. doi:10.21037/atm.2017.01.28 Patel YA, Gifford EJ, Glass LM, et al. Identifying Nonalcoholic Fatty Liver Disease Advanced Fibrosis in the Veterans Health Administration. Digestive diseases and sciences . May 19 2018;doi:10.1007/s10620-018-5123-3 Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al. AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease. Hepatology (Baltimore, Md) . May 1 2023;77(5):1797-1835. doi:10.1097/hep.0000000000000323 Sarkar M, Brady CW, Fleckenstein J, et al. Reproductive Health and Liver Disease: Practice Guidance by the American Association for the Study of Liver Diseases. Hepatology (Baltimore, Md) . Jan 2021;73(1):318-365. doi:10.1002/hep.31559 Srivastava A, Jong S, Gola A, et al. Cost-comparison analysis of FIB-4, ELF and fibroscan in community pathways for non-alcoholic fatty liver disease. BMC gastroenterology . Jul 11 2019;19(1):122. doi:10.1186/s12876-019-1039-4 Suehiro T, Miyaaki H, Kanda Y, et al. Serum exosomal microRNA-122 and microRNA-21 as predictive biomarkers in transarterial chemoembolization-treated hepatocellular carcinoma patients. Oncology letters . Sep 2018;16(3):3267-3273. doi:10.3892/ol.2018.8991 Tendler D. Pathogenesis of nonalcoholic fatty liver disease. Updated August 13, 2024. https://www.uptodate.com/contents/pathogenesis-of-nonalcoholic-fatty-liver-disease Terrault NA, Lok ASF, McMahon BJ, et al. Update on prevention, diagnosis, and treatment of chronic hepatitis B: AASLD 2018 hepatitis B guidance. Hepatology (Baltimore, Md) . Apr 2018;67(4):1560-1599. doi:10.1002/hep.29800 USPSTF. Hepatitis C Virus Infection in Adolescents and Adults: Screening. Updated March 2, 2020. https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hepatitis-c-screening Vali Y, Lee J, Boursier J, et al. Biomarkers for staging fibrosis and non-alcoholic steatohepatitis in non-alcoholic fatty liver disease (the LITMUS project): a comparative diagnostic accuracy study. Lancet Gastroenterol Hepatol . Aug 2023;8(8):714-725. doi:10.1016/s2468-1253(23)00017-1 Vali Y, Lee J, Boursier J, et al. FibroTest for Evaluating Fibrosis in Non-Alcoholic Fatty Liver Disease Patients: A Systematic Review and Meta-Analysis. J Clin Med . 2021;10(11):2415. doi:10.3390/jcm10112415 Valva P, Rios DA, De Matteo E, Preciado MV. Chronic hepatitis C virus infection: Serum biomarkers in predicting liver damage. World journal of gastroenterology . Jan 28 2016;22(4):1367-81. doi:10.3748/wjg.v22.i4.1367 Wang L, Liu T, Zhou J, You H, Jia J. Changes in serum chitinase 3-like 1 levels correlate with changes in liver fibrosis measured by two established quantitative methods in chronic hepatitis B patients following antiviral therapy. Hepatol Res . Feb 2018;48(3):E283-",
+    "e290. doi:10.1111/hepr.12982 Wattacheril JJ, Abdelmalek MF, Lim JK, Sanyal AJ. AGA Clinical Practice Update on the Role of Noninvasive Biomarkers in the Evaluation and Management of Nonalcoholic Fatty Liver Disease: Expert Review. Gastroenterology . Oct 2023;165(4):1080-1088. doi:10.1053/j.gastro.2023.06.013 Weis A, Marquart L, Calvopina DA, Genz B, Ramm GA, Skoien R. Serum MicroRNAs as Biomarkers in Hepatitis C: Preliminary Evidence of a MicroRNA Panel for the Diagnosis of Hepatocellular Carcinoma. International journal of molecular sciences . Feb 17 2019;20(4)doi:10.3390/ijms20040864 WHO. Guidelines for the care and treatment of persons diagnosed with chronic hepatitis C virus infection https://apps.who.int/iris/bitstream/handle/10665/273174/9789241550345-eng.pdf WHO. Guidelines for the Prevention, Care and Treatment of Persons with Chronic Hepatitis B Infection https://apps.who.int/iris/bitstream/handle/10665/154590/9789241549059_eng.pdf WHO. Guidelines for the prevention, diagnosis, care and treatment for people with chronic hepatitis B infection https://iris.who.int/bitstream/handle/10665/376353/9789240090903-eng.pdf"
+  ],
+  "resources": null,
+  "_extraction_stats": {
+    "total_sections": 4,
+    "total_tables": 2,
+    "total_characters": 13207
+  }
+}

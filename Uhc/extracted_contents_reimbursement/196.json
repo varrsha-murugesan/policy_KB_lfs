@@ -1,0 +1,197 @@
+{
+  "policy_title": "Care Plan Oversight Policy",
+  "policy_number": "2026R0033A",
+  "policy_dates": {
+    "effective_date": "6/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to services reported using the 1500 Health Insurance Claim Form (a/k/a CMS-1500) or its electronic equivalent or its successor form. This policy applies to all products and all network and non-network physicians and other qualified health care professionals, including, but not limited to, non-network authorized and percent of charge contract physicians and other qualified health care professionals.",
+      "children": [
+        {
+          "title": "United Healthcare Commercial",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all UnitedHealthcare Commercial benefit plans."
+        },
+        {
+          "title": "UnitedHealthcare Individual Exchange",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all Individual Exchange benefit plans."
+        }
+      ]
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "Care Plan Oversight (CPO) Services refer to physician and other qualified health care professional supervision of patients under the care of home health agencies, hospice, or nursing facilities. Care Plan Oversight services are reported separately from codes for office/outpatient, hospital, home, nursing facility, or domiciliary services. Code selection for Care Plan Oversight Services is determined by the complexity and approximate time spent by the physician or other qualified health care professional within a 30-day period.",
+      "children": [
+        {
+          "title": "UnitedHealthcare Commercial and Individual Exchange",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": ""
+        },
+        {
+          "title": "Reimbursement Policy",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "UnitedHealthcare considers Care Plan Oversight Services to be reimbursable services when submitted with the following codes only:",
+      "children": [
+        {
+          "title": "Care Plan Oversight Eligible List",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "mixed",
+          "content": [
+            {
+              "key": "94005",
+              "value": "99375 99378 99380 G0086 G0087"
+            },
+            {
+              "key": "G0179",
+              "value": "G0180 G0181 G0182 G2014 G2015"
+            },
+            "CPO services are reimbursed for 30 minutes or more per Centers for Medicare & Medicaid Services (CMS) guidelines. The following codes are not reimbursable for Care Plan Oversight Services:"
+          ]
+        },
+        {
+          "title": "Care Plan Oversight Non-Eligible List",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "mixed",
+          "content": [
+            {
+              "key": "99374",
+              "value": "99377 99379 S0220 S0221 S0250 S0270 S0271 S0272"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Does UnitedHealthcare reimburse Care Plan Oversight Services codes for less than 30 minutes?",
+            "A": "UnitedHealthcare follows CMS payment methodology for reimbursement of Care Plan Oversight Services. According to the CMS Medicare Benefit Policy Manual, Covered Medical and Other Health Services, Chapter 15, Section 30, these services are covered only if the physician furnished at least 30 minutes of Care Plan Oversight within the calendar month for which payment is claimed."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association, Current Procedural Terminology (CPT) and associated publications and services Centers for Medicare and Medicaid Services, CMS Manual System and other CMS publications and services Centers for Medicare and Medicaid Services, Healthcare Common Procedure Coding System, HCPCS Release and Code Sets"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "6/1/2026",
+          "value": "Anniversary review and version change History Section: Entries prior to 6/1/2024 archived"
+        },
+        {
+          "key": "6/2/2025",
+          "value": "Anniversary review and version change History Section: Entries prior to 6/2/2023 archived"
+        },
+        {
+          "key": "9/1/1997",
+          "value": "Policy implemented by UnitedHealthcare Employer & Individual"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Commercial",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "94005",
+    "99375",
+    "99378",
+    "99380",
+    "G0086",
+    "G0087",
+    "G0179",
+    "G0180",
+    "G0181",
+    "G0182",
+    "G2014",
+    "G2015",
+    "99374",
+    "99377",
+    "99379",
+    "S0220",
+    "S0221",
+    "S0250",
+    "S0270",
+    "S0271",
+    "S0272"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

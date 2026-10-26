@@ -1,0 +1,152 @@
+{
+  "policy_title": "Drug Testing Policy",
+  "policy_number": "2025R6005A",
+  "policy_dates": {
+    "effective_date": "5/1/2025",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "This policy defines the daily limit for presumptive and definitive drug testing and addresses Specimen Validity Testing. All services described in this policy may be subject to additional UnitedHealthcare Medicare Advantage reimbursement policies including, but not limited to, the Maximum Frequency Per Day Policy, Laboratory Services Policy, and CCI Editing Policy."
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "This policy enforces the code description for presumptive and definitive drug testing in that the service should be reported once per day and it includes specimen validity testing. Clinical drug testing is used in pain management and in substance abuse screening and treatment programs. The testing may be used to detect prescribed, therapeutic drugs, prescription drugs of abuse, illicit drugs, and/or other substances such as nicotine. Presumptive drug testing, also known as drug screening, is used when necessary to determine the presence or absence of drugs or a Drug Class. Results are expressed as negative or positive. The methodology is considered when coding presumptive procedures. Per CPT guidelines each presumptive drug testing code represents all drug and Drug Class tests performed by the respective methodology per date of service. The test is a single per patient service that should only be reported once irrespective of the number of Drug Class procedures or results on any date of service. Definitive drug testing, also known as confirmation testing, is used when it is necessary to identify specific medications, illicit substances and metabolites. Definitive urine drug test (UDT) reports the results of drugs absent or present in concentrations of ng/ml. Definitive drug testing is qualitative or quantitative to identify possible use or non-use of a drug. These tests identify specific drugs and associated metabolites. A presumptive drug test is not required to be provided prior to a definitive drug test. Consistent with CMS, definitive drug testing CPT codes 80320-80377 are considered non- reimbursable and the appropriate HCPCS G0480-G0483 or G0659 should be reported. The HCPCS codes describe a per day service that represents the total number of different Drug Classes performed. When applicable, Proprietary Laboratory Analysis CPT codes may be reported and are considered under the policy guidelines pertaining to definitive drug testing. Some examples of drugs or a Drug Class that are commonly assayed by presumptive tests, followed by definitive testing are: alcohols, amphetamines, barbiturates/sedatives, benzodiazepines, cocaine and metabolites, methadone, antihistamines, stimulants, opioid analgesics, salicylates, cardiovascular drugs, antipsychotics, and cyclic antidepressants. In accordance with the code descriptions and the CPT and CMS guidelines, will only allow one drug test within the presumptive Drug Class and one drug test within the definitive Drug Class per date of service by the same or different provider. Specimen Validity Testing to assure that a specimen has not been compromised or that a test has not been adulterated may be required. However, Specimen Validity Testing is included in the presumptive and definitive drug testing CPT and HCPCS code descriptions and is considered a quality control which is an integral part of the collection process and is not separately reimbursable. UnitedHealthcare Medicare Advantage will deny Specimen Validity Testing when performed on the same date of service as a presumptive and/or definitive drug test by the same or different provider. A modifier may be appropriate when a service commonly used for Specimen Validity Testing is performed distinctly separate from the drug test service and the documentation supports the service was not related to the drug testing."
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Drug Class",
+          "value": "A group of drugs that have the same chemical structure, work in the same way and/or are used for the same purpose."
+        },
+        {
+          "key": "Proprietary Laboratory Analysis",
+          "value": "Describe proprietary clinical laboratory analysis and can be provided either by a single (\"sole-source\") laboratory or licensed or marketed to multiple providing laboratories (eg, cleared or approved by the Food and Drug Administration [FDA]). These codes include advanced diagnostic laboratory tests (ADLTs) and clinical diagnostic laboratory tests (CDLTs) as defined under the Protecting Access to Medicare Act (PAMA) of 2014."
+        },
+        {
+          "key": "Specimen Validity Testing",
+          "value": "Generally pertains to urine specimen testing to ensure that the sample has not been adulterated or substituted. It may be applicable to other types of specimens."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Will UnitedHealthcare Medicare Advantage reimburse more than one presumptive and/or one definitive drug test on the same date of service if a modifier is appended?",
+            "A": "No, each of the presumptive and definitive drug codes define a single manual or automated laboratory service that is reported once per day, per patient, irrespective of the number of Drug Classes, sample validations, or Specimen Validity Tests performed related to that service on any date of service. In accordance with the CPT and CMS guidelines UnitedHealthcare Medicare Advantage will not reimburse more than one presumptive and/or one definitive drug test per day regardless of the number of billing providers."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Will UnitedHealthcare Medicare Advantage consider separate reimbursement for laboratory service (Ex: urinalysis for urinary tract infection) performed on the same day as a drug screening test?",
+            "A": "Yes, UnitedHealthcare Medicare Advantage will consider separate reimbursement of laboratory services that are appended with an appropriate modifier to identify the test was distinctly separate and not related to drug testing as a Specimen Validity Test. The records must also support that the laboratory service performed was not for Specimen Validity Testing and the modifier was appropriately reported. Please refer to the Modifier Reference Policy for additional modifier information."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "What is the difference between Presumptive and Definitive testing?",
+            "A": "A presumptive test is one used to identify possible use or non-use of a drug or Drug Class. Presumptive tests are not definitive. They only screen for the presence of a compound. A definitive or confirmation test is one that uses instrument analysis to positively identify the presence or quantity of a drug."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov American Medical Association, Current Procedural Terminology (CPT) Centers for Medicare and Medicaid Services, Healthcare Common Procedure Coding System, HCPCS Release and Code Sets Centers for Medicare and Medicaid Services, CMS Manual System and other CMS publications and services Centers for Medicare and Medicaid Services, Clinical Laboratory Fee Schedule (CLFS) Centers for Medicare and Medicaid Services, Medicare Administrative Contractors (MACs) National Correct Coding Initiative Edits: PTP Coding Edits NCCI Policy Manual for Medicare: Chapter 10 CPT Codes 80000-89999 Section E: Drug Testing The Medicare Learning Network (MLN): MLN Matters SE18001"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "5/1/2025",
+          "value": "Policy Version Change History section: Entries prior to 5/1/2023 archived"
+        },
+        {
+          "key": "5/1/2024",
+          "value": "Policy Version Change Application Section: Updated"
+        },
+        {
+          "key": "5/1/2023",
+          "value": "Policy Version Change History section: Entries prior to 5/1/2021 archived Logo Updated"
+        },
+        {
+          "key": "10/01/2017",
+          "value": "Policy implemented by UnitedHealthcare Medicare Advantage UnitedHealthcare Medicare Advantage"
+        },
+        {
+          "key": "06/14/2017",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "80320",
+    "80377",
+    "G0480",
+    "G0483",
+    "G0659",
+    "80000",
+    "89999"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

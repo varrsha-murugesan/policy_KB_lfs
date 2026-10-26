@@ -1,0 +1,87 @@
+{
+  "policy_metadata": {
+    "policy_title": "Claims Reporting Standards",
+    "policy_number": "CP2019012",
+    "published_date": "11/2020",
+    "effective_date": "11/2020",
+    "revision_date": "04/2026",
+    "last_reviewed": "04/2026",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Facility",
+    "source_pdf": "Claims_Reporting_Standards_Revised-7887726e.pdf",
+    "total_pages": 2,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "X12"
+    ],
+    "cpt_codes": [],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [
+      "X12"
+    ],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "This policy outlines Humana’s expectation for reporting codes and other data on claims billed to Humana plans."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Unless Humana policy or guidance directs otherwise, Humana requires providers to bill codes and other claims data according to the following:",
+        "1. Applicable Original Medicare and Centers for Medicare & Medicaid Services (CMS) guidance, if any; or",
+        "2. Otherwise, the applicable industry standard established by the appropriate authority. Examples include: – Current Procedural Terminology (CPT) coding standards by the American Medical Association (AMA); – 837 electronic transaction standards by the American National Standards Institute (ANSI) X12; – International Classification of Diseases, Tenth Revision, Clinical Modifications (ICD-10-CM) coding standards by the Centers for Disease Control and Prevention (CDC); and – Standards for reporting institutional claims by the National Uniform Billing Committee (NUBC)."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "• Centers for Medicare & Medicaid Services website. National Correct Coding Initiative Edits . www.cms.gov. • Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services. • Centers for Disease Control and Prevention website. International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) . cdc.gov. • American Medical Association’s CPT® and associated publications and services. • American National Standards Institute publications and services. • National Uniform Billing Committee publications and services. • Optum360°®. Understanding Modifiers. • Humana website. HIPAA . Humana.com."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": null,
+  "references": [
+    "Centers for Medicare & Medicaid Services website. National Correct Coding Initiative Edits . www.cms.gov. • Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services. • Centers for Disease Control and Prevention website. International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) . cdc.gov. • American Medical Association’s CPT® and associated publications and services. • American National Standards Institute publications and services. • National Uniform Billing Committee publications and services. • Optum360°®. Understanding Modifiers. • Humana website. HIPAA . Humana.com."
+  ],
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 4,
+    "total_tables": 0,
+    "total_characters": 2858
+  }
+}

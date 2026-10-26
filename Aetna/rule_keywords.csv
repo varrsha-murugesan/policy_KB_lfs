@@ -1,0 +1,1243 @@
+keyword,category,strength,strength_band,polarity,signal_role,ngram,rule_sentences,background_sentences,policies,precision,lift
+will,general_policy,0.9469,strong,neutral,rule_indicator,1,116,5,32,0.9512,6.07
+be denied,denial_prohibition,0.9433,strong,negative,rule_indicator,2,64,0,32,0.9848,6.28
+denied,denial_prohibition,0.9433,strong,negative,rule_indicator,1,64,0,32,0.9848,6.28
+will be,general_policy,0.9433,strong,neutral,rule_indicator,2,64,0,32,0.9848,6.28
+will be denied,denial_prohibition,0.9433,strong,negative,rule_indicator,3,64,0,32,0.9848,6.28
+abh,general_policy,0.9414,strong,neutral,rule_indicator,1,62,0,31,0.9844,6.28
+abh il,general_policy,0.9414,strong,neutral,rule_indicator,2,62,0,31,0.9844,6.28
+abh il will,general_policy,0.9414,strong,neutral,rule_indicator,3,62,0,31,0.9844,6.28
+il will,general_policy,0.9414,strong,neutral,rule_indicator,2,62,0,31,0.9844,6.28
+il will only,general_policy,0.9414,strong,neutral,rule_indicator,3,62,0,31,0.9844,6.28
+only reimburse,reimbursement_action,0.9414,strong,positive,rule_indicator,2,62,0,31,0.9844,6.28
+only reimburse for,reimbursement_action,0.9414,strong,positive,rule_indicator,3,62,0,31,0.9844,6.28
+reimburse,reimbursement_action,0.9414,strong,positive,rule_indicator,1,62,0,31,0.9844,6.28
+reimburse for,reimbursement_action,0.9414,strong,positive,rule_indicator,2,62,0,31,0.9844,6.28
+will only,general_policy,0.9414,strong,neutral,rule_indicator,2,62,0,31,0.9844,6.28
+will only reimburse,reimbursement_action,0.9414,strong,positive,rule_indicator,3,62,0,31,0.9844,6.28
+be denied when,denial_prohibition,0.9404,strong,negative,rule_indicator,3,61,0,31,0.9841,6.28
+denied when,denial_prohibition,0.9404,strong,negative,rule_indicator,2,61,0,31,0.9841,6.28
+are submitted will,general_policy,0.9394,strong,neutral,rule_indicator,3,60,0,30,0.9839,6.28
+claims that,general_policy,0.9394,strong,neutral,rule_indicator,2,60,0,30,0.9839,6.28
+claims that are,general_policy,0.9394,strong,neutral,rule_indicator,3,60,0,30,0.9839,6.28
+submitted will,general_policy,0.9394,strong,neutral,rule_indicator,2,60,0,30,0.9839,6.28
+submitted will be,general_policy,0.9394,strong,neutral,rule_indicator,3,60,0,30,0.9839,6.28
+that are submitted,general_policy,0.9394,strong,neutral,rule_indicator,3,60,0,30,0.9839,6.28
+il,general_policy,0.93,strong,neutral,rule_indicator,1,62,1,31,0.9692,6.18
+are submitted,general_policy,0.9054,strong,neutral,rule_indicator,2,60,3,30,0.9385,5.99
+when appropriately,general_policy,0.8908,strong,neutral,rule_indicator,2,37,1,20,0.95,6.06
+appropriate reporting includes,coding_requirement,0.8901,strong,positive,rule_indicator,3,28,0,17,0.9667,6.17
+when appropriately reported,general_policy,0.8785,strong,neutral,rule_indicator,3,32,1,18,0.9429,6.02
+appropriate reporting,coding_requirement,0.8708,strong,positive,rule_indicator,2,36,2,21,0.925,5.9
+submitted,general_policy,0.8634,strong,neutral,rule_indicator,1,64,8,31,0.8784,5.6
+services when,general_policy,0.8418,strong,neutral,rule_indicator,2,15,0,8,0.9412,6.01
+claims,general_policy,0.8416,strong,neutral,rule_indicator,1,62,10,31,0.8514,5.43
+services when appropriately,general_policy,0.8359,strong,neutral,rule_indicator,3,14,0,7,0.9375,5.98
+appropriately,general_policy,0.833,strong,neutral,rule_indicator,1,39,5,22,0.8696,5.55
+appropriately reported,general_policy,0.8305,strong,neutral,rule_indicator,2,34,4,20,0.875,5.58
+once per,frequency_limit,0.8294,strong,neutral,rule_indicator,2,13,0,5,0.9333,5.96
+procedures when,general_policy,0.8222,strong,neutral,rule_indicator,2,12,0,6,0.9286,5.92
+reimburse for the,reimbursement_action,0.8222,strong,positive,rule_indicator,3,12,0,6,0.9286,5.92
+once per year,frequency_limit,0.805,strong,neutral,rule_indicator,3,10,0,3,0.9167,5.85
+than once per,frequency_limit,0.805,strong,neutral,rule_indicator,3,10,0,3,0.9167,5.85
+reporting includes,general_policy,0.8048,strong,neutral,rule_indicator,2,28,4,17,0.8529,5.44
+appropriate reporting of,coding_requirement,0.7827,strong,positive,rule_indicator,3,8,0,4,0.9,5.74
+for services,general_policy,0.7827,strong,neutral,rule_indicator,2,8,0,4,0.9,5.74
+for the appropriate,general_policy,0.7827,strong,positive,rule_indicator,3,8,0,4,0.9,5.74
+reimburse for services,reimbursement_action,0.7827,strong,positive,rule_indicator,3,8,0,4,0.9,5.74
+the appropriate reporting,coding_requirement,0.7827,strong,positive,rule_indicator,3,8,0,4,0.9,5.74
+per year,frequency_limit,0.7522,strong,neutral,rule_indicator,2,10,1,3,0.8462,5.4
+and/ or procedures,general_policy,0.7516,strong,neutral,rule_indicator,3,6,0,3,0.875,5.58
+for services and/,general_policy,0.7516,strong,neutral,rule_indicator,3,6,0,3,0.875,5.58
+or procedures,general_policy,0.7516,strong,neutral,rule_indicator,2,6,0,3,0.875,5.58
+reported no,general_policy,0.7516,strong,neutral,rule_indicator,2,6,0,3,0.875,5.58
+reported no more,general_policy,0.7516,strong,neutral,rule_indicator,3,6,0,3,0.875,5.58
+services and/,general_policy,0.7516,strong,neutral,rule_indicator,2,6,0,3,0.875,5.58
+services and/ or,general_policy,0.7516,strong,neutral,rule_indicator,3,6,0,3,0.875,5.58
+testing when,general_policy,0.7516,strong,neutral,rule_indicator,2,6,0,3,0.875,5.58
+year by any,general_policy,0.7379,strong,neutral,rule_indicator,3,9,1,3,0.8333,5.32
+day surgical,general_policy,0.7307,strong,neutral,rule_indicator,2,5,0,1,0.8571,5.47
+days of,general_policy,0.7307,strong,neutral,rule_indicator,2,5,0,1,0.8571,5.47
+denied when the,denial_prohibition,0.7307,strong,negative,rule_indicator,3,5,0,5,0.8571,5.47
+includes reporting,general_policy,0.7307,strong,neutral,rule_indicator,2,5,0,5,0.8571,5.47
+last,general_policy,0.7307,strong,neutral,rule_indicator,1,5,0,1,0.8571,5.47
+last three,general_policy,0.7307,strong,neutral,rule_indicator,2,5,0,1,0.8571,5.47
+last three years,general_policy,0.7307,strong,neutral,rule_indicator,3,5,0,1,0.8571,5.47
+of {n} day,general_policy,0.7307,strong,neutral,rule_indicator,3,5,0,1,0.8571,5.47
+procedures when appropriately,general_policy,0.7307,strong,neutral,rule_indicator,3,5,0,3,0.8571,5.47
+reporting includes reporting,general_policy,0.7307,strong,neutral,rule_indicator,3,5,0,5,0.8571,5.47
+three years,general_policy,0.7307,strong,neutral,rule_indicator,2,5,0,1,0.8571,5.47
+within last,general_policy,0.7307,strong,neutral,rule_indicator,2,5,0,1,0.8571,5.47
+within last three,general_policy,0.7307,strong,neutral,rule_indicator,3,5,0,1,0.8571,5.47
+within {n},general_policy,0.7307,strong,neutral,rule_indicator,2,5,0,1,0.8571,5.47
+within {n} days,general_policy,0.7307,strong,neutral,rule_indicator,3,5,0,1,0.8571,5.47
+{n} day surgical,general_policy,0.7307,strong,neutral,rule_indicator,3,5,0,1,0.8571,5.47
+{n} days of,general_policy,0.7307,strong,neutral,rule_indicator,3,5,0,1,0.8571,5.47
+reporting,general_policy,0.7045,strong,neutral,rule_indicator,1,42,18,23,0.6935,4.43
+be denied as,denial_prohibition,0.7039,strong,negative,rule_indicator,3,4,0,2,0.8333,5.32
+be reported with,general_policy,0.7039,strong,neutral,rule_indicator,3,4,0,3,0.8333,5.32
+cancer screening when,general_policy,0.7039,strong,neutral,rule_indicator,3,4,0,2,0.8333,5.32
+code no,general_policy,0.7039,strong,neutral,rule_indicator,2,4,0,2,0.8333,5.32
+code no more,general_policy,0.7039,strong,neutral,rule_indicator,3,4,0,2,0.8333,5.32
+days of {n},general_policy,0.7039,strong,neutral,rule_indicator,3,4,0,1,0.8333,5.32
+denied as,denial_prohibition,0.7039,strong,negative,rule_indicator,2,4,0,2,0.8333,5.32
+for procedures/,general_policy,0.7039,strong,neutral,rule_indicator,2,4,0,2,0.8333,5.32
+for procedures/ services,general_policy,0.7039,strong,neutral,rule_indicator,3,4,0,2,0.8333,5.32
+for prostate,general_policy,0.7039,strong,neutral,rule_indicator,2,4,0,2,0.8333,5.32
+for prostate cancer,general_policy,0.7039,strong,neutral,rule_indicator,3,4,0,2,0.8333,5.32
+individual,general_policy,0.7039,strong,neutral,rule_indicator,1,4,0,2,0.8333,5.32
+must be reported,general_policy,0.7039,strong,neutral,rule_indicator,3,4,0,2,0.8333,5.32
+or procedures when,general_policy,0.7039,strong,neutral,rule_indicator,3,4,0,2,0.8333,5.32
+procedures/,general_policy,0.7039,strong,neutral,rule_indicator,1,4,0,2,0.8333,5.32
+procedures/ services,general_policy,0.7039,strong,neutral,rule_indicator,2,4,0,2,0.8333,5.32
+procedures/ services when,general_policy,0.7039,strong,neutral,rule_indicator,3,4,0,2,0.8333,5.32
+psychotherapy services,general_policy,0.7039,strong,neutral,rule_indicator,2,4,0,1,0.8333,5.32
+reimburse for procedures/,reimbursement_action,0.7039,strong,positive,rule_indicator,3,4,0,2,0.8333,5.32
+reimburse for prostate,reimbursement_action,0.7039,strong,positive,rule_indicator,3,4,0,2,0.8333,5.32
+reported within {n},general_policy,0.7039,strong,neutral,rule_indicator,3,4,0,1,0.8333,5.32
+screening when,general_policy,0.7039,strong,neutral,rule_indicator,2,4,0,2,0.8333,5.32
+screening when appropriately,general_policy,0.7039,strong,neutral,rule_indicator,3,4,0,2,0.8333,5.32
+surgical procedures when,general_policy,0.7039,strong,neutral,rule_indicator,3,4,0,2,0.8333,5.32
+testing when appropriately,general_policy,0.7039,strong,neutral,rule_indicator,3,4,0,2,0.8333,5.32
+when services,general_policy,0.7039,strong,neutral,rule_indicator,2,4,0,2,0.8333,5.32
+when services are,general_policy,0.7039,strong,neutral,rule_indicator,3,4,0,2,0.8333,5.32
+{code} claims,general_policy,0.7039,strong,neutral,rule_indicator,2,4,0,4,0.8333,5.32
+{code} claims that,general_policy,0.7039,strong,neutral,rule_indicator,3,4,0,4,0.8333,5.32
+{code} the medical,general_policy,0.7039,strong,neutral,rule_indicator,3,4,0,4,0.8333,5.32
+{n} {code} claims,general_policy,0.7039,strong,neutral,rule_indicator,3,4,0,4,0.8333,5.32
+considered,general_policy,0.7019,strong,neutral,rule_indicator,1,7,1,4,0.8,5.1
+per year by,frequency_limit,0.7019,strong,neutral,rule_indicator,3,7,1,2,0.8,5.1
+per,general_policy,0.6923,moderate,neutral,rule_indicator,1,20,7,7,0.7241,4.62
+year by,general_policy,0.6898,moderate,neutral,rule_indicator,2,9,2,3,0.7692,4.91
+code the,general_policy,0.668,moderate,neutral,rule_indicator,2,3,0,3,0.8,5.1
+day surgical procedure,general_policy,0.668,moderate,neutral,rule_indicator,3,3,0,1,0.8,5.1
+face-to-face,general_policy,0.668,moderate,neutral,rule_indicator,1,3,0,1,0.8,5.1
+face-to-face visit,general_policy,0.668,moderate,neutral,rule_indicator,2,3,0,1,0.8,5.1
+face-to-face visit within,general_policy,0.668,moderate,neutral,rule_indicator,3,3,0,1,0.8,5.1
+hcpcs code icd-,general_policy,0.668,moderate,neutral,rule_indicator,3,3,0,3,0.8,5.1
+highest,general_policy,0.668,moderate,neutral,rule_indicator,1,3,0,1,0.8,5.1
+highest level,general_policy,0.668,moderate,neutral,rule_indicator,2,3,0,1,0.8,5.1
+highest level of,general_policy,0.668,moderate,neutral,rule_indicator,3,3,0,1,0.8,5.1
+imrt plan reported,general_policy,0.668,moderate,neutral,rule_indicator,3,3,0,1,0.8,5.1
+inpatient or,general_policy,0.668,moderate,neutral,rule_indicator,2,3,0,1,0.8,5.1
+inpatient or outpatient,general_policy,0.668,moderate,neutral,rule_indicator,3,3,0,1,0.8,5.1
+level of specificity,general_policy,0.668,moderate,neutral,rule_indicator,3,3,0,1,0.8,5.1
+of another,general_policy,0.668,moderate,neutral,rule_indicator,2,3,0,2,0.8,5.1
+of specificity,general_policy,0.668,moderate,neutral,rule_indicator,2,3,0,1,0.8,5.1
+or outpatient service,general_policy,0.668,moderate,neutral,rule_indicator,3,3,0,1,0.8,5.1
+outpatient service,general_policy,0.668,moderate,neutral,rule_indicator,2,3,0,1,0.8,5.1
+outpatient service within,general_policy,0.668,moderate,neutral,rule_indicator,3,3,0,1,0.8,5.1
+plan reported,general_policy,0.668,moderate,neutral,rule_indicator,2,3,0,1,0.8,5.1
+policy claims,general_policy,0.668,moderate,neutral,rule_indicator,2,3,0,3,0.8,5.1
+policy claims that,general_policy,0.668,moderate,neutral,rule_indicator,3,3,0,3,0.8,5.1
+separately reported,bundling_inclusion,0.668,moderate,neutral,rule_indicator,2,3,0,2,0.8,5.1
+service within last,general_policy,0.668,moderate,neutral,rule_indicator,3,3,0,1,0.8,5.1
+specificity,general_policy,0.668,moderate,neutral,rule_indicator,1,3,0,1,0.8,5.1
+the highest,general_policy,0.668,moderate,neutral,rule_indicator,2,3,0,1,0.8,5.1
+the highest level,general_policy,0.668,moderate,neutral,rule_indicator,3,3,0,1,0.8,5.1
+this policy claims,general_policy,0.668,moderate,neutral,rule_indicator,3,3,0,3,0.8,5.1
+to the highest,general_policy,0.668,moderate,neutral,rule_indicator,3,3,0,1,0.8,5.1
+visit within,general_policy,0.668,moderate,neutral,rule_indicator,2,3,0,1,0.8,5.1
+visit within last,general_policy,0.668,moderate,neutral,rule_indicator,3,3,0,1,0.8,5.1
+year,general_policy,0.6674,moderate,neutral,rule_indicator,1,12,4,4,0.7222,4.61
+includes,general_policy,0.6527,moderate,neutral,rule_indicator,1,30,16,19,0.6458,4.12
+reported more than,general_policy,0.6474,moderate,neutral,rule_indicator,3,7,2,4,0.7273,4.64
+{n} day,general_policy,0.6474,moderate,neutral,rule_indicator,2,7,2,2,0.7273,4.64
+reported more,general_policy,0.6269,moderate,neutral,rule_indicator,2,8,3,5,0.6923,4.42
+reporting of,general_policy,0.6269,moderate,neutral,rule_indicator,2,8,3,4,0.6923,4.42
+reported within,general_policy,0.6204,moderate,neutral,rule_indicator,2,6,2,3,0.7,4.47
+{n} days,general_policy,0.6204,moderate,neutral,rule_indicator,2,6,2,2,0.7,4.47
+administered and,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+administered and are,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+administered services,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+administered services when,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+administration are,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+administration are performed,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+administration of,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+administration of pneumococcal,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+an eight-,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+an eight- week,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+an service is,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+and are discarded,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+and biological products,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+and considered,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+and delivery,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+and delivery when,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+and management-,eligibility_condition,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+and management- outpatient,eligibility_condition,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+and reported,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+and supervision,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+and supervision of,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+and/or covid-,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+and/or covid- {n},general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+another {n},general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+another {n} day,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+any provider the,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,2,0.75,4.79
+appending modifier,modifier_usage,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+appending modifier {n},modifier_usage,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+appropriate screening,general_policy,0.6164,moderate,positive,rule_indicator,2,2,0,1,0.75,4.79
+appropriate screening hcpcs,general_policy,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+appropriately performed,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+appropriately performed and,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+appropriately reported with,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+are coded,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+are coded to,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+are considered,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+are considered incidental,bundling_inclusion,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+are discarded,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+are discarded the,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+are not administered,general_policy,0.6164,moderate,negative,rule_indicator,3,2,0,1,0.75,4.79
+are not valid,general_policy,0.6164,moderate,negative,rule_indicator,3,2,0,1,0.75,4.79
+are performed at,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+are reported no,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+are separately,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+are separately reported,bundling_inclusion,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+as non-,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+as non- reimbursable,reimbursement_action,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+as not separately,bundling_inclusion,0.6164,moderate,negative,rule_indicator,3,2,0,1,0.75,4.79
+at the patient's,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+before or within,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+biological products,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+biological products when,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+cerumen procedures,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+cerumen procedures when,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+chiropractic services when,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+claim lines,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+claim lines reporting,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+claims will,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+claims will be,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+clinical diagnostic,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+code must,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+code must be,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+code the medical,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,2,0.75,4.79
+coded,general_policy,0.6164,moderate,neutral,rule_indicator,1,2,0,1,0.75,4.79
+coded to,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+coded to the,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+codes reported are,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+codes will,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+codes will be,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+considered incidental,bundling_inclusion,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+considered incidental to,bundling_inclusion,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+considered part,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+considered part of,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+consultations,general_policy,0.6164,moderate,neutral,rule_indicator,1,2,0,1,0.75,4.79
+consultations when,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+covid- {n} related,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+covid- {n} vaccine,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+cpt code is,coding_requirement,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+cpt code no,coding_requirement,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+creation,general_policy,0.6164,moderate,neutral,rule_indicator,1,2,0,1,0.75,4.79
+creation of,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+creation of the,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+day before,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+day before or,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+day is,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+day is reported,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+days of another,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+delivery,general_policy,0.6164,moderate,neutral,rule_indicator,1,2,0,1,0.75,4.79
+delivery when,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+delivery when appropriately,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+denied as non-,denial_prohibition,0.6164,moderate,negative,rule_indicator,3,2,0,1,0.75,4.79
+denied as not,denial_prohibition,0.6164,moderate,negative,rule_indicator,3,2,0,1,0.75,4.79
+denied when more,denial_prohibition,0.6164,moderate,negative,rule_indicator,3,2,0,2,0.75,4.79
+denied when reported,denial_prohibition,0.6164,moderate,negative,rule_indicator,3,2,0,2,0.75,4.79
+denied when services,denial_prohibition,0.6164,moderate,negative,rule_indicator,3,2,0,2,0.75,4.79
+diagnosis codes are,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+diagnosis other,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+diagnosis other than,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+discarded the,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+discarded the hcpcs,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+drugs and,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+drugs and biological,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+drugs that,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+drugs that are,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+during an eight-,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+eight-,general_policy,0.6164,moderate,neutral,rule_indicator,1,2,0,1,0.75,4.79
+eight- week,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+eight- week period,frequency_limit,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+equipment supplies,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+equipment supplies when,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+esketamine self-,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+esketamine self- administration,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+evaluation and management-,eligibility_condition,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+even,general_policy,0.6164,moderate,neutral,rule_indicator,1,2,0,1,0.75,4.79
+even if,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+even if there,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+fluid hcpcs,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+fluid hcpcs codes,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+for applicable,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+for chiropractic,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+for chiropractic services,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+for covid-,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+for covid- {n},general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+for devices,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+for devices and/,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+for drugs,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+for drugs that,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+for durable,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+for durable medical,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+for genetic,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+for genetic testing,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+for imrt,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+for imrt planning,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+for insulin,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+for insulin or,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+for intravenous,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+for intravenous hydration,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+for non-invasive,general_policy,0.6164,moderate,negative,rule_indicator,2,2,0,1,0.75,4.79
+for non-invasive estimate,general_policy,0.6164,moderate,negative,rule_indicator,3,2,0,1,0.75,4.79
+for physician,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+for physician administered,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+for polysomnography,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+for polysomnography procedures,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+for psychotherapy,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+for psychotherapy services,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+for routinely,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+for routinely performed,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+for services when,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+for surgical,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+for surgical procedures,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+for the drugs,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+for the provision,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+genetic testing when,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+global,general_policy,0.6164,moderate,neutral,rule_indicator,1,2,0,1,0.75,4.79
+global surgery,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+group psychotherapy services,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+hcpcs code must,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+hcpcs code no,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+hcpcs codes will,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+hepatitis,general_policy,0.6164,moderate,neutral,rule_indicator,1,2,0,1,0.75,4.79
+hepatitis and/or,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+hepatitis and/or covid-,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+holter,general_policy,0.6164,moderate,neutral,rule_indicator,1,2,0,1,0.75,4.79
+holter monitoring,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+holter monitoring when,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+home per,place_of_service,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+home per date,frequency_limit,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+home reported,place_of_service,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+home reported only,place_of_service,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+hydration therapy,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+hydration therapy when,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+impacted cerumen procedures,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+imrt planning and,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+imrt therapy procedures,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+in pediatric,eligibility_condition,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+in pediatric patients,eligibility_condition,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+incidental to,bundling_inclusion,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+incidental to the,bundling_inclusion,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+includes reporting the,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,2,0.75,4.79
+individual claim,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+individual claim lines,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+individual home,place_of_service,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+individual home per,place_of_service,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+influenza,general_policy,0.6164,moderate,neutral,rule_indicator,1,2,0,1,0.75,4.79
+influenza hepatitis,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+influenza hepatitis and/or,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+inside patient's,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+inside patient's home,place_of_service,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+insulin,general_policy,0.6164,moderate,neutral,rule_indicator,1,2,0,1,0.75,4.79
+insulin or,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+insulin or thyroid,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+intravenous fluid,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+intravenous fluid hcpcs,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+intravenous hydration,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+intravenous hydration therapy,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+iron studies for,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+is reported no,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+is reported the,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+lines,general_policy,0.6164,moderate,neutral,rule_indicator,1,2,0,1,0.75,4.79
+lines reporting,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+lines reporting intravenous,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+management-,eligibility_condition,0.6164,moderate,neutral,rule_indicator,1,2,0,1,0.75,4.79
+management- outpatient,eligibility_condition,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+management- outpatient consultations,eligibility_condition,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+maximum of,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+maximum of {n},general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+maximum unit,frequency_limit,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+maximum unit of,frequency_limit,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+medical equipment supplies,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+monitoring when,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+non- reimbursable,reimbursement_action,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+non- reimbursable when,reimbursement_action,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+non-invasive,general_policy,0.6164,moderate,negative,rule_indicator,1,2,0,1,0.75,4.79
+non-invasive estimate,general_policy,0.6164,moderate,negative,rule_indicator,2,2,0,1,0.75,4.79
+non-invasive estimate of,general_policy,0.6164,moderate,negative,rule_indicator,3,2,0,1,0.75,4.79
+not administered,general_policy,0.6164,moderate,negative,rule_indicator,2,2,0,1,0.75,4.79
+not administered and,general_policy,0.6164,moderate,negative,rule_indicator,3,2,0,1,0.75,4.79
+not reported to,general_policy,0.6164,moderate,negative,rule_indicator,3,2,0,1,0.75,4.79
+not reported within,general_policy,0.6164,moderate,negative,rule_indicator,3,2,0,1,0.75,4.79
+not separately,bundling_inclusion,0.6164,moderate,negative,rule_indicator,2,2,0,1,0.75,4.79
+not valid,general_policy,0.6164,moderate,negative,rule_indicator,2,2,0,1,0.75,4.79
+not valid on,general_policy,0.6164,moderate,negative,rule_indicator,3,2,0,1,0.75,4.79
+occurring within,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+occurring within the,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+of allergy,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+of allergy testing,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+of another {n},general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+of esketamine self-,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+of holter,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+of holter monitoring,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+of one,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+of one per,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+of pneumococcal,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+of pneumococcal influenza,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+of service when,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+of specificity and,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+of specificity or,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+of the imrt,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+of the specific,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+of urodynamic,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+of urodynamic testing,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+of vitamin deficiency,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+of {n} unit,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+once per individual,frequency_limit,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+one per,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+one per day,frequency_limit,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+only once per,frequency_limit,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+or procedures occurring,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+or supplies related,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+or thyroid,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+or thyroid testing,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+or within {n},general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+or younger the,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,2,0.75,4.79
+outpatient consultations,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+outpatient consultations when,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+part of {n},general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+patient's home,place_of_service,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+patient's home reported,place_of_service,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+patients when,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+patients when appropriately,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+pediatric patients,eligibility_condition,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+pediatric patients when,eligibility_condition,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+per day,frequency_limit,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+per day is,frequency_limit,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+per individual,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+per individual home,place_of_service,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+performed and,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+performed and reported,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+performed at,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+performed at the,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+performed serum,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+performed serum iron,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+period even,frequency_limit,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+period even if,frequency_limit,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+physician administered,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+physician administered services,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+plan reported no,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+planning and,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+planning and delivery,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+pneumococcal,general_policy,0.6164,moderate,neutral,rule_indicator,1,2,0,1,0.75,4.79
+pneumococcal influenza,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+pneumococcal influenza hepatitis,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+policy the,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,2,0.75,4.79
+policy the medical,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,2,0.75,4.79
+polysomnography procedures,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+polysomnography procedures when,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+procedure are,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+procedure are separately,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+procedure is not,general_policy,0.6164,moderate,negative,rule_indicator,3,2,0,1,0.75,4.79
+procedures occurring,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+procedures occurring within,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+procedures that are,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+procedures when submitted,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+procedures when the,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+products when,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+products when appropriately,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+provider for applicable,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+provider the,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,2,0.75,4.79
+provision and,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+provision and supervision,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+psychotherapy services are,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+psychotherapy services when,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+reimbursable,reimbursement_action,0.6164,moderate,neutral,rule_indicator,1,2,0,1,0.75,4.79
+reimbursable when,reimbursement_action,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+reimburse for chiropractic,reimbursement_action,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+reimburse for covid-,reimbursement_action,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+reimburse for devices,reimbursement_action,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+reimburse for durable,reimbursement_action,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+reimburse for evaluation,reimbursement_action,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+reimburse for genetic,reimbursement_action,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+reimburse for imrt,reimbursement_action,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+reimburse for insulin,reimbursement_action,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+reimburse for intravenous,reimbursement_action,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+reimburse for non-invasive,reimbursement_action,0.6164,moderate,negative,rule_indicator,3,2,0,1,0.75,4.79
+reimburse for physician,reimbursement_action,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+reimburse for polysomnography,reimbursement_action,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+reimburse for psychotherapy,reimbursement_action,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+reimburse for removal,reimbursement_action,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+reimburse for routinely,reimbursement_action,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+reimburse for surgical,reimbursement_action,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+reimburse for vitamin,reimbursement_action,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+related services when,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+related to surgical,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+reported are,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+reported are coded,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+reported only,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+reported only once,frequency_limit,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+reported reporting,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,2,0.75,4.79
+reported the day,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+reported to,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+reported to the,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+reporting intravenous,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+reporting intravenous fluid,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+reporting maximum,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+reporting maximum of,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+reporting of allergy,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+reporting of holter,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+reporting of the,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+reporting of urodynamic,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+reporting the appropriate,general_policy,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+routinely,general_policy,0.6164,moderate,neutral,rule_indicator,1,2,0,1,0.75,4.79
+routinely performed,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+routinely performed serum,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+screening hcpcs,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+screening hcpcs code,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+self-,general_policy,0.6164,moderate,neutral,rule_indicator,1,2,0,1,0.75,4.79
+self- administration,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+service reported within,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+service when,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+service when such,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+services reported,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+services reported within,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+services the,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,2,0.75,4.79
+services the medical,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,2,0.75,4.79
+services typically,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+services typically considered,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+specific clinical,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+specific clinical diagnostic,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+specificity and,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+specificity and considered,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+specificity or,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+specificity or are,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+studies for,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+submitted claims will,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+submitted with icd-,coding_requirement,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+such vaccine,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+such vaccine administration,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+supervision of esketamine,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+supplies related,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+supplies related to,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+supplies when,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+supplies when appropriately,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+surgical procedure are,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+surgical procedure is,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+testing in pediatric,eligibility_condition,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+than {n} units,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+that are considered,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+the appropriate screening,general_policy,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+the creation,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+the creation of,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+the day,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+the day before,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+the drugs,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+the drugs and,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+the global,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+the global surgery,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+the hcpcs code,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+the patient's home,place_of_service,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+the provision,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+the provision and,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+the specific clinical,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+therapy procedures,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+therapy procedures that,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+therapy when,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+this policy the,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,2,0.75,4.79
+thyroid testing in,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+to services,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+to services reported,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+to surgical,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+to surgical procedures,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+to the creation,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+typically considered,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+typically considered part,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+unit of,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+unit of one,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+unit per date,frequency_limit,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+urodynamic testing when,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+vaccine administration are,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+vaccine inside,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+vaccine inside patient's,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+vitamin testing when,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+week,general_policy,0.6164,moderate,neutral,rule_indicator,1,2,0,1,0.75,4.79
+week period,frequency_limit,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+week period even,frequency_limit,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+when appropriately performed,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+when reported using,coding_requirement,0.6164,moderate,neutral,rule_indicator,3,2,0,2,0.75,4.79
+when submitted,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+when submitted with,coding_requirement,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+when such vaccine,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+when the place,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+with an approved,general_policy,0.6164,moderate,positive,rule_indicator,3,2,0,1,0.75,4.79
+with diagnosis other,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+with icd-,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+with icd- {n},general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+within the global,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+younger the,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,2,0.75,4.79
+{code} services,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,2,0.75,4.79
+{n} related,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+{n} related services,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+{n} to services,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+{n} unit,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+{n} unit per,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+{n} vaccine,general_policy,0.6164,moderate,neutral,rule_indicator,2,2,0,1,0.75,4.79
+{n} vaccine inside,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,1,0.75,4.79
+{n} {code} services,general_policy,0.6164,moderate,neutral,rule_indicator,3,2,0,2,0.75,4.79
+any provider with,general_policy,0.6146,moderate,neutral,rule_indicator,3,4,1,1,0.7143,4.56
+maximum,general_policy,0.6146,moderate,neutral,rule_indicator,1,4,1,2,0.7143,4.56
+or outpatient,general_policy,0.6146,moderate,neutral,rule_indicator,2,4,1,2,0.7143,4.56
+provider with,general_policy,0.6146,moderate,neutral,rule_indicator,2,4,1,1,0.7143,4.56
+provider with diagnosis,general_policy,0.6146,moderate,neutral,rule_indicator,3,4,1,1,0.7143,4.56
+service within,general_policy,0.6146,moderate,neutral,rule_indicator,2,4,1,2,0.7143,4.56
+when reported,general_policy,0.6146,moderate,neutral,rule_indicator,2,4,1,4,0.7143,4.56
+by any provider,general_policy,0.6132,moderate,neutral,rule_indicator,3,12,6,6,0.65,4.15
+per date,frequency_limit,0.6019,moderate,neutral,rule_indicator,2,7,3,3,0.6667,4.25
+per date of,frequency_limit,0.6019,moderate,neutral,rule_indicator,3,7,3,3,0.6667,4.25
+any provider,general_policy,0.6015,moderate,neutral,rule_indicator,2,14,8,7,0.625,3.99
+be reported,general_policy,0.5878,moderate,neutral,rule_indicator,2,5,2,3,0.6667,4.25
+is reported more,general_policy,0.5878,moderate,neutral,rule_indicator,3,5,2,3,0.6667,4.25
+three,general_policy,0.5878,moderate,neutral,rule_indicator,1,5,2,1,0.6667,4.25
+the appropriate,general_policy,0.5804,moderate,positive,rule_indicator,2,15,10,10,0.5926,3.78
+days,general_policy,0.5727,moderate,neutral,rule_indicator,1,6,3,2,0.6364,4.06
+service is,general_policy,0.5727,moderate,neutral,rule_indicator,2,6,3,4,0.6364,4.06
+an approved diagnosis,general_policy,0.568,moderate,positive,rule_indicator,3,3,1,2,0.6667,4.25
+appending,modifier_usage,0.568,moderate,neutral,rule_indicator,1,3,1,2,0.6667,4.25
+are reported more,general_policy,0.568,moderate,neutral,rule_indicator,3,3,1,2,0.6667,4.25
+chiropractic services,general_policy,0.568,moderate,neutral,rule_indicator,2,3,1,1,0.6667,4.25
+codes are not,general_policy,0.568,moderate,negative,rule_indicator,3,3,1,2,0.6667,4.25
+diagnosis of vitamin,general_policy,0.568,moderate,neutral,rule_indicator,3,3,1,1,0.6667,4.25
+for performing the,general_policy,0.568,moderate,neutral,rule_indicator,3,3,1,2,0.6667,4.25
+for removal,general_policy,0.568,moderate,neutral,rule_indicator,2,3,1,1,0.6667,4.25
+for removal of,general_policy,0.568,moderate,neutral,rule_indicator,3,3,1,1,0.6667,4.25
+occurring,general_policy,0.568,moderate,neutral,rule_indicator,1,3,1,2,0.6667,4.25
+of service is,general_policy,0.568,moderate,neutral,rule_indicator,3,3,1,2,0.6667,4.25
+of vitamin,general_policy,0.568,moderate,neutral,rule_indicator,2,3,1,1,0.6667,4.25
+related to,general_policy,0.568,moderate,neutral,rule_indicator,2,3,1,2,0.6667,4.25
+reported by the,general_policy,0.568,moderate,neutral,rule_indicator,3,3,1,3,0.6667,4.25
+reported the,general_policy,0.568,moderate,neutral,rule_indicator,2,3,1,2,0.6667,4.25
+the patient's,general_policy,0.568,moderate,neutral,rule_indicator,2,3,1,2,0.6667,4.25
+the place,general_policy,0.568,moderate,neutral,rule_indicator,2,3,1,2,0.6667,4.25
+the place of,general_policy,0.568,moderate,neutral,rule_indicator,3,3,1,2,0.6667,4.25
+appropriate,general_policy,0.5538,moderate,positive,rule_indicator,1,41,42,25,0.4941,3.15
+and/,general_policy,0.5494,weak,neutral,rule_indicator,1,13,10,7,0.56,3.57
+and/ or,general_policy,0.5494,weak,neutral,rule_indicator,2,13,10,7,0.56,3.57
+diagnosis of,general_policy,0.5476,weak,neutral,rule_indicator,2,4,2,2,0.625,3.99
+service is reported,general_policy,0.5476,weak,neutral,rule_indicator,3,4,2,3,0.625,3.99
+unit per,general_policy,0.5476,weak,neutral,rule_indicator,2,4,2,2,0.625,3.99
+with diagnosis of,general_policy,0.5476,weak,neutral,rule_indicator,3,4,2,2,0.625,3.99
+is not reported,general_policy,0.5378,weak,negative,rule_indicator,3,5,3,4,0.6,3.83
+reporting the,general_policy,0.5378,weak,neutral,rule_indicator,2,5,3,3,0.6,3.83
+{n} cm code,general_policy,0.5378,weak,neutral,rule_indicator,3,5,3,5,0.6,3.83
+{n} cm codes,general_policy,0.5345,weak,neutral,rule_indicator,3,14,12,14,0.5357,3.42
+cm codes and,general_policy,0.5329,weak,neutral,rule_indicator,3,6,4,6,0.5833,3.72
+code is reported,general_policy,0.5329,weak,neutral,rule_indicator,3,6,4,4,0.5833,3.72
+related,general_policy,0.5329,weak,neutral,rule_indicator,1,6,4,4,0.5833,3.72
+day,general_policy,0.53,weak,neutral,rule_indicator,1,10,8,4,0.55,3.51
+within,general_policy,0.5139,weak,neutral,rule_indicator,1,16,16,7,0.5,3.19
+procedures,general_policy,0.5131,weak,neutral,rule_indicator,1,22,24,10,0.4792,3.06
+cpt hcpcs,general_policy,0.5104,weak,neutral,rule_indicator,2,10,9,9,0.5238,3.34
+unit,general_policy,0.5076,weak,neutral,rule_indicator,1,9,8,5,0.5263,3.36
+provider,general_policy,0.5066,weak,neutral,rule_indicator,1,17,18,10,0.4865,3.1
+an service reported,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+and immunotherapy,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+any provider for,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+appended to an,modifier_usage,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+are performed,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+cardiac symptom,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+cardiac symptom or,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+code {code} are,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+diagnosis indicating,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,2,0.6,3.83
+durable,general_policy,0.5039,weak,neutral,rule_indicator,1,2,1,1,0.6,3.83
+durable medical,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+durable medical equipment,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+for any provider,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+for nucleic-acid,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+for nucleic-acid based,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+for vitamin,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+for vitamin testing,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+in seven-day,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+in seven-day period,frequency_limit,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+in year,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+in year by,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+incidental,bundling_inclusion,0.5039,weak,neutral,rule_indicator,1,2,1,1,0.6,3.83
+iron studies,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+is reported per,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+medical equipment,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+modifier {n} to,modifier_usage,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+more than twice,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+not appended to,modifier_usage,0.5039,weak,negative,rule_indicator,3,2,1,1,0.6,3.83
+of cpt,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+of cpt code,coding_requirement,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+of service for,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+per code,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+per code is,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+performing the procedure,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+period by,frequency_limit,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+provider for,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+related services,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+reported for nucleic-acid,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+reported in year,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+reported the procedure,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,2,0.6,3.83
+screening services,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+screening services are,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+serum iron,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+serum iron studies,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+service for,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+service for any,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+seven-day,general_policy,0.5039,weak,neutral,rule_indicator,1,2,1,1,0.6,3.83
+seven-day period,frequency_limit,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+seven-day period by,frequency_limit,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+testing and immunotherapy,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+testing codes,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,2,0.6,3.83
+testing in,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+than one unit,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+than twice,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+than twice in,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+the documented dosage,eligibility_condition,0.5039,weak,neutral,rule_indicator,3,2,1,2,0.6,3.83
+the hcpcs,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+the imrt plan,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+thyroid,general_policy,0.5039,weak,neutral,rule_indicator,1,2,1,1,0.6,3.83
+thyroid testing,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+to an service,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+to the documented,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,2,0.6,3.83
+twice,general_policy,0.5039,weak,neutral,rule_indicator,1,2,1,1,0.6,3.83
+twice in,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+twice in seven-day,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+typically,general_policy,0.5039,weak,neutral,rule_indicator,1,2,1,1,0.6,3.83
+unit per code,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+units of,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+units of cpt,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+valid,general_policy,0.5039,weak,neutral,rule_indicator,1,2,1,1,0.6,3.83
+valid on,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+valid on the,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+viral tests,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+when reported with,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,2,0.6,3.83
+{code} are reported,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+{n} units,general_policy,0.5039,weak,neutral,rule_indicator,2,2,1,1,0.6,3.83
+{n} units of,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+{n} viral tests,general_policy,0.5039,weak,neutral,rule_indicator,3,2,1,1,0.6,3.83
+place of service,place_of_service,0.4969,weak,neutral,rule_indicator,3,5,4,4,0.5455,3.48
+age or older,eligibility_condition,0.4965,weak,neutral,rule_indicator,3,3,2,3,0.5714,3.65
+an service,general_policy,0.4965,weak,neutral,rule_indicator,2,3,2,1,0.5714,3.65
+and/ or supplies,general_policy,0.4965,weak,neutral,rule_indicator,3,3,2,1,0.5714,3.65
+approved diagnosis,general_policy,0.4965,weak,positive,rule_indicator,2,3,2,2,0.5714,3.65
+as appropriate,general_policy,0.4965,weak,positive,rule_indicator,2,3,2,3,0.5714,3.65
+devices and/,general_policy,0.4965,weak,neutral,rule_indicator,2,3,2,1,0.5714,3.65
+devices and/ or,general_policy,0.4965,weak,neutral,rule_indicator,3,3,2,1,0.5714,3.65
+for performing,general_policy,0.4965,weak,neutral,rule_indicator,2,3,2,2,0.5714,3.65
+indicated as appropriate,general_policy,0.4965,weak,positive,rule_indicator,3,3,2,3,0.5714,3.65
+inside,general_policy,0.4965,weak,neutral,rule_indicator,1,3,2,1,0.5714,3.65
+is appended,modifier_usage,0.4965,weak,neutral,rule_indicator,2,3,2,3,0.5714,3.65
+is not appended,modifier_usage,0.4965,weak,negative,rule_indicator,3,3,2,2,0.5714,3.65
+modifier is appended,modifier_usage,0.4965,weak,neutral,rule_indicator,3,3,2,3,0.5714,3.65
+more than one,general_policy,0.4965,weak,neutral,rule_indicator,3,3,2,2,0.5714,3.65
+necessity for performing,general_policy,0.4965,weak,neutral,rule_indicator,3,3,2,2,0.5714,3.65
+or supplies,general_policy,0.4965,weak,neutral,rule_indicator,2,3,2,1,0.5714,3.65
+part of,general_policy,0.4965,weak,neutral,rule_indicator,2,3,2,2,0.5714,3.65
+reported per,general_policy,0.4965,weak,neutral,rule_indicator,2,3,2,2,0.5714,3.65
+reported per date,frequency_limit,0.4965,weak,neutral,rule_indicator,3,3,2,2,0.5714,3.65
+than one,general_policy,0.4965,weak,neutral,rule_indicator,2,3,2,2,0.5714,3.65
+an approved,general_policy,0.4956,weak,positive,rule_indicator,2,4,3,3,0.5556,3.54
+appended to,modifier_usage,0.4956,weak,neutral,rule_indicator,2,4,3,3,0.5556,3.54
+imrt plan,general_policy,0.4956,weak,neutral,rule_indicator,2,4,3,1,0.5556,3.54
+not appended,modifier_usage,0.4956,weak,negative,rule_indicator,2,4,3,3,0.5556,3.54
+prostate,general_policy,0.4956,weak,neutral,rule_indicator,1,4,3,2,0.5556,3.54
+prostate cancer,general_policy,0.4956,weak,neutral,rule_indicator,2,4,3,2,0.5556,3.54
+prostate cancer screening,general_policy,0.4956,weak,neutral,rule_indicator,3,4,3,2,0.5556,3.54
+service reported,general_policy,0.4956,weak,neutral,rule_indicator,2,4,3,3,0.5556,3.54
+submitted with,coding_requirement,0.4956,weak,neutral,rule_indicator,2,4,3,3,0.5556,3.54
+test is reported,general_policy,0.4956,weak,neutral,rule_indicator,3,4,3,1,0.5556,3.54
+specific cpt hcpcs,general_policy,0.4879,weak,neutral,rule_indicator,3,9,9,9,0.5,3.19
+reported,general_policy,0.48,weak,neutral,rule_indicator,1,93,179,33,0.3431,2.19
+is reported,general_policy,0.4772,weak,neutral,rule_indicator,2,23,31,16,0.4286,2.73
+reported without,general_policy,0.4769,weak,negative,rule_indicator,2,7,7,7,0.5,3.19
+services are reported,general_policy,0.4762,weak,neutral,rule_indicator,3,10,11,6,0.4783,3.05
+code is,general_policy,0.4704,weak,neutral,rule_indicator,2,6,6,4,0.5,3.19
+and any applicable,general_policy,0.4628,weak,neutral,rule_indicator,3,5,5,5,0.5,3.19
+any applicable,general_policy,0.4628,weak,neutral,rule_indicator,2,5,5,5,0.5,3.19
+covid-,general_policy,0.4628,weak,neutral,rule_indicator,1,5,5,1,0.5,3.19
+covid- {n},general_policy,0.4628,weak,neutral,rule_indicator,2,5,5,1,0.5,3.19
+cpt hcpcs and,general_policy,0.4628,weak,neutral,rule_indicator,3,5,5,5,0.5,3.19
+drugs,general_policy,0.4628,weak,neutral,rule_indicator,1,5,5,2,0.5,3.19
+hcpcs and,general_policy,0.4628,weak,neutral,rule_indicator,2,5,5,5,0.5,3.19
+hcpcs and icd-,general_policy,0.4628,weak,neutral,rule_indicator,3,5,5,5,0.5,3.19
+supplies,general_policy,0.4628,weak,neutral,rule_indicator,1,5,5,2,0.5,3.19
+imrt,general_policy,0.4549,weak,neutral,rule_indicator,1,7,8,1,0.4706,3.0
+and icd- {n},general_policy,0.4542,weak,neutral,rule_indicator,3,14,19,14,0.4286,2.73
+any applicable modifier,modifier_usage,0.4539,weak,neutral,rule_indicator,3,4,4,4,0.5,3.19
+applicable modifier reported,modifier_usage,0.4539,weak,neutral,rule_indicator,3,4,4,4,0.5,3.19
+are reported in,general_policy,0.4539,weak,neutral,rule_indicator,3,4,4,3,0.5,3.19
+cm code and,general_policy,0.4539,weak,neutral,rule_indicator,3,4,4,4,0.5,3.19
+code and any,general_policy,0.4539,weak,neutral,rule_indicator,3,4,4,4,0.5,3.19
+imrt planning,general_policy,0.4539,weak,neutral,rule_indicator,2,4,4,1,0.5,3.19
+of age or,eligibility_condition,0.4539,weak,neutral,rule_indicator,3,4,4,4,0.5,3.19
+planning,general_policy,0.4539,weak,neutral,rule_indicator,1,4,4,1,0.5,3.19
+reported without an,general_policy,0.4539,weak,negative,rule_indicator,3,4,4,4,0.5,3.19
+the {n} modifier,modifier_usage,0.4539,weak,neutral,rule_indicator,3,4,4,4,0.5,3.19
+without an,general_policy,0.4539,weak,negative,rule_indicator,2,4,4,4,0.5,3.19
+icd- {n} cm,general_policy,0.4527,weak,neutral,rule_indicator,3,32,54,27,0.375,2.39
+services are,general_policy,0.4475,weak,neutral,rule_indicator,2,10,13,6,0.44,2.81
+{n} cm,general_policy,0.4464,weak,neutral,rule_indicator,2,32,56,27,0.3667,2.34
+performed,general_policy,0.4454,weak,neutral,rule_indicator,1,6,7,3,0.4667,2.98
+and icd-,general_policy,0.4453,weak,neutral,rule_indicator,2,14,20,14,0.4167,2.66
+not reported,general_policy,0.4453,weak,negative,rule_indicator,2,14,20,12,0.4167,2.66
+age or younger,eligibility_condition,0.443,weak,neutral,rule_indicator,3,3,3,3,0.5,3.19
+are reported without,general_policy,0.443,weak,negative,rule_indicator,3,3,3,3,0.5,3.19
+cpt hcpcs code,general_policy,0.443,weak,neutral,rule_indicator,3,3,3,3,0.5,3.19
+diagnosis codes reported,general_policy,0.443,weak,neutral,rule_indicator,3,3,3,2,0.5,3.19
+event,general_policy,0.443,weak,neutral,rule_indicator,1,3,3,2,0.5,3.19
+genetic,general_policy,0.443,weak,neutral,rule_indicator,1,3,3,1,0.5,3.19
+genetic testing,general_policy,0.443,weak,neutral,rule_indicator,2,3,3,1,0.5,3.19
+intravenous,general_policy,0.443,weak,neutral,rule_indicator,1,3,3,1,0.5,3.19
+is reported as,general_policy,0.443,weak,neutral,rule_indicator,3,3,3,3,0.5,3.19
+is reported on,general_policy,0.443,weak,neutral,rule_indicator,3,3,3,3,0.5,3.19
+is reported without,general_policy,0.443,weak,negative,rule_indicator,3,3,3,3,0.5,3.19
+of impacted,general_policy,0.443,weak,neutral,rule_indicator,2,3,3,1,0.5,3.19
+of impacted cerumen,general_policy,0.443,weak,neutral,rule_indicator,3,3,3,1,0.5,3.19
+or within,general_policy,0.443,weak,neutral,rule_indicator,2,3,3,2,0.5,3.19
+or younger,general_policy,0.443,weak,neutral,rule_indicator,2,3,3,3,0.5,3.19
+removal of,general_policy,0.443,weak,neutral,rule_indicator,2,3,3,1,0.5,3.19
+removal of impacted,general_policy,0.443,weak,neutral,rule_indicator,3,3,3,1,0.5,3.19
+reported using the,coding_requirement,0.443,weak,neutral,rule_indicator,3,3,3,3,0.5,3.19
+serum,general_policy,0.443,weak,neutral,rule_indicator,1,3,3,2,0.5,3.19
+the necessity,general_policy,0.443,weak,neutral,rule_indicator,2,3,3,2,0.5,3.19
+the necessity for,general_policy,0.443,weak,neutral,rule_indicator,3,3,3,2,0.5,3.19
+the unit,general_policy,0.443,weak,neutral,rule_indicator,2,3,3,2,0.5,3.19
+the unit limits,frequency_limit,0.443,weak,neutral,rule_indicator,3,3,3,2,0.5,3.19
+the specific,general_policy,0.4423,weak,neutral,rule_indicator,2,25,42,24,0.3768,2.4
+cm codes,general_policy,0.4368,weak,neutral,rule_indicator,2,14,21,14,0.4054,2.59
+of service,general_policy,0.4352,weak,neutral,rule_indicator,2,17,27,10,0.3913,2.5
+codes are,general_policy,0.434,weak,neutral,rule_indicator,2,5,6,4,0.4615,2.94
+is reported for,general_policy,0.434,weak,neutral,rule_indicator,3,5,6,4,0.4615,2.94
+one,general_policy,0.434,weak,neutral,rule_indicator,1,5,6,3,0.4615,2.94
+place of,general_policy,0.434,weak,neutral,rule_indicator,2,5,6,4,0.4615,2.94
+surgical procedure,general_policy,0.434,weak,neutral,rule_indicator,2,5,6,3,0.4615,2.94
+test is,general_policy,0.434,weak,neutral,rule_indicator,2,5,6,2,0.4615,2.94
+screening,general_policy,0.4322,weak,neutral,rule_indicator,1,11,16,3,0.4138,2.64
+administration code,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+allergy testing and,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,1,0.5,3.19
+and biological,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+and/ or the,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+applies to the,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+are reported as,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+are reported for,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+as appropriate in,general_policy,0.4289,weak,positive,rule_indicator,3,2,2,2,0.5,3.19
+based sars-cov-,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+based sars-cov- {n},general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,1,0.5,3.19
+biological,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,1,0.5,3.19
+by hfs,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+cardiac,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,1,0.5,3.19
+code for patients,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+code that does,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+code that indicates,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+code that supports,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+coronary fractional,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+coronary fractional flow,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,1,0.5,3.19
+correctly,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,2,0.5,3.19
+correctly reported,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,2,0.5,3.19
+cpt and/,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+cpt and/ or,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,1,0.5,3.19
+discarded,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,1,0.5,3.19
+documented dosage,eligibility_condition,0.4289,weak,neutral,rule_indicator,2,2,2,2,0.5,3.19
+documented dosage administered,eligibility_condition,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+estimate,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,1,0.5,3.19
+estimate of,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+estimate of coronary,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,1,0.5,3.19
+exceed,general_policy,0.4289,weak,negative,rule_indicator,1,2,2,2,0.5,3.19
+exceed the,general_policy,0.4289,weak,negative,rule_indicator,2,2,2,2,0.5,3.19
+exceed the unit,general_policy,0.4289,weak,negative,rule_indicator,3,2,2,2,0.5,3.19
+ffr,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,1,0.5,3.19
+flow,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,1,0.5,3.19
+flow reserve,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+flow reserve ffr,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,1,0.5,3.19
+fluid,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,1,0.5,3.19
+fractional,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,1,0.5,3.19
+fractional flow,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+fractional flow reserve,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,1,0.5,3.19
+imrt therapy,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+indicating,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,2,0.5,3.19
+is appended to,modifier_usage,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+is indicated as,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+limits set,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+limits set by,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,1,0.5,3.19
+modifier is not,modifier_usage,0.4289,weak,negative,rule_indicator,3,2,2,2,0.5,3.19
+modifier {n} is,modifier_usage,0.4289,weak,neutral,rule_indicator,3,2,2,1,0.5,3.19
+more units,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,2,0.5,3.19
+not been reported,general_policy,0.4289,weak,negative,rule_indicator,3,2,2,2,0.5,3.19
+not reported as,general_policy,0.4289,weak,negative,rule_indicator,3,2,2,2,0.5,3.19
+nucleic-acid,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,1,0.5,3.19
+nucleic-acid based,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+nucleic-acid based sars-cov-,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,1,0.5,3.19
+of coronary,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+of coronary fractional,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,1,0.5,3.19
+of esketamine,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+one unit,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+one unit per,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,1,0.5,3.19
+only diagnosis,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,2,0.5,3.19
+only diagnosis code,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+or event,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+products,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,1,0.5,3.19
+reported as conducted,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+reported within the,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+reporting the screening,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,1,0.5,3.19
+reserve,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,1,0.5,3.19
+reserve ffr,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+same provider,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,2,0.5,3.19
+sars-cov- {n} viral,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,1,0.5,3.19
+set by,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+set by hfs,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,1,0.5,3.19
+supports the,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,2,0.5,3.19
+supports the necessity,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+surgery,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,1,0.5,3.19
+symptom,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,1,0.5,3.19
+symptom or,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+symptom or event,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,1,0.5,3.19
+that indicates,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,2,0.5,3.19
+that supports the,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+the allowed,reimbursement_action,0.4289,weak,neutral,rule_indicator,2,2,2,2,0.5,3.19
+the appropriate hcpcs,general_policy,0.4289,weak,positive,rule_indicator,3,2,2,2,0.5,3.19
+the documented,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,2,0.5,3.19
+the only diagnosis,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+the same provider,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+times,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,2,0.5,3.19
+toes,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,2,0.5,3.19
+unit limits set,frequency_limit,0.4289,weak,neutral,rule_indicator,3,2,2,1,0.5,3.19
+urodynamic,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,1,0.5,3.19
+urodynamic testing,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+using the appropriate,general_policy,0.4289,weak,positive,rule_indicator,3,2,2,2,0.5,3.19
+vaccine administration code,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,1,0.5,3.19
+viral,general_policy,0.4289,weak,neutral,rule_indicator,1,2,2,1,0.5,3.19
+within the previous,general_policy,0.4289,weak,neutral,rule_indicator,3,2,2,2,0.5,3.19
+without an approved,general_policy,0.4289,weak,negative,rule_indicator,3,2,2,2,0.5,3.19
+without an icd-,general_policy,0.4289,weak,negative,rule_indicator,3,2,2,2,0.5,3.19
+without the,general_policy,0.4289,weak,negative,rule_indicator,2,2,2,2,0.5,3.19
+without the appropriate,general_policy,0.4289,weak,negative,rule_indicator,3,2,2,2,0.5,3.19
+{n} viral,general_policy,0.4289,weak,neutral,rule_indicator,2,2,2,1,0.5,3.19
+{n} cm diagnosis,general_policy,0.4288,weak,neutral,rule_indicator,3,14,22,11,0.3947,2.52
+support the,general_policy,0.4285,weak,neutral,rule_indicator,2,23,41,23,0.3636,2.32
+services,general_policy,0.4267,weak,neutral,rule_indicator,1,34,68,14,0.3365,2.15
+reported with an,general_policy,0.4254,weak,neutral,rule_indicator,3,9,13,8,0.4167,2.66
+appended,modifier_usage,0.4235,weak,neutral,rule_indicator,1,6,8,5,0.4375,2.79
+non-,general_policy,0.4235,weak,neutral,rule_indicator,1,6,8,5,0.4375,2.79
+reported as,general_policy,0.4235,weak,neutral,rule_indicator,2,6,8,6,0.4375,2.79
+surgical procedures,general_policy,0.4235,weak,neutral,rule_indicator,2,6,8,2,0.4375,2.79
+documentation,general_policy,0.4232,weak,neutral,rule_indicator,1,22,40,22,0.3594,2.29
+documentation is,general_policy,0.4232,weak,neutral,rule_indicator,2,22,40,22,0.3594,2.29
+documentation is expected,general_policy,0.4232,weak,neutral,rule_indicator,3,22,40,22,0.3594,2.29
+expected,general_policy,0.4232,weak,neutral,rule_indicator,1,22,40,22,0.3594,2.29
+expected to,general_policy,0.4232,weak,neutral,rule_indicator,2,22,40,22,0.3594,2.29
+expected to support,documentation,0.4232,weak,neutral,rule_indicator,3,22,40,22,0.3594,2.29
+is expected,general_policy,0.4232,weak,neutral,rule_indicator,2,22,40,22,0.3594,2.29
+is expected to,general_policy,0.4232,weak,neutral,rule_indicator,3,22,40,22,0.3594,2.29
+medical record,general_policy,0.4232,weak,neutral,rule_indicator,2,22,40,22,0.3594,2.29
+medical record documentation,documentation,0.4232,weak,neutral,rule_indicator,3,22,40,22,0.3594,2.29
+record documentation,general_policy,0.4232,weak,neutral,rule_indicator,2,22,40,22,0.3594,2.29
+record documentation is,general_policy,0.4232,weak,neutral,rule_indicator,3,22,40,22,0.3594,2.29
+support the specific,documentation,0.4232,weak,neutral,rule_indicator,3,22,40,22,0.3594,2.29
+the medical,general_policy,0.4232,weak,neutral,rule_indicator,2,22,40,22,0.3594,2.29
+the medical record,general_policy,0.4232,weak,neutral,rule_indicator,3,22,40,22,0.3594,2.29
+to support the,general_policy,0.4232,weak,neutral,rule_indicator,3,22,40,22,0.3594,2.29
+are not reported,general_policy,0.4231,weak,negative,rule_indicator,3,10,15,9,0.4074,2.6
+reported for,general_policy,0.4231,weak,neutral,rule_indicator,2,10,15,9,0.4074,2.6
+this policy,general_policy,0.4231,weak,neutral,rule_indicator,2,10,15,10,0.4074,2.6
+without,general_policy,0.4231,weak,negative,rule_indicator,1,10,15,10,0.4074,2.6
+code that,general_policy,0.4218,weak,neutral,rule_indicator,2,11,17,10,0.4,2.55
+cm diagnosis,general_policy,0.4212,weak,neutral,rule_indicator,2,14,23,11,0.3846,2.45
+code and,general_policy,0.4212,weak,neutral,rule_indicator,2,14,23,14,0.3846,2.45
+support,general_policy,0.4205,weak,neutral,rule_indicator,1,23,43,23,0.3529,2.25
+applicable modifier,modifier_usage,0.4198,weak,neutral,rule_indicator,2,4,5,4,0.4545,2.9
+approved,general_policy,0.4198,weak,positive,rule_indicator,1,4,5,3,0.4545,2.9
+home,place_of_service,0.4198,weak,neutral,rule_indicator,1,4,5,2,0.4545,2.9
+indicate,general_policy,0.4198,weak,neutral,rule_indicator,1,4,5,4,0.4545,2.9
+reported in,general_policy,0.4198,weak,neutral,rule_indicator,2,4,5,3,0.4545,2.9
+diagnosis,general_policy,0.4195,weak,neutral,rule_indicator,1,29,58,19,0.3371,2.15
+record,general_policy,0.4191,weak,neutral,rule_indicator,1,22,41,22,0.3538,2.26
+an icd-,general_policy,0.4177,weak,neutral,rule_indicator,2,7,10,5,0.4211,2.69
+an icd- {n},general_policy,0.4177,weak,neutral,rule_indicator,3,7,10,5,0.4211,2.69
+and modifiers,modifier_usage,0.4177,weak,neutral,rule_indicator,2,7,10,7,0.4211,2.69
+and modifiers reported,modifier_usage,0.4177,weak,neutral,rule_indicator,3,7,10,7,0.4211,2.69
+diagnosis code that,general_policy,0.4177,weak,neutral,rule_indicator,3,7,10,6,0.4211,2.69
+units,general_policy,0.4177,weak,neutral,rule_indicator,1,7,10,6,0.4211,2.69
+service,general_policy,0.4167,weak,neutral,rule_indicator,1,23,44,12,0.3478,2.22
+to support,general_policy,0.4151,weak,neutral,rule_indicator,2,22,42,22,0.3485,2.22
+code and icd-,general_policy,0.4145,weak,neutral,rule_indicator,3,8,12,8,0.4091,2.61
+modifiers reported,modifier_usage,0.4145,weak,neutral,rule_indicator,2,8,12,8,0.4091,2.61
+period,frequency_limit,0.4145,weak,neutral,rule_indicator,1,8,12,5,0.4091,2.61
+icd- {n},general_policy,0.414,weak,neutral,rule_indicator,2,32,68,27,0.3235,2.06
+codes reported,general_policy,0.4132,weak,neutral,rule_indicator,2,13,22,12,0.3784,2.41
+date of service,general_policy,0.4125,weak,neutral,rule_indicator,3,12,20,8,0.3824,2.44
+cm diagnosis code,general_policy,0.4122,weak,neutral,rule_indicator,3,10,16,8,0.3929,2.51
+specific cpt,general_policy,0.4117,weak,neutral,rule_indicator,2,20,38,20,0.35,2.23
+the specific cpt,general_policy,0.4117,weak,neutral,rule_indicator,3,20,38,20,0.35,2.23
+specific,general_policy,0.4116,weak,neutral,rule_indicator,1,26,53,24,0.3333,2.13
+cm,general_policy,0.4094,weak,neutral,rule_indicator,1,32,70,27,0.3173,2.02
+icd-,general_policy,0.4094,weak,neutral,rule_indicator,1,32,70,27,0.3173,2.02
+cm code,general_policy,0.4093,weak,neutral,rule_indicator,2,5,7,5,0.4286,2.73
+place,general_policy,0.4093,weak,neutral,rule_indicator,1,5,7,4,0.4286,2.73
+reported for patients,general_policy,0.4093,weak,neutral,rule_indicator,3,5,7,5,0.4286,2.73
+using the,general_policy,0.4093,weak,neutral,rule_indicator,2,5,7,5,0.4286,2.73
+diagnosis code,general_policy,0.4026,weak,neutral,rule_indicator,2,15,28,12,0.3556,2.27
+patients,general_policy,0.4019,weak,neutral,rule_indicator,1,7,11,6,0.4,2.55
+with diagnosis,general_policy,0.4019,weak,neutral,rule_indicator,2,7,11,4,0.4,2.55
+hcpcs code,general_policy,0.4013,weak,neutral,rule_indicator,2,9,15,6,0.3846,2.45
+allowed,reimbursement_action,0.4013,weak,neutral,rule_indicator,1,3,4,2,0.4444,2.84
+another,general_policy,0.4013,weak,neutral,rule_indicator,1,3,4,2,0.4444,2.84
+by this policy,general_policy,0.4013,weak,neutral,rule_indicator,3,3,4,3,0.4444,2.84
+code reported for,general_policy,0.4013,weak,neutral,rule_indicator,3,3,4,3,0.4444,2.84
+codes are reported,general_policy,0.4013,weak,neutral,rule_indicator,3,3,4,3,0.4444,2.84
+devices,general_policy,0.4013,weak,neutral,rule_indicator,1,3,4,1,0.4444,2.84
+diagnosis code reported,general_policy,0.4013,weak,neutral,rule_indicator,3,3,4,3,0.4444,2.84
+non- covered,reimbursement_action,0.4013,weak,positive,rule_indicator,2,3,4,3,0.4444,2.84
+not indicated,general_policy,0.4013,weak,negative,rule_indicator,2,3,4,3,0.4444,2.84
+not indicated as,general_policy,0.4013,weak,negative,rule_indicator,3,3,4,3,0.4444,2.84
+patient's,general_policy,0.4013,weak,neutral,rule_indicator,1,3,4,2,0.4444,2.84
+patients {n} years,general_policy,0.4013,weak,neutral,rule_indicator,3,3,4,3,0.4444,2.84
+performing the,general_policy,0.4013,weak,neutral,rule_indicator,2,3,4,2,0.4444,2.84
+reported is,general_policy,0.4013,weak,neutral,rule_indicator,2,3,4,3,0.4444,2.84
+screening cpt,general_policy,0.4013,weak,neutral,rule_indicator,2,3,4,1,0.4444,2.84
+screening cpt code,coding_requirement,0.4013,weak,neutral,rule_indicator,3,3,4,1,0.4444,2.84
+the screening,general_policy,0.4013,weak,neutral,rule_indicator,2,3,4,1,0.4444,2.84
+the screening cpt,general_policy,0.4013,weak,neutral,rule_indicator,3,3,4,1,0.4444,2.84
+to indicate,general_policy,0.4013,weak,neutral,rule_indicator,2,3,4,3,0.4444,2.84
+with the appropriate,general_policy,0.4013,weak,positive,rule_indicator,3,3,4,3,0.4444,2.84
+are reported,general_policy,0.3969,weak,neutral,rule_indicator,2,19,39,14,0.3333,2.13
+age or,eligibility_condition,0.3914,weak,neutral,rule_indicator,2,4,6,4,0.4167,2.66
+cancer,general_policy,0.3914,weak,neutral,rule_indicator,1,4,6,2,0.4167,2.66
+cancer screening,general_policy,0.3914,weak,neutral,rule_indicator,2,4,6,2,0.4167,2.66
+limits,general_policy,0.3914,weak,neutral,rule_indicator,1,4,6,3,0.4167,2.66
+modifier reported,modifier_usage,0.3914,weak,neutral,rule_indicator,2,4,6,4,0.4167,2.66
+of age,eligibility_condition,0.3914,weak,neutral,rule_indicator,2,4,6,4,0.4167,2.66
+procedures that,general_policy,0.3914,weak,neutral,rule_indicator,2,4,6,3,0.4167,2.66
+years of age,eligibility_condition,0.3914,weak,neutral,rule_indicator,3,4,6,4,0.4167,2.66
+{n} modifier,modifier_usage,0.3914,weak,neutral,rule_indicator,2,4,6,4,0.4167,2.66
+{n} years of,general_policy,0.3914,weak,neutral,rule_indicator,3,4,6,4,0.4167,2.66
+years,general_policy,0.3907,weak,neutral,rule_indicator,1,9,16,5,0.3704,2.36
+cm codes reported,general_policy,0.389,weak,neutral,rule_indicator,3,8,14,8,0.375,2.39
+codes and,general_policy,0.389,weak,neutral,rule_indicator,2,8,14,8,0.375,2.39
+cpt code and,coding_requirement,0.389,weak,neutral,rule_indicator,3,8,14,8,0.375,2.39
+reported with,general_policy,0.3879,weak,neutral,rule_indicator,2,20,44,17,0.3182,2.03
+inappropriate,denial_prohibition,0.3878,weak,negative,rule_indicator,1,5,8,5,0.4,2.55
+reported by,general_policy,0.3878,weak,neutral,rule_indicator,2,5,8,5,0.4,2.55
+reported using,coding_requirement,0.3878,weak,neutral,rule_indicator,2,5,8,5,0.4,2.55
+with an icd-,general_policy,0.3878,weak,neutral,rule_indicator,3,5,8,5,0.4,2.55
+within the,general_policy,0.3878,weak,neutral,rule_indicator,2,5,8,4,0.4,2.55
+reported with the,general_policy,0.3877,weak,neutral,rule_indicator,3,7,12,6,0.381,2.43
+codes and modifiers,modifier_usage,0.3871,weak,neutral,rule_indicator,3,6,10,6,0.3889,2.48
+surgical,general_policy,0.3855,weak,neutral,rule_indicator,1,13,26,5,0.3415,2.18
+hcpcs,general_policy,0.3849,weak,neutral,rule_indicator,1,19,42,13,0.3175,2.03
+an inappropriate,denial_prohibition,0.3753,weak,negative,rule_indicator,2,2,3,2,0.4286,2.73
+and separately,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,2,0.4286,2.73
+and separately identifiable,general_policy,0.3753,weak,neutral,rule_indicator,3,2,3,2,0.4286,2.73
+appended with,modifier_usage,0.3753,weak,neutral,rule_indicator,2,2,3,2,0.4286,2.73
+appropriate diagnosis code,general_policy,0.3753,weak,positive,rule_indicator,3,2,3,2,0.4286,2.73
+appropriate hcpcs,general_policy,0.3753,weak,positive,rule_indicator,2,2,3,2,0.4286,2.73
+appropriate in this,general_policy,0.3753,weak,positive,rule_indicator,3,2,3,2,0.4286,2.73
+appropriate modifier,modifier_usage,0.3753,weak,positive,rule_indicator,2,2,3,2,0.4286,2.73
+approved icd-,eligibility_condition,0.3753,weak,positive,rule_indicator,2,2,3,2,0.4286,2.73
+approved icd- {n},eligibility_condition,0.3753,weak,positive,rule_indicator,3,2,3,2,0.4286,2.73
+are submitted with,coding_requirement,0.3753,weak,neutral,rule_indicator,3,2,3,2,0.4286,2.73
+as conducted,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,2,0.4286,2.73
+as conducted in,general_policy,0.3753,weak,neutral,rule_indicator,3,2,3,2,0.4286,2.73
+as indicated,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,2,0.4286,2.73
+as indicated in,general_policy,0.3753,weak,neutral,rule_indicator,3,2,3,2,0.4286,2.73
+been reported,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,2,0.4286,2.73
+by facility,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,2,0.4286,2.73
+code as indicated,general_policy,0.3753,weak,neutral,rule_indicator,3,2,3,2,0.4286,2.73
+code that applies,general_policy,0.3753,weak,neutral,rule_indicator,3,2,3,2,0.4286,2.73
+code {code},general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,1,0.4286,2.73
+conducted by,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,2,0.4286,2.73
+conducted in an,general_policy,0.3753,weak,neutral,rule_indicator,3,2,3,2,0.4286,2.73
+cpt code {code},coding_requirement,0.3753,weak,neutral,rule_indicator,3,2,3,1,0.4286,2.73
+documented,general_policy,0.3753,weak,neutral,rule_indicator,1,2,3,2,0.4286,2.73
+dosage,eligibility_condition,0.3753,weak,neutral,rule_indicator,1,2,3,2,0.4286,2.73
+dosage administered,eligibility_condition,0.3753,weak,neutral,rule_indicator,2,2,3,2,0.4286,2.73
+esketamine,general_policy,0.3753,weak,neutral,rule_indicator,1,2,3,1,0.4286,2.73
+for evaluation,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,1,0.4286,2.73
+for evaluation and,general_policy,0.3753,weak,neutral,rule_indicator,3,2,3,1,0.4286,2.73
+hcpcs code is,general_policy,0.3753,weak,neutral,rule_indicator,3,2,3,2,0.4286,2.73
+hydration,general_policy,0.3753,weak,neutral,rule_indicator,1,2,3,1,0.4286,2.73
+in the non-,general_policy,0.3753,weak,neutral,rule_indicator,3,2,3,2,0.4286,2.73
+indicates,general_policy,0.3753,weak,neutral,rule_indicator,1,2,3,2,0.4286,2.73
+iron,general_policy,0.3753,weak,neutral,rule_indicator,1,2,3,1,0.4286,2.73
+is indicated,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,2,0.4286,2.73
+major surgical,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,2,0.4286,2.73
+pediatric vaccine,eligibility_condition,0.3753,weak,neutral,rule_indicator,2,2,3,1,0.4286,2.73
+period of,frequency_limit,0.3753,weak,neutral,rule_indicator,2,2,3,2,0.4286,2.73
+procedures reported,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,2,0.4286,2.73
+reported using an,coding_requirement,0.3753,weak,neutral,rule_indicator,3,2,3,2,0.4286,2.73
+significant and separately,general_policy,0.3753,weak,neutral,rule_indicator,3,2,3,2,0.4286,2.73
+submitted claims,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,1,0.4286,2.73
+testing and,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,1,0.4286,2.73
+that applies,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,2,0.4286,2.73
+that applies to,general_policy,0.3753,weak,neutral,rule_indicator,3,2,3,2,0.4286,2.73
+the appropriate modifier,modifier_usage,0.3753,weak,positive,rule_indicator,3,2,3,2,0.4286,2.73
+the imrt,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,1,0.4286,2.73
+the non-,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,2,0.4286,2.73
+the patients' home,place_of_service,0.3753,weak,neutral,rule_indicator,3,2,3,2,0.4286,2.73
+the provider,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,2,0.4286,2.73
+the test,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,2,0.4286,2.73
+timeframe,frequency_limit,0.3753,weak,neutral,rule_indicator,1,2,3,2,0.4286,2.73
+units are,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,2,0.4286,2.73
+units are reported,general_policy,0.3753,weak,neutral,rule_indicator,3,2,3,2,0.4286,2.73
+unrelated,general_policy,0.3753,weak,neutral,rule_indicator,1,2,3,2,0.4286,2.73
+using an,general_policy,0.3753,weak,neutral,rule_indicator,2,2,3,2,0.4286,2.73
+{n} modifier is,modifier_usage,0.3753,weak,neutral,rule_indicator,3,2,3,2,0.4286,2.73
+cpt code,coding_requirement,0.3742,weak,neutral,rule_indicator,2,18,42,15,0.3065,1.96
+separately,general_policy,0.3717,weak,neutral,rule_indicator,1,6,11,4,0.3684,2.35
+applicable,general_policy,0.3715,weak,neutral,rule_indicator,1,9,18,8,0.3448,2.2
+in this policy,general_policy,0.3691,weak,neutral,rule_indicator,3,5,9,5,0.375,2.39
+applies,general_policy,0.368,weak,neutral,rule_indicator,1,3,5,3,0.4,2.55
+applies to,general_policy,0.368,weak,neutral,rule_indicator,2,3,5,3,0.4,2.55
+conducted in,general_policy,0.368,weak,neutral,rule_indicator,2,3,5,3,0.4,2.55
+modifier is,modifier_usage,0.368,weak,neutral,rule_indicator,2,3,5,3,0.4,2.55
+necessity,general_policy,0.368,weak,neutral,rule_indicator,1,3,5,2,0.4,2.55
+necessity for,general_policy,0.368,weak,neutral,rule_indicator,2,3,5,2,0.4,2.55
+performing,general_policy,0.368,weak,neutral,rule_indicator,1,3,5,2,0.4,2.55
+removal,general_policy,0.368,weak,neutral,rule_indicator,1,3,5,1,0.4,2.55
+sars-cov-,general_policy,0.368,weak,neutral,rule_indicator,1,3,5,1,0.4,2.55
+sars-cov- {n},general_policy,0.368,weak,neutral,rule_indicator,2,3,5,1,0.4,2.55
+the previous,general_policy,0.368,weak,neutral,rule_indicator,2,3,5,3,0.4,2.55
+unit limits,frequency_limit,0.368,weak,neutral,rule_indicator,2,3,5,2,0.4,2.55
+cm diagnosis codes,general_policy,0.3674,weak,neutral,rule_indicator,3,4,7,4,0.3846,2.45
+indicated as,general_policy,0.3674,weak,neutral,rule_indicator,2,4,7,4,0.3846,2.45
+inpatient,general_policy,0.3674,weak,neutral,rule_indicator,1,4,7,2,0.3846,2.45
+procedure is,general_policy,0.3674,weak,neutral,rule_indicator,2,4,7,3,0.3846,2.45
+younger,general_policy,0.3674,weak,neutral,rule_indicator,1,4,7,4,0.3846,2.45
+modifiers,modifier_usage,0.3629,weak,neutral,rule_indicator,1,9,19,9,0.3333,2.13
+diagnosis codes,general_policy,0.3628,weak,neutral,rule_indicator,2,7,14,4,0.3478,2.22
+cpt,general_policy,0.361,weak,neutral,rule_indicator,1,28,81,22,0.2613,1.67
+testing,general_policy,0.3578,weak,neutral,rule_indicator,1,14,34,7,0.3,1.91
+codes,general_policy,0.3563,weak,neutral,rule_indicator,1,26,76,19,0.2596,1.66
+for patients,general_policy,0.3525,weak,neutral,rule_indicator,2,5,10,5,0.3529,2.25
+pediatric,eligibility_condition,0.3525,weak,neutral,rule_indicator,1,5,10,3,0.3529,2.25
+are reported with,general_policy,0.3488,weak,neutral,rule_indicator,3,8,18,8,0.3214,2.05
+an appropriate,general_policy,0.3468,weak,positive,rule_indicator,2,4,8,4,0.3571,2.28
+modifier {n},modifier_usage,0.3468,weak,neutral,rule_indicator,2,4,8,2,0.3571,2.28
+the same date,general_policy,0.3468,weak,neutral,rule_indicator,3,4,8,4,0.3571,2.28
+therapy,general_policy,0.3468,weak,neutral,rule_indicator,1,4,8,2,0.3571,2.28
+years of,general_policy,0.3468,weak,neutral,rule_indicator,2,4,8,4,0.3571,2.28
+conducted,general_policy,0.3419,weak,neutral,rule_indicator,1,7,16,7,0.32,2.04
+indicated,general_policy,0.3419,weak,neutral,rule_indicator,1,7,16,7,0.32,2.04
+code as,general_policy,0.3407,weak,neutral,rule_indicator,2,3,6,3,0.3636,2.32
+code that is,general_policy,0.3407,weak,neutral,rule_indicator,3,3,6,3,0.3636,2.32
+corresponding,general_policy,0.3407,weak,neutral,rule_indicator,1,3,6,3,0.3636,2.32
+diagnosis code as,general_policy,0.3407,weak,neutral,rule_indicator,3,3,6,3,0.3636,2.32
+for patients {n},general_policy,0.3407,weak,neutral,rule_indicator,3,3,6,3,0.3636,2.32
+level of,general_policy,0.3407,weak,neutral,rule_indicator,2,3,6,1,0.3636,2.32
+month,general_policy,0.3407,weak,neutral,rule_indicator,1,3,6,3,0.3636,2.32
+patients {n},general_policy,0.3407,weak,neutral,rule_indicator,2,3,6,3,0.3636,2.32
+the patient,general_policy,0.3407,weak,neutral,rule_indicator,2,3,6,3,0.3636,2.32
+with an appropriate,general_policy,0.3407,weak,positive,rule_indicator,3,3,6,3,0.3636,2.32
+hcpcs codes,general_policy,0.3378,weak,neutral,rule_indicator,2,5,11,3,0.3333,2.13
+date of,general_policy,0.3377,weak,neutral,rule_indicator,2,12,32,8,0.2826,1.8
+specific cpt code,coding_requirement,0.3361,weak,neutral,rule_indicator,3,11,29,11,0.2857,1.82
+and specialty,general_policy,0.3351,weak,neutral,rule_indicator,2,2,4,2,0.375,2.39
+and/ or hcpcs,general_policy,0.3351,weak,neutral,rule_indicator,3,2,4,1,0.375,2.39
+appropriate in,general_policy,0.3351,weak,positive,rule_indicator,2,2,4,2,0.375,2.39
+clinical,general_policy,0.3351,weak,neutral,rule_indicator,1,2,4,1,0.375,2.39
+group psychotherapy,general_policy,0.3351,weak,neutral,rule_indicator,2,2,4,1,0.375,2.39
+major,general_policy,0.3351,weak,neutral,rule_indicator,1,2,4,2,0.375,2.39
+monitoring,general_policy,0.3351,weak,neutral,rule_indicator,1,2,4,1,0.375,2.39
+month period,frequency_limit,0.3351,weak,neutral,rule_indicator,2,2,4,2,0.375,2.39
+of service as,general_policy,0.3351,weak,neutral,rule_indicator,3,2,4,2,0.375,2.39
+or hcpcs,general_policy,0.3351,weak,neutral,rule_indicator,2,2,4,1,0.375,2.39
+or hcpcs codes,general_policy,0.3351,weak,neutral,rule_indicator,3,2,4,1,0.375,2.39
+or less,general_policy,0.3351,weak,neutral,rule_indicator,2,2,4,2,0.375,2.39
+patient was,general_policy,0.3351,weak,neutral,rule_indicator,2,2,4,2,0.375,2.39
+patients' home,place_of_service,0.3351,weak,neutral,rule_indicator,2,2,4,2,0.375,2.39
+reported in any,general_policy,0.3351,weak,neutral,rule_indicator,3,2,4,2,0.375,2.39
+significant and,general_policy,0.3351,weak,neutral,rule_indicator,2,2,4,2,0.375,2.39
+tax,general_policy,0.3351,weak,neutral,rule_indicator,1,2,4,2,0.375,2.39
+tax id,general_policy,0.3351,weak,neutral,rule_indicator,2,2,4,2,0.375,2.39
+testing is reported,general_policy,0.3351,weak,neutral,rule_indicator,3,2,4,2,0.375,2.39
+that supports,general_policy,0.3351,weak,neutral,rule_indicator,2,2,4,2,0.375,2.39
+the patient was,general_policy,0.3351,weak,neutral,rule_indicator,3,2,4,2,0.375,2.39
+vitamin testing,general_policy,0.3351,weak,neutral,rule_indicator,2,2,4,1,0.375,2.39
+where the patient,general_policy,0.3351,weak,neutral,rule_indicator,3,2,4,2,0.375,2.39
+which includes,general_policy,0.3351,weak,neutral,rule_indicator,2,2,4,2,0.375,2.39
+provided,general_policy,0.334,weak,neutral,rule_indicator,1,6,14,6,0.3182,2.03
+claim,general_policy,0.3289,weak,neutral,rule_indicator,1,4,9,3,0.3333,2.13
+plan,general_policy,0.3289,weak,neutral,rule_indicator,1,4,9,1,0.3333,2.13
+psychotherapy,general_policy,0.3289,weak,neutral,rule_indicator,1,4,9,1,0.3333,2.13
+the procedure,general_policy,0.3289,weak,neutral,rule_indicator,2,4,9,3,0.3333,2.13
+administration,general_policy,0.3247,weak,neutral,rule_indicator,1,5,12,2,0.3158,2.01
+code icd-,general_policy,0.3247,weak,neutral,rule_indicator,2,5,12,5,0.3158,2.01
+code icd- {n},general_policy,0.3247,weak,neutral,rule_indicator,3,5,12,5,0.3158,2.01
+part,general_policy,0.3247,weak,neutral,rule_indicator,1,5,12,4,0.3158,2.01
+vitamin,general_policy,0.3247,weak,neutral,rule_indicator,1,5,12,1,0.3158,2.01
+outpatient,general_policy,0.3237,weak,neutral,rule_indicator,1,6,15,3,0.3043,1.94
+previous,general_policy,0.318,weak,neutral,rule_indicator,1,3,7,3,0.3333,2.13
+reported on,general_policy,0.318,weak,neutral,rule_indicator,2,3,7,3,0.3333,2.13
+specialty,general_policy,0.318,weak,neutral,rule_indicator,1,3,7,3,0.3333,2.13
+vaccine administration,general_policy,0.318,weak,neutral,rule_indicator,2,3,7,1,0.3333,2.13
+code reported,general_policy,0.3133,weak,neutral,rule_indicator,2,4,10,4,0.3125,1.99
+covered,reimbursement_action,0.3133,weak,positive,rule_indicator,1,4,10,3,0.3125,1.99
+must,general_policy,0.3133,weak,neutral,rule_indicator,1,4,10,2,0.3125,1.99
+must be,general_policy,0.3133,weak,neutral,rule_indicator,2,4,10,2,0.3125,1.99
+set,general_policy,0.3133,weak,neutral,rule_indicator,1,4,10,3,0.3125,1.99
+allergy testing,general_policy,0.3039,weak,neutral,rule_indicator,2,2,5,1,0.3333,2.13
+coronary,general_policy,0.3039,weak,neutral,rule_indicator,1,2,5,1,0.3333,2.13
+hcpcs code and,general_policy,0.3039,weak,neutral,rule_indicator,3,2,5,2,0.3333,2.13
+id,general_policy,0.3039,weak,neutral,rule_indicator,1,2,5,2,0.3333,2.13
+immunotherapy,general_policy,0.3039,weak,neutral,rule_indicator,1,2,5,1,0.3333,2.13
+indicated in,general_policy,0.3039,weak,neutral,rule_indicator,2,2,5,2,0.3333,2.13
+indicated in this,general_policy,0.3039,weak,neutral,rule_indicator,3,2,5,2,0.3333,2.13
+prior,general_policy,0.3039,weak,neutral,rule_indicator,1,2,5,2,0.3333,2.13
+prior to,general_policy,0.3039,weak,neutral,rule_indicator,2,2,5,2,0.3333,2.13
+service as,general_policy,0.3039,weak,neutral,rule_indicator,2,2,5,2,0.3333,2.13
+the patients',general_policy,0.3039,weak,neutral,rule_indicator,2,2,5,2,0.3333,2.13
+not reported with,general_policy,0.2995,weak,negative,rule_indicator,3,4,11,4,0.2941,1.88
+same date,general_policy,0.2995,weak,neutral,rule_indicator,2,4,11,4,0.2941,1.88
+same date of,general_policy,0.2995,weak,neutral,rule_indicator,3,4,11,4,0.2941,1.88
+chiropractic,general_policy,0.2987,weak,neutral,rule_indicator,1,3,8,1,0.3077,1.96
+group,general_policy,0.2987,weak,neutral,rule_indicator,1,3,8,2,0.3077,1.96
+is reported with,general_policy,0.2987,weak,neutral,rule_indicator,3,3,8,3,0.3077,1.96
+polysomnography,general_policy,0.2987,weak,neutral,rule_indicator,1,3,8,1,0.3077,1.96
+vaccine,general_policy,0.2987,weak,neutral,rule_indicator,1,3,8,1,0.3077,1.96
+level,general_policy,0.2835,weak,neutral,rule_indicator,1,5,16,3,0.2609,1.66
+test,general_policy,0.2829,weak,neutral,rule_indicator,1,6,20,3,0.25,1.6
+cerumen,general_policy,0.2822,weak,neutral,rule_indicator,1,3,9,1,0.2857,1.82
+facility,general_policy,0.2822,weak,neutral,rule_indicator,1,3,9,3,0.2857,1.82
+impacted,general_policy,0.2822,weak,neutral,rule_indicator,1,3,9,1,0.2857,1.82
+impacted cerumen,general_policy,0.2822,weak,neutral,rule_indicator,2,3,9,1,0.2857,1.82
+visit,general_policy,0.2822,weak,neutral,rule_indicator,1,3,9,1,0.2857,1.82
+allergy,general_policy,0.2789,weak,neutral,rule_indicator,1,2,6,1,0.3,1.91
+an appropriate diagnosis,general_policy,0.2789,weak,positive,rule_indicator,3,2,6,2,0.3,1.91
+appropriate diagnosis,general_policy,0.2789,weak,positive,rule_indicator,2,2,6,2,0.3,1.91
+body part,general_policy,0.2789,weak,neutral,rule_indicator,2,2,6,2,0.3,1.91
+code for,general_policy,0.2789,weak,neutral,rule_indicator,2,2,6,2,0.3,1.91
+diagnosis codes and,general_policy,0.2789,weak,neutral,rule_indicator,3,2,6,2,0.3,1.91
+hcpcs level ii,coding_requirement,0.2789,weak,neutral,rule_indicator,3,2,6,2,0.3,1.91
+identifiable,general_policy,0.2789,weak,neutral,rule_indicator,1,2,6,2,0.3,1.91
+listed,general_policy,0.2789,weak,neutral,rule_indicator,1,2,6,2,0.3,1.91
+listed in,general_policy,0.2789,weak,neutral,rule_indicator,2,2,6,2,0.3,1.91
+patients',general_policy,0.2789,weak,neutral,rule_indicator,1,2,6,2,0.3,1.91
+pos {n},place_of_service,0.2789,weak,neutral,rule_indicator,2,2,6,2,0.3,1.91
+procedure code,general_policy,0.2789,weak,neutral,rule_indicator,2,2,6,2,0.3,1.91
+procedures are reported,general_policy,0.2789,weak,neutral,rule_indicator,3,2,6,2,0.3,1.91
+provision,general_policy,0.2789,weak,neutral,rule_indicator,1,2,6,1,0.3,1.91
+reported on the,general_policy,0.2789,weak,neutral,rule_indicator,3,2,6,2,0.3,1.91
+same day,general_policy,0.2789,weak,neutral,rule_indicator,2,2,6,2,0.3,1.91
+separately identifiable,general_policy,0.2789,weak,neutral,rule_indicator,2,2,6,2,0.3,1.91
+significant,general_policy,0.2789,weak,neutral,rule_indicator,1,2,6,2,0.3,1.91
+studies,general_policy,0.2789,weak,neutral,rule_indicator,1,2,6,1,0.3,1.91
+supervision,general_policy,0.2789,weak,neutral,rule_indicator,1,2,6,1,0.3,1.91
+supervision of,general_policy,0.2789,weak,neutral,rule_indicator,2,2,6,1,0.3,1.91
+supports,general_policy,0.2789,weak,neutral,rule_indicator,1,2,6,2,0.3,1.91
+surgical procedures that,general_policy,0.2789,weak,neutral,rule_indicator,3,2,6,2,0.3,1.91
+testing is,general_policy,0.2789,weak,neutral,rule_indicator,2,2,6,2,0.3,1.91
+the correct,general_policy,0.2789,weak,neutral,rule_indicator,2,2,6,2,0.3,1.91
+the same day,general_policy,0.2789,weak,neutral,rule_indicator,3,2,6,2,0.3,1.91
+visits,general_policy,0.2789,weak,neutral,rule_indicator,1,2,6,2,0.3,1.91
+vitamin deficiency,general_policy,0.2789,weak,neutral,rule_indicator,2,2,6,1,0.3,1.91
+{n} years,general_policy,0.2664,weak,neutral,rule_indicator,2,4,14,4,0.25,1.6
+deficiency,general_policy,0.2584,weak,neutral,rule_indicator,1,2,7,1,0.2727,1.74
+due,general_policy,0.2584,weak,neutral,rule_indicator,1,2,7,2,0.2727,1.74
+due to,general_policy,0.2584,weak,neutral,rule_indicator,2,2,7,2,0.2727,1.74
+hcpcs level,general_policy,0.2584,weak,neutral,rule_indicator,2,2,7,2,0.2727,1.74
+reported with diagnosis,general_policy,0.2584,weak,neutral,rule_indicator,3,2,7,2,0.2727,1.74
+respiratory,general_policy,0.2584,weak,neutral,rule_indicator,1,2,7,2,0.2727,1.74
+use of,general_policy,0.2584,weak,neutral,rule_indicator,2,2,7,2,0.2727,1.74
+tests,general_policy,0.2555,weak,neutral,rule_indicator,1,3,11,2,0.25,1.6
+equipment,general_policy,0.2414,weak,neutral,rule_indicator,1,2,8,1,0.25,1.6
+less,general_policy,0.2414,weak,neutral,rule_indicator,1,2,8,2,0.25,1.6
+procedures are,general_policy,0.2414,weak,neutral,rule_indicator,2,2,8,2,0.25,1.6

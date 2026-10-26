@@ -1,0 +1,110 @@
+{
+  "policy_title": "Physician Administered Services",
+  "policy_number": "ABHIL-RP-0025",
+  "effective_date": "06/01/2026",
+  "expiry_date": "03/15/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for physician administered services when appropriately reported. \nAppropriate reporting includes \n• \nReporting only up to the unit limits set by HFS for CPT and/ or HCPCS codes. \n• \nFor drugs that are not administered and are discarded, the HCPCS code must be reported \nwith the JW modifier. Discarded units billed with the JW modifier are excluded from unit \nlimits. \n \nClaims that are submitted will be denied when \n• \nCPT and/ or HCPCS codes are reported with units that exceed the unit limits set by HFS \n \nThe medical record documentation is expected to support the specific CPT/ HCPCS code(s), \nmodifiers and ICD-10-CM codes reported.",
+    "subsections": [
+      {
+        "title": "Reporting only up to the unit limits set by HFS for CPT and/ or HCPCS codes.",
+        "content": "Reporting only up to the unit limits set by HFS for CPT and/ or HCPCS codes."
+      },
+      {
+        "title": "For drugs that are not administered and are discarded, the HCPCS code must be reported",
+        "content": "with the JW modifier. Discarded units billed with the JW modifier are excluded from unit limits. Claims that are submitted will be denied when"
+      },
+      {
+        "title": "CPT and/ or HCPCS codes are reported with units that exceed the unit limits set by HFS",
+        "content": "The medical record documentation is expected to support the specific CPT/ HCPCS code(s), modifiers and ICD-10-CM codes reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for physician administered services when appropriately reported.\nAppropriate reporting includes\n• Reporting only up to the unit limits set by HFS for CPT and/ or HCPCS codes.\n• For drugs that are not administered and are discarded, the HCPCS code must be reported\nwith the JW modifier. Discarded units billed with the JW modifier are excluded from unit\nlimits.\nClaims that are submitted will be denied when\n• CPT and/ or HCPCS codes are reported with units that exceed the unit limits set by HFS\nThe medical record documentation is expected to support the specific CPT/ HCPCS code(s),\nmodifiers and ICD-10-CM codes reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "Modifier\nJW Drug amount discarded/not administered to any patient",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "JW",
+            "value": "Drug amount discarded/not administered to any patient"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "F. Frequently Asked Questions",
+            "value": ""
+          },
+          {
+            "key": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "G. Review/Revision Date",
+            "value": ""
+          },
+          {
+            "key": "Action",
+            "value": "Date | Comments"
+          },
+          {
+            "key": "Effective Date",
+            "value": "06/01/2026"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "H. Resources",
+            "value": ""
+          },
+          {
+            "key": "1. American Medical Association. CPT Professional Edition 2026, AMA; 2025.\n2. American Medical Association. HCPCS Level II Professional 2026, AMA; 2025.\n3. Illinois Department of Healthcare and Family Services. Practitioner Fee Schedule; 2026.\nhttps://hfs.illinois.gov/medicalproviders/medicaidreimbursement/practitioner.html",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. CPT Professional Edition 2026, AMA; 2025. \n2. American Medical Association. HCPCS Level II Professional 2026, AMA; 2025. \n3. Illinois Department of Healthcare and Family Services. Practitioner Fee Schedule; 2026. \nhttps://hfs.illinois.gov/medicalproviders/medicaidreimbursement/practitioner.html"
+}

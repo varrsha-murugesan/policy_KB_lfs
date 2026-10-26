@@ -1,0 +1,111 @@
+{
+  "policy_title": "Standby Services Policy",
+  "policy_number": "2026R9036A",
+  "policy_dates": {
+    "effective_date": "7/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": false,
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This reimbursement policy addresses reimbursement for standby services and hospital mandated on call services."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "Standby Services Per Current Procedural Terminology (CPT) definition, code 99360 is used to report physician or other qualified health care professional standby services that are requested by another individual that involves prolonged attendance without direct (face-to-face) patient contact. Care or services may not be provided to other patients during this period. This code is not used to report time spent proctoring another individual. It is also not used if the period of standby ends with the performance of a procedure subject to a surgical package by the individual who was on standby. In accordance with CMS, UnitedHealthcare Medicare Advantage does not reimburse physician or other qualified health care professional standby services submitted with CPT code 99360. Payment for standby services are included in the Part A payment to the facility. If a specific service is directly rendered to the patient by the standby physician or other qualified health care professional (i.e., tissue examination of frozen section biopsy), the service or procedure would be reported under the appropriate CPT code (i.e., 88331). Mandated Hospital on Call Service UnitedHealthcare Medicare Advantage does not reimburse for hospital mandated on call services billed under CPT codes 99026 and 99027 because they do not involve direct patient contact. Codes CPT code section 99026 99027 99360",
+          "subsections": [
+            {
+              "title": "Standby Services",
+              "content": "Per Current Procedural Terminology (CPT®) definition, code 99360 is used to report physician or other qualified health care professional standby services that are requested by another individual that involves prolonged attendance without direct (face-to-face) patient contact. Care or services may not be provided to other patients during this period. This code is not used to report time spent proctoring another individual. It is also not used if the period of standby ends with the performance of a procedure subject to a surgical package by the individual who was on standby. In accordance with CMS, UnitedHealthcare Medicare Advantage does not reimburse physician or other qualified health care professional standby services submitted with CPT code 99360. Payment for standby services are included in the Part A payment to the facility. If a specific service is directly rendered to the patient by the standby physician or other qualified health care professional (i.e., tissue examination of frozen section biopsy), the service or procedure would be reported under the appropriate CPT code (i.e., 88331)."
+            },
+            {
+              "title": "Mandated Hospital on Call Service",
+              "content": "UnitedHealthcare Medicare Advantage does not reimburse for hospital mandated on call services billed under CPT codes 99026 and 99027 because they do not involve direct patient contact. Codes CPT code section 99026 99027 99360"
+            }
+          ],
+          "children": [
+            {
+              "title": "Resources",
+              "level": 3,
+              "confirmed": true,
+              "page": 2,
+              "matched_via": "blue",
+              "type": "text",
+              "content": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "7/1/2026",
+          "value": "Policy Version Change Anniversary Review"
+        },
+        {
+          "key": "7/1/2025",
+          "value": "Policy Version Change Anniversary Review History Section: Entries prior to 7/1/2023 archived"
+        },
+        {
+          "key": "7/1/2024",
+          "value": "Policy Version Change Policy Logo Updated"
+        },
+        {
+          "key": "11/19/2014",
+          "value": "New Policy"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": false,
+      "type": "text",
+      "content": ""
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "99360",
+    "88331",
+    "99026",
+    "99027"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

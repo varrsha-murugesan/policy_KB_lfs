@@ -1,0 +1,8 @@
+{
+  "payer": "Humana",
+  "adapter": "sectioned_list",
+  "detection_patterns": ["\\bHumana\\b"],
+  "id_fields": ["source_pdf"],
+  "generic_title_patterns": [],
+  "section_role_patterns": {}
+}

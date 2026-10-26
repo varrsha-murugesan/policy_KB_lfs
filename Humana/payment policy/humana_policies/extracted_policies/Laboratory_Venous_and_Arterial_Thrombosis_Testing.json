@@ -1,0 +1,234 @@
+{
+  "policy_metadata": {
+    "policy_title": "Laboratory – Venous and Arterial Thrombosis Testing",
+    "policy_number": "LAB2023006",
+    "published_date": "03/2023",
+    "effective_date": "03/2023",
+    "revision_date": "12/2025",
+    "last_reviewed": "12/2025",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Professional",
+    "source_pdf": "Laboratory_-_Venous_and_Arterial_Thrombosis_Testing-3b929d05.pdf",
+    "total_pages": 5,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "0278U",
+      "85300",
+      "85301",
+      "85302",
+      "85303",
+      "85305",
+      "85306",
+      "85307"
+    ],
+    "cpt_codes": [
+      "0278U",
+      "85300",
+      "85301",
+      "85302",
+      "85303",
+      "85305",
+      "85306",
+      "85307"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. • Plasma testing for protein C deficiency (CPT code 85302, CPT code 85303), protein S deficiency (CPT code 85305, CPT code 85306) and antithrombin III deficiency (CPT code 85300, CPT code 85301) IS REIMBURSABLE for any of the following situations: – Acute coronary syndromes including myocardial infarction – Any deep venous thrombosis – Arterial ischemic stroke – Deep phlebothrombosis in pregnancy – Disseminated intravascular coagulation, also known as defibrination syndrome – Pulmonary embolism – Relatives of individuals with deep venous thrombosis • Plasma testing for protein C deficiency (CPT code 85302, CPT code 85303) or protein S deficiency (CPT code 85305, CPT code 85306) IS REIMBURSABLE for any of the following situations: – Neonatal purpura fulminans – Warfarin-induced skin necrosis • Venous thrombosis risk testing (CPT codes 85300-85303, CPT code 85305, CPT code 85306) for superficial venous thrombosis, including superficial thrombophlebitis and varicosities, IS NOT REIMBURSABLE . • The activated protein C resistance assay (CPT code 85307) IS NOT REIMBURSABLE . • Multi-gene panel testing (CPT code 0278U*) IS NOT REIMBURSABLE . Applicable procedures for Medicare Advantage plans"
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 1,
+          "page_end": 2,
+          "columns": [
+            "Procedure Code",
+            "Code Description"
+          ],
+          "row_count": 8,
+          "rows": [
+            {
+              "Procedure Code": "85300",
+              "Code Description": "Clotting inhibitors or anticoagulants; antithrombin III, activity"
+            },
+            {
+              "Procedure Code": "85301",
+              "Code Description": "Clotting inhibitors or anticoagulants; antithrombin III, antigen assay"
+            },
+            {
+              "Procedure Code": "85302",
+              "Code Description": "Clotting inhibitors or anticoagulants; protein C, antigen"
+            },
+            {
+              "Procedure Code": "85303",
+              "Code Description": "Clotting inhibitors or anticoagulants; protein C, activity"
+            },
+            {
+              "Procedure Code": "85305",
+              "Code Description": "Clotting inhibitors or anticoagulants; protein S, total"
+            },
+            {
+              "Procedure Code": "85306",
+              "Code Description": "Clotting inhibitors or anticoagulants; protein S, free"
+            },
+            {
+              "Procedure Code": "85307",
+              "Code Description": "Activated Protein C (APC) resistance assay"
+            },
+            {
+              "Procedure Code": "0278U*",
+              "Code Description": "Hematology (genetic thrombosis), genomic sequence analysis of 14 genes, blood, buccal swab, or amniotic\nfluid\nProprietary test: Versiti™ Thrombosis Panel\nLab/Manufacturer: Versiti™ Comprehensive Bleeding Disorder Panel"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Original Medicare Local Coverage Determinations (LCDs)",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 3,
+      "content": [
+        "Solutions, Novitas Solutions, Palmetto GBA, and Wisconsin Physicians Service Insurance Company."
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 2,
+          "page_end": 3,
+          "columns": [
+            "Contractor Name",
+            "Policy Title",
+            "Policy Number",
+            "Procedure Code"
+          ],
+          "row_count": 13,
+          "rows": [
+            {
+              "Contractor Name": "First Coast Service Options,\nInc.",
+              "Policy Title": "Billing and Coding: Molecular\nPathology and Genetic Testing",
+              "Policy Number": "A58918",
+              "Procedure Code": "0278U"
+            },
+            {
+              "Contractor Name": "Palmetto GBA",
+              "Policy Title": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "Policy Number": "L35025",
+              "Procedure Code": "0278U"
+            },
+            {
+              "Contractor Name": "Novitas Solutions, Inc",
+              "Policy Title": "Biomarkers Overview",
+              "Policy Number": "L35062",
+              "Procedure Code": "0278U"
+            },
+            {
+              "Contractor Name": "Novitas Solutions, Inc",
+              "Policy Title": "Genetic Testing in Oncology:\nSpecific Tests",
+              "Policy Number": "L39365",
+              "Procedure Code": "0278U"
+            },
+            {
+              "Contractor Name": "Noridian Healthcare Solutions,\nLLC",
+              "Policy Title": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "Policy Number": "L35160",
+              "Procedure Code": "0278U"
+            },
+            {
+              "Contractor Name": "CGS Administrators, LLC",
+              "Policy Title": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "Policy Number": "L36021",
+              "Procedure Code": "0278U"
+            },
+            {
+              "Contractor Name": "Noridian Healthcare Solutions,\nLLC",
+              "Policy Title": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "Policy Number": "L36256",
+              "Procedure Code": "0278U"
+            },
+            {
+              "Contractor Name": "Wisconsin Physicians Service\nInsurance Corporation",
+              "Policy Title": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "Policy Number": "L36807",
+              "Procedure Code": "0278U"
+            },
+            {
+              "Contractor Name": "CGS Administrators, LLC",
+              "Policy Title": "MolDX: Repeat Germline\nTesting",
+              "Policy Number": "L38288",
+              "Procedure Code": "0278U"
+            },
+            {
+              "Contractor Name": "Noridian Healthcare Solutions,\nLLC",
+              "Policy Title": "MolDX: Repeat Germline\nTesting",
+              "Policy Number": "L38351",
+              "Procedure Code": "0278U"
+            },
+            {
+              "Contractor Name": "Noridian Healthcare Solutions,\nLLC",
+              "Policy Title": "MolDX: Repeat Germline\nTesting",
+              "Policy Number": "L38353",
+              "Procedure Code": "0278U"
+            },
+            {
+              "Contractor Name": "Palmetto GBA",
+              "Policy Title": "MolDX: Repeat Germline\nTesting",
+              "Policy Number": "L38274",
+              "Procedure Code": "0278U"
+            },
+            {
+              "Contractor Name": "Wisconsin Physicians Service\nInsurance Corporation",
+              "Policy Title": "MolDX: Repeat Germline\nTesting",
+              "Policy Number": "L38429",
+              "Procedure Code": "0278U"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 5,
+      "content": [
+        "ACOG. (2013). ACOG Practice Bulletin No. 138: Inherited thrombophilias in pregnancy. Obstet Gynecol, 122 (3), 706-717. doi:10.1097/01.AOG.0000433981.36184.4e ACOG. (2018). ACOG Practice Bulletin No. 197 Summary: Inherited Thrombophilias in Pregnancy. Obstet Gynecol, 132 (1), 249-251. doi:10.1097/aog.0000000000002705 Algahtani, F. H., & Stuckey, R. (2019). High factor VIII levels and arterial thrombosis: illustrative case and literature review. Ther Adv Hematol, 10 , 2040620719886685. doi:10.1177/2040620719886685 ASCLS. (2021). American Society for Clinical Laboratory Science. Retrieved from https://www.choosingwisely.org/clinician- lists/ascls7-do-not-order-a-homocysteine-assay-as-part-of-the-thrombophilia-work-up/ ASCP. (2017). American Society for Clinical Pathology. Retrieved from http://www.choosingwisely.org/clinician-lists/ascp-testing- for-protein-c-protein-s-or-antithrombin-during-active-clotting-event/ ASCP. (2019). American Society of Clinical Pathology. Retrieved from https://www.choosingwisely.org/clinician-lists/ascp- hypercoagulable-workup/ ASH. (2013). ASH - Testing for thromboembolism | Choosing Wisely. Retrieved from http://www.choosingwisely.org/clinician- lists/american-society-hematology-testing-for-thrombophilia-in-adults/. http://www.choosingwisely.org/clinician- lists/american-society-hematology-testing-for-thrombophilia-in-adults/ Bank, I., Libourel, E. J., Middeldorp, S., Hamulyak, K., van Pampus, E. C., Koopman, M. M., . . . Buller, H. R. (2005). Elevated levels of FVIII:C within families are associated with an increased risk for venous and arterial thrombosis. J Thromb Haemost, 3 (1), 79-",
+        "84. doi:10.1111/j.1538-7836.2004.01033.x Barnes, G. (2017, 06/05/2017). Thrombophilia Testing for Provoked VTE. Retrieved from https://www.acc.org/latest-in- cardiology/ten-points-to-remember/2017/06/05/12/46/thrombophilia-testing-in-provoked-venous-thromboembolism Barnes, G. D. (2017). Thrombophilia Testing and Venous Thrombosis. Retrieved from https://www.acc.org/latest-in-cardiology/ten- points-to-remember/2017/10/20/11/18/thrombophilia-testing-and-venous-thrombosis. Bartholomew, J. R. (2017). Update on the management of venous thromboembolism. Cleve Clin J Med, 84 (12 Suppl 3), 39-46. doi:10.3949/ccjm.84.s3.04 Bashford, M. T., Hickey, S. E., Curry, C. J., Toriello, H. V., American College of Medical, G., Genomics Professional, P., & Guidelines, C. (2020). Addendum: ACMG Practice Guideline: lack of evidence for MTHFR polymorphism testing. Genetics in Medicine, 22 (12), 2125-2125. doi:10.1038/s41436-020-0843-0 Bauer, K. (2019a). Factor V Leiden and activated protein C resistance. Retrieved from https://www.uptodate.com/contents/factor-v- leiden-and-activated-protein-c-resistance?topicRef=1361&source=see_link Bauer, K. (2019b). Protein C deficiency. Retrieved from https://www.uptodate.com/contents/protein-c- deficiency?topicRef=1361&source=see_link Bauer, K. (2019c). Prothrombin G20210A mutation. Retrieved from https://www.uptodate.com/contents/prothrombin-g20210a- mutation?topicRef=1361&source=see_link Bauer, K. (2020). Clinical presentation and diagnosis of the nonpregnant adult with suspected deep vein thrombosis of the lower",
+        "extremity. Retrieved from https://www.uptodate.com/contents/clinical-presentation-and-diagnosis-of-the-nonpregnant- adult-with-suspected-deep-vein-thrombosis-of-the-lower- extremity?search=deep%20vein%20thrombosis&source=search_result&selectedTitle=2~150&usage_type=default&display _rank=2 Bauer, K. (2021). Protein S deficiency. Retrieved from https://www.uptodate.com/contents/protein-s- deficiency?topicRef=1361&source=see_link Bauer, K., & Lip, G. (2018). Overview of the causes of venous thrombosis - UpToDate. In G. Finlay (Ed.), UpToDate . Retrieved from https://www.uptodate.com/contents/overview-of-the-causes-of-venous- thrombosis?search=thrombophilia&usage_type=default&source=search_result&selectedTitle=1~150&display_rank=1 Bauer, K., & Lip, G. (2020). Overview of the causes of venous thrombosis - UpToDate. In G. Finlay (Ed.), UpToDate . Retrieved from https://www.uptodate.com/contents/overview-of-the-causes-of-venous- thrombosis?search=thrombophilia&usage_type=default&source=search_result&selectedTitle=1~150&display_rank=1 Byrnes, J. R., & Wolberg, A. S. (2017). Red blood cells in thrombosis. Blood, 130 (16), 1795-1799. doi:10.1182/blood-2017-03-745349 Carroll, B. J., & Piazza, G. (2018). Hypercoagulable states in arterial and venous thrombosis: When, how, and who to test? Vasc Med, 23 (4), 388-399. doi:10.1177/1358863x18755927 Chiasakul, T., De Jesus, E., Tong, J., Chen, Y., Crowther, M., Garcia, D., . . . Cuker, A. (2019). Inherited Thrombophilia and the Risk of Arterial Ischemic Stroke: A Systematic Review and Meta-Analysis. J Am Heart Assoc, 8 (19), e012877. doi:10.1161/jaha.119.012877 Connors, J. M. (2017). Thrombophilia Testing and Venous Thrombosis. In N Engl J Med (Vol. 377, pp. 2298). United States. Crous-Bou, M., Harrington, L. B., & Kabrhel, C. (2016). Environmental and genetic risk factors associated with venous",
+        "thromboembolism. Semin Thromb Hemost, 42 (8), 808-820. doi:10.1055/s-0036-1592333 Curtis, C., Mineyko, A., Massicotte, P., Leaker, M., Jiang, X. Y., Floer, A., & Kirton, A. (2017). Thrombophilia risk is not increased in children after perinatal stroke. Blood, 129 (20), 2793-2800. doi:10.1182/blood-2016-11-750893 EGAPP. (2011). Recommendations from the EGAPP Working Group: routine testing for Factor V Leiden (R506Q) and prothrombin (20210G>A) mutations in adults with a history of idiopathic venous thromboembolism and their adult family members. Genet Med, 13 (1), 67-76. doi:10.1097/GIM.0b013e3181fbe46f Ferriero, D. M., , Fullerton, H. J., , Bernard, T. J., Billinghurst, L., . . . Nursing, A. H. A. S. C. a. C. o. C. a. S. (2019). Management of Stroke in Neonates and Children: A Scientific Statement From the American Heart Association/American Stroke Association. Stroke, 50 (3). doi: http://dx.doi.org/10.1161/str.0000000000000183 Gupta, A., Sarode, R., & Nagalla, S. (2017). Thrombophilia Testing in Provoked Venous Thromboembolism: A Teachable Moment. JAMA Internal Medicine, 177 (8), 1195-1196. doi:10.1001/jamainternmed.2017.1815 Herrmann, J. (2018). Clinical Cardio-Oncology : Elsevier. Hickey, S. E., Curry, C. J., & Toriello, H. V. (2013). ACMG Practice Guideline: lack of evidence for MTHFR polymorphism testing. Genet Med, 15 (2), 153-156. doi:10.1038/gim.2012.165 Kleindorfer, D. O., Towfighi, A., Chaturvedi, S., Cockroft, K. M., Gutierrez, J., Lombardi-Hill, D., . . . Williams, L. S. (2021). 2021 Guideline for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack: A Guideline From the American Heart Association/American Stroke Association. Stroke, 52 (7), e364-e467. doi:10.1161/str.0000000000000375 Konstantinides, S. V., Meyer, G., Becattini, C., Bueno, H., Geersing, G. J., Harjola, V. P., . . . Zamorano, J. L. (2019). 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC). Eur Respir J, 54 (3). doi:10.1183/13993003.01647-2019 Kujovich, J. L. (2011). Factor V Leiden thrombophilia. Genet Med, 13 (1), 1-16. doi:10.1097/GIM.0b013e3181faa0f2 Kujovich, J. L. (2018). Factor V Leiden Thrombophilia. In M. P. Adam, H. H. Ardinger, R. A. Pagon, S. E. Wallace, L. J. H. Bean, K. Stephens, & A. Amemiya (Eds.), GeneReviews((R)) . Seattle (WA): University of Washington, Seattle University of Washington, Seattle. GeneReviews is a registered trademark of the University of Washington, Seattle. All rights reserved. Lee, E. J., Dykas, D. J., Leavitt, A. D., Camire, R. M., Ebberink, E., García de Frutos, P., . . . Lee, A. I. (2017). Whole-exome sequencing in evaluation of patients with venous thromboembolism. Blood Adv, 1 (16), 1224-1237. doi:10.1182/bloodadvances.2017005249 Lehman, L. L., Beaute, J., Kapur, K., Danehy, A. R., Bernson-Leung, M. E., Malkin, H., . . . Trenor, C. C. (2017). Workup for Perinatal Stroke Does Not Predict Recurrence. Stroke, 48 (8), 2078-2083. doi:10.1161/STROKEAHA.117.017356 Lim, W., Le Gal, G., Bates, S. M., Righini, M., Haramati, L. B., Lang, E., . . . Mustafa, R. A. (2018). American Society of Hematology 2018 guidelines for management of venous thromboembolism: diagnosis of venous thromboembolism. Blood Adv, 2 (22),",
+        "3226. doi:10.1182/bloodadvances.2018024828 Linkins, L. A., & Takach Lapner, S. (2017). Review of D-dimer testing: Good, Bad, and Ugly. Int J Lab Hematol, 39 Suppl 1 , 98-103. doi:10.1111/ijlh.12665 Mazzolai, L., Ageno, W., Alatri, A., Bauersachs, R., Becattini, C., Brodmann, M., . . . Aboyans, V. (2021). Second consensus document on diagnosis and management of acute deep vein thrombosis: updated document elaborated by the ESC Working Group on aorta and peripheral vascular diseases and the ESC Working Group on pulmonary circulation and right ventricular",
+        "function. European Journal of Preventive Cardiology . doi:10.1093/eurjpc/zwab088 Murphy, C. H., & Sabath, D. E. (2019). Comparison of Phenotypic Activated Protein C Resistance Testing With a Genetic Assay for Factor V Leiden. Am J Clin Pathol, 151 (3), 302-305. doi:10.1093/ajcp/aqy142 NATF. (2019). Genetic Risk Factors for Blood Clots and the Role of Genetic Testing. Retrieved from https://natfonline.org/2019/01/genetic-risk-factors-blood-clots-role-genetic-testing/ Onda, S., Furukawa, K., Haruki, K., Hamura, R., Shirai, Y., Yasuda, J., . . . Ikegami, T. (2021). d-dimer-based screening for early diagnosis of venous thromboembolism after hepatectomy. Langenbeck's Archives of Surgery, 406 (3), 883-892. doi:10.1007/s00423-020-02058-9 Ordieres-Ortega, L., Demelo-Rodríguez, P., Galeano-Valle, F., Kremers, B. M. M., ten Cate-Hoek, A. J., & ten Cate, H. (2020). Predictive value of D-dimer testing for the diagnosis of venous thrombosis in unusual locations: A systematic review. Thrombosis Research, 189 , 5-12. doi:https://doi.org/10.1016/j.thromres.2020.02.009 Ortel, T. L., Neumann, I., Ageno, W., Beyth, R., Clark, N. P., Cuker, A., . . . Zhang, Y. (2020). American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism. Blood Adv, 4 (19), 4693-4738. doi:10.1182/bloodadvances.2020001830 Previtali, E., Bucciarelli, P., Passamonti, S. M., & Martinelli, I. (2011). Risk factors for venous and arterial thrombosis. Blood Transfus, 9 (2), 120-138. doi:10.2450/2010.0066-10 Raffini, L., Mahoney, D. H., & Armsby, C. (2019). Thrombophilia testing in children and adolescents. UpToDate . Retrieved from https://www.uptodate.com/contents/thrombophilia-testing-in-children-and- adolescents?topicRef=1354&source=see_link#H1628041305 Segal, J. B., Brotman, D. J., Emadi, A., Necochea, A. J., Samal, L., Wilson, L. M., . . . Bass, E. B. (2009). Outcomes of genetic testing in adults with a history of venous thromboembolism. Evid Rep Technol Assess (Full Rep) (180), 1-162. SIGN. (2014). Prevention and management of venous thromboembolism Retrieved from https://www.sign.ac.uk/assets/sign122.pdf Stevens, S. M., Woller, S. C., Bauer, K. A., Kasthuri, R., Cushman, M., Streiff, M., . . . Douketis, J. D. (2016). Guidance for the evaluation and treatment of hereditary and acquired thrombophilia. J Thromb Thrombolysis, 41 , 154-164. doi:10.1007/s11239-015-1316-1 SVM. (2013, 02/21/2013). Don’t do work up for clotting disorder (order hypercoagulable testing) for patients who develop first episode of deep vein thrombosis (DVT) in the setting of a known cause. Retrieved from http://www.choosingwisely.org/clinician-lists/society-vascular-medicine-clotting-disorder-workup-after-first-episode-of- deep-vein-thrombosis/ Thompson, B. T., Kabrhel, Christopher. (2018). Overview of acute pulmonary embolism in adults. Retrieved from https://www.uptodate.com/contents/overview-of-acute-pulmonary-embolism-in- adults?search=pulmonary%20embolism&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1 Thompson, B. T., Kabrhel, Christopher. (2020). Overview of acute pulmonary embolism in adults. Retrieved from https://www.uptodate.com/contents/overview-of-acute-pulmonary-embolism-in- adults?search=pulmonary%20embolism&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1 Zhang, S., Taylor, A. K., Huang, X., Luo, B., Spector, E. B., Fang, P., & Richards, C. S. (2018). Venous thromboembolism laboratory testing (factor V Leiden and factor II c.*97G>A), 2018 update: a technical standard of the American College of Medical Genetics and Genomics (ACMG). Genet Med, 20 (12), 1489-1498. doi:10.1038/s41436-018-0322-z"
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": null,
+  "references": [
+    "ACOG. (2013). ACOG Practice Bulletin No. 138: Inherited thrombophilias in pregnancy. Obstet Gynecol, 122 (3), 706-717. doi:10.1097/01.AOG.0000433981.36184.4e ACOG. (2018). ACOG Practice Bulletin No. 197 Summary: Inherited Thrombophilias in Pregnancy. Obstet Gynecol, 132 (1), 249-251. doi:10.1097/aog.0000000000002705 Algahtani, F. H., & Stuckey, R. (2019). High factor VIII levels and arterial thrombosis: illustrative case and literature review. Ther Adv Hematol, 10 , 2040620719886685. doi:10.1177/2040620719886685 ASCLS. (2021). American Society for Clinical Laboratory Science. Retrieved from https://www.choosingwisely.org/clinician- lists/ascls7-do-not-order-a-homocysteine-assay-as-part-of-the-thrombophilia-work-up/ ASCP. (2017). American Society for Clinical Pathology. Retrieved from http://www.choosingwisely.org/clinician-lists/ascp-testing- for-protein-c-protein-s-or-antithrombin-during-active-clotting-event/ ASCP. (2019). American Society of Clinical Pathology. Retrieved from https://www.choosingwisely.org/clinician-lists/ascp- hypercoagulable-workup/ ASH. (2013). ASH - Testing for thromboembolism | Choosing Wisely. Retrieved from http://www.choosingwisely.org/clinician- lists/american-society-hematology-testing-for-thrombophilia-in-adults/. http://www.choosingwisely.org/clinician- lists/american-society-hematology-testing-for-thrombophilia-in-adults/ Bank, I., Libourel, E. J., Middeldorp, S., Hamulyak, K., van Pampus, E. C., Koopman, M. M., . . . Buller, H. R. (2005). Elevated levels of FVIII:C within families are associated with an increased risk for venous and arterial thrombosis. J Thromb Haemost, 3 (1), 79-",
+    "84. doi:10.1111/j.1538-7836.2004.01033.x Barnes, G. (2017, 06/05/2017). Thrombophilia Testing for Provoked VTE. Retrieved from https://www.acc.org/latest-in- cardiology/ten-points-to-remember/2017/06/05/12/46/thrombophilia-testing-in-provoked-venous-thromboembolism Barnes, G. D. (2017). Thrombophilia Testing and Venous Thrombosis. Retrieved from https://www.acc.org/latest-in-cardiology/ten- points-to-remember/2017/10/20/11/18/thrombophilia-testing-and-venous-thrombosis. Bartholomew, J. R. (2017). Update on the management of venous thromboembolism. Cleve Clin J Med, 84 (12 Suppl 3), 39-46. doi:10.3949/ccjm.84.s3.04 Bashford, M. T., Hickey, S. E., Curry, C. J., Toriello, H. V., American College of Medical, G., Genomics Professional, P., & Guidelines, C. (2020). Addendum: ACMG Practice Guideline: lack of evidence for MTHFR polymorphism testing. Genetics in Medicine, 22 (12), 2125-2125. doi:10.1038/s41436-020-0843-0 Bauer, K. (2019a). Factor V Leiden and activated protein C resistance. Retrieved from https://www.uptodate.com/contents/factor-v- leiden-and-activated-protein-c-resistance?topicRef=1361&source=see_link Bauer, K. (2019b). Protein C deficiency. Retrieved from https://www.uptodate.com/contents/protein-c- deficiency?topicRef=1361&source=see_link Bauer, K. (2019c). Prothrombin G20210A mutation. Retrieved from https://www.uptodate.com/contents/prothrombin-g20210a- mutation?topicRef=1361&source=see_link Bauer, K. (2020). Clinical presentation and diagnosis of the nonpregnant adult with suspected deep vein thrombosis of the lower",
+    "extremity. Retrieved from https://www.uptodate.com/contents/clinical-presentation-and-diagnosis-of-the-nonpregnant- adult-with-suspected-deep-vein-thrombosis-of-the-lower- extremity?search=deep%20vein%20thrombosis&source=search_result&selectedTitle=2~150&usage_type=default&display _rank=2 Bauer, K. (2021). Protein S deficiency. Retrieved from https://www.uptodate.com/contents/protein-s- deficiency?topicRef=1361&source=see_link Bauer, K., & Lip, G. (2018). Overview of the causes of venous thrombosis - UpToDate. In G. Finlay (Ed.), UpToDate . Retrieved from https://www.uptodate.com/contents/overview-of-the-causes-of-venous- thrombosis?search=thrombophilia&usage_type=default&source=search_result&selectedTitle=1~150&display_rank=1 Bauer, K., & Lip, G. (2020). Overview of the causes of venous thrombosis - UpToDate. In G. Finlay (Ed.), UpToDate . Retrieved from https://www.uptodate.com/contents/overview-of-the-causes-of-venous- thrombosis?search=thrombophilia&usage_type=default&source=search_result&selectedTitle=1~150&display_rank=1 Byrnes, J. R., & Wolberg, A. S. (2017). Red blood cells in thrombosis. Blood, 130 (16), 1795-1799. doi:10.1182/blood-2017-03-745349 Carroll, B. J., & Piazza, G. (2018). Hypercoagulable states in arterial and venous thrombosis: When, how, and who to test? Vasc Med, 23 (4), 388-399. doi:10.1177/1358863x18755927 Chiasakul, T., De Jesus, E., Tong, J., Chen, Y., Crowther, M., Garcia, D., . . . Cuker, A. (2019). Inherited Thrombophilia and the Risk of Arterial Ischemic Stroke: A Systematic Review and Meta-Analysis. J Am Heart Assoc, 8 (19), e012877. doi:10.1161/jaha.119.012877 Connors, J. M. (2017). Thrombophilia Testing and Venous Thrombosis. In N Engl J Med (Vol. 377, pp. 2298). United States. Crous-Bou, M., Harrington, L. B., & Kabrhel, C. (2016). Environmental and genetic risk factors associated with venous",
+    "thromboembolism. Semin Thromb Hemost, 42 (8), 808-820. doi:10.1055/s-0036-1592333 Curtis, C., Mineyko, A., Massicotte, P., Leaker, M., Jiang, X. Y., Floer, A., & Kirton, A. (2017). Thrombophilia risk is not increased in children after perinatal stroke. Blood, 129 (20), 2793-2800. doi:10.1182/blood-2016-11-750893 EGAPP. (2011). Recommendations from the EGAPP Working Group: routine testing for Factor V Leiden (R506Q) and prothrombin (20210G>A) mutations in adults with a history of idiopathic venous thromboembolism and their adult family members. Genet Med, 13 (1), 67-76. doi:10.1097/GIM.0b013e3181fbe46f Ferriero, D. M., , Fullerton, H. J., , Bernard, T. J., Billinghurst, L., . . . Nursing, A. H. A. S. C. a. C. o. C. a. S. (2019). Management of Stroke in Neonates and Children: A Scientific Statement From the American Heart Association/American Stroke Association. Stroke, 50 (3). doi: http://dx.doi.org/10.1161/str.0000000000000183 Gupta, A., Sarode, R., & Nagalla, S. (2017). Thrombophilia Testing in Provoked Venous Thromboembolism: A Teachable Moment. JAMA Internal Medicine, 177 (8), 1195-1196. doi:10.1001/jamainternmed.2017.1815 Herrmann, J. (2018). Clinical Cardio-Oncology : Elsevier. Hickey, S. E., Curry, C. J., & Toriello, H. V. (2013). ACMG Practice Guideline: lack of evidence for MTHFR polymorphism testing. Genet Med, 15 (2), 153-156. doi:10.1038/gim.2012.165 Kleindorfer, D. O., Towfighi, A., Chaturvedi, S., Cockroft, K. M., Gutierrez, J., Lombardi-Hill, D., . . . Williams, L. S. (2021). 2021 Guideline for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack: A Guideline From the American Heart Association/American Stroke Association. Stroke, 52 (7), e364-e467. doi:10.1161/str.0000000000000375 Konstantinides, S. V., Meyer, G., Becattini, C., Bueno, H., Geersing, G. J., Harjola, V. P., . . . Zamorano, J. L. (2019). 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC). Eur Respir J, 54 (3). doi:10.1183/13993003.01647-2019 Kujovich, J. L. (2011). Factor V Leiden thrombophilia. Genet Med, 13 (1), 1-16. doi:10.1097/GIM.0b013e3181faa0f2 Kujovich, J. L. (2018). Factor V Leiden Thrombophilia. In M. P. Adam, H. H. Ardinger, R. A. Pagon, S. E. Wallace, L. J. H. Bean, K. Stephens, & A. Amemiya (Eds.), GeneReviews((R)) . Seattle (WA): University of Washington, Seattle University of Washington, Seattle. GeneReviews is a registered trademark of the University of Washington, Seattle. All rights reserved. Lee, E. J., Dykas, D. J., Leavitt, A. D., Camire, R. M., Ebberink, E., García de Frutos, P., . . . Lee, A. I. (2017). Whole-exome sequencing in evaluation of patients with venous thromboembolism. Blood Adv, 1 (16), 1224-1237. doi:10.1182/bloodadvances.2017005249 Lehman, L. L., Beaute, J., Kapur, K., Danehy, A. R., Bernson-Leung, M. E., Malkin, H., . . . Trenor, C. C. (2017). Workup for Perinatal Stroke Does Not Predict Recurrence. Stroke, 48 (8), 2078-2083. doi:10.1161/STROKEAHA.117.017356 Lim, W., Le Gal, G., Bates, S. M., Righini, M., Haramati, L. B., Lang, E., . . . Mustafa, R. A. (2018). American Society of Hematology 2018 guidelines for management of venous thromboembolism: diagnosis of venous thromboembolism. Blood Adv, 2 (22),",
+    "3226. doi:10.1182/bloodadvances.2018024828 Linkins, L. A., & Takach Lapner, S. (2017). Review of D-dimer testing: Good, Bad, and Ugly. Int J Lab Hematol, 39 Suppl 1 , 98-103. doi:10.1111/ijlh.12665 Mazzolai, L., Ageno, W., Alatri, A., Bauersachs, R., Becattini, C., Brodmann, M., . . . Aboyans, V. (2021). Second consensus document on diagnosis and management of acute deep vein thrombosis: updated document elaborated by the ESC Working Group on aorta and peripheral vascular diseases and the ESC Working Group on pulmonary circulation and right ventricular",
+    "function. European Journal of Preventive Cardiology . doi:10.1093/eurjpc/zwab088 Murphy, C. H., & Sabath, D. E. (2019). Comparison of Phenotypic Activated Protein C Resistance Testing With a Genetic Assay for Factor V Leiden. Am J Clin Pathol, 151 (3), 302-305. doi:10.1093/ajcp/aqy142 NATF. (2019). Genetic Risk Factors for Blood Clots and the Role of Genetic Testing. Retrieved from https://natfonline.org/2019/01/genetic-risk-factors-blood-clots-role-genetic-testing/ Onda, S., Furukawa, K., Haruki, K., Hamura, R., Shirai, Y., Yasuda, J., . . . Ikegami, T. (2021). d-dimer-based screening for early diagnosis of venous thromboembolism after hepatectomy. Langenbeck's Archives of Surgery, 406 (3), 883-892. doi:10.1007/s00423-020-02058-9 Ordieres-Ortega, L., Demelo-Rodríguez, P., Galeano-Valle, F., Kremers, B. M. M., ten Cate-Hoek, A. J., & ten Cate, H. (2020). Predictive value of D-dimer testing for the diagnosis of venous thrombosis in unusual locations: A systematic review. Thrombosis Research, 189 , 5-12. doi:https://doi.org/10.1016/j.thromres.2020.02.009 Ortel, T. L., Neumann, I., Ageno, W., Beyth, R., Clark, N. P., Cuker, A., . . . Zhang, Y. (2020). American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism. Blood Adv, 4 (19), 4693-4738. doi:10.1182/bloodadvances.2020001830 Previtali, E., Bucciarelli, P., Passamonti, S. M., & Martinelli, I. (2011). Risk factors for venous and arterial thrombosis. Blood Transfus, 9 (2), 120-138. doi:10.2450/2010.0066-10 Raffini, L., Mahoney, D. H., & Armsby, C. (2019). Thrombophilia testing in children and adolescents. UpToDate . Retrieved from https://www.uptodate.com/contents/thrombophilia-testing-in-children-and- adolescents?topicRef=1354&source=see_link#H1628041305 Segal, J. B., Brotman, D. J., Emadi, A., Necochea, A. J., Samal, L., Wilson, L. M., . . . Bass, E. B. (2009). Outcomes of genetic testing in adults with a history of venous thromboembolism. Evid Rep Technol Assess (Full Rep) (180), 1-162. SIGN. (2014). Prevention and management of venous thromboembolism Retrieved from https://www.sign.ac.uk/assets/sign122.pdf Stevens, S. M., Woller, S. C., Bauer, K. A., Kasthuri, R., Cushman, M., Streiff, M., . . . Douketis, J. D. (2016). Guidance for the evaluation and treatment of hereditary and acquired thrombophilia. J Thromb Thrombolysis, 41 , 154-164. doi:10.1007/s11239-015-1316-1 SVM. (2013, 02/21/2013). Don’t do work up for clotting disorder (order hypercoagulable testing) for patients who develop first episode of deep vein thrombosis (DVT) in the setting of a known cause. Retrieved from http://www.choosingwisely.org/clinician-lists/society-vascular-medicine-clotting-disorder-workup-after-first-episode-of- deep-vein-thrombosis/ Thompson, B. T., Kabrhel, Christopher. (2018). Overview of acute pulmonary embolism in adults. Retrieved from https://www.uptodate.com/contents/overview-of-acute-pulmonary-embolism-in- adults?search=pulmonary%20embolism&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1 Thompson, B. T., Kabrhel, Christopher. (2020). Overview of acute pulmonary embolism in adults. Retrieved from https://www.uptodate.com/contents/overview-of-acute-pulmonary-embolism-in- adults?search=pulmonary%20embolism&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1 Zhang, S., Taylor, A. K., Huang, X., Luo, B., Spector, E. B., Fang, P., & Richards, C. S. (2018). Venous thromboembolism laboratory testing (factor V Leiden and factor II c.*97G>A), 2018 update: a technical standard of the American College of Medical Genetics and Genomics (ACMG). Genet Med, 20 (12), 1489-1498. doi:10.1038/s41436-018-0322-z"
+  ],
+  "resources": null,
+  "_extraction_stats": {
+    "total_sections": 3,
+    "total_tables": 2,
+    "total_characters": 14688
+  }
+}

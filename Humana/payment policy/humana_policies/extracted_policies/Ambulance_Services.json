@@ -1,0 +1,128 @@
+{
+  "policy_metadata": {
+    "policy_title": "Ambulance Services",
+    "policy_number": "CP2023009",
+    "published_date": "09/2023",
+    "effective_date": "09/2023",
+    "revision_date": "04/2026",
+    "last_reviewed": "04/2026",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Both",
+    "source_pdf": "Ambulance_Services_Revised-5351f9fa.pdf",
+    "total_pages": 4,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "A0425",
+      "A0435",
+      "A0436",
+      "A0888"
+    ],
+    "cpt_codes": [],
+    "hcpcs_codes": [
+      "A0425",
+      "A0435",
+      "A0436",
+      "A0888"
+    ],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "An ambulance is a professionally operated vehicle, provided by a licensed ambulance service, equipped for the transportation of a sick or injured person to or from the nearest medical facility qualified to treat the person's sickness or bodily injury. This policy establishes Humana’s billing requirements and reimbursement for ambulance services."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana Medicare Advantage (MA) plans allow medically necessary ground ambulance and fixed or rotary wing air ambulance services according to Original Medicare guidelines. Humana only reimburses for covered transportation and mileage charges. The amount allowed for transportation includes reimbursement for all other items and services provided. Humana does not make separate payment for such items and services, including but not limited to oxygen, drugs, extra attendants, supplies, electrocardiograms (ECG or EKG) and night differential. Ambulance transportation provided to a member while registered as an inpatient at a hospital or skilled nursing facility (SNF), if billed, must be included in the facility’s related consolidated inpatient claim. Charges for transportation of an inpatient will only be considered for reimbursement within the adjudication of the inpatient stay itself. In some situations, Humana determines that, though transportation was medically necessary, the mode of transportation may not have been medically necessary, such as transportation by air. When Humana determines that transportation was medically necessary, but air transportation was not medically necessary, Humana allows ground ambulance rates for the transportation. Generally, reimbursement for ambulance mileage to a facility is limited to the distance from the place from which the patient was transported to the nearest appropriate facility. However, when Humana authorizes admission to a facility in advance, regardless of whether prior authorization is required, Humana reimburses for mileage for the related ambulance transportation to that facility. A provider should bill all of the coverable mileage with HCPCS code A0425, A0435 or A0436 . However, if a provider bills such mileage with HCPCS code A0888 , Humana will not reimburse that charge but will deny it to provider liability. If the facility did not obtain prior authorization from Humana for the related admission, a provider should bill mileage for transportation beyond the closest facility with HCPCS code A0888 . Humana will not reimburse that charge but will deny it to provider liability. Humana adjusts reimbursement of covered transportation and mileage charges when multiple patients are simultaneously transported in the same ambulance to the same destination, indicated by modifier GM . If two patients are transported, Humana allows 75 percent of the provider’s contracted rate or base maximum amount payable under the member's plan for transportation and 50 percent of the provider’s contracted rate or base maximum amount payable under the member's plan for mileage. If three patients are transported, Humana allows 60 percent of the provider’s contracted rate or base maximum amount payable under the member's plan for transportation and a prorated percent of the provider’s contracted rate or base maximum amount payable under the member's plan for mileage, based on the number of patients on board. Note : Some Humana MA plans have supplemental transportation benefits, which provide coverage of some transportation services that Original Medicare would not cover. Providers and members are advised to contact Humana to verify if a Humana MA plan has supplemental transportation benefits."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Billing",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 3,
+          "content": [
+            "Providers must bill appropriate modifiers with ambulance charges. Ambulance origin and destination modifiers are billed with both the transportation and mileage charges. When reporting ambulance origin and destination modifiers , the first letter represents the place of origin, and the second letter represents the destination. If a patient is pronounced dead after the ambulance is dispatched but before being loaded on board, providers must report modifier QL with the transportation charge rather than ambulance origin and destination modifiers . In such circumstances, mileage is not",
+            "covered. However, if providers report the mileage charge, it must be billed with modifier QL , and it is not reimbursed. If multiple patients are simultaneously transported in the same ambulance to the same destination, providers must report modifier GM with the transportation and mileage charges. Providers must bill the ZIP code of the point of pickup (POP). For transportation for less than 100 miles, ambulance mileage may be reported in fractional units to the nearest tenth of a mile. When more than one hospital-to-hospital ambulance service is provided on the same day, the provider must submit a charge for each segment of transportation on a separate claim line with a unit of 1."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Additional provision for out-of-network providers",
+          "level": 2,
+          "page_start": 3,
+          "page_end": 3,
+          "content": [
+            "42 CFR 422.214 requires an out-of-network provider to accept, as payment in full, the amount the provider could collect if the patient were enrolled in Original Medicare. The provider can collect from the MA plan member the cost-sharing amount required under the MA plan and collect the remainder of the allowed amount from the MA plan."
+          ],
+          "tables": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "• Ambulance origin and destination modifiers : – D: Diagnostic or therapeutic site other than P or H when these are used as origin codes – E: Residential, domiciliary, custodial facility (other than 1819 facility) – G: Hospital based ESRD facility – H: Hospital – I: Site of transfer (e.g., airport or helicopter pad) between modes of ambulance transport – J: Freestanding ESRD facility – N: Skilled nursing facility – P: Physician’s office – R: Residence – S: Scene of accident or acute event – X: Intermediate stop at physician’s office on way to hospital (destination code only) • Base maximum amount payable under the member's plan: The maximum amount of reimbursement for a covered expense, determined by the member’s plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments. • HCPCS code A0425: Ground mileage, per statute mile • HCPCS code A0435: Fixed wing air mileage, per statute mile • HCPCS code A0436: Rotary wing air mileage, per statute mile • HCPCS code A0888: Non-covered ambulance mileage, per mile (e.g., for miles traveled beyond closest appropriate facility) • Modifier GM: Multiple patients on one ambulance trip • Modifier QL: Patient pronounced dead after ambulance called"
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 4,
+      "content": [
+        "• U.S. Government Publishing Office website. Code of Federal Regulations. Title 42, Section 422.214 – Special rules for services furnished by noncontract providers . www.ecfr.gov. • Centers for Medicare & Medicaid Services website. Medicare Benefit Policy Manual. Chapter 10 – Ambulance Services . www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 15 – Ambulance . www.cms.gov. • Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 4,
+      "page_end": 4,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Ambulance origin and destination modifiers": "– D: Diagnostic or therapeutic site other than P or H when these are used as origin codes – E: Residential, domiciliary, custodial facility (other than 1819 facility) – G: Hospital based ESRD facility – H: Hospital – I: Site of transfer (e.g., airport or helicopter pad) between modes of ambulance transport – J: Freestanding ESRD facility – N: Skilled nursing facility – P: Physician’s office – R: Residence – S: Scene of accident or acute event – X: Intermediate stop at physician’s office on way to hospital (destination code only) • Base maximum amount payable under the member's plan: The maximum amount of reimbursement for a covered expense, determined by the member’s plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments. • HCPCS code A0425: Ground mileage, per statute mile • HCPCS code A0435: Fixed wing air mileage, per statute mile • HCPCS code A0436: Rotary wing air mileage, per statute mile • HCPCS code A0888: Non-covered ambulance mileage, per mile (e.g., for miles traveled beyond closest appropriate facility) • Modifier GM: Multiple patients on one ambulance trip • Modifier QL: Patient pronounced dead after ambulance called"
+  },
+  "references": [
+    "U.S. Government Publishing Office website. Code of Federal Regulations. Title 42, Section 422.214 – Special rules for services furnished by noncontract providers . www.ecfr.gov. • Centers for Medicare & Medicaid Services website. Medicare Benefit Policy Manual. Chapter 10 – Ambulance Services . www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 15 – Ambulance . www.cms.gov. • Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services."
+  ],
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 7,
+    "total_tables": 0,
+    "total_characters": 8447
+  }
+}

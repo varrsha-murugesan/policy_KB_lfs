@@ -1,0 +1,800 @@
+{
+  "policy_title": "Once in a Lifetime Procedures, Professional - Reimbursement Policy",
+  "policy_number": "2026R9028A",
+  "policy_dates": {
+    "effective_date": "3/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "The Once in a Lifetime Procedures Policy identifies procedures that because of the Current Procedural Terminology (CPT) code description and/or human anatomy can be performed by a physician(s) or other health care professional(s) only once in a patient's lifetime."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "UnitedHealthcare Medicare Advantage will reimburse certain procedures only once during a patient's lifetime. Once in a Lifetime Procedures are not limited to a single CPT code, but may be represented by Code Families, which are a group of CPT codes that describe the same or similar type of service. Under this policy, UnitedHealthcare Medicare Advantage provides reimbursement for only one procedure from a designated Code Family during a patient's lifetime. For example, there are four separate appendectomy CPT codes that can be used, based upon the particular circumstance, to report the removal of the appendix. The four codes, listed below, make up the Code Family that describes the removal of an appendix. Appendectomy Code Family - 44950 - 44955 - 44960 - 44970 When any single or multiple physician or other health care professional reports a code from the Once in a Lifetime Procedures list, that code or any code from the same Code Family will be reimbursed only once during a patient's lifetime. In the appendectomy example, a single code from the Appendectomy Code Family will be reimbursed only once during a patient's lifetime, because each person has only one appendix and can have only one appendectomy during his or her lifetime. Refer to the \"Attachment\" section for a complete list of Once in a Lifetime Procedures, listed by CPT code and Code Family.",
+          "subsections": [
+            {
+              "title": "Appendectomy Code Family",
+              "content": "• 44950 • 44955 • 44960 • 44970 When any single or multiple physician or other health care professional reports a code from the Once in a Lifetime Procedures list, that code or any code from the same Code Family will be reimbursed only once during a patient’s lifetime.  In the appendectomy example, a single code from the Appendectomy Code Family will be reimbursed only once during a patient’s lifetime, because each person has only one appendix and can have only one appendectomy during his or her lifetime. Refer to the “Attachment” section for a complete list of Once in a Lifetime Procedures, listed by CPT code and Code Family."
+            }
+          ],
+          "children": [
+            {
+              "title": "Modifiers",
+              "level": 3,
+              "confirmed": true,
+              "page": 2,
+              "matched_via": "blue",
+              "type": "text",
+              "content": "There may be situations that require the code(s) for a Once in a Lifetime Procedure to be submitted more than once during a patient's lifetime. In such cases, more than one Once in a Lifetime Procedure, whether the same code or a different code from the same Code Family, will be considered separately for reimbursement if reported with one of the following modifiers: - Modifier 53 - Modifier 55 - Modifier 56 - Modifier 58"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Once in a Lifetime Procedure",
+          "value": "A procedure that can be performed by a physician(s) or other qualified health care professional(s) only once in a patient's lifetime."
+        },
+        {
+          "key": "Code Family",
+          "value": "A group of CPT codes that describe the same or similar type of service."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Would there ever be an instance where a CPT code for a Once in a Lifetime Procedure may be reported more than once?",
+            "A": "Yes, there are instances where a CPT code for a Once in a Lifetime Procedure may be reported more than once. Modifiers may be used to indicate a procedure or service has been altered in some way, but not changed in its actual code description. For example, by definition, modifier 53 is to be used when a procedure is terminated for unforeseeable circumstances. Per coding guidelines, the procedure code would be initially reported with modifier - 53 appended to the CPT code to indicate the discontinued procedure and then at a later time, the CPT code would be submitted again when (if) the procedure took place in its entirety."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "How is a Once in a Lifetime Procedure reimbursed when reported by two different physicians on different dates of service?",
+            "A": "When any physician or other health care professional reports a code from the Once in a Lifetime Procedure policy list on multiple dates of service excluding the same date of service, the code will be reimbursed only once. UnitedHealthcare Medicare Advantage follows a \"first in, first out\" claim payment methodology in determining which claim will be considered for reimbursement when duplicate claims are received."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "What if two different physicians each report the same procedure on the same date of service for the same patient from the Once in a Lifetime Procedures list?",
+            "A": "The Once in a Lifetime Procedure codes are subject to duplicate billing logic when reported by the same or different providers."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Attachments",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Once in a Lifetime Procedures",
+          "value": "A list of Once in a Lifetime Procedures listed by CPT code and Code Family"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov American Medical Association (AMA) Current Procedural Terminology (CPT) Centers for Medicare and Medicaid Services (CMS) Recovery Audit Contractors (RAC) and other CMS publications Medicare Program Integrity Manual Chapter - 3"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "3/1/2026",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "3/1/2025",
+          "value": "Policy Version Change History section: Entries prior to 3/1/2023 archived"
+        },
+        {
+          "key": "3/1/2024",
+          "value": "Policy Version Change Policy Logo Updated History section: Entries prior to 3/1/2022 archived"
+        },
+        {
+          "key": "10/8/2014",
+          "value": "New Policy"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [
+    {
+      "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/attachments/reimbursement/Once-in-a-Lifetime-Procedures.pdf",
+      "content": [
+        {
+          "page": 1,
+          "content": "Once in a Lifetime Policy Procedures \nFamily \nCode \nAppendectomy \n44950 \n44955 \n44960 \n44970 \nCervical Stump Excision \n57540 \n57545 \n57550 \n57555 \n57556 \nCholecystectomy \n47562 \n47563 \n47564 \n47600 \n47605 \n47610 \n47612 \n47620 \nCircumcision \n54150 \n54160 \n54161 \nColectomy \n44150 \n44151 \n44155 \n44156 \n44157 \n44158 \n44210 \n44211 \n44212 \nCystectomy \n51570 \n51575 \n51580 \n51585 \n51590 \n51595"
+        },
+        {
+          "page": 2,
+          "content": "51596 \nEpididymectomy \n54861 \nGastrectomy \n43620 \n43621 \n43622 \nGlossectomy \n41140 \n41145 \nHysterectomy \n51925 \n58150 \n58152 \n \n58180 \n58200 \n58210 \n58240 \n58260 \n58262 \n58263 \n58267 \n58270 \n58275 \n58280 \n58285 \n58290 \n58291 \n58292 \n58293 \n58294 \n58541 \n58542 \n58543 \n58544 \n58548 \n58550 \n58552 \n58553 \n58554"
+        },
+        {
+          "page": 3,
+          "content": "58570 \n58571 \n58572 \n58573 \n58575 \n58950 \n58951 \n58952 \n58953 \n58954 \n58956 \nLaryngectomy \n31360 \n31365 \nPancreatectomy \n48155 \nPelvic Exenteration \n51597 \nPenile amputation \n54125 \n54130 \n54135 \nPneumonectomy \n32440 \n32442 \n32445 \nProctectomy \n45110 \n45112 \n45119 \n45120 \n45121 \n45126 \n45395 \n45397 \nProstate Enucleation \n52649 \nProstatectomy \n55810 \n55812 \n55815 \n55821 \n55831 \n55840"
+        },
+        {
+          "page": 4,
+          "content": "55842 \n55845 \n55866 \n55867 \nRhinectomy \n30160 \nSplenectomy \n38100 \n38102 \nSubtotal Prostatectomy \n55801 \nThyroidectomy \n60240 \n60252 \n60254 \n60270 \n60271 \nTrachelectomy \n57530 \n57531 \nUmbilectomy \n49250 \nUrethrectomy \n53210 \n53215 \nUvulectomy \n42140 \nVaginectomy \n57110 \n57111 \n57112 \nVulvectomy \n56625 \n56633 \n56634 \n56637"
+        }
+      ],
+      "tables": [
+        {
+          "page": 1,
+          "columns": [
+            "Once in a Lifetime Policy Procedures",
+            "Column 2"
+          ],
+          "rows": [
+            {
+              "Once in a Lifetime Policy Procedures": "Family",
+              "Column 2": "Code"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "Appendectomy",
+              "Column 2": "44950"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "44955"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "44960"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "44970"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "Cervical Stump Excision",
+              "Column 2": "57540"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "57545"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "57550"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "57555"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "57556"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "Cholecystectomy",
+              "Column 2": "47562"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "47563"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "47564"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "47600"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "47605"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "47610"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "47612"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "47620"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "Circumcision",
+              "Column 2": "54150"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "54160"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "54161"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "Colectomy",
+              "Column 2": "44150"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "44151"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "44155"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "44156"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "44157"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "44158"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "44210"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "44211"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "44212"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "Cystectomy",
+              "Column 2": "51570"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "51575"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "51580"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "51585"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "51590"
+            },
+            {
+              "Once in a Lifetime Policy Procedures": "",
+              "Column 2": "51595"
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "columns": [
+            "Column 1",
+            "51596"
+          ],
+          "rows": [
+            {
+              "Column 1": "Epididymectomy",
+              "51596": "54861"
+            },
+            {
+              "Column 1": "Gastrectomy",
+              "51596": "43620"
+            },
+            {
+              "Column 1": "",
+              "51596": "43621"
+            },
+            {
+              "Column 1": "",
+              "51596": "43622"
+            },
+            {
+              "Column 1": "Glossectomy",
+              "51596": "41140"
+            },
+            {
+              "Column 1": "",
+              "51596": "41145"
+            },
+            {
+              "Column 1": "Hysterectomy",
+              "51596": "51925"
+            },
+            {
+              "Column 1": "",
+              "51596": "58150"
+            },
+            {
+              "Column 1": "",
+              "51596": "58152"
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "columns": [
+            "Column 1",
+            "58570"
+          ],
+          "rows": [
+            {
+              "Column 1": "",
+              "58570": "58571"
+            },
+            {
+              "Column 1": "",
+              "58570": "58572"
+            },
+            {
+              "Column 1": "",
+              "58570": "58573"
+            },
+            {
+              "Column 1": "",
+              "58570": "58575"
+            },
+            {
+              "Column 1": "",
+              "58570": "58950"
+            },
+            {
+              "Column 1": "",
+              "58570": "58951"
+            },
+            {
+              "Column 1": "",
+              "58570": "58952"
+            },
+            {
+              "Column 1": "",
+              "58570": "58953"
+            },
+            {
+              "Column 1": "",
+              "58570": "58954"
+            },
+            {
+              "Column 1": "",
+              "58570": "58956"
+            },
+            {
+              "Column 1": "Laryngectomy",
+              "58570": "31360"
+            },
+            {
+              "Column 1": "",
+              "58570": "31365"
+            },
+            {
+              "Column 1": "Pancreatectomy",
+              "58570": "48155"
+            },
+            {
+              "Column 1": "Pelvic Exenteration",
+              "58570": "51597"
+            },
+            {
+              "Column 1": "Penile amputation",
+              "58570": "54125"
+            },
+            {
+              "Column 1": "",
+              "58570": "54130"
+            },
+            {
+              "Column 1": "",
+              "58570": "54135"
+            },
+            {
+              "Column 1": "Pneumonectomy",
+              "58570": "32440"
+            },
+            {
+              "Column 1": "",
+              "58570": "32442"
+            },
+            {
+              "Column 1": "",
+              "58570": "32445"
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "columns": [
+            "Proctectomy",
+            "45110"
+          ],
+          "rows": [
+            {
+              "Proctectomy": "",
+              "45110": "45112"
+            },
+            {
+              "Proctectomy": "",
+              "45110": "45119"
+            },
+            {
+              "Proctectomy": "",
+              "45110": "45120"
+            },
+            {
+              "Proctectomy": "",
+              "45110": "45121"
+            },
+            {
+              "Proctectomy": "",
+              "45110": "45126"
+            },
+            {
+              "Proctectomy": "",
+              "45110": "45395"
+            },
+            {
+              "Proctectomy": "",
+              "45110": "45397"
+            },
+            {
+              "Proctectomy": "Prostate Enucleation",
+              "45110": "52649"
+            },
+            {
+              "Proctectomy": "Prostatectomy",
+              "45110": "55810"
+            },
+            {
+              "Proctectomy": "",
+              "45110": "55812"
+            },
+            {
+              "Proctectomy": "",
+              "45110": "55815"
+            },
+            {
+              "Proctectomy": "",
+              "45110": "55821"
+            },
+            {
+              "Proctectomy": "",
+              "45110": "55831"
+            },
+            {
+              "Proctectomy": "",
+              "45110": "55840"
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "columns": [
+            "Column 1",
+            "55842"
+          ],
+          "rows": [
+            {
+              "Column 1": "",
+              "55842": "55845"
+            },
+            {
+              "Column 1": "",
+              "55842": "55866"
+            },
+            {
+              "Column 1": "",
+              "55842": "55867"
+            },
+            {
+              "Column 1": "Rhinectomy",
+              "55842": "30160"
+            },
+            {
+              "Column 1": "Splenectomy",
+              "55842": "38100"
+            },
+            {
+              "Column 1": "",
+              "55842": "38102"
+            },
+            {
+              "Column 1": "Subtotal Prostatectomy",
+              "55842": "55801"
+            },
+            {
+              "Column 1": "Thyroidectomy",
+              "55842": "60240"
+            },
+            {
+              "Column 1": "",
+              "55842": "60252"
+            },
+            {
+              "Column 1": "",
+              "55842": "60254"
+            },
+            {
+              "Column 1": "",
+              "55842": "60270"
+            },
+            {
+              "Column 1": "",
+              "55842": "60271"
+            },
+            {
+              "Column 1": "Trachelectomy",
+              "55842": "57530"
+            },
+            {
+              "Column 1": "",
+              "55842": "57531"
+            },
+            {
+              "Column 1": "Umbilectomy",
+              "55842": "49250"
+            },
+            {
+              "Column 1": "Urethrectomy",
+              "55842": "53210"
+            },
+            {
+              "Column 1": "",
+              "55842": "53215"
+            },
+            {
+              "Column 1": "Uvulectomy",
+              "55842": "42140"
+            },
+            {
+              "Column 1": "Vaginectomy",
+              "55842": "57110"
+            },
+            {
+              "Column 1": "",
+              "55842": "57111"
+            },
+            {
+              "Column 1": "",
+              "55842": "57112"
+            },
+            {
+              "Column 1": "Vulvectomy",
+              "55842": "56625"
+            },
+            {
+              "Column 1": "",
+              "55842": "56633"
+            },
+            {
+              "Column 1": "",
+              "55842": "56634"
+            },
+            {
+              "Column 1": "",
+              "55842": "56637"
+            }
+          ]
+        }
+      ],
+      "CPT_CODES_USED": [
+        "44950",
+        "44955",
+        "44960",
+        "44970",
+        "57540",
+        "57545",
+        "57550",
+        "57555",
+        "57556",
+        "47562",
+        "47563",
+        "47564",
+        "47600",
+        "47605",
+        "47610",
+        "47612",
+        "47620",
+        "54150",
+        "54160",
+        "54161",
+        "44150",
+        "44151",
+        "44155",
+        "44156",
+        "44157",
+        "44158",
+        "44210",
+        "44211",
+        "44212",
+        "51570",
+        "51575",
+        "51580",
+        "51585",
+        "51590",
+        "51595",
+        "51596",
+        "54861",
+        "43620",
+        "43621",
+        "43622",
+        "41140",
+        "41145",
+        "51925",
+        "58150",
+        "58152",
+        "58180",
+        "58200",
+        "58210",
+        "58240",
+        "58260",
+        "58262",
+        "58263",
+        "58267",
+        "58270",
+        "58275",
+        "58280",
+        "58285",
+        "58290",
+        "58291",
+        "58292",
+        "58293",
+        "58294",
+        "58541",
+        "58542",
+        "58543",
+        "58544",
+        "58548",
+        "58550",
+        "58552",
+        "58553",
+        "58554",
+        "58570",
+        "58571",
+        "58572",
+        "58573",
+        "58575",
+        "58950",
+        "58951",
+        "58952",
+        "58953",
+        "58954",
+        "58956",
+        "31360",
+        "31365",
+        "48155",
+        "51597",
+        "54125",
+        "54130",
+        "54135",
+        "32440",
+        "32442",
+        "32445",
+        "45110",
+        "45112",
+        "45119",
+        "45120",
+        "45121",
+        "45126",
+        "45395",
+        "45397",
+        "52649",
+        "55810",
+        "55812",
+        "55815",
+        "55821",
+        "55831",
+        "55840",
+        "55842",
+        "55845",
+        "55866",
+        "55867",
+        "30160",
+        "38100",
+        "38102",
+        "55801",
+        "60240",
+        "60252",
+        "60254",
+        "60270",
+        "60271",
+        "57530",
+        "57531",
+        "49250",
+        "53210",
+        "53215",
+        "42140",
+        "57110",
+        "57111",
+        "57112",
+        "56625",
+        "56633",
+        "56634",
+        "56637"
+      ],
+      "ICD_CODES_USED": []
+    }
+  ],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "44950",
+    "44955",
+    "44960",
+    "44970"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "53",
+    "55",
+    "56",
+    "58"
+  ]
+}

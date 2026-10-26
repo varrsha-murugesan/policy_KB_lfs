@@ -1,0 +1,173 @@
+{
+  "policy_title": "Anatomical Modifier Requirement Policy",
+  "policy_number": "2026R9066A",
+  "policy_dates": {
+    "effective_date": "2/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy addresses the appropriate use of modifiers with certain CPT and HCPCS procedure codes. According to the Centers for Medicare and Medicaid Services (CMS), a modifier is a two-character code that is added, when appropriate, to the end of a procedure or service to clarify the services being billed. Modifiers add more information, such as the anatomical site, to the code. In addition, they help to eliminate the appearance of duplicate billing and unbundling. Modifiers are used to increase accuracy in reimbursement, coding consistency, editing, and to capture payment data."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "mixed",
+          "content": [
+            "Surgical Codes - Anatomical Modifiers",
+            "Anatomical modifiers are used to designate the specific area of the body that a procedure was performed. Use of laterality and/or anatomical modifiers help to provide the highest specificity for the procedure being performed.",
+            "UnitedHealthcare Medicare Advantage requires specific Surgical codes (10000-69999 Series) and Radiological codes (70000 Series) to be billed with the appropriate anatomical modifier for the procedure performed within an anatomical site.",
+            "Laterality and/or Anatomical Modifiers",
+            {
+              "key": "50",
+              "value": "RT LT E1-E4 F1-F9"
+            },
+            {
+              "key": "FA",
+              "value": "T1-T9 TA LC LD"
+            },
+            {
+              "key": "LM",
+              "value": "RC RI"
+            },
+            "Questions and Answers Q: Why aren't all anatomical modifiers addressed in this policy? 1. A: The intent of the Anatomical Modifier Requirement Policy is to require modifier usage where appropriate with applicable services and is not meant to address all possible anatomical modifier situations. Q: Will UnitedHealthcare consider reimbursement for services rendered on a specific digit appended with the RT modifier instead of specific digit modifiers? 2. A: Providers should code to the highest specificity. The Appropriate F1-F9, FA, T1-T9, TA modifier would be accepted. Claim lines billed may deny when billed without the highest specificity."
+          ],
+          "subsections": [
+            {
+              "title": "Surgical Codes – Anatomical Modifiers",
+              "content": "Anatomical modifiers are used to designate the specific area of the body that a procedure was performed. Use of laterality and/or anatomical modifiers help to provide the highest specificity for the procedure being performed. UnitedHealthcare Medicare Advantage requires specific Surgical codes (10000-69999 Series) and Radiological codes (70000 Series) to be billed with the appropriate anatomical modifier for the procedure performed within an anatomical site. Questions and Answers 1. Q: Why aren’t all anatomical modifiers addressed in this policy? A: The intent of the Anatomical Modifier Requirement Policy is to require modifier usage where appropriate with applicable services and is not meant to address all possible anatomical modifier situations. 2. Q:  Will UnitedHealthcare consider reimbursement for services rendered on a specific digit appended with the RT modifier instead of specific digit modifiers? A: Providers should code to the highest specificity.  The Appropriate F1-F9, FA, T1-T9, TA modifier would be accepted. Claim lines billed may deny when billed without the highest specificity.",
+              "modifiers": [
+                "50",
+                "RT",
+                "LT",
+                "E1-E4",
+                "F1-F9",
+                "FA",
+                "T1-T9",
+                "TA",
+                "LC",
+                "LD",
+                "LM",
+                "RC",
+                "RI"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Why aren't all anatomical modifiers addressed in this policy?",
+            "A": "The intent of the Anatomical Modifier Requirement Policy is to require modifier usage where appropriate"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Will UnitedHealthcare consider reimbursement for services rendered on a specific digit appended with the",
+            "A": "Providers should code to the highest specificity. The Appropriate F1-F9, FA, T1-T9, TA modifier would be"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association, Current Procedural Terminology (CPT) and associated publications and services Medicare Claims Processing Manual - Chapter 12 - Physicians/Nonphysician Practitioners Section: 30 Medicare Claims Processing Manual - Chapter 23 - Fee Schedule Administration and Coding Requirements Section 20.9.3.2 Centers for Medicare and Medicaid Services: PFS Relative Value Files Local Coverage Article A56869 Billing and Coding: Use of Laterality Modifiers The Medicare Learning Network (MLN): MLN1783722 Proper Use of Modifiers 59, XE, XP, XS, & XU"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "2/1/2026",
+          "value": "Policy Version Change Policy Reimbursement Guidelines Section: Updated Questions and Answers Section: Updated"
+        },
+        {
+          "key": "11/1/2025",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "1/23/2025",
+          "value": "Policy Version Change Updated Overview and Resources sections"
+        },
+        {
+          "key": "11/1/2024",
+          "value": "Policy implemented by UnitedHealthcare Medicare Advantage"
+        },
+        {
+          "key": "7/22/2024",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "10000",
+    "69999",
+    "70000"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "RT",
+    "F1",
+    "F9",
+    "FA",
+    "T1",
+    "T9",
+    "TA",
+    "59",
+    "XE",
+    "XP",
+    "XS",
+    "XU"
+  ]
+}

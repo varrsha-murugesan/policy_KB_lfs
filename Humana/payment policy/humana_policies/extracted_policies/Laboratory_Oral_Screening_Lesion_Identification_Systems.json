@@ -1,0 +1,198 @@
+{
+  "policy_metadata": {
+    "policy_title": "Laboratory – Oral Screening Lesion Identification Systems",
+    "policy_number": "LAB2023003",
+    "published_date": "03/2023",
+    "effective_date": "03/2023",
+    "revision_date": "05/2026",
+    "last_reviewed": "05/2026",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Professional",
+    "source_pdf": "Laboratory_-_Oral_Screening_Lesion_Identification_Systems_Revised-5b284a6c.pdf",
+    "total_pages": 4,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "0296U",
+      "87623"
+    ],
+    "cpt_codes": [
+      "0296U",
+      "87623"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": [
+        "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. • Oral screening by low-risk human papillomavirus (HPV) testing (CPT code 87623*) is NOT REIMBURSABLE . • Oral screening by gene expression profiling by ribonucleic acid (RNA) sequencing (CPT code 0296U**) IS NOT REIMBURSABLE ."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Applicable procedures for Medicare Advantage plans",
+          "level": 2,
+          "page_start": 1,
+          "page_end": 1,
+          "content": [
+            "Corporation; CGS Administrators, LLC; and Noridian Healthcare Solutions, LLC. **The payment criterion for 0296U applies to all Medicare jurisdictions, except those states awarded to Palmetto GBA; Wisconsin Physicians Service Insurance Corporation; CGS Administrators, LLC; Novitas Solutions, In c., Noridian Healthcare Solutions, LLC, and First Coast Service Options, Inc."
+          ],
+          "tables": [
+            {
+              "type": "table",
+              "page_start": 1,
+              "page_end": 1,
+              "columns": [
+                "Procedure code",
+                "Code description"
+              ],
+              "row_count": 2,
+              "rows": [
+                {
+                  "Procedure code": "87623*",
+                  "Code description": "Infectious agent detection by nucleic acid (DNA or RNA); Human Papillomavirus (HPV), low-risk types (eg,\n6, 11, 42, 43, 44)"
+                },
+                {
+                  "Procedure code": "0296U**",
+                  "Code description": "Oncology (oral and/or oropharyngeal cancer), gene expression profiling by RNA sequencing at least 20\nmolecular features (eg, human and/or microbial mRNA), saliva, algorithm reported as positive or\nnegative for signature associated with malignancy\nProprietary test: mRNA CancerDetect™\nLab/Manufacturer: Viome Life Sciences, Inc"
+                }
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Original Medicare Local Coverage Determinations (LCDs) and Articles",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 1,
+          "page_end": 1,
+          "columns": [
+            "Contractor name",
+            "Policy title",
+            "Policy number",
+            "Procedure code"
+          ],
+          "row_count": 3,
+          "rows": [
+            {
+              "Contractor name": "Palmetto GBA",
+              "Policy title": "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+              "Policy number": "L38988",
+              "Procedure code": "87623"
+            },
+            {
+              "Contractor name": "Wisconsin Physicians Service\nInsurance Corporation",
+              "Policy title": "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+              "Policy number": "L39044",
+              "Procedure code": "87623"
+            },
+            {
+              "Contractor name": "CGS Administrators, LLC",
+              "Policy title": "MolDX: Molecular Syndromic\nPanels for Infectious Disease",
+              "Policy number": "L39038",
+              "Procedure code": "87623"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 2,
+          "page_end": 2,
+          "columns": [
+            "",
+            "Pathogen Identification\nTesting",
+            "",
+            ""
+          ],
+          "row_count": 7,
+          "rows": [
+            {
+              "column_1": "Noridian Healthcare\nSolutions, LLC",
+              "Pathogen Identification\nTesting": "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+              "column_3": "L39001",
+              "column_4": "87623"
+            },
+            {
+              "column_1": "Palmetto GBA",
+              "Pathogen Identification\nTesting": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "column_3": "L35025",
+              "column_4": "0296U"
+            },
+            {
+              "column_1": "Noridian Healthcare\nSolutions, LLC",
+              "Pathogen Identification\nTesting": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "column_3": "L35160",
+              "column_4": "0296U"
+            },
+            {
+              "column_1": "CGS Administrators, LLC",
+              "Pathogen Identification\nTesting": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "column_3": "L36021",
+              "column_4": "0296U"
+            },
+            {
+              "column_1": "Wisconsin Physicians Service\nInsurance Corporation",
+              "Pathogen Identification\nTesting": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "column_3": "L36807",
+              "column_4": "0296U"
+            },
+            {
+              "column_1": "Novitas Solutions, Inc",
+              "Pathogen Identification\nTesting": "Billing and Coding: Molecular\nPathology and Genetic Testing",
+              "column_3": "A58917",
+              "column_4": "0296U"
+            },
+            {
+              "column_1": "First Coast Service Options,\nInc.",
+              "Pathogen Identification\nTesting": "Billing and Coding: Molecular\nPathology and Genetic Testing",
+              "column_3": "A58918",
+              "column_4": "0296U"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 4,
+      "content": [
+        "ACS. (2020). Key Statistics for Oral Cavity and Oropharyngeal Cancers. https://www.cancer.org/cancer/oral-cavity-and- oropharyngeal-cancer/about/key-statistics.html ACS. (2021, March 23 ). Key Statistics for Oral Cavity and Oropharyngeal Cancers. Retrieved April 9 from https://www.cancer.org/cancer/oral-cavity-and-oropharyngeal-cancer/about/key-statistics.html AdDent. (2020). MICROLUX TRANSILLUMINATOR. https://www.addent.com/microlux/ Alsarraf, A. H., Kujan, O., & Farah, C. S. (2018). The utility of oral brush cytology in the early detection of oral cancer and oral potentially malignant disorders: A systematic review. J Oral Pathol Med, 47(2), 104-116. https://doi.org/10.1111/jop.12660 Apteryx. (2020). VELscope Vx Enhanced Oral Assessment. https://apteryx.com/velscope/ Borsetto, D., Cheng, J., Payne, K., Nankivell, P., Batis, N., Rao, K., Bhide, S., Li, F., Kim, Y., Mehanna, H., & Wong, D. (2018). Surveillance of HPV-Positive Head and Neck Squamous Cell Carcinoma with Circulating and Salivary DNA Biomarkers. Crit Rev Oncog, 23(3-4), 235-245. https://doi.org/10.1615/CritRevOncog.2018027689 CDC. (2021, January 19). Human Papillomavirus (HPV) Fact Sheet. https://www.cdc.gov/std/hpv/stdfact-hpv.htm DenMat. (2020a). ViziLite PRO® Oral Lesion Screening System. https://www.denmat.com/vizilite-pro-oral-lesion-screening- system.html DenMat. (2020b). ViziLite® TBlue Annual Oral Cancer Screening System. https://www.denmat.com/vizilite-tblue-annual-oral-cancer- screening-system.html Dhanuthai, K., Rojanawatsirivej, S., Thosaporn, W., Kintarak, S., Subarnbhesaj, A., Darling, M., Kryshtalskyj, E., Chiang, C. P., Shin, H. I., Choi, S. Y., Lee, S. S., & Aminishakib, P. (2018). Oral cancer: A multicenter study. Medicina oral, patologia oral y cirugia bucal, 23(1), e23-e29. https://doi.org/10.4317/medoral.21999 Fakhry, C., Lacchetti, C., Rooper, L. M., Jordan, R. C., Rischin, D., Sturgis, E. M., Bell, D., Lingen, M. W., Harichand-Herdt, S., Thibo, J., Zevallos, J., & Perez-Ordonez, B. (2018). Human Papillomavirus Testing in Head and Neck Carcinomas: ASCO Clinical Practice Guideline Endorsement of the College of American Pathologists Guideline. J Clin Oncol, 36(31), 3152-3161. https://doi.org/10.1200/jco.18.00684 Fedele, S. (2009). Diagnostic aids in the screening of oral cancer. Head Neck Oncol, 1, 5. https://doi.org/10.1186/1758-3284-1-5 Fuller, C., Camilon, R., Nguyen, S., Jennings, J., Day, T., & Gillespie, M. B. (2015). Adjunctive diagnostic techniques for oral lesions of unknown malignant potential: Systematic review with meta-analysis. Head Neck, 37(5), 755-762. https://doi.org/10.1002/hed.23667 Gross, N., Lee, N., Okuno, S., & Rao, S. (2021, 06/28/2021). Treatment of stage I and II (early) head and neck cancer: The oral cavity. https://www.uptodate.com/contents/treatment-of-stage-i-and-ii-early-head-and-neck-cancer-the-oral-cavity Jain, A., Kotimoole, C. N., Ghoshal, S., Bakshi, J., Chatterjee, A., Prasad, T. S. K., & Pal, A. (2021). Identification of potential salivary biomarker panels for oral squamous cell carcinoma. Scientific Reports, 11(1), 3365. https://doi.org/10.1038/s41598-021-82635- 0 Kaur, J., Jacobs, R., Huang, Y., Salvo, N., & Politis, C. (2018). Salivary biomarkers for oral cancer and pre-cancer screening: a review. Clin Oral Investig, 22(2), 633-640. https://doi.org/10.1007/s00784-018-2337-x Lewis, J. S., Jr., Beadle, B., Bishop, J. A., Chernock, R. D., Colasacco, C., Lacchetti, C., Moncur, J. T., Rocco, J. W., Schwartz, M. R., Seethala, R. R., Thomas, N. E., Westra, W. H., & Faquin, W. C. (2018). Human Papillomavirus Testing in Head and Neck Carcinomas: Guideline From the College of American Pathologists. Arch Pathol Lab Med, 142(5), 559-597. https://doi.org/10.5858/arpa.2017-0286-CP Lim, Y., Wan, Y., Vagenas, D., Ovchinnikov, D. A., Perry, C. F., Davis, M. J., & Punyadeera, C. (2016). Salivary DNA methylation panel to diagnose HPV-positive and HPV-negative head and neck cancers. BMC Cancer, 16(1), 749. https://doi.org/10.1186/s12885- 016-2785-0 Lingen, M. W., Abt, E., Agrawal, N., Chaturvedi, A. K., Cohen, E., D’Souza, G., Gurenlian, J., Kalmar, J. R., Kerr, A. R., Lambert, P. M., Patton, L. L., Sollecito, T. P., Truelove, E., Tampi, M. P., Urquhart, O., Banfield, L., & Carrasco-Labra, A. (2017). Evidence-based clinical practice guideline for the evaluation of potentially malignant disorders in the oral cavity: A report of the American Dental Association. The Journal of the American Dental Association, 148(10), 712-727.e710. https://doi.org/10.1016/j.adaj.2017.07.032 Lingen, M. W., Kalmar, J. R., Karrison, T., & Speight, P. M. (2008). Critical evaluation of diagnostic aids for the detection of oral",
+        "cancer. Oral Oncol, 44(1), 10-22. https://doi.org/10.1016/j.oraloncology.2007.06.011 Liyanage, C., Wathupola, A., Muraleetharan, S., Perera, K., Punyadeera, C., & Udagama, P. (2019). Promoter Hypermethylation of Tumor-Suppressor Genes p16(INK4a), RASSF1A, TIMP3, and PCQAP/MED15 in Salivary DNA as a Quadruple Biomarker Panel for Early Detection of Oral and Oropharyngeal Cancers. Biomolecules, 9(4). https://doi.org/10.3390/biom9040148 Lodi, G. (2020, 11/24/2020). Oral Lesions. https://www.uptodate.com/contents/oral-lesions Macey, R., Walsh, T., Brocklehurst, P., Kerr, A. R., Liu, J. L., Lingen, M. W., Ogden, G. R., Warnakulasuriya, S., & Scully, C. (2015). Diagnostic tests for oral cancer and potentially malignant disorders in patients presenting with clinically evident lesions. Cochrane Database Syst Rev(5), Cd010276. https://doi.org/10.1002/14651858.CD010276.pub2 Machiels, J. P., René Leemans, C., Golusinski, W., Grau, C., Licitra, L., & Gregoire, V. (2020). Squamous cell carcinoma of the oral cavity, larynx, oropharynx and hypopharynx: EHNS-ESMO-ESTRO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol, 31(11), 1462-1475. https://doi.org/10.1016/j.annonc.2020.07.011 Maghami, E., Ismaila, N., Alvarez, A., Chernock, R., Duvvuri, U., Geiger, J., Gross, N., Haughey, B., Paul, D., Rodriguez, C., Sher, D., Stambuk, H. E., Waldron, J., Witek, M., & Caudell, J. (2020). Diagnosis and Management of Squamous Cell Carcinoma of Unknown Primary in the Head and Neck: ASCO Guideline. J Clin Oncol, 38(22), 2570-2596. https://doi.org/10.1200/jco.20.00275 Mascitti, M., Orsini, G., Tosco, V., Monterubbianesi, R., Balercia, A., Putignano, A., Procaccini, M., & Santarelli, A. (2018). An Overview on Current Non-invasive Diagnostic Devices in Oral Oncology. Frontiers in physiology, 9, 1510-1510. https://doi.org/10.3389/fphys.2018.01510 Moyer, V. A. o. b. o. t., U. S. Preventive Services Task Force. (2014). Screening for Oral Cancer: U.S. Preventive Services Task Force Recommendation Statement. Annals of Internal Medicine, 160(1), 55-60. https://doi.org/10.7326/M13-2568 Nagi, R., Reddy-Kantharaj, Y. B., Rakesh, N., Janardhan-Reddy, S., & Sahu, S. (2016). Efficacy of light based detection systems for early detection of oral cancer and oral potentially malignant disorders: Systematic review. Medicina oral, patologia oral y cirugia bucal, 21(4), e447-455. https://doi.org/10.4317/medoral.21104 NCCN. (2021, 12/08/2021). NCCN Clinical Practice Guidelines in Oncology - Head and Neck Cancers Version 1.2022 https://www.nccn.org/professionals/physician_gls/pdf/head-and-neck.pdf OralDNA. (2020a). OraRisk® HPV 16/18/HR. https://www.oraldna.com/test/ohpv/ OralDNA. (2020b). OraRisk® HPV Complete Genotyping. https://www.oraldna.com/test/ohpv-complete/ Patton, L. L., Epstein, J. B., & Kerr, A. R. (2008). Adjunctive techniques for oral cancer examination and lesion diagnosis: a systematic review of the literature. J Am Dent Assoc, 139(7), 896-905; quiz 993-894. https://jada.ada.org/article/S0002-8177(14)65381- 2/fulltext Paul Brocklehurst, O. K., Anne-Marie Glenny, Richard Oliver, Philip Sloan, Graham Ogden, Simon Shepherd. (2017). Screening programmes for the early detection and prevention of oral cancer. The Cochrane Library. http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD004150.pub3/full PCG. (2014). PCG Molecular. https://www.linkedin.com/company/pcg-molecular/about/ PeriRx. (2020). SaliMark™ OSCC: Oral Cancer Salivary Diagnostic Test. http://perirx.com/ Rashid, A., & Warnakulasuriya, S. (2015). The use of light-based (optical) detection systems as adjuncts in the detection of oral cancer and oral potentially malignant disorders: a systematic review. J Oral Pathol Med, 44(5), 307-328. https://doi.org/10.1111/jop.12218 Rethman, M. P., Carpenter, W., Cohen, E. E., Epstein, J., Evans, C. A., Flaitz, C. M., Graham, F. J., Hujoel, P. P., Kalmar, J. R., Koch, W. M., Lambert, P. M., Lingen, M. W., Oettmeier, B. W., Jr., Patton, L. L., Perkins, D., Reid, B. C., Sciubba, J. J., Tomar, S. L., Wyatt, A. D., Jr., . . . Meyer, D. M. (2010). Evidence-based clinical recommendations regarding screening for oral squamous cell",
+        "carcinomas. J Am Dent Assoc, 141(5), 509-520. Ribeiro, I. P., Esteves, L., Santos, A., Barroso, L., Marques, F., Caramelo, F., Melo, J. B., & Carreira, I. M. (2021). A seven-gene signature to predict the prognosis of oral squamous cell carcinoma. Oncogene, 40(22), 3859-3869. https://doi.org/10.1038/s41388-021-01806-5 Scully, C., & Porter, S. (2000). ABC of oral health. Oral cancer. Bmj, 321(7253), 97-100. Seoane Leston, J., & Diz Dios, P. (2010). Diagnostic clinical aids in oral cancer. Oral Oncol, 46(6), 418-422. https://doi.org/10.1016/j.oraloncology.2010.03.006 Siegel, R. L., Miller, K. D., & Jemal, A. (2019). Cancer statistics, 2019. CA: A Cancer Journal for Clinicians, 69(1), 7-34. https://doi.org/10.3322/caac.21551 Speight, P. M., Epstein, J., Kujan, O., Lingen, M. W., Nagao, T., Ranganathan, K., & Vargas, P. (2017). Screening for oral cancer-a perspective from the Global Oral Cancer Forum. Oral Surg Oral Med Oral Pathol Oral Radiol, 123(6), 680-687. https://doi.org/10.1016/j.oooo.2016.08.021 van der Waal, I. (2009). Potentially malignant disorders of the oral and oropharyngeal mucosa; terminology, classification and present concepts of management. Oral Oncol, 45(4-5), 317-323. https://doi.org/10.1016/j.oraloncology.2008.05.016 Vijayakumar, V., Reghunathan, D., Edacheriyan, B., & Mukundan, A. (2019). Role of Toluidine Blue Staining in Suspicious Lesions of Oral Cavity and Oropharynx. Indian J Otolaryngol Head Neck Surg, 71(Suppl 1), 142-146. https://doi.org/10.1007/s12070-017- 1161-y Warnakulasuriya, S., Johnson, N. W., & van der Waal, I. (2007). Nomenclature and classification of potentially malignant disorders of the oral mucosa. J Oral Pathol Med, 36(10), 575-580. https://doi.org/10.1111/j.1600-0714.2007.00582.x"
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": null,
+  "references": [
+    "ACS. (2020). Key Statistics for Oral Cavity and Oropharyngeal Cancers. https://www.cancer.org/cancer/oral-cavity-and- oropharyngeal-cancer/about/key-statistics.html ACS. (2021, March 23 ). Key Statistics for Oral Cavity and Oropharyngeal Cancers. Retrieved April 9 from https://www.cancer.org/cancer/oral-cavity-and-oropharyngeal-cancer/about/key-statistics.html AdDent. (2020). MICROLUX TRANSILLUMINATOR. https://www.addent.com/microlux/ Alsarraf, A. H., Kujan, O., & Farah, C. S. (2018). The utility of oral brush cytology in the early detection of oral cancer and oral potentially malignant disorders: A systematic review. J Oral Pathol Med, 47(2), 104-116. https://doi.org/10.1111/jop.12660 Apteryx. (2020). VELscope Vx Enhanced Oral Assessment. https://apteryx.com/velscope/ Borsetto, D., Cheng, J., Payne, K., Nankivell, P., Batis, N., Rao, K., Bhide, S., Li, F., Kim, Y., Mehanna, H., & Wong, D. (2018). Surveillance of HPV-Positive Head and Neck Squamous Cell Carcinoma with Circulating and Salivary DNA Biomarkers. Crit Rev Oncog, 23(3-4), 235-245. https://doi.org/10.1615/CritRevOncog.2018027689 CDC. (2021, January 19). Human Papillomavirus (HPV) Fact Sheet. https://www.cdc.gov/std/hpv/stdfact-hpv.htm DenMat. (2020a). ViziLite PRO® Oral Lesion Screening System. https://www.denmat.com/vizilite-pro-oral-lesion-screening- system.html DenMat. (2020b). ViziLite® TBlue Annual Oral Cancer Screening System. https://www.denmat.com/vizilite-tblue-annual-oral-cancer- screening-system.html Dhanuthai, K., Rojanawatsirivej, S., Thosaporn, W., Kintarak, S., Subarnbhesaj, A., Darling, M., Kryshtalskyj, E., Chiang, C. P., Shin, H. I., Choi, S. Y., Lee, S. S., & Aminishakib, P. (2018). Oral cancer: A multicenter study. Medicina oral, patologia oral y cirugia bucal, 23(1), e23-e29. https://doi.org/10.4317/medoral.21999 Fakhry, C., Lacchetti, C., Rooper, L. M., Jordan, R. C., Rischin, D., Sturgis, E. M., Bell, D., Lingen, M. W., Harichand-Herdt, S., Thibo, J., Zevallos, J., & Perez-Ordonez, B. (2018). Human Papillomavirus Testing in Head and Neck Carcinomas: ASCO Clinical Practice Guideline Endorsement of the College of American Pathologists Guideline. J Clin Oncol, 36(31), 3152-3161. https://doi.org/10.1200/jco.18.00684 Fedele, S. (2009). Diagnostic aids in the screening of oral cancer. Head Neck Oncol, 1, 5. https://doi.org/10.1186/1758-3284-1-5 Fuller, C., Camilon, R., Nguyen, S., Jennings, J., Day, T., & Gillespie, M. B. (2015). Adjunctive diagnostic techniques for oral lesions of unknown malignant potential: Systematic review with meta-analysis. Head Neck, 37(5), 755-762. https://doi.org/10.1002/hed.23667 Gross, N., Lee, N., Okuno, S., & Rao, S. (2021, 06/28/2021). Treatment of stage I and II (early) head and neck cancer: The oral cavity. https://www.uptodate.com/contents/treatment-of-stage-i-and-ii-early-head-and-neck-cancer-the-oral-cavity Jain, A., Kotimoole, C. N., Ghoshal, S., Bakshi, J., Chatterjee, A., Prasad, T. S. K., & Pal, A. (2021). Identification of potential salivary biomarker panels for oral squamous cell carcinoma. Scientific Reports, 11(1), 3365. https://doi.org/10.1038/s41598-021-82635- 0 Kaur, J., Jacobs, R., Huang, Y., Salvo, N., & Politis, C. (2018). Salivary biomarkers for oral cancer and pre-cancer screening: a review. Clin Oral Investig, 22(2), 633-640. https://doi.org/10.1007/s00784-018-2337-x Lewis, J. S., Jr., Beadle, B., Bishop, J. A., Chernock, R. D., Colasacco, C., Lacchetti, C., Moncur, J. T., Rocco, J. W., Schwartz, M. R., Seethala, R. R., Thomas, N. E., Westra, W. H., & Faquin, W. C. (2018). Human Papillomavirus Testing in Head and Neck Carcinomas: Guideline From the College of American Pathologists. Arch Pathol Lab Med, 142(5), 559-597. https://doi.org/10.5858/arpa.2017-0286-CP Lim, Y., Wan, Y., Vagenas, D., Ovchinnikov, D. A., Perry, C. F., Davis, M. J., & Punyadeera, C. (2016). Salivary DNA methylation panel to diagnose HPV-positive and HPV-negative head and neck cancers. BMC Cancer, 16(1), 749. https://doi.org/10.1186/s12885- 016-2785-0 Lingen, M. W., Abt, E., Agrawal, N., Chaturvedi, A. K., Cohen, E., D’Souza, G., Gurenlian, J., Kalmar, J. R., Kerr, A. R., Lambert, P. M., Patton, L. L., Sollecito, T. P., Truelove, E., Tampi, M. P., Urquhart, O., Banfield, L., & Carrasco-Labra, A. (2017). Evidence-based clinical practice guideline for the evaluation of potentially malignant disorders in the oral cavity: A report of the American Dental Association. The Journal of the American Dental Association, 148(10), 712-727.e710. https://doi.org/10.1016/j.adaj.2017.07.032 Lingen, M. W., Kalmar, J. R., Karrison, T., & Speight, P. M. (2008). Critical evaluation of diagnostic aids for the detection of oral",
+    "cancer. Oral Oncol, 44(1), 10-22. https://doi.org/10.1016/j.oraloncology.2007.06.011 Liyanage, C., Wathupola, A., Muraleetharan, S., Perera, K., Punyadeera, C., & Udagama, P. (2019). Promoter Hypermethylation of Tumor-Suppressor Genes p16(INK4a), RASSF1A, TIMP3, and PCQAP/MED15 in Salivary DNA as a Quadruple Biomarker Panel for Early Detection of Oral and Oropharyngeal Cancers. Biomolecules, 9(4). https://doi.org/10.3390/biom9040148 Lodi, G. (2020, 11/24/2020). Oral Lesions. https://www.uptodate.com/contents/oral-lesions Macey, R., Walsh, T., Brocklehurst, P., Kerr, A. R., Liu, J. L., Lingen, M. W., Ogden, G. R., Warnakulasuriya, S., & Scully, C. (2015). Diagnostic tests for oral cancer and potentially malignant disorders in patients presenting with clinically evident lesions. Cochrane Database Syst Rev(5), Cd010276. https://doi.org/10.1002/14651858.CD010276.pub2 Machiels, J. P., René Leemans, C., Golusinski, W., Grau, C., Licitra, L., & Gregoire, V. (2020). Squamous cell carcinoma of the oral cavity, larynx, oropharynx and hypopharynx: EHNS-ESMO-ESTRO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol, 31(11), 1462-1475. https://doi.org/10.1016/j.annonc.2020.07.011 Maghami, E., Ismaila, N., Alvarez, A., Chernock, R., Duvvuri, U., Geiger, J., Gross, N., Haughey, B., Paul, D., Rodriguez, C., Sher, D., Stambuk, H. E., Waldron, J., Witek, M., & Caudell, J. (2020). Diagnosis and Management of Squamous Cell Carcinoma of Unknown Primary in the Head and Neck: ASCO Guideline. J Clin Oncol, 38(22), 2570-2596. https://doi.org/10.1200/jco.20.00275 Mascitti, M., Orsini, G., Tosco, V., Monterubbianesi, R., Balercia, A., Putignano, A., Procaccini, M., & Santarelli, A. (2018). An Overview on Current Non-invasive Diagnostic Devices in Oral Oncology. Frontiers in physiology, 9, 1510-1510. https://doi.org/10.3389/fphys.2018.01510 Moyer, V. A. o. b. o. t., U. S. Preventive Services Task Force. (2014). Screening for Oral Cancer: U.S. Preventive Services Task Force Recommendation Statement. Annals of Internal Medicine, 160(1), 55-60. https://doi.org/10.7326/M13-2568 Nagi, R., Reddy-Kantharaj, Y. B., Rakesh, N., Janardhan-Reddy, S., & Sahu, S. (2016). Efficacy of light based detection systems for early detection of oral cancer and oral potentially malignant disorders: Systematic review. Medicina oral, patologia oral y cirugia bucal, 21(4), e447-455. https://doi.org/10.4317/medoral.21104 NCCN. (2021, 12/08/2021). NCCN Clinical Practice Guidelines in Oncology - Head and Neck Cancers Version 1.2022 https://www.nccn.org/professionals/physician_gls/pdf/head-and-neck.pdf OralDNA. (2020a). OraRisk® HPV 16/18/HR. https://www.oraldna.com/test/ohpv/ OralDNA. (2020b). OraRisk® HPV Complete Genotyping. https://www.oraldna.com/test/ohpv-complete/ Patton, L. L., Epstein, J. B., & Kerr, A. R. (2008). Adjunctive techniques for oral cancer examination and lesion diagnosis: a systematic review of the literature. J Am Dent Assoc, 139(7), 896-905; quiz 993-894. https://jada.ada.org/article/S0002-8177(14)65381- 2/fulltext Paul Brocklehurst, O. K., Anne-Marie Glenny, Richard Oliver, Philip Sloan, Graham Ogden, Simon Shepherd. (2017). Screening programmes for the early detection and prevention of oral cancer. The Cochrane Library. http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD004150.pub3/full PCG. (2014). PCG Molecular. https://www.linkedin.com/company/pcg-molecular/about/ PeriRx. (2020). SaliMark™ OSCC: Oral Cancer Salivary Diagnostic Test. http://perirx.com/ Rashid, A., & Warnakulasuriya, S. (2015). The use of light-based (optical) detection systems as adjuncts in the detection of oral cancer and oral potentially malignant disorders: a systematic review. J Oral Pathol Med, 44(5), 307-328. https://doi.org/10.1111/jop.12218 Rethman, M. P., Carpenter, W., Cohen, E. E., Epstein, J., Evans, C. A., Flaitz, C. M., Graham, F. J., Hujoel, P. P., Kalmar, J. R., Koch, W. M., Lambert, P. M., Lingen, M. W., Oettmeier, B. W., Jr., Patton, L. L., Perkins, D., Reid, B. C., Sciubba, J. J., Tomar, S. L., Wyatt, A. D., Jr., . . . Meyer, D. M. (2010). Evidence-based clinical recommendations regarding screening for oral squamous cell",
+    "carcinomas. J Am Dent Assoc, 141(5), 509-520. Ribeiro, I. P., Esteves, L., Santos, A., Barroso, L., Marques, F., Caramelo, F., Melo, J. B., & Carreira, I. M. (2021). A seven-gene signature to predict the prognosis of oral squamous cell carcinoma. Oncogene, 40(22), 3859-3869. https://doi.org/10.1038/s41388-021-01806-5 Scully, C., & Porter, S. (2000). ABC of oral health. Oral cancer. Bmj, 321(7253), 97-100. Seoane Leston, J., & Diz Dios, P. (2010). Diagnostic clinical aids in oral cancer. Oral Oncol, 46(6), 418-422. https://doi.org/10.1016/j.oraloncology.2010.03.006 Siegel, R. L., Miller, K. D., & Jemal, A. (2019). Cancer statistics, 2019. CA: A Cancer Journal for Clinicians, 69(1), 7-34. https://doi.org/10.3322/caac.21551 Speight, P. M., Epstein, J., Kujan, O., Lingen, M. W., Nagao, T., Ranganathan, K., & Vargas, P. (2017). Screening for oral cancer-a perspective from the Global Oral Cancer Forum. Oral Surg Oral Med Oral Pathol Oral Radiol, 123(6), 680-687. https://doi.org/10.1016/j.oooo.2016.08.021 van der Waal, I. (2009). Potentially malignant disorders of the oral and oropharyngeal mucosa; terminology, classification and present concepts of management. Oral Oncol, 45(4-5), 317-323. https://doi.org/10.1016/j.oraloncology.2008.05.016 Vijayakumar, V., Reghunathan, D., Edacheriyan, B., & Mukundan, A. (2019). Role of Toluidine Blue Staining in Suspicious Lesions of Oral Cavity and Oropharynx. Indian J Otolaryngol Head Neck Surg, 71(Suppl 1), 142-146. https://doi.org/10.1007/s12070-017- 1161-y Warnakulasuriya, S., Johnson, N. W., & van der Waal, I. (2007). Nomenclature and classification of potentially malignant disorders of the oral mucosa. J Oral Pathol Med, 36(10), 575-580. https://doi.org/10.1111/j.1600-0714.2007.00582.x"
+  ],
+  "resources": null,
+  "_extraction_stats": {
+    "total_sections": 4,
+    "total_tables": 3,
+    "total_characters": 11842
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "integrity": {
+    "knowledge_base.terms_reference_existing_concepts": {
+      "passed": true,
+      "detail": "0 violating rows"
+    },
+    "knowledge_base.no_duplicate_code_rows": {
+      "passed": true,
+      "detail": "0 violating rows"
+    },
+    "knowledge_base.every_code_has_a_code_level_term": {
+      "passed": true,
+      "detail": "0 violating rows"
+    },
+    "knowledge_base.single_release_in_terms": {
+      "passed": true,
+      "detail": "0 violating rows"
+    },
+    "knowledge_base.no_obsolete_atoms_loaded": {
+      "passed": true,
+      "detail": "0 violating rows"
+    },
+    "knowledge_base.semantic_types_reference_concepts": {
+      "passed": true,
+      "detail": "0 violating rows"
+    },
+    "knowledge_base.definitions_reference_concepts": {
+      "passed": true,
+      "detail": "0 violating rows"
+    },
+    "knowledge_base.codes_reference_concepts": {
+      "passed": true,
+      "detail": "0 violating rows"
+    },
+    "knowledge_base.relationship_endpoints_exist": {
+      "passed": true,
+      "detail": "0 violating rows"
+    },
+    "mappings.every_mapping_has_evidence": {
+      "passed": true,
+      "detail": "0 violating rows"
+    },
+    "mappings.no_duplicate_policy_code_pairs": {
+      "passed": true,
+      "detail": "0 violating rows"
+    },
+    "mappings.explicit_mappings_have_mentions": {
+      "passed": true,
+      "detail": "0 violating rows"
+    },
+    "mappings.inferred_evidence_has_phrase_and_term": {
+      "passed": true,
+      "detail": "0 violating rows"
+    },
+    "mappings.evidence_orphans": {
+      "passed": true,
+      "detail": "0 violating rows"
+    },
+    "mappings.gap_findings_reference_existing_pairs": {
+      "passed": true,
+      "detail": "0 violating rows"
+    },
+    "mappings.sections_belong_to_policies": {
+      "passed": true,
+      "detail": "0 violating rows"
+    },
+    "mappings.derived_rows_belong_to_policies": {
+      "passed": true,
+      "detail": "0 violating rows"
+    },
+    "mappings.pairs_reference_policies": {
+      "passed": true,
+      "detail": "0 violating rows"
+    }
+  },
+  "evaluation": null,
+  "evaluation_note": "No gold file supplied - no accuracy metrics computed. Annotate /tmp/final/data/review/gold_annotation_template.csv (fill is_applicable; add rows for missed codes) and re-run with --gold."
+}

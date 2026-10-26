@@ -1,0 +1,230 @@
+{
+  "policy_metadata": {
+    "policy_title": "Emergency Department E/M Reimbursement",
+    "policy_number": "CP2017009",
+    "published_date": "04/2018",
+    "effective_date": "04/2018",
+    "revision_date": "03/2025",
+    "last_reviewed": "03/2025",
+    "Line_of_Business": "Medicare Advantage, Kentucky Medicaid and Oklahoma Medicaid Products",
+    "Billingclass": "Professional",
+    "source_pdf": "Emergency_Department_E_M_Reimbursement-3e59c7cd.pdf",
+    "total_pages": 8,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "99281",
+      "99282",
+      "99283",
+      "99284",
+      "99285",
+      "G0380",
+      "G0381",
+      "G0382",
+      "G0383",
+      "G0384",
+      "UP"
+    ],
+    "cpt_codes": [
+      "99281",
+      "99282",
+      "99283",
+      "99284",
+      "99285"
+    ],
+    "hcpcs_codes": [
+      "G0380",
+      "G0381",
+      "G0382",
+      "G0383",
+      "G0384"
+    ],
+    "modifiers": [
+      "UP"
+    ],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "Facilities report evaluation and management (E/M) services provided in the emergency department using Current Procedural Terminology (CPT®) codes 99281 – 99285 and Healthcare Common Procedure Coding System (HCPCS) codes G0380 – G0384 in conjunction with an applicable revenue code. This policy outlines the criteria Humana plans use to determine the level of reimbursement for facility E/M services provided in the emergency department. This policy is based on principles for reporting emergency department E/M services established by the Centers for Medicare and Medicaid Services (CMS) and on the code descriptions for CPT codes 99281 – 99285 and HCPCS codes G0380 – G0384 ."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage and Oklahoma Medicaid Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 4,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. For reimbursable services, Humana plans compare facility charges for E/M services provided in emergency departments to the criteria outlined in the guidelines below. When the facility’s billed emergency department E/M service code is higher than what is supported by the criteria for that code in this policy, Humana reimburses at the lower E/M service code based on the criteria outlined in this policy."
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 2,
+          "page_end": 7,
+          "columns": [
+            "E/M\nlevel",
+            "Type A emergency\ndepartment",
+            "Type B emergency\ndepartment",
+            "Minimum criteria for acceptance"
+          ],
+          "row_count": 12,
+          "rows": [
+            {
+              "E/M\nlevel": "Level 1",
+              "Type A emergency\ndepartment": "99281",
+              "Type B emergency\ndepartment": "G0380",
+              "Minimum criteria for acceptance": "One or more of the following:\n• Initial assessment\n• No medication or treatments\n• Prescription refill only\n• Note for work or school\n• Wound recheck\n• Booster or follow-up immunization without injury or with minor\nacute injury\n• Dressing changes\n• Suture removal"
+            },
+            {
+              "E/M\nlevel": "Level 2",
+              "Type A emergency\ndepartment": "99282",
+              "Type B emergency\ndepartment": "G0381",
+              "Minimum criteria for acceptance": "One or more of the following:\n• Simple tests and cultures performed by emergency department\nstaff such as:\n- Clean catch urine sample\n- Accucheck(s)\n- Stool smear\n- Cultures of throat, skin, urine or wounds\n• Visual acuity examination\n• Ace wrap or sling application\n• Preparation or assistance with procedures such as:\n- Minor laceration repair\n- Incision and drainage of simple abscess\n• Cast removal\n• Foreign body removal without incision or anesthetic\n• First or second degree burn treatment with discharge from\nemergency department\n• Venipuncture for a laboratory test"
+            },
+            {
+              "E/M\nlevel": "Level 3",
+              "Type A emergency\ndepartment": "99283",
+              "Type B emergency\ndepartment": "G0382",
+              "Minimum criteria for acceptance": "One or more of the following:\n• Heparin or saline lock placement\n• One nebulizer treatment\n• X-ray of one or more body areas\n• Prescription medication administration by mouth (PO)\n• Insertion or removal of Foley catheter or insertion or removal of\ncatheter to obtain sterile urine specimen\n• Cervical spine precautions\n• Fluorescein stain eye test\n• Emesis or incontinence care\n• Preparation or assistance with procedures such as:"
+            },
+            {
+              "E/M\nlevel": "",
+              "Type A emergency\ndepartment": "",
+              "Type B emergency\ndepartment": "",
+              "Minimum criteria for acceptance": "- Joint aspiration\n- Joint injection\n• Simple fracture care\n• Simple mental health treatment\n• Routine psychiatric medical clearance\n• Limited social worker intervention such as:\n- Case management\n• Postmortem care\n• Direct admission via emergency department\n• Epistaxis treatment with packing\n• Routine tracheotomy care\n• Simple eye or ear irrigation\n• Simple treatment of dislocation of patella, finger or toe without\nfracture\n• Assault treatment without radiological testing\n• Port-a-cath venous access\n• Pelvic examination\n• Genitourinary examination\n• Rectal examination\n• IV push medication administration\n• IV fluid administration without medication\n• Intramuscular (IM) or subcutaneous (Sub-Q) medication\nadministration\n• EKG or ECG test"
+            },
+            {
+              "E/M\nlevel": "Level 4",
+              "Type A emergency\ndepartment": "99284",
+              "Type B emergency\ndepartment": "G0383",
+              "Minimum criteria for acceptance": "One or more of the following:\n• Special imaging study\n- CT, ECHO, MRI, ultrasound or ventilation perfusion (VQ) scan\n• Two non-continuous nebulizer treatments or at least one hour of\ncontinuous nebulizer treatment\n• Administration and monitoring of infusions or parenteral\nmedication\n- IV, IM, intraosseous (IO) or vascular catheterization (VC)\n• Nasogastric (NG) or percutaneous endoscopic gastrostomy (PEG)\ntube placement or replacement\n• Preparation or assistance with procedures such as:\n- Morgan Lens\n- Bladder irrigation with three-way Foley catheter\n• Sexual assault examination without specimen collection\n• Treatment of nonsuicidal psychotic patient\n• Insertion of nasal or oral airway\n• PICC or central line insertion\n• Tracheal tube replacement\n• Complete series of rabies vaccines\n• *Four or more different types of diagnostic tests such as:\n- Laboratory test not requiring an arterial blood draw\n- Laboratory test requiring an arterial blood draw\n- EKG or ECG test"
+            },
+            {
+              "E/M\nlevel": "",
+              "Type A emergency\ndepartment": "",
+              "Type B emergency\ndepartment": "",
+              "Minimum criteria for acceptance": "- X-ray\n- Holter monitor (recording, scanning analysis with report, review\nor interpretation)\n- Bladder scan\n- Device interrogation\n*Multiple tests of the same type are treated as one type of diagnostic\ntest. Exception: each X-ray is treated as a distinct type of diagnostic\ntest."
+            },
+            {
+              "E/M\nlevel": "Level 5",
+              "Type A emergency\ndepartment": "99285",
+              "Type B emergency\ndepartment": "G0384",
+              "Minimum criteria for acceptance": "One or more of the following:\n• Blood transfusion administration\n• Three or more non-continuous nebulizer treatments or at least two\nhours of continuous nebulizer treatment\n• Moderate sedation\n• Preparation or assistance with procedures such as:\n- Gastric lavage\n- Lumbar puncture\n- Paracentesis or thoracentesis\n• Application of cooling or heating blanket\n• Extended social worker intervention\n• Sexual assault examination with specimen collection\n• Coordinating transfer for hospital admission or change in living\nsituation or site\n• Administration of physical or chemical restraints\n• Suicide watch\n• Critical care for less than 30 minutes\n• Fracture reduction or relocation\n• Endotracheal or tracheal tube insertion\n• Decontamination or isolation for hazardous material\n• Precipitous delivery in emergency department\n• Treatment for severe burns\n• General anesthesia\n• Four or more special imaging studies\n- CT, ECHO, MRI, ultrasound or ventilation perfusion (VQ) scan"
+            },
+            {
+              "E/M\nlevel": "Level 1",
+              "Type A emergency\ndepartment": "99281",
+              "Type B emergency\ndepartment": "G0380",
+              "Minimum criteria for acceptance": "One or more of the following:\n• Initial assessment\n• No medication or treatments\n• Prescription refill only\n• Note for work or school\n• Wound recheck\n• Booster or follow-up immunization without injury or with minor acute\ninjury\n• Dressing changes\n• Suture removal"
+            },
+            {
+              "E/M\nlevel": "Level 2",
+              "Type A emergency\ndepartment": "99282 and 99283",
+              "Type B emergency\ndepartment": "G0381 and G0382",
+              "Minimum criteria for acceptance": "One or more of the following:\n• Simple tests and cultures performed by emergency department staff\nsuch as:\n- Clean catch urine sample\n- Accucheck(s)\n- Stool smear\n- Cultures of throat, skin, urine or wounds\n• Visual acuity examination\n• Ace wrap or sling application\n• Preparation or assistance with procedures such as:\n- Minor laceration repair\n- Incision and drainage of simple abscess\n• Cast removal\n• Foreign body removal without incision or anesthetic\n• First or second degree burn treatment with discharge from\nemergency department\n• Venipuncture for a laboratory test\n• Heparin or saline lock placement\n• One nebulizer treatment\n• X-ray of one or more body areas\n• Prescription medication administration by mouth (PO)\n• Insertion or removal of Foley catheter or insertion or removal of\ncatheter to obtain sterile urine specimen\n• Cervical spine precautions\n• Fluorescein stain eye test\n• Emesis or incontinence care\n• Preparation or assistance with procedures such as:\n- Joint aspiration\n- Joint injection\n• Simple fracture care\n• Simple mental health treatment\n• Routine psychiatric medical clearance\n• Limited social worker intervention such as:\n- Case management\n• Postmortem care\n• Direct admission via emergency department\n• Epistaxis treatment with packing"
+            },
+            {
+              "E/M\nlevel": "",
+              "Type A emergency\ndepartment": "",
+              "Type B emergency\ndepartment": "",
+              "Minimum criteria for acceptance": "• Routine tracheotomy care\n• Simple eye or ear irrigation\n• Simple treatment of dislocation of patella, finger or toe without\nfracture\n• Assault treatment without radiological testing\n• Port-a-cath venous access\n• Pelvic examination\n• Genitourinary examination\n• Rectal examination\n• IV push medication administration\n• IV fluid administration without medication\n• Intramuscular (IM) or subcutaneous (Sub-Q) medication\nadministration\n• EKG or ECG test"
+            },
+            {
+              "E/M\nlevel": "Level 3",
+              "Type A emergency\ndepartment": "99284 and 99285",
+              "Type B emergency\ndepartment": "G0383 and G0384",
+              "Minimum criteria for acceptance": "One or more of the following:\n• Special imaging study\n- CT, ECHO, MRI, ultrasound or ventilation perfusion (VQ) scan\n• Two or more non-continuous nebulizer treatments or at least one\nhour of continuous nebulizer treatment\n• Administration and monitoring of infusions or parenteral medication\n- IV, IM, intraosseous (IO) or vascular catheterization (VC)\n• Nasogastric (NG) or percutaneous endoscopic gastrostomy (PEG) tube\nplacement or replacement\n• Preparation or assistance with procedures such as:\n- Morgan Lens\n- Bladder irrigation with three-way Foley catheter\n• Sexual assault examination with or without specimen collection\n• Treatment of nonsuicidal psychotic patient\n• Insertion of nasal or oral airway\n• PICC or central line insertion\n• Endotracheal or tracheal tube insertion or replacement\n• Complete series of rabies vaccines\n• *Four or more different types of diagnostic tests such as:\n- Laboratory test not requiring an arterial blood draw\n- Laboratory test requiring an arterial blood draw\n- EKG or ECG test\n- X-ray\n- Holter monitor (recording, scanning analysis with report, review\nor interpretation)\n- Bladder scan\n- Device interrogation\n• Blood transfusion administration\n• Moderate sedation\n• Preparation or assistance with procedures such as:\n- Gastric lavage\n- Lumbar puncture\n- Paracentesis or thoracentesis\n• Application of cooling or heating blanket"
+            },
+            {
+              "E/M\nlevel": "",
+              "Type A emergency\ndepartment": "",
+              "Type B emergency\ndepartment": "",
+              "Minimum criteria for acceptance": "• Extended social worker intervention\n• Coordinating transfer for hospital admission or change in living\nsituation or site\n• Administration of physical or chemical restraints\n• Suicide watch\n• Critical care for less than 30 minutes\n• Fracture reduction or relocation\n• Decontamination or isolation for hazardous material\n• Precipitous delivery in emergency department\n• Treatment for severe burns\n• General anesthesia\n*Multiple tests of the same type are treated as one type of diagnostic\ntest. Exception: each X-ray is treated as a distinct type of diagnostic test."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Kentucky Medicaid Payment Policy",
+      "level": 1,
+      "page_start": 4,
+      "page_end": 7,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. For reimbursable services, Humana compares facility charges for E/M services provided in emergency departments to the criteria outlined in the guidelines below. When the criteria associated with the facility’s billed emergency department E/M service code are not satisfied, Humana provides reimbursement at the emergency department E/M service code level for which the criteria in the following guidelines are satisfied but will not reimburse at a higher E/M service code than billed."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Additional Resources on this Topic",
+      "level": 1,
+      "page_start": 7,
+      "page_end": 7,
+      "content": [
+        "Humana’s Making it Easier web-based training series includes a video on the proper reporting and reimbursement of emergency department E/M services that may supplement your understanding of this policy."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 7,
+      "page_end": 7,
+      "content": [
+        "• CPT code 99281 : Emergency department visit for the evaluation and management of a patient that may not require the presence of a physician or other qualified health care professional. • CPT code 99282 : Emergency department visit for the evaluation and management of a patient, which requires a medically appropriate history and/or examination and straightforward medical decision making. • CPT code 99283 : Emergency department visit for the evaluation and management of a patient, which requires a medically appropriate history and/or examination and low level of medical decision making. • CPT code 99284 : Emergency department visit for the evaluation and management of a patient, which requires a medically appropriate history and/or examination and moderate level of medical decision making. • CPT code 99285 : Emergency department visit for the evaluation and management of a patient, which requires a medically appropriate history and/or examination and high level of medical decision making. • HCPCS code G0380 : Level 1 hospital emergency department visit provided in a type B emergency department. • HCPCS code G0381 : Level 2 hospital emergency department visit provided in a type B emergency department. • HCPCS code G0382 : Level 3 hospital emergency department visit provided in a type B emergency department. • HCPCS code G0383 : Level 4 hospital emergency department visit provided in a type B emergency department. • HCPCS code G0384 : Level 5 hospital emergency department visit provided in a type B emergency department."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 7,
+      "page_end": 8,
+      "content": [
+        "• Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services. • American Medical Association’s CPT® and associated publications and services. • Kentucky Cabinet for Health and Family Services website. Department for Medicaid Services . chfs.ky.gov. • Oklahoma Health Care Authority website. Oklahoma’s Medicaid Agency . oklahoma.gov. • Humana website. Humana Healthy Horizons in Kentucky . Humana.com. • Humana website. Humana Healthy Horizons in Oklahoma . Humana.com."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 8,
+      "page_end": 8,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "CPT code 99281": "Emergency department visit for the evaluation and management of a patient that may not require the presence of a physician or other qualified health care professional. • CPT code 99282 : Emergency department visit for the evaluation and management of a patient, which requires a medically appropriate history and/or examination and straightforward medical decision making. • CPT code 99283 : Emergency department visit for the evaluation and management of a patient, which requires a medically appropriate history and/or examination and low level of medical decision making. • CPT code 99284 : Emergency department visit for the evaluation and management of a patient, which requires a medically appropriate history and/or examination and moderate level of medical decision making. • CPT code 99285 : Emergency department visit for the evaluation and management of a patient, which requires a medically appropriate history and/or examination and high level of medical decision making. • HCPCS code G0380 : Level 1 hospital emergency department visit provided in a type B emergency department. • HCPCS code G0381 : Level 2 hospital emergency department visit provided in a type B emergency department. • HCPCS code G0382 : Level 3 hospital emergency department visit provided in a type B emergency department. • HCPCS code G0383 : Level 4 hospital emergency department visit provided in a type B emergency department. • HCPCS code G0384 : Level 5 hospital emergency department visit provided in a type B emergency department."
+  },
+  "references": [
+    "Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services. • American Medical Association’s CPT® and associated publications and services. • Kentucky Cabinet for Health and Family Services website. Department for Medicaid Services . chfs.ky.gov. • Oklahoma Health Care Authority website. Oklahoma’s Medicaid Agency . oklahoma.gov. • Humana website. Humana Healthy Horizons in Kentucky . Humana.com. • Humana website. Humana Healthy Horizons in Oklahoma . Humana.com."
+  ],
+  "resources": [
+    "Humana’s Making it Easier web-based training series includes a video on the proper reporting and reimbursement of emergency department E/M services that may supplement your understanding of this policy.",
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 7,
+    "total_tables": 1,
+    "total_characters": 5360
+  }
+}

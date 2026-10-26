@@ -1,0 +1,125 @@
+{
+  "policy_title": "Prostate Cancer Screening",
+  "policy_number": "ABHIL-RP-0026",
+  "effective_date": "06/01/2026",
+  "expiry_date": "03/15/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "G0102",
+    "G0103"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for prostate cancer screening when appropriately reported. \nAppropriate reporting includes \n• \nReporting the appropriate screening HCPCS code no more than once per year \n• \nReporting screening for patients 40 years of age or older \n \nClaims that are submitted will be denied when \n• \nScreening services are reported more than once per year \n• \nScreening services are reported for patients 39 years of age or younger \n \nThe medical record documentation is expected to support the specific CPT, HCPCS code(s), \nICD-10-CM codes and modifiers reported.",
+    "subsections": [
+      {
+        "title": "Reporting the appropriate screening HCPCS code no more than once per year",
+        "content": "Reporting the appropriate screening HCPCS code no more than once per year"
+      },
+      {
+        "title": "Reporting screening for patients 40 years of age or older",
+        "content": "Claims that are submitted will be denied when"
+      },
+      {
+        "title": "Screening services are reported more than once per year",
+        "content": "Screening services are reported more than once per year"
+      },
+      {
+        "title": "Screening services are reported for patients 39 years of age or younger",
+        "content": "The medical record documentation is expected to support the specific CPT, HCPCS code(s), ICD-10-CM codes and modifiers reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Illinois Department\nof Health Care and\nFamily Services\n(HFS)",
+            "value": "The Department of Healthcare and Family Services\nadministers health insurance programs for children, pregnant\nwomen, and adults who are residents of Illinois."
+          },
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for prostate cancer screening when appropriately reported.\nAppropriate reporting includes\n• Reporting the appropriate screening HCPCS code no more than once per year\n• Reporting screening for patients 40 years of age or older\nClaims that are submitted will be denied when\n• Screening services are reported more than once per year\n• Screening services are reported for patients 39 years of age or younger\nThe medical record documentation is expected to support the specific CPT, HCPCS code(s),\nICD-10-CM codes and modifiers reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "HCPCS Codes\nG0102 Prostate cancer screening; digital rectal examination\nG0103 Prostate cancer screening; prostate specific antigen test (PSA)",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "G0102",
+            "value": "Prostate cancer screening; digital rectal examination"
+          },
+          {
+            "key": "G0103",
+            "value": "Prostate cancer screening; prostate specific antigen test (PSA)"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "F. Frequently Asked Questions",
+            "value": ""
+          },
+          {
+            "key": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "G. Review/Revision Date",
+            "value": ""
+          },
+          {
+            "key": "Action",
+            "value": "Date | Comments"
+          },
+          {
+            "key": "Effective Date",
+            "value": "06/01/2026"
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. HCPCS Level II Professional 2026, AMA; 2025."
+}

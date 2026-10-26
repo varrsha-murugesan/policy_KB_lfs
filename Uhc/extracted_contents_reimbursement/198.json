@@ -1,0 +1,123 @@
+{
+  "policy_title": "Chronic Heart Failure Policy",
+  "policy_number": "2026R8008A",
+  "policy_dates": {
+    "effective_date": "8/26/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to services reported using the 1500 Health Insurance Claim Form (a/k/a CMS-1500), UB04 claim form or its electronic equivalent or its successor form. This policy applies to all products, all network and non-network physicians and other qualified health care professionals, outpatient facility claims, Ambulatory Surgical Centers (ASC), Outpatient Surgical Centers (OSC), including, but not limited to, non-network authorized and percent of charge contract physicians, other qualified health care professionals or facilities.",
+      "children": [
+        {
+          "title": "United Healthcare Commercial",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all UnitedHealthcare Commercial benefit plans."
+        },
+        {
+          "title": "UnitedHealthcare Individual Exchange",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all Individual Exchange benefit plans."
+        },
+        {
+          "title": "UnitedHealthcare Commercial and Individual Exchange",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": ""
+        },
+        {
+          "title": "Reimbursement Policy",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "This policy describes the reimbursement methodology for biomarker testing associated with chronic heart failure."
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "NOTE: Procedure codes appearing in policy documents are included only as a general reference tool for each policy. They may not be all-inclusive. UnitedHealthcare will not consider reimbursement of the following Presage ST2 Assay procedure code for biomarker testing of chronic heart failure. Procedure Code(s) 83006"
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association, Current Procedural Terminology (CPT) and associated publications and services Centers for Medicare and Medicaid Services (CMS) Recovery Audit Contractors (RAC)"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "8/26/2026",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "12/1/2025",
+          "value": "Policy implemented by UnitedHealthcare Employer & Individual and Individual Family Plan (IFP) Exchange"
+        },
+        {
+          "key": "8/26/2025",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Commercial",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "83006"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

@@ -1,0 +1,990 @@
+{
+  "policy_metadata": {
+    "policy_title": "Multiple Procedure Payment Reduction (MPPR)",
+    "policy_number": "CP2016011",
+    "published_date": "03/2017",
+    "effective_date": "03/2017",
+    "revision_date": "07/2026",
+    "last_reviewed": "07/2026",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Professional",
+    "source_pdf": "Multiple_Procedure_Payment_Reduction_Revised-08eabd36.pdf",
+    "total_pages": 11,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "26",
+      "51",
+      "59",
+      "TC",
+      "XE",
+      "XP",
+      "XS",
+      "XU"
+    ],
+    "cpt_codes": [],
+    "hcpcs_codes": [],
+    "modifiers": [
+      "26",
+      "51",
+      "59",
+      "TC",
+      "XE",
+      "XP",
+      "XS",
+      "XU"
+    ],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "This policy outlines various multiple procedure payment reductions (MPPR). Practitioner reimbursement for a procedure code generally includes reimbursement for the individual costs, also known as inputs, typically associated with that service. For example, the Centers for Medicare & Medicaid Services (CMS) uses a formula that accounts for the inputs associated with a procedure code to determine Medicare Physician Fee Schedule (MPFS) reimbursement rates for that code. When the same provider renders multiple services, or multiple units of the same service, to the same patient on the same day, the total calculation for the procedure code(s) could account more than once for an input that was only rendered once. Examples of inputs that might be contemplated in reimbursement for certain procedure codes, that would not typically be duplicated in the same encounter include: greeting and gowning the patient; preparing the room, equipment and supplies; providing education and obtaining consent. An MPPR adjusts reimbursement to offset duplication of reimbursement for inputs that were only rendered once."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Diagnostic Cardiovascular Services",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 3,
+          "content": [
+            "For diagnostic cardiovascular services, the portion of an in-network practitioner’s contracted rate that is attributable to the technical component (TC) may be subject to MPPR. For diagnostic cardiovascular services rendered by an out-of-network practitioner, the portion of the base maximum amount payable under the member’s plan that is attributable to the TC may be subject to MPPR. For reimbursement of only a TC , all of the contracted rate or base maximum amount payable under the member’s plan is attributable to the TC . For reimbursement of both a TC and a professional component (PC) , the portion of the contracted rate or base maximum amount payable under the member’s plan that is attributable to the TC is that rate or amount multiplied by the ratio of the code’s MPFS local TC amount to the code’s MPFS local global amount. For example: 𝐌𝐌𝐌𝐌𝐌𝐌𝐌𝐌 𝐥𝐥𝐥𝐥𝐥𝐥𝐥𝐥𝐥𝐥 𝑻𝑻𝑻𝑻 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 𝐌𝐌𝐌𝐌𝐌𝐌𝐌𝐌 𝐥𝐥𝐥𝐥𝐥𝐥𝐥𝐥𝐥𝐥 𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 Humana applies an MPPR to same-day diagnostic cardiovascular TC services rendered by the same provider . To determine whether the MPPR applies to a specific allowed charge or to one or more units of a charge with multiple allowed units: First, of the services for which Humana is reimbursing for a TC , Humana identifies the same-day services with a MPFS Relative Value File multiple procedure indicator 6. Second, Humana ranks all identified services from highest dollar amount to lowest dollar amount. We rank by the portion of the charge’s per-unit practitioner’s contracted rate or base maximum amount payable under the member’s plan that is attributable to TC , as described above. Finally, Humana eliminates from review the unit of service that is ranked highest; or, if multiple units of service are ranked highest, Humana eliminates one of those units. Humana applies MPPR to all other allowed units of service. When Humana determines to apply diagnostic cardiovascular services TC MPPR to a unit, a 25 percent reduction is applied to the reimbursement for the portion of the unit’s practitioner’s contracted rate or base maximum amount payable under the member’s plan that is attributable to TC . Note: In certain circumstances, additional payment rules may apply."
+          ],
+          "tables": [
+            {
+              "type": "table",
+              "page_start": 2,
+              "page_end": 2,
+              "columns": [
+                "Procedure\ncode",
+                "Contracted\nrate",
+                "MPFS local TC\namount",
+                "MPFS local\nglobal amount",
+                "𝐌𝐌 𝐌𝐌 𝐥𝐥 𝐥𝐥 𝐥𝐥 𝑻𝑻 𝐚 𝐚𝐚 𝐚\nRatio of:\n𝐌𝐌 𝐌𝐌 𝐥𝐥 𝐥𝐥 𝐥𝐥 𝐠𝐠𝐠𝐠 𝐠𝐠 𝐚 𝐚𝐚 𝐚𝐚",
+                "Portion attributable to TC"
+              ],
+              "row_count": 1,
+              "rows": [
+                {
+                  "Procedure\ncode": "ccccc",
+                  "Contracted\nrate": "$10",
+                  "MPFS local TC\namount": "$16",
+                  "MPFS local\nglobal amount": "$20",
+                  "𝐌𝐌 𝐌𝐌 𝐥𝐥 𝐥𝐥 𝐥𝐥 𝑻𝑻 𝐚 𝐚𝐚 𝐚\nRatio of:\n𝐌𝐌 𝐌𝐌 𝐥𝐥 𝐥𝐥 𝐥𝐥 𝐠𝐠𝐠𝐠 𝐠𝐠 𝐚 𝐚𝐚 𝐚𝐚": "16\n= 80%\n20",
+                  "Portion attributable to TC": "$10 x 80% = $8"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 2,
+              "page_end": 2,
+              "columns": [
+                "Procedure code",
+                "Units",
+                "Portion attributable to TC"
+              ],
+              "row_count": 3,
+              "rows": [
+                {
+                  "Procedure code": "aaaaa",
+                  "Units": "1",
+                  "Portion attributable to TC": "$12 per unit"
+                },
+                {
+                  "Procedure code": "bbbbb",
+                  "Units": "2",
+                  "Portion attributable to TC": "$20 per unit"
+                },
+                {
+                  "Procedure code": "ccccc",
+                  "Units": "1",
+                  "Portion attributable to TC": "$ 8 per unit"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 2,
+              "page_end": 2,
+              "columns": [
+                "Procedure code",
+                "Units",
+                "Portion attributable to TC"
+              ],
+              "row_count": 3,
+              "rows": [
+                {
+                  "Procedure code": "bbbbb",
+                  "Units": "2",
+                  "Portion attributable to TC": "$20 per unit"
+                },
+                {
+                  "Procedure code": "aaaaa",
+                  "Units": "1",
+                  "Portion attributable to TC": "$12 per unit"
+                },
+                {
+                  "Procedure code": "ccccc",
+                  "Units": "1",
+                  "Portion attributable to TC": "$ 8 per unit"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 3,
+              "page_end": 3,
+              "columns": [
+                "Procedure code",
+                "Units",
+                "Portion attributable to TC",
+                "Reduction percentage",
+                "Amount allowed"
+              ],
+              "row_count": 4,
+              "rows": [
+                {
+                  "Procedure code": "bbbbb",
+                  "Units": "1",
+                  "Portion attributable to TC": "$20 per unit",
+                  "Reduction percentage": "No reduction",
+                  "Amount allowed": "$20"
+                },
+                {
+                  "Procedure code": "bbbbb",
+                  "Units": "1",
+                  "Portion attributable to TC": "$20 per unit",
+                  "Reduction percentage": "25%",
+                  "Amount allowed": "$15"
+                },
+                {
+                  "Procedure code": "aaaaa",
+                  "Units": "1",
+                  "Portion attributable to TC": "$12 per unit",
+                  "Reduction percentage": "25%",
+                  "Amount allowed": "$9"
+                },
+                {
+                  "Procedure code": "ccccc",
+                  "Units": "1",
+                  "Portion attributable to TC": "$ 8 per unit",
+                  "Reduction percentage": "25%",
+                  "Amount allowed": "$6"
+                }
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "heading": "Diagnostic Imaging Services",
+          "level": 2,
+          "page_start": 3,
+          "page_end": 5,
+          "content": [
+            "Diagnostic Imaging Services Technical Component For diagnostic imaging services, the portion of an in-network practitioner’s contracted rate that is attributable to the TC may be subject to MPPR. For diagnostic imaging services rendered by an out-of-network practitioner, the portion of the base maximum amount payable under the member’s plan that is attributable to the TC may be subject to MPPR. For reimbursement of only a TC , all of the contracted rate or base maximum amount payable under the member’s plan is attributable to the TC . For reimbursement of both a TC and a PC , the portion of the contracted rate or base maximum amount payable under the member’s plan that is attributable to the TC is that rate or amount multiplied by the ratio of the code’s MPFS local TC amount to the code’s MPFS local global amount. Humana applies an MPPR to same-day diagnostic imaging TC services rendered by the same provider . To determine whether the MPPR applies to a specific allowed charge or to one or more units of a charge with multiple allowed units: First, of the services for which Humana is reimbursing for a TC , Humana identifies the same-day services with a MPFS Relative Value File multiple procedure indicator 4. Second, Humana ranks all identified services from highest dollar amount to lowest dollar amount. We rank by the portion of the charge’s per-unit practitioner’s contracted rate or base maximum amount payable under the member’s plan that is attributable to TC , as described above. Finally, Humana eliminates from review the unit of service that is ranked highest; or, if multiple units of service are ranked highest, Humana eliminates one of those units. Humana applies MPPR to all other allowed units of service. When Humana determines to apply diagnostic imaging services TC MPPR to a unit, a 50 percent reduction is applied to the reimbursement for the portion of the unit’s practitioner’s contracted rate or base maximum amount payable under the member’s plan that is attributable to TC . Note: In certain circumstances, additional payment rules may apply. Diagnostic Imaging Professional Component For diagnostic imaging services, the portion of an in-network practitioner’s contracted rate that is attributable to the PC may be subject to MPPR. For diagnostic imaging services rendered by an out-of-network practitioner, the portion of the base maximum amount payable under the member’s plan that is attributable to the PC may be subject to MPPR. For reimbursement of only a PC , all of the contracted rate or base maximum amount payable under the member’s plan is attributable to the PC . For reimbursement of both a PC and a TC , the portion of the contracted rate or base maximum amount payable under the member’s plan that is attributable to the PC is that rate or amount multiplied by the ratio of the code’s MPFS local PC amount to the code’s MPFS local global amount. Humana applies an MPPR to same-day diagnostic imaging PC services rendered by the same provider . To determine whether the MPPR applies to a specific allowed charge or to one or more units of a charge with multiple allowed units: First, of the services for which Humana is reimbursing for a PC , Humana identifies the same-day services with a MPFS Relative Value File multiple procedure indicator 4. Second, Humana ranks all identified services from highest dollar amount to lowest dollar amount. We rank by the portion of the charge’s per-unit practitioner’s contracted rate or base maximum amount payable under the member’s plan that is attributable to PC , as described above. Finally, Humana eliminates from review the unit of service that is ranked highest; or, if multiple units of service are ranked highest, Humana eliminates one of those units. Humana applies MPPR to all other allowed units of service. When Humana determines to apply diagnostic imaging services PC MPPR to a unit: • For dates of service on or after January 1, 2017, a 5 percent reduction is applied to the reimbursement for the portion of the unit’s practitioner’s contracted rate or base maximum amount payable under the member’s plan that is attributable to PC . • For dates of service before January 1, 2017, a 25 percent reduction is applied to the reimbursement for the portion of the unit’s practitioner’s contracted rate or base maximum amount payable under the member’s plan that is attributable to PC . Note: In certain circumstances, additional payment rules may apply. Diagnostic Imaging Technical and Professional Component Any charge could be subject to a TC MPPR, PC MPPR or both. When both TC MPPR and PC MPPR are applied, calculation of the TC MPPR is separate from calculation of the PC MPPR. The rankings of TC and PC are independent of each other. For example: First, of the services for which Humana is reimbursing for a TC and PC , Humana identifies the same-day services with a MPFS Relative Value File multiple procedure indicator 4. Second, Humana ranks all identified services from highest dollar amount to lowest dollar amount. We rank by the portion of the charge’s per-unit practitioner’s contracted rate or base maximum amount payable under the member’s plan that is attributable to TC and PC separately, as described above. Finally, Humana eliminates from review the unit of service that is ranked highest for TC and PC separately. Humana applies TC MPPR and PC MPPR separately to all other allowed units of service. When Humana determines to apply diagnostic imaging services TC MPPR to a unit, a 50 percent reduction is applied to the reimbursement for the portion of the unit’s practitioner’s contracted rate or base maximum amount payable under the member’s plan that is attributable to TC . When Humana determines to apply diagnostic imaging services PC MPPR to a unit, for dates of service on or after January 1, 2017, a 5 percent reduction is applied to the reimbursement for the portion of the unit’s practitioner’s contracted rate or base maximum amount payable under the member’s plan that is attributable to PC ."
+          ],
+          "tables": [
+            {
+              "type": "table",
+              "page_start": 4,
+              "page_end": 4,
+              "columns": [
+                "Procedure code",
+                "Units",
+                "Portion attributable to TC",
+                "Portion attributable to PC"
+              ],
+              "row_count": 2,
+              "rows": [
+                {
+                  "Procedure code": "aaaaa",
+                  "Units": "1",
+                  "Portion attributable to TC": "$20 per unit",
+                  "Portion attributable to PC": "$40 per unit"
+                },
+                {
+                  "Procedure code": "bbbbb",
+                  "Units": "1",
+                  "Portion attributable to TC": "$40 per unit",
+                  "Portion attributable to PC": "$20 per unit"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 4,
+              "page_end": 4,
+              "columns": [
+                "Procedure code",
+                "Units",
+                "Portion attributable to TC"
+              ],
+              "row_count": 2,
+              "rows": [
+                {
+                  "Procedure code": "bbbbb",
+                  "Units": "1",
+                  "Portion attributable to TC": "$40 per unit"
+                },
+                {
+                  "Procedure code": "aaaaa",
+                  "Units": "1",
+                  "Portion attributable to TC": "$20 per unit"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 4,
+              "page_end": 4,
+              "columns": [
+                "Procedure code",
+                "Units",
+                "Portion attributable to PC"
+              ],
+              "row_count": 2,
+              "rows": [
+                {
+                  "Procedure code": "aaaaa",
+                  "Units": "1",
+                  "Portion attributable to PC": "$40 per unit"
+                },
+                {
+                  "Procedure code": "bbbbb",
+                  "Units": "1",
+                  "Portion attributable to PC": "$20 per unit"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 5,
+              "page_end": 5,
+              "columns": [
+                "Procedure\ncode",
+                "Units",
+                "TC\nranking",
+                "PC\nranking",
+                "Portion\nattributable\nto TC",
+                "Portion\nattributable\nto PC",
+                "Reduction\npercentage\nfor TC",
+                "Reduction\npercentage\nfor PC",
+                "Amount\nallowed\nfor TC",
+                "Amount\nallowed\nfor PC",
+                "Amount\nallowed"
+              ],
+              "row_count": 2,
+              "rows": [
+                {
+                  "Procedure\ncode": "aaaaa",
+                  "Units": "1",
+                  "TC\nranking": "Second",
+                  "PC\nranking": "First",
+                  "Portion\nattributable\nto TC": "$20 per\nunit",
+                  "Portion\nattributable\nto PC": "$40 per unit",
+                  "Reduction\npercentage\nfor TC": "50%",
+                  "Reduction\npercentage\nfor PC": "No\nreduction\nfor PC",
+                  "Amount\nallowed\nfor TC": "$10 per\nunit",
+                  "Amount\nallowed\nfor PC": "$40 per\nunit",
+                  "Amount\nallowed": "$50"
+                },
+                {
+                  "Procedure\ncode": "bbbbb",
+                  "Units": "1",
+                  "TC\nranking": "First",
+                  "PC\nranking": "Second",
+                  "Portion\nattributable\nto TC": "$40 per\nunit",
+                  "Portion\nattributable\nto PC": "$20 per unit",
+                  "Reduction\npercentage\nfor TC": "No\nreduction\nfor TC",
+                  "Reduction\npercentage\nfor PC": "5%",
+                  "Amount\nallowed\nfor TC": "$40 per\nunit",
+                  "Amount\nallowed\nfor PC": "$19 per\nunit",
+                  "Amount\nallowed": "$59"
+                }
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "heading": "Diagnostic Ophthalmology Services",
+          "level": 2,
+          "page_start": 5,
+          "page_end": 6,
+          "content": [
+            "For diagnostic ophthalmology services, the portion of an in-network practitioner’s contracted rate that is attributable to the TC may be subject to MPPR. For diagnostic ophthalmology services rendered by an out-of-network practitioner, the portion of the base maximum amount payable under the member’s plan that is attributable to the TC may be subject to MPPR. For reimbursement of only a TC , all of the contracted rate or base maximum amount payable under the member’s plan is attributable to the TC . For reimbursement of both a TC and a PC , the portion of the contracted rate or base maximum amount payable under the member’s plan that is attributable to the TC is that rate or amount multiplied by the ratio of the code’s MPFS local TC amount to the code’s MPFS local global amount. For example: 𝐌𝐌𝐌𝐌𝐌𝐌𝐌𝐌 𝐥𝐥𝐥𝐥𝐥𝐥𝐥𝐥𝐥𝐥 𝑻𝑻𝑻𝑻 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 𝐌𝐌𝐌𝐌𝐌𝐌𝐌𝐌 𝐥𝐥𝐥𝐥𝐥𝐥𝐥𝐥𝐥𝐥 𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 Humana applies an MPPR to same-day diagnostic ophthalmology TC services rendered by the same provider . To determine whether the MPPR applies to a specific allowed charge or to one or more units of a charge with multiple allowed units: First, of the services for which Humana is reimbursing for a TC , Humana identifies the same-day services with a MPFS Relative Value File multiple procedure indicator 7. Second, Humana ranks all identified services from highest dollar amount to lowest dollar amount. We rank by the portion of the charge’s per-unit practitioner’s contracted rate or base maximum amount payable under the member’s plan that is attributable to TC , as described above. Finally, Humana eliminates from review the unit of service that is ranked highest; or, if multiple units of service are ranked highest, Humana eliminates one of those units. Humana applies MPPR to all other allowed units of service. When Humana determines to apply diagnostic ophthalmology services TC MPPR to a unit, a 20 percent reduction is applied to the reimbursement for the portion of the unit’s practitioner’s contracted rate or base maximum amount payable under the member’s plan that is attributable to TC . Note: In certain circumstances, additional payment rules may apply."
+          ],
+          "tables": [
+            {
+              "type": "table",
+              "page_start": 5,
+              "page_end": 5,
+              "columns": [
+                "Procedure\ncode",
+                "Contracted\nrate",
+                "MPFS local TC\namount",
+                "MPFS local\nglobal amount",
+                "𝐌𝐌 𝐌𝐌 𝐥𝐥 𝐥𝐥 𝐥𝐥 𝑻𝑻 𝐚 𝐚𝐚 𝐚\nRatio of:\n𝐌𝐌 𝐌𝐌 𝐥𝐥 𝐥𝐥 𝐥𝐥 𝐠𝐠𝐠𝐠 𝐠𝐠 𝐚 𝐚𝐚 𝐚𝐚",
+                "Portion attributable to TC"
+              ],
+              "row_count": 1,
+              "rows": [
+                {
+                  "Procedure\ncode": "ccccc",
+                  "Contracted\nrate": "$10",
+                  "MPFS local TC\namount": "$16",
+                  "MPFS local\nglobal amount": "$20",
+                  "𝐌𝐌 𝐌𝐌 𝐥𝐥 𝐥𝐥 𝐥𝐥 𝑻𝑻 𝐚 𝐚𝐚 𝐚\nRatio of:\n𝐌𝐌 𝐌𝐌 𝐥𝐥 𝐥𝐥 𝐥𝐥 𝐠𝐠𝐠𝐠 𝐠𝐠 𝐚 𝐚𝐚 𝐚𝐚": "16\n= 80%\n20",
+                  "Portion attributable to TC": "$10 x 80% = $8"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 5,
+              "page_end": 5,
+              "columns": [
+                "Procedure code",
+                "Units",
+                "Portion attributable to TC"
+              ],
+              "row_count": 3,
+              "rows": [
+                {
+                  "Procedure code": "aaaaa",
+                  "Units": "1",
+                  "Portion attributable to TC": "$10 per unit"
+                },
+                {
+                  "Procedure code": "bbbbb",
+                  "Units": "2",
+                  "Portion attributable to TC": "$20 per unit"
+                },
+                {
+                  "Procedure code": "ccccc",
+                  "Units": "1",
+                  "Portion attributable to TC": "$ 5 per unit"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 5,
+              "page_end": 5,
+              "columns": [
+                "Procedure code",
+                "Units",
+                "Portion attributable to TC"
+              ],
+              "row_count": 3,
+              "rows": [
+                {
+                  "Procedure code": "bbbbb",
+                  "Units": "2",
+                  "Portion attributable to TC": "$20 per unit"
+                },
+                {
+                  "Procedure code": "aaaaa",
+                  "Units": "1",
+                  "Portion attributable to TC": "$10 per unit"
+                },
+                {
+                  "Procedure code": "ccccc",
+                  "Units": "1",
+                  "Portion attributable to TC": "$ 5 per unit"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 6,
+              "page_end": 6,
+              "columns": [
+                "Procedure code",
+                "Units",
+                "Portion attributable to TC",
+                "Reduction percentage",
+                "Amount allowed"
+              ],
+              "row_count": 4,
+              "rows": [
+                {
+                  "Procedure code": "bbbbb",
+                  "Units": "1",
+                  "Portion attributable to TC": "$20 per unit",
+                  "Reduction percentage": "No reduction",
+                  "Amount allowed": "$20"
+                },
+                {
+                  "Procedure code": "bbbbb",
+                  "Units": "1",
+                  "Portion attributable to TC": "$20 per unit",
+                  "Reduction percentage": "20%",
+                  "Amount allowed": "$16"
+                },
+                {
+                  "Procedure code": "aaaaa",
+                  "Units": "1",
+                  "Portion attributable to TC": "$10 per unit",
+                  "Reduction percentage": "20%",
+                  "Amount allowed": "$8"
+                },
+                {
+                  "Procedure code": "ccccc",
+                  "Units": "1",
+                  "Portion attributable to TC": "$ 5 per unit",
+                  "Reduction percentage": "20%",
+                  "Amount allowed": "$4"
+                }
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "heading": "Therapy Practice Expense (PE)",
+          "level": 2,
+          "page_start": 6,
+          "page_end": 7,
+          "content": [
+            "For always therapy services, the portion of an in-network practitioner’s contracted rate that is attributable to the PE may be subject to MPPR. For always therapy services rendered by an out-of-network practitioner, the portion of the base maximum amount payable under the member’s plan that is attributable to the PE may be subject to MPPR. The portion of the contracted rate or base maximum amount payable under the member’s plan that is attributable to the PE is that rate or amount multiplied by the ratio of: the code’s MPFS local PE amount to the code’s MPFS local global amount. The formula for a code’s MPFS local PE amount is: ( PE RVU x PE GPCI ) x CF For example, if, for a particular locale, the values for a date of service, for procedure code ccccc are: • PE RVU : 0.25 • PE GPCI : 2.0 • CF : $32.00 Then, the code’s MPFS local PE amount is: (0.25 x 2.0) x $32.00 = $16.00 Insert this value into the calculation described above for determining the portion attributable to PE as follows: 𝐌𝐌𝐌𝐌𝐌𝐌𝐌𝐌 𝐥𝐥𝐥𝐥𝐥𝐥𝐥𝐥𝐥𝐥 𝑷𝑷𝑷𝑷 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 𝐌𝐌𝐌𝐌𝐌𝐌𝐌𝐌 𝐥𝐥𝐥𝐥𝐥𝐥𝐥𝐥𝐥𝐥 𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠𝐠 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 Humana applies an MPPR to same-day always therapy services rendered by the same provider . To determine whether the MPPR applies to a specific allowed charge or to one or more units of a charge with multiple allowed units: First, Humana identifies the same-day services with a MPFS Relative Value File multiple procedure indicator 5. Second, Humana ranks all identified services from highest dollar amount to lowest dollar amount. We rank by the portion of the charge’s per-unit practitioner’s contracted rate or base maximum amount payable under the member’s plan that is attributable to PE , as described above. Finally, Humana eliminates from review the unit of service that is ranked highest; or, if multiple units of service are ranked highest, Humana eliminates one of those units. Humana applies MPPR to all other allowed units of service. When Humana determines to apply therapy PE MPPR to a unit, a 50 percent reduction is applied to the reimbursement for the portion of the unit’s practitioner’s contracted rate or base maximum amount payable under the member’s plan that is attributable to PE . Note: In certain circumstances, additional payment rules may apply."
+          ],
+          "tables": [
+            {
+              "type": "table",
+              "page_start": 6,
+              "page_end": 6,
+              "columns": [
+                "Procedure\ncode",
+                "Contracted\nrate",
+                "MPFS local\nPE amount",
+                "MPFS local\nglobal amount",
+                "𝐌𝐌 𝐌𝐌 𝐥𝐥 𝐥𝐥 𝐥𝐥 𝑷𝑷 𝐚 𝐚𝐚 𝐚\nRatio of:\n𝐌𝐌 𝐌𝐌 𝐥𝐥 𝐥𝐥 𝐥𝐥 𝐠𝐠 𝐠𝐠 𝐠𝐠 𝐚 𝐚𝐚 𝐚𝐚",
+                "Portion attributable\nto PE"
+              ],
+              "row_count": 1,
+              "rows": [
+                {
+                  "Procedure\ncode": "ccccc",
+                  "Contracted\nrate": "$10",
+                  "MPFS local\nPE amount": "$16",
+                  "MPFS local\nglobal amount": "$20",
+                  "𝐌𝐌 𝐌𝐌 𝐥𝐥 𝐥𝐥 𝐥𝐥 𝑷𝑷 𝐚 𝐚𝐚 𝐚\nRatio of:\n𝐌𝐌 𝐌𝐌 𝐥𝐥 𝐥𝐥 𝐥𝐥 𝐠𝐠 𝐠𝐠 𝐠𝐠 𝐚 𝐚𝐚 𝐚𝐚": "16\n= 80%\n20",
+                  "Portion attributable\nto PE": "$10 x 80% = $8"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 6,
+              "page_end": 7,
+              "columns": [
+                "Procedure code",
+                "Units",
+                "Portion attributable to PE"
+              ],
+              "row_count": 6,
+              "rows": [
+                {
+                  "Procedure code": "aaaaa",
+                  "Units": "1",
+                  "Portion attributable to PE": "$12 per unit"
+                },
+                {
+                  "Procedure code": "bbbbb",
+                  "Units": "2",
+                  "Portion attributable to PE": "$20 per unit"
+                },
+                {
+                  "Procedure code": "ccccc",
+                  "Units": "1",
+                  "Portion attributable to PE": "$ 8 per unit"
+                },
+                {
+                  "Procedure code": "bbbbb",
+                  "Units": "2",
+                  "Portion attributable to PE": "$20 per unit"
+                },
+                {
+                  "Procedure code": "aaaaa",
+                  "Units": "1",
+                  "Portion attributable to PE": "$12 per unit"
+                },
+                {
+                  "Procedure code": "ccccc",
+                  "Units": "1",
+                  "Portion attributable to PE": "$ 8 per unit"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 7,
+              "page_end": 7,
+              "columns": [
+                "Procedure code",
+                "Units",
+                "Portion attributable to PE",
+                "Reduction percentage",
+                "Amount allowed"
+              ],
+              "row_count": 4,
+              "rows": [
+                {
+                  "Procedure code": "bbbbb",
+                  "Units": "1",
+                  "Portion attributable to PE": "$20 per unit",
+                  "Reduction percentage": "No reduction",
+                  "Amount allowed": "$20"
+                },
+                {
+                  "Procedure code": "bbbbb",
+                  "Units": "1",
+                  "Portion attributable to PE": "$20 per unit",
+                  "Reduction percentage": "50%",
+                  "Amount allowed": "$10"
+                },
+                {
+                  "Procedure code": "aaaaa",
+                  "Units": "1",
+                  "Portion attributable to PE": "$12 per unit",
+                  "Reduction percentage": "50%",
+                  "Amount allowed": "$6"
+                },
+                {
+                  "Procedure code": "ccccc",
+                  "Units": "1",
+                  "Portion attributable to PE": "$ 8 per unit",
+                  "Reduction percentage": "50%",
+                  "Amount allowed": "$4"
+                }
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "heading": "Multiple Endoscopic Procedures",
+          "level": 2,
+          "page_start": 7,
+          "page_end": 9,
+          "content": [
+            "For endoscopic services rendered by an in-network practitioner, the contracted rate may be subject to MPPR. For endoscopic services rendered by an out-of-network practitioner, the base maximum amount payable under the member’s plan may be subject to MPPR. Humana applies an MPPR to same-family endoscopic procedures, including multiple units of the same procedure code, rendered by the same provider on the same day. To determine whether the MPPR applies to a specific allowed charge: First, of the services for which Humana is reimbursing, Humana identifies, for a date of service, all MPFS Relative Value File multiple procedure indicator 3 endoscopy codes and identifies each service’s base endoscopy code. Second, Humana groups all services with the same endoscopy base code. Each group of services with the same base code is one endoscopic family. Third, when there are multiple procedure codes for an endoscopic family and one of those is the family’s base code, Humana denies separate reimbursement for that base code charge. Reimbursement for the base code is included in reimbursement for the highest ranked procedure code in that endoscopic family. Humana ranks all reimbursable services within each endoscopic family by the procedure’s contracted rate or base maximum amount payable under the member’s plan . Finally, within each endoscopic family, Humana reduces reimbursement for each procedure code, except that family’s highest ranked procedure. The amount Humana uses to reduce reimbursement for a procedure code is the amount allowed for the procedure’s base code. When a contracted rate does not include an amount allowed for a base code, Humana will apply the following formula based on amounts provided by CMS. These amounts are used to create a reduction amount. The reduction amount is then applied to the contracted rate. Endoscopic procedures are also subject to multiple surgery reduction. As discussed in the Multiple Surgery section below, each endoscopic family is treated as a single surgery for determination of a multiple surgery reduction. information."
+          ],
+          "tables": [
+            {
+              "type": "table",
+              "page_start": 7,
+              "page_end": 7,
+              "columns": [
+                "Procedure code",
+                "Base code"
+              ],
+              "row_count": 5,
+              "rows": [
+                {
+                  "Procedure code": "aaaaa",
+                  "Base code": "yyyyy"
+                },
+                {
+                  "Procedure code": "bbbbb",
+                  "Base code": "zzzzz"
+                },
+                {
+                  "Procedure code": "ccccc",
+                  "Base code": "yyyyy"
+                },
+                {
+                  "Procedure code": "ddddd",
+                  "Base code": "N/A"
+                },
+                {
+                  "Procedure code": "yyyyy",
+                  "Base code": "yyyyy"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 8,
+              "page_end": 8,
+              "columns": [
+                "Procedure code",
+                "Base code",
+                "Endoscopic family"
+              ],
+              "row_count": 5,
+              "rows": [
+                {
+                  "Procedure code": "aaaaa",
+                  "Base code": "yyyyy",
+                  "Endoscopic family": "Family 1"
+                },
+                {
+                  "Procedure code": "ccccc",
+                  "Base code": "yyyyy",
+                  "Endoscopic family": "Family 1"
+                },
+                {
+                  "Procedure code": "yyyyy",
+                  "Base code": "yyyyy1",
+                  "Endoscopic family": "Family 1"
+                },
+                {
+                  "Procedure code": "bbbbb",
+                  "Base code": "zzzzz",
+                  "Endoscopic family": "Family 2"
+                },
+                {
+                  "Procedure code": "ddddd",
+                  "Base code": "N/A",
+                  "Endoscopic family": "N/A"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 8,
+              "page_end": 8,
+              "columns": [
+                "Procedure code",
+                "Base code",
+                "Endoscopic family"
+              ],
+              "row_count": 5,
+              "rows": [
+                {
+                  "Procedure code": "aaaaa",
+                  "Base code": "yyyyy",
+                  "Endoscopic family": "Family 1"
+                },
+                {
+                  "Procedure code": "ccccc",
+                  "Base code": "yyyyy",
+                  "Endoscopic family": "Family 1"
+                },
+                {
+                  "Procedure code": "yyyyy1",
+                  "Base code": "yyyyy",
+                  "Endoscopic family": "Family 1"
+                },
+                {
+                  "Procedure code": "bbbbb",
+                  "Base code": "zzzzz",
+                  "Endoscopic family": "Family 2"
+                },
+                {
+                  "Procedure code": "ddddd",
+                  "Base code": "N/A",
+                  "Endoscopic family": "N/A"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 8,
+              "page_end": 8,
+              "columns": [
+                "Procedure code",
+                "Base code",
+                "Endoscopic family",
+                "Procedure code base\namount",
+                "Endoscopic family\nrank"
+              ],
+              "row_count": 4,
+              "rows": [
+                {
+                  "Procedure code": "ccccc",
+                  "Base code": "yyyyy",
+                  "Endoscopic family": "Family 1",
+                  "Procedure code base\namount": "$1000",
+                  "Endoscopic family\nrank": "Highest (Family 1)"
+                },
+                {
+                  "Procedure code": "aaaaa",
+                  "Base code": "yyyyy",
+                  "Endoscopic family": "Family 1",
+                  "Procedure code base\namount": "$850",
+                  "Endoscopic family\nrank": "Second (Family 1)"
+                },
+                {
+                  "Procedure code": "bbbbb",
+                  "Base code": "zzzzz",
+                  "Endoscopic family": "Family 2",
+                  "Procedure code base\namount": "$750",
+                  "Endoscopic family\nrank": "Highest (Family 2)"
+                },
+                {
+                  "Procedure code": "ddddd",
+                  "Base code": "N/A",
+                  "Endoscopic family": "N/A",
+                  "Procedure code base\namount": "$ 1000",
+                  "Endoscopic family\nrank": "N/A"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 8,
+              "page_end": 8,
+              "columns": [
+                "Procedure\ncode",
+                "Base\ncode",
+                "Endoscopic\nfamily",
+                "Fee\nschedule\namount",
+                "Endoscopic\nfamily rank",
+                "Amount\nallowed for\nbase\nendoscopy\nprocedure\ncode",
+                "Amount\nallowed\nafter\nmultiple\nendoscopy\nreduction"
+              ],
+              "row_count": 4,
+              "rows": [
+                {
+                  "Procedure\ncode": "ccccc",
+                  "Base\ncode": "yyyyy",
+                  "Endoscopic\nfamily": "Family 1",
+                  "Fee\nschedule\namount": "$1000",
+                  "Endoscopic\nfamily rank": "Highest",
+                  "Amount\nallowed for\nbase\nendoscopy\nprocedure\ncode": "$400",
+                  "Amount\nallowed\nafter\nmultiple\nendoscopy\nreduction": "$1000"
+                },
+                {
+                  "Procedure\ncode": "aaaaa",
+                  "Base\ncode": "yyyyy",
+                  "Endoscopic\nfamily": "Family 1",
+                  "Fee\nschedule\namount": "$850",
+                  "Endoscopic\nfamily rank": "Second",
+                  "Amount\nallowed for\nbase\nendoscopy\nprocedure\ncode": "$400",
+                  "Amount\nallowed\nafter\nmultiple\nendoscopy\nreduction": "$450"
+                },
+                {
+                  "Procedure\ncode": "bbbbb",
+                  "Base\ncode": "zzzzz",
+                  "Endoscopic\nfamily": "Family 2",
+                  "Fee\nschedule\namount": "$750",
+                  "Endoscopic\nfamily rank": "Highest",
+                  "Amount\nallowed for\nbase\nendoscopy\nprocedure\ncode": "$300",
+                  "Amount\nallowed\nafter\nmultiple\nendoscopy\nreduction": "$750"
+                },
+                {
+                  "Procedure\ncode": "ddddd",
+                  "Base\ncode": "N/A",
+                  "Endoscopic\nfamily": "N/A",
+                  "Fee\nschedule\namount": "$ 1000",
+                  "Endoscopic\nfamily rank": "N/A",
+                  "Amount\nallowed for\nbase\nendoscopy\nprocedure\ncode": "N/A",
+                  "Amount\nallowed\nafter\nmultiple\nendoscopy\nreduction": "N/A"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 9,
+              "page_end": 9,
+              "columns": [
+                "Procedure\ncode",
+                "Contracted\nrate",
+                "CMS fee\nschedule\namount",
+                "Base\ncode",
+                "CMS fee\nschedule\namount for\nthe base\ncode",
+                "Ratio",
+                "Reduction amount",
+                "Final amount\nallowed"
+              ],
+              "row_count": 1,
+              "rows": [
+                {
+                  "Procedure\ncode": "bbbbb",
+                  "Contracted\nrate": "$1000",
+                  "CMS fee\nschedule\namount": "$850",
+                  "Base\ncode": "yyyyy",
+                  "CMS fee\nschedule\namount for\nthe base\ncode": "$400",
+                  "Ratio": "$400/$850=47.06%",
+                  "Reduction amount": "$1000*47.06%=$470.60",
+                  "Final amount\nallowed": "$1000-\n$470.60=$529.40"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 9,
+              "page_end": 9,
+              "columns": [
+                "Procedure\ncode",
+                "Base\ncode",
+                "Endoscopic\nfamily",
+                "Amount\nallowed after\nmultiple\nendoscopy\nreduction",
+                "Amount used\nfor multiple\nsurgery\nranking",
+                "Ranking for\nmultiple\nsurgery",
+                "Multiple\nsurgery\nreduction\npercentage",
+                "Final\namount\nallowed1"
+              ],
+              "row_count": 4,
+              "rows": [
+                {
+                  "Procedure\ncode": "ccccc",
+                  "Base\ncode": "yyyyy",
+                  "Endoscopic\nfamily": "Family 1",
+                  "Amount\nallowed after\nmultiple\nendoscopy\nreduction": "$1000",
+                  "Amount used\nfor multiple\nsurgery\nranking": "$1450",
+                  "Ranking for\nmultiple\nsurgery": "Highest",
+                  "Multiple\nsurgery\nreduction\npercentage": "N/A",
+                  "Final\namount\nallowed1": "$1000"
+                },
+                {
+                  "Procedure\ncode": "aaaaa",
+                  "Base\ncode": "yyyyy",
+                  "Endoscopic\nfamily": "Family 1",
+                  "Amount\nallowed after\nmultiple\nendoscopy\nreduction": "$450",
+                  "Amount used\nfor multiple\nsurgery\nranking": "$1450",
+                  "Ranking for\nmultiple\nsurgery": "Highest",
+                  "Multiple\nsurgery\nreduction\npercentage": "N/A",
+                  "Final\namount\nallowed1": "$450"
+                },
+                {
+                  "Procedure\ncode": "bbbbb",
+                  "Base\ncode": "zzzzz",
+                  "Endoscopic\nfamily": "Family 2",
+                  "Amount\nallowed after\nmultiple\nendoscopy\nreduction": "$750",
+                  "Amount used\nfor multiple\nsurgery\nranking": "$750",
+                  "Ranking for\nmultiple\nsurgery": "Third",
+                  "Multiple\nsurgery\nreduction\npercentage": "50%",
+                  "Final\namount\nallowed1": "$375"
+                },
+                {
+                  "Procedure\ncode": "ddddd",
+                  "Base\ncode": "N/A",
+                  "Endoscopic\nfamily": "N/A",
+                  "Amount\nallowed after\nmultiple\nendoscopy\nreduction": "N/A",
+                  "Amount used\nfor multiple\nsurgery\nranking": "$1000",
+                  "Ranking for\nmultiple\nsurgery": "Second",
+                  "Multiple\nsurgery\nreduction\npercentage": "50%1",
+                  "Final\namount\nallowed1": "$500"
+                }
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "heading": "Multiple Surgery",
+          "level": 2,
+          "page_start": 9,
+          "page_end": 10,
+          "content": [
+            "Humana applies a multiple surgery reduction when: • The same provider performs more than one same-day MPFS Relative Value File multiple procedure indicator 2 service; or • The same provider performs endoscopic procedures in more than one endoscopic family on the same day (see Multiple Endoscopic Procedures section above); or • The same provider performs at least one MPFS Relative Value File multiple procedure indicator 2 service and at least one endoscopic procedure on the same day. In unique circumstances, for the purposes of applying a multiple surgery reduction: • Humana may not consider an MPFS Relative Value File multiple procedure indicator 2 service as a surgery. • Humana may consider a service that does not have an MPFS Relative Value File multiple procedure indicator of 2 as a surgery. Multiple surgery reduction applies to same-day services whether or not those services were submitted with modifier 51 , modifier 59 or modifiers X{EPSU}. Humana plans apply a multiple surgery reduction as follows: • The procedure with the highest contracted rate or base maximum amount payable under the member’s plan is not reduced; and • All other procedures are reduced by 50 percent. Special Rules for Endoscopic Services For an endoscopic service, multiple endoscopy reduction and multiple surgery reduction are determined separately. This will result in one of the following scenarios, depending on the number of services billed and the individual multiple procedure indicator code of each service : • Multiple endoscopy reduction alone could apply to the service. • Multiple surgery reduction alone could apply to the service. • Both multiple endoscopy reduction and multiple surgery reduction could apply to the service. • Neither multiple endoscopy reduction nor multiple surgery reduction could apply to the service. If multiple endoscopy reduction applies, it is always determined before multiple surgery reduction. After determining any multiple endoscopy reductions, all endoscopic services in the same endoscopic family are treated as a single service for the purpose of determining multiple surgery reduction, as follows: • For multiple surgery reduction ranking purposes, endoscopic procedures in the same endoscopic family are treated as one service. • An endoscopic family’s multiple surgery reduction ranking establishes the multiple surgery reduction percentage, if any, for all services in that endoscopic family. Note : Additional payment rules may apply in certain circumstances. For example, when a bilateral adjustment is applicable, it will be applied before a multiple surgery reduction."
+          ],
+          "tables": [
+            {
+              "type": "table",
+              "page_start": 9,
+              "page_end": 9,
+              "columns": [
+                "Procedure\ncode",
+                "Units",
+                "Base amount",
+                "Ranking",
+                "Medicare\nreduction\npercentage",
+                "Medicare\namount\nallowed"
+              ],
+              "row_count": 3,
+              "rows": [
+                {
+                  "Procedure\ncode": "aaaaa",
+                  "Units": "1",
+                  "Base amount": "$500",
+                  "Ranking": "Highest",
+                  "Medicare\nreduction\npercentage": "no reduction",
+                  "Medicare\namount\nallowed": "$500"
+                },
+                {
+                  "Procedure\ncode": "bbbbb",
+                  "Units": "1",
+                  "Base amount": "$300",
+                  "Ranking": "Second",
+                  "Medicare\nreduction\npercentage": "50%",
+                  "Medicare\namount\nallowed": "$150"
+                },
+                {
+                  "Procedure\ncode": "ccccc",
+                  "Units": "1",
+                  "Base amount": "$200",
+                  "Ranking": "Third",
+                  "Medicare\nreduction\npercentage": "50%",
+                  "Medicare\namount\nallowed": "$100"
+                }
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 10,
+      "page_end": 11,
+      "content": [
+        "• Always Therapy: A service that is always considered a therapy, as noted in the Medicare Physician Fee Schedule (MPFS) Relative Value File by a multiple procedure indicator 5. • Base maximum amount payable under the member’s plan: The maximum amount of reimbursement for a unit of a covered expense, determined by the member’s plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments. • Medicare Physician Fee Schedule (MPFS) Relative Value File: A file published by the Centers for Medicare & Medicaid Services that includes, among other information, multiple procedure indicator, relative value units and conversion factors for practitioner services. This file is commonly referred to as the relative value unit (RVU) table. Elements of the file that are referenced in this policy include the following: – CF: The conversion factor is the amount shown in the MPFS Relative Value File for the appropriate year. – PE GPCI: The practice expense geographic price index for the area where the service was rendered, shown in the MPFS Relative Value File for the appropriate year. – PE RVU: The practice expense relative value unit is the amount shown in the MPFS Relative Value File for the appropriate year. • Modifier 26: Professional component. • Modifier 51: Multiple procedures. • Modifier 59: Distinct procedural service. • Modifier TC: Technical component. • Modifiers X{EPSU}: Modifiers XE, XP, XS and XU, collectively. – Modifier XE : Separate encounter. – Modifier XP : Separate practitioner. – Modifier XS : Separate structure. – Modifier XU : Unusual non-overlapping service. • Practice Expense (PE): One of three groups of inputs used to determine pricing of services covered under the Medicare Physician Fee Schedule (MPFS); PE accounts for costs of running a practice (other than expenses associated with professional liability and the practitioner’s actual work), including rent, equipment, supplies and staff costs other than the work performed by the practitioner personally. • Professional Component (PC): The professional component of a service is for practitioner work interpreting a diagnostic test or performing a procedure and includes indirect practice and malpractice expenses related to that work. • Same Provider: A single qualified practitioner or multiple practitioners within the same group practice. • Technical Component (TC): The technical component of a service is for all non-practitioner work and includes administrative, personnel and capital (equipment and facility) costs and related malpractice expenses."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 11,
+      "page_end": 11,
+      "content": [
+        "• Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 5 – Part B Outpatient Rehabilitation and CORF/OPT Services . Section 10.7 – Multiple Procedure Payment Reductions for Outpatient Rehabilitation Services. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 12 – Physicians/Nonphysician Practitioners . Sections 20.1 and 40.6. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Physician Fee Schedule (MPFS) Relative Value Files . www.cms.gov. • Centers for Medicare & Medicaid Services website. Transmittal 995, Change Request 7442. Multiple Procedure Payment Reduction (MPPR) on Certain Diagnostic Imaging Procedures . www.cms.gov. • Centers for Medicare & Medicaid Services website. Transmittal 1104, Change Request 7747. Application of the Multiple Procedure Payment Reduction (MPPR) on the Professional Component (PC) and Technical Component (TC) of Certain Diagnostic Imaging Procedures to Physicians in the Same Group Practice . www.cms.gov. • Centers for Medicare & Medicaid Services website. Transmittal 1149, Change Request 7848. Multiple Procedure Payment Reduction (MPPR) on the Technical Component (TC) of Diagnostic Cardiovascular and Ophthalmology Procedures . www.cms.gov. • Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services. • American Medical Association’s CPT® and associated publications and services."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 11,
+      "page_end": 11,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Always Therapy": "A service that is always considered a therapy, as noted in the Medicare Physician Fee Schedule (MPFS) Relative Value File by a multiple procedure indicator 5. • Base maximum amount payable under the member’s plan: The maximum amount of reimbursement for a unit of a covered expense, determined by the member’s plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments. • Medicare Physician Fee Schedule (MPFS) Relative Value File: A file published by the Centers for Medicare & Medicaid Services that includes, among other information, multiple procedure indicator, relative value units and conversion factors for practitioner services. This file is commonly referred to as the relative value unit (RVU) table. Elements of the file that are referenced in this policy include the following: – CF: The conversion factor is the amount shown in the MPFS Relative Value File for the appropriate year. – PE GPCI: The practice expense geographic price index for the area where the service was rendered, shown in the MPFS Relative Value File for the appropriate year. – PE RVU: The practice expense relative value unit is the amount shown in the MPFS Relative Value File for the appropriate year. • Modifier 26: Professional component. • Modifier 51: Multiple procedures. • Modifier 59: Distinct procedural service. • Modifier TC: Technical component. • Modifiers X{EPSU}: Modifiers XE, XP, XS and XU, collectively. – Modifier XE : Separate encounter. – Modifier XP : Separate practitioner. – Modifier XS : Separate structure. – Modifier XU : Unusual non-overlapping service. • Practice Expense (PE): One of three groups of inputs used to determine pricing of services covered under the Medicare Physician Fee Schedule (MPFS); PE accounts for costs of running a practice (other than expenses associated with professional liability and the practitioner’s actual work), including rent, equipment, supplies and staff costs other than the work performed by the practitioner personally. • Professional Component (PC): The professional component of a service is for practitioner work interpreting a diagnostic test or performing a procedure and includes indirect practice and malpractice expenses related to that work. • Same Provider: A single qualified practitioner or multiple practitioners within the same group practice. • Technical Component (TC): The technical component of a service is for all non-practitioner work and includes administrative, personnel and capital (equipment and facility) costs and related malpractice expenses."
+  },
+  "references": [
+    "Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 5 – Part B Outpatient Rehabilitation and CORF/OPT Services . Section 10.7 – Multiple Procedure Payment Reductions for Outpatient Rehabilitation Services. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 12 – Physicians/Nonphysician Practitioners . Sections 20.1 and 40.6. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Physician Fee Schedule (MPFS) Relative Value Files . www.cms.gov. • Centers for Medicare & Medicaid Services website. Transmittal 995, Change Request 7442. Multiple Procedure Payment Reduction (MPPR) on Certain Diagnostic Imaging Procedures . www.cms.gov. • Centers for Medicare & Medicaid Services website. Transmittal 1104, Change Request 7747. Application of the Multiple Procedure Payment Reduction (MPPR) on the Professional Component (PC) and Technical Component (TC) of Certain Diagnostic Imaging Procedures to Physicians in the Same Group Practice . www.cms.gov. • Centers for Medicare & Medicaid Services website. Transmittal 1149, Change Request 7848. Multiple Procedure Payment Reduction (MPPR) on the Technical Component (TC) of Diagnostic Cardiovascular and Ophthalmology Procedures . www.cms.gov. • Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services. • American Medical Association’s CPT® and associated publications and services."
+  ],
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 11,
+    "total_tables": 23,
+    "total_characters": 23991
+  }
+}

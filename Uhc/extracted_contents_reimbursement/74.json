@@ -1,0 +1,265 @@
+{
+  "policy_title": "Molecular Pathology Policy",
+  "policy_number": "2026R9049A",
+  "policy_dates": {
+    "effective_date": "6/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products for laboratory services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy describes the information required when claims are submitted for molecular pathology testing for Medicare Advantage members. This includes services identified by Tier 1 & 2 Molecular Pathology codes, Genomic Sequencing Procedures (GSP), Molecular Multianalyte Assay codes, and Proprietary Laboratory Analysis (PLA) codes. UnitedHealthcare requires providers to submit a DEX Z-Code with every code submitted for these services. All services described in this policy may be subject to additional UnitedHealthcare Medicare Advantage reimbursement policies including, but not limited to, the Clinical Laboratory Improvement Amendments (CLIA) ID Requirement Policy, the Laboratory Services Policy, the Add-on Codes Policy, Medically Unlikely Edit (MUE) Policy and the Rebundling and NCCI Edits Policy."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "Molecular Diagnostic Tests (MDT) UnitedHealthcare Medicare Advantage requires providers to submit the appropriate unique test identifier (DEX Z- CodeTM) for molecular diagnostic tests and other molecular pathology services administered through the DEX Program. When reported in conjunction with the appropriate CPT/HCPCS code, the identifier allows UnitedHealthcare Medicare Advantage to determine the exact test that has been performed, facilitating reimbursement determinations. Unique Test Identifier Providers must report Molecular Pathology and Molecular Diagnostic Tests (MDT) with the CPT and/or HCPCS code(s) that most accurately describes the specific test performed. Tests that are not described by a specific code require the use of an unlisted code. Although many of the molecular pathology codes were assigned descriptions, these descriptions do NOT identify a specific test. For this reason, the DEX Program requires laboratories to obtain a test- specific identifier - a DEX Z-Code - that is unique to the laboratory's specific test. Unique Test Identifier Registration: To submit claims for tests reported with Molecular Pathology CPT/HCPCS codes, laboratories must register and receive a test ID. To access the online DEX registry, laboratories should follow the following steps: - Go to the DEX TM Diagnostics Exchange: https://app.dexzcodes.com. - Select 'Register My Organization' and follow the prompts to register your organization. The DEXTM Diagnostics Exchange, a web-based service, is designed to identify tests and help establish transparency in the evidence-based coverage of them. This tool enables labs to confidentially share test information with DEX online. Claim Submission Requirements: To report a Molecular Diagnostic Test service, please submit the following claim information: - Select appropriate Molecular Pathology CPT code - Enter 1 unit of service (UOS) - Enter the appropriate DEX Z-CodeTM identifier adjacent to the CPT code in the comment/narrative field for the following professional claim field/types: o Loop 2400 or SV101-7 for the 5010A1 837P o Box 19 for paper claim - Enter the appropriate DEX Z-CodeTM identifier adjacent to the CPT code in the comment/narrative field for the following Facility claim field/types: o Line SV202-7 for 837I electronic claim o Block 80 for the UB04 claim form Multiple Molecular Pathology Procedures: Labs should submit one CPT code and a DEX Z-CodeTM for tests that may involve multiple genes that produce a single result. UnitedHealthcare Medicare Advantage will deny duplicate or multiple molecular pathology CPT codes reported with the same DEX Z-CodeTM for the same patient on the same date of service. Testing of Multiple Genes: According to the American Medical Association (AMA) molecular pathology procedure code selection is typically based on the specific gene(s) that is being analyzed. Genes are described using Human Genome Organization (HUGO) approved gene names and are italicized in the code descriptors. Gene names were taken from tables of the HUGO Gene Nomenclature Committee (HGNC) at the time the CPT codes were developed. The AMA has provided Claim Designations using these abbreviated gene names and/or analytes. These Claim Designations have been cross walked to the appropriate codes to report on the Molecular Pathology Gene Table provided in the Pathology and Laboratory section of the AMA CPT codebook. Codes that describe tests to assess for the presence of gene variants use common gene variant names. Typically, all listed variants would be tested. However, these lists are not exclusive. If other variants are also tested in the analysis, they would be included in the procedure and not reported separately. The molecular pathology codes include all analytical services performed in the test (eg, cell lysis, nucleic acid stabilization, extraction, digestion, amplification, and detection). Tier 1 Molecular Pathology Codes represent gene-specific and genomic procedures. Molecular pathology procedures that are not specified by a specific CPT code are reported using a Tier 2 code or unlisted molecular pathology codes. Tier 2 Molecular Pathology Codes lists the specific analytes with the process code level. When your test is registered with the DEX program, the appropriate CPT code will be assigned to the Z-Code which will designate your test. During registration, your test will be assigned a CPT code to bill with in addition to the Z-Code identifier which will be submitted in field 2400 SV101-7 (Professional), SV102-7 (Institutional) on the electronic claim form or in the shaded area of the service line in section 24 on a paper claim form. Genomic sequencing procedures (GSPs) and other molecular multianalyte assays codes are used when the components of the descriptor(s) are fulfilled regardless of the technique used to provide the analysis, unless specifically noted in the code descriptor. When a GSP assay includes gene(s) that is listed in more than one code descriptor, the code for the most specific test for the primary disorder sought should be reported, rather than reporting multiple codes for the same gene(s). Proprietary Laboratory Analysis (PLA) codes are used to report single or multianalyte services. These codes encompass all analytical services required for the analysis (eg, cell lysis, nucleic acid stabilization, extraction, digestion, amplification, hybridization and detection). No other code should be used when an appropriate PLA code is present and listed as the code to accompany the Z-code from the test registration When multiple molecular biomarkers are tested on the same date of service, it is a multianalyte panel and requires reporting with a single CPT code. The service should be submitted with the assigned CPT and Z-Code. If multiple codes are submitted, the first code will be reimbursed on the claim. When a CPT code does not describe the multianalyte test being registered with DEX, the CPT code 81479 may be assigned for use. Tests, such as a reflex test performed in a stepwise fashion, may be considered separate services and billed with the appropriate modifier.",
+          "subsections": [
+            {
+              "title": "Molecular Diagnostic Tests (MDT)",
+              "content": "UnitedHealthcare Medicare Advantage requires providers to submit the appropriate unique test identifier (DEX Z- Code™) for molecular diagnostic tests and other molecular pathology services administered through the DEX Program. When reported in conjunction with the appropriate CPT/HCPCS code, the identifier allows UnitedHealthcare Medicare Advantage to determine the exact test that has been performed, facilitating reimbursement determinations."
+            },
+            {
+              "title": "Unique Test Identifier",
+              "content": "Providers must report Molecular Pathology and Molecular Diagnostic Tests (MDT) with the CPT and/or HCPCS code(s) that most accurately describes the specific test performed. Tests that are not described by a specific code require the use of an unlisted code. Although many of the molecular pathology codes were assigned descriptions, these descriptions do NOT identify a specific test. For this reason, the DEX Program requires laboratories to obtain a test- specific identifier — a DEX Z-Code – that is unique to the laboratory’s specific test."
+            },
+            {
+              "title": "Unique Test Identifier Registration:",
+              "content": "To submit claims for tests reported with Molecular Pathology CPT/HCPCS codes, laboratories must register and receive a test ID. To access the online DEX registry, laboratories should follow the following steps: • Go to the DEX TM Diagnostics Exchange: https://app.dexzcodes.com. • Select ‘Register My Organization’ and follow the prompts to register your organization. The DEX™ Diagnostics Exchange, a web-based service, is designed to identify tests and help establish transparency in the evidence-based coverage of them. This tool enables labs to confidentially share test information with DEX online."
+            },
+            {
+              "title": "Claim Submission Requirements:",
+              "content": "To report a Molecular Diagnostic Test service, please submit the following claim information: • Select appropriate Molecular Pathology CPT® code • Enter 1 unit of service (UOS) • Enter the appropriate DEX Z-Code™ identifier adjacent to the CPT® code in the comment/narrative field for the following professional claim field/types: o Loop 2400 or SV101-7 for the 5010A1 837P o Box 19 for paper claim • Enter the appropriate DEX Z-Code™ identifier adjacent to the CPT® code in the comment/narrative field for the following Facility claim field/types: o Line SV202-7 for 837I electronic claim o Block 80 for the UB04 claim form"
+            },
+            {
+              "title": "Multiple Molecular Pathology Procedures:",
+              "content": "Labs should submit one CPT code and a DEX Z-Code™ for tests that may involve multiple genes that produce a single result.  UnitedHealthcare Medicare Advantage will deny duplicate or multiple molecular pathology CPT codes reported with the same DEX Z-Code™ for the same patient on the same date of service."
+            },
+            {
+              "title": "Testing of Multiple Genes:",
+              "content": "According to the American Medical Association (AMA) molecular pathology procedure code selection is typically based on the specific gene(s) that is being analyzed.  Genes are described using Human Genome Organization (HUGO) approved gene names and are italicized in the code descriptors.  Gene names were taken from tables of the HUGO Gene Nomenclature Committee (HGNC) at the time the CPT codes were developed.  The AMA has provided Claim Designations using these abbreviated gene names and/or analytes.  These Claim Designations have been cross walked to the appropriate codes to report on the Molecular Pathology Gene Table provided in the Pathology and Laboratory section of the AMA CPT codebook. Codes that describe tests to assess for the presence of gene variants use common gene variant names.  Typically, all listed variants would be tested.  However, these lists are not exclusive.  If other variants are also tested in the analysis, they would be included in the procedure and not reported separately.  The molecular pathology codes include all analytical services performed in the test (eg, cell lysis, nucleic acid stabilization, extraction, digestion, amplification, and detection). Tier 1 Molecular Pathology Codes represent gene-specific and genomic procedures.  Molecular pathology procedures that are not specified by a specific CPT code are reported using a Tier 2 code or unlisted molecular pathology codes. Tier 2  Molecular Pathology Codes lists the specific analytes with the process code level.  When your test is registered with the DEX program, the appropriate CPT code will be assigned to the Z-Code which will designate your test. During registration, your test will be assigned a CPT code to bill with in addition to the Z-Code identifier which will be submitted in field 2400 SV101-7 (Professional), SV102-7 (Institutional) on the electronic claim form or in the shaded area of the service line in section 24 on a paper claim form."
+            },
+            {
+              "title": "Genomic sequencing procedures (GSPs) and other molecular multianalyte assays codes are used when the",
+              "content": "components of the descriptor(s) are fulfilled regardless of the technique used to provide the analysis, unless specifically noted in the code descriptor.  When a GSP assay includes gene(s) that is listed in more than one code descriptor, the code for the most specific test for the primary disorder sought should be reported, rather than reporting multiple codes for the same gene(s). Proprietary Laboratory Analysis (PLA) codes are used to report single or multianalyte services. These codes encompass all analytical services required for the analysis (eg, cell lysis, nucleic acid stabilization, extraction, digestion, amplification, hybridization and detection).  No other code should be used when an appropriate PLA code is present and listed as the code to accompany the Z-code from the test registration When multiple molecular biomarkers are tested on the same date of service, it is a multianalyte panel and requires reporting with a single CPT code.   The service should be submitted with the assigned CPT and Z-Code. If multiple codes are submitted, the first code will be reimbursed on the claim. When a CPT code does not describe the multianalyte test being registered with DEX, the CPT code 81479 may be assigned for use.  Tests, such as a reflex test performed in a stepwise fashion, may be considered separate services and billed with the appropriate modifier."
+            }
+          ],
+          "children": [
+            {
+              "title": "Edit Sources",
+              "level": 3,
+              "confirmed": false,
+              "type": "text",
+              "content": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "DEX Z-CodeTM Identifiers",
+          "value": "Unique and proprietary 5-character alpha-numeric codes assigned within the DEX Diagnostics Exchange."
+        },
+        {
+          "key": "Genomic Sequencing Procedures and Other Molecular Multianalyte Assays",
+          "value": "Genomic sequencing procedures (GSPs) and other molecular Multianalyte assays GSPs are DNA or RNA sequence analysis methods that simultaneously assay multiple genes or genetic regions relevant to a clinical situation. They may target specific combinations of genes or genetic material or assay the exome or genome."
+        },
+        {
+          "key": "Molecular Diagnostic Test (MDT):",
+          "value": "A test that involves the detection or identification of nucleic acids (DNA/RNA), proteins, chromosomes, enzymes, cancer chemotherapy sensitivity and/or other metabolites. The test may or may not include multiple components. An MDT may consist of a single mutation analysis/identification, and/or may or may not rely upon an algorithm or other form of data evaluation/derivation."
+        },
+        {
+          "key": "DEX Diagnostic Exchange (DEX)",
+          "value": "A program designed and administered by Palmetto GBA to identify and establish coverage on new and existing tests that fall within the scope of the Molecular Diagnostic Test (MDT) Billing and Coding Article ID# A56853."
+        },
+        {
+          "key": "Molecular Pathology Codes",
+          "value": "A series of CPT codes published by the AMA describing molecular diagnostic tests found in the 80000 series of CPT codes."
+        },
+        {
+          "key": "Not Otherwise Classified (NOC) Codes",
+          "value": "Codes used to report an item or service for which no specific code exists. Sometimes referred to as \"unlisted\" or \"miscellaneous\" codes."
+        },
+        {
+          "key": "Proprietary Laboratory Analysis (PLA) Codes",
+          "value": "These codes describe proprietary clinical laboratory analyses and can be either provided by a single (\"sole-source\") laboratory or licensed or marketed to multiple providing laboratories (eg, cleared or approved by the Food and Drug Administration [FDA]). These codes include advanced diagnostic laboratory tests (ADLTs) and clinical diagnostic laboratory tests (CDLTs) as defined under the Protecting Access to Medicare Act (PAMA) of 2014."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "How long does it take to receive a DEX Z-CodeTM when registering a test with the Diagnostics ExchangeTM (DEX)?",
+            "A": "Each laboratory must register their organization first. Next the laboratory must register each unique test in the DEX system. After DEX assigns a Z-code to a lab for a specific test, the DEX team will review the test application and will assign a CPT code to the test. Receiving a Z-code for a test will occur within approximately 2 weeks from adding your test into the DEX system. Laboratory providers are encouraged to hold claims until they receive notification from DEX about appropriate CPT code assignment and completion of technical assessment. Prompt submission of complete documentation from the lab will help to avoid unnecessary delays. For further guidance on the timeline for the registration of your tests, refer to DEX - DEX Diagnostics Exchange Test Registration https://app.dexzcodes.com."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "How do we register DEX Z-CodeTM for custom panels?",
+            "A": "Labs must register all components of a panel, whether in-scope or out-of-scope of the program. DEX will map only the test(s) that are in scope for this program. (i.e., EGFR by molecular methodology and ROS1 and ALK by IHC). For detailed submission instructions, go to https://app.DEXzcodes.com/login or contact DEX.customer.service@palmettogba.com."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "If we use a reference lab for a particular test, how do we register our DEX Z-CodeTM identifier?",
+            "A": "Both labs must register as an organization in DEX. The performing lab submits the test details to receive the Z-code. If you send your test to a reference lab to be performed, you will need to request \"sharing\" in"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "Q": "How do I register a test that's performed at two different locations in the Diagnostics ExchangeTM (DEX)?",
+            "A": "If the test process is standardized and the same method is used to acquire the results in both locations, labs will only have to submit one application for the test. However, if there is a difference in the method, an application will be required from both locations."
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "Q": "Is the DEX Z-CodeTM identifier the same as the GTR from the National Institute of Health (NIH) GTR ID?",
+            "A": "No. The GTR ID is created when labs register tests with the NIH GTR. For detailed submission instructions, see ncbi.nlm.nih.gov/gtr/docs/submit/#submission or contact gtr@ncbi.nlm.nih.gov."
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "Q": "Can I report separate molecular pathology CPT codes in instead of a PLA CPT code?",
+            "A": "Per the AMA, when a PLA code is available to report a given proprietary laboratory service the service should not be reported with any other CPT code(s) and other CPT code(s) should not be used to report services that may be reported with the specific PLA code."
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "Q": "The testing provided overlapped two different GSP codes. Should I report both GSP codes?",
+            "A": "Only one GSP CPT code may be reported for the testing provided. The CPT guidelines for use of the GSP codes indicate when a GSP assay includes gene(s) that are listed in more than on code descriptor, the code for the most specific test for the primary disorder sought should be reported."
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "Q": "Laboratory XYZ performed testing that fits the PLA code descriptor; however, the PLA test was not marketed to Laboratory XYZ by the proprietary clinical laboratory or manufacturer. May the PLA test code be reported?",
+            "A": "No, the proprietary clinical laboratory or manufacturer may market the right to use their tests to multiple laboratories. These codes may only be reported by registered proprietary laboratory or laboratories that have the proprietary relationship with the proprietary clinical laboratory or manufacturer."
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "Q": "When would it be appropriate to report more than one CPT code 81479 on a single date of service?",
+            "A": "From a CPT coding perspective, code 81479, unlisted molecular pathology procedure, should only be reported once per patient, per specimen and date of service to identify the services provided because it does not identify a specific service."
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "Q": "Is it appropriate to report multiple codes using a modifier 59 when different methodologies and genes are tested on a single specimen?",
+            "A": "Testing on a single specimen should be reported with a single code. The code reported for the testing on the single specimen includes testing by all methodologies, all genes and analytes, all components (specimen preparation, DNA/RNA quantification, etc.) and all analytical services performed for the test. In the rare situation that separate specimen(s) are tested on the same patient on the same date of service for distinctly separate indications, the initial specimen is reported without a modifier and an additional code may be reported with an appropriate modifier for the additional specimen tested. The use of a modifier to identify a different indication on the same date of service must be supported by the test requisition form and documentation. Per the CMS National Correct Coding policy if the single procedure is performed, only one unit of service may be reported. Modifiers should not be used to report multiple codes when a single specimen is tested."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 5,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        "- American Medical Association, Current Procedural Terminology (CPT) and associated publications and services - Medicare Claims Processing Manual - Chapter 16 - Laboratory Services and Chapter 23, Section 40 Clinical Diagnostic Laboratory Fee Schedule - Medicare Benefit Policy Manual, Chapter 15, Section 80.1 Clinical Laboratory Services",
+        {
+          "key": "-",
+          "value": "NCCI Policy Manual for Medicare Services, Chapter 10, Pathology/Laboratory Services"
+        },
+        {
+          "key": "-",
+          "value": "Local Coverage Article A56853 Billing and Coding: MolDX: Molecular Diagnostic Tests (MDT)"
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 6,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "6/1/2026",
+          "value": "- Policy Version Change - Anniversary Review - History Section: Entries Prior to 6/1/2024 archived"
+        },
+        {
+          "key": "6/1/2025",
+          "value": "- Policy Version Change - History Section: Entries Prior to 6/1/2023 archived"
+        },
+        {
+          "key": "6/1/2024",
+          "value": "- Policy Version Change - History Section: Entries Prior to 6/1/2022 archived"
+        },
+        {
+          "key": "10/1/2021",
+          "value": "Policy implemented by UnitedHealthcare Medicare Advantage"
+        },
+        {
+          "key": "3/3/2021",
+          "value": "Policy approved by the UnitedHealthcare Medicare Advantage Stakeholders"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "81479",
+    "80000"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "59"
+  ]
+}

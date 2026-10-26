@@ -1,0 +1,363 @@
+{
+  "policy_title": "Global Days Policy",
+  "policy_number": "2026R9013A",
+  "policy_dates": {
+    "effective_date": "4/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "The Global Period assignment or Global Days Value is the time frame that applies to certain procedures subject to a Global Surgical Package concept whereby all necessary services normally furnished by a physician (before, during and after the procedure) are included in the reimbursement for the procedure performed. Modifiers should be used as appropriate to indicate services that are not part of the Global Surgical Package."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "mixed",
+          "content": [
+            "Physicians who furnish the surgery and furnish all the usual pre-and post-operative work may bill for the Global Surgical Package by entering the appropriate CPT code for the surgical procedure only. Separate billing is not allowed for visits or other services that are included in the Global Surgical Package.",
+            "When different physicians in a group practice participate in the care of the patient, the group practice bills for the entire global package if the physicians reassign benefits to the group. The physician who performs the surgery is reported as the performing physician.",
+            "More than one physician may furnish services included in the Global Surgical Package. It may be the case that the physician who performs the surgical procedure does not furnish the follow-up care. Payment for the post-operative, post-discharge care is split among two or more physicians where the physicians agree on the transfer of care. When more than one physician furnishes services that are included in the Global Surgical Package, the sum of the amount approved for all physicians may not exceed what would have been paid if a single physician provided all services, except where stated policies allow for higher payment. For instance, when the surgeon furnishes only the surgery and a physician other than the surgeon furnishes pre-operative and post-operative inpatient care, resulting in a combined payment that is higher than the global allowed amount. The surgeon and the physician furnishing the post-operative care must keep a copy of the written transfer agreement in the beneficiary's medical record. Where a transfer of care does not occur, the services of another physician may either be paid separately or denied for medical necessity reasons, depending on the circumstances of the case.",
+            "Global Period Assignments and the Global Surgical Package",
+            "UnitedHealthcare Medicare Advantage follows CMS in regard to Global Days Values as set forth in the National Physician Fee Schedule (NPFS) Relative Value File, except as noted below in this policy. UnitedHealthcare Medicare Advantage also follows CMS in regard to services included in and excluded from the Global Surgical Package.",
+            "CMS established a national definition of a Global Surgical Package to ensure that payment is made consistently for the same services provided to all UnitedHealthcare Medicare Advantage members. The Global Days policy describes the components of a Global Surgical Package, as defined by CMS, and billing and payment rules for minor surgeries, endoscopies, and Global Surgical Packages that are split between two or more physicians. The Global Surgical Package, also called Global Surgery, includes all necessary services normally furnished by a surgeon before, during, and after a procedure. Physicians in the same group practice who are in the same specialty must bill and be paid as though they were a single physician.",
+            "CMS/NPFS Global Value Description Days Value",
+            {
+              "key": "000",
+              "value": "Endoscopic or Minor Procedure with related preoperative and postoperative relative values on the day of the procedure only are included in the Global Surgical Package. Evaluation and Management (E/M) services on the day of the procedure are not reimbursable except as noted within this policy."
+            },
+            {
+              "key": "010",
+              "value": "Minor procedure with preoperative relative values on the day of the procedure and postoperative relative values during a 10-day postoperative period are included in the Global Surgical Package. Evaluation and Management services on the day of the procedure and during the 10-day postoperative period are not reimbursable except as noted within this policy. A procedure having a Global Days Value of 000, 010 or 090 that is performed during the postoperative period of a procedure having a Global Days Value of 010 is included in the Global Surgical Package of the initial procedure and is not separately reimbursable except as noted within this policy."
+            },
+            {
+              "key": "090",
+              "value": "Major procedure with a 1-day preoperative period and 90-day postoperative period included in the Global Surgical Package. Evaluation and Management services on the day prior to the procedure, the day of the procedure, and during the 90-day postoperative period are not reimbursable except as noted within this policy. A procedure having a Global Days Value of 000, 010 or 090 that is performed during the postoperative period of a procedure having a Global Days Value of 090 is included in the Global Surgical Package of the initial procedure and is not separately reimbursable except as noted within this policy."
+            },
+            {
+              "key": "XXX",
+              "value": "Per CMS, the Global Surgical Package concept does not apply to the code."
+            },
+            {
+              "key": "YYY",
+              "value": "UnitedHealthcare Medicare Advantage determines whether the global concept applies and establishes the postoperative period, if appropriate, at time of pricing."
+            },
+            {
+              "key": "ZZZ",
+              "value": "The code is related to another service and is always included in the Global Period of the primary service. The Global Surgical Package concept does not apply to the code."
+            },
+            "Global Surgery applies in any setting, including an inpatient hospital, outpatient hospital, Ambulatory Surgical Center (ASC), and physician's office. Visits to a patient in an intensive care or critical care unit are also included in the Global Surgical Package if made by the surgeon.",
+            "There are three types of Global Surgical Packages based on the number of post-operative days.",
+            "Zero Day Post-operative Period, (endoscopies and some Minor Procedures). - No pre-operative period - No post-operative days - Visit on day of procedure is generally not payable as a separate service. 10-day Post-operative Period, (other Minor Procedures). - No pre-operative period - Visit on day of the procedure is generally not payable as a separate service. - Total global period is 11 days. Count the day of the surgery and 10 days following the day of the surgery. 90-day Post-operative Period (Major Procedures) - One day pre-operative included. - Day of the procedure is generally not payable as a separate service. - Total global period is 92 days. Count 1 day before the day of the surgery, the day of surgery, and the 90 days immediately following the day of surgery.",
+            "The payment rules for Global Surgical Packages apply to procedure codes with global surgery indicators of 000, 010, 090, and, sometimes, YYY.",
+            "While codes with \"ZZZ\" are surgical codes, they are add-on codes that are always billed with another service. There is no post-operative work included in the NPFS payment for the \"ZZZ\" codes. Payment is made for both the primary and the add-on codes, and the global period assigned is applied to the primary code.",
+            "Services Included in the Global Surgical Package",
+            "The following services are included in the global surgery payment when furnished by the physician who furnishes the surgery:",
+            "- Pre-operative visits after the decision is made to operate. For Major Procedures, this includes pre-operative visits the day before the day of surgery. For Minor Procedures, this includes pre-operative visits the day of surgery; - Intra-operative services that are normally a usual and necessary part of a surgical procedure; - All additional medical or surgical services required of the surgeon during the post-operative period of the surgery because of complications, which do not require additional trips to the operating room; - Follow-up visits during the post-operative period of the surgery that are related to recovery from the surgery; - Post-surgical pain management by the surgeon; - Supplies, except for those identified as exclusions; and - Miscellaneous services, such as dressing changes, local incision care, removal of operative pack, removal of cutaneous sutures and staples, lines, wires, tubes, drains, casts, and splints; insertion, irrigation and removal of urinary catheters, routine peripheral intravenous lines, nasogastric and rectal tubes; and changes and removal of tracheostomy tubes.",
+            "A procedure having a Global Days Value of 000, 010 or 090 that is performed during the postoperative period of another procedure having a Global Days Value of 010 or 090, when both procedures are reported by the Same Specialty Physician or Other Health Care Professional, is considered included in the Global Surgical Package of the initial procedure unless an appropriate modifier is appended.",
+            "Services Not Included in the Global Surgical Package",
+            "The following services are not included in the global surgical payment. These services may be billed and paid for separately:",
+            "- Initial consultation or evaluation of the problem by the surgeon to determine the need for major surgeries. This is billed separately using the modifier -57. This visit may be billed separately only for major surgical procedures; o Note: The initial evaluation for minor surgical procedures and endoscopies is always included in the global surgery package. Visits by the same physician on the same day as a minor surgery or endoscopy are included in the global package, unless a significant, separately identifiable service is also performed. Modifier -25 is used to bill a separately identifiable Evaluation and Management (E/M) service by the same physician on the same day of the procedure. - Services of other physicians related to the surgery, except where the surgeon and the other physician(s) agree on the transfer of care. This agreement may be in the form of a letter or an annotation in the discharge summary, hospital record, or ASC record. - Visits unrelated to the diagnosis for which the surgical procedure is performed, unless the visits occur due to complications of the surgery. - Treatment for the underlying condition or an added course of treatment which is not part of normal recovery from surgery. - Diagnostic tests and procedures, including diagnostic radiological procedures. - Clearly distinct surgical procedures that occur during the post-operative period which are not re-operations or treatment for complications; o Note: A new post-operative period begins with the subsequent procedure. This includes procedures done in two or more parts for which the decision to stage the procedure is made prospectively or at the time of the first procedure.",
+            "- Treatment for post-operative complications requiring a return trip to the Operating Room (OR). An OR, for this purpose, is defined as a place of service specifically equipped and staffed for the sole purpose of performing procedures. The term includes a cardiac catheterization suite, a laser suite, and an endoscopy suite. It does not include a patient's room, a minor treatment room, a recovery room, or an intensive care unit (unless the patient's condition was so critical there would be insufficient time for transportation to an OR); - If a less extensive procedure fails, and a more extensive procedure is required, the second procedure is payable separately. - Immunosuppressive therapy for organ transplants; and - Critical care services (Current Procedural Terminology (CPT) codes 99291 and 99292) unrelated to the surgery where a seriously injured or burned patient is critically ill and requires constant attendance of the physician.",
+            "E/M Service Resulting in the Initial Decision to Perform Surgery",
+            "E/M services on the day before major surgery or on the day of major surgery that result in the initial decision to perform the surgery are not included in the global surgery payment for the major surgery and, therefore, may be billed and paid separately.",
+            "In addition to the E/M code, modifier \"-57\" is used to identify a visit that results in the initial decision to perform surgery. The modifier \"-57\" is not used with minor surgeries because the global period for minor surgeries does not include the day prior to the surgery. Where the decision to perform the Minor Procedure is typically done immediately before the service, it is considered a routine pre-operative service and a visit or consultation is not billed in addition to the procedure. Carriers/MACs may not pay for an E/M service billed with the modifier \"-57\" if it was provided on the day of or the day before a procedure with a 0 or 10 day global surgical period.",
+            "Significant, Separately Identifiable E/M Service by the Same Physician on the Same Day of the Procedure",
+            "Modifier \"-25\", indicates that the patient's condition required a significant, separately identifiable E/M service beyond the usual pre-operative and post-operative care associated with the procedure or service. - Use modifier \"-25\" with the appropriate level of E/M service. - Use modifiers \"-24\" and \"-25\" when a significant, separately identifiable E/M service on the day of a procedure falls within the post-operative period of another unrelated, procedure.",
+            "Different diagnoses are not required for reporting the E/M service on the same date as the procedure or other service. Both the medically-necessary E/M service and the procedure must be appropriately and sufficiently documented by the physician or qualified non-physician practitioner in the patient's medical record to support the claim for these services, even though the documentation is not required to be submitted with the claim.",
+            "Minor Procedure and Endoscopies",
+            "Minor procedures and endoscopies have post-operative periods of 10 days or zero days (indicated by 010 or 000, respectively).",
+            "For 10-day post-operative period procedures, Medicare does not allow separate payment for post-operative visits or services within 10 days of the surgery that are related to recovery from the procedure. If a diagnostic biopsy with a 10- day global period precedes a major surgery on the same day or in the 10-day period, the major surgery is payable separately. Services by other physicians are generally not included in the global fee for Minor Procedures. For zero day post-operative period procedures, post-operative visits beyond the day of the procedure are not included in the payment amount for the surgery. Post-operative visits are separately billable and payable.",
+            "Unrelated Procedure or Service or E/M Service by the Same Physician During a Post-operative Period",
+            "Two modifiers are used to simplify billing for visits and other procedures that are furnished during the post-operative period of a surgical procedure, but not included in the payment for surgical procedure.",
+            "- Modifier \"-79\". The physician may need to indicate that a procedure or service furnished during a post-operative period was unrelated to the original procedure. A new post-operative period begins when the unrelated procedure is billed. - Modifier \"-24\". The physician may need to indicate that an E/M service was furnished during the post-operative period of an unrelated procedure. An E/M service billed with modifier \"-24\" must be accompanied by documentation that supports that the service is not related to the post-operative care of the procedure.",
+            "Return to the OR for a Related Procedure during the Post-Operative Period",
+            "Consistent with CMS and CPT, modifier \"-78\" should be reported with procedure codes for treatment of postoperative complications that require a return trip to the operating room. Per CMS, an operating room is defined as a place of service specifically equipped and staffed for the sole purpose of performing procedures. The term operating room includes a cardiac catheterization suite, a laser suite and an endoscopy suite. It does not include a patient's room, a minor treatment room, a recovery room, or an intensive care unit (unless the patient's condition was so critical there would be insufficient time for transportation to an operating room.) A modifier \"-78\" reduction will not be applied to a procedure having a Global Days Value other than 010 or 090, even if modifier \"-78\" is appended.",
+            "A modifier \"-78\" reduction will not be applied to a procedure having a Global Days Value of 010 or 090 which does not also have an Intraoperative Percentage in the CMS National Physician Fee Schedule Relative Value File. For example, an Intraoperative Percentage is not listed in the National Physician Fee Schedule for CPT code 77750. Therefore, reimbursement for this code will not be reduced even if the code is reported with modifier \"-78\". A new Global Period will not apply to a procedure meeting these requirements and reported with modifier \"-78\", and multiple procedure reductions will not be applied.",
+            "When treatment for complications requires a return trip to the OR, physicians bill the CPT code that describes the procedure(s) performed during the return trip. If no such code exists, use the unspecified procedure code in the correct series, i.e., CPT code 47999 or 64999. The procedure code for the original surgery is not used except when the identical procedure is repeated.",
+            "In addition to the CPT code, physicians report modifier \"-78\". The physician may also need to indicate that another procedure was performed during the post-operative period of the initial procedure. When this subsequent procedure is related to the first procedure, and requires the use of the operating room, this circumstance may be reported by adding the modifier \"-78\" to the related procedure.",
+            "When a CPT code billed with modifier \"-78\" describes the services involving a return trip to the operating room to deal with complications, pay the value of the intra-operative services of the code that describes the treatment of the complications. Refer to Field 18 of the MPFS to determine the percentage of the global package for the intra-operative services. The fee schedule amount (Field 34 or 35 of the MFSDB) is multiplied by this percentage and rounded to the nearest cent.",
+            "When a procedure with a \"000\" global period is billed with a modifier \"-78,\" representing a return trip to the operating room to deal with complications, pay the full value for the procedure, since these codes have no pre-, post-, or intra- operative values.",
+            "Staged or Related Procedure or Service by the Same Physician During the Post-operative Period",
+            "Modifier \"-58\" was established to facilitate billing of staged or related surgical procedures done during the post-operative period of the first procedure. Modifier \"-58\" indicates that the performance of a procedure or service during the post- operative period was: - Planned prospectively or at the time of the original procedure; - More extensive than the original procedure; or - For therapy following a diagnostic surgical procedure.",
+            "Modifier \"-58\" may be reported with the staged procedure's CPT code. A new post-operative period begins when the next procedure in the series is billed.",
+            "Critical Care",
+            "Critical care services furnished during a global surgical period for a seriously injured or burned patient are not considered related to a surgical procedure and may be paid separately under the following circumstances. Pre-operative and post-operative critical care may be paid in addition to a global fee if: - The patient is critically ill and requires the constant attendance of the physician; and - The critical care is above and beyond, and, in most instances, unrelated to the specific anatomic injury or general surgical procedure performed.",
+            "Such patients are potentially unstable or have conditions that could pose a significant threat to life or risk of prolonged impairment. In order for these services to be paid, two reporting requirements must be met: - CPT codes 99291/99292 and modifiers \"-FT\" must be used; and - Documentation that the critical care was unrelated to the specific anatomic injury or general surgical procedure performed must be submitted. An ICD-10 code for a disease or separate injury which clearly indicates that the critical care was unrelated to the surgery is acceptable documentation."
+          ],
+          "subsections": [
+            {
+              "title": "Global Period Assignments and the Global Surgical Package",
+              "content": "UnitedHealthcare Medicare Advantage follows CMS in regard to Global Days Values as set forth in the National Physician Fee Schedule (NPFS) Relative Value File, except as noted below in this policy.  UnitedHealthcare Medicare Advantage also follows CMS in regard to services included in and excluded from the Global Surgical Package. CMS established a national definition of a Global Surgical Package to ensure that payment is made consistently for the same services provided to all UnitedHealthcare Medicare Advantage members.  The Global Days policy describes the components of a Global Surgical Package, as defined by CMS, and billing and payment rules for minor surgeries, endoscopies, and Global Surgical Packages that are split between two or more physicians. The Global Surgical Package, also called Global Surgery, includes all necessary services normally furnished by a surgeon before, during, and after a procedure.  Physicians in the same group practice who are in the same specialty must bill and be paid as though they were a single physician."
+            },
+            {
+              "title": "CMS/NPFS"
+            },
+            {
+              "title": "Global"
+            },
+            {
+              "title": "Days"
+            },
+            {
+              "title": "Value"
+            },
+            {
+              "title": "Value Description",
+              "content": "000 Endoscopic or Minor Procedure with related preoperative and postoperative relative values on the day of the procedure only are included in the Global Surgical Package. Evaluation and Management (E/M) services on the day of the procedure are not reimbursable except as noted within this policy. 010 Minor procedure with preoperative relative values on the day of the procedure and postoperative relative values during a 10-day postoperative period are included in the Global Surgical Package. Evaluation and Management services on the day of the procedure and during the 10-day postoperative period are not reimbursable except as noted within this policy.  A procedure having a Global Days Value of 000, 010 or 090 that is performed during the postoperative period of a procedure having a Global Days Value of 010 is included in the Global Surgical Package of the initial procedure and is not separately reimbursable except as noted within this policy. 090 Major procedure with a 1-day preoperative period and 90-day postoperative period included in the Global Surgical Package. Evaluation and Management services on the day prior to the procedure, the day of the procedure, and during the 90-day postoperative period are not reimbursable except as noted within this policy.  A procedure having a Global Days Value of 000, 010 or 090 that is performed during the postoperative period of a procedure having a Global Days Value of 090 is included in the Global Surgical Package of the initial procedure and is not separately reimbursable except as noted within this policy. XXX Per CMS, the Global Surgical Package concept does not apply to the code. YYY UnitedHealthcare Medicare Advantage determines whether the global concept applies and establishes the postoperative period, if appropriate, at time of pricing. ZZZ The code is related to another service and is always included in the Global Period of the primary service.  The Global Surgical Package concept does not apply to the code. Global Surgery applies in any setting, including an inpatient hospital, outpatient hospital, Ambulatory Surgical Center (ASC), and physician’s office. Visits to a patient in an intensive care or critical care unit are also included in the Global Surgical Package if made by the surgeon. There are three types of Global Surgical Packages based on the number of post-operative days."
+            },
+            {
+              "title": "Zero Day Post-operative Period, (endoscopies and some Minor Procedures).",
+              "content": "• No pre-operative period • No post-operative days • Visit on day of procedure is generally not payable as a separate service."
+            },
+            {
+              "title": "10-day Post-operative Period, (other Minor Procedures).",
+              "content": "• No pre-operative period • Visit on day of the procedure is generally not payable as a separate service. • Total global period is 11 days. Count the day of the surgery and 10 days following the day of the surgery."
+            },
+            {
+              "title": "90-day Post-operative Period (Major Procedures)",
+              "content": "• One day pre-operative included. • Day of the procedure is generally not payable as a separate service. • Total global period is 92 days. Count 1 day before the day of the surgery, the day of surgery, and the 90 days immediately following the day of surgery. The payment rules for Global Surgical Packages apply to procedure codes with global surgery indicators of 000, 010, 090, and, sometimes, YYY. While codes with “ZZZ” are surgical codes, they are add-on codes that are always billed with another service. There is no post-operative work included in the NPFS payment for the “ZZZ” codes. Payment is made for both the primary and the add-on codes, and the global period assigned is applied to the primary code."
+            },
+            {
+              "title": "Services Included in the Global Surgical Package",
+              "content": "The following services are included in the global surgery payment when furnished by the physician who furnishes the surgery: • Pre-operative visits after the decision is made to operate. For Major Procedures, this includes pre-operative visits the day before the day of surgery. For Minor Procedures, this includes pre-operative visits the day of surgery; • Intra-operative services that are normally a usual and necessary part of a surgical procedure; • All additional medical or surgical services required of the surgeon during the post-operative period of the surgery because of complications, which do not require additional trips to the operating room; • Follow-up visits during the post-operative period of the surgery that are related to recovery from the surgery; • Post-surgical pain management by the surgeon; • Supplies, except for those identified as exclusions; and • Miscellaneous services, such as dressing changes, local incision care, removal of operative pack, removal of cutaneous sutures and staples, lines, wires, tubes, drains, casts, and splints; insertion, irrigation and removal of urinary catheters, routine peripheral intravenous lines, nasogastric and rectal tubes; and changes and removal of tracheostomy tubes. A procedure having a Global Days Value of 000, 010 or 090 that is performed during the postoperative period of another procedure having a Global Days Value of 010 or 090, when both procedures are reported by the Same Specialty Physician or Other Health Care Professional, is considered included in the Global Surgical Package of the initial procedure unless an appropriate modifier is appended."
+            },
+            {
+              "title": "Services Not Included in the Global Surgical Package",
+              "content": "The following services are not included in the global surgical payment. These services may be billed and paid for separately: • Initial consultation or evaluation of the problem by the surgeon to determine the need for major surgeries. This is billed separately using the modifier -57. This visit may be billed separately only for major surgical procedures; o Note: The initial evaluation for minor surgical procedures and endoscopies is always included in the global surgery package. Visits by the same physician on the same day as a minor surgery or endoscopy are included in the global package, unless a significant, separately identifiable service is also performed. Modifier -25 is used to bill a separately identifiable Evaluation and Management (E/M) service by the same physician on the same day of the procedure. • Services of other physicians related to the surgery, except where the surgeon and the other physician(s) agree on the transfer of care. This agreement may be in the form of a letter or an annotation in the discharge summary, hospital record, or ASC record. • Visits unrelated to the diagnosis for which the surgical procedure is performed, unless the visits occur due to complications of the surgery. • Treatment for the underlying condition or an added course of treatment which is not part of normal recovery from surgery. • Diagnostic tests and procedures, including diagnostic radiological procedures. • Clearly distinct surgical procedures that occur during the post-operative period which are not re-operations or treatment for complications; o Note: A new post-operative period begins with the subsequent procedure. This includes procedures done in two or more parts for which the decision to stage the procedure is made prospectively or at the time of the first procedure. • Treatment for post-operative complications requiring a return trip to the Operating Room (OR). An OR, for this purpose, is defined as a place of service specifically equipped and staffed for the sole purpose of performing procedures. The term includes a cardiac catheterization suite, a laser suite, and an endoscopy suite. It does not include a patient’s room, a minor treatment room, a recovery room, or an intensive care unit (unless the patient’s condition was so critical there would be insufficient time for transportation to an OR); • If a less extensive procedure fails, and a more extensive procedure is required, the second procedure is payable separately. • Immunosuppressive therapy for organ transplants; and • Critical care services (Current Procedural Terminology (CPT) codes 99291 and 99292) unrelated to the surgery where a seriously injured or burned patient is critically ill and requires constant attendance of the physician."
+            },
+            {
+              "title": "E/M Service Resulting in the Initial Decision to Perform Surgery",
+              "content": "E/M services on the day before major surgery or on the day of major surgery that result in the initial decision to perform the surgery are not included in the global surgery payment for the major surgery and, therefore, may be billed and paid separately. In addition to the E/M code, modifier “-57” is used to identify a visit that results in the initial decision to perform surgery. The modifier “-57” is not used with minor surgeries because the global period for minor surgeries does not include the day prior to the surgery. Where the decision to perform the Minor Procedure is typically done immediately before the service, it is considered a routine pre-operative service and a visit or consultation is not billed in addition to the procedure. Carriers/MACs may not pay for an E/M service billed with the modifier “-57” if it was provided on the day of or the day before a procedure with a 0 or 10 day global surgical period. Significant, Separately Identifiable E/M Service by the Same Physician on the Same Day of the Procedure Modifier “-25”, indicates that the patient’s condition required a significant, separately identifiable E/M service beyond the usual pre-operative and post-operative care associated with the procedure or service. • Use modifier “-25” with the appropriate level of E/M service. • Use modifiers “-24” and “-25” when a significant, separately identifiable E/M service on the day of a procedure falls within the post-operative period of another unrelated, procedure. Different diagnoses are not required for reporting the E/M service on the same date as the procedure or other service. Both the medically-necessary E/M service and the procedure must be appropriately and sufficiently documented by the physician or qualified non-physician practitioner in the patient’s medical record to support the claim for these services, even though the documentation is not required to be submitted with the claim."
+            },
+            {
+              "title": "Minor Procedure and Endoscopies",
+              "content": "Minor procedures and endoscopies have post-operative periods of 10 days or zero days (indicated by 010 or 000, respectively). For 10-day post-operative period procedures, Medicare does not allow separate payment for post-operative visits or services within 10 days of the surgery that are related to recovery from the procedure. If a diagnostic biopsy with a 10- day global period precedes a major surgery on the same day or in the 10-day period, the major surgery is payable separately. Services by other physicians are generally not included in the global fee for Minor Procedures. For zero day post-operative period procedures, post-operative visits beyond the day of the procedure are not included in the payment amount for the surgery. Post-operative visits are separately billable and payable."
+            },
+            {
+              "title": "Unrelated Procedure or Service or E/M Service by the Same Physician During a Post-operative Period",
+              "content": "Two modifiers are used to simplify billing for visits and other procedures that are furnished during the post-operative period of a surgical procedure, but not included in the payment for surgical procedure. • Modifier “-79”. The physician may need to indicate that a procedure or service furnished during a post-operative period was unrelated to the original procedure. A new post-operative period begins when the unrelated procedure is billed. • Modifier “-24”. The physician may need to indicate that an E/M service was furnished during the post-operative period of an unrelated procedure. An E/M service billed with modifier “-24” must be accompanied by documentation that supports that the service is not related to the post-operative care of the procedure."
+            },
+            {
+              "title": "Return to the OR for a Related Procedure during the Post-Operative Period",
+              "content": "Consistent with CMS and CPT, modifier “-78” should be reported with procedure codes for treatment of postoperative complications that require a return trip to the operating room. Per CMS, an operating room is defined as a place of service specifically equipped and staffed for the sole purpose of performing procedures. The term operating room includes a cardiac catheterization suite, a laser suite and an endoscopy suite. It does not include a patient's room, a minor treatment room, a recovery room, or an intensive care unit (unless the patient's condition was so critical there would be insufficient time for transportation to an operating room.) A modifier “-78” reduction will not be applied to a procedure having a Global Days Value other than 010 or 090, even if modifier “-78” is appended. A modifier “-78” reduction will not be applied to a procedure having a Global Days Value of 010 or 090 which does not also have an Intraoperative Percentage in the CMS National Physician Fee Schedule Relative Value File. For example, an Intraoperative Percentage is not listed in the National Physician Fee Schedule for CPT code 77750. Therefore, reimbursement for this code will not be reduced even if the code is reported with modifier “-78”. A new Global Period will not apply to a procedure meeting these requirements and reported with modifier “-78”, and multiple procedure reductions will not be applied. When treatment for complications requires a return trip to the OR, physicians bill the CPT code that describes the procedure(s) performed during the return trip. If no such code exists, use the unspecified procedure code in the correct series, i.e., CPT code 47999 or 64999. The procedure code for the original surgery is not used except when the identical procedure is repeated. In addition to the CPT code, physicians report modifier “-78”. The physician may also need to indicate that another procedure was performed during the post-operative period of the initial procedure. When this subsequent procedure is related to the first procedure, and requires the use of the operating room, this circumstance may be reported by adding the modifier “-78” to the related procedure. When a CPT code billed with modifier “-78” describes the services involving a return trip to the operating room to deal with complications, pay the value of the intra-operative services of the code that describes the treatment of the complications. Refer to Field 18 of the MPFS to determine the percentage of the global package for the intra-operative services. The fee schedule amount (Field 34 or 35 of the MFSDB) is multiplied by this percentage and rounded to the nearest cent. When a procedure with a “000” global period is billed with a modifier “-78,” representing a return trip to the operating room to deal with complications, pay the full value for the procedure, since these codes have no  pre-, post-, or intra- operative values."
+            },
+            {
+              "title": "Staged or Related Procedure or Service by the Same Physician During the Post-operative Period",
+              "content": "Modifier “-58” was established to facilitate billing of staged or related surgical procedures done during the post-operative period of the first procedure. Modifier “-58” indicates that the performance of a procedure or service during the post- operative period was: • Planned prospectively or at the time of the original procedure; • More extensive than the original procedure; or • For therapy following a diagnostic surgical procedure. Modifier “-58” may be reported with the staged procedure’s CPT code. A new post-operative period begins when the next procedure in the series is billed."
+            },
+            {
+              "title": "Critical Care",
+              "content": "Critical care services furnished during a global surgical period for a seriously injured or burned patient are not considered related to a surgical procedure and may be paid separately under the following circumstances. Pre-operative and post-operative critical care may be paid in addition to a global fee if: • The patient is critically ill and requires the constant attendance of the physician; and • The critical care is above and beyond, and, in most instances, unrelated to the specific anatomic injury or general surgical procedure performed. Such patients are potentially unstable or have conditions that could pose a significant threat to life or risk of prolonged impairment. In order for these services to be paid, two reporting requirements must be met: • CPT codes 99291/99292 and modifiers “-FT” must be used; and • Documentation that the critical care was unrelated to the specific anatomic injury or general surgical procedure performed must be submitted. An ICD-10 code for a disease or separate injury which clearly indicates that the critical care was unrelated to the surgery is acceptable documentation."
+            }
+          ],
+          "children": [
+            {
+              "title": "Modifiers",
+              "level": 3,
+              "confirmed": false,
+              "type": "text",
+              "content": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 7,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Allowable Amount",
+          "value": "Defined as the dollar amount eligible for reimbursement to the physician or health care professional on the claim. Contracted rate, reasonable charge, or billed charges are examples of allowable amounts. For percent of charge or discount contracts, the allowable amount is determined as the billed amount, less the discount."
+        },
+        {
+          "key": "Global Period, Global Days Value",
+          "value": "The Global Period or Global Days Value represents the period of time during which all necessary services normally furnished by a physician (before, during, and after the procedure) are included in the reimbursement for the procedure performed."
+        },
+        {
+          "key": "Global Surgical Package",
+          "value": "The Global Surgical Package includes the following services in addition to the procedure: - Visits after the decision for a procedure is made beginning with the day before the procedure for a Major Procedure and the day of the procedure for all others; - Services that are normally a usual and necessary part of a procedure; - Complications Following the Procedure - All additional medical or surgical services required during the postoperative period because of complications which do not require additional trips to the operating room; - Postoperative Visits - Follow-up visits during the postoperative period that are related to recovery; - Post-procedure Pain Management; - Supplies - Except for those identified as exclusions; and - Miscellaneous Services - Items such as dressing changes; local incisional care; removal of operative pack; removal of cutaneous sutures and staples, lines, wires, tubes, drains, casts, and splints; insertion, irrigation and removal of urinary catheters, routine peripheral intravenous lines, nasogastric and rectal tubes; and changes and removal of tracheostomy tubes."
+        },
+        {
+          "key": "Intraoperative Percentage",
+          "value": "Percentage for the intraoperative portion of the Global Surgical Package, including postoperative work in the hospital."
+        },
+        {
+          "key": "Major Procedure",
+          "value": "A procedure having a Global Days Value of 090."
+        },
+        {
+          "key": "Minor Procedure",
+          "value": "A procedure having a Global Days Value of 000 or 010."
+        },
+        {
+          "key": "Payment Reduction",
+          "value": "Indicates the percentage decrease in reimbursement calculated from the allowable amount on the claim."
+        },
+        {
+          "key": "Relative Value Unit (RVU)",
+          "value": "The assigned unit value of a particular CPT or HCPCS code. The associated RVU is either from the CMS NPFS Non-Facility Total value or Facility Total value."
+        },
+        {
+          "key": "Same Individual Physician or Other Health Care Professional",
+          "value": "The same individual rendering health care services reporting the same National Provider Identifier (NPI) number."
+        },
+        {
+          "key": "Same Specialty Physician or other Health Care Professional",
+          "value": "Physicians and/or other qualified health care professionals of the same group and same specialty reporting the same Federal Tax Identification number."
+        },
+        {
+          "key": "Surgeon",
+          "value": "A Surgeon is defined by CMS and UnitedHealthcare Medicare Advantage as not only the physician who performed the procedure, but also any physician or non-physician of the same specialty within the physician's group practice."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 8,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "If a cardiologist performs a procedure having a Global Days Value of 010, and then another cardiologist in the same medical group with the same tax identification number provides follow-up care for the patient during this 10-day period, would UnitedHealthcare Medicare Advantage reimburse the second cardiologist for a separate E/M service?",
+            "A": "No, UnitedHealthcare Medicare Advantage would not reimburse for a separate E/M service in this case. UnitedHealthcare Medicare Advantage follows CMS guidelines by defining the Same Specialty Physician or Other Health Care Professional as not only the physician or other health care professional who performed the procedure, but also any physician or other health care professional of the same specialty within the same group practice with the same tax identification number."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Are Global Period assignments limited to surgical procedures only?",
+            "A": "No, CMS has assigned Global Periods to some non-surgical procedures. Examples: Osteopathic manipulative treatment codes (98925 thru 98929) and Chiropractic manipulative treatment codes (98940 thru 98942) have CMS Global Days Value assignments of 000; Laser treatment for inflammatory skin diseases codes (96920 thru 96922) have CMS Global Days Value assignments of 000; and Radiation oncology codes (77750 thru 77763) have Global Days Value assignments of 090."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "If a physician performs a surgery or procedure that has a Global Days Value of 010 or 090, and during the postoperative period of that procedure, the same physician (or the Same Specialty Physician or Other Health Care Professional) performs another surgery or procedure having any Global Days Value, is this subsequent procedure reimbursable?",
+            "A": "Any procedure having a Global Days Value of 000, 010 or 090 that is performed during the postoperative period of an earlier procedure by a physician of the same TIN and specialty as the original Surgeon is considered included in the Global Surgical Package of the earlier procedure and is not separately reimbursable unless an appropriate modifier is also reported. Modifiers 58, 78 and 79 describe circumstances that may apply to the subsequent procedure. If one of these modifiers is reported on a subsequent procedure because the patient's record supports it, the subsequent procedure will not be considered included in the Global Surgical Package of the earlier procedure and will be considered for separate reimbursement."
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "Q": "If a surgeon performs a procedure and reports it with modifier LT and during the postoperative period of that procedure, reports the same procedure with modifier RT, is the second procedure reimbursable?",
+            "A": "The subsequent procedure reported with RT is included in the Global Surgical Package of the earlier procedure reported with LT unless the subsequent procedure is reported with an appropriate Global Days modifier to indicate"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "Q": "Does UnitedHealthcare Medicare Advantage require that a physician or other qualified health care professional submit two separate and distinct diagnosis codes in order to be reimbursed for a procedure having a Global Days Value of 000, 010, or 090 and an appropriately modified E/M code submitted on the same day?",
+            "A": "No. For reimbursement purposes, UnitedHealthcare Medicare Advantage requires that a physician or other qualified health care professional rendering a significant, separately identifiable E/M service on the same day of the procedure append modifier 25 to the E/M code. Although UnitedHealthcare does not require two separate and distinct diagnosis codes to be submitted, if there is more than one diagnosis, all diagnosis codes should be indicated on the claim in accordance with correct coding guidelines."
+          }
+        },
+        {
+          "key": "25",
+          "value": {
+            "Q": "57",
+            "A": "58 78 79 FT RT LT"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 9,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov American Medical Association (AMA) Current Procedural Terminology (CPT) Centers for Medicare and Medicaid Services: MPFS Relative Value Files Medicare Claims Processing Manual - Chapter 12 - Physicians/Nonphysician Practitioners - Section: 30.6.5, 30.6.6; 40,40.1, 40.2, 40.3. 40.4 National Correct Coding Initiative Edits - PFS Relative Value files The Medicare Learning Network (MLN): Global Surgery Booklet ICN 907166"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 9,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "4/1/2026",
+          "value": "Policy Version Change History Section: Entries Prior to 4/1/2024 archived"
+        },
+        {
+          "key": "4/1/2025",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "4/1/2024",
+          "value": "Policy Version Change History Section: Entries Prior to 4/1/2022 archived"
+        },
+        {
+          "key": "4/24/2013",
+          "value": "Policy Approved"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "99291",
+    "99292",
+    "77750",
+    "47999",
+    "64999",
+    "98925",
+    "98929",
+    "98940",
+    "98942",
+    "96920",
+    "96922",
+    "77763"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "57",
+    "25",
+    "24",
+    "79",
+    "78",
+    "58",
+    "FT",
+    "LT",
+    "RT"
+  ]
+}

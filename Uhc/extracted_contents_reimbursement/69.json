@@ -1,0 +1,202 @@
+{
+  "policy_title": "Medically Unlikely Edits (MUE) Policy",
+  "policy_number": "2025R9018A",
+  "policy_dates": {
+    "effective_date": "1/1/2025",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "Overview The Centers for Medicare and Medicaid Services (CMS) developed the Medically Unlikely Edits (MUE) program to reduce the paid claims error rate for Part B claims. An MUE for a HCPCS/CPT code is the maximum units of service that a provider would report under most circumstances for a single beneficiary on a single date of service. The first edits were implemented January 1, 2007 and even today not all HCPCS/CPT codes have an MUE. Subsequent to implementation, there have been quarterly updates increasing the number of edits. The edits were developed based on anatomic considerations, HCPCS/CPT code descriptors, CPT instructions, CMS policies, nature of service/procedure, nature of analyte, nature of equipment, and clinical judgment. Prior to implementation, all edits were reviewed by national healthcare organizations, and their alternative recommendations were taken into consideration. In 2008, CMS has been refining the edits based on 100% submitted claims data from a six-month period in 2006. Although CMS publishes most MUE values on its website, other MUE values are confidential and are for CMS and CMS Contractors' use only. The latter group of MUE values should not be released since CMS does not publish them. On April 1, 2013, CMS modified the MUE program so that some MUE values would be date of service edits rather than claim line edits. Therefore, at that time, CMS introduced a new data field to the MUE edit table termed \"MUE adjudication indicator\" or \"MAI\". Reimbursement Guidelines MUEs for HCPCS codes with a MAI of \"1\" will continue to be adjudicated as a claim line edit. UnitedHealthcare Medicare Advantage adjudicates MUEs against each line of a claim rather than the entire claim. Thus, if a CPT/HCPCS code is reported on more than one line of the claim by using CPT modifiers, each line with that code is separately adjudicated against the MUE. If a provider bills units of service for HCPCS/CPT codes in excess of established limits, the edits prevent payment. UnitedHealthcare Medicare Advantage denies at the line level rather than the claim level for both Physician and Facility claims. MUEs for HCPCS codes with a MAI of \"2\" will be an absolute date of service edit. These are \"per day edits based on policy\". HCPCS codes with an MAI of \"2\" have been rigorously reviewed and vetted within CMS and obtain this MAI designation because unit of service (UOS) on the same date of service (DOS) in excess of the MUE value would be considered impossible because it was contrary to statute, regulation or subregulatory guidance. This subregulatory guidance includes clear correct coding policy that is binding on both providers and CMS claims processing contractors. MUEs for HCPCS codes with an MAI of \"3\" are \"per day edits based on clinical benchmarks\". MUEs assigned an MAI of \"3\" are based on criteria (e.g., nature of service, prescribing information) combined with data such that it would be possible but medically highly unlikely that higher values would represent correctly reported medically necessary services. If the MUE is adjudicated as a DOS MUE (MAI 2 and/or 3), all UOS on each claim line for the same date of service for the same HCPCS/CPT code are summed, and the sum is compared to the MUE value. If the summed UOS exceed the MUE value, all lines for the HCPCS/CPT code and DOS for that current claim are denied. Comments about MUE are received from the AMA and the national medical societies, representatives of the AMA's CPT Editorial Panel, CPT Advisory, and Health Care Professionals Advisory (HCPAC) Committees, CMS Central and Regional Offices, Medicare Contractor Medical Directors, contractor staff, physicians, other providers, and independent billing consultants. Based upon input from these sources, an MUE may be deleted. MUE may also be deleted for other reasons such as CMS policies, modified HCPCS/CPT code descriptors or coding instructions, deletion of HCPCS/CPT codes, or modified medical practice. (Occasionally an MUE is modified. In such situations the original MUE is deleted, and a new MUE with the revised MUE value is added)."
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "The Centers for Medicare and Medicaid Services (CMS) developed the Medically Unlikely Edits (MUE) program to reduce the paid claims error rate for Part B claims. An MUE for a HCPCS/CPT code is the maximum units of service that a provider would report under most circumstances for a single beneficiary on a single date of service. The first edits were implemented January 1, 2007 and even today not all HCPCS/CPT codes have an MUE. Subsequent to implementation, there have been quarterly updates increasing the number of edits. The edits were developed based on anatomic considerations, HCPCS/CPT code descriptors, CPT instructions, CMS policies, nature of service/procedure, nature of analyte, nature of equipment, and clinical judgment. Prior to implementation, all edits were reviewed by national healthcare organizations, and their alternative recommendations were taken into consideration. In 2008, CMS has been refining the edits based on 100% submitted claims data from a six-month period in 2006. Although CMS publishes most MUE values on its website, other MUE values are confidential and are for CMS and CMS Contractors' use only. The latter group of MUE values should not be released since CMS does not publish them. On April 1, 2013, CMS modified the MUE program so that some MUE values would be date of service edits rather than claim line edits. Therefore, at that time, CMS introduced a new data field to the MUE edit table termed \"MUE adjudication indicator\" or \"MAI\". Reimbursement Guidelines MUEs for HCPCS codes with a MAI of \"1\" will continue to be adjudicated as a claim line edit. UnitedHealthcare Medicare Advantage adjudicates MUEs against each line of a claim rather than the entire claim. Thus, if a CPT/HCPCS code is reported on more than one line of the claim by using CPT modifiers, each line with that code is separately adjudicated against the MUE. If a provider bills units of service for HCPCS/CPT codes in excess of established limits, the edits prevent payment. UnitedHealthcare Medicare Advantage denies at the line level rather than the claim level for both Physician and Facility claims. MUEs for HCPCS codes with a MAI of \"2\" will be an absolute date of service edit. These are \"per day edits based on policy\". HCPCS codes with an MAI of \"2\" have been rigorously reviewed and vetted within CMS and obtain this MAI designation because unit of service (UOS) on the same date of service (DOS) in excess of the MUE value would be considered impossible because it was contrary to statute, regulation or subregulatory guidance. This subregulatory guidance includes clear correct coding policy that is binding on both providers and CMS claims processing contractors. MUEs for HCPCS codes with an MAI of \"3\" are \"per day edits based on clinical benchmarks\". MUEs assigned an MAI of \"3\" are based on criteria (e.g., nature of service, prescribing information) combined with data such that it would be possible but medically highly unlikely that higher values would represent correctly reported medically necessary services. If the MUE is adjudicated as a DOS MUE (MAI 2 and/or 3), all UOS on each claim line for the same date of service for the same HCPCS/CPT code are summed, and the sum is compared to the MUE value. If the summed UOS exceed the MUE value, all lines for the HCPCS/CPT code and DOS for that current claim are denied. Comments about MUE are received from the AMA and the national medical societies, representatives of the AMA's CPT Editorial Panel, CPT Advisory, and Health Care Professionals Advisory (HCPAC) Committees, CMS Central and Regional Offices, Medicare Contractor Medical Directors, contractor staff, physicians, other providers, and independent billing consultants. Based upon input from these sources, an MUE may be deleted. MUE may also be deleted for other reasons such as CMS policies, modified HCPCS/CPT code descriptors or coding instructions, deletion of HCPCS/CPT codes, or modified medical practice. (Occasionally an MUE is modified. In such situations the original MUE is deleted, and a new MUE with the revised MUE value is added)."
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "MUEs for HCPCS codes with a MAI of \"1\" will continue to be adjudicated as a claim line edit. UnitedHealthcare Medicare Advantage adjudicates MUEs against each line of a claim rather than the entire claim. Thus, if a CPT/HCPCS code is reported on more than one line of the claim by using CPT modifiers, each line with that code is separately adjudicated against the MUE. If a provider bills units of service for HCPCS/CPT codes in excess of established limits, the edits prevent payment. UnitedHealthcare Medicare Advantage denies at the line level rather than the claim level for both Physician and Facility claims. MUEs for HCPCS codes with a MAI of \"2\" will be an absolute date of service edit. These are \"per day edits based on policy\". HCPCS codes with an MAI of \"2\" have been rigorously reviewed and vetted within CMS and obtain this MAI designation because unit of service (UOS) on the same date of service (DOS) in excess of the MUE value would be considered impossible because it was contrary to statute, regulation or subregulatory guidance. This subregulatory guidance includes clear correct coding policy that is binding on both providers and CMS claims processing contractors. MUEs for HCPCS codes with an MAI of \"3\" are \"per day edits based on clinical benchmarks\". MUEs assigned an MAI of \"3\" are based on criteria (e.g., nature of service, prescribing information) combined with data such that it would be possible but medically highly unlikely that higher values would represent correctly reported medically necessary services. If the MUE is adjudicated as a DOS MUE (MAI 2 and/or 3), all UOS on each claim line for the same date of service for the same HCPCS/CPT code are summed, and the sum is compared to the MUE value. If the summed UOS exceed the MUE value, all lines for the HCPCS/CPT code and DOS for that current claim are denied. Comments about MUE are received from the AMA and the national medical societies, representatives of the AMA's CPT Editorial Panel, CPT Advisory, and Health Care Professionals Advisory (HCPAC) Committees, CMS Central and Regional Offices, Medicare Contractor Medical Directors, contractor staff, physicians, other providers, and independent billing consultants. Based upon input from these sources, an MUE may be deleted. MUE may also be deleted for other reasons such as CMS policies, modified HCPCS/CPT code descriptors or coding instructions, deletion of HCPCS/CPT codes, or modified medical practice. (Occasionally an MUE is modified. In such situations the original MUE is deleted, and a new MUE with the revised MUE value is added)."
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Modifier JW",
+          "value": "Modifier used to describe the amount of drug that was discarded and not administered to the patient. Any amount wasted must be clearly documented in the medical record, regardless of whether the JW modifier will be used in billing for the drug/biological, with: - Date and Time - Amount of Medication Wasted - Reason for the Wastage"
+        },
+        {
+          "key": "MAI",
+          "value": "MUE Adjudication Indicator - The MUE files on the CMS National Correct Coding Initiative (NCCI) website display an \"MUE Adjudication Indicator\" (MAI) for each HCPCS/CPT code. An MAI of \"1\" indicates that the edit is a claim line MUE. An MAI of \"2\" or \"3\" indicates that the edit is a DOS MUE."
+        },
+        {
+          "key": "MUE",
+          "value": "Medically Unlikely Edit - A unit of service (UOS) edit for Healthcare Common Procedure Coding System (HCPCS)/Current Procedural Terminology (CPT) code for services rendered by a single provider/supplier to a single beneficiary on the same date of service. The ideal MUE is the maximum UOS that would be reported for a HCPCS/CPT code on a vast majority of appropriately reported claims. The MUE program provides a method to report medically reasonable and necessary UOS in excess of an MUE. MUEs are not meant to establish Medicare payment policy, but rather to improve the accuracy of Medicare payments. Providers should not interpret MUE values as utilization guidelines. MUE values do not represent units of service that may be reported without concern about medical review. Providers should continue to report only services that are medically reasonable and necessary."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Can Providers bill fractions of units given?",
+            "A": "No, the dosing for drugs is always rounded up."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "How do Providers calculate the units given?",
+            "A": "Example: J0207 - The Provider administers 350 mg and bills \"1\" unit. This is correct since the denominator cannot be broken down to < 500 mg and Providers are expected to round up since fractions are not accepted on the CMS 1500, 837P, UB-04 or 837I."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "What happens if a Provider bills for more than the patient received?",
+            "A": "If the administration records validate the Provider billed more units than what the patient received AND there is no documentation of drug waste, the claim line will be denied again."
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "Q": "What does the Provider need to do if he/she receives a complete denial of a \"J\" code?",
+            "A": "The Provider may send in a reconsideration after he/she has validated the units on the claim are accurate. Medication administration records must accompany the reconsideration form."
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "Q": "When does my claim get edited?",
+            "A": "Claims are reviewed before they are paid (called prepayment review)."
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "Q": "What is the CMS MUE program?",
+            "A": "The CMS MUE program was developed to reduce the paid claims error rate for Medicare claims. MUEs are designed to reduce errors due to clerical entries and incorrect coding based on anatomic considerations, HCPCS/CPT code descriptors, CPT coding instructions, established CMS policies, nature of a service/procedure, nature of an analyte, nature of equipment, and unlikely clinical treatment."
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "Q": "How do I report medically reasonable and necessary units of service in excess of an MUE?",
+            "A": "Since each line of a claim is adjudicated separately (MAI 1) against the MUE of the code on that line, the appropriate use of CPT modifiers to report the same code on separate lines of a claim will enable a provider/supplier to report medically reasonable and necessary units of service in excess of an MUE. CPT modifiers such as -76, -77, anatomic modifiers (e.g., RT, LT, F1, F2), -91, and -59 will accomplish this purpose. Modifier -59 should be utilized only if no other modifier describes the service. For MUEs that are adjudicated as date of service edits (MAI 2 & MAI 3), the total units of service (UOS) from all claim lines for a Healthcare Common Procedure Coding System (HCPCS)/Current Procedural Terminology (CPT) code with the same date of service will be summed and compared to the MUE value. Since all UOS for a HCPCS/CPT code on all claim lines with the same date of service are summed, reporting additional UOS on separate claim lines with a HCPCS/CPT modifier will not result in payment of UOS in excess of the MUE value."
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "Q": "How are claim lines adjudicated against an MUE for a repetitive service reported on a single claim line?",
+            "A": "If a provider reports repetitive services over a range of dates on a single line of a claim with multiple units of service, the provider should report the \"from date\" and \"to date\" on the claim line. UnitedHealthcare Medicare Advantage will divide the units of service reported on the claim line by the number of days in the date span and round to the nearest whole number. This number is compared to the MUE for the code on the claim line."
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "Q": "What are MUE values for bilateral procedures (MPFS) Bilateral Indicator \"1\"?",
+            "A": "The MUE limit set at \"1\" per CMS guidelines the provider should bill with modifier 50 on one line. If the provider bills the procedure on two separate lines with or without modifier RT/LT the MUE rule may apply. There are some procedures that are an exception to this. Please refer to the CMS NCCI Medically Unlikely Edits website."
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "Q": "Can a practitioner use modifiers LT/RT with bilateral codes to exceed the MUE limits when services are performed in an Ambulatory Surgery Center, ASC (POS 24)?",
+            "A": "Per the CMS Manual and NCCI rules the practitioner should use modifier 50 to allow the correct MUE limits for services performed in an Ambulatory Surgical Center. The Ambulatory Surgical Center facility is excluded from the bilateral modifier requirement and should be billed on two lines with an LT/RT modifier."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov Centers for Medicare and Medicaid Services: Transmittal 652, Transmittal 949, Transmittal 1421 Medicare Claims Processing Manual - Chapter 23 - Fee Schedule Administration and Coding Requirements: Section 20.9.3.2-Medically Unlikely Edits National Correct Coding Initiative Edits: NCCI Medically Unlikely Edits The Medicare Learning Network: MM8853, MM5824, SE1422 - MUE and Bilateral Surgery"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 5,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1/1/2025",
+          "value": "Policy Version Change History Section: Entries prior to 1/1/2023 archived"
+        },
+        {
+          "key": "1/1/2024",
+          "value": "Policy Version Change Logo: Updated History Section: Entries prior to 1/1/2022 archived"
+        },
+        {
+          "key": "4/1/2023",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "11/1/2010",
+          "value": "Policy written and published"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "J0207"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "JW",
+    "76",
+    "77",
+    "RT",
+    "LT",
+    "F1",
+    "F2",
+    "91",
+    "59",
+    "50"
+  ]
+}

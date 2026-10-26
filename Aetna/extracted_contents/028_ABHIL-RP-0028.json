@@ -1,0 +1,120 @@
+{
+  "policy_title": "Evaluation & Management (E&M) Services",
+  "policy_number": "ABHIL-RP-0028",
+  "effective_date": "12/01/2020",
+  "expiry_date": "04/01/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for E&M services when appropriately reported. Appropriate reporting \nincludes \n• \nNo more than one unit per E&M code is reported per date of service \n• \nNew patient visits are not reported by a physician or physician group that also reported a \nface-to-face visit within last three years \n• \nNew patient visits are not reported by a facility where the patient was registered for an \ninpatient or outpatient service within last three years \n• \nProblem-oriented E&M services are reported along with preventative services, and the \n25-modifier is appended to indicate a significant and separately identifiable service was \nprovided \n \nClaims that are submitted will be denied when \n• \nMore than one unit per E&M code is reported per date of service \n• \nNew patient visits are reported by a physician or physician group that also reported a \nface-to-face visit within last three years \n• \nNew patient visits are reported by a facility where the patient was registered for an \ninpatient or outpatient service within last three years \n• \nProblem-oriented E&M services are reported along with preventative services, and the \n25-modifier is not appended, and a significant and separately identifiable service was not \nprovided \n \nThe medical record documentation is expected to support the specific CPT code(s), ICD-10-CM \ncodes and modifiers reported.",
+    "subsections": [
+      {
+        "title": "No more than one unit per E&M code is reported per date of service",
+        "content": "No more than one unit per E&M code is reported per date of service"
+      },
+      {
+        "title": "New patient visits are not reported by a physician or physician group that also reported a",
+        "content": "face-to-face visit within last three years"
+      },
+      {
+        "title": "New patient visits are not reported by a facility where the patient was registered for an",
+        "content": "inpatient or outpatient service within last three years"
+      },
+      {
+        "title": "Problem-oriented E&M services are reported along with preventative services, and the",
+        "content": "25-modifier is appended to indicate a significant and separately identifiable service was provided Claims that are submitted will be denied when"
+      },
+      {
+        "title": "More than one unit per E&M code is reported per date of service",
+        "content": "More than one unit per E&M code is reported per date of service"
+      },
+      {
+        "title": "New patient visits are reported by a physician or physician group that also reported a",
+        "content": "face-to-face visit within last three years"
+      },
+      {
+        "title": "New patient visits are reported by a facility where the patient was registered for an",
+        "content": "inpatient or outpatient service within last three years"
+      },
+      {
+        "title": "Problem-oriented E&M services are reported along with preventative services, and the",
+        "content": "25-modifier is not appended, and a significant and separately identifiable service was not provided The medical record documentation is expected to support the specific CPT code(s), ICD-10-CM codes and modifiers reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for E&M services when appropriately reported. Appropriate reporting\nincludes\n• No more than one unit per E&M code is reported per date of service\n• New patient visits are not reported by a physician or physician group that also reported a\nface-to-face visit within last three years\n• New patient visits are not reported by a facility where the patient was registered for an\ninpatient or outpatient service within last three years\n• Problem-oriented E&M services are reported along with preventative services, and the\n25-modifier is appended to indicate a significant and separately identifiable service was\nprovided\nClaims that are submitted will be denied when\n• More than one unit per E&M code is reported per date of service\n• New patient visits are reported by a physician or physician group that also reported a\nface-to-face visit within last three years\n• New patient visits are reported by a facility where the patient was registered for an\ninpatient or outpatient service within last three years\n• Problem-oriented E&M services are reported along with preventative services, and the\n25-modifier is not appended, and a significant and separately identifiable service was not\nprovided\nThe medical record documentation is expected to support the specific CPT code(s), ICD-10-CM\ncodes and modifiers reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "Applicable Modifier\n25 Significant, separately identifiable evaluation and management (E&M)\nservice by the same physician or other qualified health care professional on\nthe same day of the procedure or other service\nApplicable Type of Bill Codes\n012X Hospital inpatient part B\n013X Hospital outpatient\n014X Hospital other part B\n071X Rural health clinic\n072X Clinic hospital based or independent renal dialysis center\n073X Clinic freestanding\n079X Clinic- other",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "25",
+            "value": "Significant, separately identifiable evaluation and management (E&M)\nservice by the same physician or other qualified health care professional on\nthe same day of the procedure or other service"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "012X",
+            "value": "Hospital inpatient part B"
+          },
+          {
+            "key": "013X",
+            "value": "Hospital outpatient"
+          },
+          {
+            "key": "014X",
+            "value": "Hospital other part B"
+          },
+          {
+            "key": "071X",
+            "value": "Rural health clinic"
+          },
+          {
+            "key": "072X",
+            "value": "Clinic hospital based or independent renal dialysis center"
+          },
+          {
+            "key": "073X",
+            "value": "Clinic freestanding"
+          },
+          {
+            "key": "079X",
+            "value": "Clinic- other"
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. CPT Professional Edition 2026, AMA; 2025. \n2. American Medical Association. ICD-10-CM 2026 the Complete Official Codebook, AMA; 2025. \n3. Centers for Medicare & Medicaid Services. (n.d.). Medicare claims processing manual (Pub. \n100-04, Chapter 12, § 30.6.7(A), Payment for office or other outpatient evaluation and \nmanagement (E/M) visits). https://www.cms.gov/regulations-and-\nguidance/guidance/manuals/downloads/clm104c12.pdf"
+}

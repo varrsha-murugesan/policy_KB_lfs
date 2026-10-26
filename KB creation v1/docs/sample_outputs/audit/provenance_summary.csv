@@ -1,0 +1,171 @@
+payer,policy_uid,policy_title,policy_class,mappings,stated_in_text_or_table,stated_in_qa_or_attachment,code_list_field_only,inferred_only,stated_and_inferred,ambiguous,needs_review
+Acme Health,acme_health:c220c969c60e,Acupuncture Coverage,standard,2,2,0,0,0,2,0,0
+Acme Health,acme_health:fc1290cf0fab,Care Coordination Program,standard,1,1,0,0,0,1,0,0
+Humana,humana:478bd4cbb240,Laboratory – Diagnosis of Idiopathic Environmental Intolerance,standard,37,37,0,0,0,0,0,37
+Humana,humana:23682be85479,Laboratory – Cardiovascular Disease Risk Assessment in Adults,standard,25,25,0,0,0,0,0,25
+Humana,humana:84ed404308c9,Laboratory – Intracellular Micronutrient Analysis,standard,23,23,0,0,0,0,0,23
+Humana,humana:cc74e891d7e5,Laboratory – Serum Tumor Markers for Malignancies,standard,23,23,0,0,0,0,0,23
+Humana,humana:6b04a411977e,Laboratory – Biochemical Markers of Alzheimer’s Disease and Dementia,standard,22,22,0,0,0,0,0,22
+Humana,humana:26ed2c5800c0,Laboratory – Testing for Vector-Borne Infections,standard,17,17,0,0,0,0,0,17
+Humana,humana:400cc7ff5710,Laboratory – Urinary Tumor Markers for Bladder Cancer,standard,16,16,0,0,0,0,0,16
+Humana,humana:5e4a58475920,Laboratory – Identification of Select Microorganisms by Nucleic Acid Probes,standard,15,15,0,0,0,0,0,15
+Humana,humana:90bd4e857c46,"Laboratory – Testing for Crohn’s Disease, Ulcerative Colitis and Irritable Bowel Syndrome",standard,14,14,0,0,0,0,0,14
+Humana,humana:0cead8e506c4,Laboratory – Diagnosis of Vaginitis,standard,14,14,0,0,0,0,0,14
+Humana,humana:bc43e908c0cc,Laboratory – Thyroid Disease Testing,standard,14,14,0,0,0,0,0,14
+Humana,humana:d91bac2832e7,Laboratory – Hepatitis Testing,standard,13,13,0,0,0,0,0,13
+Humana,humana:00f9fe075bc7,Laboratory – Testing for Diagnosis of Active or Latent Tuberculosis,standard,13,13,0,0,0,0,0,13
+Humana,humana:dcc482091435,Laboratory – Biomarkers for Myocardial Infarction and Chronic Heart Failure,standard,13,13,0,0,0,0,0,13
+Humana,humana:c3bef6eefc64,Laboratory – Fecal Analysis in the Diagnosis of Intestinal Dysbiosis,standard,12,12,0,0,0,0,0,12
+Humana,humana:6f01aace4f0d,Laboratory – β-Hemolytic Streptococcus Testing,standard,12,12,0,0,0,0,0,12
+Humana,humana:984faa45b3d1,Laboratory – Onychomycosis Testing,standard,10,10,0,0,0,0,0,10
+Humana,humana:d60732d67e3e,Emergency Department E/M Reimbursement,standard,10,10,0,0,0,0,0,10
+Humana,humana:90824c33897e,Laboratory – Allergen Testing,standard,9,9,0,0,0,0,0,9
+Humana,humana:eb9aae12fd9f,Laboratory – Diagnostic Testing for Influenza,standard,8,8,0,0,0,0,0,8
+Humana,humana:a67ea1ff319f,Laboratory – Pancreatic Enzyme Testing for Acute Pancreatitis,standard,8,8,0,0,0,0,0,8
+Humana,humana:dc332f73d597,Laboratory – Venous and Arterial Thrombosis Testing,standard,8,8,0,0,0,0,0,8
+Humana,humana:7d1b820abf26,Laboratory – Biomarker Testing for Autoimmune Rheumatic Disease,standard,7,7,0,0,0,0,0,7
+Humana,humana:a4a805e18835,Laboratory – Urine Culture Testing for Bacteria,standard,7,7,0,0,0,0,0,7
+Humana,humana:28d72c638e00,Laboratory – Hormone Testing,standard,7,7,0,0,0,0,0,7
+Humana,humana:8aa1c71bfa48,Laboratory – In Vitro Chemo-Resistance and Chemo- Sensitivities Assay,standard,7,7,0,0,0,0,0,7
+Humana,humana:aeac164a3356,Laboratory – Lyme Disease,standard,7,7,0,0,0,0,0,7
+Humana,humana:a0cc5747d6fe,Long-Acting Reversible Contraception While Inpatient Postpartum,standard,6,6,0,0,0,0,0,6
+Humana,humana:b332fedc9485,Laboratory – HIV Genotyping and Phenotyping,standard,6,6,0,0,0,0,0,6
+Humana,humana:e8a1db5db885,Chiropractic Services for Acute Treatment,standard,6,3,0,0,3,0,3,6
+Humana,humana:6d587dc878ea,Anesthesia Services,standard,6,6,0,0,0,0,0,6
+Humana,humana:1950707eb591,Laboratory – Serum Biomarker Testing for Multiple Sclerosis and Related Neurologic Diseases,standard,5,5,0,0,0,0,0,5
+Humana,humana:19eb4b3b788a,"Laboratory – Parathyroid Hormone, Phosphorus, Calcium and Magnesium Testing",standard,5,5,0,0,0,0,0,5
+Humana,humana:08f1ec0b53e7,Ambulance Services,standard,4,4,0,0,0,0,0,4
+Humana,humana:7925ae165c8e,Laboratory – Diabetes Mellitus Testing,standard,4,3,0,0,1,0,0,4
+Humana,humana:199eb4c06b2d,Status B Codes,standard,4,4,0,0,0,0,0,4
+Humana,humana:6d99f61db295,Laboratory – Hemoglobin A1c,standard,4,3,0,0,1,0,0,4
+Humana,humana:c26fcb05fa09,Reimbursement Level of Certain Evaluation and Management (E/M) Services,standard,4,4,0,0,0,0,0,4
+Humana,humana:77171f49f10b,Laboratory – Bone Turnover Markers Testing,standard,4,4,0,0,0,0,0,4
+Humana,humana:ba4bc4d073d5,Laboratory – Immune Cell Function Assay,standard,3,3,0,0,0,0,0,3
+Humana,humana:17b2ca96bd29,Telehealth and Other Virtual Services,standard,3,3,0,0,0,0,0,3
+Humana,humana:7205a838de3a,Screening Colonoscopy,standard,3,0,0,0,3,0,2,3
+Humana,humana:85cc5529ee5f,Laboratory – General Inflammation Testing,standard,3,3,0,0,0,0,0,3
+Humana,humana:7b9b70f37ae6,Initial Preventive Physical Examination and Annual Wellness Visit,standard,3,3,0,0,0,0,0,3
+Humana,humana:07af210a740b,Acupuncture for Chronic Lower Back Pain,standard,2,0,0,0,2,0,1,2
+Humana,humana:3d550dfaf871,Laboratory – Epithelial Cell Cytology in Breast Cancer Risk Assessment,standard,2,2,0,0,0,0,0,2
+Humana,humana:958d70d571d6,Laboratory – Diagnostic Testing of Iron Homeostasis and Metabolism,standard,2,2,0,0,0,0,0,2
+Humana,humana:37b1064823a4,Common CPT and HCPCS Modifiers,standard,2,2,0,0,0,0,0,2
+Humana,humana:f753fce6f553,Assistant at Surgery Reimbursement,standard,2,2,0,0,0,0,0,2
+Humana,humana:d2295d759a71,Laboratory – Testing for Alpha1 Anti-trypsin Deficiency,standard,2,2,0,0,0,0,0,2
+Humana,humana:52aafe72d084,Laboratory – Oral Screening Lesion Identification Systems,standard,2,2,0,0,0,0,0,2
+Humana,humana:5fa41c15841a,Transitional Care Management,standard,2,2,0,0,0,0,0,2
+Humana,humana:d649425b55bd,Laboratory – Testing of Homocysteine Metabolism-Related Conditions,standard,1,1,0,0,0,0,0,1
+Humana,humana:6ae5758588e6,Chronic Care Management and Principal Care Management,standard,1,0,0,0,1,0,0,1
+Humana,humana:7358bdc2cf63,Laboratory – Folate Testing,standard,1,1,0,0,0,0,0,1
+Humana,humana:77deab34de8b,Laboratory – Vitamin B12 Testing,standard,1,1,0,0,0,0,0,1
+Humana,humana:f494cd886d34,National Drug Code Billing Requirement,standard,1,1,0,0,0,0,0,1
+Humana,humana:6dee3501e83f,Radiation Therapy Management – CPT code 77427,standard,1,1,0,0,0,0,0,1
+Humana,humana:b64e23a48eb1,Laboratory – Helicobacter Pylori Testing,standard,1,1,0,0,0,0,0,1
+Humana,humana:4e4bf7c8b140,Self-Administered Drugs While Outpatient in a Hospital,standard,1,1,0,0,0,0,0,1
+Humana,humana:ad5044cdf524,Laboratory – Prostate Biopsies,standard,1,1,0,0,0,0,0,1
+Humana,humana:ec1fe586115d,Laboratory – Nerve Fiber Density Testing,standard,1,1,0,0,0,0,0,1
+UnitedHealthcare,unitedhealthcare:d54ef3d42790,Add-on Codes Policy,code_list_policy,16727,14,16713,0,0,0,0,16727
+UnitedHealthcare,unitedhealthcare:d250041de825,Add-on Codes Policy,code_list_policy,6263,3,6258,2,0,0,0,6263
+UnitedHealthcare,unitedhealthcare:80503ba2d460,Assistant-at-Surgery Policy,code_list_policy,2818,10,2808,0,0,0,0,2818
+UnitedHealthcare,unitedhealthcare:0de7e1d46105,Co-Surgeon / Team Surgeon Policy,code_list_policy,2814,4,2810,0,0,0,0,2814
+UnitedHealthcare,unitedhealthcare:2892875f8d01,Ambulance Policy,code_list_policy,2566,20,2546,0,0,0,0,2566
+UnitedHealthcare,unitedhealthcare:e73ea0ea06b2,Bilateral Procedures Policy,code_list_policy,2552,9,2543,0,0,0,0,2552
+UnitedHealthcare,unitedhealthcare:da508e5266d6,Services Included in Facility Reimbursement Policy,code_list_policy,1037,5,1022,10,0,0,0,1037
+UnitedHealthcare,unitedhealthcare:7ae28edc9961,Split Surgical Package Policy,code_list_policy,898,0,888,10,0,0,0,898
+UnitedHealthcare,unitedhealthcare:efa88a849d7e,"Professional/Technical Component, Professional - Reimbursement Policy",code_list_policy,726,9,717,0,0,0,0,726
+UnitedHealthcare,unitedhealthcare:b0532f5ace91,"Rebundling and NCCI Edits, Professional - Reimbursement Policy",code_list_policy,448,5,435,8,0,0,0,448
+UnitedHealthcare,unitedhealthcare:f5d8519bb989,Bilateral Procedures Policy,code_list_policy,444,0,436,8,0,0,0,444
+UnitedHealthcare,unitedhealthcare:461ad94d1177,"Incident To Services, Professional - Reimbursement Policy",code_list_policy,327,0,323,2,2,0,2,327
+UnitedHealthcare,unitedhealthcare:d603742c5d70,Anesthesia Policy,code_list_policy,222,219,3,0,0,0,0,222
+UnitedHealthcare,unitedhealthcare:cc4b7c975450,Time Span Codes Policy,standard,137,13,124,0,0,0,0,137
+UnitedHealthcare,unitedhealthcare:1eaf439e1879,"Once in a Lifetime Procedures, Professional - Reimbursement Policy",standard,133,4,129,0,0,0,0,133
+UnitedHealthcare,unitedhealthcare:c78eaaef6959,Laboratory Services Policy,standard,132,35,85,12,0,0,0,132
+UnitedHealthcare,unitedhealthcare:ca15b78266c3,Age-Based Codes Policy,standard,102,0,102,0,0,0,0,102
+UnitedHealthcare,unitedhealthcare:f0c6d27d503c,Evaluation and Management (E/M) Policy,standard,56,18,38,0,0,0,0,56
+UnitedHealthcare,unitedhealthcare:5052082cd014,New Patient Visit Policy,standard,55,0,55,0,0,0,0,55
+UnitedHealthcare,unitedhealthcare:150f9cb2f9b8,B Bundle Codes Policy,standard,47,0,0,47,0,0,0,47
+UnitedHealthcare,unitedhealthcare:a02380f27865,National Drug Code (NDC) Requirement Professional and Facility Policy,standard,44,0,43,1,0,0,0,44
+UnitedHealthcare,unitedhealthcare:a45f60413618,CCI Editing Policy,standard,35,5,29,1,0,0,0,35
+UnitedHealthcare,unitedhealthcare:ab186cf6d88f,Emergency Department (ED) Facility Evaluation and Management (E&M) Coding Policy,standard,32,2,28,2,0,0,0,32
+UnitedHealthcare,unitedhealthcare:c697afccaaae,Intracellular Micronutrient Analysis Policy,standard,24,24,0,0,0,0,0,24
+UnitedHealthcare,unitedhealthcare:6b8e2abeb750,Anatomical Modifier Requirement Policy,standard,23,23,0,0,0,0,0,23
+UnitedHealthcare,unitedhealthcare:bb9437315573,Care Plan Oversight Policy,standard,21,21,0,0,0,0,0,21
+UnitedHealthcare,unitedhealthcare:c-2585f2d68548,11/1/2024 – UnitedHealthcare Commercial Reimbursement Policy,extraction_failure,21,0,0,21,0,0,0,21
+UnitedHealthcare,unitedhealthcare:7d08b0c07409,Mohs Micrographic Surgery Policy,standard,19,15,3,1,0,0,0,19
+UnitedHealthcare,unitedhealthcare:8247b2385ec4,Cardiovascular Disease Risk Assessment Policy,standard,18,18,0,0,0,0,0,18
+UnitedHealthcare,unitedhealthcare:53328e37ba1d,Multiple Procedure Payment Reduction (MPPR) for Medical and Surgical Services Policy,standard,18,1,15,0,2,0,2,18
+UnitedHealthcare,unitedhealthcare:964a73e80ce4,"Non-Chemotherapy Injection and Infusion Services, Professional - Reimbursement Policy",standard,18,7,10,1,0,0,0,18
+UnitedHealthcare,unitedhealthcare:c-9e1dc912490a,2/1/2025 – UnitedHealthcare Commercial Reimbursement Policy,extraction_failure,17,0,0,17,0,0,0,17
+UnitedHealthcare,unitedhealthcare:c-bf38e26e1530,3/1/2025 – UnitedHealthcare Commercial Reimbursement Policy,extraction_failure,17,0,0,17,0,0,0,17
+UnitedHealthcare,unitedhealthcare:3f7e8e1a0678,"Radiation Therapy Planning, Dosimetry, Simulation/Devices and Management Policy",standard,16,16,0,0,0,0,0,16
+UnitedHealthcare,unitedhealthcare:7d74debd69a5,Global Days Policy,standard,15,5,7,0,3,0,3,15
+UnitedHealthcare,unitedhealthcare:42f7eaf5c883,Anesthesia Services Policy,standard,15,14,0,0,1,0,0,15
+UnitedHealthcare,unitedhealthcare:6cd093fccd57,Diagnostic Testing for Inflammatory Bowel Disease Policy,standard,14,13,0,1,0,0,0,14
+UnitedHealthcare,unitedhealthcare:c-d65772b0ddb3,4/1/2025 – UnitedHealthcare Commercial Reimbursement Policy,extraction_failure,14,0,0,14,0,0,0,14
+UnitedHealthcare,unitedhealthcare:462e9ab4b53f,Supply Policy,standard,13,13,0,0,0,0,0,13
+UnitedHealthcare,unitedhealthcare:ace87223bf55,Flow Cytometry Policy,standard,13,13,0,0,0,0,0,13
+UnitedHealthcare,unitedhealthcare:4e9685d71d1d,Telehealth and Telemedicine Policy,standard,13,13,0,0,0,0,0,13
+UnitedHealthcare,unitedhealthcare:ff717b51a8db,Observation and Discharge Policy,standard,12,10,0,0,2,0,2,12
+UnitedHealthcare,unitedhealthcare:f8d2eb5dd101,Allergen Testing Policy,standard,12,12,0,0,0,0,0,12
+UnitedHealthcare,unitedhealthcare:bf0dae9cc2d2,Intestinal Dysbiosis and Fecal Microbiota Transplant Testing Policy,standard,12,12,0,0,0,0,0,12
+UnitedHealthcare,unitedhealthcare:356f38266bc7,Acupuncture Policy,standard,12,10,0,0,2,0,2,12
+UnitedHealthcare,unitedhealthcare:4aad6bcef0dc,Allergen Testing Policy,standard,12,12,0,0,0,0,0,12
+UnitedHealthcare,unitedhealthcare:1338c1f1b549,Intensity Modulated Radiation Therapy (IMRT) Policy,standard,11,3,0,8,0,0,0,11
+UnitedHealthcare,unitedhealthcare:c-0bdd9719d42b,1/1/2025 – UnitedHealthcare Commercial Reimbursement Policy,extraction_failure,11,0,0,11,0,0,0,11
+UnitedHealthcare,unitedhealthcare:b75d3beb41dd,"Same Day, Same Service Policy",standard,10,6,4,0,0,0,0,10
+UnitedHealthcare,unitedhealthcare:c-c849a4676d05,01/01/2025 – UnitedHealthcare Medicare Advantage Reimbursement Policy,extraction_failure,8,0,0,8,0,0,0,8
+UnitedHealthcare,unitedhealthcare:c-c849a4676d05-2,01/01/2025 – UnitedHealthcare Medicare Advantage Reimbursement Policy,extraction_failure,8,0,0,8,0,0,0,8
+UnitedHealthcare,unitedhealthcare:c-8634b5aed8aa,,extraction_failure,8,0,0,8,0,0,0,8
+UnitedHealthcare,unitedhealthcare:d15ebfd98713,Testosterone Policy,standard,8,8,0,0,0,0,0,8
+UnitedHealthcare,unitedhealthcare:b420ee3ba0db,Diagnostic Testing for Influenza Policy,standard,8,8,0,0,0,0,0,8
+UnitedHealthcare,unitedhealthcare:1a83e2473c7a,"Discarded Drugs and Biologicals, Professional - Reimbursement Policy",standard,8,7,1,0,0,0,0,8
+UnitedHealthcare,unitedhealthcare:c-e69a992cb130,08/01/2026 – UnitedHealthcare Medicare Advantage Reimbursement Policy,extraction_failure,8,0,0,8,0,0,0,8
+UnitedHealthcare,unitedhealthcare:c-a14b4c9abb41,12/1/2024 – UnitedHealthcare Commercial Reimbursement Policy,extraction_failure,8,0,0,8,0,0,0,8
+UnitedHealthcare,unitedhealthcare:c-5aaba4ff3a7b,12/01/2024 – UnitedHealthcare Medicare Advantage Reimbursement Policy,extraction_failure,8,0,0,8,0,0,0,8
+UnitedHealthcare,unitedhealthcare:7417dcb3d5d1,In Vitro Chemotherapy Assays Policy,standard,8,7,0,1,0,0,0,8
+UnitedHealthcare,unitedhealthcare:c-3af91caff1fa,11/01/2024 – UnitedHealthcare Medicare Advantage Reimbursement Policy,extraction_failure,8,0,0,8,0,0,0,8
+UnitedHealthcare,unitedhealthcare:b9fc7d6eb1c5,Autoimmune Rheumatic Disease Policy,standard,7,7,0,0,0,0,0,7
+UnitedHealthcare,unitedhealthcare:c-3d5c934fbacf,07/01/2026 – UnitedHealthcare Medicare Advantage Reimbursement Policy,extraction_failure,7,0,0,7,0,0,0,7
+UnitedHealthcare,unitedhealthcare:1738235a28ee,Drug Testing Policy,standard,7,5,0,2,0,0,0,7
+UnitedHealthcare,unitedhealthcare:57aa8e4332bd,Autoimmune Rheumatic Disease Policy,standard,7,7,0,0,0,0,0,7
+UnitedHealthcare,unitedhealthcare:24ebcfa6dd57,Enzyme Testing for Acute Pancreatitis Policy,standard,7,7,0,0,0,0,0,7
+UnitedHealthcare,unitedhealthcare:a928f27bedf3,Hepatic Fibrosis Testing Chronic Liver Disease Policy,standard,7,7,0,0,0,0,0,7
+UnitedHealthcare,unitedhealthcare:dfb8c7d1bf40,"Multiple Procedure Payment Reduction (MPPR) for Diagnostic Cardiovascular and Ophthalmology Procedures, Professional - Reimbursement Policy",standard,6,2,0,4,0,0,0,6
+UnitedHealthcare,unitedhealthcare:f3d593ce4c20,After Hours and Weekend Care Policy,standard,6,6,0,0,0,0,0,6
+UnitedHealthcare,unitedhealthcare:cfb492dd3106,Lyme Disease Testing Policy,standard,6,6,0,0,0,0,0,6
+UnitedHealthcare,unitedhealthcare:3df7b57a3c8a,Epithelial Cell Cytology Policy,standard,5,5,0,0,0,0,0,5
+UnitedHealthcare,unitedhealthcare:c-5ef7ab60cd9c,7/1/2025 – UnitedHealthcare Commercial Reimbursement Policy,extraction_failure,5,0,0,5,0,0,0,5
+UnitedHealthcare,unitedhealthcare:c-36a3802c093a,8/1/2025 – UnitedHealthcare Commercial Reimbursement Policy,extraction_failure,5,0,0,5,0,0,0,5
+UnitedHealthcare,unitedhealthcare:c-35cebda9fe9d,9/1/2025 – UnitedHealthcare Commercial Reimbursement Policy,extraction_failure,5,0,0,5,0,0,0,5
+UnitedHealthcare,unitedhealthcare:7801328d0272,Bone Turnover Marker Testing of Osteoporosis Policy,standard,4,4,0,0,0,0,0,4
+UnitedHealthcare,unitedhealthcare:b455a1642230,Bone Turnover Marker Testing for Osteoporosis Policy,standard,4,4,0,0,0,0,0,4
+UnitedHealthcare,unitedhealthcare:c41e931dc206,Standby Services Policy,standard,4,4,0,0,0,0,0,4
+UnitedHealthcare,unitedhealthcare:c-322b67795d63,1/1/2026 – UnitedHealthcare Commercial Reimbursement Policy,extraction_failure,4,0,0,4,0,0,0,4
+UnitedHealthcare,unitedhealthcare:c-b0266c69b260,12/1/2025 – UnitedHealthcare Commercial Reimbursement Policy,extraction_failure,4,0,0,4,0,0,0,4
+UnitedHealthcare,unitedhealthcare:5cb1aaf26c17,Multiple Procedure Payment Reduction (MPPR) for Diagnostic Imaging Policy,standard,4,1,3,0,0,0,0,4
+UnitedHealthcare,unitedhealthcare:c-99fb3a0dcc8a,12/01/2025 – UnitedHealthcare Medicare Advantage Reimbursement Policy,extraction_failure,3,0,0,3,0,0,0,3
+UnitedHealthcare,unitedhealthcare:50b9af912a65,"Durable Medical Equipment, Orthotics and Prosthetics Policy",standard,3,3,0,0,0,0,0,3
+UnitedHealthcare,unitedhealthcare:c-f5af83d5d91b,01/01/2026 – UnitedHealthcare Medicare Advantage Reimbursement Policy,extraction_failure,3,0,0,3,0,0,0,3
+UnitedHealthcare,unitedhealthcare:a553562e99d9,Anatomical Modifier Requirement Policy,standard,3,3,0,0,0,0,0,3
+UnitedHealthcare,unitedhealthcare:c-c496072ef473,11/1/2025 – UnitedHealthcare Commercial Reimbursement Policy,extraction_failure,3,0,0,3,0,0,0,3
+UnitedHealthcare,unitedhealthcare:6ecf9fa5753d,Procedure to Modifier Policy,standard,3,3,0,0,0,0,0,3
+UnitedHealthcare,unitedhealthcare:6633e60d035b,Immune Cell Function Assay Policy,standard,3,3,0,0,0,0,0,3
+UnitedHealthcare,unitedhealthcare:a2c5ed82c0b8,Onychomycosis Testing Policy,standard,3,3,0,0,0,0,0,3
+UnitedHealthcare,unitedhealthcare:22dd5fc53036,Diabetes Mellitus Testing Policy,standard,3,2,0,0,1,0,0,3
+UnitedHealthcare,unitedhealthcare:f2c996782682,"Nonphysician Health Care Professionals Billing Evaluation and Management, Professional - Reimbursement Policy",standard,2,2,0,0,0,0,0,2
+UnitedHealthcare,unitedhealthcare:3311c31f8baa,Molecular Syndromic Panels for Infectious Disease Pathogen Identification Testing Policy,standard,2,0,2,0,0,0,0,2
+UnitedHealthcare,unitedhealthcare:725a90962855,Molecular Pathology Policy,standard,2,1,0,1,0,0,0,2
+UnitedHealthcare,unitedhealthcare:d31e646bfd60,Increased Procedural Services Policy,standard,2,2,0,0,0,0,0,2
+UnitedHealthcare,unitedhealthcare:f726d48136eb,Iron Homeostasis and Metabolism Policy,standard,2,2,0,0,0,0,0,2
+UnitedHealthcare,unitedhealthcare:e49cca7c6fd9,Intraoperative Neuromonitoring Policy,standard,2,2,0,0,0,0,0,2
+UnitedHealthcare,unitedhealthcare:b99a49bc16b2,Vitamin B12 Testing Policy,standard,2,2,0,0,0,0,0,2
+UnitedHealthcare,unitedhealthcare:c-c15788caec9b,6/1/2026 – UnitedHealthcare Commercial Reimbursement Policy,extraction_failure,1,0,0,1,0,0,0,1
+UnitedHealthcare,unitedhealthcare:89b783b538b4,From – To Date Policy,standard,1,1,0,0,0,0,0,1
+UnitedHealthcare,unitedhealthcare:c-6f087c805863,6/1/2025 – UnitedHealthcare Commercial Reimbursement Policy,extraction_failure,1,0,0,1,0,0,0,1
+UnitedHealthcare,unitedhealthcare:c-ba0b5be764a1,2/1/2026 – UnitedHealthcare Commercial Reimbursement Policy,extraction_failure,1,0,0,1,0,0,0,1
+UnitedHealthcare,unitedhealthcare:10c3459cce18,Homocysteine Testing for Metabolism Policy,standard,1,1,0,0,0,0,0,1
+UnitedHealthcare,unitedhealthcare:3f9514aeca1c,"Procedure and Place of Service, Professional - Reimbursement Policy",standard,1,1,0,0,0,0,0,1
+UnitedHealthcare,unitedhealthcare:471f3a30943e,Fecal Calprotectin Testing Policy,standard,1,1,0,0,0,0,0,1
+UnitedHealthcare,unitedhealthcare:6dc9290edfaf,Medically Unlikely Edits (MUE) Policy,standard,1,0,1,0,0,0,0,1
+UnitedHealthcare,unitedhealthcare:1b84680f1d70,Co-Surgeon/Team Surgeon Policy,standard,1,0,1,0,0,0,0,1
+UnitedHealthcare,unitedhealthcare:635b202993b3,Chronic Heart Failure Policy,standard,1,1,0,0,0,0,0,1
+UnitedHealthcare,unitedhealthcare:b47f091f12ff,Chronic Heart Failure Policy,standard,1,1,0,0,0,0,0,1

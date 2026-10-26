@@ -1,0 +1,186 @@
+{
+  "policy_title": "Procedure to Modifier Policy",
+  "policy_number": "2026R9030A",
+  "policy_dates": {
+    "effective_date": "5/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "According to the American Medical Association (AMA) and the Centers for Medicare and Medicaid Services (CMS), a modifier provides the means to report or indicate that a service or procedure that has been performed has been altered by some specific circumstance but not changed in its definition or code. It may also provide more information about a service such as it was performed more than once, unusual events occurred, or it was performed by more than one physician and/or in more than one location."
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "This policy addresses the appropriate use of modifiers with individual CPT and HCPCS procedure codes. UnitedHealthcare Medicare Advantage sources its procedure code to modifier relationships to methodologies used and recognized by third-party authorities. Those methodologies can be definitive or interpretive. A Definitive Source is one that is based on very specific instructions from the given source. An Interpretive Source is one that is based on an interpretation of instructions from the identified source. In accordance with correct coding, UnitedHealthcare Medicare Advantage will consider reimbursement for a procedure code/modifier combination only when the modifier has been used appropriately. Note that any procedure code reported with an appropriate modifier may also be subject to other UnitedHealthcare Medicare Advantage reimbursement policies. For example, the description for modifier 25 specifies that it is to be reported with an Evaluation and Management (E/M) service. Therefore, a surgical code, e.g., 62263, appended with modifier 25 will not be reimbursed because according to its description it should only be appended to E/M codes.",
+      "children": [
+        {
+          "title": "Therapy Services Requiring a Modifier",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "To better align with CMS, effective for claims processed after Sept. 1, 2018 received with date of service Jan. 1, 2018 and after, UnitedHealthcare Medicare Advantage will require one of the three therapy modifiers − GN, GO, or GP on specific sets of CPT/HCPCS codes in order to identify when each outpatient therapy (OPT) service is furnished under a Speech-language pathology (SLP), occupational therapy (OT) and physical therapy (PT) services plan of care. UnitedHealthcare Medicare Advantage will reject claims that do not contain one of the designated modifiers assigned by CMS. Each code designated as \"always therapy\" must always be furnished under an SLP, OT, or PT plan of care, regardless of who furnishes them; and, as such, must always be accompanied by one of the therapy modifiers. In addition, several \"always therapy\" codes have been identified as discipline specific - requiring the GN modifier, the GO modifier, or the GP modifier where applicable. CMS has established two modifiers, CQ and CO, for services furnished in whole or in part by physical therapist assistants (PTAs) and occupational therapy assistants (OTAs). Effective for claims with dates of service on and after January 1, 2020, the CQ and CO modifiers are required to be used, when applicable, for services furnished in whole or in part by PTAs and OTAs on the claim line of the service alongside the respective GP or GO therapy modifier, to identify those PTA and OTA services furnished under a PT or OT plan of care. CMS is implementing the final part of section 53107 of the Bipartisan Budget Act of 2018, which requires CMS, through the use of new modifiers (CQ and CO), to identify and make payment at 85% of the otherwise applicable Part B payment amount for physical therapy and occupational therapy services furnished in whole or in part by physical therapist assistants (PTAs) and occupational therapy assistants (OTAs) ─ when they are appropriately supervised by a physical therapist (PT) or occupational therapist (OT), respectively ─ for dates of service on and after January 1, 2022. In accordance with the CMS final rule, UnitedHealthcare Medicare Advantage will reimburse providers with Medicare Fee for Service (FFS) contract agreements at 85% of the otherwise applicable Part B payment amount. The specific sets of CPT/HCPCS codes can be found at the following website. https://www.cms.gov/Medicare/Billing/TherapyServices/AnnualTherapyUpdate.html"
+        },
+        {
+          "title": "Radiology Reduction Modifiers",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "Effective for claims with dates of service on or after April 1, 2020; UnitedHealthcare Medicare Advantage will implement reductions to the technical component (TC) payment and the TC portion of the global fee of radiological services when appended with the CT, FX or FY modifiers as follows: - Modifier CT: - CAT scans furnished on non-NEMA Standard XR-29-2013-compliant equipment - Payment reduction of 15% will be applied to the TC payment portion - Modifier FX: - Imaging services that are X-rays taken using film - Payment reduction applied to the TC payment portion will be 20% beginning January 1,2017. - Modifier FY: - Imaging services that involve cassette-based imaging which utilizes an imaging plate to create the image - Payment reduction applied to the TC payment portion will be 20% for 2017, 7% for 2018 through 2022, and 10% beginning January 1, 2023."
+        },
+        {
+          "title": "Transportation Component HCPCS Code R0075",
+          "level": 2,
+          "confirmed": true,
+          "page": 3,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "Effective with dates of service on or after February 1, 2021, UnitedHealthcare Medicare Advantage will deny procedure code R0075 when billed without the applicable modifier consistent with the CMS requirement that modifiers (UN, UP, UQ, UR, US) are required to be reported with HCPCS code R0075 when billing Medicare carriers for portable x-rays. The five modifiers are used to report the number of patients served during a single trip that the portable x-ray supplier makes to a particular location."
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Definitive Source",
+          "value": "Definitive Sources contain the exact codes, modifiers, or very specific instructions from the given source."
+        },
+        {
+          "key": "Interpretive Source",
+          "value": "An edit source that includes guidelines; however, no exact or specific code or modifier information is listed. Therefore, an interpretation must be made as to what codes correlate to the guidelines. Additionally, an interpretation may be applied to surrounding or similar codes based on related definitively sourced edits."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Why aren't all CPT and HCPCS modifiers addressed in this policy?",
+            "A": "The intent of the Procedure to Modifier Policy is to validate appropriate modifier usage and is not meant to address all possible modifier situations. Modifiers not addressed by this policy may have: a) no third-party industry standard source, policies or guidelines to direct development of specific coding relationships or edits; b) a more detailed reimbursement methodology than the scope of this policy is intended, e.g. 26, TC, AA, QK; or c) contractual or benefit coverage implications, e.g., 33"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Does UnitedHealthcare Medicare Advantage require modifiers for biosimilar drugs?",
+            "A": "For dates of service on or after August 1, 2017, through March 31, 2018, UnitedHealthcare Medicare Advantage does require HCPCS codes for biosimilar drugs to have the modifier that corresponds to the pharmaceutical manufacturer."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association, Current Procedural Terminology (CPT) and associated publications and services Centers for Medicare and Medicaid Services, CMS Manual System and other CMS publications and services: - CMS Annual Therapy Update - Medicare Benefit Policy Manual Chapter 15 - Covered Medical and Other Health Services: Section 80.4. - Medicare Claims Processing Manual Chapter 5 - Part B Outpatient Rehabilitation and CORF/OPT Services: Section: 10.3.4, 20.1. - Medicare Claims Processing Manual Chapter 13 - Radiology Services and Other Diagnostic Procedures: Section 20.2.4, 20.2.5, 90.2 and 90.3. - MLN Matters Updates Editing of Always Therapy Services-MM10176 - MLN Matters Quarterly HCPCS Drug/Biological Code Changes July 2016 Updates - MM9636 - NCCI Manual for Medicare Chapter 1 - Modifiers and Modifier Indicators: Section E"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "5/1/2026",
+          "value": "Policy Version Change Resource section: Updated History section: Entries prior to 5/1/2024 archived"
+        },
+        {
+          "key": "5/1/2025",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "8/8/2024",
+          "value": "Policy Version Change Application Section: Updated Modifier FX Section: Updated History Section: Entries prior to 8/8/2024 archived"
+        },
+        {
+          "key": "5/1/2024",
+          "value": "Policy Version Change History Section: Entries prior to 5/1/2022 archived."
+        },
+        {
+          "key": "8/1/2017",
+          "value": "Policy implemented by UnitedHealthcare Medicare Advantage"
+        },
+        {
+          "key": "1/11/2017",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "62263",
+    "53107",
+    "R0075"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "25",
+    "GN",
+    "GO",
+    "GP",
+    "CQ",
+    "CO",
+    "PT",
+    "85",
+    "CT",
+    "FX",
+    "FY",
+    "UN",
+    "UP",
+    "UQ",
+    "US"
+  ]
+}

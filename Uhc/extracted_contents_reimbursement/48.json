@@ -1,0 +1,291 @@
+{
+  "policy_title": "Evaluation and Management (E/M) Policy",
+  "policy_number": "2026R5007A",
+  "policy_dates": {
+    "effective_date": "4/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "This policy is intended to address Evaluation and Management (E/M) services. The E/M coding section of the CPT book is divided into broad categories with further sub-categories which describe various E/M service classifications. The classification of the E/M service is important because the nature of the work varies by type of service, place of service, the patient's medical status, and other code criteria, along with the amount of provider work and documentation required. The key components appear in the descriptors for most basic E/M codes and many code categories describe increasing levels of complexity. This reimbursement policy explains when medical records may be requested to ensure that the appropriate level of CPT E/M code is reimbursed based on the health care services provided. The code(s) reported by physicians or other health care professionals should best represent the services provided based on the American Medical Association (AMA) and CMS documentation guidelines"
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Evaluation and Management E/M Documentation Requirements",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "In alignment with Office and Outpatient Evaluation and Management Coding Guidelines (99202-99205, 99211-99215) changes that were effective January 1, 2021, the CPT codes section for Non-Office E/M Visits (99221-99223, 99231- 99239), Emergency Department Services codes (99281-99285), Nursing Facility Services codes (99304-99310, 99315, 99316), Home or Residence Services codes (99341,99342, 99344, 99345, 99347-99350) were revised January 1, 2023. Except for CPT codes 99281-99285, providers may choose the appropriate E/M level of care based on either Time or Medical Decision Making (MDM). CPT codes 99281-99285 use only MDM to determine level of care."
+        },
+        {
+          "title": "Selecting the Level of Service Based on Time",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "Time documentation criteria for time spent face-to-face or non-face-to-face may include, but not are limited to: - Examination/Evaluation - Counseling/Education - Prep time for patient history/test reviews - Documentation/Interpretation - Care Coordination/Referring and Communication with other health care providers - Orders for tests, procedures, and medication Time documentation criteria for time spent face-to-face or non-face-to-face may not include: - Time spent by clinical staff - Patient wait time for physician or other health care providers - Additional distinct service procedures provided the same day as the evaluation and management service"
+        },
+        {
+          "title": "Selecting the Level of Services Based on Medical Decision Making (MDM)",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "1. Number and complexity of problem(s) addressed 2. Amount and/or complexity of data reviewed and analyzed - Orders for, and interpretation of data from a test or image cannot be included when determining the E/M level of service if the test or image interpretation is billed separately 3. Risk of complications and/or morbidity or mortality of patient management - UHC Medicare Advantage will continue to use the definitions from the CMS Manual System's Pub 100 Medicare Claims Processing, 40.1 - Definition of a Global Surgical Package, \"Codes with \"090\" in Field 16 are major surgeries. Codes with \"000\" or \"010\" are either minor surgical procedures or endoscopies.\" When determining the level of MDM, two of the three elements for that level must be met or exceeded. Additional information regarding the code selection based on Time or MDM and the requirements for each can be found in the most current edition of the American Medical Association CPT codebook. Note: A provider's level of care escalation data and parental narcotic use data may be compared to their historical data and to peer data."
+        },
+        {
+          "title": "New Patient or Established Patient Status for Emergency Department Visits:",
+          "level": 2,
+          "confirmed": true,
+          "page": 3,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "Time is not a descriptive component for emergency department E/M levels of service. Providers must use CPT codes 99281-99285 for emergency department visits (Place of Service 23) for both established patients and new patients for the emergency department visit. (Note: Providers or other healthcare professionals who are requested to serve as a consult should utilize the appropriate E/M code administered.) Providers may experience adjustments to or denials of the office visit or other outpatient E/M code or emergency department E/M code reported if the documentation does not support the E/M level submitted. The provider may resubmit the claim with a revised E/M code for denied claims."
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Encounter",
+          "value": "Interaction between a covered member and a health care provider for which evaluation and management service or other service(s) are rendered and results in a claim submission"
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "When a separate written report for diagnostic services (i.e. 93000, 93005, 93010) is prepared by the same provider or provider group performing the E/M service, should this be counted in the determining the level of care?",
+            "A": "No. Per AMA guidelines: When the physician or other qualified health care professional is reporting a separate CPT code that includes interpretation and/or report, the interpretation and/or report should not be counted in the medical decision making or the reported time calculation when selecting a level of office or other E/M service."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Will UnitedHealthcare Medicare Advantage require medical records for all reported E/M services?",
+            "A": "No. UnitedHealthcare Medicare Advantage may request medical records when the data indicates a physician or other health care professional has a billing pattern that deviates significantly from their peers, or claim attributes indicate possible billing errors."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "How does the policy apply to Electronic Health Record use?",
+            "A": "While there is no prohibition on the use of proprietary templates, documentation from either an electronic health record (EHR) or hard-copy that appears to be cloned (selected information from one source and replicated in another location by copy-paste methods) from another record, including but not limited to history of present illness (HPC), exam, and MDM, would not be acceptable documentation to support the claim as billed. The documentation guidelines apply to any medical record produced."
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "Q": "The services provided to the patient meet the time requirement of 24 minutes for code 99213 but do not meet the required 2 out of 3 MDM elements. Is it appropriate to select the appropriate CPT code based on time?",
+            "A": "Yes. The selection of the appropriate E/M code can be determined by either utilizing the time or MDM requirement except for CPT codes 99281-99285."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Attachments",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "E&M Code List",
+          "value": "Evaluation and Management Procedure Codes"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association (AMA) Current Procedural Terminology (CPT) Centers for Medicare and Medicaid Services, MFS for All Fee for Service Providers Center Centers for Medicare and Medicaid Services, CMS Manual System and other CMS publications and services including but not limited to 1995/1997 guidelines: 1995 Guidelines and 1997 Guidelines: CMS-1734-F 2021 final rule Final Policy, Payment, and Quality Provisions Changes to the Medicare Physician Fee Schedule for Calendar Year 2021 Medicare Claims Processing Manual - Chapter 12 - Physicians/Nonphysician Practitioners: Section: 30.6 The Medicare Learning Network (MLN) MLN Matters: Evaluation and Management Services: MLN006764"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "4/1/2026",
+          "value": "Policy Version Change Resource Section: Updated History Section: Entries prior to 4/1/2024 archived"
+        },
+        {
+          "key": "4/1/2025",
+          "value": "Policy Version Change Policy History Section: Entries prior to 4/1/2023 archived"
+        },
+        {
+          "key": "4/1/2024",
+          "value": "Policy Version Change Application Section: Updated Policy History Section: Entries prior to 4/1/2022 archived"
+        },
+        {
+          "key": "9/1/2016",
+          "value": "Policy implemented by UnitedHealthcare Medicare Advantage"
+        },
+        {
+          "key": "4/21/2016",
+          "value": "Policy approved by the Payment Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [
+    {
+      "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/attachments/reimbursement/EM-Code-List.pdf",
+      "content": [
+        {
+          "page": 1,
+          "content": "2023 Evaluation and Management Procedure Codes\n99202\n99203\n99204\n99205\n99211\n99212\n99213\n99214\n99215\n99221\n99222\n99223\n99231\n99232\n99233\n99234\n99235\n99236\n99238\n99239\n99242\n99243\n99244\n99245\n99252\n99253\n99254\n99255\n99281\n99282\n99283\n99284\n99285\n99288\n99291\n99292\n99304\n99305\n99306\n99307\n99308\n99309\n99310\n99315\n99316\n99341"
+        },
+        {
+          "page": 2,
+          "content": "99342\n99344\n99345\n99347\n99348\n99349\n99350"
+        }
+      ],
+      "tables": [],
+      "CPT_CODES_USED": [
+        "99202",
+        "99203",
+        "99204",
+        "99205",
+        "99211",
+        "99212",
+        "99213",
+        "99214",
+        "99215",
+        "99221",
+        "99222",
+        "99223",
+        "99231",
+        "99232",
+        "99233",
+        "99234",
+        "99235",
+        "99236",
+        "99238",
+        "99239",
+        "99242",
+        "99243",
+        "99244",
+        "99245",
+        "99252",
+        "99253",
+        "99254",
+        "99255",
+        "99281",
+        "99282",
+        "99283",
+        "99284",
+        "99285",
+        "99288",
+        "99291",
+        "99292",
+        "99304",
+        "99305",
+        "99306",
+        "99307",
+        "99308",
+        "99309",
+        "99310",
+        "99315",
+        "99316",
+        "99341",
+        "99342",
+        "99344",
+        "99345",
+        "99347",
+        "99348",
+        "99349",
+        "99350"
+      ],
+      "ICD_CODES_USED": []
+    }
+  ],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "99202",
+    "99205",
+    "99211",
+    "99215",
+    "99221",
+    "99223",
+    "99231",
+    "99239",
+    "99281",
+    "99285",
+    "99304",
+    "99310",
+    "99315",
+    "99316",
+    "99341",
+    "99342",
+    "99344",
+    "99345",
+    "99347",
+    "99350",
+    "93000",
+    "93005",
+    "93010",
+    "99213"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

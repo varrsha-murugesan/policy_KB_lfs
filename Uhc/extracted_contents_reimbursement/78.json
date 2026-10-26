@@ -1,0 +1,382 @@
+{
+  "policy_title": "Multiple Procedure Payment Reduction (MPPR) for Medical and Surgical Services Policy",
+  "policy_number": "2025R9021A",
+  "policy_dates": {
+    "effective_date": "4/1/2025",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "Overview Multiple surgeries are separate procedures performed by a single physician on the same patient at the same operative session or on the same day for which separate payment may be allowed. Co-surgeons, surgical teams, or assistants at surgery may participate in performing multiple surgeries on the same patient on the same day. The codes with the following CMS multiple procedure indicators are addressed within this reimbursement policy: - Multiple Procedure Indicator 2 - Standard payment adjustment rules for multiple procedures apply - Multiple Procedure Indicator 3 - Special rules for multiple endoscopic procedures apply if procedure is billed with another endoscopy in the same family (i.e., another endoscopy that has the same base procedure). Surgeries subject to the multiple surgery rules have an indicator of \"2\" in the Physician Fee Schedule look-up tool. The multiple procedure Payment Reduction will be applied based on the National Physician Fee Schedule (NPFS) Relative Value Unit (RVU) and not on the submitted amount from the providers. The major surgery may or may not be the one with the larger submitted amount. Multiple surgeries are distinguished from procedures that are components of or incidental to a Primary Procedure. These intra-operative services, incidental surgeries, or components of more major surgeries are not separately billable. Reimbursement Guidelines Multiple procedure reductions apply when: There are two or more procedure codes subject to reductions. If two codes are billed but only one is subject to reduction, no reduction will be taken for either procedure; both codes are reimbursable at 100% of the allowable amount. A single code subject to the multiple procedure concepts when submitted with multiple units. For example, CPT code 11300 is submitted with 3 units. Multiple procedure reductions would apply to the second and third unit. The units are also subject to UnitedHealthcare Medicare Advantage Medically Unlikely Edits Reimbursement Policy. The billing of more than one separately payable surgical procedure, by the same physician, performed on the same patient, on the same day, whether on different lines or with a number greater than 1 in the unit's column on the claim form or inappropriately billed with modifier \"-78\" (i.e., after the global period has expired) are subject to multiple payment procedure reductions. Multiple procedures subject to the multiple procedure concept as defined above performed by the Same Individual Physician or Other Qualified Health Care Professional on the same date of service are ranked to determine applicable reductions. Multiple Procedure Ranking: UnitedHealthcare Medicare Advantage uses the CMS Facility Total RVUs to determine the ranking of primary, Secondary and Subsequent Procedures when those services are performed in a facility setting (Place of Service [POS] 19, 21, 22, 23, 24, 26, 31, 34, 41, 42, 51, 52, 53, 56 and 61). Procedures performed in a place of service other than the facility POS setting will be ranked by the CMS Non-Facility RVUs. Multiple Procedure Reduction Codes with Assigned RVUs Reported with Modifiers 26, 53, TC: For certain codes that are subject to multiple procedure reductions CMS has assigned separate RVU values when reported with modifiers 26, 53, and TC. When these modified services are billed with other services subject to the multiple procedure concept, the CMS RVUs associated with the reported modifier 26, 53, or TC are used in determining which services should be reduced according to the multiple procedure concept. Reduction Codes with no assigned CMS RVU: Services that CMS indicates may be carrier-priced, or those for which CMS does not develop RVUs are considered Gap Fill Codes and are addressed as follows: 0.00 RVU Codes: Some codes cannot be assigned a gap value or remain without an RVU due to the nature of the service (example: unlisted codes). Codes assigned an RVU value of 0.00 will not be excluded from ranking. Example: Note: RVU values in this example may not accurately reflect the current National Physician Fee Schedule (NPFS) and are intended for illustrative purposes only. Procedure RVU Procedure Ranking Reduction Procedure 1 22.83 2 - Secondary Reduction Procedure 2 173.29 1 - Primary Postoperative Guidelines If the patient returns to the operating room after the initial operative session on the same day as a result of complications from the original surgery, the complications rules apply to each procedure required to treat the complications from the original surgery. The multiple surgery rules would not apply. When a procedure is related to the first and requires the use of an operating/procedure room, it should be reported by adding modifier 78 to the related procedure. In accordance with CMS guidelines, procedures reported with a modifier 78 that have a 10-or 90-day global period are not subject to the multiple procedure concept. Bilateral Procedures Selected bilateral eligible services may also be subject to multiple procedure reductions when billed alone or with other multiple procedure reduction codes. Multiple Procedures for Assistant Surgeon Services Reported with Modifiers 80, 81, 82, AS When services are reported by more than one assistant surgeon using modifiers 80, 81, 82 or AS those services will be ranked collectively if reported by the Same Individual Physician and/or Other Health Care Professional. Assistant surgeon services will be ranked separately from the services reported by the primary surgeon. Refer to the Questions and Answers section, Q&A #3 for an example of multiple procedure ranking on an assistant surgeon claim. Multiple Procedures for Co-Surgeon/Team Surgeon Services Reported with Modifiers 62, 66 Multiple procedures performed by a co-surgeon (modifier 62) or team surgeon (modifier 66) are subject to the multiple procedure concept as defined above when performed by the Same Individual Physician or Other Qualified Health Care Professional on the same date of service. Co-surgeon and team surgeon services are ranked separately and independently of any other co-surgeon or team surgeon services. Refer to the Questions and Answers section, Q&A #4 for an example of multiple procedure ranking on a co-surgeon claim. Endoscopic Procedures When related endoscopic procedures (within the same family) are performed on the same day by the Same Individual Physician or Other Qualified Health Care Professional, the lower ranking endoscopy codes will receive an adjustment under the Endoscopic Adjustment Rule to reduce the Allowed Amount based on the amount of the Endoscopic Base Code. No reimbursement will be made for the Endoscopic Base Code. Multiple endoscopies in the same family performed on the same day as other procedures subject to multiple procedure reduction will be ranked accordingly and may be subject to endoscopic and multiple procedure reductions. If two or more endoscopic procedures are performed on the same day but are from different families, the multiple procedure reduction will be applied to the endoscopic codes with the lower RVU values. Refer to the Questions and Answers section, Q&A #6, #7 and #8 for examples of how the Endoscopic Adjustment Rule will be applied. Anesthesia Management Service Multiple procedure reductions do not apply to time-based anesthesia management services."
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "Multiple surgeries are separate procedures performed by a single physician on the same patient at the same operative session or on the same day for which separate payment may be allowed. Co-surgeons, surgical teams, or assistants at surgery may participate in performing multiple surgeries on the same patient on the same day. The codes with the following CMS multiple procedure indicators are addressed within this reimbursement policy: - Multiple Procedure Indicator 2 - Standard payment adjustment rules for multiple procedures apply - Multiple Procedure Indicator 3 - Special rules for multiple endoscopic procedures apply if procedure is billed with another endoscopy in the same family (i.e., another endoscopy that has the same base procedure). Surgeries subject to the multiple surgery rules have an indicator of \"2\" in the Physician Fee Schedule look-up tool. The multiple procedure Payment Reduction will be applied based on the National Physician Fee Schedule (NPFS) Relative Value Unit (RVU) and not on the submitted amount from the providers. The major surgery may or may not be the one with the larger submitted amount. Multiple surgeries are distinguished from procedures that are components of or incidental to a Primary Procedure. These intra-operative services, incidental surgeries, or components of more major surgeries are not separately billable. Reimbursement Guidelines Multiple procedure reductions apply when: There are two or more procedure codes subject to reductions. If two codes are billed but only one is subject to reduction, no reduction will be taken for either procedure; both codes are reimbursable at 100% of the allowable amount. A single code subject to the multiple procedure concepts when submitted with multiple units. For example, CPT code 11300 is submitted with 3 units. Multiple procedure reductions would apply to the second and third unit. The units are also subject to UnitedHealthcare Medicare Advantage Medically Unlikely Edits Reimbursement Policy. The billing of more than one separately payable surgical procedure, by the same physician, performed on the same patient, on the same day, whether on different lines or with a number greater than 1 in the unit's column on the claim form or inappropriately billed with modifier \"-78\" (i.e., after the global period has expired) are subject to multiple payment procedure reductions. Multiple procedures subject to the multiple procedure concept as defined above performed by the Same Individual Physician or Other Qualified Health Care Professional on the same date of service are ranked to determine applicable reductions. Multiple Procedure Ranking: UnitedHealthcare Medicare Advantage uses the CMS Facility Total RVUs to determine the ranking of primary, Secondary and Subsequent Procedures when those services are performed in a facility setting (Place of Service [POS] 19, 21, 22, 23, 24, 26, 31, 34, 41, 42, 51, 52, 53, 56 and 61). Procedures performed in a place of service other than the facility POS setting will be ranked by the CMS Non-Facility RVUs. Multiple Procedure Reduction Codes with Assigned RVUs Reported with Modifiers 26, 53, TC: For certain codes that are subject to multiple procedure reductions CMS has assigned separate RVU values when reported with modifiers 26, 53, and TC. When these modified services are billed with other services subject to the multiple procedure concept, the CMS RVUs associated with the reported modifier 26, 53, or TC are used in determining which services should be reduced according to the multiple procedure concept. Reduction Codes with no assigned CMS RVU: Services that CMS indicates may be carrier-priced, or those for which CMS does not develop RVUs are considered Gap Fill Codes and are addressed as follows: 0.00 RVU Codes: Some codes cannot be assigned a gap value or remain without an RVU due to the nature of the service (example: unlisted codes). Codes assigned an RVU value of 0.00 will not be excluded from ranking. Example: Note: RVU values in this example may not accurately reflect the current National Physician Fee Schedule (NPFS) and are intended for illustrative purposes only. Procedure RVU Procedure Ranking Reduction Procedure 1 22.83 2 - Secondary Reduction Procedure 2 173.29 1 - Primary Postoperative Guidelines If the patient returns to the operating room after the initial operative session on the same day as a result of complications from the original surgery, the complications rules apply to each procedure required to treat the complications from the original surgery. The multiple surgery rules would not apply. When a procedure is related to the first and requires the use of an operating/procedure room, it should be reported by adding modifier 78 to the related procedure. In accordance with CMS guidelines, procedures reported with a modifier 78 that have a 10-or 90-day global period are not subject to the multiple procedure concept. Bilateral Procedures Selected bilateral eligible services may also be subject to multiple procedure reductions when billed alone or with other multiple procedure reduction codes. Multiple Procedures for Assistant Surgeon Services Reported with Modifiers 80, 81, 82, AS When services are reported by more than one assistant surgeon using modifiers 80, 81, 82 or AS those services will be ranked collectively if reported by the Same Individual Physician and/or Other Health Care Professional. Assistant surgeon services will be ranked separately from the services reported by the primary surgeon. Refer to the Questions and Answers section, Q&A #3 for an example of multiple procedure ranking on an assistant surgeon claim. Multiple Procedures for Co-Surgeon/Team Surgeon Services Reported with Modifiers 62, 66 Multiple procedures performed by a co-surgeon (modifier 62) or team surgeon (modifier 66) are subject to the multiple procedure concept as defined above when performed by the Same Individual Physician or Other Qualified Health Care Professional on the same date of service. Co-surgeon and team surgeon services are ranked separately and independently of any other co-surgeon or team surgeon services. Refer to the Questions and Answers section, Q&A #4 for an example of multiple procedure ranking on a co-surgeon claim. Endoscopic Procedures When related endoscopic procedures (within the same family) are performed on the same day by the Same Individual Physician or Other Qualified Health Care Professional, the lower ranking endoscopy codes will receive an adjustment under the Endoscopic Adjustment Rule to reduce the Allowed Amount based on the amount of the Endoscopic Base Code. No reimbursement will be made for the Endoscopic Base Code. Multiple endoscopies in the same family performed on the same day as other procedures subject to multiple procedure reduction will be ranked accordingly and may be subject to endoscopic and multiple procedure reductions. If two or more endoscopic procedures are performed on the same day but are from different families, the multiple procedure reduction will be applied to the endoscopic codes with the lower RVU values. Refer to the Questions and Answers section, Q&A #6, #7 and #8 for examples of how the Endoscopic Adjustment Rule will be applied. Anesthesia Management Service Multiple procedure reductions do not apply to time-based anesthesia management services."
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        "Multiple procedure reductions apply when:",
+        "There are two or more procedure codes subject to reductions. If two codes are billed but only one is subject to reduction, no reduction will be taken for either procedure; both codes are reimbursable at 100% of the allowable amount. A single code subject to the multiple procedure concepts when submitted with multiple units.",
+        "For example, CPT code 11300 is submitted with 3 units. Multiple procedure reductions would apply to the second and third unit. The units are also subject to UnitedHealthcare Medicare Advantage Medically Unlikely Edits Reimbursement Policy. The billing of more than one separately payable surgical procedure, by the same physician, performed on the same patient, on the same day, whether on different lines or with a number greater than 1 in the unit's column on the claim form or inappropriately billed with modifier \"-78\" (i.e., after the global period has expired) are subject to multiple payment procedure reductions. Multiple procedures subject to the multiple procedure concept as defined above performed by the Same Individual Physician or Other Qualified Health Care Professional on the same date of service are ranked to determine applicable reductions.",
+        "Multiple Procedure Ranking:",
+        "UnitedHealthcare Medicare Advantage uses the CMS Facility Total RVUs to determine the ranking of primary, Secondary and Subsequent Procedures when those services are performed in a facility setting (Place of Service [POS] 19, 21, 22, 23, 24, 26, 31, 34, 41, 42, 51, 52, 53, 56 and 61). Procedures performed in a place of service other than the facility POS setting will be ranked by the CMS Non-Facility RVUs.",
+        "Multiple Procedure Reduction Codes with Assigned RVUs Reported with Modifiers 26, 53, TC:",
+        "For certain codes that are subject to multiple procedure reductions CMS has assigned separate RVU values when reported with modifiers 26, 53, and TC. When these modified services are billed with other services subject to the multiple",
+        "procedure concept, the CMS RVUs associated with the reported modifier 26, 53, or TC are used in determining which services should be reduced according to the multiple procedure concept.",
+        "Reduction Codes with no assigned CMS RVU:",
+        "Services that CMS indicates may be carrier-priced, or those for which CMS does not develop RVUs are considered Gap Fill Codes and are addressed as follows: 0.00 RVU Codes: Some codes cannot be assigned a gap value or remain without an RVU due to the nature of the service (example: unlisted codes). Codes assigned an RVU value of 0.00 will not be excluded from ranking.",
+        "Example: Note: RVU values in this example may not accurately reflect the current National Physician Fee Schedule (NPFS) and are intended for illustrative purposes only.",
+        {
+          "key": "Procedure",
+          "value": "RVU Procedure Ranking"
+        },
+        {
+          "key": "Reduction Procedure 1",
+          "value": "22.83 2 - Secondary"
+        },
+        {
+          "key": "Reduction Procedure 2",
+          "value": "173.29 1 - Primary"
+        },
+        "Postoperative Guidelines",
+        "If the patient returns to the operating room after the initial operative session on the same day as a result of complications from the original surgery, the complications rules apply to each procedure required to treat the complications from the original surgery. The multiple surgery rules would not apply. When a procedure is related to the first and requires the use of an operating/procedure room, it should be reported by adding modifier 78 to the related procedure. In accordance with CMS guidelines, procedures reported with a modifier 78 that have a 10-or 90-day global period are not subject to the multiple procedure concept.",
+        "Bilateral Procedures",
+        "Selected bilateral eligible services may also be subject to multiple procedure reductions when billed alone or with other multiple procedure reduction codes.",
+        "Multiple Procedures for Assistant Surgeon Services Reported with Modifiers 80, 81, 82, AS",
+        "When services are reported by more than one assistant surgeon using modifiers 80, 81, 82 or AS those services will be ranked collectively if reported by the Same Individual Physician and/or Other Health Care Professional. Assistant surgeon services will be ranked separately from the services reported by the primary surgeon.",
+        "Refer to the Questions and Answers section, Q&A #3 for an example of multiple procedure ranking on an assistant surgeon claim. Multiple Procedures for Co-Surgeon/Team Surgeon Services Reported with Modifiers 62, 66",
+        "Multiple procedures performed by a co-surgeon (modifier 62) or team surgeon (modifier 66) are subject to the multiple procedure concept as defined above when performed by the Same Individual Physician or Other Qualified Health Care Professional on the same date of service. Co-surgeon and team surgeon services are ranked separately and independently of any other co-surgeon or team surgeon services. Refer to the Questions and Answers section, Q&A #4 for an example of multiple procedure ranking on a co-surgeon claim.",
+        "Endoscopic Procedures",
+        "When related endoscopic procedures (within the same family) are performed on the same day by the Same Individual Physician or Other Qualified Health Care Professional, the lower ranking endoscopy codes will receive an adjustment under the Endoscopic Adjustment Rule to reduce the Allowed Amount based on the amount of the Endoscopic Base Code. No reimbursement will be made for the Endoscopic Base Code.",
+        "Multiple endoscopies in the same family performed on the same day as other procedures subject to multiple procedure reduction will be ranked accordingly and may be subject to endoscopic and multiple procedure reductions. If two or more endoscopic procedures are performed on the same day but are from different families, the multiple procedure reduction will be applied to the endoscopic codes with the lower RVU values. Refer to the Questions and Answers section, Q&A #6, #7 and #8 for examples of how the Endoscopic Adjustment Rule will be applied.",
+        "Anesthesia Management Service",
+        "Multiple procedure reductions do not apply to time-based anesthesia management services."
+      ],
+      "subsections": [
+        {
+          "title": "Reduction Codes with no assigned CMS RVU:",
+          "content": "Services that CMS indicates may be carrier-priced, or those for which CMS does not develop RVUs are considered Gap Fill Codes and are addressed as follows: 0.00 RVU Codes: Some codes cannot be assigned a gap value or remain without an RVU due to the nature of the service (example: unlisted codes). Codes assigned an RVU value of 0.00 will not be excluded from ranking. Example: Note: RVU values in this example may not accurately reflect the current National Physician Fee Schedule (NPFS) and are intended for illustrative purposes only. Procedure RVU Procedure Ranking Reduction Procedure 1 22.83 2 – Secondary Reduction Procedure 2 173.29 1 – Primary"
+        },
+        {
+          "title": "Postoperative Guidelines",
+          "content": "If the patient returns to the operating room after the initial operative session on the same day as a result of complications from the original surgery, the complications rules apply to each procedure required to treat the complications from the original surgery. The multiple surgery rules would not apply. When a procedure is related to the first and requires the use of an operating/procedure room, it should be reported by adding modifier 78 to the related procedure. In accordance with CMS guidelines, procedures reported with a modifier 78 that have a 10- or 90-day global period are not subject to the multiple procedure concept."
+        },
+        {
+          "title": "Bilateral Procedures",
+          "content": "Selected bilateral eligible services may also be subject to multiple procedure reductions when billed alone or with other multiple procedure reduction codes."
+        },
+        {
+          "title": "Multiple Procedures for Assistant Surgeon Services Reported with Modifiers 80, 81, 82, AS",
+          "content": "When services are reported by more than one assistant surgeon using modifiers 80, 81, 82 or AS those services will be ranked collectively if reported by the Same Individual Physician and/or Other Health Care Professional.   Assistant surgeon services will be ranked separately from the services reported by the primary surgeon. Refer to the Questions and Answers section, Q&A #3 for an example of multiple procedure ranking on an assistant surgeon claim."
+        },
+        {
+          "title": "Multiple Procedures for Co-Surgeon/Team Surgeon Services Reported with Modifiers 62, 66",
+          "content": "Multiple procedures performed by a co-surgeon (modifier 62) or team surgeon (modifier 66) are subject to the multiple procedure concept as defined above when performed by the Same Individual Physician or Other Qualified Health Care Professional on the same date of service. Co-surgeon and team surgeon services are ranked separately and independently of any other co-surgeon or team surgeon services. Refer to the Questions and Answers section, Q&A #4 for an example of multiple procedure ranking on a co-surgeon claim."
+        },
+        {
+          "title": "Endoscopic Procedures",
+          "content": "When related endoscopic procedures (within the same family) are performed on the same day by the Same Individual Physician or Other Qualified Health Care Professional, the lower ranking endoscopy codes will receive an adjustment under the Endoscopic Adjustment Rule to reduce the Allowed Amount based on the amount of the Endoscopic Base Code. No reimbursement will be made for the Endoscopic Base Code. Multiple endoscopies in the same family performed on the same day as other procedures subject to multiple procedure reduction will be ranked accordingly and may be subject to endoscopic and multiple procedure reductions. If two or more endoscopic procedures are performed on the same day but are from different families, the multiple procedure reduction will be applied to the endoscopic codes with the lower RVU values. Refer to the Questions and Answers section, Q&A #6, #7 and #8 for examples of how the Endoscopic Adjustment Rule will be applied."
+        },
+        {
+          "title": "Anesthesia Management Service",
+          "content": "Multiple procedure reductions do not apply to time-based anesthesia management services."
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Relative Value Unit (RVU)",
+          "value": "The assigned unit value of a particular CPT or HCPCS code. The associated RVU is either from the CMS NPFS Non-Facility Total value or Facility Total value"
+        },
+        {
+          "key": "Same Individual Physician or Other Qualified Health Care Professional",
+          "value": "The same individual rendering health care services reporting the same Federal Tax Identification number"
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Which procedure would be primary when CPT code 58150 (total abdominal hysterectomy) and CPT code 57270 (repair of enterocele) are performed in a facility and reported by two different specialty physicians within the same group practice?",
+            "A": "Multiple procedure ranking is based on the facility RVUs. CPT code 58150 is the Primary Procedure with the higher CMS RVU value of 30.06 and CPT code 57270 is the secondary procedure with the lower CMS RVU of 24.23. CPT code 58150 would be reimbursed at 100% of the Allowable Amount, and CPT code 57270 would be reimbursed at 50% of the Allowable Amount. Note: RVU values in this example may not accurately reflect the current NPFS and are intended for illustrative purposes only. Two Different Code Non-Facility Facility RVU RVU used for Multiple Specialty RVU ranking Procedure Physicians/Same Ranking Group Dr. A 57270 24.23 24.23 24.23 - facility 2 - Secondary Dr. B 58150 30.06 30.06 30.06 - facility 1 - Primary"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Are multiple procedure reductions applied when the same individual surgeon reports multiple procedure reduction codes while acting as both surgeon and assistant surgeon during the same operative session?",
+            "A": "Yes, however the surgeon is acting in two different capacities, as surgeon and assistant surgeon. This means all multiple procedure reduction codes reported by the surgeon (with no assistant surgeon modifier) are ranked as one group and all multiple procedure reduction codes reported with an assistant surgeon modifier are ranked as a second group, independent of each other."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "Are multiple procedure reductions applied when two different physicians within the same group practice each report assistant surgeon services, Dr. A reports 19307-80 and Dr. B reports 19367-81?",
+            "A": "Yes. A multiple procedure reduction would be applied to CPT code 19307-80 (the secondary code). In addition, both 19307-80 and 19367-81 would be subject to reduction based on the assistant surgeon modifiers (e.g., 80, 81)."
+          }
+        },
+        {
+          "key": "Dr. A",
+          "value": "57270 24.23 24.23 24.23 - facility"
+        },
+        {
+          "key": "Dr. B",
+          "value": "58150 30.06 30.06 30.06 - facility"
+        },
+        {
+          "key": "4",
+          "value": {
+            "Q": "How is multiple procedure ranking applied when two different physicians in the same group practice each report multiple co-surgeon services eligible for multiple procedure reductions on the same day?",
+            "A": "Each co-surgeon's services are ranked separately and independently of the other regardless of whether they are in the same group practice. In addition, each co-surgeon's services are subject to reduction based on the co-surgeon modifier (62) reported. Note: RVU values in this example may not accurately reflect the current NPFS and are intended for illustrative purposes only. Services reported by Dr. A - CPT 19361-62, RVU = 46.06, CPT 19340-62, RVU = 22.44 Services reported by Dr. B - CPT 19361-62, RVU = 46.06, CPT 19340-62, RVU = 22.44 Dr. Code Charge Multiple Applicable Reductions A Procedure Ranking 1 19361-62 $4000.00 1 - Primary 100% of the Allowable Amount for multiple procedure subject to modifier 62 co-surgeon reduction 2 19340-62 $1600.00 2 - Secondary 50% of the Allowable Amount for multiple procedure subject to modifier 62 co-surgeon reduction Dr. Code Charge Multiple Applicable Reductions B Procedure Ranking 1 19361-62 $4000.00 1 - Primary 100% of the Allowable Amount for multiple procedure subject to modifier 62 co-surgeon reduction 2 19340-62 $1600.00 2 - Secondary 50% of the Allowable Amount for multiple procedure subject to modifier 62 co-surgeon reduction"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "Q": "Are there any modifiers that will override the multiple procedure policy?",
+            "A": "No, other than those services which are appropriately reported with modifier 78 as described in the section of this policy titled 'Postoperative Guidelines'."
+          }
+        },
+        {
+          "key": "Dr. A",
+          "value": "19307-80 35.29 35.29 35.29 2 - Secondary 50% of the Allowable Amount for multiple procedure subject to modifier 80 assistant surgeon reduction."
+        },
+        {
+          "key": "Dr. B",
+          "value": "19367-81 52.34 52.34 52.34 1 - Primary 100% of the Allowable Amount for multiple procedure subject to modifier 81 assistant surgeon reduction."
+        },
+        {
+          "key": "1",
+          "value": {
+            "Q": "19361-62",
+            "A": "$4000.00 1 - Primary 100% of the Allowable Amount for multiple procedure subject to modifier 62 co-surgeon reduction"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "19340-62",
+            "A": "$1600.00 2 - Secondary 50% of the Allowable Amount for multiple procedure subject to modifier 62 co-surgeon reduction"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "Q": "19361-62",
+            "A": "$4000.00 1 - Primary 100% of the Allowable Amount for multiple procedure subject to modifier 62 co-surgeon reduction"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "19340-62",
+            "A": "$1600.00 2 - Secondary 50% of the Allowable Amount for multiple procedure subject to modifier 62 co-surgeon reduction"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "Q": "How will the Endoscopic Adjustment Rule be applied to multiple endoscopy codes within the same family (same Endoscopic Base Code) billed on the same day by the Same Group Physician and/or Other Qualified Health Care Professional",
+            "A": "Below is an example of how the Endoscopic Adjustment Rule will be applied: In the course of performing a fiber optic colonoscopy (CPT code 45378), a physician performs a biopsy on a lesion (code 45380) and removes a polyp (code 45385) from a different part of the colon. The physician bills for codes 45380 and 45385. The value of codes 45380 and 45385 have the value of the diagnostic colonoscopy (45378) built in. Rather than paying 100 percent for the highest valued procedure (45385) and 50 percent for the next (45380), the Endoscopic Adjustment Rule will pay the full value of the higher valued endoscopy (45385), plus the difference between the next highest endoscopy (45380) and the Endoscopic Base Code (45378). Note: RVU values and dollar amounts in this example may not accurately reflect the current NPFS and are intended for illustrative purposes only. Code: Description: Facility Allowable: Endoscopic Adjusted RVU: Ranking: Allowable: 45380 Colonoscopy, flexible; 5.86 $206.52 2 $15.56 with biopsy, single or (Lower RVU) ($206.52-$190.96) multiple 45385 Colonoscopy, flexible; 7.45 $260.68 1 $260.68 with removal of tumor(s), (Highest RVU) polyp(s), or other lesion(s) by snare technique 45378 Colonoscopy, flexible; 5.4 $190.96 Base Code $0.00 diagnostic, including Base Code Not collection of specimen(s) by brushing or washing, Allowed when performed (separate procedure Based on the above RVUs for these codes if the procedures were performed in a facility: 45378 (5.4), 45380 (5.86) and 45385 (7.45), procedure code 45385 would be reimbursed at 100% of the allowable $260.68 as the higher ranked service. Procedure Code 45380 would be reimbursed at the adjusted allowable $15.56 as lower ranked service. The Endoscopic Base Code (45378) is not reimbursed."
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "Q": "How will the Endoscopic Adjustment Rule be applied to multiple endoscopy codes within the same family and another procedure that is not related?",
+            "A": "Below is an example of how the Endoscopic Adjustment Rule and multiple procedure reduction will be applied when the physician bills for codes 45380 and 45381 (same endoscopic family) and 45562 (unrelated procedure). a. First determine the Total Adjusted RVU for each endoscopic family. Each \"family\" of endoscopic codes is considered as a single procedure (RVUs combined) for ranking. b. Rank the Family Adjusted RVUs against other reducible procedures RVUs from highest to lowest. c. Apply the Multiple Procedure Reduction (Example: Standard reduction of 100-50-50). Note: RVU values and dollar amounts in this example may not accurately reflect the current NPFS and are intended for illustrative purposes only. Code: Facility Allowable: Endo Family Multiple Adjusted RVU: Ranking: Adjusted Procedure Allowable: RVU: Ranking:"
+          }
+        },
+        {
+          "key": "45380",
+          "value": {
+            "Q": "Colonoscopy, flexible; with biopsy, single or multiple",
+            "A": "5.86 $206.52 2 (Lower RVU) $15.56 ($206.52-$190.96)"
+          }
+        },
+        {
+          "key": "45385",
+          "value": {
+            "Q": "Colonoscopy, flexible; with removal of tumor(s), polyp(s), or other lesion(s) by snare technique",
+            "A": "7.45 $260.68 1 (Highest RVU) $260.68"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "Q": "Adjusted",
+            "A": "Procedure"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "RVU:",
+            "A": "Ranking:"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "Q": "How will the Endoscopic Adjustment Rule be applied to multiple endoscopy codes that are not within the same family (same Endoscopic Base Code) billed on the same day by the Same Group Physician and/or Other Qualified Health Care Professional?",
+            "A": "If two or more endoscopic procedures are performed on the same day but are from different families, the multiple procedure reduction will be applied to the endoscopic codes with the lower RVU values. Note: RVU values and dollar amounts in this example may not accurately reflect the current NPFS and are intended for illustrative purposes only Code: Allowable: Facility RVU: Endoscopic Multiple Adjusted Ranking: Procedure Allowable: Ranking: 29838 $342.96 17.67 N/A 1 $342.96 29830 Base Code Different Base Codes (100%) 29847 $297.83 16.21 2 $148.92 29840 Base Code (50%) Based on the above scenario, the procedure codes billed are not within the same family (same Endoscopic Base Code) therefore Endoscopic Adjustment Rule is not applicable, standard multiple procedure reduction rules apply."
+          }
+        },
+        {
+          "key": "45380",
+          "value": {
+            "Q": "5.86",
+            "A": "$206.52 1 5.86 - 5.40 = 0.46 5.86 + 0.46 = 6.32 2 (50%) [($206.52-$190.96) + $206.52] *50% =$111.04"
+          }
+        },
+        {
+          "key": "45381",
+          "value": {
+            "Q": "5.86",
+            "A": "$206.52 2"
+          }
+        },
+        {
+          "key": "45562",
+          "value": {
+            "Q": "33.92",
+            "A": "$1,192.64 N/A Unrelated Procedure N/A 1 (100%) $1,192.64"
+          }
+        },
+        {
+          "key": "29838",
+          "value": {
+            "Q": "$342.96",
+            "A": "17.67 N/A Different Base Codes 1 (100%) $342.96"
+          }
+        },
+        {
+          "key": "29847",
+          "value": {
+            "Q": "$297.83",
+            "A": "16.21 2 (50%) $148.92"
+          }
+        },
+        {
+          "key": "76",
+          "value": {
+            "Q": "78",
+            "A": "80 81 82 AS TC"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 8,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov Centers for Medicare and Medicaid Services: PFS Relative Value Files Medicare Claims Processing Manual - Chapter 12 - Physicians/Nonphysician Practitioners - Sections: 30.1, 40.2, 40.4, 40.6, and 40.8"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 8,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "4/1/2025",
+          "value": "Policy Version Change Resource Section: Updated"
+        },
+        {
+          "key": "4/1/2024",
+          "value": "Policy Version Change Application Section: Updated Logo Updated History Section: Entries Prior to 4/1/2022 archived"
+        },
+        {
+          "key": "4/1/2023",
+          "value": "Policy Version Change History Section: Entries Prior to 4/1/2021 archived"
+        },
+        {
+          "key": "4/1/2008",
+          "value": "Policy Approved"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "11300",
+    "58150",
+    "57270",
+    "19307",
+    "19367",
+    "19361",
+    "19340",
+    "45378",
+    "45380",
+    "45385",
+    "45381",
+    "45562",
+    "29838",
+    "29830",
+    "29847",
+    "29840"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "78",
+    "26",
+    "53",
+    "TC",
+    "10",
+    "90",
+    "80",
+    "81",
+    "82",
+    "AS",
+    "62",
+    "66"
+  ]
+}

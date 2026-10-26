@@ -1,0 +1,18 @@
+{"payload": {"source": "Acme Health synthetic test fixture", "documents": [
+  {"meta": {"name": "Care Coordination Program", "doc_id": "ACME-001", "dates": {"effective": "2026-01-01"},
+            "product": "Medicare Advantage", "claim_type": "Professional"},
+   "body": {"paragraphs": [
+       {"heading": "Coverage", "text": "Acme Health reimburses chronic care management when a care plan is documented."},
+       {"heading": "Limits", "text": "Chronic care management is limited to 1 per calendar month."}],
+            "code_table": [{"code": "00021", "description": "Chronic care management services"}]},
+   "faq": [{"question": "Is a care plan required?", "answer": "Yes. Acme Health requires a documented care plan."}],
+   "billing": {"codes": ["00021"]}},
+  {"meta": {"name": "Acupuncture Coverage", "doc_id": "ACME-002", "dates": {"effective": "2026-01-01"},
+            "product": "Medicare Advantage", "claim_type": "Professional"},
+   "body": {"paragraphs": [{"heading": "Coverage", "text": "Acme Health covers acupuncture for chronic low back pain up to 12 sessions per year."}],
+            "code_table": [{"code": "00001", "description": "Acupuncture needle insertion first 15 minutes"},
+                           {"code": "00002", "description": "Acupuncture needle insertion each additional 15 minutes"}]},
+   "faq": [], "billing": {"codes": ["00001", "00002"]}},
+  {"meta": {"name": "Provider Bulletin March 2026", "doc_id": null, "dates": {"effective": null}, "product": "Commercial"},
+   "body": {"paragraphs": [], "code_table": []}, "faq": [], "billing": {"codes": []}}
+]}}

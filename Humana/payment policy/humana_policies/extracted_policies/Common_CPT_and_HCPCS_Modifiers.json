@@ -1,0 +1,701 @@
+{
+  "policy_metadata": {
+    "policy_title": "Common CPT and HCPCS Modifiers",
+    "policy_number": "CP2013101",
+    "published_date": "02/2015",
+    "effective_date": "02/2015",
+    "revision_date": "01/2026",
+    "last_reviewed": "01/2026",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Both",
+    "source_pdf": "Common_CPT_and_HCPCS_Modifiers-b0bf5f98.pdf",
+    "total_pages": 21,
+    "related_policies": [
+      "Related policies are linked in the chart below"
+    ]
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "22",
+      "24",
+      "25",
+      "26",
+      "50",
+      "51",
+      "52",
+      "53",
+      "59",
+      "59514",
+      "59620",
+      "62",
+      "76",
+      "77",
+      "78",
+      "79",
+      "80",
+      "82",
+      "90",
+      "91",
+      "95",
+      "AD",
+      "AS",
+      "BP",
+      "EY",
+      "FY",
+      "GT",
+      "JW",
+      "JZ",
+      "KX",
+      "LT",
+      "NR",
+      "P3",
+      "P4",
+      "P5",
+      "QK",
+      "QX",
+      "QY",
+      "QZ",
+      "RA",
+      "RB",
+      "RR",
+      "RT",
+      "TC",
+      "XE",
+      "XP",
+      "XS",
+      "XU"
+    ],
+    "cpt_codes": [
+      "59514",
+      "59620"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [
+      "22",
+      "24",
+      "25",
+      "26",
+      "50",
+      "51",
+      "52",
+      "53",
+      "59",
+      "62",
+      "76",
+      "77",
+      "78",
+      "79",
+      "80",
+      "82",
+      "90",
+      "91",
+      "95",
+      "AD",
+      "AS",
+      "BP",
+      "EY",
+      "FY",
+      "GT",
+      "JW",
+      "JZ",
+      "KX",
+      "LT",
+      "NR",
+      "P3",
+      "P4",
+      "P5",
+      "QK",
+      "QX",
+      "QY",
+      "QZ",
+      "RA",
+      "RB",
+      "RR",
+      "RT",
+      "TC",
+      "XE",
+      "XP",
+      "XS",
+      "XU"
+    ],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "A modifier is a two-character code appended to a Current Procedural Terminology (CPT®) code or Healthcare Common Procedure Coding System (HCPCS) code to clarify the services rendered without changing the procedure code. Modifiers can facilitate editing, increase accuracy in reimbursement and improve coding consistency. Documentation of services must support a submitted modifier. • •"
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana plans require the use of CPT and HCPCS modifiers when appropriate. If a modifier is submitted, the claim is subject to review to ensure the procedure code and modifier combination is correct and the modifier was necessary. If modifiers are submitted inappropriately, the claim line is denied or payment recovery will occur. Below is a list of some commonly used modifiers, a high-level explanation of how those modifiers are generally used for reimbursement and general reporting information. These reimbursement guidelines apply to common claims scenarios but may not apply in every case: a modifier might have no effect, or its application may vary. For example: • If Humana claims payment policy provides for reimbursement on a rental basis, a purchase modifier will not result in purchase reimbursement. • When multiple modifiers are submitted, the impact of a modifier may differ from its typical effect. Note : In the tables below, hyperlinks are provided to Humana claims payment policies and educational videos about these modifiers, when available. These policies and videos provide a more detailed explanation of the modifier."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "CPT Modifiers",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 9,
+          "content": [],
+          "tables": [
+            {
+              "type": "table",
+              "page_start": 2,
+              "page_end": 21,
+              "columns": [
+                "CPT modifier",
+                "Short description",
+                "Medicare advantage reimbursement",
+                "Quick reference"
+              ],
+              "row_count": 83,
+              "rows": [
+                {
+                  "CPT modifier": "22",
+                  "Short description": "Increased\nprocedural services",
+                  "Medicare advantage reimbursement": "Percentage determined on an individual\nclaim basis",
+                  "Quick reference": "• Report modifier 22 on professional claims only, not facility claims.\n• Do not report modifier 22 with an evaluation and management\n(E/M) service.\nClick here for Humana’s payment policy on this modifier."
+                },
+                {
+                  "CPT modifier": "24",
+                  "Short description": "Unrelated\nevaluation and\nmanagement\n(E/M) service by\nthe same\nphysician or\nother qualified\nhealth care\nprofessional\nduring a\npostoperative\nperiod",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Report modifier 24 when the unrelated E/M was performed\nbeginning the day after and within the postoperative period of\nan unrelated 10-day or 90-day global procedure.\n• Report modifier 24 on professional or facility claims.\n• The diagnosis code(s) billed and medical record documentation\nmust support the use of modifier 24.\n• Do not report modifier 24 on a service other than an E/M service.\n• When an E/M is performed that is related to the 10 or 90 day\nglobal procedure and within its postoperative period the E/M\nshould not be billed, even with modifier 24.\nClick here for a video with more info on this modifier."
+                },
+                {
+                  "CPT modifier": "25",
+                  "Short description": "Significant,\nseparately\nidentifiable E/M\nservice by the\nsame physician\nor other\nqualified health\ncare professional\non the same day\nof the procedure\nor other service",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Documentation in the medical record and on the claim must\nsupport the use of modifier 25.\n• Report modifier 25 on professional claims only, not facility claims.\n• Do not report modifier 25 on a service other than an E/M service.\nClick here for a video with more info on this modifier."
+                },
+                {
+                  "CPT modifier": "26",
+                  "Short description": "Professional\ncomponent",
+                  "Medicare advantage reimbursement": "Professional component only",
+                  "Quick reference": "• Report modifier 26 with a global service code to bill only the\nprofessional component.\n• Do not report modifier 26 when the procedure code describes\nonly the professional component.\n• The place of service (POS) code generally should reflect the actual\nsetting in which a face-to-face service was rendered.\nClick here for a video with more info on this modifier."
+                },
+                {
+                  "CPT modifier": "50",
+                  "Short description": "Bilateral procedure",
+                  "Medicare advantage reimbursement": "150% of the amount otherwise allowed\nfor Medicare Physician Fee Schedule\n(MPFS) bilateral indicator 1 codes",
+                  "Quick reference": "• Report modifier 50 when an MPFS bilateral indicator 1 code is\nperformed bilaterally.\n• Report modifier 50 on one claim line with a unit of 1.\n• Report modifier 50 when the procedure is performed on similar\nbut opposite sites.\n• Report modifier 50 in addition to eyelid, toe and finger modifiers\non one claim line with a unit of 1 for procedures performed\nbilaterally on similar but opposite sites.\n• Do not report modifier 50 with a unilateral code when a bilateral\ncode exists.\n• Do not report modifier 50 for a code whose MPFS bilateral\nindicator is anything other than 1.\nClick here for Humana’s payment policy on this modifier.\nClick here for a video with more info on this modifier."
+                },
+                {
+                  "CPT modifier": "51",
+                  "Short description": "Multiple procedures",
+                  "Medicare advantage reimbursement": "Multiple procedure payment reduction\n(MPPR) is applied when appropriate,\nregardless of whether modifier 51 is\nappended",
+                  "Quick reference": "• Modifier 51 is informational only and not required."
+                },
+                {
+                  "CPT modifier": "52",
+                  "Short description": "Reduced services",
+                  "Medicare advantage reimbursement": "50% of the amount otherwise allowed",
+                  "Quick reference": "• Do not report modifier 52 with an E/M service.\n• Report modifier 52 on professional or facility claims.\nClick here for Humana’s payment policy on this modifier."
+                },
+                {
+                  "CPT modifier": "53",
+                  "Short description": "Discontinued\nservices",
+                  "Medicare advantage reimbursement": "29% of the amount otherwise allowed",
+                  "Quick reference": "• Report modifier 53 on professional claims only, not facility claims.\n• Do not report modifier 53 on an E/M service.\n• Do not report modifier 53 on laparoscopic and endoscopic\nprocedures converted to open procedures.\nClick here for Humana’s payment policy on this modifier."
+                },
+                {
+                  "CPT modifier": "54",
+                  "Short description": "Surgical care only",
+                  "Medicare advantage reimbursement": "Percentage indicated by the MPFS",
+                  "Quick reference": "• Report modifier 54 on professional claims only, not facility.\nClick here for Humana’s payment policy on this modifier."
+                },
+                {
+                  "CPT modifier": "55",
+                  "Short description": "Postoperative\nmanagement only",
+                  "Medicare advantage reimbursement": "Percentage indicated by the MPFS",
+                  "Quick reference": "• Report modifier 55 on professional claims only, not facility.\nClick here for Humana’s payment policy on this modifier."
+                },
+                {
+                  "CPT modifier": "56",
+                  "Short description": "Preoperative\nmanagement only",
+                  "Medicare advantage reimbursement": "Percentage indicated by the MPFS",
+                  "Quick reference": "• Report modifier 56 on professional claims only, not facility.\nClick here for Humana’s payment policy on this modifier."
+                },
+                {
+                  "CPT modifier": "57",
+                  "Short description": "Decision for surgery",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Report modifier 57 on an E/M service or certain ophthalmological\nservices when performed during the preoperative period and the\noutcome was the initial determination to perform major surgery.\n• Report modifier 57 on professional claims only, not facility.\n• Do not report modifier 57 on an E/M related to a minor surgery."
+                },
+                {
+                  "CPT modifier": "59",
+                  "Short description": "Distinct procedural\nservice",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Report modifier 59 when requesting consideration of separate\nreimbursement of a procedure or service that is distinct or\nseparate from another performed on the same day.\n• Modifier X{EPSU} should be used when appropriate because it\nprovides a higher level of detail than modifier 59.\n• Do not report both modifier 59 and an X{EPSU} modifier on the\nsame claim line.\n• Do not report modifier 59 with an E/M service.\nClick here for a video with more info on this modifier."
+                },
+                {
+                  "CPT modifier": "62",
+                  "Short description": "Two surgeons",
+                  "Medicare advantage reimbursement": "62.5% of the amount otherwise\nallowed",
+                  "Quick reference": "• Report modifier 62 on professional claims only.\n• Both surgeons are required to report modifier 62.\nClick here for Humana’s payment policy on this modifier."
+                },
+                {
+                  "CPT modifier": "66",
+                  "Short description": "Surgical team",
+                  "Medicare advantage reimbursement": "Percentage determined on an\nindividual claim basis",
+                  "Quick reference": "• When more than two surgeons of different specialties act as a\nsurgical team, each surgeon should report modifier 66.\n• Do not report modifier 66 with non-surgical or minor surgical\nprocedures.\n• Report modifier 66 on professional claims only, not facility."
+                },
+                {
+                  "CPT modifier": "76",
+                  "Short description": "Repeat procedure\nor service by same\nphysician or other\nqualified health care\nprofessional",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Do not report modifier 76 with a code that has a description that\nindicates that the procedure was performed multiple times.\n• Do not report modifier 76 with a laboratory procedure when\nmodifier 91 should be appended.\n• Do not report modifier 76 with an E/M service.\nClick here for a video with more info on this modifier."
+                },
+                {
+                  "CPT modifier": "77",
+                  "Short description": "Repeat procedure\nor service by\nanother physician or\nother qualified\nhealth care\nprofessional",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Do not report modifier 77 with a code that has a description that\nindicates that the procedure was performed multiple times.\n• Do not report modifier 77 with a laboratory procedure when\nmodifier 91 should be appended.\n• Do not report modifier 77 with an E/M service.\nClick here for a video with more info on this modifier."
+                },
+                {
+                  "CPT modifier": "78",
+                  "Short description": "Unplanned return to\nthe operating/\nprocedure room by\nthe same physician\nor other qualified\nhealth care\nprofessional\nfollowing initial\nprocedure for a\nrelated procedure\nduring the\npostoperative\nperiod",
+                  "Medicare advantage reimbursement": "MPFS intraoperative percentage of the\namount allowed",
+                  "Quick reference": "• Report modifier 78 on professional claims only, not facility.\n• Do not report modifiers 76, 77 or 79 with modifier 78.\nClick here for Humana’s payment policy on this modifier."
+                },
+                {
+                  "CPT modifier": "79",
+                  "Short description": "Unrelated\nprocedure or\nservice by same\nphysician or other\nqualified health care\nprofessional during\nthe postoperative\nperiod",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Report modifier 79 on professional claims only, not facility."
+                },
+                {
+                  "CPT modifier": "80",
+                  "Short description": "Assistant surgeon",
+                  "Medicare advantage reimbursement": "16% of the amount otherwise allowed",
+                  "Quick reference": "• Do not report modifiers 81, 82 or AS with modifier 80.\n• An assistant at surgery should bill the same procedure code as the\nprimary surgeon and the appropriate assistant at surgery\nmodifier, except when billing for assistance during a cesarean\ndelivery. When billing for assistance only during a cesarean\ndelivery, the assistant at surgery should bill CPT code 59514\n(cesarean delivery only) or CPT code 59620 (cesarean delivery\nonly, following attempted vaginal delivery after previous cesarean\ndelivery) and the appropriate assistant at surgery modifier.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "81",
+                  "Short description": "Minimum assistant\nsurgeon",
+                  "Medicare advantage reimbursement": "16% of the amount otherwise allowed",
+                  "Quick reference": "• Do not report modifiers 80, 82 or AS with modifier 81.\n• An assistant at surgery should bill the same procedure code as the\nprimary surgeon and the appropriate assistant at surgery\nmodifier, except when billing for assistance during a cesarean\ndelivery. If billing for assistance only during a cesarean delivery,\nthe assistant at surgery should bill CPT code 59514 (cesarean\ndelivery only) or CPT code 59620 (cesarean delivery only,\nfollowing attempted vaginal delivery after previous cesarean\ndelivery) and the appropriate assistant at surgery modifier.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "82",
+                  "Short description": "Assistant surgeon\n(when qualified\nresident surgeon\nnot available)",
+                  "Medicare advantage reimbursement": "16% of the amount otherwise allowed",
+                  "Quick reference": "• Do not report modifiers 80, 81 or AS with modifier 82.\n• An assistant at surgery should bill the same procedure code as the\nprimary surgeon and the appropriate assistant at surgery\nmodifier, except when billing for assistance during a cesarean\ndelivery. When billing for assistance only during a cesarean\ndelivery, the assistant at surgery should bill CPT code 59514\n(cesarean delivery only) or CPT code 59620 (cesarean delivery\nonly, following attempted vaginal delivery after previous cesarean\ndelivery) and the appropriate assistant at surgery modifier.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "90",
+                  "Short description": "Reference (outside)\nlaboratory",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Report modifier 90 when an independent clinical laboratory has\nreferred the test to a reference laboratory for analysis.\n• Only a referring laboratory, as defined in Humana's payment\npolicy on pass-through billing, should report modifier 90.\nClick here for Humana’s payment policy on pass-through billing."
+                },
+                {
+                  "CPT modifier": "91",
+                  "Short description": "Repeat clinical\ndiagnostic\nlaboratory test",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Report modifier 91 when the same lab test is performed more\nthan once on the same day on a different specimen.\n• Do not report modifier 91 if there is a code describing a series of\ntests that is more appropriate."
+                },
+                {
+                  "CPT modifier": "95",
+                  "Short description": "Synchronous\ntelemedicine service\nrendered via a real-\ntime interactive\naudio and video\ntelecommunications\nsystem",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Report modifier 95 when services are rendered via telehealth and\napplicable requirements are satisfied.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "AD",
+                  "Short description": "Medical supervision\nby a physician: more\nthan four concurrent\nanesthesia\nprocedures",
+                  "Medicare advantage reimbursement": "3 base units and 1 additional unit if\npresent at induction",
+                  "Quick reference": "• If modifier AD is reported, 3 base units are considered for\npayment regardless of the base value units of the procedure\ncode. 1 additional unit is considered for payment when\ndocumentation confirms the supervising physician was present\nat induction. Additional units for length of time, qualifying\ncircumstance codes or physical status modifiers are not\nallowed.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "AE",
+                  "Short description": "Registered dietician",
+                  "Medicare advantage reimbursement": "For a noncontracted registered dietician,\n85% of Original- Medicare-participating\nphysician MPFS rate",
+                  "Quick reference": "• Report modifier AE when a service is provided by a registered\ndietician."
+                },
+                {
+                  "CPT modifier": "AJ",
+                  "Short description": "Clinical social worker",
+                  "Medicare advantage reimbursement": "For a noncontracted clinical social\nworker, 75% of Original- Medicare-\nparticipating physician MPFS rate",
+                  "Quick reference": "• Report modifier AJ when a service is provided by a licensed\nclinical social worker."
+                },
+                {
+                  "CPT modifier": "AS",
+                  "Short description": "Physician assistant,\nnurse practitioner,\nor clinical nurse\nspecialist services\nfor assistant at\nsurgery",
+                  "Medicare advantage reimbursement": "16% of the amount otherwise allowed",
+                  "Quick reference": "• Do not report modifiers 80, 81 or 82 with modifier AS.\n• An assistant at surgery should bill the same procedure code as\nthe primary surgeon and the appropriate assistant at surgery\nmodifier, except when billing for assistance during a cesarean\ndelivery. When billing for assistance only during a cesarean\ndelivery, the assistant at surgery should bill CPT code 59514\n(cesarean delivery only) or CPT code 59620 (cesarean delivery\nonly, following attempted vaginal delivery after previous\ncesarean delivery) and the appropriate assistant at surgery\nmodifier.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "BP",
+                  "Short description": "The beneficiary has\nbeen informed of\nthe purchase and\nrental options and\nhas elected to\npurchase the item",
+                  "Medicare advantage reimbursement": "Purchase rate minus any previously\nallowed rental amounts",
+                  "Quick reference": "• Report modifier NU or UE when reporting modifier BP."
+                },
+                {
+                  "CPT modifier": "CO",
+                  "Short description": "Outpatient\noccupational\ntherapy services\nfurnished in whole\nor in part by an\noccupational\ntherapy assistant",
+                  "Medicare advantage reimbursement": "85% of the amount otherwise allowed",
+                  "Quick reference": "• Report modifier CO when all applicable CMS requirements are\nmet."
+                },
+                {
+                  "CPT modifier": "CQ",
+                  "Short description": "Outpatient physical\ntherapy services\nfurnished in whole\nor in part by a\nphysical therapist\nassistant",
+                  "Medicare advantage reimbursement": "85% of the amount otherwise allowed",
+                  "Quick reference": "• Report modifier CQ when all applicable CMS requirements are\nmet."
+                },
+                {
+                  "CPT modifier": "CT",
+                  "Short description": "Computed\ntomography services\nfurnished using\nequipment that does\nnot meet each of the\nattributes of the\nNational Electrical\nManufacturers\nAssociation (NEMA)\nXR-29-2013 standard",
+                  "Medicare advantage reimbursement": "85% of the amount otherwise allowed\nfor the technical component of\napplicable computed tomography\nservices",
+                  "Quick reference": "• Modifier CT is required with a procedure code for applicable\nCT services performed on equipment that does not meet all\nfour attributes of NEMA Standard XR 29-2013.\nClick here for Humana’s payment policy on this modifier."
+                },
+                {
+                  "CPT modifier": "E1 – E4",
+                  "Short description": "Eyelid modifiers",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• When reporting an eyelid modifier, do not also report modifier\nRT or LT.\n• An eyelid procedure is considered bilateral when the code is\nan MPFS bilateral indicator 1 code and performed on the same\nlid on both eyes. When reporting a bilateral procedure, report\nmodifier 50 and the eyelid modifiers.\nClick here for a Humana payment policy that references these\nmodifiers.\nClick here for a video with more info on these modifiers."
+                },
+                {
+                  "CPT modifier": "EY",
+                  "Short description": "No physician or\nother licensed\nhealthcare provider\norder for this item or\nservice",
+                  "Medicare advantage reimbursement": "Not reimbursed",
+                  "Quick reference": "• Report modifier EY if an item or service has not been ordered\nby a physician or other licensed healthcare practitioner.\nClick here for Humana’s payment policy on this modifier."
+                },
+                {
+                  "CPT modifier": "FA – F9",
+                  "Short description": "Finger modifiers",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• When reporting a finger modifier, do not also report modifier\nLT or RT.\n• A finger procedure is considered bilateral when the code is an\nMPFS bilateral indicator 1 code and performed on the same\nfinger on both hands. When reporting a bilateral procedure,\nreport modifier 50 and the finger modifiers.\nClick here for a Humana payment policy that references these\nmodifiers.\nClick here for a video with more info on these modifiers."
+                },
+                {
+                  "CPT modifier": "FX",
+                  "Short description": "X-ray taken using\nfilm",
+                  "Medicare advantage reimbursement": "80% of the amount otherwise allowed\nfor the technical component of film X-ray\nservices",
+                  "Quick reference": "• Modifier FX is required with a procedure code for a technical\ncomponent charge or global charge of an X-ray service\nfurnished using film.\nClick here for Humana’s payment policy on this modifier."
+                },
+                {
+                  "CPT modifier": "FY",
+                  "Short description": "X-ray taken using\ncomputed\nradiography\ntechnology/cassette-\nbased imaging",
+                  "Medicare advantage reimbursement": "93% of the amount otherwise allowed\nfor the technical component of\ncomputed radiography X-ray services",
+                  "Quick reference": "• Modifier FY is required with a procedure code for a technical\ncomponent charge or global charge of an X-ray service\nfurnished using CR technology.\nClick here for Humana’s payment policy on this modifier."
+                },
+                {
+                  "CPT modifier": "G0 (zero)",
+                  "Short description": "Telehealth services\nfurnished for\npurposes of\ndiagnosis,\nevaluation, or\ntreatment of\nsymptoms of an\nacute stroke",
+                  "Medicare advantage reimbursement": "Informational only",
+                  "Quick reference": "• Report modifier G0 only for telehealth services furnished for\ndiagnosis, evaluation, or treatment of symptoms of an acute\nstroke when all applicable CMS requirements are met.\n• When reporting modifier G0, also report the appropriate\ntelehealth indicator, such as a place of service code or\nmodifier, as outlined in Humana’s payment policy on\ntelehealth, available here."
+                },
+                {
+                  "CPT modifier": "GQ",
+                  "Short description": "Telehealth service\nrendered via\nasynchronous\ntelecommunications\nsystem",
+                  "Medicare advantage reimbursement": "Not applicable",
+                  "Quick reference": "• Do not report modifier GQ for Medicare Advantage plans.\n• Modifier GQ is only appropriate for Original Medicare\ntelehealth services furnished as part of CMS's Federal\ntelemedicine demonstration project conducted in Alaska or\nHawaii."
+                },
+                {
+                  "CPT modifier": "GT",
+                  "Short description": "Via interactive audio\nand video\ntelecommunication\nsystems",
+                  "Medicare advantage reimbursement": "Informational only",
+                  "Quick reference": "• Modifier GT is only appropriate for use by Critical Access\nHospitals beginning 1/1/2018.\nClick here for Humana’s payment policy on telehealth."
+                },
+                {
+                  "CPT modifier": "JK",
+                  "Short description": "Drug supply 1 month\nor less",
+                  "Medicare advantage reimbursement": "Allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Report modifier JK for a one-month supply of insulin\nadministered through a DME pump."
+                },
+                {
+                  "CPT modifier": "JL",
+                  "Short description": "Drug 3 month supply",
+                  "Medicare advantage reimbursement": "Allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Report modifier JL for a three-month supply of insulin\nadministered through a DME pump."
+                },
+                {
+                  "CPT modifier": "JW",
+                  "Short description": "Drug amount\ndiscarded/not\nadministered to any\npatient",
+                  "Medicare advantage reimbursement": "Allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Report two lines: one with the drug code and modifier JW for\nthe discarded amount and one with the same drug code\nwithout modifier JW for the administered amount.\n• Do not report modifier JW to report a multi-dose vial or\npackage.\n• Do not report modifier JW with modifier JZ.\nClick here for Humana’s payment policy on this modifier."
+                },
+                {
+                  "CPT modifier": "JZ",
+                  "Short description": "Zero drug amount\ndiscarded/not\nadministered to any\npatient",
+                  "Medicare advantage reimbursement": "Allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Do not report modifier JZ with modifier JW.\n• Do not report modifier JZ to report a multi-dose vial or\npackage.\nClick here for Humana’s payment policy on this modifier."
+                },
+                {
+                  "CPT modifier": "KH",
+                  "Short description": "DMEPOS item, initial\nclaim, purchase or\nfirst month rental",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Modifier KH is required with capped rental items for the first\nmonth.\n• Do not report modifier KH with modifier KI or KJ.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "KI",
+                  "Short description": "DMEPOS item,\nsecond or third\nmonth rental",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Modifier KI is required with capped rental items for the second\nand third months.\n• Do not report modifier KI with modifier KH or KJ.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "KJ",
+                  "Short description": "DMEPOS, parenteral\nand enteral nutrition\n(PEN) pump or\ncapped rental,\nmonths four to 15\n[only months four to\n13 for capped rental\nitems]",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Modifier KJ is required with capped rental items for months\nfour through 15.\n• Do not report modifier KJ with modifier KH or KI.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "KX",
+                  "Short description": "Requirements\nspecified in the\nmedical policy have\nbeen met",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Modifier KX is primarily required on certain services to indicate\ncoverage criteria specified by CMS have been met."
+                },
+                {
+                  "CPT modifier": "LT",
+                  "Short description": "Left Side (used to\nidentify procedures\nperformed on the\nleft side of the body)",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Report modifier LT to indicate a procedure performed on the\nleft side of the body, an item provided for the left side of the\nbody or an item provided for the left side of another item such\nas a part for the left side of a wheelchair.\n• When an MPFS bilateral indicator 1 code is performed\nbilaterally, Humana strongly encourages use of modifier 50,\nnot modifiers LT and RT, but accepts both methods; see\nmodifier 50.\n• Report modifier LT with modifier 52 when only a bilateral code\nis available and a unilateral service was performed on the left\nside.\n• Do not report modifier LT if another anatomical modifier is\nmore descriptive such as a finger modifier.\nClick here for Humana’s payment policy that references these\nmodifiers.\nClick here for videos with more info on this modifier."
+                },
+                {
+                  "CPT modifier": "MS",
+                  "Short description": "Six month\nmaintenance and\nservicing fee for\nreasonable and\nnecessary parts and\nlabor which are not\ncovered under any\nmanufacturer or\nsupplier warranty",
+                  "Medicare advantage reimbursement": "The amount allowed is:\n• Maintenance rate for oxygen\nconcentrators and refilling equipment\nor\n• 50% of the rental rate for parenteral or\nenteral pumps",
+                  "Quick reference": "• Maintenance on oxygen concentrators and refilling equipment\nis allowed every 6 months beginning 6 months after the 36\nmonth rental period.\n• Maintenance on enteral pumps is allowed every 6 months\nbeginning 6 months after the last rental month. Maintenance\non parenteral pumps is allowed every 3 months beginning 3\nmonths after the last rental month.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "NR",
+                  "Short description": "New when rented\n(use the NR modifier\nwhen durable\nmedical equipment\nwhich was new at\nthe time of rental is\nsubsequently\npurchased)",
+                  "Medicare advantage reimbursement": "Purchase rate minus any previously\nallowed rental amounts",
+                  "Quick reference": "• Do not report modifier NR with DMEPOS items that cannot be\npurchased, such as oxygen equipment."
+                },
+                {
+                  "CPT modifier": "NU",
+                  "Short description": "New equipment",
+                  "Medicare advantage reimbursement": "Purchase rate minus any previously\nallowed rental amounts",
+                  "Quick reference": "• Do not report modifier NU with DMEPOS items that cannot be\npurchased, such as oxygen equipment.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "PA",
+                  "Short description": "Surgical or other\ninvasive procedure\non wrong body part",
+                  "Medicare advantage reimbursement": "Not reimbursed",
+                  "Quick reference": "• Report modifier PA if a surgery or other invasive procedure\nwas performed on the wrong body part."
+                },
+                {
+                  "CPT modifier": "PB",
+                  "Short description": "Surgical or other\ninvasive procedure\non wrong patient",
+                  "Medicare advantage reimbursement": "Not reimbursed",
+                  "Quick reference": "• Report modifier PB if a surgery or other invasive procedure\nwas performed on the wrong patient."
+                },
+                {
+                  "CPT modifier": "PC",
+                  "Short description": "Wrong surgery or\nother invasive\nprocedure on\npatient",
+                  "Medicare advantage reimbursement": "Not reimbursed",
+                  "Quick reference": "• Report modifier PC if the wrong surgery or other invasive\nprocedure was performed on the patient."
+                },
+                {
+                  "CPT modifier": "P3",
+                  "Short description": "A patient with\nsevere systemic\ndisease",
+                  "Medicare advantage reimbursement": "Additional unit not allowed",
+                  "Quick reference": "• Do not report modifier P3 with modifier AD; an additional unit\nis not considered for supervised anesthesia.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "P4",
+                  "Short description": "A patient with\nsevere systemic\ndisease that is a\nconstant threat to\nlife",
+                  "Medicare advantage reimbursement": "Additional unit not allowed",
+                  "Quick reference": "• Do not report modifier P4 with modifier AD; additional units\nare not considered for supervised anesthesia.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "P5",
+                  "Short description": "A moribund patient\nwho is not expected\nto survive without\nthe operation",
+                  "Medicare advantage reimbursement": "Additional unit not allowed",
+                  "Quick reference": "• Do not report modifier P5 with modifier AD; additional units\nare not considered for supervised anesthesia.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "PN",
+                  "Short description": "Non-excepted off-\ncampus svc",
+                  "Medicare advantage reimbursement": "For certain services, 40% of the amount\notherwise allowed if reimbursed using\nOPPS methodology",
+                  "Quick reference": "• Report modifier PN for a non-excepted service provided at an\noff-campus, provider-based department of a hospital."
+                },
+                {
+                  "CPT modifier": "PO",
+                  "Short description": "Excepted off-campus\nservice",
+                  "Medicare advantage reimbursement": "For certain services, 40% of the amount\notherwise allowed if reimbursed using\nOPPS methodology",
+                  "Quick reference": "• Report modifier PO for an excepted service provided at an off-\ncampus, provider-based department of a hospital."
+                },
+                {
+                  "CPT modifier": "QA",
+                  "Short description": "Prescribed amounts\nof stationary oxygen\nfor daytime use\nwhile at rest and\nnighttime use differ\nand the average of\nthe two amounts is\nless than 1 liter per\nminute (LPM)",
+                  "Medicare advantage reimbursement": "50% of the amount otherwise allowed",
+                  "Quick reference": "Click here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "QB",
+                  "Short description": "Prescribed amounts\nof stationary oxygen\nfor daytime use\nwhile at rest and\nnighttime use differ\nand the average of\nthe two amounts\nexceeds 4 liters per\nminute (LPM) and\nportable oxygen is\nprescribed",
+                  "Medicare advantage reimbursement": "The amount allowed is the higher of:\n• 50% of the stationary equipment\nmonthly rental rate or\n• 100% of the portable equipment\nmonthly rental rate",
+                  "Quick reference": "Click here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "QE",
+                  "Short description": "Prescribed amount\nof stationary oxygen\nwhile at rest is less\nthan one liter per\nminute (LPM)",
+                  "Medicare advantage reimbursement": "50% of the amount otherwise allowed",
+                  "Quick reference": "Click here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "QF",
+                  "Short description": "Prescribed amount\nof stationary oxygen\nwhile at rest exceeds\nfour liters per\nminute (LPM) and\nportable oxygen is\nprescribed",
+                  "Medicare advantage reimbursement": "The amount allowed is the higher of:\n• 50% of the stationary equipment\nmonthly rental rate or\n• 100% of the portable equipment\nmonthly rental",
+                  "Quick reference": "Click here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "QG",
+                  "Short description": "Prescribed amount\nof stationary oxygen\nwhile at rest is\ngreater than four\nliters per minute\n(LPM)",
+                  "Medicare advantage reimbursement": "150% of the amount otherwise allowed",
+                  "Quick reference": "Click here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "QK",
+                  "Short description": "Medical direction of\ntwo, three or four\nconcurrent\nanesthesia\nprocedures involving\nqualified individuals",
+                  "Medicare advantage reimbursement": "50% of the amount otherwise allowed",
+                  "Quick reference": "• Do not report modifier QK with modifier QX, QY or QZ.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "QR",
+                  "Short description": "Prescribed amounts\nof stationary oxygen\nfor daytime use\nwhile at rest and\nnighttime use differ\nand the average of\nthe two amounts is\ngreater than 4 liters\nper minute (LPM)",
+                  "Medicare advantage reimbursement": "150% of the amount otherwise allowed",
+                  "Quick reference": "Click here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "QX",
+                  "Short description": "Certified registered\nnurse anesthetist\n(CRNA) service: with\nmedical direction by\na physician",
+                  "Medicare advantage reimbursement": "50% of the amount otherwise allowed",
+                  "Quick reference": "• Do not report modifier QX with modifier QK, QY, or QZ.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "QY",
+                  "Short description": "Medical direction of\none CRNA by an\nanesthesiologist",
+                  "Medicare advantage reimbursement": "50% of the amount otherwise allowed",
+                  "Quick reference": "• Do not report modifier QY with modifier QK, QX or QZ.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "QZ",
+                  "Short description": "CRNA service:\nwithout medical\ndirection by a\nphysician",
+                  "Medicare advantage reimbursement": "100% of the amount otherwise allowed",
+                  "Quick reference": "• Do not report modifier QZ with modifier QK, QX or QY.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "RA",
+                  "Short description": "Replacement of a\nDME, orthotic or\nprosthetic item",
+                  "Medicare advantage reimbursement": "100% of the amount otherwise allowed",
+                  "Quick reference": "• Do not report modifier RA with a part or accessory code.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "RB",
+                  "Short description": "Replacement of a\npart of DME,\northotic or\nprosthetic item\nfurnished as part of\na repair",
+                  "Medicare advantage reimbursement": "100% of the amount otherwise allowed",
+                  "Quick reference": "• Do not report modifier RB with a DME, orthotic or prosthetic\nbase item code.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "RR",
+                  "Short description": "Rental",
+                  "Medicare advantage reimbursement": "Rental rate",
+                  "Quick reference": "• Do not report modifier RR with DMEPOS items that are always\npurchased, such as disposable supplies.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "RT",
+                  "Short description": "Right Side (used to\nidentify procedures\nperformed on the\nright side of the\nbody)",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Report modifier RT to indicate a procedure performed on the\nright side of the body, an item provided for the right side of\nthe body or an item provided for the right side of another item\nsuch as a part for the right side of a wheelchair.\n• When an MPFS bilateral indicator 1 code is performed\nbilaterally, Humana strongly encourages use of modifier 50,\nnot modifiers RT and LT, but accepts both methods; see\nmodifier 50.\n• Report modifier RT with modifier 52 when only a bilateral code\nis available and a unilateral service was performed on the right\nside.\n• Do not report modifier RT if another anatomical modifier is\nmore descriptive such as a finger modifier.\nClick here for a Humana payment policy that references these\nmodifiers.\nClick here for videos with more info on this modifier."
+                },
+                {
+                  "CPT modifier": "SG",
+                  "Short description": "Ambulatory surgical\ncenter (ASC) facility\nservice",
+                  "Medicare advantage reimbursement": "Technical component only",
+                  "Quick reference": "• Do not report for professional services."
+                },
+                {
+                  "CPT modifier": "TA-T9",
+                  "Short description": "Toe modifiers",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• When reporting a toe modifier, do not also report modifier LT\nor RT.\n• A toe procedure is considered bilateral when the code is an\nMPFS bilateral indicator 1 code and performed on the same\ntoe on both feet. When reporting a bilateral procedure, report\nmodifier 50 and the toe modifiers.\nClick here for a Humana payment policy that references these\nmodifiers.\nClick here for a video with more info on these modifiers."
+                },
+                {
+                  "CPT modifier": "TC",
+                  "Short description": "Technical\ncomponent",
+                  "Medicare advantage reimbursement": "Technical component only",
+                  "Quick reference": "• Report modifier TC with a global service code to bill only the\ntechnical component.\n• Do not report modifier TC when the procedure code describes\nonly the technical component.\nClick here for a video with more info on this modifier."
+                },
+                {
+                  "CPT modifier": "UE",
+                  "Short description": "Used durable\nmedical equipment",
+                  "Medicare advantage reimbursement": "Appropriate amount for used equipment\nminus previously allowed rental amounts",
+                  "Quick reference": "• Do not report modifier UE with modifier RR or NU.\nClick here for a Humana payment policy that references this\nmodifier."
+                },
+                {
+                  "CPT modifier": "XE",
+                  "Short description": "Separate encounter,\na service that is\ndistinct because it\noccurred during a\nseparate encounter",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Modifier XE should be used instead of modifier 59 when XE\nappropriately describes the service.\n• Do not report both modifiers 59 and XE on the same claim line.\n• Do not report modifier XE with an E/M service.\nClick here for Humana’s payment policy on this modifier.\nClick here for a video with more info on this modifier."
+                },
+                {
+                  "CPT modifier": "XP",
+                  "Short description": "Separate\npractitioner, a\nservice that is\ndistinct because it\nwas performed by a\ndifferent\npractitioner",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Modifier XP should be used instead of modifier 59 when XP\nappropriately describes the service.\n• Do not report both modifiers 59 and XP on the same claim line.\n• Do not report modifier XP with an E/M service.\nClick here for Humana’s payment policy on this modifier.\nClick here for a video with more info on this modifier."
+                },
+                {
+                  "CPT modifier": "XS",
+                  "Short description": "Separate structure, a\nservice that is\ndistinct because it\nwas performed on a\nseparate organ or\nstructure",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Modifier XS should be used instead of modifier 59 when XE\nappropriately describes the service.\n• Do not report both modifiers 59 and XS on the same claim line.\n• Do not report modifier XS with an E/M service.\nClick here for Humana’s payment policy on this modifier.\nClick here for a video with more info on this modifier."
+                },
+                {
+                  "CPT modifier": "XU",
+                  "Short description": "Unusual non-\noverlapping service,\nthe use of a service\nthat is distinct\nbecause it does not\noverlap usual\ncomponents of the\nmain service",
+                  "Medicare advantage reimbursement": "Service allowed when appropriate; no\nadjustment to the amount allowed",
+                  "Quick reference": "• Modifier XU should be used instead of modifier 59 when XE\nappropriately describes the service.\n• Do not report both modifiers 59 and XU on the same claim\nline.\n• Do not report modifier XU with an E/M service.\nClick here for Humana’s payment policy on this modifier.\nClick here for a video with more info on this modifier."
+                }
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "heading": "HCPCS Modifiers",
+          "level": 2,
+          "page_start": 9,
+          "page_end": 21,
+          "content": [],
+          "tables": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 21,
+      "page_end": 21,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": null,
+  "references": null,
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 5,
+    "total_tables": 1,
+    "total_characters": 2809
+  }
+}

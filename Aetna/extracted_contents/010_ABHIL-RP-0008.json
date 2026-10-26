@@ -1,0 +1,113 @@
+{
+  "policy_title": "Noninvasive Estimate of Coronary Fractional\nFlow Reserve (FFR)",
+  "policy_number": "ABHIL-RP-0008",
+  "effective_date": "06/01/2026",
+  "expiry_date": "04/01/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "75580"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for a non-invasive estimate of coronary fractional flow reserve (FFR) \nderived from augmentative software analysis of the data set from a coronary computed \ntomography angiography when \n• \nReported with the approved ICD-10-CM diagnosis code to indicate an abnormal finding \non diagnostic imaging of heart and coronary circulation \n \nClaims that are submitted will be denied when \n• \nProcedure is reported without an approved diagnosis. \n \nThe medical record documentation is expected to support the specific CPT code(s), ICD-10-CM \ncode(s) and/or HCPCS Codes reported.",
+    "subsections": [
+      {
+        "title": "Reported with the approved ICD-10-CM diagnosis code to indicate an abnormal finding",
+        "content": "on diagnostic imaging of heart and coronary circulation Claims that are submitted will be denied when"
+      },
+      {
+        "title": "Procedure is reported without an approved diagnosis.",
+        "content": "The medical record documentation is expected to support the specific CPT code(s), ICD-10-CM code(s) and/or HCPCS Codes reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for a non-invasive estimate of coronary fractional flow reserve (FFR)\nderived from augmentative software analysis of the data set from a coronary computed\ntomography angiography when\n• Reported with the approved ICD-10-CM diagnosis code to indicate an abnormal finding\non diagnostic imaging of heart and coronary circulation\nClaims that are submitted will be denied when\n• Procedure is reported without an approved diagnosis.\nThe medical record documentation is expected to support the specific CPT code(s), ICD-10-CM\ncode(s) and/or HCPCS Codes reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "Diagnostic- CPT Codes\n75580 Noninvasive estimate of coronary fractional flow reserve (FFR) derived from\naugmentative software analysis of the data set from a coronary computed\ntomography angiography, with interpretation and report by a physician or\nother qualified health care professional\nICD-10-CM Approved Diagnosis Codes\nR93.1 Abnormal findings on diagnostic imaging of heart and coronary circulation",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "75580",
+            "value": "Noninvasive estimate of coronary fractional flow reserve (FFR) derived from\naugmentative software analysis of the data set from a coronary computed\ntomography angiography, with interpretation and report by a physician or\nother qualified health care professional"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "R93.1",
+            "value": "Abnormal findings on diagnostic imaging of heart and coronary circulation"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "F. Frequently Asked Questions",
+            "value": ""
+          },
+          {
+            "key": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "G. Review/Revision Date",
+            "value": ""
+          },
+          {
+            "key": "Action",
+            "value": "Date | Comments"
+          },
+          {
+            "key": "Effective Date",
+            "value": "06/01/2026"
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. CPT Professional Edition 2025, AMA; 2024. \n2. American Medical Association. ICD-10-CM 2025 the Complete Official Codebook, AMA; 2024. \n3. Centers for Medicare & Medicaid Services (CMS). Local Coverage Determination: Billing and \nCoding: Non-Invasive Fractional Flow Reserve (FFR) for ischemic heart disease. Article ID: \nA58814. Issued: April 1, 2022."
+}

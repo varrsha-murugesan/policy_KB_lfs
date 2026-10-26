@@ -1,0 +1,136 @@
+{
+  "policy_title": "Durable Medical Equipment Charges in a Skilled Nursing Facility Policy",
+  "policy_number": "2026R9002B",
+  "policy_dates": {
+    "effective_date": "8/3/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy describes the reimbursement methodology for Healthcare Common Procedure Coding System (HCPCS) codes representing Durable Medical Equipment Charges, Parenteral and Enteral Nutrition (PEN) Items and Services listed on the Centers for Medicare and Medicaid PEN Fee Schedule and Medicare Durable Medical Equipment, Prosthetics & Orthotics (DMEPOS) Fee Schedule when billed in Skilled Nursing Facility (SNF) Place of Service (POS) by a Physician or Other Qualified Health Care Professional. CR: Capped Rental FS: Frequently Serviced Items IN: Inexpensive or Routinely Purchased OS: Ostomy, Tracheostomy & Urological Items OX: Oxygen and Oxygen Equipment PO: Prosthetics & Orthotics SD: Surgical Dressings SU: Supplies TE: Transcutaneous Electrical Nerve Stimulation (TENS)"
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "When Durable Medical Equipment (DME), Prosthetics & Orthotics and PEN Items are furnished for use in a SNF UnitedHealthcare Medicare Advantage shall not make separate payment for DME, since the DME is already included in the payment that the SNF receives. Even if a beneficiary already rents or owns a piece of DME in their home, the SNF cannot require the beneficiary to bring their own rented or purchased DME with them into the SNF. Coding information for SNF consolidated billing may be found on the CMS website under the SNF Consolidated Billing. This information may be used to determine by procedure code whether services rendered to beneficiaries are included or excluded from consolidated billing. Services that are included in consolidated billing must be billed to the SNF for payment. In accordance with CMS, POS code 31 should be used with services for beneficiaries in a Part A stay and POS code 32 should be used with services for beneficiaries in a Part B Stay. NOTE: - DMEPOS categories PO, OS, SD, and SU are subject to denial in a Place of Service 31 - DMEPOS categories CR, FS, IN, OX and TE are subject to denial in a Place of Service 31 or 32"
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Physician or Other Qualified Health Care Professional",
+          "value": "Per the CPT book, a Physician or Other Qualified Health Care Professional is an individual who is qualified by education, training, licensure/regulation (when applicable), and facility privileging (when applicable) who performs a professional service within his/her scope of practice and independently reports that professional service."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "When are services included under consolidated billing?",
+            "A": "When a beneficiary is in a Medicare Part A-approved SNF stay, the services are considered included under consolidated billing. In other words, services provided to a beneficiary whose nursing home stay is being covered by Medicare would be included under consolidated billing."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "What does excluded services mean?",
+            "A": "When a service is identified under SNF consolidated billing, it has to be billed by the SNF itself. When a service is excluded from consolidated billing, it means that the service can be billed separately to Medicare by a Physician or Other Qualified Health Care Professional who performed the service."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Codes",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "DMEPOS Fee Schedule SNF Consolidated Billing Files"
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov Centers for Medicare and Medicaid Services, PFS Relative Value Files CMS DMEPOS Fee Schedule Claims Processing Manual Chapter 6 - SNF Inpatient Part A Billing and SNF Consolidated Billing: Section: 10,10.1, 10.4.1, 20.1 Medicare Benefit Policy Manual - Chapter 06 - Hospital Services Covered Under Part B: Sections: 10.1, 10.2, 80 Medicare Benefit Policy Manual - Chapter 15 - Covered Medical and Other Health Services: Section: 110 Medicare Claims Processing Manual - Chapter 20 - Durable Medical Equipment, Prosthetics, Orthotics and Supplies (DMEPOS) Sections: 211.1, 211.2, 212 SNF Consolidated Billing Files Medicare DMEPOS Payments While Inpatient"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "8/3/2026",
+          "value": "Policy Version Change Codes Section: Link updated to SNF Consolidated Billing landing page History Section: Entries prior to 8/3/2024 archived"
+        },
+        {
+          "key": "3/1/2026",
+          "value": "Policy Version Change Resource Section: Updated"
+        },
+        {
+          "key": "3/1/2025",
+          "value": "Policy Version Change History Section: Entries prior to 3/1/2023 archived"
+        },
+        {
+          "key": "1/23/2013",
+          "value": "Policy Approved"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Facility",
+  "CPT_CODES_USED": [],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

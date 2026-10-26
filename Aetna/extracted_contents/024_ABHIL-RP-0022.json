@@ -1,0 +1,129 @@
+{
+  "policy_title": "Psychotherapy",
+  "policy_number": "ABHIL-RP-0022",
+  "effective_date": "06/01/2026",
+  "expiry_date": "02/01/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "90791",
+    "90792",
+    "90832",
+    "90833",
+    "90834",
+    "90835",
+    "90836",
+    "90837",
+    "90838",
+    "90839",
+    "90840",
+    "90846",
+    "90847",
+    "90849",
+    "90853"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for psychotherapy services when appropriately reported. Appropriate \nreporting includes \n• \nPsychotherapy and evaluation services are not reported with psychotherapy for crisis \nservices \n• \nGroup psychotherapy services are reported no more than twice in a seven-day period by \nany provider- unless reported as conducted in a community mental health center (Place \nof Service 53) \n \nClaims that are submitted will be denied when \n• \nPsychotherapy and evaluation services are not reported with psychotherapy for crisis \nservices \n• \nGroup psychotherapy is reported more than twice in a seven-day period by any provider \nin any place of service that is not a community mental health center \n \nThe medical record documentation is expected to support the specific CPT code(s) and ICD-10-\nCM codes reported.",
+    "subsections": [
+      {
+        "title": "Psychotherapy and evaluation services are not reported with psychotherapy for crisis",
+        "content": "services"
+      },
+      {
+        "title": "Group psychotherapy services are reported no more than twice in a seven-day period by",
+        "content": "any provider- unless reported as conducted in a community mental health center (Place of Service 53) Claims that are submitted will be denied when"
+      },
+      {
+        "title": "Psychotherapy and evaluation services are not reported with psychotherapy for crisis",
+        "content": "services"
+      },
+      {
+        "title": "Group psychotherapy is reported more than twice in a seven-day period by any provider",
+        "content": "in any place of service that is not a community mental health center The medical record documentation is expected to support the specific CPT code(s) and ICD-10- CM codes reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for psychotherapy services when appropriately reported. Appropriate\nreporting includes\n• Psychotherapy and evaluation services are not reported with psychotherapy for crisis\nservices\n• Group psychotherapy services are reported no more than twice in a seven-day period by\nany provider- unless reported as conducted in a community mental health center (Place\nof Service 53)\nClaims that are submitted will be denied when\n• Psychotherapy and evaluation services are not reported with psychotherapy for crisis\nservices\n• Group psychotherapy is reported more than twice in a seven-day period by any provider\nin any place of service that is not a community mental health center\nThe medical record documentation is expected to support the specific CPT code(s) and ICD-10-\nCM codes reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "CPT Codes\n90791- Psychiatric diagnostic evaluation\n90792\n90832- Psychotherapy\n90838\n90839- Psychotherapy for crisis\n90840\n90846- Family psychotherapy\n90847\n90849 Multiple-family group psychotherapy\n90853 Group psychotherapy (other than of a multiple-family group)",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "90791-\n90792",
+            "value": "Psychiatric diagnostic evaluation"
+          },
+          {
+            "key": "90832-\n90838",
+            "value": "Psychotherapy"
+          },
+          {
+            "key": "90839-\n90840",
+            "value": "Psychotherapy for crisis"
+          },
+          {
+            "key": "90846-\n90847",
+            "value": "Family psychotherapy"
+          },
+          {
+            "key": "90849",
+            "value": "Multiple-family group psychotherapy"
+          },
+          {
+            "key": "90853",
+            "value": "Group psychotherapy (other than of a multiple-family group)"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "F. Frequently Asked Questions",
+            "value": ""
+          },
+          {
+            "key": "N/A",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. CPT Professional Edition 2026, AMA; 2025. \n2. Illinois Department of Healthcare and Family Services. Handbook for Practitioners Rendering \nMedical Services [PDF]. Springfield, IL; June 16, 2021."
+}

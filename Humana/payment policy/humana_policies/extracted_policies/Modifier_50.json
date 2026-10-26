@@ -1,0 +1,1249 @@
+{
+  "policy_metadata": {
+    "policy_title": "Modifier 50",
+    "policy_number": "CP2007013",
+    "published_date": null,
+    "effective_date": "12/2007",
+    "revision_date": "07/2026",
+    "last_reviewed": "07/2026",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Professional",
+    "source_pdf": "Modifier_50_Revised-7c8b80a2.pdf",
+    "total_pages": 4,
+    "related_policies": [
+      "Common CPT and HCPCS Modifiers"
+    ]
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "00100",
+      "00102",
+      "00103",
+      "00104",
+      "00120",
+      "00124",
+      "00126",
+      "00140",
+      "00142",
+      "00144",
+      "00145",
+      "00147",
+      "00148",
+      "00160",
+      "00162",
+      "00170",
+      "00174",
+      "00176",
+      "00190",
+      "00192",
+      "00210",
+      "00212",
+      "00214",
+      "00216",
+      "00218",
+      "15271",
+      "15272",
+      "15273",
+      "15274",
+      "15275",
+      "15276",
+      "15277",
+      "15278",
+      "19302",
+      "19305",
+      "19361",
+      "21209",
+      "23000",
+      "23020",
+      "23030",
+      "23031",
+      "23035",
+      "23040",
+      "23044",
+      "23065",
+      "23066",
+      "23071",
+      "23073",
+      "23075",
+      "23076",
+      "23077",
+      "23078",
+      "23100",
+      "23101",
+      "23105",
+      "23106",
+      "23107",
+      "23120",
+      "23125",
+      "3006F",
+      "3011F",
+      "3028F",
+      "50",
+      "54600",
+      "59",
+      "AS",
+      "C1753",
+      "C1757",
+      "C2628",
+      "E1",
+      "G0088",
+      "G0089",
+      "G0090",
+      "L5615",
+      "L5710",
+      "L5712",
+      "L5714",
+      "L5716",
+      "L5718",
+      "L5722",
+      "L5724",
+      "L5726",
+      "L5728",
+      "L5780",
+      "L5785",
+      "L5790",
+      "L5795",
+      "L5810",
+      "L5811",
+      "L5812",
+      "L5814",
+      "L5816",
+      "L5818",
+      "L5822",
+      "L5824",
+      "L5826",
+      "L5828",
+      "L5830",
+      "LT",
+      "Q4330",
+      "RT"
+    ],
+    "cpt_codes": [
+      "00100",
+      "00102",
+      "00103",
+      "00104",
+      "00120",
+      "00124",
+      "00126",
+      "00140",
+      "00142",
+      "00144",
+      "00145",
+      "00147",
+      "00148",
+      "00160",
+      "00162",
+      "00170",
+      "00174",
+      "00176",
+      "00190",
+      "00192",
+      "00210",
+      "00212",
+      "00214",
+      "00216",
+      "00218",
+      "15271",
+      "15272",
+      "15273",
+      "15274",
+      "15275",
+      "15276",
+      "15277",
+      "15278",
+      "19302",
+      "19305",
+      "19361",
+      "21209",
+      "23000",
+      "23020",
+      "23030",
+      "23031",
+      "23035",
+      "23040",
+      "23044",
+      "23065",
+      "23066",
+      "23071",
+      "23073",
+      "23075",
+      "23076",
+      "23077",
+      "23078",
+      "23100",
+      "23101",
+      "23105",
+      "23106",
+      "23107",
+      "23120",
+      "23125",
+      "54600"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [
+      "50",
+      "59",
+      "AS",
+      "E1",
+      "LT",
+      "RT"
+    ],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "This policy outlines Humana\u2019s billing requirements for modifier 50 and reimbursement for services reported with modifier 50 ."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. The following policy applies to professional services only."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Billing",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "Bilateral procedures are procedures that are performed on similar sites on opposite sides of the body, during the same session, by the same qualified health care practitioner. When a procedure reported using a service code with a Medicare Physician Fee Schedule (MPFS) Relative Value File (RVF) bilateral indicator 1 is performed bilaterally, providers must report the code with either modifier 50 or with anatomical modifiers such as modifiers LT and RT . Humana strongly encourages providers to report a bilateral procedure using modifier 50 rather than modifiers LT and RT , but accepts both methods. When using modifier 50 to report a bilateral procedure, report a single claim line with a unit of 1. When using modifiers LT and RT to report a bilateral procedure, report two claim lines, each with a unit of 1. Only report modifier 50 when the procedure is performed on similar but opposite sites. For example, report modifier 50 for the same service code for a procedure performed on the right and left knee. However, do not report modifier 50 for the same service code for a procedure performed on the right knee and left shoulder. When reporting two or more bilateral procedures using the same code, report the first bilateral procedure on a single claim line with a unit of 1 using modifier 50 and report a single claim line with a unit of 1 for all subsequent bilateral procedures using modifier 50 and modifier 59. It is not necessary to report modifier 50 with a service code with an MPFS RVF bilateral indicator other than 1."
+          ],
+          "tables": [],
+          "subsections": [
+            {
+              "heading": "Special considerations for billing modifier 50 with certain anatomical modifiers",
+              "level": 3,
+              "page_start": 2,
+              "page_end": 2,
+              "content": [
+                "Report modifier 50 in addition to eyelid, finger and toe modifiers on one claim line with a unit of 1 for procedures performed bilaterally on similar but opposite sites. Examples that are considered bilateral and should be billed with the appropriate anatomical modifiers and modifier 50 : \u2022 Upper left eyelid and upper right eyelid: Report modifiers E1 and E3 with modifier 50 \u2022 Left hand, third digit and right hand, third digit: Report modifiers F2 and F7 with modifier 50 \u2022 Left foot, great toe and right foot, great toe: Report modifiers TA and T5 with modifier 50 Examples that are not considered bilateral and should be billed as two claim lines, each with a unit of 1, with the appropriate anatomical modifiers but not with modifier 50 : \u2022 Upper left eyelid and lower right eyelid: Report modifiers E1 and E4 \u2022 Left hand, third digit and right hand, fourth digit: Report modifiers F2 and F8 \u2022 Left foot, great toe and right foot, third digit: Report modifiers TA and T7"
+              ],
+              "tables": [],
+              "subsections": []
+            }
+          ]
+        },
+        {
+          "heading": "Reimbursement",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 3,
+          "content": [
+            "Humana only applies a bilateral payment adjustment to procedures reported using a service code with a MPFS RVF bilateral indicator 1. When a bilateral payment adjustment applies, the amount allowed for a bilaterally performed procedure is the lesser of the following: \u2022 The total charged for both sides; or \u2022 150 percent of either \u2013 the provider's contracted rate that would have applied if the procedure had been done unilaterally or \u2013 the base maximum amount payable under the member\u2019s plan , for an out-of-network provider, that would have applied if the procedure had been done unilaterally. A single claim line with an MPFS RVF bilateral indicator 1 code billed with modifier 50 is processed as one unit. Providers may submit supporting documentation for reconsideration of additional units. In certain circumstances, additional payment rules may apply. For example, when a bilaterally performed procedure is reported with another procedure for the same date of service, a multiple procedure payment reduction may be applied after the bilateral payment",
+            "adjustment. In such cases, the bilaterally performed procedure is considered one unit."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Examples",
+          "level": 2,
+          "page_start": 3,
+          "page_end": 3,
+          "content": [
+            "Bilateral payment adjustment (BPA): Humana allows 150 percent of the base amount allowed for MPFS RVF bilateral indicator 1 codes reported with a modifier 50 . Bilateral payment adjustment (BPA) and multiple surgery reduction (MSR): The multiple surgery reduction is applied after the bilateral payment adjustment. For this Medicare Advantage example, Humana plans apply a multiple surgery reduction as follows: \u2022 The procedure with the highest base amount allowed after bilateral payment adjustments is not reduced; and \u2022 All other procedures are reduced by 50 percent. Therefore, service code bbbbb is allowed at 100 percent of the base amount allowed, service code ccccc is allowed at 50 percent of 150 percent of the base amount allowed and service code ddddd is allowed at 50 percent of the base amount allowed."
+          ],
+          "tables": [
+            {
+              "type": "table",
+              "page_start": 3,
+              "page_end": 3,
+              "columns": [
+                "Service code",
+                "Modifier",
+                "Units",
+                "Base amount",
+                "Final amount after BPA"
+              ],
+              "row_count": 1,
+              "rows": [
+                {
+                  "Service code": "aaaaa",
+                  "Modifier": "50",
+                  "Units": "1",
+                  "Base amount": "$1000",
+                  "Final amount after BPA": "$1500"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "page_start": 3,
+              "page_end": 3,
+              "columns": [
+                "Service code",
+                "Modifier",
+                "Units",
+                "Base amount",
+                "Amount after BPA",
+                "MSR ranking",
+                "Final amount after MSR"
+              ],
+              "row_count": 3,
+              "rows": [
+                {
+                  "Service code": "bbbbb",
+                  "Modifier": "",
+                  "Units": "1",
+                  "Base amount": "$750",
+                  "Amount after BPA": "$750",
+                  "MSR ranking": "1",
+                  "Final amount after MSR": "$750"
+                },
+                {
+                  "Service code": "ccccc",
+                  "Modifier": "50",
+                  "Units": "1",
+                  "Base amount": "$450",
+                  "Amount after BPA": "$675",
+                  "MSR ranking": "2",
+                  "Final amount after MSR": "$337.50"
+                },
+                {
+                  "Service code": "ddddd",
+                  "Modifier": "",
+                  "Units": "1",
+                  "Base amount": "$500",
+                  "Amount after BPA": "$500",
+                  "MSR ranking": "3",
+                  "Final amount after MSR": "$250"
+                }
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Additional Resources on this Topic",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "Humana\u2019s Making it Easier web-based training series includes videos on the proper reporting of modifier 50 and modifier 59 that may supplement your understanding of this policy."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 4,
+      "content": [
+        "\u2022 Base maximum amount payable under the member\u2019s plan : The maximum amount of reimbursement for a covered expense, determined by the member\u2019s plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments. \u2022 Medicare Physician Fee Schedule (MPFS) Relative Value File (RVF) : A file published by the Centers for Medicare & Medicaid Services (CMS) that includes, among other information, bilateral indicator, relative value units and conversion factors for physician services. \u2022 Modifier 50 : Bilateral procedure. \u2022 Modifier 59 : Distinct procedural service. \u2022 Modifier LT : Left side (used to identify procedures performed on the left side of the body). \u2022 Modifier RT : Right side (used to identify procedures performed on the right side of the body)."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 4,
+      "page_end": 4,
+      "content": [
+        "\u2022 Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 12 \u2013 Physicians/Nonphysician Practitioners . Sections 20.4, 40, 40.6 and 40.7. www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 23 \u2013 Fee Schedule Administration and Coding Requirements . Addendum - MPFSDB File Record Layout and Field Descriptions. www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Physician Fee Schedule (MPFS) Relative Value Files . www.cms.gov. \u2022 American Medical Association\u2019s CPT\u00ae and associated publications and services. \u2022 Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 4,
+      "page_end": 4,
+      "content": [
+        "\u2022 Availity \u2013 Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. \u2022 Claims processing edit notifications \u2013 Alerts of upcoming claims payment changes are posted on the first Friday of each month. \u2022 Claims resources \u2013 Providers can find information on referrals, authorizations, electronic claim submissions and more. \u2022 Making it easier \u2013 This page contains an educational series for providers and healthcare professionals. \u2022 Medical and pharmacy coverage policies \u2013 Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. \u2022 Publications \u2013 This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana\u2019s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Base maximum amount payable under the member\u2019s plan": "The maximum amount of reimbursement for a covered expense, determined by the member\u2019s plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments. \u2022 Medicare Physician Fee Schedule (MPFS) Relative Value File (RVF) : A file published by the Centers for Medicare & Medicaid Services (CMS) that includes, among other information, bilateral indicator, relative value units and conversion factors for physician services. \u2022 Modifier 50 : Bilateral procedure. \u2022 Modifier 59 : Distinct procedural service. \u2022 Modifier LT : Left side (used to identify procedures performed on the left side of the body). \u2022 Modifier RT : Right side (used to identify procedures performed on the right side of the body)."
+  },
+  "references": [
+    "Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 12 \u2013 Physicians/Nonphysician Practitioners . Sections 20.4, 40, 40.6 and 40.7. www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 23 \u2013 Fee Schedule Administration and Coding Requirements . Addendum - MPFSDB File Record Layout and Field Descriptions. www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Physician Fee Schedule (MPFS) Relative Value Files . www.cms.gov. \u2022 American Medical Association\u2019s CPT\u00ae and associated publications and services. \u2022 Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services."
+  ],
+  "resources": [
+    "Humana\u2019s Making it Easier web-based training series includes videos on the proper reporting of modifier 50 and modifier 59 that may supplement your understanding of this policy.",
+    "Availity \u2013 Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. \u2022 Claims processing edit notifications \u2013 Alerts of upcoming claims payment changes are posted on the first Friday of each month. \u2022 Claims resources \u2013 Providers can find information on referrals, authorizations, electronic claim submissions and more. \u2022 Making it easier \u2013 This page contains an educational series for providers and healthcare professionals. \u2022 Medical and pharmacy coverage policies \u2013 Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. \u2022 Publications \u2013 This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana\u2019s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 10,
+    "total_tables": 2,
+    "total_characters": 7787
+  },
+  "mapped_cpt_codes": [
+    {
+      "code": "Q4330",
+      "code_system": "HCPCS_L2",
+      "description": "Total, per square centimeter (add-on, list separately in addition to primary procedure)",
+      "confidence_tier": "D",
+      "score": 50.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "G0088",
+      "code_system": "HCPCS_L2",
+      "description": "Professional services, initial visit, for the administration of anti-infective, pain management, chelation, pulmonary hypertension, inotropic, or other intravenous infusion drug or biological (excluding chemotherapy or other highly complex drug or biological) for each infusion drug administration calendar day in the individual's home, each 15 minutes",
+      "confidence_tier": "D",
+      "score": 48.49,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "G0089",
+      "code_system": "HCPCS_L2",
+      "description": "Professional services, initial visit, for the administration of subcutaneous immunotherapy or other subcutaneous infusion drug or biological for each infusion drug administration calendar day in the individual's home, each 15 minutes",
+      "confidence_tier": "D",
+      "score": 48.49,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "G0090",
+      "code_system": "HCPCS_L2",
+      "description": "Professional services, initial visit, for the administration of intravenous chemotherapy or other highly complex infusion drug or biological for each infusion drug administration calendar day in the individual's home, each 15 minutes",
+      "confidence_tier": "D",
+      "score": 48.49,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5615",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, 4 bar linkage or multiaxial, fluid swing and stance phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5710",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, single axis, manual lock",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5712",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, single axis, friction swing and stance phase control (safety knee)",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5714",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, single axis, variable friction swing phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5716",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, polycentric, mechanical stance phase lock",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5718",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, polycentric, friction swing and stance phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5722",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, single axis, pneumatic swing, friction stance phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5724",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, single axis, fluid swing phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5726",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, single axis, external joints fluid swing phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5728",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, single axis, fluid swing and stance phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5780",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal knee-shin system, single axis, pneumatic/hydra pneumatic swing phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5785",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal system, below knee, ultra-light material (titanium, carbon fiber or equal)",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5790",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal system, above knee, ultra-light material (titanium, carbon fiber or equal)",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5795",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, exoskeletal system, hip disarticulation, ultra-light material (titanium, carbon fiber or equal)",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5810",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, single axis, manual lock",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5811",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, single axis, manual lock, ultra-light material",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5812",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, single axis, friction swing and stance phase control (safety knee)",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5814",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, polycentric, hydraulic swing phase control, mechanical stance phase lock",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5816",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, polycentric, mechanical stance phase lock",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5818",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, polycentric, friction swing, and stance phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5822",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, single axis, pneumatic swing, friction stance phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5824",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, single axis, fluid swing phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5826",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, single axis, hydraulic swing phase control, with miniature high activity frame",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5828",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, single axis, fluid swing and stance phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "L5830",
+      "code_system": "HCPCS_L2",
+      "description": "Addition, endoskeletal knee-shin system, single axis, pneumatic/ swing phase control",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "21209",
+      "code_system": "CPT",
+      "description": "Osteoplasty, facial bones; reduction",
+      "confidence_tier": "E",
+      "score": 29.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "54600",
+      "code_system": "CPT",
+      "description": "Repair of twisted testicle",
+      "confidence_tier": "E",
+      "score": 29.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "3006F",
+      "code_system": "CPT",
+      "description": "Chest x-ray results documented and reviewed (cap)",
+      "confidence_tier": "E",
+      "score": 25.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "3011F",
+      "code_system": "CPT",
+      "description": "Lipid panel results documented and reviewed (must include total cholesterol, HDL-C, triglycerides and calculated LDL-C) (CAD)",
+      "confidence_tier": "E",
+      "score": 25.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "3028F",
+      "code_system": "CPT",
+      "description": "Oxygen saturation results documented and reviewed (includes assessment through pulse oximetry or arterial blood gas measurement) (CAP, COPD) (EM)",
+      "confidence_tier": "E",
+      "score": 25.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "15271",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to wound of trunk, arms, or legs, 25.0 sq cm or less of wound 100.0 sq cm or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15272",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to wound of trunk, arms, or legs, each additional 25.0 sq cm of wound 100.0 sq cm or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15273",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to trunk, arms, legs, total wound surface area greater than or equal to 100 sq cm; first 100 sq cm wound surface area, or 1% of body area of infants and children",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15274",
+      "code_system": "CPT",
+      "description": "Skin substitute graft to wound 100.0 sq cm or more of trunk, arms, or legs, each additional 100.0 sq cm or 1% body area for infants and children, or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15275",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, hands, feet, and/or multiple digits, total wound surface area up to 100 sq cm; first 25 sq cm or less wound surface area",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15276",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to wound of face, scalp, eyelids, mouth, neck, ears, around eyes, genitals, hands, feet, fingers, or toes, each additional 25.0 sq cm of wound 100.0 sq cm or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15277",
+      "code_system": "CPT",
+      "description": "Skin substitute graft to wound 100.0 sq cm or more of face, scalp, eyelids, mouth, neck, ears, around eyes, genitals, hands, feet, fingers, or toes, 100.0 sq cm or 1% body area for infants and children, or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15278",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, hands, feet, and/or multiple digits, total wound surface area greater than or equal to 100 sq cm; each additional 100 sq cm wound surface area, or part thereof, or each additional 1% of body area of infants and children, or part thereof (List separately in addition to code for primary procedure)",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "C1753",
+      "code_system": "HCPCS_L2",
+      "description": "Catheter, intravascular ultrasound",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "C1757",
+      "code_system": "HCPCS_L2",
+      "description": "Catheter, thrombectomy/embolectomy",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "C2628",
+      "code_system": "HCPCS_L2",
+      "description": "Catheter, occlusion",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00100",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on salivary glands, including biopsy",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00102",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures involving plastic repair of cleft lip",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00103",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on eyelid",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00104",
+      "code_system": "CPT",
+      "description": "Anesthesia for electroshock therapy",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00120",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on external middle and inner ear",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00124",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on external, middle, and inner ear including biopsy; otoscopy",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00126",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on external, middle, and inner ear including biopsy; tympanotomy",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00140",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on eye",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00142",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on eye; lens surgery",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00144",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on eye; corneal transplant",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00145",
+      "code_system": "CPT",
+      "description": "Anesthesia for retinal surgery",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00147",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on eye for removal of iris",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00148",
+      "code_system": "CPT",
+      "description": "Anesthesia for exam of inner eye using an endoscope",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00160",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on nose and sinuses",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00162",
+      "code_system": "CPT",
+      "description": "Anesthesia for extensive surgery on nose and sinuses",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00170",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on mouth",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00174",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on throat for removal of tumor",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00176",
+      "code_system": "CPT",
+      "description": "Anesthesia for extensive surgery on mouth",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00190",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on facial bones or skull; not otherwise specified",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00192",
+      "code_system": "CPT",
+      "description": "Anesthesia for extensive surgery on face bones or skull",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00210",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on brain",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00212",
+      "code_system": "CPT",
+      "description": "Anesthesia for intracranial procedures; subdural taps",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00214",
+      "code_system": "CPT",
+      "description": "Anesthesia for intracranial procedures; burr holes, including ventriculography",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00216",
+      "code_system": "CPT",
+      "description": "Anesthesia for intracranial procedures; vascular procedures",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00218",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on brain while sitting up",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "19302",
+      "code_system": "CPT",
+      "description": "Mastectomy, partial (eg, lumpectomy, tylectomy, quadrantectomy, segmentectomy); with axillary lymphadenectomy",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "19305",
+      "code_system": "CPT",
+      "description": "Mastectomy, radical, including pectoral muscles, axillary lymph nodes",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "19361",
+      "code_system": "CPT",
+      "description": "Breast reconstruction; with latissimus dorsi flap",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23000",
+      "code_system": "CPT",
+      "description": "Removal of calcium deposits at rotator cuff tendons, open procedure",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23020",
+      "code_system": "CPT",
+      "description": "Capsular contracture release (eg, Sever type procedure)",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23030",
+      "code_system": "CPT",
+      "description": "Drainage of deep abscess or blood accumulation of shoulder",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23031",
+      "code_system": "CPT",
+      "description": "Incision and drainage, shoulder area; infected bursa",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23035",
+      "code_system": "CPT",
+      "description": "Incision, bone cortex (eg, osteomyelitis or bone abscess), shoulder area",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23040",
+      "code_system": "CPT",
+      "description": "Incision of shoulder joint for exploration, fluid drainage, or removal of foreign body",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23044",
+      "code_system": "CPT",
+      "description": "Incision of collar bone joint for exploration, fluid drainage, or removal of foreign body",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23065",
+      "code_system": "CPT",
+      "description": "Biopsy, soft tissue of shoulder area; superficial",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23066",
+      "code_system": "CPT",
+      "description": "Biopsy, soft tissue of shoulder area; deep",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23071",
+      "code_system": "CPT",
+      "description": "Removal of growth under skin of shoulder area, 3.0 cm or more",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23073",
+      "code_system": "CPT",
+      "description": "Removal of growth of muscle of shoulder, 5.0 cm or more",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23075",
+      "code_system": "CPT",
+      "description": "Removal of growth under skin of shoulder area, less than 3.0 cm",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23076",
+      "code_system": "CPT",
+      "description": "Removal of growth of muscle of shoulder, less than 5.0 cm",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23077",
+      "code_system": "CPT",
+      "description": "Radical resection of tumor (eg, sarcoma), soft tissue of shoulder area; less than 5 cm",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23078",
+      "code_system": "CPT",
+      "description": "Extensive removal of growth of shoulder, 5.0 cm or more",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23100",
+      "code_system": "CPT",
+      "description": "Arthrotomy, glenohumeral joint, including biopsy",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23101",
+      "code_system": "CPT",
+      "description": "Arthrotomy, acromioclavicular joint or sternoclavicular joint, including biopsy and/or excision of torn cartilage",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23105",
+      "code_system": "CPT",
+      "description": "Arthrotomy; glenohumeral joint, with synovectomy, with or without biopsy",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23106",
+      "code_system": "CPT",
+      "description": "Arthrotomy; sternoclavicular joint, with synovectomy, with or without biopsy",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23107",
+      "code_system": "CPT",
+      "description": "Arthrotomy, glenohumeral joint, with joint exploration, with or without removal of loose or foreign body",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23120",
+      "code_system": "CPT",
+      "description": "Claviculectomy; partial",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "23125",
+      "code_system": "CPT",
+      "description": "Claviculectomy; total",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    }
+  ]
+}

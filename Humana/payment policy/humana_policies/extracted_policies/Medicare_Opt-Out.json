@@ -1,0 +1,158 @@
+{
+  "policy_metadata": {
+    "policy_title": "Medicare Opt-Out",
+    "policy_number": "CP2014105",
+    "published_date": "03/2015",
+    "effective_date": "03/2015",
+    "revision_date": "06/2022",
+    "last_reviewed": "06/2022",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Professional",
+    "source_pdf": "Medicare_Opt-Out-087b80c8.pdf",
+    "total_pages": 3,
+    "related_policies": [
+      "Modifiers 54, 55 and 56"
+    ]
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "GJ"
+    ],
+    "cpt_codes": [],
+    "hcpcs_codes": [],
+    "modifiers": [
+      "GJ"
+    ],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "The Centers for Medicare & Medicaid Services (CMS) allows some physicians and practitioners to opt out of the Medicare Program for a period of two years. At the end of two years, a provider can opt in to the Medicare Program, or continue to opt out for another two-year period. Providers should refer to CMS and relevant Medicare Administrative Contractor (MAC) publications to understand the formal opt-out process. Providers who opt out of the Medicare Program agree to the following conditions during their opt-out period: • A provider and a Medicare beneficiary, including a Humana Medicare Advantage (MA) plan member, must enter into a private contract for services that the Medicare Program would otherwise cover. Limitations on charges imposed by the Medicare Program are not applicable to services furnished by opt-out providers under a private contract. Therefore, the beneficiary agrees to pay for all services furnished by the opt-out provider based on the terms of their private contract. • A provider must not request payment from the Medicare Program during the opt-out period. – Exception: Providers can request payment from the Medicare Program for emergency or urgently needed services when no private contract exists between the beneficiary and the opt-out provider. Providers are required to submit the claim to the Medicare Program on behalf of the beneficiary for emergency or urgently needed services when no private contract exists between the beneficiary and the opt-out provider. Limitations on charges imposed by the Medicare Program are applicable for emergency or urgently needed services. • A provider must not contract with a Medicare beneficiary at the time the beneficiary is seeking emergency or urgently needed services."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Effect of Private Contract",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "In no case do Humana MA plans reimburse a charge for a service rendered pursuant to a valid private contract between an opt-out provider and an MA member. Humana may recoup any claim payment made for a service furnished by an opt-out provider if it is determined a private contract between the opt-out provider and the MA member was in effect at the time the service was furnished."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Non-Emergency and Non-Urgent Care Services",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "Humana MA plans deny a charge submitted by an opt-out provider for a service that is not an emergency or urgent care service."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Emergency and Urgent Care Services",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "Humana MA plans may reimburse a charge for a service rendered and submitted by a provider who has opted out of the Medicare Program only for an emergency or urgent care service, and only if the provider does not have a private contract with the MA member. An opt-out provider must report modifier GJ when submitting a charge for an emergency and urgent care service. Medical records must be available to substantiate that the service was truly for an emergency or urgent care service. Humana MA plans deny a charge submitted by an opt-out provider without modifier GJ . When an opt-out provider renders emergency or urgent global surgical services, the provider must submit modifier 54 to indicate only the intraoperative portion of the service was furnished, along with modifier GJ. When modifier 54 is billed, Humana MA plans reimburse only the intraoperative portion of the base maximum amount payable under the member’s plan ."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Member Request for Reimbursement",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "A Humana MA member may not request payment from a Humana MA plan for services furnished by an opt-out provider. Humana MA plans are funded by the Medicare Program of which the provider has chosen to opt-out for the two-year period. Exception: A member may submit requests for reimbursement, and a Humana MA plan may reimburse them, in the following situations if the services were not rendered pursuant to a private contract between the opt-out provider and the MA member: • Humana MA plans may reimburse charges on the first claim received from an MA member for services furnished by an opt-out",
+            "provider. If the Humana MA plan reimburses for any charge received on a member-submitted claim, Humana will also send a member notification letter . • Humana MA plans may reimburse charges for services rendered 15 or fewer days after the postmark of the member notification letter . Humana MA plans do not reimburse charges for services rendered more than 15 days after the postmark of the member notification letter . Opt-Out Member Notification Letter: The member notification letter explains that the provider has opted out of the Medicare Program, and that the member can choose to: • Privately contract with the opt-out provider, agreeing to accept personal financial responsibility for all services; or • Seek services from a provider who has not opted out of the Medicare Program."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Limitations on Allowed Amounts",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 3,
+          "content": [
+            "When reimbursing a service rendered by a provider who has chosen to opt out of the Medicare Program, Humana MA plans apply reimbursement limitations, such as limiting charge amounts, when appropriate."
+          ],
+          "tables": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "• Base maximum amount payable under the member’s plan: The maximum amount of reimbursement for a unit of a covered expense, determined by the member’s plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments. • Modifier 54: Modifier 54 indicates that the surgeon is billing the surgical care only. Modifier 54 should be appended to the procedure code that describes a surgical procedure performed that has a 10- or 90-day postoperative period. • Modifier GJ: Modifier GJ indicates the services were rendered by an opt-out physician or practitioner for emergency or urgent",
+        "services. The use of this modifier indicates that the service was furnished by an opt-out physician or practitioner who has not signed a private contract with a Medicare beneficiary for emergency or urgent care items and services furnished to, or ordered or prescribed for, such beneficiary on or after the date the physician or practitioner opted out. • Member notification letter: The MA plan must notify the beneficiary that the physician or practitioner who has opted out must privately contract with the beneficiary or the beneficiary’s legal representative for services the physician or practitioner furnished, and that no further payment will be made to the beneficiary for services furnished by the opt-out physician or practitioner after 15 days from the postmark of the notice."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "• Centers for Medicare & Medicaid Services website. Medicare Learning Network. MLN Booklet: Global Surgery . www.cms.gov. • Centers for Medicare & Medicaid Services website. Transmittal 222, Change Request 9616 – Revisions to Private Contracting/Opt-Out Manual Sections Due to the Medicare Access and CHIP Reauthorization Act of 2015 (MACRA) . www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Benefit Policy Manual. Chapter 15 – Covered Medical and Other Health . Section 40 – Effect of Beneficiary Agreements Not to Use Medicare Coverage. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Managed Care Manual. Chapter 4 – Benefits and Beneficiary Protections . Sections 20.2 and 20.3. www.cms.gov."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Education and news – This page can help you find clinical guidelines, educational tools, Medicare and Medicaid resources, our provider magazine and other resources to help you do business with us. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Base maximum amount payable under the member’s plan": "The maximum amount of reimbursement for a unit of a covered expense, determined by the member’s plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments. • Modifier 54: Modifier 54 indicates that the surgeon is billing the surgical care only. Modifier 54 should be appended to the procedure code that describes a surgical procedure performed that has a 10- or 90-day postoperative period. • Modifier GJ: Modifier GJ indicates the services were rendered by an opt-out physician or practitioner for emergency or urgent"
+  },
+  "references": [
+    "Centers for Medicare & Medicaid Services website. Medicare Learning Network. MLN Booklet: Global Surgery . www.cms.gov. • Centers for Medicare & Medicaid Services website. Transmittal 222, Change Request 9616 – Revisions to Private Contracting/Opt-Out Manual Sections Due to the Medicare Access and CHIP Reauthorization Act of 2015 (MACRA) . www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Benefit Policy Manual. Chapter 15 – Covered Medical and Other Health . Section 40 – Effect of Beneficiary Agreements Not to Use Medicare Coverage. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Managed Care Manual. Chapter 4 – Benefits and Beneficiary Protections . Sections 20.2 and 20.3. www.cms.gov."
+  ],
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Education and news – This page can help you find clinical guidelines, educational tools, Medicare and Medicaid resources, our provider magazine and other resources to help you do business with us. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 10,
+    "total_tables": 0,
+    "total_characters": 8422
+  }
+}

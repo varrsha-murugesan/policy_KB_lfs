@@ -1,0 +1,182 @@
+{
+  "policy_title": "Drugs and Biologicals",
+  "policy_number": "ABHIL-RP-0013",
+  "effective_date": "10/01/2024",
+  "expiry_date": "10/01/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "80047",
+    "80048",
+    "80050",
+    "80053",
+    "80069",
+    "82310",
+    "82311",
+    "82312",
+    "82313",
+    "82314",
+    "82315",
+    "82316",
+    "82317",
+    "82318",
+    "82319",
+    "82320",
+    "82321",
+    "82322",
+    "82323",
+    "82324",
+    "82325",
+    "82326",
+    "82327",
+    "82328",
+    "82329",
+    "82330",
+    "J0606",
+    "J1745",
+    "J9035",
+    "Q5103",
+    "Q5104",
+    "Q5107",
+    "Q5118",
+    "Q5121",
+    "Q5126",
+    "Q5129"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for the drugs and biological products when appropriately reported. \nAppropriate reporting includes \n• \nReported using the appropriate HCPCS code and corresponding NDC code that applies to \nthe documented dosage administered \n• \nInfliximab is reported within the appropriate unit limits considering the provider specialty \n• \nBevacizumab is not reported as provided within a month prior to or following a major \nsurgical procedure \n• \nEtelcalcetide is reported for patients receiving serum calcium testing within the previous \n34 days \n• \nDrugs classified as self-administered are not reported in any of the indicated places of \nservice \n \nClaims that are submitted will be denied when \n• \nThe inappropriate HCPCS code and corresponding NDC code that applies to the \ndocumented dosage administered are reported \n• \nA HCPCS code is reported without a corresponding NDC code \n• \nInfliximab units reported exceed the unit limits considering the provider specialty \n• \nBevacizumab is reported as provided within a month prior to or following a major surgical \nprocedure \n• \nEtelcalcetide is reported for patients where serum calcium testing has not been reported \nwithin the previous 34 days \n• \nDrugs classified as self-administered are reported in any of the indicated places of service \n \nThe medical record documentation is expected to support the specific CPT code(s), HCPCS \nLevel II codes, ICD-10-CM diagnosis codes and NDC codes reported.",
+    "subsections": [
+      {
+        "title": "Reported using the appropriate HCPCS code and corresponding NDC code that applies to",
+        "content": "the documented dosage administered"
+      },
+      {
+        "title": "Infliximab is reported within the appropriate unit limits considering the provider specialty",
+        "content": "Infliximab is reported within the appropriate unit limits considering the provider specialty"
+      },
+      {
+        "title": "Bevacizumab is not reported as provided within a month prior to or following a major",
+        "content": "surgical procedure"
+      },
+      {
+        "title": "Etelcalcetide is reported for patients receiving serum calcium testing within the previous",
+        "content": "34 days"
+      },
+      {
+        "title": "Drugs classified as self-administered are not reported in any of the indicated places of",
+        "content": "service Claims that are submitted will be denied when"
+      },
+      {
+        "title": "The inappropriate HCPCS code and corresponding NDC code that applies to the",
+        "content": "documented dosage administered are reported"
+      },
+      {
+        "title": "A HCPCS code is reported without a corresponding NDC code",
+        "content": "A HCPCS code is reported without a corresponding NDC code"
+      },
+      {
+        "title": "Infliximab units reported exceed the unit limits considering the provider specialty",
+        "content": "Infliximab units reported exceed the unit limits considering the provider specialty"
+      },
+      {
+        "title": "Bevacizumab is reported as provided within a month prior to or following a major surgical",
+        "content": "procedure"
+      },
+      {
+        "title": "Etelcalcetide is reported for patients where serum calcium testing has not been reported",
+        "content": "within the previous 34 days"
+      },
+      {
+        "title": "Drugs classified as self-administered are reported in any of the indicated places of service",
+        "content": "The medical record documentation is expected to support the specific CPT code(s), HCPCS Level II codes, ICD-10-CM diagnosis codes and NDC codes reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for the drugs and biological products when appropriately reported.\nAppropriate reporting includes\n• Reported using the appropriate HCPCS code and corresponding NDC code that applies to\nthe documented dosage administered\n• Infliximab is reported within the appropriate unit limits considering the provider specialty\n• Bevacizumab is not reported as provided within a month prior to or following a major\nsurgical procedure\n• Etelcalcetide is reported for patients receiving serum calcium testing within the previous\n34 days\n• Drugs classified as self-administered are not reported in any of the indicated places of\nservice\nClaims that are submitted will be denied when\n• The inappropriate HCPCS code and corresponding NDC code that applies to the\ndocumented dosage administered are reported\n• A HCPCS code is reported without a corresponding NDC code\n• Infliximab units reported exceed the unit limits considering the provider specialty\n• Bevacizumab is reported as provided within a month prior to or following a major surgical\nprocedure\n• Etelcalcetide is reported for patients where serum calcium testing has not been reported\nwithin the previous 34 days\n• Drugs classified as self-administered are reported in any of the indicated places of service\nThe medical record documentation is expected to support the specific CPT code(s), HCPCS\nLevel II codes, ICD-10-CM diagnosis codes and NDC codes reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "Applicable HCPCS Codes (Infliximab)\nJ1745 Injection, infliximab, excludes biosimilar, 10 mg\nQ5103 Injection, infliximab-dyyb, biosimilar, (Inflectra), 10 mg\nQ5104 Injection, infliximab-abda, biosimilar, (Renflexis), 10 mg\nQ5121 Injection, infliximab-axxq, biosimilar, (AVSOLA), 10 mg\nApplicable HCPCS Codes (Bevacizumab)\nJ9035 Injection, bevacizumab, 10 mg\nQ5107 Injection, bevacizumab-awwb, biosimilar, (Mvasi), 10 mg\nQ5118 Injection, bevacizumab-bvzr, biosimilar, (Zirabev), 10 mg\nQ5126 Injection, bevacizumab-maly, biosimilar, (Alymsys), 10 mg\nQ5129 Injection, bevacizumab-adcd (Vegzelma), biosimilar, 10 mg",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "J1745",
+            "value": "Injection, infliximab, excludes biosimilar, 10 mg"
+          },
+          {
+            "key": "Q5103",
+            "value": "Injection, infliximab-dyyb, biosimilar, (Inflectra), 10 mg"
+          },
+          {
+            "key": "Q5104",
+            "value": "Injection, infliximab-abda, biosimilar, (Renflexis), 10 mg"
+          },
+          {
+            "key": "Q5121",
+            "value": "Injection, infliximab-axxq, biosimilar, (AVSOLA), 10 mg"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "J9035",
+            "value": "Injection, bevacizumab, 10 mg"
+          },
+          {
+            "key": "Q5107",
+            "value": "Injection, bevacizumab-awwb, biosimilar, (Mvasi), 10 mg"
+          },
+          {
+            "key": "Q5118",
+            "value": "Injection, bevacizumab-bvzr, biosimilar, (Zirabev), 10 mg"
+          },
+          {
+            "key": "Q5126",
+            "value": "Injection, bevacizumab-maly, biosimilar, (Alymsys), 10 mg"
+          },
+          {
+            "key": "Q5129",
+            "value": "Injection, bevacizumab-adcd (Vegzelma), biosimilar, 10 mg"
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": [
+    {
+      "url": "https://www.gene.com/download/pdf/avastin_prescribing.pdf",
+      "content": []
+    },
+    {
+      "url": "https://www.pi.amgen.com/united_states/parsabiv/parsabiv_pi.pdf",
+      "content": []
+    }
+  ],
+  "resources": "1. American Medical Association. HCPCS Level II Professional Edition. 2026 ed. American \nMedical Association; 2025 \n2. Amgen Inc. (2025). Parsabiv® (etelcalcetide) injection, for intravenous use: Prescribing \ninformation. https://www.pi.amgen.com/united_states/parsabiv/parsabiv_pi.pdf \n3. Centers for Medicare & Medicaid Services. (2026). Medicare benefit policy manual \n(Internet-Only Manual, Pub. 100-02, Chapter 15, Section 50.2). U.S. Department of Health and \nHuman Services. https://www.cms.gov/regulations-and-\nguidance/guidance/manuals/downloads/bp102c15.pdf \n4. Genentech, Inc. (2022). Avastin® (bevacizumab) injection, for intravenous use: Prescribing \ninformation. https://www.gene.com/download/pdf/avastin_prescribing.pdf \n5. Illinois Department of Healthcare and Family Services. Practitioner Fee Schedule; 2026. \nhttps://hfs.illinois.gov/medicalproviders/medicaidreimbursement/practitioner.html"
+}

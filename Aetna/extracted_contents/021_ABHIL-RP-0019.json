@@ -1,0 +1,92 @@
+{
+  "policy_title": "Holter Monitors",
+  "policy_number": "ABHIL-RP-0019",
+  "effective_date": "12/01/2020",
+  "expiry_date": "07/01/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "93224",
+    "93225",
+    "93226",
+    "93227"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for the appropriate reporting of Holter monitoring when \n \nServices are reported with an ICD-10-CM diagnosis code that indicates a cardiac \nsymptom or event as listed in this policy. \n \nClaims that are submitted will be denied when \n \nservices are reported without an ICD-10-CM diagnosis code that does not indicate a \ncardiac symptom or event. \n \nThe medical record documentation is expected to support the specific CPT code(s) and ICD-10-\nCM codes reported.",
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for the appropriate reporting of Holter monitoring when\n Services are reported with an ICD-10-CM diagnosis code that indicates a cardiac\nsymptom or event as listed in this policy.\nClaims that are submitted will be denied when\n services are reported without an ICD-10-CM diagnosis code that does not indicate a\ncardiac symptom or event.\nThe medical record documentation is expected to support the specific CPT code(s) and ICD-10-\nCM codes reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "CPT Codes\n93224 External electrocardiographic recording up to 48 hours by continuous\nrhythm recording and storage; includes recording, scanning analysis with\nreport, review and interpretation by a physician or other qualified health\ncare professional\n93225 External electrocardiographic recording up to 48 hours by continuous\nrhythm recording and storage; recording (includes connection, recording,\nand disconnection)\n93226 External electrocardiographic recording up to 48 hours by continuous\nrhythm recording and storage; scanning analysis with report\n93227 External electrocardiographic recording up to 48 hours by continuous\nrhythm recording and storage; review and interpretation by a physician or\nother qualified health care professional\nSupported ICD-10-CM Codes\nE10.40- Type 1 diabetes mellitus with neurological complications\nE10.49",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "93224",
+            "value": "External electrocardiographic recording up to 48 hours by continuous\nrhythm recording and storage; includes recording, scanning analysis with\nreport, review and interpretation by a physician or other qualified health\ncare professional"
+          },
+          {
+            "key": "93225",
+            "value": "External electrocardiographic recording up to 48 hours by continuous\nrhythm recording and storage; recording (includes connection, recording,\nand disconnection)"
+          },
+          {
+            "key": "93226",
+            "value": "External electrocardiographic recording up to 48 hours by continuous\nrhythm recording and storage; scanning analysis with report"
+          },
+          {
+            "key": "93227",
+            "value": "External electrocardiographic recording up to 48 hours by continuous\nrhythm recording and storage; review and interpretation by a physician or\nother qualified health care professional"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E10.40-\nE10.49",
+            "value": "Type 1 diabetes mellitus with neurological complications"
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. Aetna. (2026, March 13). Holter monitors (Clinical Policy Bulletin No. 0019). \nhttps://www.aetna.com/cpb/medical/data/1_99/0019.html \n2. American Medical Association. CPT Professional Edition 2026, AMA; 2025. \n3. American Medical Association. ICD-10-CM 2026 the Complete Official Codebook, AMA; 2025."
+}

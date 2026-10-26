@@ -1,0 +1,107 @@
+{
+  "policy_title": "Hydration Therapy",
+  "policy_number": "ABHIL-RP-0020",
+  "effective_date": "12/01/2020",
+  "expiry_date": "01/30/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "96360",
+    "96361",
+    "J7030",
+    "J7040",
+    "J7042",
+    "J7050",
+    "J7060",
+    "J7070",
+    "J7120",
+    "J7121"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for intravenous hydration therapy when \n• \nReported using an approved ICD-10-CM diagnosis code as indicated in this policy \n• \nReported infusion fluid is for 501 ml or more \n \nClaims that are submitted will be denied when \n• \nReported without an approved ICD-10-CM diagnosis code as indicated in this policy \n• \nReported infusion fluid is 500 ml or less \n \nIndividual claim lines reporting intravenous fluid HCPCS codes will be denied as not separately \nreported. \n \nThe medical record documentation is expected to support the specific CPT code(s), HCPCS \nLevel II codes and ICD-10-CM codes reported.",
+    "subsections": [
+      {
+        "title": "Reported using an approved ICD-10-CM diagnosis code as indicated in this policy",
+        "content": "Reported using an approved ICD-10-CM diagnosis code as indicated in this policy"
+      },
+      {
+        "title": "Reported infusion fluid is for 501 ml or more",
+        "content": "Claims that are submitted will be denied when"
+      },
+      {
+        "title": "Reported without an approved ICD-10-CM diagnosis code as indicated in this policy",
+        "content": "Reported without an approved ICD-10-CM diagnosis code as indicated in this policy"
+      },
+      {
+        "title": "Reported infusion fluid is 500 ml or less",
+        "content": "Individual claim lines reporting intravenous fluid HCPCS codes will be denied as not separately reported. The medical record documentation is expected to support the specific CPT code(s), HCPCS Level II codes and ICD-10-CM codes reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Illinois Department\nof Health Care and\nFamily Services\n(HFS)",
+            "value": "The Department of Healthcare and Family Services\nadministers health insurance programs for children, pregnant\nwomen, and adults who are residents of Illinois."
+          },
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          },
+          {
+            "key": "National Institute\nfor Health and\nCare Excellence\n(NICE)",
+            "value": "An independent, evidence- based organization that creates\nguidance on diagnosing, treating and managing various\nconditions."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for intravenous hydration therapy when\n• Reported using an approved ICD-10-CM diagnosis code as indicated in this policy\n• Reported infusion fluid is for 501 ml or more\nClaims that are submitted will be denied when\n• Reported without an approved ICD-10-CM diagnosis code as indicated in this policy\n• Reported infusion fluid is 500 ml or less\nIndividual claim lines reporting intravenous fluid HCPCS codes will be denied as not separately\nreported.\nThe medical record documentation is expected to support the specific CPT code(s), HCPCS\nLevel II codes and ICD-10-CM codes reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "CPT Codes\n96360 Intravenous infusion, hydration; initial, 31 minutes to 1 hour\n96361 Intravenous infusion, hydration; each additional hour (List separately in\naddition to code for primary procedure)",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "96360",
+            "value": "Intravenous infusion, hydration; initial, 31 minutes to 1 hour"
+          },
+          {
+            "key": "96361",
+            "value": "Intravenous infusion, hydration; each additional hour (List separately in\naddition to code for primary procedure)"
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. CPT Professional Edition 2026, AMA; 2025. \n2. American Medical Association. HCPCS Level II Professional Edition. 2025 ed. American \nMedical Association; 2024 \n3. American Medical Association. ICD-10-CM 2025 the Complete Official Codebook, AMA; \n2024."
+}

@@ -1,0 +1,120 @@
+{
+  "policy_metadata": {
+    "policy_title": "Laboratory – HIV Genotyping and Phenotyping",
+    "policy_number": "LAB2023044",
+    "published_date": "07/2023",
+    "effective_date": "07/2023",
+    "revision_date": "04/2026",
+    "last_reviewed": "04/2026",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Both",
+    "source_pdf": "Laboratory_-_HIV_Genotyping_and_Phenotyping_Revised-f73672fd.pdf",
+    "total_pages": 3,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "0219U",
+      "87900",
+      "87901",
+      "87903",
+      "87904",
+      "87906"
+    ],
+    "cpt_codes": [
+      "0219U",
+      "87900",
+      "87901",
+      "87903",
+      "87904",
+      "87906"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": [
+        "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. • Human immunodeficiency virus (HIV) genotyping or phenotyping (CPT code 87901, CPT code 87903, CPT code 87904, CPT code 87906) IS REIMBURSABLE for patients with HIV. • Drug susceptibility phenotype prediction using genotypic comparison to known genotypic or phenotypic database (CPT code 87900, CPT code 0219U) IS NOT REIMBURSABLE ."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Applicable procedures for Medicare Advantage plans",
+          "level": 2,
+          "page_start": 1,
+          "page_end": 1,
+          "content": [],
+          "tables": [
+            {
+              "type": "table",
+              "page_start": 1,
+              "page_end": 1,
+              "columns": [
+                "Procedure code",
+                "Code description"
+              ],
+              "row_count": 6,
+              "rows": [
+                {
+                  "Procedure code": "87900",
+                  "Code description": "Infectious agent drug susceptibility phenotype prediction using regularly updated genotypic\nbioinformatics"
+                },
+                {
+                  "Procedure code": "87901",
+                  "Code description": "Infectious agent genotype analysis by nucleic acid (DNA or RNA); HIV-1, reverse transcriptase, and\nprotease regions"
+                },
+                {
+                  "Procedure code": "87903",
+                  "Code description": "Infectious agent phenotype analysis by nucleic acid (DNA or RNA) with drug resistance tissue culture\nanalysis, HIV 1; first through 10 drugs tested"
+                },
+                {
+                  "Procedure code": "87904",
+                  "Code description": "Infectious agent phenotype analysis by nucleic acid (DNA or RNA) with drug resistance tissue culture\nanalysis, HIV 1; each additional drug tested (List separately in addition to code for primary procedure)"
+                },
+                {
+                  "Procedure code": "87906",
+                  "Code description": "Infectious agent genotype analysis by nucleic acid (DNA or RNA); HIV-1, other region (e.g., integrase,\nfusion)"
+                },
+                {
+                  "Procedure code": "0219U",
+                  "Code description": "Infectious agent (human immunodeficiency virus), targeted viral next-generation sequence analysis (i.e.,\nprotease [PR], reverse transcriptase [RT], integrase [INT]), algorithm reported as prediction of antiviral\ndrug susceptibility\nProprietary test: Sentosa® SQ HIV-1 Genotyping Assay\nLab/Manufacturer: Vela Diagnostics USA, Inc"
+                }
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 3,
+      "content": [
+        "Abbott. (2018). VIROSEQ HIV-1 GENOTYPING SYSTEM . https://www.molecular.abbott/us/en/products/infectious-disease/viroseq- hiv-1-genotyping-system ASHM. (2018). Antiretroviral Guidelines . https://arv.ashm.org.au/drug-resistance-testing/ ATCC. (2014). ATCC Teams with CDC and Thermo Fisher Scientific on Public Health RT-PCR Assay . https://www.labbulletin.com/articles/ATCC-Teams-CDC-Thermo-Fisher-Scientific-Public-Health-RT-PCR- Assay/categories/20130120_11 CDC. (2014). Revised surveillance case definition for HIV infection--United States, 2014. MMWR Recomm Rep , 63 (Rr-03), 1-10. https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6303a1.htm Coffin, J., & Swanstrom, R. (2013). HIV Pathogenesis: Dynamics and Genetics of Viral Populations and Infected Cells. In Cold Spring Harb Perspect Med (Vol. 3). https://doi.org/10.1101/cshperspect.a012526 DHHS. (2022a, January 20, 2022). Guidelines for the use of antiretroviral agents in adults and adolescents living with HIV . Department of Health and Human Services. Retrieved March 2 from https://clinicalinfo.hiv.gov/en/guidelines/adult-and- adolescent-arv/whats-new-guidelines DHHS. (2022b, April 11, 2022). Guidelines for the Use of Antiretroviral Agents in Pediatric HIV Infection . https://clinicalinfo.hiv.gov/en/guidelines/pediatric-arv/whats-new-guidelines DHHS. (2022c, March 17, 2022). Recommendations for the Use of Antiretroviral Drugs in Pregnant Women with HIV Infection and Interventions to Reduce Perinatal HIV Transmission in the United States . https://clinicalinfo.hiv.gov/en/guidelines/perinatal/whats-new-guidelines EACS. (2021). European AIDS Clinical Society Guidelines Version 11.0 October 2021. https://www.eacsociety.org/media/final2021eacsguidelinesv11.0_oct2021.pdf Fogel, J. M., Bonsall, D., Cummings, V., Bowden, R., Golubchik, T., de Cesare, M., Wilson, E. A., Gamble, T., del Rio, C., Batey, D. S., Mayer, K. H., Farley, J. E., Hughes, J. P., Remien, R. H., Beyrer, C., Fraser, C., & Eshleman, S. H. (2020). Performance of a high- throughput next-generation sequencing method for analysis of HIV drug resistance and viral load. Journal of Antimicrobial Chemotherapy , 75 (12), 3510-3516. https://doi.org/10.1093/jac/dkaa352 Fox, Z. V., Geretti, A. M., Kjaer, J., Dragsted, U. B., Phillips, A. N., Gerstoft, J., Staszewski, S., Clotet, B., von Wyl, V., & Lundgren, J. D. (2007). The ability of four genotypic interpretation systems to predict virological response to ritonavir-boosted protease",
+        "inhibitors. Aids , 21 (15), 2033-2042. https://doi.org/10.1097/QAD.0b013e32825a69e4 Gunthard, H. F., Calvez, V., Paredes, R., Pillay, D., Shafer, R. W., Wensing, A. M., Jacobsen, D. M., & Richman, D. D. (2019). Human Immunodeficiency Virus Drug Resistance: 2018 Recommendations of the International Antiviral Society-USA Panel. Clin Infect Dis , 68 (2), 177-187. https://doi.org/10.1093/cid/ciy463 Kozal, M. (2019a, September 17th, 2019). Interpretation of HIV drug resistance testing . https://www.uptodate.com/contents/interpretation-of-hiv-drug-resistance-testing Kozal, M. (2019b, September 17th, 2019). Overview of HIV drug resistance testing assays . https://www.uptodate.com/contents/overview-of-hiv-drug-resistance-testing-assays LabCorp. (2020). Human Immunodeficiency Virus 1 (HIV-1) PhenoSense GT® Plus Integrase (Monogram® Phenotype + Genotype) . https://www.labcorp.com/tests/551920/human-immunodeficiency-virus-1-hiv-1-phenosense-gt-plus-integrase-monogram- phenotype-genotype Mansky, L. M., & Temin, H. M. (1995). Lower in vivo mutation rate of human immunodeficiency virus type 1 than that predicted from the fidelity of purified reverse transcriptase. J Virol , 69 (8), 5087-5094. https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7541846/ NYSDOH. (2020). Clinical Guidelines Program . https://cdn.hivguidelines.org/wp-content/uploads/20200506090926/NYSDOH-AI-HIV- Resistance-Assays_updated_5-5-2020_mbh.pdf Pröll, J., Paar, C., Taylor, N., Skocic, M., Freystetter, A., Blaimschein, A., Mayr, R., Niklas, N., Atzmüller, S., Raml, E., & Wechselberger, C. (2022). New aspects of the Virus Life Cycle and Clinical Utility of Next Generation Sequencing based HIV-1 Resistance Testing in the Genomic, the Proviral and the Viral Reservoir of Peripheral Blood Mononuclear Cells. Curr HIV Res . https://doi.org/10.2174/1570162x20666220324111418 Raymond, S., Nicot, F., Abravanel, F., Minier, L., Carcenac, R., Lefebvre, C., Harter, A., Martin-Blondel, G., Delobel, P., & Izopet, J. (2020). Performance evaluation of the Vela Dx Sentosa next-generation sequencing system for HIV-1 DNA genotypic resistance. Journal of Clinical Virology , 122 , 104229. https://doi.org/https://doi.org/10.1016/j.jcv.2019.104229 Rosemary, A., Chika, O., Jonathan, O., Godwin, I., Georgina, O., Azuka, O., Zaidat, M., Philippe, C., Oliver, E., Oche, A., David, O., Jay, S., Ibrahim, D., Mukhtar, A., Joshua, D., Chunfu, Y., Elliot, R., Beth, C., Phyllis, K., & Emmanuel, I. (2018). Genotyping performance evaluation of commercially available HIV-1 drug resistance test. PLoS One , 13 (6), e0198246. https://doi.org/10.1371/journal.pone.0198246 Shen, C., Yu, X., Harrison, R. W., & Weber, I. T. (2016). Automated prediction of HIV drug resistance from genotype data. BMC Bioinformatics , 17 Suppl 8 , 278. https://doi.org/10.1186/s12859-016-1114-6 Taylor, T., Lee, E. R., Nykoluk, M., Enns, E., Liang, B., Capina, R., Gauthier, M. K., Domselaar, G. V., Sandstrom, P., Brooks, J., & Ji, H. (2019). A MiSeq-HyDRA platform for enhanced HIV drug resistance genotyping and surveillance. Sci Rep , 9 (1), 8970. https://doi.org/10.1038/s41598-019-45328-3 Vandamme, A. M., Camacho, R. J., Ceccherini-Silberstein, F., de Luca, A., Palmisano, L., Paraskevis, D., Paredes, R., Poljak, M., Schmit, J. C., Soriano, V., Walter, H., & Sonnerborg, A. (2011). European recommendations for the clinical use of HIV drug resistance testing: 2011 update. AIDS Rev , 13 (2), 77-108. http://gruposdetrabajo.sefh.es/afvih/images/stories/Documentos/04resistan2011.pdf Zhang, J., Rhee, S. Y., Taylor, J., & Shafer, R. W. (2005). Comparison of the precision and sensitivity of the Antivirogram and PhenoSense HIV drug susceptibility assays. J Acquir Immune Defic Syndr, 38(4), 439-444."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": null,
+  "references": [
+    "Abbott. (2018). VIROSEQ HIV-1 GENOTYPING SYSTEM . https://www.molecular.abbott/us/en/products/infectious-disease/viroseq- hiv-1-genotyping-system ASHM. (2018). Antiretroviral Guidelines . https://arv.ashm.org.au/drug-resistance-testing/ ATCC. (2014). ATCC Teams with CDC and Thermo Fisher Scientific on Public Health RT-PCR Assay . https://www.labbulletin.com/articles/ATCC-Teams-CDC-Thermo-Fisher-Scientific-Public-Health-RT-PCR- Assay/categories/20130120_11 CDC. (2014). Revised surveillance case definition for HIV infection--United States, 2014. MMWR Recomm Rep , 63 (Rr-03), 1-10. https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6303a1.htm Coffin, J., & Swanstrom, R. (2013). HIV Pathogenesis: Dynamics and Genetics of Viral Populations and Infected Cells. In Cold Spring Harb Perspect Med (Vol. 3). https://doi.org/10.1101/cshperspect.a012526 DHHS. (2022a, January 20, 2022). Guidelines for the use of antiretroviral agents in adults and adolescents living with HIV . Department of Health and Human Services. Retrieved March 2 from https://clinicalinfo.hiv.gov/en/guidelines/adult-and- adolescent-arv/whats-new-guidelines DHHS. (2022b, April 11, 2022). Guidelines for the Use of Antiretroviral Agents in Pediatric HIV Infection . https://clinicalinfo.hiv.gov/en/guidelines/pediatric-arv/whats-new-guidelines DHHS. (2022c, March 17, 2022). Recommendations for the Use of Antiretroviral Drugs in Pregnant Women with HIV Infection and Interventions to Reduce Perinatal HIV Transmission in the United States . https://clinicalinfo.hiv.gov/en/guidelines/perinatal/whats-new-guidelines EACS. (2021). European AIDS Clinical Society Guidelines Version 11.0 October 2021. https://www.eacsociety.org/media/final2021eacsguidelinesv11.0_oct2021.pdf Fogel, J. M., Bonsall, D., Cummings, V., Bowden, R., Golubchik, T., de Cesare, M., Wilson, E. A., Gamble, T., del Rio, C., Batey, D. S., Mayer, K. H., Farley, J. E., Hughes, J. P., Remien, R. H., Beyrer, C., Fraser, C., & Eshleman, S. H. (2020). Performance of a high- throughput next-generation sequencing method for analysis of HIV drug resistance and viral load. Journal of Antimicrobial Chemotherapy , 75 (12), 3510-3516. https://doi.org/10.1093/jac/dkaa352 Fox, Z. V., Geretti, A. M., Kjaer, J., Dragsted, U. B., Phillips, A. N., Gerstoft, J., Staszewski, S., Clotet, B., von Wyl, V., & Lundgren, J. D. (2007). The ability of four genotypic interpretation systems to predict virological response to ritonavir-boosted protease",
+    "inhibitors. Aids , 21 (15), 2033-2042. https://doi.org/10.1097/QAD.0b013e32825a69e4 Gunthard, H. F., Calvez, V., Paredes, R., Pillay, D., Shafer, R. W., Wensing, A. M., Jacobsen, D. M., & Richman, D. D. (2019). Human Immunodeficiency Virus Drug Resistance: 2018 Recommendations of the International Antiviral Society-USA Panel. Clin Infect Dis , 68 (2), 177-187. https://doi.org/10.1093/cid/ciy463 Kozal, M. (2019a, September 17th, 2019). Interpretation of HIV drug resistance testing . https://www.uptodate.com/contents/interpretation-of-hiv-drug-resistance-testing Kozal, M. (2019b, September 17th, 2019). Overview of HIV drug resistance testing assays . https://www.uptodate.com/contents/overview-of-hiv-drug-resistance-testing-assays LabCorp. (2020). Human Immunodeficiency Virus 1 (HIV-1) PhenoSense GT® Plus Integrase (Monogram® Phenotype + Genotype) . https://www.labcorp.com/tests/551920/human-immunodeficiency-virus-1-hiv-1-phenosense-gt-plus-integrase-monogram- phenotype-genotype Mansky, L. M., & Temin, H. M. (1995). Lower in vivo mutation rate of human immunodeficiency virus type 1 than that predicted from the fidelity of purified reverse transcriptase. J Virol , 69 (8), 5087-5094. https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7541846/ NYSDOH. (2020). Clinical Guidelines Program . https://cdn.hivguidelines.org/wp-content/uploads/20200506090926/NYSDOH-AI-HIV- Resistance-Assays_updated_5-5-2020_mbh.pdf Pröll, J., Paar, C., Taylor, N., Skocic, M., Freystetter, A., Blaimschein, A., Mayr, R., Niklas, N., Atzmüller, S., Raml, E., & Wechselberger, C. (2022). New aspects of the Virus Life Cycle and Clinical Utility of Next Generation Sequencing based HIV-1 Resistance Testing in the Genomic, the Proviral and the Viral Reservoir of Peripheral Blood Mononuclear Cells. Curr HIV Res . https://doi.org/10.2174/1570162x20666220324111418 Raymond, S., Nicot, F., Abravanel, F., Minier, L., Carcenac, R., Lefebvre, C., Harter, A., Martin-Blondel, G., Delobel, P., & Izopet, J. (2020). Performance evaluation of the Vela Dx Sentosa next-generation sequencing system for HIV-1 DNA genotypic resistance. Journal of Clinical Virology , 122 , 104229. https://doi.org/https://doi.org/10.1016/j.jcv.2019.104229 Rosemary, A., Chika, O., Jonathan, O., Godwin, I., Georgina, O., Azuka, O., Zaidat, M., Philippe, C., Oliver, E., Oche, A., David, O., Jay, S., Ibrahim, D., Mukhtar, A., Joshua, D., Chunfu, Y., Elliot, R., Beth, C., Phyllis, K., & Emmanuel, I. (2018). Genotyping performance evaluation of commercially available HIV-1 drug resistance test. PLoS One , 13 (6), e0198246. https://doi.org/10.1371/journal.pone.0198246 Shen, C., Yu, X., Harrison, R. W., & Weber, I. T. (2016). Automated prediction of HIV drug resistance from genotype data. BMC Bioinformatics , 17 Suppl 8 , 278. https://doi.org/10.1186/s12859-016-1114-6 Taylor, T., Lee, E. R., Nykoluk, M., Enns, E., Liang, B., Capina, R., Gauthier, M. K., Domselaar, G. V., Sandstrom, P., Brooks, J., & Ji, H. (2019). A MiSeq-HyDRA platform for enhanced HIV drug resistance genotyping and surveillance. Sci Rep , 9 (1), 8970. https://doi.org/10.1038/s41598-019-45328-3 Vandamme, A. M., Camacho, R. J., Ceccherini-Silberstein, F., de Luca, A., Palmisano, L., Paraskevis, D., Paredes, R., Poljak, M., Schmit, J. C., Soriano, V., Walter, H., & Sonnerborg, A. (2011). European recommendations for the clinical use of HIV drug resistance testing: 2011 update. AIDS Rev , 13 (2), 77-108. http://gruposdetrabajo.sefh.es/afvih/images/stories/Documentos/04resistan2011.pdf Zhang, J., Rhee, S. Y., Taylor, J., & Shafer, R. W. (2005). Comparison of the precision and sensitivity of the Antivirogram and PhenoSense HIV drug susceptibility assays. J Acquir Immune Defic Syndr, 38(4), 439-444."
+  ],
+  "resources": null,
+  "_extraction_stats": {
+    "total_sections": 3,
+    "total_tables": 1,
+    "total_characters": 7162
+  }
+}

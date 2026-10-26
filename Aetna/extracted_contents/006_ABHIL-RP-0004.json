@@ -1,0 +1,99 @@
+{
+  "policy_title": "Esketamine Services",
+  "policy_number": "ABHIL-RP-0004",
+  "effective_date": "06/01/2024",
+  "expiry_date": "12/01/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "99212",
+    "99213",
+    "99214",
+    "99215",
+    "99415",
+    "99416",
+    "99417",
+    "G2082",
+    "G2083"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for the provision and supervision of Esketamine self- administration \nwhen \n• \nReported using the appropriate HCPCS Level II code that applies to the documented \ndosage administered \n \nClaims that are submitted will be denied when \n• \nReported using an inappropriate office or outpatient E&M CPT codes \n• \nReported using an inappropriate prolonged service CPT codes \n \nThe medical record documentation is expected to support the specific CPT, HCPCS and ICD-10-\nCM code(s) and any applicable modifier(s) reported.",
+    "subsections": [
+      {
+        "title": "Reported using the appropriate HCPCS Level II code that applies to the documented",
+        "content": "dosage administered Claims that are submitted will be denied when"
+      },
+      {
+        "title": "Reported using an inappropriate office or outpatient E&M CPT codes",
+        "content": "Reported using an inappropriate office or outpatient E&M CPT codes"
+      },
+      {
+        "title": "Reported using an inappropriate prolonged service CPT codes",
+        "content": "The medical record documentation is expected to support the specific CPT, HCPCS and ICD-10- CM code(s) and any applicable modifier(s) reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for the provision and supervision of Esketamine self- administration\nwhen\n• Reported using the appropriate HCPCS Level II code that applies to the documented\ndosage administered\nClaims that are submitted will be denied when\n• Reported using an inappropriate office or outpatient E&M CPT codes\n• Reported using an inappropriate prolonged service CPT codes\nThe medical record documentation is expected to support the specific CPT, HCPCS and ICD-10-\nCM code(s) and any applicable modifier(s) reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "Appropriate HCPCS Level II Codes\nG2082 Office or other outpatient visit for the evaluation and management of an\nestablished patient that requires the supervision of a physician or other\nqualified health care professional and provision of up to 56 mg of\nesketamine nasal self-administration, includes 2 hours post administration\nobservation\nG2083 Office or other outpatient visit for the evaluation and management of an\nestablished patient that requires the supervision of a physician or other\nqualified health care professional and provision of greater than 56 mg\nesketamine nasal self-administration, includes 2 hours post administration\nobservation\nInappropriate CPT Codes\n99212 Office or other outpatient visit for the evaluation and management of an\nestablished patient, which requires a medically appropriate history and/or\nexamination and straightforward medical decision making. When using total\ntime on the date of the encounter for code selection, 10 minutes must be\nmet or exceeded.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "G2082",
+            "value": "Office or other outpatient visit for the evaluation and management of an\nestablished patient that requires the supervision of a physician or other\nqualified health care professional and provision of up to 56 mg of\nesketamine nasal self-administration, includes 2 hours post administration\nobservation"
+          },
+          {
+            "key": "G2083",
+            "value": "Office or other outpatient visit for the evaluation and management of an\nestablished patient that requires the supervision of a physician or other\nqualified health care professional and provision of greater than 56 mg\nesketamine nasal self-administration, includes 2 hours post administration\nobservation"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "99212",
+            "value": "Office or other outpatient visit for the evaluation and management of an\nestablished patient, which requires a medically appropriate history and/or\nexamination and straightforward medical decision making. When using total\ntime on the date of the encounter for code selection, 10 minutes must be\nmet or exceeded."
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. CPT Professional Edition 2026, AMA; 2025. \n2. American Medical Association. HCPCS Level II Professional Edition. 2026 ed. American \nMedical Association; 2025"
+}

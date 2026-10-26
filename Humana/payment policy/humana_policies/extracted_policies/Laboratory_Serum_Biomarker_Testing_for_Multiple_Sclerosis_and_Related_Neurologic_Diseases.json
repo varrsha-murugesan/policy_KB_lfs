@@ -1,0 +1,148 @@
+{
+  "policy_metadata": {
+    "policy_title": "Laboratory – Serum Biomarker Testing for Multiple Sclerosis and Related Neurologic Diseases",
+    "policy_number": "LAB2023015",
+    "published_date": "04/2023",
+    "effective_date": "04/2023",
+    "revision_date": "04/2026",
+    "last_reviewed": "04/2026",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Both",
+    "source_pdf": "Laboratory_-_Serum_Biomarker_Testing_for_Multiple_Sclerosis_and_Related_Neurolog-35b09bcc.pdf",
+    "total_pages": 4,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "86051",
+      "86052",
+      "86053",
+      "86362",
+      "86363"
+    ],
+    "cpt_codes": [
+      "86051",
+      "86052",
+      "86053",
+      "86362",
+      "86363"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. • Measurement of aquaporin-4 immunoglobulin G and myelin oligodendrocyte glycoprotein-immunoglobulin G using a serum indirect fluorescence assay (CPT code 86052, CPT code 86362) or fluorescence-activated cell sorting assay (CPT code 86053*, CPT code 86363*) IS REIMBURSABLE for individuals with any of the following conditions: – Blindness or vision loss – Demyelinating disease – Disease of spinal cord – Encephalitis – Erectile dysfunction after myelitis – Lesion on the brain, optic nerve or spinal cord – Myelitis – Neuritis – Neutrophilic cerebrospinal fluid (CSF) pleocytosis – Optic papillitis – Papilledema – White matter disease • Enzyme-linked immunosorbent assay (ELISA) testing for aquaporin-4 (CPT code 86051) IS NOT REIMBURSABLE for individuals with any of the following conditions: – Demyelinating disease – Disease of spinal cord – Encephalitis – Multiple sclerosis – Myelitis – Neuritis – Optic papillitis"
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Applicable procedures for Medicare Advantage plans",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [],
+          "tables": [
+            {
+              "type": "table",
+              "page_start": 2,
+              "page_end": 2,
+              "columns": [
+                "Procedure code",
+                "Code description"
+              ],
+              "row_count": 5,
+              "rows": [
+                {
+                  "Procedure code": "86051",
+                  "Code description": "Aquaporin-4 (neuromyelitis optica [NMO]) antibody; enzyme-linked immunosorbent immunoassay\n(ELISA)"
+                },
+                {
+                  "Procedure code": "86052",
+                  "Code description": "Aquaporin-4 (neuromyelitis optica [NMO]) antibody; cell-based immunofluorescence assay (CBA), each"
+                },
+                {
+                  "Procedure code": "86053*",
+                  "Code description": "Aquaporin-4 (neuromyelitis optica [NMO]) antibody; flow cytometry (ie, fluorescence-activated cell\nsorting [FACS]), each"
+                },
+                {
+                  "Procedure code": "86362",
+                  "Code description": "Myelin oligodendrocyte glycoprotein (MOG-IgG1) antibody; cell-based immunofluorescence assay (CBA),\neach"
+                },
+                {
+                  "Procedure code": "86363*",
+                  "Code description": "Myelin oligodendrocyte glycoprotein (MOG-IgG1) antibody; flow cytometry (ie, fluorescence-activated\ncell sorting [FACS]), each"
+                }
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Original Medicare Local Coverage Determinations (LCDs)",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 2,
+          "page_end": 2,
+          "columns": [
+            "Contractor name",
+            "Policy title",
+            "Policy number",
+            "Procedure code"
+          ],
+          "row_count": 1,
+          "rows": [
+            {
+              "Contractor name": "Noridian Healthcare\nSolutions, LLC",
+              "Policy title": "Lab: Flow Cytometry",
+              "Policy number": "L34215",
+              "Procedure code": "86053\n86363"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 4,
+      "content": [
+        "Atlas of MS. (2023). MS Statistics . https://www.atlasofms.org/map/united-states-of-america/epidemiology/number-of-people-with- ms Benkert, P., Meier, S., Schaedelin, S., Manouchehrinia, A., Yaldizli, Ö., Maceski, A., Oechtering, J., Achtnichts, L., Conen, D., Derfuss, T., Lalive, P. H., Mueller, C., Müller, S., Naegelin, Y., Oksenberg, J. R., Pot, C., Salmen, A., Willemse, E., Kockum, I., . . . Kuhle, J. (2022). Serum neurofilament light chain for individual prognostication of disease activity in people with multiple sclerosis: a retrospective modelling and validation study. Lancet Neurol , 21 (3), 246-257. https://doi.org/10.1016/s1474-4422(22)00009-6 Brownlee, W. J., Hardy, T. A., Fazekas, F., & Miller, D. H. (2017). Diagnosis of multiple sclerosis: progress and challenges. Lancet , 389 (10076), 1336-1346. https://doi.org/10.1016/s0140-6736(16)30959-x Cantó, E., Barro, C., Zhao, C., Caillier, S. J., Michalak, Z., Bove, R., Tomic, D., Santaniello, A., Häring, D. A., Hollenbach, J., Henry, R. G., Cree, B. A. C., Kappos, L., Leppert, D., Hauser, S. L., Benkert, P., Oksenberg, J. R., & Kuhle, J. (2019). Association Between Serum Neurofilament Light Chain Levels and Long-term Disease Course Among Patients With Multiple Sclerosis Followed up for 12 Years. JAMA Neurol , 76 (11), 1359-1366. https://doi.org/10.1001/jamaneurol.2019.2137 Comabella, M., & Montalban, X. (2014). Body fluid biomarkers in multiple sclerosis. Lancet Neurol , 13 (1), 113-126. https://doi.org/10.1016/s1474-4422(13)70233-3 Comabella, M., Sastre-Garriga, J., & Montalban, X. (2016). Precision medicine in multiple sclerosis: biomarkers for diagnosis, prognosis, and treatment response. Curr Opin Neurol , 29 (3), 254-262. https://doi.org/10.1097/wco.0000000000000336 El Ayoubi, N. K., & Khoury, S. J. (2017). Blood Biomarkers as Outcome Measures in Inflammatory Neurologic Diseases. Neurotherapeutics , 14 (1), 135-147. https://doi.org/10.1007/s13311-016-0486-7 Eriksson, M., Andersen, O., & Runmarker, B. (2003). Long-term follow up of patients with clinically isolated syndromes, relapsing- remitting and secondary progressive multiple sclerosis. Mult Scler , 9 (3), 260-274. https://doi.org/10.1191/1352458503ms914oa FDA. (2016). 510k . https://www.accessdata.fda.gov/cdrh_docs/pdf16/K161951.pdf Filippi, M., & Rocca, M. A. (2011). MR imaging of multiple sclerosis. Radiology , 259 (3), 659-681. https://doi.org/10.1148/radiol.11101362 Fryer, J. P., Lennon, V. A., Pittock, S. J., Jenkins, S. M., Fallier-Becker, P., Clardy, S. L., Horta, E., Jedynak, E. A., Lucchinetti, C. F., Shuster, E. A., Weinshenker, B. G., Wingerchuk, D. M., & McKeon, A. (2014). AQP4 autoantibody assay performance in clinical laboratory service. Neurol Neuroimmunol Neuroinflamm , 1 (1), e11. https://doi.org/10.1212/NXI.0000000000000011 Gil-Perotin, S., Castillo-Villalba, J., Cubas-Nuñez, L., Gasque, R., Hervas, D., Gomez-Mateu, J., Alcala, C., Perez-Miralles, F., Gascon, F., Dominguez, J. A., & Casanova, B. (2019). Combined Cerebrospinal Fluid Neurofilament Light Chain Protein and Chitinase-3 Like- 1 Levels in Defining Disease Course and Prognosis in Multiple Sclerosis. Front Neurol , 10 , 1008. https://doi.org/10.3389/fneur.2019.01008 Glisson, C. C. (2024). Neuromyelitis optica spectrum disorders . Wolters Kluwer. https://www.uptodate.com/contents/neuromyelitis- optica-spectrum-disorders-nmosd-clinical-features-and-diagnosis Goodin, D. S. (2014). The epidemiology of multiple sclerosis: insights to disease pathogenesis. Handb Clin Neurol , 122 , 231-266. https://doi.org/10.1016/b978-0-444-52001-2.00010-8 Hyun, J. W., Kim, W., Huh, S. Y., Park, M. S., Ahn, S. W., Cho, J. Y., Kim, B. J., Lee, S. H., Kim, S. H., & Kim, H. J. (2018). Application of the 2017 McDonald diagnostic criteria for multiple sclerosis in Korean patients with clinically isolated syndrome. Mult Scler ,",
+        "1352458518790702. https://doi.org/10.1177/1352458518790702 Jarius, S., Paul, F., Aktas, O., Asgari, N., Dale, R. C., de Seze, J., Franciotta, D., Fujihara, K., Jacob, A., Kim, H. J., Kleiter, I., Kümpfel, T., Levy, M., Palace, J., Ruprecht, K., Saiz, A., Trebst, C., Weinshenker, B. G., & Wildemann, B. (2018). MOG encephalomyelitis: international recommendations on diagnosis and antibody testing. Journal of Neuroinflammation , 15 , 134. https://doi.org/10.1186/s12974-018-1144-2 Jitprapaikulsan, J., Chen, J. J., Flanagan, E. P., Tobin, W. O., Fryer, J. P., Weinshenker, B. G., McKeon, A., Lennon, V. A., Leavitt, J. A., Tillema, J. M., Lucchinetti, C., Keegan, B. M., Kantarci, O., Khanna, C., Jenkins, S. M., Spears, G. M., Sagan, J., & Pittock, S. J. (2018). Aquaporin-4 and Myelin Oligodendrocyte Glycoprotein Autoantibody Status Predict Outcome of Recurrent Optic Neuritis. Ophthalmology , 125 (10), 1628-1637. https://doi.org/10.1016/j.ophtha.2018.03.041 Koch, M., Kingwell, E., Rieckmann, P., & Tremlett, H. (2009). The natural history of primary progressive multiple sclerosis. Neurology , 73 (23), 1996-2002. https://doi.org/10.1212/WNL.0b013e3181c5b47f Lim, C. K., Bilgin, A., Lovejoy, D. B., Tan, V., Bustamante, S., Taylor, B. V., Bessede, A., Brew, B. J., & Guillemin, G. J. (2017). Kynurenine pathway metabolomics predicts and provides mechanistic insight into multiple sclerosis progression. Sci Rep , 7 ,",
+        "41473. https://doi.org/10.1038/srep41473 Lotze, T. E. (2024). Differential diagnosis of acute central nervous system demyelination in children . Wolters Kluwer. https://www.uptodate.com/contents/differential-diagnosis-of-acute-central-nervous-system-demyelination-in-children Lublin, F. D., Coetzee, T., Cohen, J. A., Marrie, R. A., Thompson, A. J., & International Advisory Committee on Clinical Trials in, M. S. (2020). The 2013 clinical course descriptors for multiple sclerosis: A clarification. Neurology , 94 (24), 1088-1092. https://doi.org/10.1212/WNL.0000000000009636 Lublin, F. D., Reingold, S. C., Cohen, J. A., Cutter, G. R., Sorensen, P. S., Thompson, A. J., Wolinsky, J. S., Balcer, L. J., Banwell, B., Barkhof, F., Bebo, B., Jr., Calabresi, P. A., Clanet, M., Comi, G., Fox, R. J., Freedman, M. S., Goodman, A. D., Inglese, M., Kappos, L., . . . Polman, C. H. (2014). Defining the clinical course of multiple sclerosis: the 2013 revisions. Neurology , 83 (3), 278-286. https://doi.org/10.1212/wnl.0000000000000560 Luzzio, C. (2023). Multiple Sclerosis Guidelines. https://emedicine.medscape.com/article/1146199-guidelines Martin, S.-J., McGlasson, S., Hunt, D., & Overell, J. (2019). Cerebrospinal fluid neurofilament light chain in multiple sclerosis and its subtypes: a meta-analysis of case–control studies. Journal of Neurology, Neurosurgery &amp;amp; Psychiatry , 90 (9), 1059. https://doi.org/10.1136/jnnp-2018-319190 NICE. (2022). Multiple sclerosis in adults: management. https://www.nice.org.uk/guidance/ng220/chapter/Recommendations#diagnosing-multiple-sclerosis Offenbacher, H., Fazekas, F., Schmidt, R., Freidl, W., Flooh, E., Payer, F., & Lechner, H. (1993). Assessment of MRI criteria for a diagnosis of MS. Neurology , 43 (5), 905-909. https://doi.org/10.1212/wnl.43.5.905 Olek, M., Howard, Jonathan. (2024a). Clinical course and classification of multiple sclerosis - UpToDate. In J. Dashe (Ed.), UpToDate . https://www.uptodate.com/contents/clinical-presentation-course-and-prognosis-of-multiple-sclerosis-in-adults Olek, M., Howard, Jonathan. (2024b). Evaluation and diagnosis of multiple sclerosis in adults. In J. Dashe (Ed.), UpToDate . https://www.uptodate.com/contents/evaluation-and-diagnosis-of-multiple-sclerosis-in-adults Raphael, I., Webb, J., Stuve, O., Haskins, W. E., & Forsthuber, T. G. (2015). Body fluid biomarkers in multiple sclerosis: how far we have come and how they could affect the clinic now and in the future. Expert Rev Clin Immunol , 11 (1), 69-91. https://doi.org/10.1586/1744666x.2015.991315 Rovira, A., Swanton, J., Tintore, M., Huerga, E., Barkhof, F., Filippi, M., Frederiksen, J. L., Langkilde, A., Miszkiel, K., Polman, C., Rovaris, M., Sastre-Garriga, J., Miller, D., & Montalban, X. (2009). A single, early magnetic resonance imaging study in the diagnosis of multiple sclerosis. Arch Neurol , 66 (5), 587-592. https://doi.org/10.1001/archneurol.2009.49 Sapko, K., Jamroz-Wisniewska, A., Marciniec, M., Kulczynski, M., Szczepanska-Szerej, A., & Rejdak, K. (2020). Biomarkers in Multiple Sclerosis: a review of diagnostic and prognostic factors. Neurol Neurochir Pol , 54 (3), 252-258. https://doi.org/10.5603/PJNNS.a2020.0037 Schaffler, N., Kopke, S., Winkler, L., Schippling, S., Inglese, M., Fischer, K., & Heesen, C. (2011). Accuracy of diagnostic tests in multiple sclerosis--a systematic review. Acta Neurol Scand , 124 (3), 151-164. https://doi.org/10.1111/j.1600-0404.2010.01454.x Simonsen, C. S., Flemmen, H., Lauritzen, T., Berg-Hansen, P., Moen, S. M., & Celius, E. G. (2020). The diagnostic value of IgG index versus oligoclonal bands in cerebrospinal fluid of patients with multiple sclerosis. Mult Scler J Exp Transl Clin , 6 (1),",
+        "2055217319901291. https://doi.org/10.1177/2055217319901291 Sotirchos, E. S., Filippatou, A., Fitzgerald, K. C., Salama, S., Pardo, S., Wang, J., Ogbuokiri, E., Cowley, N. J., Pellegrini, N., Murphy, O. C., Mealy, M. A., Prince, J. L., Levy, M., Calabresi, P. A., & Saidha, S. (2019). Aquaporin-4 IgG seropositivity is associated with worse visual outcomes after optic neuritis than MOG-IgG seropositivity and multiple sclerosis, independent of macular ganglion cell layer thinning. Mult Scler , 1352458519864928. https://doi.org/10.1177/1352458519864928 Teunissen, C. E., Malekzadeh, A., Leurs, C., Bridel, C., & Killestein, J. (2015). Body fluid biomarkers for multiple sclerosis--the long road to clinical application. Nat Rev Neurol , 11 (10), 585-596. https://doi.org/10.1038/nrneurol.2015.173 Thompson, A. J., Banwell, B. L., Barkhof, F., Carroll, W. M., Coetzee, T., Comi, G., Correale, J., Fazekas, F., Filippi, M., Freedman, M. S., Fujihara, K., Galetta, S. L., Hartung, H. P., Kappos, L., Lublin, F. D., Marrie, R. A., Miller, A. E., Miller, D. H., Montalban, X., . . . Cohen, J. A. (2018). Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria. Lancet Neurol , 17 (2), 162-173. https://doi.org/10.1016/s1474-4422(17)30470-2 Wallin, M. T., Culpepper, W. J., Campbell, J. D., Nelson, L. M., Langer-Gould, A., Marrie, R. A., Cutter, G. R., Kaye, W. E., Wagner, L., Tremlett, H., Buka, S. L., Dilokthornsakul, P., Topol, B., Chen, L. H., & LaRocca, N. G. (2019). The prevalence of MS in the United States: A population-based estimate using health claims data. Neurology , 92 (10), e1029-e1040. https://doi.org/10.1212/wnl.0000000000007035 Weinshenker, B. G. (1994). Natural history of multiple sclerosis. Ann Neurol , 36 Suppl , S6-11. https://doi.org/10.1002/ana.410360704 Wingerchuk, D. M., Banwell, B., Bennett, J. L., Cabre, P., Carroll, W., Chitnis, T., de Seze, J., Fujihara, K., Greenberg, B., Jacob, A., Jarius, S., Lana-Peixoto, M., Levy, M., Simon, J. H., Tenembaum, S., Traboulsee, A. L., Waters, P., Wellik, K. E., & Weinshenker, B. G. (2015). International consensus diagnostic criteria for neuromyelitis optica spectrum disorders. Neurology , 85 (2), 177-189. https://doi.org/10.1212/wnl.0000000000001729 Yang, J., Hamade, M., Wu, Q., Wang, Q., Axtell, R., Giri, S., & Mao-Draayer, Y. (2022). Current and Future Biomarkers in Multiple Sclerosis. Int J Mol Sci , 23 (11). https://doi.org/10.3390/ijms23115877"
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": null,
+  "references": [
+    "Atlas of MS. (2023). MS Statistics . https://www.atlasofms.org/map/united-states-of-america/epidemiology/number-of-people-with- ms Benkert, P., Meier, S., Schaedelin, S., Manouchehrinia, A., Yaldizli, Ö., Maceski, A., Oechtering, J., Achtnichts, L., Conen, D., Derfuss, T., Lalive, P. H., Mueller, C., Müller, S., Naegelin, Y., Oksenberg, J. R., Pot, C., Salmen, A., Willemse, E., Kockum, I., . . . Kuhle, J. (2022). Serum neurofilament light chain for individual prognostication of disease activity in people with multiple sclerosis: a retrospective modelling and validation study. Lancet Neurol , 21 (3), 246-257. https://doi.org/10.1016/s1474-4422(22)00009-6 Brownlee, W. J., Hardy, T. A., Fazekas, F., & Miller, D. H. (2017). Diagnosis of multiple sclerosis: progress and challenges. Lancet , 389 (10076), 1336-1346. https://doi.org/10.1016/s0140-6736(16)30959-x Cantó, E., Barro, C., Zhao, C., Caillier, S. J., Michalak, Z., Bove, R., Tomic, D., Santaniello, A., Häring, D. A., Hollenbach, J., Henry, R. G., Cree, B. A. C., Kappos, L., Leppert, D., Hauser, S. L., Benkert, P., Oksenberg, J. R., & Kuhle, J. (2019). Association Between Serum Neurofilament Light Chain Levels and Long-term Disease Course Among Patients With Multiple Sclerosis Followed up for 12 Years. JAMA Neurol , 76 (11), 1359-1366. https://doi.org/10.1001/jamaneurol.2019.2137 Comabella, M., & Montalban, X. (2014). Body fluid biomarkers in multiple sclerosis. Lancet Neurol , 13 (1), 113-126. https://doi.org/10.1016/s1474-4422(13)70233-3 Comabella, M., Sastre-Garriga, J., & Montalban, X. (2016). Precision medicine in multiple sclerosis: biomarkers for diagnosis, prognosis, and treatment response. Curr Opin Neurol , 29 (3), 254-262. https://doi.org/10.1097/wco.0000000000000336 El Ayoubi, N. K., & Khoury, S. J. (2017). Blood Biomarkers as Outcome Measures in Inflammatory Neurologic Diseases. Neurotherapeutics , 14 (1), 135-147. https://doi.org/10.1007/s13311-016-0486-7 Eriksson, M., Andersen, O., & Runmarker, B. (2003). Long-term follow up of patients with clinically isolated syndromes, relapsing- remitting and secondary progressive multiple sclerosis. Mult Scler , 9 (3), 260-274. https://doi.org/10.1191/1352458503ms914oa FDA. (2016). 510k . https://www.accessdata.fda.gov/cdrh_docs/pdf16/K161951.pdf Filippi, M., & Rocca, M. A. (2011). MR imaging of multiple sclerosis. Radiology , 259 (3), 659-681. https://doi.org/10.1148/radiol.11101362 Fryer, J. P., Lennon, V. A., Pittock, S. J., Jenkins, S. M., Fallier-Becker, P., Clardy, S. L., Horta, E., Jedynak, E. A., Lucchinetti, C. F., Shuster, E. A., Weinshenker, B. G., Wingerchuk, D. M., & McKeon, A. (2014). AQP4 autoantibody assay performance in clinical laboratory service. Neurol Neuroimmunol Neuroinflamm , 1 (1), e11. https://doi.org/10.1212/NXI.0000000000000011 Gil-Perotin, S., Castillo-Villalba, J., Cubas-Nuñez, L., Gasque, R., Hervas, D., Gomez-Mateu, J., Alcala, C., Perez-Miralles, F., Gascon, F., Dominguez, J. A., & Casanova, B. (2019). Combined Cerebrospinal Fluid Neurofilament Light Chain Protein and Chitinase-3 Like- 1 Levels in Defining Disease Course and Prognosis in Multiple Sclerosis. Front Neurol , 10 , 1008. https://doi.org/10.3389/fneur.2019.01008 Glisson, C. C. (2024). Neuromyelitis optica spectrum disorders . Wolters Kluwer. https://www.uptodate.com/contents/neuromyelitis- optica-spectrum-disorders-nmosd-clinical-features-and-diagnosis Goodin, D. S. (2014). The epidemiology of multiple sclerosis: insights to disease pathogenesis. Handb Clin Neurol , 122 , 231-266. https://doi.org/10.1016/b978-0-444-52001-2.00010-8 Hyun, J. W., Kim, W., Huh, S. Y., Park, M. S., Ahn, S. W., Cho, J. Y., Kim, B. J., Lee, S. H., Kim, S. H., & Kim, H. J. (2018). Application of the 2017 McDonald diagnostic criteria for multiple sclerosis in Korean patients with clinically isolated syndrome. Mult Scler ,",
+    "1352458518790702. https://doi.org/10.1177/1352458518790702 Jarius, S., Paul, F., Aktas, O., Asgari, N., Dale, R. C., de Seze, J., Franciotta, D., Fujihara, K., Jacob, A., Kim, H. J., Kleiter, I., Kümpfel, T., Levy, M., Palace, J., Ruprecht, K., Saiz, A., Trebst, C., Weinshenker, B. G., & Wildemann, B. (2018). MOG encephalomyelitis: international recommendations on diagnosis and antibody testing. Journal of Neuroinflammation , 15 , 134. https://doi.org/10.1186/s12974-018-1144-2 Jitprapaikulsan, J., Chen, J. J., Flanagan, E. P., Tobin, W. O., Fryer, J. P., Weinshenker, B. G., McKeon, A., Lennon, V. A., Leavitt, J. A., Tillema, J. M., Lucchinetti, C., Keegan, B. M., Kantarci, O., Khanna, C., Jenkins, S. M., Spears, G. M., Sagan, J., & Pittock, S. J. (2018). Aquaporin-4 and Myelin Oligodendrocyte Glycoprotein Autoantibody Status Predict Outcome of Recurrent Optic Neuritis. Ophthalmology , 125 (10), 1628-1637. https://doi.org/10.1016/j.ophtha.2018.03.041 Koch, M., Kingwell, E., Rieckmann, P., & Tremlett, H. (2009). The natural history of primary progressive multiple sclerosis. Neurology , 73 (23), 1996-2002. https://doi.org/10.1212/WNL.0b013e3181c5b47f Lim, C. K., Bilgin, A., Lovejoy, D. B., Tan, V., Bustamante, S., Taylor, B. V., Bessede, A., Brew, B. J., & Guillemin, G. J. (2017). Kynurenine pathway metabolomics predicts and provides mechanistic insight into multiple sclerosis progression. Sci Rep , 7 ,",
+    "41473. https://doi.org/10.1038/srep41473 Lotze, T. E. (2024). Differential diagnosis of acute central nervous system demyelination in children . Wolters Kluwer. https://www.uptodate.com/contents/differential-diagnosis-of-acute-central-nervous-system-demyelination-in-children Lublin, F. D., Coetzee, T., Cohen, J. A., Marrie, R. A., Thompson, A. J., & International Advisory Committee on Clinical Trials in, M. S. (2020). The 2013 clinical course descriptors for multiple sclerosis: A clarification. Neurology , 94 (24), 1088-1092. https://doi.org/10.1212/WNL.0000000000009636 Lublin, F. D., Reingold, S. C., Cohen, J. A., Cutter, G. R., Sorensen, P. S., Thompson, A. J., Wolinsky, J. S., Balcer, L. J., Banwell, B., Barkhof, F., Bebo, B., Jr., Calabresi, P. A., Clanet, M., Comi, G., Fox, R. J., Freedman, M. S., Goodman, A. D., Inglese, M., Kappos, L., . . . Polman, C. H. (2014). Defining the clinical course of multiple sclerosis: the 2013 revisions. Neurology , 83 (3), 278-286. https://doi.org/10.1212/wnl.0000000000000560 Luzzio, C. (2023). Multiple Sclerosis Guidelines. https://emedicine.medscape.com/article/1146199-guidelines Martin, S.-J., McGlasson, S., Hunt, D., & Overell, J. (2019). Cerebrospinal fluid neurofilament light chain in multiple sclerosis and its subtypes: a meta-analysis of case–control studies. Journal of Neurology, Neurosurgery &amp;amp; Psychiatry , 90 (9), 1059. https://doi.org/10.1136/jnnp-2018-319190 NICE. (2022). Multiple sclerosis in adults: management. https://www.nice.org.uk/guidance/ng220/chapter/Recommendations#diagnosing-multiple-sclerosis Offenbacher, H., Fazekas, F., Schmidt, R., Freidl, W., Flooh, E., Payer, F., & Lechner, H. (1993). Assessment of MRI criteria for a diagnosis of MS. Neurology , 43 (5), 905-909. https://doi.org/10.1212/wnl.43.5.905 Olek, M., Howard, Jonathan. (2024a). Clinical course and classification of multiple sclerosis - UpToDate. In J. Dashe (Ed.), UpToDate . https://www.uptodate.com/contents/clinical-presentation-course-and-prognosis-of-multiple-sclerosis-in-adults Olek, M., Howard, Jonathan. (2024b). Evaluation and diagnosis of multiple sclerosis in adults. In J. Dashe (Ed.), UpToDate . https://www.uptodate.com/contents/evaluation-and-diagnosis-of-multiple-sclerosis-in-adults Raphael, I., Webb, J., Stuve, O., Haskins, W. E., & Forsthuber, T. G. (2015). Body fluid biomarkers in multiple sclerosis: how far we have come and how they could affect the clinic now and in the future. Expert Rev Clin Immunol , 11 (1), 69-91. https://doi.org/10.1586/1744666x.2015.991315 Rovira, A., Swanton, J., Tintore, M., Huerga, E., Barkhof, F., Filippi, M., Frederiksen, J. L., Langkilde, A., Miszkiel, K., Polman, C., Rovaris, M., Sastre-Garriga, J., Miller, D., & Montalban, X. (2009). A single, early magnetic resonance imaging study in the diagnosis of multiple sclerosis. Arch Neurol , 66 (5), 587-592. https://doi.org/10.1001/archneurol.2009.49 Sapko, K., Jamroz-Wisniewska, A., Marciniec, M., Kulczynski, M., Szczepanska-Szerej, A., & Rejdak, K. (2020). Biomarkers in Multiple Sclerosis: a review of diagnostic and prognostic factors. Neurol Neurochir Pol , 54 (3), 252-258. https://doi.org/10.5603/PJNNS.a2020.0037 Schaffler, N., Kopke, S., Winkler, L., Schippling, S., Inglese, M., Fischer, K., & Heesen, C. (2011). Accuracy of diagnostic tests in multiple sclerosis--a systematic review. Acta Neurol Scand , 124 (3), 151-164. https://doi.org/10.1111/j.1600-0404.2010.01454.x Simonsen, C. S., Flemmen, H., Lauritzen, T., Berg-Hansen, P., Moen, S. M., & Celius, E. G. (2020). The diagnostic value of IgG index versus oligoclonal bands in cerebrospinal fluid of patients with multiple sclerosis. Mult Scler J Exp Transl Clin , 6 (1),",
+    "2055217319901291. https://doi.org/10.1177/2055217319901291 Sotirchos, E. S., Filippatou, A., Fitzgerald, K. C., Salama, S., Pardo, S., Wang, J., Ogbuokiri, E., Cowley, N. J., Pellegrini, N., Murphy, O. C., Mealy, M. A., Prince, J. L., Levy, M., Calabresi, P. A., & Saidha, S. (2019). Aquaporin-4 IgG seropositivity is associated with worse visual outcomes after optic neuritis than MOG-IgG seropositivity and multiple sclerosis, independent of macular ganglion cell layer thinning. Mult Scler , 1352458519864928. https://doi.org/10.1177/1352458519864928 Teunissen, C. E., Malekzadeh, A., Leurs, C., Bridel, C., & Killestein, J. (2015). Body fluid biomarkers for multiple sclerosis--the long road to clinical application. Nat Rev Neurol , 11 (10), 585-596. https://doi.org/10.1038/nrneurol.2015.173 Thompson, A. J., Banwell, B. L., Barkhof, F., Carroll, W. M., Coetzee, T., Comi, G., Correale, J., Fazekas, F., Filippi, M., Freedman, M. S., Fujihara, K., Galetta, S. L., Hartung, H. P., Kappos, L., Lublin, F. D., Marrie, R. A., Miller, A. E., Miller, D. H., Montalban, X., . . . Cohen, J. A. (2018). Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria. Lancet Neurol , 17 (2), 162-173. https://doi.org/10.1016/s1474-4422(17)30470-2 Wallin, M. T., Culpepper, W. J., Campbell, J. D., Nelson, L. M., Langer-Gould, A., Marrie, R. A., Cutter, G. R., Kaye, W. E., Wagner, L., Tremlett, H., Buka, S. L., Dilokthornsakul, P., Topol, B., Chen, L. H., & LaRocca, N. G. (2019). The prevalence of MS in the United States: A population-based estimate using health claims data. Neurology , 92 (10), e1029-e1040. https://doi.org/10.1212/wnl.0000000000007035 Weinshenker, B. G. (1994). Natural history of multiple sclerosis. Ann Neurol , 36 Suppl , S6-11. https://doi.org/10.1002/ana.410360704 Wingerchuk, D. M., Banwell, B., Bennett, J. L., Cabre, P., Carroll, W., Chitnis, T., de Seze, J., Fujihara, K., Greenberg, B., Jacob, A., Jarius, S., Lana-Peixoto, M., Levy, M., Simon, J. H., Tenembaum, S., Traboulsee, A. L., Waters, P., Wellik, K. E., & Weinshenker, B. G. (2015). International consensus diagnostic criteria for neuromyelitis optica spectrum disorders. Neurology , 85 (2), 177-189. https://doi.org/10.1212/wnl.0000000000001729 Yang, J., Hamade, M., Wu, Q., Wang, Q., Axtell, R., Giri, S., & Mao-Draayer, Y. (2022). Current and Future Biomarkers in Multiple Sclerosis. Int J Mol Sci , 23 (11). https://doi.org/10.3390/ijms23115877"
+  ],
+  "resources": null,
+  "_extraction_stats": {
+    "total_sections": 4,
+    "total_tables": 2,
+    "total_characters": 12984
+  }
+}

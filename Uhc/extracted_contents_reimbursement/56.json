@@ -1,0 +1,170 @@
+{
+  "policy_title": "Hospital Acquired Conditions Policy",
+  "policy_number": "2025R9014A",
+  "policy_dates": {
+    "effective_date": "11/1/2025",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "mixed",
+          "content": [
+            "Hospital Acquired Conditions (HAC) are serious conditions that patients get during an inpatient hospital stay. If hospitals follow proper procedures, patients are less likely to get these conditions. UnitedHealthcare Medicare Advantage doesn't pay for any of these conditions, and patients can't be billed for them, if acquired while in the hospital. UnitedHealthcare Medicare Advantage will only pay for these conditions if they were present on admission to the hospital.",
+            "Through collaboration with the Centers for Disease Control and Prevention (CDC) and extensive public input, Centers for Medicare and Medicaid Services (CMS) identified HACs (See below) as being reasonably preventable based on the application of published, evidence-based guidelines and thus targeted these HACs for program payment reductions. Selected HACs have to be conditions that are high volume and/or high cost, be identified in the CMS grouper as a complication or comorbidity (CC) or major complication or comorbidity (MCC) for purposes of Medicare Severity Diagnosis Related Grouper (MS-DRG) assignment and be reasonably preventable using evidence-based guidelines.",
+            "On July 31, 2008, in the Inpatient Prospective Payment System (IPPS) Fiscal Year (FY) 2009 Final Rule, CMS included 10 categories of conditions that were selected for the HAC payment provision. Payment implications began October 1, 2008, for these HACs.",
+            "These 14 categories of HACs listed below include the new HACs from the IPPS FY 2013 Final Rule which are Surgical Site Infection Following Cardiac Implantable Electronic Device (CIED) and Iatrogenic Pneumothorax with Venous Catheterization. For FY 2014 and FY 2015, there are no additional HACs added.",
+            "Effective October 1, 2015, the International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10- CM) Version 33 Hospital Acquired Condition (HAC) list replaced the ICD-9-CM Version 32 HAC list.",
+            "HAC Categories: 01-Foreign Object Retained Following Surgery 02-Air Embolism 03-Blood Incompatibility 04-Stage III and IV Pressure Ulcers 05-Falls and Trauma 06-Catheter-Associated Urinary Tract Infection (UTI) 07-Vascular Catheter-Associated Infection 08-Surgical Site Infection (SSI) -Mediastinitis Following Coronary Artery Bypass Graft (CABG) 09-Manifestations of Poor Glycemic Control 10-Deep Vein Thrombosis (DVT)/Pulmonary Embolism (PE) With Total Knee or Hip Replacement 11-Surgical Site Infection (SSI) Following Bariatric Surgery for Obesity 12-Surgical Site Infection (SSI) Following Certain Orthopedic Procedures of Spine, Neck, Shoulder or Elbow 13-Surgical Site Infection (SSI) Following Cardiac Implantable Electronic Device (CIED) Procedures 14-Iatrogenic Pneumothorax w/ Venous Catheterization",
+            "Present on Admission Guidelines To group diagnoses into the proper Diagnosis-related group (DRG), CMS needs to capture a Present on Admission (POA) Indicator for all claims involving inpatient admissions to general acute care hospitals. Collection of POA indicator data is necessary to identify which conditions were acquired during hospitalization for the HAC payment provision as well as for broader public health uses of Medicare data. Use the UB-04 Data Specifications Manual and the ICD-10-CM Official Guidelines for Coding and Reporting to facilitate the assignment of the POA indicator for each \"principal\" diagnosis and \"other\" diagnoses codes reported on claim forms UB-04 and 837 Institutional.",
+            "The POA Indicator guidelines are not intended to provide guidance on when a condition should be coded, rather to provide guidance on how to apply the POA Indicator to the final set of diagnosis codes that have been assigned in accordance with Sections I, II, and III of the official coding guidelines. Subsequent to the assignment of the ICD-10-CM codes, the POA Indicator should be assigned to all diagnoses that have been coded.",
+            "A joint effort between the health care provider and the coder is essential to achieve accurate and complete documentation, code assignment, and reporting of diagnoses and procedures. The importance of consistent, complete documentation in the medical record cannot be overemphasized.",
+            "The provider, a provider's billing office, third party billing agents and anyone else involved in the transmission of this data shall insure that any re-sequencing of diagnosis codes prior to transmission to CMS also includes a re-sequencing of the POA Indicators.",
+            "General POA Reporting Requirements - POA indicator reporting is mandatory for all claims involving inpatient admissions to general acute care hospitals or other facilities. - POA is defined as present at the time the order for inpatient admission occurs. Conditions that develop during an outpatient encounter, including emergency department, observation, or outpatient surgery, are considered POA. - A POA Indicator must be assigned to principal and secondary diagnoses (as defined in Section II of the Official Guidelines for Coding and Reporting) and the external cause of injury codes. CMS does not require a POA Indicator for an external cause of injury code unless it is being reported as an \"other diagnosis.\" - Issues related to inconsistent, missing, conflicting, or unclear documentation must be resolved by the provider. - If a condition would not be coded and reported based on Uniform Hospital Discharge Data Set definitions and current official coding guidelines, then the POA Indicator would not be reported.",
+            "Table 2 below includes a list of the POA indicator reporting options, descriptions, and Medicare payment based on the Inpatient Prospective Payment System (IPPS) Fiscal Year (FY) 2011 Final Rule, published by CMS in August 2010. The Final Rule made a change to POA indicator reporting. Effective January 1, 2011, hospitals reporting with the 5010 format will no longer report a POA indicator of \"1\" for POA exempt codes.",
+            "POA Documentation The importance of consistent, complete documentation in the medical record cannot be overemphasized. Medical record documentation from any provider involved in the care and treatment of the patient may be used to support the determination of whether a condition was POA. In the context of the official coding guidelines, the term \"provider\" means a physician or any qualified health care practitioner who is legally accountable for establishing the patient's diagnosis.",
+            "NOTE: Providers, their billing offices, third party billing agents, and anyone else involved in the transmission of this data must ensure that any re-sequencing of ICD-10-CM diagnosis codes prior to their transmission to CMS also includes a re-sequencing of the POA indicators.",
+            "Table 2: CMS POA Indicator Reporting Options, Description, and Payment",
+            {
+              "key": "Y",
+              "value": "Diagnosis was present at time of inpatient admission. Payment is made for condition when an HAC is present"
+            },
+            {
+              "key": "N",
+              "value": "Diagnosis was not present at time of inpatient admission. No payment is made for condition when an HAC is present"
+            },
+            {
+              "key": "U",
+              "value": "Documentation insufficient to determine if condition was present at the time of inpatient admission. No payment is made for condition when an HAC is present"
+            },
+            {
+              "key": "W",
+              "value": "Clinically undetermined. Provider unable to clinically determine whether the condition was present at the time of inpatient admission. Payment is made for condition when an HAC is present"
+            },
+            {
+              "key": "1",
+              "value": "Unreported/Not used. Exempt from POA reporting. This code is the equivalent of a blank on the UB-04, it was determined that blanks were undesirable when submitting this data via the 4010A. NOTE: The number \"1\" POA Indicator should not be applied to any codes on the HAC list. Exempt from POA reporting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "For discharges occurring on or after October 1, 2008, hospitals will not receive additional payment for cases in which one of the selected conditions was not present on admission. That is, the case would be paid as though the secondary diagnosis were not present. The Present on Admission Indicator Reporting provision applies only to IPPS hospitals. CMS also required hospitals to report POA information for both primary and secondary diagnoses when submitting claims for discharges on or after October 1, 2007. POA Exempt Diagnosis Codes Certain diagnosis codes are exempt for POA reporting. It is important to review this list to ensure inpatient claims are submitted correctly. Accessing the POA Exempt Diagnosis Code list: Go to www.cms.gov - Select \"Medicare\" - Under the Medicare Fee-for-Service Payment section select \"Hospital Acquired Conditions (Present on Admission Indicator)\" - Select \"Coding\" - Select the appropriate Fiscal Year \"Present On Admission (POA) Exempt List\"",
+      "subsections": [
+        {
+          "title": "POA Exempt Diagnosis Codes",
+          "content": "Certain diagnosis codes are exempt for POA reporting. It is important to review this list to ensure inpatient claims are submitted correctly. Accessing the POA Exempt Diagnosis Code list: Go to www.cms.gov • Select \"Medicare\" • Under the Medicare Fee-for-Service Payment section select \"Hospital Acquired Conditions (Present on Admission Indicator)\" • Select “Coding” • Select the appropriate Fiscal Year “Present On Admission (POA) Exempt List”"
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 5,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Do the POA and HAC programs apply to outpatient or ambulatory surgery services?",
+            "A": "No, this program is only for inpatient acute care admissions."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "If the POA indicator is not on the claim, will the claim be returned?",
+            "A": "Beginning with claims with discharges on or after October 1, 2008, if hospitals do not report a valid POA code for each diagnosis on the claim, the claim will be returned to the hospital for correct submission of POA information."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Codes",
+      "level": 1,
+      "confirmed": true,
+      "page": 5,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "CPT code section HAC List"
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 5,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov Centers for Medicare and Medicaid Services: Hospital-Acquired Conditions (Present on Admission Indicator) Medicare Benefit Policy Manual - Chapter 06 - Hospital Services Covered Under Part B: Section 20.3 Medicare Claims Processing Manual - Chapter 03 - Inpatient Hospital Billing: Section 40.3 Item D The Medicare Learning Network (MLN): HOSPITAL-ACQUIRED CONDITIONS AND PRESENT ICN 901046"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 5,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "11/1/2025",
+          "value": "Policy Version Change Anniversary Review"
+        },
+        {
+          "key": "11/1/2024",
+          "value": "Policy Version Change History Section: Entries prior to 11/1/2022 archived"
+        },
+        {
+          "key": "11/1/2023",
+          "value": "Policy Version Change Application Section: Updated Logo: Updated Table of Contents Section: Added History Section: Entries prior to 11/1/2021 archived"
+        },
+        {
+          "key": "11/1/2022",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "2/29/2012",
+          "value": "Policy Created and Approved"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Facility",
+  "CPT_CODES_USED": [
+    "4010A"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

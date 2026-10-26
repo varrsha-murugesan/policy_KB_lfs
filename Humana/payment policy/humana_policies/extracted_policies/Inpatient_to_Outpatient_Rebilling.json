@@ -1,0 +1,123 @@
+{
+  "policy_metadata": {
+    "policy_title": "Inpatient to Outpatient Rebilling",
+    "policy_number": "CP2015018",
+    "published_date": "09/2016",
+    "effective_date": "09/2016",
+    "revision_date": "04/2026",
+    "last_reviewed": "04/2026",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Both",
+    "source_pdf": "Inpatient_to_Outpatient_Rebilling_Revised-c18d1947.pdf",
+    "total_pages": 3,
+    "related_policies": [
+      "Observation Services"
+    ]
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "X12"
+    ],
+    "cpt_codes": [],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [
+      "X12"
+    ],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "The following policy outlines Humana’s billing requirements and reimbursement for inpatient services after a determination that the inpatient level of care is not appropriate. For more information on Humana’s coverage decisions for inpatient hospital services, see the Medicare Advantage Inpatient and Acute Care Hospital Services medical coverage policy available in the References section of this policy."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. As used in this policy, x represents any appropriate frequency code, which is the final digit of the type of bill (TOB) code."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Claims for Inpatient Services When an Inpatient Admission Was Not Medically Necessary",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "Humana’s Medicare Advantage plans follow the Centers for Medicare & Medicaid Services (CMS) guidelines for inpatient Part B re- billing. When an acute care hospital determines before discharge that the patient should not have been admitted as an inpatient, Humana will only accept services submitted on an appropriate outpatient TOB 13x or 85x claim ; and will allow the provider to submit all codes that, for a normal outpatient situation, could be appropriate for that TOB; and requires condition code 44 . An inpatient claim should not be submitted. When an acute care hospital or Humana determines after discharge that the patient should not have been admitted as an inpatient, Humana will only accept services submitted on an inpatient Part B TOB 12x claim. The billing should reflect the reasonable and necessary Part B services and provide the correct Current Procedural Terminology (CPT®) and Healthcare Common Procedure Coding System (HCPCS) codes when available. Report condition code W2 to indicate that this is a Part B claim and include “A/B Rebilling” in the treatment authorization field. For preadmission services in the 3-day payment window , a hospital may separately bill for services provided prior to an inpatient admission and should report “A/B Rebilling” in the treatment authorization field of the appropriate outpatient TOB 13x or 85x claim . Note : When a facility fails to obtain a required inpatient authorization or the authorization request is denied, the facility must bill emergency-related services provided before the inpatient admission separately from the inpatient services. For an inpatient admission that requires authorization, Humana will deny an inpatient claim that includes unauthorized inpatient services, including charges for preadmission emergency-related services. When billed on inpatient Part B claims or outpatient claims, some services may require specific authorization."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Member Responsibility",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "For outpatient and inpatient Part B claims, the member’s hospital outpatient cost sharing applies."
+          ],
+          "tables": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "• Appropriate outpatient TOB 13x or 85x claim: A claim submitted with a type of bill code that a particular acute care hospital is permitted to use in ASC X12 835I transactions for outpatient services or applicable UB04 equivalent. • Condition code 44: A condition code used on outpatient claims only when the physician ordered inpatient services but, upon internal utilization review performed before the claim was originally submitted, the hospital determined that the services did not meet inpatient criteria. • Condition code W2: A condition code that indicates a conversion of an inpatient claim to an outpatient claim after discharge. • Payment window: Period of time in which rendered services must, as required by the Centers for Medicare & Medicaid Services, be bundled with the inpatient claim."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 3,
+      "content": [
+        "• U.S. Government Publishing Office website. Federal Register, Vol. 78, No. 160. Department of Health and Human Services. Fiscal Year 2014 Hospital IPPS Final Rule (CMS-1599-F; CMS-1455-F) . www.govinfo.gov. • U.S. Government Publishing Office website. Code of Federal Regulations. Title 42, Section 412.3 – Admissions . www.ecfr.gov. Medicare Part B when Part A hospital inpatient claim is denied because the inpatient admission was not reasonable and necessary, but hospital outpatient services would have been reasonable and necessary in treating the beneficiary . www.ecfr.gov. • U.S. Government Publishing Office website. Code of Federal Regulations. Title 42, Section 422.500 – Scope and definitions . www.ecfr.gov. • U.S. Government Publishing Office website. Code of Federal Regulations. Title 42, Section 482.30 – Condition of participation: Utilization review . www.ecfr.gov. • Centers for Medicare & Medicaid Services website. Medicare Benefit Policy Manual. Chapter 6 – Hospital Services Covered Under Part B . Section 10.3 – Hospital Inpatient Services Paid Only Under Part B. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 1 – General Billing Requirements . Sections 50.3.1 and 50.3.2. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 4 – Part B Hospital (Including Inpatient Hospital Part B and OPPS) . Sections 240.1 and 240.2. www.cms.gov. • Centers for Medicare & Medicaid Services website. Transmittal 1203, Change Request 8185 – CMS Administrator's Ruling: Part A to Part B Rebilling of Denied Hospital Inpatient . www.cms.gov. • Centers for Medicare & Medicaid Services website. Transmittal 1247, Change Request 8277 – Implementation of CMS Ruling 1455-R (Medicare Program; Part B Billing in Hospitals) . www.cms.gov. • Centers for Medicare & Medicaid Services website. CMS Ruling 1455-R . www.cms.gov. • Noridian website. Jurisdictions E and F MAC. Type of Bill Code Structure . med.noridianmedicare.com • Optum™. Uniform Billing Editor. E-book. • Humana website. Medical and Pharmacy Coverage Policies . Inpatient and Acute Care Hospital Services: Medicare Advantage Medical Coverage Policy. Humana.com."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Appropriate outpatient TOB 13x or 85x claim": "A claim submitted with a type of bill code that a particular acute care hospital is permitted to use in ASC X12 835I transactions for outpatient services or applicable UB04 equivalent. • Condition code 44: A condition code used on outpatient claims only when the physician ordered inpatient services but, upon internal utilization review performed before the claim was originally submitted, the hospital determined that the services did not meet inpatient criteria. • Condition code W2: A condition code that indicates a conversion of an inpatient claim to an outpatient claim after discharge. • Payment window: Period of time in which rendered services must, as required by the Centers for Medicare & Medicaid Services, be bundled with the inpatient claim."
+  },
+  "references": [
+    "U.S. Government Publishing Office website. Federal Register, Vol. 78, No. 160. Department of Health and Human Services. Fiscal Year 2014 Hospital IPPS Final Rule (CMS-1599-F; CMS-1455-F) . www.govinfo.gov. • U.S. Government Publishing Office website. Code of Federal Regulations. Title 42, Section 412.3 – Admissions . www.ecfr.gov. Medicare Part B when Part A hospital inpatient claim is denied because the inpatient admission was not reasonable and necessary, but hospital outpatient services would have been reasonable and necessary in treating the beneficiary . www.ecfr.gov. • U.S. Government Publishing Office website. Code of Federal Regulations. Title 42, Section 422.500 – Scope and definitions . www.ecfr.gov. • U.S. Government Publishing Office website. Code of Federal Regulations. Title 42, Section 482.30 – Condition of participation: Utilization review . www.ecfr.gov. • Centers for Medicare & Medicaid Services website. Medicare Benefit Policy Manual. Chapter 6 – Hospital Services Covered Under Part B . Section 10.3 – Hospital Inpatient Services Paid Only Under Part B. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 1 – General Billing Requirements . Sections 50.3.1 and 50.3.2. www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 4 – Part B Hospital (Including Inpatient Hospital Part B and OPPS) . Sections 240.1 and 240.2. www.cms.gov. • Centers for Medicare & Medicaid Services website. Transmittal 1203, Change Request 8185 – CMS Administrator's Ruling: Part A to Part B Rebilling of Denied Hospital Inpatient . www.cms.gov. • Centers for Medicare & Medicaid Services website. Transmittal 1247, Change Request 8277 – Implementation of CMS Ruling 1455-R (Medicare Program; Part B Billing in Hospitals) . www.cms.gov. • Centers for Medicare & Medicaid Services website. CMS Ruling 1455-R . www.cms.gov. • Noridian website. Jurisdictions E and F MAC. Type of Bill Code Structure . med.noridianmedicare.com • Optum™. Uniform Billing Editor. E-book. • Humana website. Medical and Pharmacy Coverage Policies . Inpatient and Acute Care Hospital Services: Medicare Advantage Medical Coverage Policy. Humana.com."
+  ],
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 7,
+    "total_tables": 0,
+    "total_characters": 6886
+  }
+}

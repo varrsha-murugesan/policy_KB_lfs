@@ -1,0 +1,212 @@
+{
+  "policy_title": "Vitamin D Testing",
+  "policy_number": "ABHIL-RP-0009",
+  "effective_date": "12/01/2020",
+  "expiry_date": "12/01/2026",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "82306"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for Vitamin D testing when appropriately reported. Appropriate \nreporting includes \n• \nTest is reported with an ICD-10-CM diagnosis code that supports the necessity for \nperforming the test. \n• \nTest is reported no more than once per year by any provider with a diagnosis of Vitamin D \ndeficiency \n• \nTest is reported with the 26 modifier, when conducted by a facility. \n \nClaims that are submitted will be denied when \n• \nTest is reported more than once per year by any provider with a diagnosis other than \nVitamin D deficiency Effective 11/01/2023 \n• \nTest is reported more than four times per year by any provider with a diagnosis of Vitamin \nD deficiency Effective 11/01/2023 \n• \nThe only diagnosis code reported for a pediatric patient test is indicated as inappropriate \nby this policy. \n \nThe medical record documentation is expected to support the specific CPT code(s), ICD-10-CM \ndiagnosis codes and modifiers reported.",
+    "subsections": [
+      {
+        "title": "Test is reported with an ICD-10-CM diagnosis code that supports the necessity for",
+        "content": "performing the test."
+      },
+      {
+        "title": "Test is reported no more than once per year by any provider with a diagnosis of Vitamin D",
+        "content": "deficiency"
+      },
+      {
+        "title": "Test is reported with the 26 modifier, when conducted by a facility.",
+        "content": "Claims that are submitted will be denied when"
+      },
+      {
+        "title": "Test is reported more than once per year by any provider with a diagnosis other than",
+        "content": "Vitamin D deficiency Effective 11/01/2023"
+      },
+      {
+        "title": "Test is reported more than four times per year by any provider with a diagnosis of Vitamin",
+        "content": "D deficiency Effective 11/01/2023"
+      },
+      {
+        "title": "The only diagnosis code reported for a pediatric patient test is indicated as inappropriate",
+        "content": "by this policy. The medical record documentation is expected to support the specific CPT code(s), ICD-10-CM diagnosis codes and modifiers reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "International\nStatistical\nClassification of\nDiseases (ICD-10-\nCM)",
+            "value": "The 10th revision of the (ICD), a medical classification list by the\nWorld Health Organization (WHO). It contains codes for diseases,\nsigns and symptoms, abnormal findings, complaints, social\ncircumstances, and external causes of injury or diseases."
+          },
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          },
+          {
+            "key": "Modifier",
+            "value": "A two-character code reported along with an applicable CPT\ncode used to provide greater detail for procedures performed."
+          },
+          {
+            "key": "Pediatric Patient",
+            "value": "Persons aged greater than or equal to 1 year or less than or equal\nto 17 years."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for Vitamin D testing when appropriately reported. Appropriate\nreporting includes\n• Test is reported with an ICD-10-CM diagnosis code that supports the necessity for\nperforming the test.\n• Test is reported no more than once per year by any provider with a diagnosis of Vitamin D\ndeficiency\n• Test is reported with the 26 modifier, when conducted by a facility.\nClaims that are submitted will be denied when\n• Test is reported more than once per year by any provider with a diagnosis other than\nVitamin D deficiency Effective 11/01/2023\n• Test is reported more than four times per year by any provider with a diagnosis of Vitamin\nD deficiency Effective 11/01/2023\n• The only diagnosis code reported for a pediatric patient test is indicated as inappropriate\nby this policy.\nThe medical record documentation is expected to support the specific CPT code(s), ICD-10-CM\ndiagnosis codes and modifiers reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "CPT Codes\n82306 Vitamin D; 25 hydroxy, includes fraction(s), if performed\nICD-10-CM Diagnosis Code\nE55.9 Vitamin D deficiency, unspecified\nInappropriate ICD-10-CM Diagnosis Codes\nE66.3 Overweight\nE66.9 Obesity, unspecified\nZ00.00 Encounter for general adult medical examination without abnormal findings\nZ00.129 Encounter for routine child health examination without abnormal findings\nZ00.8 Encounter for other general examination\nZ68.52 Body mass index [BMI] pediatric, 5th percentile to less than 85th percentile\nfor age\nZ68.53 Body mass index [BMI] pediatric, 85th percentile to less than 95th percentile\nfor age\nZ68.54 Body mass index [BMI] pediatric, 95th percentile for age to less than 120%\nof the 95th percentile for age\nModifier\n26 Professional Component",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "82306",
+            "value": "Vitamin D; 25 hydroxy, includes fraction(s), if performed"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E55.9",
+            "value": "Vitamin D deficiency, unspecified"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E66.3",
+            "value": "Overweight"
+          },
+          {
+            "key": "E66.9",
+            "value": "Obesity, unspecified"
+          },
+          {
+            "key": "Z00.00",
+            "value": "Encounter for general adult medical examination without abnormal findings"
+          },
+          {
+            "key": "Z00.129",
+            "value": "Encounter for routine child health examination without abnormal findings"
+          },
+          {
+            "key": "Z00.8",
+            "value": "Encounter for other general examination"
+          },
+          {
+            "key": "Z68.52",
+            "value": "Body mass index [BMI] pediatric, 5th percentile to less than 85th percentile\nfor age"
+          },
+          {
+            "key": "Z68.53",
+            "value": "Body mass index [BMI] pediatric, 85th percentile to less than 95th percentile\nfor age"
+          },
+          {
+            "key": "Z68.54",
+            "value": "Body mass index [BMI] pediatric, 95th percentile for age to less than 120%\nof the 95th percentile for age"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "26",
+            "value": "Professional Component"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "F. Frequently Asked Questions",
+            "value": ""
+          },
+          {
+            "key": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "G. Review/Revision Date",
+            "value": ""
+          },
+          {
+            "key": "Action",
+            "value": "Date | Comments"
+          },
+          {
+            "key": "Revision",
+            "value": "12/04/2025 | New policy created; guidance from previous policies\n(Vitamin D Testing in Children & Laboratory- Pathology\nServices) combined to create policy specific to Vitamin D\ntesting."
+          },
+          {
+            "key": "Effective Date",
+            "value": "11/1/2023 | Laboratory and Pathology Services- previous policy\ndocument"
+          },
+          {
+            "key": "Effective Date",
+            "value": "12/01/2020 | Vitamin D Testing in Children – previous policy document"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "H. Resources",
+            "value": ""
+          },
+          {
+            "key": "1. American Medical Association. CPT Professional Edition 2025, AMA; 2024.\n2. American Medical Association. ICD-10-CM 2025 the Complete Official Codebook, AMA; 2024.\n3. Centers for Medicare & Medicaid Services (CMS). Local Coverage Determination: Billing and\nCoding: Vitamin D Assay Testing. Article ID: A57736. Revised: October 01, 2024.",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. CPT Professional Edition 2025, AMA; 2024. \n2. American Medical Association. ICD-10-CM 2025 the Complete Official Codebook, AMA; 2024. \n3. Centers for Medicare & Medicaid Services (CMS). Local Coverage Determination: Billing and \nCoding: Vitamin D Assay Testing. Article ID: A57736. Revised: October 01, 2024."
+}

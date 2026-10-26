@@ -1,0 +1,178 @@
+{
+  "policy_title": "Services by Residents, Interns and Medical Students Policy",
+  "policy_number": "2026R9055A",
+  "policy_dates": {
+    "effective_date": "9/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "This policy describes the reimbursement of services rendered by Residents, interns and medical Students as identified by the Healthcare Provider Taxonomy Code reported on the claim. This policy also addresses how claims submitted by licensed practicing physicians for services rendered by Residents and interns will be considered when billed with an appropriate modifier."
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Health Care Provider Taxonomy Code Set",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "According to the National Uniform Claim Committee (NUCC), the Health Care Provider Taxonomy code set levels are organized to allow for drilling down to the provider's most specific level of specialization. The ten-digit codes and categories are to be used exactly as they are assigned in the Taxonomy list. The taxonomy code for medical Students is 390200000X, \"Student in an Organized Health Care Education/Training Program.\" This code can be used by an individual who is enrolled in an organized health care education/training program leading to a degree, certification, registration, and/or licensure to provide health care. This code is reported on the CMS 1500 claim in Box 24J (servicing provider) or the electronic equivalent. Consistent with CMS, UnitedHealthcare Medicare Advantage will not reimburse services rendered by Residents, Interns and Medical Students as identified by the Medical student healthcare provider taxonomy code reported on the claim."
+        },
+        {
+          "title": "Claim Submission Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "Claims submitted by licensed practicing physicians for services rendered by Residents and interns will be considered for reimbursement when appended with modifiers GC or GE. According to CMS, these modifiers indicate services were rendered in part by a Resident/intern under the direction of a Teaching Physician, or they were performed by a Resident without the presence of a Teaching Physician under the Primary Care Exception, respectively."
+        },
+        {
+          "title": "General Documentation Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "Teaching Physicians must personally document that they performed the service or were Physically Present during key or critical portions of the service and their participation in the management of the patient. The physician may refer to the Resident's documentation; however, a statement by the attending (teaching) physician is required and must include independent documentation to correspond with the Resident/ 's documentation. Without such documentation, no reimbursement can be made."
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Intern",
+          "value": "An individual (sometimes referred to as a first-year resident) who is a doctor but may only practice medicine with guidance and supervision."
+        },
+        {
+          "key": "Physically Present",
+          "value": "The teaching physician is located in the same room (or partitioned or curtained area, if the room is subdivided to accommodate multiple patients) as the patient and/or performs a face-to-face service."
+        },
+        {
+          "key": "Resident",
+          "value": "An individual who participates in an approved graduate medical education (GME) program or a physician who is not in an approved GME program but who is authorized to practice only in a hospital setting"
+        },
+        {
+          "key": "Primary Care Exception",
+          "value": "An exception within an approved GME Program that applies to limited situations when the resident is the primary caregiver and the faculty physician sees the patient only in a consultative role (that is, those residency programs with requirements that are incompatible with a physical presence requirement). In such programs, it is beneficial for the resident to see patients without supervision to learn medical decision making."
+        },
+        {
+          "key": "Medical Student",
+          "value": "An individual who participates in an accredited educational program (for example, medical school) that is not an approved GME Program and who is not considered an intern or resident"
+        },
+        {
+          "key": "Teaching Physician",
+          "value": "A physician, other than an intern or resident, who involves residents in the care of their patients. Generally, for the service to be payable, they must be present during all critical"
+        },
+        {
+          "key": "Taxonomy Code",
+          "value": "A taxonomy code is a unique 10-character code that designates your classification and specialization. To find the taxonomy code that most closely describes your provider type, classification, or specialization, use the National Uniform Claim Committee (NUCC) code set lists"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov Medicare Claims Processing Manual - Chapter 12 - Physician/Nonphysician Practitioners Section: 100 ,100.1.1 National Uniform Claim Committee (NUCC). The Medicare Learning Network (MLN): MLN Matters MM10412 Revised, MLN Booklet ICN 006347"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "9/1/2026",
+          "value": "Policy version change History section: Entries prior to 9/1/2024 archived"
+        },
+        {
+          "key": "9/1/2025",
+          "value": "Policy version change"
+        },
+        {
+          "key": "9/1/2024",
+          "value": "Policy version change"
+        },
+        {
+          "key": "1/1/2022",
+          "value": "Policy Implemented by UnitedHealthcare Medicare Advantage"
+        },
+        {
+          "key": "11/3/2021",
+          "value": "Policy approved by the UnitedHealthcare Medicare Advantage Stakeholders"
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "What if a Teaching Physician is not involved with any part of a patient's care?",
+            "A": "No services may be reported on a CMS-1500 claim, as UnitedHealthcare Medicare Advantage is aligning with CMS on and after Jan 1, 2022 and will not pay for services furnished by an unlicensed Resident/intern where a Teaching Physician was not involved with any part of the care (except in the case of the Primary Care Exception and these services would be reported with modifier GE)."
+          }
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "GC",
+    "GE"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "policy_title": "Advanced Practice Health Care Provider Policy",
+  "policy_number": "2026R5009A",
+  "policy_dates": {
+    "effective_date": "9/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to services reported using the 1500 Health Insurance Claim Form (a/k/a CMS-1500), its' electronic equivalent or its' successor form. This policy applies to all products, all network and non-network physicians and other qualified health care professionals, including, but not limited to, non-network authorized and percent of charge contract physicians and other qualified health care professionals.",
+      "children": [
+        {
+          "title": "United Healthcare Commercial",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all UnitedHealthcare Commercial benefit plans."
+        },
+        {
+          "title": "UnitedHealthcare Individual Exchange",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all Individual Exchange benefit plans."
+        }
+      ]
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "This policy sets forth the requirements for reimbursement of services rendered by an Advanced Practice Health Care Provider, within a medical or other healthcare practice.",
+      "children": [
+        {
+          "title": "Reimbursement Guidelines for Advance Practice Health Care Providers",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "Services rendered by an Advanced Practice Health Care Provider should be reported using the Advanced Practice Health Care Provider's NPI number when the Advanced Practice Health Care Provider has an NPI number and is eligible to bill directly for services rendered pursuant to applicable laws and regulations, subject to the Services Incident-to a Supervising Health Care Provider Reimbursement Policy. UnitedHealthcare will consider reimbursement for medical services rendered by Advanced Practice Health Care Providers, under the following circumstances: - The service is a covered service under the member's benefit plan, - The service is performed by an Advanced Practice Health Care Provider within the scope of their licensure or certification, and; - The service is traditionally considered a physician's service. Unless otherwise contracted with a non-physician fee schedule, UnitedHealthcare will reimburse 85% of the applicable physician fee schedule for covered services rendered by a network Advanced Practice Health Care Provider. Consistent with the Centers for Medicare and Medicaid Services (CMS) guidelines, UnitedHealthcare will reimburse non- network Advanced Practice Health Care Providers for covered services at 85% of the established CMS-based rate or prevailing usual and customary rate for physicians."
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "bold",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Advanced Practice Health Care Provider",
+          "value": "A healthcare practitioner, other than a physician, licensed by the state in which they practice to assist or act in the place of a physician, who may bill directly under applicable state law. For the purposes of this policy, an Advanced Practice Health Care Provider includes, without limitation, Physician Assistants (PA), Nurse Practitioners (NP) and Clinical Nurse Specialists (CNS)."
+        },
+        {
+          "key": "Nonphysician Provider",
+          "value": "Auxiliary personnel, such as nurses and medical assistants, acting under the supervision of a physician or Advanced Practice Health Care Provider, regardless of whether the individual is an employee, leased employee, or independent contractor of the physician, or of the legal entity that employs or contracts with the physician. Nonphysician Providers may include Advanced Practice Health Care Providers, when applicable."
+        },
+        {
+          "key": "Supervising Health Care Provider Professional",
+          "value": "A physician or Advanced Practice Health Care Provider, who has their own NPI number, when responsible for supervising services rendered by an Advanced Practice Health Care or Nonphysician Provider."
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association, Current Procedural Terminology (CPT) and associated publications and services Health care Common Procedure Coding System (HCPCS) Centers for Medicare and Medicaid Services, CMS Manual System and other CMS publications and services"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "9/1/2026",
+          "value": "Anniversary review and version change History Section: Entries prior to 9/1/2024 archived"
+        },
+        {
+          "key": "1/29/2025",
+          "value": "Policy Version Change Policy Verbiage Change History Section: Entries prior to 1/29/2023 archived"
+        },
+        {
+          "key": "9/1/2017",
+          "value": "Policy implemented by UnitedHealthcare Employer & Individual"
+        },
+        {
+          "key": "5/10/2017",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Commercial",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

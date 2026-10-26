@@ -1,0 +1,244 @@
+{
+  "policy_title": "Genetic Testing",
+  "policy_number": "ABHIL-RP-0024",
+  "effective_date": "06/01/2024",
+  "expiry_date": "03/15/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "0001U",
+    "0005U",
+    "0008U",
+    "0019U",
+    "0022U",
+    "0026U",
+    "0037U",
+    "0045U",
+    "0047U",
+    "0069U",
+    "0084U",
+    "0105U",
+    "0113U",
+    "0153U",
+    "0175U",
+    "0180U",
+    "0181U",
+    "0182U",
+    "0183U",
+    "0184U",
+    "0185U",
+    "0186U",
+    "0187U",
+    "0188U",
+    "0189U",
+    "0190U",
+    "0191U",
+    "0192U",
+    "0193U",
+    "0194U",
+    "0195U",
+    "0196U",
+    "0197U",
+    "0198U",
+    "0199U",
+    "0200U",
+    "0201U",
+    "0203U",
+    "0205U",
+    "0209U",
+    "0212U",
+    "0213U",
+    "0214U",
+    "0215U",
+    "0216U",
+    "0217U",
+    "0218U",
+    "0221U",
+    "0222U",
+    "0230U",
+    "0231U",
+    "0232U",
+    "0233U",
+    "0234U",
+    "0235U",
+    "0236U",
+    "0237U",
+    "0238U",
+    "0246U",
+    "0260U",
+    "0282U",
+    "0286U",
+    "0318U",
+    "81105",
+    "81106",
+    "81107",
+    "81108",
+    "81109",
+    "81110",
+    "81111",
+    "81112",
+    "81162",
+    "81164",
+    "81165",
+    "81166",
+    "81167",
+    "81191",
+    "81192",
+    "81193",
+    "81194",
+    "81201",
+    "81203",
+    "81212",
+    "81216",
+    "81230",
+    "81231",
+    "81232",
+    "81277",
+    "81283",
+    "81288",
+    "81292",
+    "81294",
+    "81295",
+    "81297",
+    "81298",
+    "81299",
+    "81300",
+    "81301",
+    "81303",
+    "81306",
+    "81307",
+    "81308",
+    "81312",
+    "81314",
+    "81317",
+    "81318",
+    "81319",
+    "81321",
+    "81323",
+    "81326",
+    "81327",
+    "81328",
+    "81329",
+    "81333",
+    "81346",
+    "81351",
+    "81352",
+    "81353",
+    "81410",
+    "81411",
+    "81413",
+    "81415",
+    "81416",
+    "81419",
+    "81425",
+    "81426",
+    "81430",
+    "81431",
+    "81432",
+    "81433",
+    "81436",
+    "81440",
+    "81445",
+    "81450",
+    "81455",
+    "81460",
+    "81470",
+    "81471",
+    "81520",
+    "81521",
+    "81522",
+    "81523",
+    "81525",
+    "81529",
+    "81541",
+    "81542",
+    "81552"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for genetic testing when appropriately reported. Appropriate reporting \nincludes \n• \nGenetic testing units are reported within the allowed units and timeframes per this \npolicy \n \nClaims that are submitted will be denied when \n• \nGenetic testing code units are reported with more units than this policy allows \n• \nGenetic testing codes are reported more times in a 1,095-day timeframe than this \npolicy allows \n \nThe medical record documentation is expected to support the specific CPT, HCPCS and ICD-10-\nCM codes reported.",
+    "subsections": [
+      {
+        "title": "Genetic testing units are reported within the allowed units and timeframes per this",
+        "content": "policy Claims that are submitted will be denied when"
+      },
+      {
+        "title": "Genetic testing code units are reported with more units than this policy allows",
+        "content": "Genetic testing code units are reported with more units than this policy allows"
+      },
+      {
+        "title": "Genetic testing codes are reported more times in a 1,095-day timeframe than this",
+        "content": "policy allows The medical record documentation is expected to support the specific CPT, HCPCS and ICD-10- CM codes reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Healthcare\nCommon\nProcedure Coding\nSystem (HCPCS)",
+            "value": "Level II of the HCPCS is a standardized coding system that is used\nprimarily to identify products, supplies, and services not included\nin the CPT code set. Examples include ambulance services and\ndurable medical equipment, prosthetics, orthotics, and supplies\n(DMEPOS). Level II HCPCS codes were established to allow these\nproducts, supplies and services to be reported for\nreimbursement."
+          },
+          {
+            "key": "Illinois Department\nof Health Care and\nFamily Services\n(HFS)",
+            "value": "The Department of Healthcare and Family Services\nadministers health insurance programs for children, pregnant\nwomen, and adults who are residents of Illinois."
+          },
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for genetic testing when appropriately reported. Appropriate reporting\nincludes\n• Genetic testing units are reported within the allowed units and timeframes per this\npolicy\nClaims that are submitted will be denied when\n• Genetic testing code units are reported with more units than this policy allows\n• Genetic testing codes are reported more times in a 1,095-day timeframe than this\npolicy allows\nThe medical record documentation is expected to support the specific CPT, HCPCS and ICD-10-\nCM codes reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "CPT & HCPCS Codes Allowed Once per Lifetime\n81105 81283 81411 81471 0180U 0196U 0230U\n81106 81301 81413 81520 0181U 0197U 0231U\n81107 81303 81415 81525 0182U 0198U 0232U",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "81105",
+            "value": "81283 | 81411 | 81471 | 0180U | 0196U | 0230U"
+          },
+          {
+            "key": "81106",
+            "value": "81301 | 81413 | 81520 | 0181U | 0197U | 0231U"
+          },
+          {
+            "key": "81107",
+            "value": "81303 | 81415 | 81525 | 0182U | 0198U | 0232U"
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. CPT Professional Edition 2026, AMA; 2025. \n2. American Medical Association. HCPCS Level II Professional 2026, AMA; 2025."
+}

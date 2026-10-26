@@ -1,0 +1,266 @@
+{
+  "policy_metadata": {
+    "policy_title": "Anesthesia Services",
+    "policy_number": "CP2017001",
+    "published_date": "08/2021",
+    "effective_date": "08/2021",
+    "revision_date": "07/2026",
+    "last_reviewed": "07/2026",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Professional",
+    "source_pdf": "Anesthesia_Services_Revised-0a8e1d35.pdf",
+    "total_pages": 4,
+    "related_policies": [
+      "Common CPT and HCPCS Modifiers"
+    ]
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "59",
+      "99100",
+      "99116",
+      "99135",
+      "99140",
+      "AA",
+      "AD",
+      "G8",
+      "G9",
+      "P1",
+      "P2",
+      "P3",
+      "P4",
+      "P5",
+      "P6",
+      "QK",
+      "QS",
+      "QX",
+      "QY",
+      "QZ",
+      "RE",
+      "UN"
+    ],
+    "cpt_codes": [
+      "99100",
+      "99116",
+      "99135",
+      "99140"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [
+      "59",
+      "AA",
+      "AD",
+      "G8",
+      "G9",
+      "P1",
+      "P2",
+      "P3",
+      "P4",
+      "P5",
+      "P6",
+      "QK",
+      "QS",
+      "QX",
+      "QY",
+      "QZ",
+      "RE",
+      "UN"
+    ],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "This policy establishes Humana's billing requirements and reimbursement for anesthesia services."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. The following policy applies to professional services only."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Reporting Anesthesia Services",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "Humana requires anesthesia services to be reported using a Current Procedural Terminology (CPT®) code in the 00100 – 01999 range."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Anesthesia Reimbursement Calculation",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "Humana plans calculate the reimbursement of anesthesia services with consideration to the base value units for the procedure, time units, modifiers and the conversion factor. The formula is as follows: (CMS Base Value Unit + Time Units + Anesthesia Physical Status Modifier Unit, if applicable) x Conversion Factor = Anesthesia Allowable. Note: Some anesthesia services are not time-based; therefore, this calculation does not apply to such services."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Reporting Anesthesia Time",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "Humana requires actual anesthesia time to be reported in one-minute increments in the anesthesia minutes field. Note: Some anesthesia services are not time-based and are excluded from this requirement."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Common Modifiers for Anesthesia Claims",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 3,
+          "content": [
+            "Humana requires the anesthesia service code to be appended, as appropriate, with modifier AA, AD, QK, QX, QY or QZ. For an allowed anesthesia charge submitted with modifiers AA, QK, QX, QY or QZ , Humana plans allow the following percentage of the provider’s contracted rate or base maximum amount payable under the member's plan : Note: Reimbursement of an anesthesia charge shall not exceed 100 percent of the total amount allowed for a single service reported on multiple providers’ claims, such as when an anesthesiologist directs a nonphysician anesthetist. Additionally, for any coverable single anesthesia service, Humana plans allow no more than one anesthesiologist charge and allow no more than one nonphysician anesthetist charge. Humana calculates the reimbursement of an allowed anesthesia charge submitted with modifier AD with three base units, regardless of the base value units of the procedure code, multiplied by the conversion factor. One additional unit is considered when documentation confirms the supervising physician was present at induction. Additional units for length of time, qualifying circumstances codes or physical status modifiers are not allowed. Monitored anesthesia care must be indicated using modifier G8, G9 or QS , with the monitored anesthesia care modifier reported after modifier AA, AD, QK, QX, QY or QZ ."
+          ],
+          "tables": [
+            {
+              "type": "table",
+              "page_start": 2,
+              "page_end": 2,
+              "columns": [
+                "Modifier",
+                "Medicare Advantage\nreimbursement"
+              ],
+              "row_count": 5,
+              "rows": [
+                {
+                  "Modifier": "AA",
+                  "Medicare Advantage\nreimbursement": "100%"
+                },
+                {
+                  "Modifier": "QK",
+                  "Medicare Advantage\nreimbursement": "50%"
+                },
+                {
+                  "Modifier": "QX",
+                  "Medicare Advantage\nreimbursement": "50%"
+                },
+                {
+                  "Modifier": "QY",
+                  "Medicare Advantage\nreimbursement": "50%"
+                },
+                {
+                  "Modifier": "QZ",
+                  "Medicare Advantage\nreimbursement": "100%"
+                }
+              ]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "heading": "Anesthesia Physical Status Modifiers",
+          "level": 2,
+          "page_start": 3,
+          "page_end": 3,
+          "content": [
+            "Humana plans do not allow additional units for physical status modifiers P1 – P6 . Physical status modifiers should be reported after modifier AA, AD, QK, QX, QY or QZ ."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Qualifying Circumstance Codes",
+          "level": 2,
+          "page_start": 3,
+          "page_end": 3,
+          "content": [
+            "Humana plans do not allow additional units for qualifying circumstance codes CPT codes 99100, 99116, 99135 and 99140 ."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Reimbursement for Post-Operative Pain Management Procedures",
+          "level": 2,
+          "page_start": 3,
+          "page_end": 3,
+          "content": [
+            "A medically necessary anesthesia procedure, such as an epidural injection or nerve block, administered with the intent to manage post-operative pain, may be reimbursed separately when the adequacy of the intra-operative anesthesia is not dependent on the epidural injection or nerve block. All the following requirements must be satisfied to qualify for separate reimbursement from the intra-operative anesthesia: • Medical record documentation of the post-operative pain management procedure must: – Be separate from the anesthesia record – Confirm the procedure was for post-operative pain management and the adequacy of the intra-operative anesthesia is not dependent on the epidural injection or nerve block – Include details about the procedure itself – Confirm the surgeon requested the anesthetist administer the procedure – Confirm the patient consented to the post-operative pain management plan and procedure • The time spent placing or administering a post-operative pain management procedure cannot be included in the intra-operative anesthesia time. • Modifier 59, XE or XU must be appended to the post-operative pain management procedure code to indicate a distinct procedural service was performed. • Post-operative pain management procedures may be administered pre-operatively, intra-operatively or post-operatively. Post-operative pain management procedures are not separately reimbursed when reported by the same physician reporting the procedure or surgical charge."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Additional Reporting and Reimbursement Considerations",
+          "level": 2,
+          "page_start": 3,
+          "page_end": 3,
+          "content": [
+            "In certain circumstances additional payment rules may apply, including but not limited to the following: • When multiple procedures are performed on the same patient during a single anesthesia session, only the anesthesia service code with the highest base unit value should be reported. The combined time for all procedures should be reported with that code. • Humana plans do not reimburse for anesthesia services reported by the attending surgeon."
+          ],
+          "tables": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 4,
+      "content": [
+        "• Base maximum amount payable under the member's plan : The maximum amount of reimbursement for a covered expense, determined by the member’s plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments. • Conversion factor : The conversion factor is the multiplier that transforms relative values into payment amounts as shown in the CONV FACTOR field in the Medicare Physician Fee Schedule Relative Value File for the appropriate year. • CPT code 99100 : Anesthesia for patient of extreme age, younger than 1 year and older than 70 (List separately in addition to code for primary anesthesia procedure). • CPT code 99116 : Anesthesia complicated by utilization of total body hypothermia (List separately in addition to code for primary anesthesia procedure). • CPT code 99135 : Anesthesia complicated by utilization of controlled hypotension (List separately in addition to code for primary anesthesia procedure). • CPT code 99140 : Anesthesia complicated by emergency conditions (specify) (List separately in addition to code for primary anesthesia procedure). • Medicare Physician Fee Schedule (MPFS) Relative Value File : A file published by the Centers for Medicare & Medicaid Services that includes, among other information, multiple procedure indicator, relative value units and conversion factors for physician",
+        "services. This file is commonly referred to as the relative value unit (RVU) table. • Modifier AA : Anesthesia services performed personally by anesthesiologist. • Modifier AD : Medical supervision by physician: more than four concurrent anesthesia procedures. • Modifier G8 : Monitored anesthesia care (MAC) for deep complex, complicated, or markedly invasive surgical procedures. • Modifier G9 : Monitored anesthesia care for patient who has history of severe cardio-pulmonary condition. • Modifier P1 : A normal healthy patient. • Modifier P2 : A patient with mild systemic disease. • Modifier P3 : A patient with severe systemic disease. • Modifier P4 : A patient with severe systemic disease that is a constant threat to life. • Modifier P5 : A moribund patient who is not expected to survive without the operation. • Modifier P6 : A declared brain-dead patient whose organs are being removed for donor purposes. • Modifier QK : Medical direction of two, three, or four concurrent anesthesia procedures involving qualified individuals. • Modifier QS : Monitored anesthesia care service. • Modifier QX : CRNA service: with medical direction by a physician. • Modifier QY : Medical direction of one certified registered nurse anesthetist (CRNA) by an anesthesiologist. • Modifier QZ : CRNA service: without medical direction by a physician."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 4,
+      "page_end": 4,
+      "content": [
+        "• Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 12 – Physicians/Nonphysician Practitioners . Sections 50 and 140. www.cms.gov. • Centers for Medicare & Medicaid Services website. Anesthesiologists Information Center . www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Physician Fee Schedule (MPFS) Relative Value Files . www.cms.gov. • Centers for Medicare & Medicaid Services website. NCCI Policy Manual for Medicare. Chapter II – Anesthesia Services CPT Codes 00000-01999 . Section B – Standard Anesthesia Coding. www.cms.gov. • American Medical Association’s CPT® and associated publications and services. • American Society of Anesthesiologists’ Relative Value Guide® and associated publications and services. • Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 4,
+      "page_end": 4,
+      "content": [
+        "• Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Base maximum amount payable under the member's plan": "The maximum amount of reimbursement for a covered expense, determined by the member’s plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments. • Conversion factor : The conversion factor is the multiplier that transforms relative values into payment amounts as shown in the CONV FACTOR field in the Medicare Physician Fee Schedule Relative Value File for the appropriate year. • CPT code 99100 : Anesthesia for patient of extreme age, younger than 1 year and older than 70 (List separately in addition to code for primary anesthesia procedure). • CPT code 99116 : Anesthesia complicated by utilization of total body hypothermia (List separately in addition to code for primary anesthesia procedure). • CPT code 99135 : Anesthesia complicated by utilization of controlled hypotension (List separately in addition to code for primary anesthesia procedure). • CPT code 99140 : Anesthesia complicated by emergency conditions (specify) (List separately in addition to code for primary anesthesia procedure). • Medicare Physician Fee Schedule (MPFS) Relative Value File : A file published by the Centers for Medicare & Medicaid Services that includes, among other information, multiple procedure indicator, relative value units and conversion factors for physician"
+  },
+  "references": [
+    "Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 12 – Physicians/Nonphysician Practitioners . Sections 50 and 140. www.cms.gov. • Centers for Medicare & Medicaid Services website. Anesthesiologists Information Center . www.cms.gov. • Centers for Medicare & Medicaid Services website. Medicare Physician Fee Schedule (MPFS) Relative Value Files . www.cms.gov. • Centers for Medicare & Medicaid Services website. NCCI Policy Manual for Medicare. Chapter II – Anesthesia Services CPT Codes 00000-01999 . Section B – Standard Anesthesia Coding. www.cms.gov. • American Medical Association’s CPT® and associated publications and services. • American Society of Anesthesiologists’ Relative Value Guide® and associated publications and services. • Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services."
+  ],
+  "resources": [
+    "Availity – Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. • Claims processing edit notifications – Alerts of upcoming claims payment changes are posted on the first Friday of each month. • Claims resources – Providers can find information on referrals, authorizations, electronic claim submissions and more. • Making it easier – This page contains an educational series for providers and healthcare professionals. • Medical and pharmacy coverage policies – Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. • Publications – This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana’s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 13,
+    "total_tables": 1,
+    "total_characters": 9537
+  }
+}

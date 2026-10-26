@@ -1,0 +1,139 @@
+{
+  "policy_title": "Modifiers Not Reimbursable to Healthcare Professionals Policy",
+  "policy_number": "2025R9053A",
+  "policy_dates": {
+    "effective_date": "12/1/2025",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals,"
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "In accordance with the CPT book and CMS, the following modifiers have been approved and designated for use by ambulatory surgery centers (ASC) or in the outpatient hospital setting."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "In accordance with the CPT book and CMS, the following modifiers have been approved and designated for use by ambulatory surgery centers (ASC) or in the outpatient hospital setting. UnitedHealthcare Medicare Advantage Plan will deny codes appended with these modifiers when reported by a physician or other health care professionals.",
+          "children": [
+            {
+              "title": "Modifiers",
+              "level": 3,
+              "confirmed": true,
+              "page": 2,
+              "matched_via": "blue",
+              "type": "mixed",
+              "content": [
+                {
+                  "key": "73",
+                  "value": "74 PO"
+                },
+                "27"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Same Individual Physician or Other Qualified Health Care Professional",
+          "value": "The same individual rendering health care services reporting the same National Provider Identifier (NPI) number."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Should the PO modifier be applied to services provided through Medicare Advantage?",
+            "A": "No, the PO modifier does not apply to services provided through Medicare Advantage."
+          }
+        },
+        {
+          "key": "PO",
+          "value": "27 73 74"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov Medicare Claims Processing Manual - Chapter 04 - Part B Hospital (Including Inpatient Hospital Part B and OPPS): Section 20.6 Medicare Claims Processing Manual - Chapter 14 - Ambulatory Surgical Centers: Section 40"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "12/1/2025",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "12/1/2024",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "12/1/2021",
+          "value": "Policy Implemented by UnitedHealthcare Medicare Advantage Plan"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "PO"
+  ]
+}

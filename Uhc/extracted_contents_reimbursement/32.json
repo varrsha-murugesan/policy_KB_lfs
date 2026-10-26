@@ -1,0 +1,148 @@
+{
+  "policy_title": "Bone Turnover Marker Testing of Osteoporosis Policy",
+  "policy_number": "2026R8204A",
+  "policy_dates": {
+    "effective_date": "8/26/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy describes the reimbursement methodology for bone turnover marker testing associated with osteoporosis that are subject to frequency limitations."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "mixed",
+          "content": [
+            "NOTE: Procedure codes appearing in policy documents are included only as a general reference tool for each policy. They may not be all-inclusive.",
+            "UnitedHealthcare will consider reimbursement of each of the following bone turnover marker testing procedure codes, once every three months, when billed for osteoporosis.",
+            "Procedure Code(s)",
+            {
+              "key": "83500",
+              "value": "83505 83937 84080"
+            },
+            "UnitedHealthcare will consider reimbursement for the bone turnover marker testing procedure codes listed above when billed with any other condition. Frequency limitation is only applicable when the codes are billed for the conditions listed above."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Once every 3 Months",
+          "value": "90 consecutive calendar days from the initial date of service"
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Is the once every three months limitation based on individual provider per member?",
+            "A": "The once every three months limitation is applicable regardless of billing and/or rendering provider (any individual provider OR any facility) for each individual member for the same date of service."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Does the frequency limitation apply per procedure code or do all procedure codes count toward the same limit?",
+            "A": "The frequency limitation applies to each procedure code individually."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "Will UnitedHealthcare consider reimbursement of bone marker testing procedure codes when billed with other conditions?",
+            "A": "Yes. The frequency limitation in this policy only applies when the bone marker testing procedure codes are billed for osteoporosis."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association (AMA) Current Procedural Terminology (CPT) Centers for Medicare and Medicaid Services: PFS Relative Value Files"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "9/1/2026",
+          "value": "Policy Version Change"
+        },
+        {
+          "key": "12/1/2025",
+          "value": "New Policy"
+        },
+        {
+          "key": "9/1/2025",
+          "value": "Published Date"
+        },
+        {
+          "key": "8/26/2026",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "83500",
+    "83505",
+    "83937",
+    "84080"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

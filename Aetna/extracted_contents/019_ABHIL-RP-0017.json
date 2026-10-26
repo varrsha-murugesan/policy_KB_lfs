@@ -1,0 +1,190 @@
+{
+  "policy_title": "Clinical Laboratory National Coverage\nDeterminations (NCD)",
+  "policy_number": "ABHIL-RP-0017",
+  "effective_date": "06/01/2024",
+  "expiry_date": "11/01/2026",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "80061",
+    "80074",
+    "80162",
+    "82105",
+    "82270",
+    "82274",
+    "82378",
+    "82465",
+    "82523",
+    "82947",
+    "82948",
+    "82962",
+    "82977",
+    "82985",
+    "83036",
+    "83540",
+    "83550",
+    "83700",
+    "83701",
+    "83704",
+    "83718",
+    "83721",
+    "84153",
+    "84436",
+    "84439",
+    "84443",
+    "84478",
+    "84479",
+    "84702",
+    "85027",
+    "85610",
+    "85730",
+    "86300",
+    "86301",
+    "86304",
+    "86689",
+    "87086",
+    "87536"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for the appropriate reporting of the specific clinical diagnostic \nlaboratory services outlined in this policy when \n• \nServices are reported with an ICD-10-CM diagnosis code indicated by the specific NCD as \na covered diagnosis. \n \nClaims that are submitted will be denied when \n• \nServices are reported without an ICD-10-CM diagnosis code that is listed in the non- \ncovered section of a specific test’s NCD. \n• \nServices are reported with an ICD-10-CM diagnosis code that is not listed in either the \ncovered or non- covered section of a specific tests’ NCD. \n \nThe medical record documentation is expected to support the specific CPT code(s) and ICD-10-\nCM codes reported.",
+    "subsections": [
+      {
+        "title": "Services are reported with an ICD-10-CM diagnosis code indicated by the specific NCD as",
+        "content": "a covered diagnosis. Claims that are submitted will be denied when"
+      },
+      {
+        "title": "Services are reported without an ICD-10-CM diagnosis code that is listed in the non-",
+        "content": "covered section of a specific test’s NCD."
+      },
+      {
+        "title": "Services are reported with an ICD-10-CM diagnosis code that is not listed in either the",
+        "content": "covered or non- covered section of a specific tests’ NCD. The medical record documentation is expected to support the specific CPT code(s) and ICD-10- CM codes reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "International\nStatistical\nClassification of\nDiseases (ICD-10-\nCM)",
+            "value": "The 10th revision of the (ICD), a medical classification list by the\nWorld Health Organization (WHO). It contains codes for diseases,\nsigns and symptoms, abnormal findings, complaints, social\ncircumstances, and external causes of injury or diseases."
+          },
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          },
+          {
+            "key": "National Coverage\nDeterminations\n(NCD)",
+            "value": "A CMS National Coverage Determination (NCD) is a nationwide\nrule created by Medicare (CMS) that says whether Medicare will\npay for a certain medical test, treatment, procedure, or piece of\nequipment"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for the appropriate reporting of the specific clinical diagnostic\nlaboratory services outlined in this policy when\n• Services are reported with an ICD-10-CM diagnosis code indicated by the specific NCD as\na covered diagnosis.\nClaims that are submitted will be denied when\n• Services are reported without an ICD-10-CM diagnosis code that is listed in the non-\ncovered section of a specific test’s NCD.\n• Services are reported with an ICD-10-CM diagnosis code that is not listed in either the\ncovered or non- covered section of a specific tests’ NCD.\nThe medical record documentation is expected to support the specific CPT code(s) and ICD-10-\nCM codes reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "NCD\nNumber",
+            "value": "NCD Section Title | CPT\nCode(s)"
+          },
+          {
+            "key": "NCD 190.12",
+            "value": "Urine Culture, Bacterial | 87086"
+          },
+          {
+            "key": "NCD 190.13",
+            "value": "Human Immunodeficiency Virus (HIV) Testing (Prognosis\nIncluding Monitoring) | 87536"
+          },
+          {
+            "key": "NCD 190.14",
+            "value": "Human Immunodeficiency Virus (HIV) Testing (Diagnosis) | 86689"
+          },
+          {
+            "key": "NCD 190.15",
+            "value": "Blood Counts | 85027"
+          },
+          {
+            "key": "NCD 190.16",
+            "value": "Partial Thromboplastin Time (PTT) | 85730"
+          },
+          {
+            "key": "NCD 190.17",
+            "value": "Prothrombin Time (PT) | 85610"
+          },
+          {
+            "key": "NCD 190.18",
+            "value": "Serum Iron Studies | 83540\n83550"
+          },
+          {
+            "key": "NCD 190.19",
+            "value": "Collagen Crosslinks, any Method | 82523"
+          },
+          {
+            "key": "NCD 190.20",
+            "value": "Blood Glucose Testing | 82947\n82948\n82962"
+          },
+          {
+            "key": "NCD 190.21",
+            "value": "Glycated Hemoglobin/Glycated Protein | 82985\n83036"
+          },
+          {
+            "key": "NCD 190.22",
+            "value": "Thyroid Testing | 84436\n84439\n84443\n84479"
+          },
+          {
+            "key": "NCD 190.23",
+            "value": "Lipids Testing | 80061\n82465\n83700\n83701\n83704\n83718\n83721\n84478"
+          },
+          {
+            "key": "NCD 190.24",
+            "value": "Digoxin Therapeutic Drug Assay | 80162"
+          },
+          {
+            "key": "NCD 190.25",
+            "value": "Alpha-fetoprotein | 82105"
+          },
+          {
+            "key": "NCD 190.26",
+            "value": "Carcinoembryonic Antigen | 82378"
+          },
+          {
+            "key": "NCD 190.27",
+            "value": "Human Chorionic Gonadotropin | 84702"
+          },
+          {
+            "key": "NCD 190.28",
+            "value": "Tumor Antigen by Immunoassay CA 125 | 86304"
+          },
+          {
+            "key": "NCD 190.29",
+            "value": "Tumor Antigen by Immunoassay CA 15-3/CA 27.29 | 86300"
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. Centers for Medicare & Medicaid Services. (2026). National Coverage NCD report results. \nhttps://www.cms.gov/medicare-coverage-database/reports/national-coverage-ncd-\nreport.aspx?chapter=190&labOnly=labonlyncd&sortBy=chapter \n2. American Medical Association. CPT Professional Edition 2025, AMA; 2024."
+}

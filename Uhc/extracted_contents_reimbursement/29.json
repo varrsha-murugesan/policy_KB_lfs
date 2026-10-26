@@ -1,0 +1,191 @@
+{
+  "policy_title": "Assistant-at-Surgery Services Policy",
+  "policy_number": "2026R9038A",
+  "policy_dates": {
+    "effective_date": "9/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "An Assistant-at-Surgery actively assists the Physician performing a surgical procedure. Reimbursement for Assistant-at- Surgery services, when reported by the Same Individual Physician or Other Qualified Health Care Professional, is based on whether the Assistant Surgeon is a Physician (designated by modifiers 80, 81 or 82) or another Health Care Professional (designated by modifier AS) acting as the surgical assistant. Only one Assistant-at-Surgery for each procedure with an Indicator of 2 on the National Physician Fee Schedule (NPFS) is a reimbursable service. No exceptions to this policy are made for teaching hospitals or hospital bylaws."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "Multiple Procedures If an Assistant-at-Surgery submits multiple procedure codes, multiple procedure reductions will apply. Assistant-at-Surgery The Assistant-at-Surgery is based on the Centers for Medicare and Medicaid Services (CMS) NPFS payment policy indicators. CMS Definition of Assistant at Surgery Indicator \"2\" 2 = Payment restriction for Assistants-at-Surgery does not apply to this procedure. Assistant-at-Surgery may be paid. All codes in the NPFS with the payment code indicator \"2\" for \"Assistant-at-Surgery\" are considered by UnitedHealthcare Medicare Advantage to be reimbursable for Assistant-at-Surgery services, as indicated by an Assistant Surgeon modifier (80, 81, 82, or AS). All codes in the NPFS with the status code indicator \"1\" for \"Assistant Surgeons\" are considered by UnitedHealthcare Medicare Advantage to not be reimbursable for Assistant Surgeon services, as indicated by an Assistant Surgeon or surgical assistant modifier (80, 81, 82, or AS), and will not be allowed for payment. All codes in the NPFS with the status code indicator \"0\" for \"Assistant Surgeons\" are considered by UnitedHealthcare Medicare Advantage to be conditionally reimbursable for Assistant Surgeon services, as indicated by an Assistant Surgeon or surgical assistant modifier (80, 81, 82, or AS), and will be reviewed with clinical documentation for Assistant- at Surgery eligibility. Physicians (MD/DO) UnitedHealthcare's Medicare Advantage standard reimbursement for Assistant-at-Surgery services performed by a Physician is 16% of the Allowable Amount for eligible surgical procedures. This percentage is based on CMS. Assistants-at-Surgery who are Physicians should submit the identical procedure code(s) as the primary surgeon with one of the following modifiers 80, 81 or 82 to represent their service(s). Health Care Professionals UnitedHealthcare's Medicare Advantage standard reimbursement for Assistant-at-Surgery services provided by a Health Care Professional other than a Physician (i.e., Physician Assistants (PA), Nurse Practitioners (NP) or Clinical Nurse Specialists (CNS) is in accordance with the requirements outlined in Medicare Claims Processing Manual Chapter 12 section 110.2. Per CMS guidelines covered PA Assistant-at-Surgery services are reimbursed at 80 percent of the lesser of the actual charge or 85 percent of what a Physician is paid under the Medicare Physician Fee Schedule. Since Physicians are paid at 16 percent of the surgical payment amount under the Medicare Physician Fee Schedule for Assistant-at-Surgery services, the actual payment amount that PAs receive for Assistant-at-Surgery services is 13.6 percent of the amount paid to Physicians. The AS modifier must be reported on the claim form when billing PA Assistant-at-Surgery services. This pricing guideline applies unless the provider has a specific contract provision prohibiting the 85% of Physician allowable reimbursement rate. Assistants-at-Surgery who are Health Care Professionals should submit the identical procedure code(s) as the primary surgeon with the following modifier AS to represent that a PA, NP or CNS served as the Assistant-at-Surgery. Per CMS claims processing manual guidelines, surgical technicians are not listed as a health care practitioner that can report modifier AS. The services of a surgical technician assisting at surgery are included in the reimbursement to the facility and not separately reimbursable. Other categories of nonphysician practitioners are not recognized as Medicare providers and thus are not able to bill the program independently for their services. Medicare cannot reimburse an Assistant-at-Surgery's services if the assistant is an unlicensed practitioner and does not qualify to be a Medicare provider.",
+          "subsections": [
+            {
+              "title": "Multiple Procedures",
+              "content": "If an Assistant-at-Surgery submits multiple procedure codes, multiple procedure reductions will apply."
+            },
+            {
+              "title": "Assistant-at-Surgery",
+              "content": "The Assistant-at-Surgery is based on the Centers for Medicare and Medicaid Services (CMS) NPFS payment policy indicators. CMS Definition of Assistant at Surgery Indicator \"2\" 2 = Payment restriction for Assistants-at-Surgery does not apply to this procedure. Assistant-at-Surgery may be paid. All codes in the NPFS with the payment code indicator \"2\" for \"Assistant-at-Surgery\" are considered by UnitedHealthcare Medicare Advantage to be reimbursable for Assistant-at-Surgery services, as indicated by an Assistant Surgeon modifier (80, 81, 82, or AS). All codes in the NPFS with the status code indicator \"1\" for \"Assistant Surgeons\" are considered by UnitedHealthcare Medicare Advantage to not be reimbursable for Assistant Surgeon services, as indicated by an Assistant Surgeon or surgical assistant modifier (80, 81, 82, or AS), and will not be allowed for payment. All codes in the NPFS with the status code indicator \"0\" for \"Assistant Surgeons\" are considered by UnitedHealthcare Medicare Advantage to be conditionally reimbursable for Assistant Surgeon services, as indicated by an Assistant Surgeon or surgical assistant modifier (80, 81, 82, or AS), and will be reviewed with clinical documentation for Assistant- at Surgery eligibility."
+            },
+            {
+              "title": "Physicians (MD/DO)",
+              "content": "UnitedHealthcare's Medicare Advantage standard reimbursement for Assistant-at-Surgery services performed by a Physician is 16% of the Allowable Amount for eligible surgical procedures. This percentage is based on CMS. Assistants-at-Surgery who are Physicians should submit the identical procedure code(s) as the primary surgeon with one of the following modifiers 80, 81 or 82 to represent their service(s)."
+            },
+            {
+              "title": "Health Care Professionals",
+              "content": "UnitedHealthcare's Medicare Advantage standard reimbursement for Assistant-at-Surgery services provided by a Health Care Professional other than a Physician (i.e., Physician Assistants (PA), Nurse Practitioners (NP) or Clinical Nurse Specialists (CNS) is in accordance with the requirements outlined in Medicare Claims Processing Manual Chapter 12 section 110.2. Per CMS guidelines covered PA Assistant-at-Surgery services are reimbursed at 80 percent of the lesser of the actual charge or 85 percent of what a Physician is paid under the Medicare Physician Fee Schedule. Since Physicians are paid at 16 percent of the surgical payment amount under the Medicare Physician Fee Schedule for Assistant-at-Surgery services, the actual payment amount that PAs receive for Assistant-at-Surgery services is 13.6 percent of the amount paid to Physicians. The AS modifier must be reported on the claim form when billing PA Assistant-at-Surgery services. This pricing guideline applies unless the provider has a specific contract provision prohibiting the 85% of Physician allowable reimbursement rate. Assistants-at-Surgery who are Health Care Professionals should submit the identical procedure code(s) as the primary surgeon with the following modifier AS to represent that a PA, NP or CNS served as the Assistant-at-Surgery. Per CMS claims processing manual guidelines, surgical technicians are not listed as a health care practitioner that can report modifier AS. The services of a surgical technician assisting at surgery are included in the reimbursement to the facility and not separately reimbursable. Other categories of nonphysician practitioners are not recognized as Medicare providers and thus are not able to bill the program independently for their services. Medicare cannot reimburse an Assistant-at-Surgery’s services if the assistant is an unlicensed practitioner and does not qualify to be a Medicare provider."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Allowable Amount",
+          "value": "Defined as the dollar amount eligible for reimbursement to the physician or other qualified health care professional on the claim. Contracted rate, reasonable charge, or billed charges are examples of an Allowable Amount, whichever is applicable. For percent of charge or discount contracts, the Allowable Amount is determined as the billed amount, less the discount."
+        },
+        {
+          "key": "Assistant-at-Surgery/Assistant Surgeon",
+          "value": "A physician or other qualified health care professional who is assisting the physician performing a surgical procedure."
+        },
+        {
+          "key": "Health Care Professional",
+          "value": "A physician assistant, registered nurse or nurse practitioner who does not have a \"Doctor of Medicine\" or \"Doctor of Osteopathy\" degree/designation."
+        },
+        {
+          "key": "Physician",
+          "value": "A Doctor of Medicine (MD) or Doctor of Osteopathy (DO)"
+        },
+        {
+          "key": "Same Individual Physician or Other Qualified Health Care Professional",
+          "value": "The same individual rendering health care services reporting the same Federal Tax Identification number."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "What if hospital bylaws require the attendance of an assistant for all procedures?",
+            "A": "No exceptions will be made to the policy to accommodate hospital bylaws. The NPFS published by CMS will be used to determine benefits for Assistants-at-Surgery."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "The CMS NPFS contains Assistant-at-Surgery payment policy indicators of 0, 1, 2 and 9. Are procedure codes with any of these indicators for Assistants-at-Surgery considered for reimbursement when reported with an Assistant Surgeon modifier?",
+            "A": "Yes, procedure codes included on the CMS NPFS payment policy indicators \"2\" \"Assistants-at-Surgery\" will be considered for reimbursement. Indicator \"0\" will also be eligible for reimbursement. However, there is payment restriction for Assistants-at-Surgery unless supporting documentation is submitted to establish medical necessity."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Codes",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "CPT code section National Physician Fee Schedule Relative Value File"
+    },
+    {
+      "title": "Modifiers Codes",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "AS",
+          "value": "80 81 82"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov Centers for Medicare and Medicaid Services: PFS Relative Value Files Medicare Claims Processing Manual - Chapter 12 - Physicians/Nonphysician Practitioners: Sections 20.4.3, 100.1.7, 110, 110.2, 120, 120.1, 120.3"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "9/1/2026",
+          "value": "Policy Version Change Anniversary Review"
+        },
+        {
+          "key": "9/1/2025",
+          "value": "Policy Version Change History Section: Entries prior to 9/1/2023 archived"
+        },
+        {
+          "key": "9/1/2024",
+          "value": "Policy Version Change History Section: Entries prior to 9/1/2022 archived"
+        },
+        {
+          "key": "1/25/2012",
+          "value": "Policy Approved"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "80",
+    "81",
+    "82",
+    "AS",
+    "PA",
+    "NP"
+  ]
+}

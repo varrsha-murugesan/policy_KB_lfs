@@ -1,0 +1,118 @@
+{
+  "policy_title": "Serum Iron Studies",
+  "policy_number": "ABHIL-RP-0006",
+  "effective_date": "06/01/2026",
+  "expiry_date": "10/26/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "82728",
+    "83540",
+    "83550",
+    "84466"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for routinely performed serum iron studies for \n• \nAsymptomatic children aged 5 and under \n• \nPregnant adults \n \nClaims that are submitted will be denied when \n• \nThe patient is older than 5 and the only corresponding diagnosis reported is for screening \nor examination without abnormal findings \n• \nThe patient is a non-pregnant adult \n \nThe medical record documentation is expected to support the specific CPT, HCPCS and ICD-10-\nCM code(s) and any applicable modifier(s) reported.",
+    "subsections": [
+      {
+        "title": "Asymptomatic children aged 5 and under",
+        "content": "Asymptomatic children aged 5 and under"
+      },
+      {
+        "title": "Pregnant adults",
+        "content": "Claims that are submitted will be denied when"
+      },
+      {
+        "title": "The patient is older than 5 and the only corresponding diagnosis reported is for screening",
+        "content": "or examination without abnormal findings"
+      },
+      {
+        "title": "The patient is a non-pregnant adult",
+        "content": "The medical record documentation is expected to support the specific CPT, HCPCS and ICD-10- CM code(s) and any applicable modifier(s) reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          },
+          {
+            "key": "United States\nPreventive\nServices Task\nForce",
+            "value": "A scientifically independent, volunteer panel of national experts\nthat issue recommendations on primary care and preventative\nservices based on review of evidence-based literature."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for routinely performed serum iron studies for\n• Asymptomatic children aged 5 and under\n• Pregnant adults\nClaims that are submitted will be denied when\n• The patient is older than 5 and the only corresponding diagnosis reported is for screening\nor examination without abnormal findings\n• The patient is a non-pregnant adult\nThe medical record documentation is expected to support the specific CPT, HCPCS and ICD-10-\nCM code(s) and any applicable modifier(s) reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "Laboratory CPT Codes\n82728 Ferritin\n83540 Iron\n83550 Iron binding capacity\n84466 Transferrin",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "82728",
+            "value": "Ferritin"
+          },
+          {
+            "key": "83540",
+            "value": "Iron"
+          },
+          {
+            "key": "83550",
+            "value": "Iron binding capacity"
+          },
+          {
+            "key": "84466",
+            "value": "Transferrin"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "F. Frequently Asked Questions",
+            "value": ""
+          },
+          {
+            "key": "N/A",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Academy of Family Physicians. Clinical Preventive Service Recommendation: Iron \nDeficiency Anemia. Leawood, KS: American Academy of Family Physicians; 2015. \n2. American Medical Association. CPT Professional Edition 2026, AMA; 2025. \n3. Baker RD, Greer FR; Committee on Nutrition, American Academy of Pediatrics. Diagnosis and \nprevention of iron deficiency and iron-deficiency anemia in infants and young children (0-3 \nyears of age). Pediatrics. 2010;126(5):1040-50. \n4. U.S. Preventative Services Task Force. Final Recommendation Statement: Iron Deficiency \nAnemia in Young Children: Screening. http://www.uspreventiveservicestaskforce.org/uspstf. \nPublished September 7, 2015. \n5. U.S. Preventative Services Task Force. Final Recommendation Statement: Iron Deficiency and \nIron Deficiency Anemia During Pregnancy: Screening and Supplementation. \nhttp://www.uspreventiveservicestaskforce.org/uspstf. Published August 20, 2024."
+}

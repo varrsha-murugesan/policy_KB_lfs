@@ -1,0 +1,9 @@
+{
+  "payer": "Aetna",
+  "adapter": "guidelines_document",
+  "detection_patterns": ["\\bAetna\\b", "\\bABHIL\\b"],
+  "id_fields": ["policy_number"],
+  "generic_title_patterns": [],
+  "section_role_patterns": {"definition": "\\bdefinitions?\\b"},
+  "adapter_options": {"keys": {}}
+}

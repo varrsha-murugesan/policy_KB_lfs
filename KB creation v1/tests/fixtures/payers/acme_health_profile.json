@@ -1,0 +1,18 @@
+{
+  "payer": "Acme Health",
+  "adapter": "declarative",
+  "detection_patterns": ["\\bAcme Health\\b"],
+  "id_fields": ["policy_number"],
+  "generic_title_patterns": ["^Provider Bulletin\\b"],
+  "adapter_options": {
+    "records": "payload.documents",
+    "fields": {"policy_title": "meta.name", "policy_number": "meta.doc_id", "effective_date": "meta.dates.effective",
+               "line_of_business": "meta.product", "billing_class": "meta.claim_type"},
+    "sections": [
+      {"each": "body.paragraphs", "text": "text", "title": "heading", "location": "policy_text", "role": "payment_policy"},
+      {"each": "body.code_table", "columns": ["code", "description"], "section": "Covered Codes", "location": "policy_table"},
+      {"each": "faq", "text": "answer", "title": "question", "location": "policy_qa", "role": "qa"}
+    ],
+    "code_lists": [{"path": "billing.codes"}]
+  }
+}

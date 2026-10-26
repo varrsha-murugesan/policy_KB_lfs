@@ -1,0 +1,213 @@
+{
+  "policy_title": "Mohs Micrographic Surgery Policy",
+  "policy_number": "2026R9044A",
+  "policy_dates": {
+    "effective_date": "5/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy describes reimbursement guidelines for reporting Mohs Micrographic Surgery (MMS). MMS includes both the surgical excision and the histopathologic examination services. All services described in this policy may be subject to additional UnitedHealthcare Medicare Advantage reimbursement policies including, but not limited to, the Rebundling and NCCI Edits and the Laboratory Services Policy."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "The policy enforces the reimbursement requirements for reporting Mohs Micrographic surgery, also referred to as Mohs or MMS. Mohs is a precise, tissue-sparing, microscopically controlled surgical technique used to treat selected skin cancers. It is an approach that aims to achieve the highest possible cure rates and minimize wound size and consequent distortions at critical sites such as the eyes, ears, nose, and lips. Mohs is a two-step process: - The tumor is removed in stages, followed by immediate histologic evaluation of the margins of the specimen(s). - Additional excision and evaluation is performed until all margins are clear. Per the American Medical Association (AMA) and CMS, Mohs requires the integration of an individual provider functioning in two separate and distinct capacities: surgeon and pathologist. If either of these responsibilities is delegated to another physician or other qualified health care professional who reports the services separately, the Mohs CPT codes (17311-17315) should not be reported. Therefore, Mohs codes (17311-17315) will be denied if any another physician or other qualified health care professional reports the Mohs pathology services separately.. The AMA also indicates that pathology examination of the specimen is an inclusive component of Mohs and should not be separately reported by the Mohs surgeon. If a separate pathology code is submitted for the same date of service as Mohs by the same provider and records do not indicate the pathology was related to a biopsy or excision performed distinctly separate from the Mohs tumor site, the pathology code will be denied as included in the Mohs surgery. Occasionally a surgical excision or skin biopsy is performed on a separate site or lesion in the same session as a Mohs procedure and the tissue is sent to an outside pathologist for review. In this situation (one provider the surgeon, a different provider the pathologist), the surgeon may submit a claim with the correct excision code for the service performed (e.g., CPT 11641, and the pathologist may submit a claim with the correct histopathology code (e.g., CPT 88302-88309,88331,88332). Refer to the Modifiers section for guidelines on reporting modifying circumstances and the Questions and Answers section for specific claim scenario examples. . The Centers for Medicare and Medicaid Services (CMS) indicates that only physicians (MD/DO) may perform Mohs services. A physician performing Mohs should be specifically trained and highly skilled in Mohs techniques and pathologic identification. The operative note and pathology documentation in the patient's medical record must clearly show the Mohs service was performed using accepted Mohs technique, with the physician performing both the surgical and pathology services. Multiple Procedure Reductions UnitedHealthcare will not apply multiple procedure reductions (as defined in the Multiple Procedure Payment Reduction (MPPR) for Medical and Surgical Services Policy, Professional) to physicians or other qualified health care professionals within the same medical group that have different specialties for procedure(s) performed to repair the wound, in addition to the Mohs surgery (17311-17315) on the same date of service. - Multiple procedure reductions will continue to apply to the same provider performing multiple procedures on the same date of service. Note: Different provider specialty is the primary specialty reported to UnitedHealthcare",
+          "subsections": [
+            {
+              "title": "Multiple Procedure Reductions",
+              "content": "UnitedHealthcare will not apply multiple procedure reductions (as defined in the Multiple Procedure Payment Reduction (MPPR) for Medical and Surgical Services Policy, Professional) to physicians or other qualified health care professionals within the same medical group that have different specialties for procedure(s) performed to repair the wound, in addition to the Mohs surgery (17311-17315) on the same date of service. • Multiple procedure reductions will continue to apply to the same provider performing multiple procedures on the same date of service. Note:  Different provider specialty is the primary specialty reported to UnitedHealthcare"
+            }
+          ],
+          "children": [
+            {
+              "title": "Modifiers",
+              "level": 3,
+              "confirmed": true,
+              "page": 3,
+              "matched_via": "blue",
+              "type": "text",
+              "content": "Per the NCCI Policy Manual for Medicare: Mohs micrographic surgery (CPT codes 17311-17315) is performed to remove complex or ill-defined cutaneous malignancy. A single physician performs both the surgery and pathologic examination of the specimen(s). The Mohs micrographic surgery CPT codes include skin biopsy and excision services (CPT codes 11102-11107, 11600-11646, and 17260-17286) and pathology services (88300-88309, 88329-88332). Reporting these latter codes in addition to the Mohs micrographic surgery CPT codes is inappropriate. However, if a suspected skin cancer is biopsied for pathologic diagnosis prior to proceeding to Mohs micrographic surgery, the biopsy (e.g., CPT codes 11102-11107) and frozen section pathology (CPT code 88331) may be reported separately using modifier 59 or -X{SU}, or 58 to distinguish the diagnostic biopsy from the definitive Mohs surgery. Although the \"CPT Manual\" indicates that modifier 59 should be used, it is also acceptable to use modifier 58 to indicate that the diagnostic skin biopsy and Mohs micrographic surgery were staged or planned procedures. Repairs, grafts, and flaps are separately reportable with the Mohs micrographic surgery CPT codes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Histopathology",
+          "value": "The branch of histology that includes the microscopic examination and study of diseased tissue."
+        },
+        {
+          "key": "Mohs Micrographic Surgery",
+          "value": "A technique for the removal of complex or ill-defined skin cancer with histologic examination of 100% of the surgical margins."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "A dermatologist excised a malignant lesion and had the tissue examined by a separate pathologist in the same office complex to ensure clear margins. The pathologist billed separately for their services. May the dermatologist report CPT code 17311 for the surgical service?",
+            "A": "No, Mohs requires that a single physician act as both surgeon (excision tissue) and pathologist (immediately examining excised tissue to determine clear margins). Per CPT, if either of these responsibilities is delegated to another physician or qualified health care professional who reports the services separately, the surgeon should report the appropriate excision or biopsy code such as CPT codes 11600-11646 or 11102-11107. UnitedHealthcare will allow the claim for the histopathology service and deny the claim for the Mohs procedure."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "A dermatologist performed Mohs surgery on the patient's cheek and performed the pathology services. May the dermatologist bill for both services performed, the Mohs surgery and the pathology?",
+            "A": "No, the pathology examination of the specimen is an inclusive component of the Mohs surgery and should not be reported separately. UnitedHealthcare will allow the claim for the histopathology service and deny the claim for the Mohs procedure."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "A dermatologist excised a malignant lesion and performed a biopsy on a separate lesion reported with modifier 59, XS or XU. The tissue sample from the biopsy was examined by a pathologist other than the surgeon. May the surgeon separately report the biopsy code and the pathologist bill separately for their services?",
+            "A": "Yes, the surgeon may submit a claim with the correct excision code for the biopsy service performed (e.g., CPT 11641, and the pathologist may submit a claim with the correct histopathology code (e.g., CPT 88302-88309,88331,88332). UnitedHealthcare will allow the claim for the biopsy and the associated histopathology service reported with modifying circumstances."
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "Q": "A dermatologist excised a malignant lesion and performed a biopsy on a separate lesion reported with modifier 59, XS or XU. The tissue sample from the biopsy was examined was also examined by the surgeon and submitted with modifier 59, XS or XU. May the surgeon separately report the biopsy code and the associated pathology services?",
+            "A": "Yes, the surgeon may submit a claim with the correct excision code for the biopsy service performed (e.g., CPT 11641, and may submit a claim with the correct histopathology code (e.g., CPT 88302-88309,88331,88332). UnitedHealthcare will allow the claim for the biopsy and the associated histopathology service reported with modifying circumstances."
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "Q": "5",
+            "A": "Q. Will a multiple procedure payment reduction be applied to the following claim example? A physician performs Mohs procedure CPT Code 17311 (Mohs micrographic technique, including removal of all gross tumor, surgical excision of tissue specimens, mapping, color coding of specimens, microscopic examination of specimens by the surgeon and histopathologic preparation including routine stain(s), head, neck hands, feet genitalia or any location with surgery directly involving muscle, cartilage, bone, tendon, major nerves or vessels; first stage, up to 5 tissue blocks). The patient requires immediate attention to repair the wound. They are seen by another provider (e.g., a Plastic Surgeon) from the same group practice, to perform the repair of the wound. The Plastic Surgeon submits a claim with CPT Code 14040 (Adjacent tissue transfer or rearrangement, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands and/or feet; defect 10 sq cm or less). Both physicians share the same Tax Identification Number (TIN). A. NO, a multiple procedure payment reduction will NOT be applied based on the Multiple Procedure Payment Reduction (MPPR) for Medical and Surgical Services, Professional Reimbursement Policy."
+          }
+        },
+        {
+          "key": "17311",
+          "value": {
+            "Q": "+17312",
+            "A": "17313 +17314 +17315"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Attachments",
+      "level": 1,
+      "confirmed": false,
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association, Current Procedural Terminology (CPT) and associated publications and services Medicare Claims Processing Manual Chapter 12 - Physicians/Nonphysician Practitioners: Section 60 Medicare Fee Schedules Medicare Coverage Database Medicare Claims Processing Manual, Chapter 16-Laboratory Services Medicare Claims Processing Manual Chapter 23 - Fee Schedule Administration and Coding Requirements: Section 20.9 NCCI Policy Manual for Medicare, Chapter 3, Section F The Medicare Learning Network (MLN) SE1318 - Guidance to Reduce Mohs Surgery Reimbursement Issues"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 5,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "5/1/2026",
+          "value": "Policy Version Change Resource section: Updated History section: Entries prior to 5/1/2024 archived"
+        },
+        {
+          "key": "5/1/2025",
+          "value": "Policy Version Change Application Section: Updated History section: Entries prior to 5/1/2023 archived"
+        },
+        {
+          "key": "5/1/2024",
+          "value": "Policy Version Change History section: Entries prior to 5/1/2022 archived"
+        },
+        {
+          "key": "11/1/2019",
+          "value": "Policy Implemented by M&R Reimbursement"
+        },
+        {
+          "key": "4/3/2019",
+          "value": "Policy Presented and approved to M&R Stakeholder meeting."
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "17311",
+    "17315",
+    "11641",
+    "88302",
+    "88309",
+    "88331",
+    "88332",
+    "11102",
+    "11107",
+    "11600",
+    "11646",
+    "17260",
+    "17286",
+    "88300",
+    "88329",
+    "14040",
+    "17312",
+    "17313",
+    "17314"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "59",
+    "SU",
+    "58",
+    "XS",
+    "XU"
+  ]
+}

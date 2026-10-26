@@ -1,0 +1,30 @@
+# --- Secrets and environment ---
+.env
+*.env
+!.env.example
+
+# --- Licensed UMLS raw content: never commit or share publicly ---
+**/data/raw/*
+!**/data/raw/README.md
+**/data/processed/
+*.RRF
+*.RRF.*
+umls-*.zip
+*.zip.part
+*.zip.manifest.json
+
+# --- Temporary runtime & cache files ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+*.log
+~$*.xlsx
+~$*.docx
+.DS_Store
+Thumbs.db
+scratch/
+tmp/

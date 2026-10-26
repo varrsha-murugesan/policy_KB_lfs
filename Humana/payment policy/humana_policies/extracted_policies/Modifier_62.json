@@ -1,0 +1,923 @@
+{
+  "policy_metadata": {
+    "policy_title": "Modifier 62",
+    "policy_number": "CP2010100",
+    "published_date": null,
+    "effective_date": "Commercial: 06/2010 Medicare: 01/2008",
+    "revision_date": "02/2020",
+    "last_reviewed": "02/2020",
+    "Line_of_Business": "Medicare Advantage and Commercial Products",
+    "Billingclass": "Professional",
+    "source_pdf": "Modifier_62-0f46a97c.pdf",
+    "total_pages": 3,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "00100",
+      "00102",
+      "00103",
+      "00104",
+      "00120",
+      "00124",
+      "00126",
+      "00140",
+      "00142",
+      "00144",
+      "00145",
+      "00147",
+      "00148",
+      "00160",
+      "00162",
+      "00170",
+      "00174",
+      "00176",
+      "00190",
+      "00192",
+      "00210",
+      "00212",
+      "00214",
+      "00216",
+      "00218",
+      "10004",
+      "10040",
+      "10120",
+      "11000",
+      "11755",
+      "11770",
+      "11771",
+      "11772",
+      "11960",
+      "14350",
+      "15780",
+      "15781",
+      "15782",
+      "15783",
+      "15786",
+      "15787",
+      "15824",
+      "15825",
+      "15826",
+      "15828",
+      "15829",
+      "15833",
+      "15834",
+      "15835",
+      "15851",
+      "15853",
+      "21209",
+      "27437",
+      "27440",
+      "27442",
+      "27486",
+      "27880",
+      "32440",
+      "33945",
+      "37799",
+      "38505",
+      "43496",
+      "44320",
+      "54437",
+      "54600",
+      "59899",
+      "60240",
+      "62",
+      "64999",
+      "G0088",
+      "G0089",
+      "G0090",
+      "G9643"
+    ],
+    "cpt_codes": [
+      "00100",
+      "00102",
+      "00103",
+      "00104",
+      "00120",
+      "00124",
+      "00126",
+      "00140",
+      "00142",
+      "00144",
+      "00145",
+      "00147",
+      "00148",
+      "00160",
+      "00162",
+      "00170",
+      "00174",
+      "00176",
+      "00190",
+      "00192",
+      "00210",
+      "00212",
+      "00214",
+      "00216",
+      "00218",
+      "10004",
+      "10040",
+      "10120",
+      "11000",
+      "11755",
+      "11770",
+      "11771",
+      "11772",
+      "11960",
+      "14350",
+      "15780",
+      "15781",
+      "15782",
+      "15783",
+      "15786",
+      "15787",
+      "15824",
+      "15825",
+      "15826",
+      "15828",
+      "15829",
+      "15833",
+      "15834",
+      "15835",
+      "15851",
+      "15853",
+      "21209",
+      "27437",
+      "27440",
+      "27442",
+      "27486",
+      "27880",
+      "32440",
+      "33945",
+      "37799",
+      "38505",
+      "43496",
+      "44320",
+      "54437",
+      "54600",
+      "59899",
+      "60240",
+      "64999"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [
+      "62"
+    ],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "In some situations, it is necessary for two surgeons to work together, each as a primary surgeon, on the same patient during the same operative session due to factors such as the complexity of the procedure or the condition of the patient. This can include surgeries when two surgeons of different specialties are required for a specific procedure. This can also include surgeries in which two surgeons perform elements of the procedure simultaneously such as during bilateral knee replacement or a heart transplant. In such circumstances, the physicians are considered co-surgeons, not assistant surgeons. Note: Surgeons of different specialties performing distinct procedures, even if the procedures use the same incision site, are not considered co-surgeons."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage and Commercial Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. The following policy applies to professional services only. Humana requires each surgeon acting as a co-surgeon to append modifier 62 to a procedure code with a Medicare Physician Fee Schedule (MPFS) Relative Value File co-surgeon indicator 1 or 2."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Co-surgeon Indicator 2",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "Humana allows the services of co-surgeons for a procedure with an MPFS Relative Value File co-surgeon indicator 2, when the surgeons determine it is necessary for more than one surgeon to perform the procedure. In these situations, each surgeon submits a charge with modifier 62 . The amount allowed for each surgeon\u2019s charge is the lower of the following: \u2022 The billed charge amount; \u2022 62.5 percent of the surgeon\u2019s contracted rate; or \u2022 62.5 percent of the base maximum amount payable under the member\u2019s plan , for an out-of-network surgeon. In certain circumstances, additional payment rules may apply. For example, when applicable, multiple surgery reduction is applied after a co-surgeon reduction."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Co-surgeon Indicator 0",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "Humana does not allow the services of co-surgeons for a procedure with an MPFS Relative Value File co-surgeon indicator 0. If a charge for such a service is submitted with modifier 62 and no surgeon charge has yet been allowed for the procedure, no co- surgeon adjustment will apply. Any charge by another health care provider, processed later, for the same procedure will be denied because the services of co-surgeons are not allowed for the procedure."
+          ],
+          "tables": [],
+          "subsections": []
+        },
+        {
+          "heading": "Co-surgeon Indicator 1",
+          "level": 2,
+          "page_start": 2,
+          "page_end": 2,
+          "content": [
+            "Humana may allow the services of co-surgeons for a procedure with an MPFS Relative Value File co-surgeon indicator 1, if Humana determines it was medically necessary for more than one surgeon to perform the procedure. Medical necessity of the co-surgeon services must be documented in the medical record, and the claim may be subject to records review. If Humana determines the services of co-surgeons are medically necessary in that situation, then the amount allowed for each surgeon\u2019s charge is determined as discussed in the section above regarding procedures with an MPFS Relative Value File co-surgeon indicator 2. If Humana determines the services of co-surgeons are not medically necessary in that situation, then co-surgeon charges will be processed as discussed in the section above regarding procedures with an MPFS Relative Value File co-surgeon indicator 0."
+          ],
+          "tables": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 3,
+      "content": [
+        "\u2022 Base maximum amount payable under the member\u2019s plan: The maximum amount of reimbursement for a covered expense, determined by the member\u2019s plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments. \u2022 Medicare Physician Fee Schedule (MPFS) Relative Value File: A file published by the Centers for Medicare & Medicaid Services that includes, among other information, co-surgeon indicator, relative value units and conversion factors for physician services. This file is commonly referred to as the relative value unit (RVU) table. \u2022 Modifier 62: \u201cTwo surgeons.\u201d"
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "\u2022 Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 12 \u2013 Physicians/Nonphysician Practitioners . Sections 20.4, 40, 40.6, 40.8 and 40.9. http://www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 23 \u2013 Fee Schedule Administration and Coding Requirements . Section 50.6 and Addendum. http://www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Physician Fee Schedule (MPFS) Relative Value File . http://www.cms.gov. \u2022 American Medical Association\u2019s Current Procedural Terminology (CPT\u00ae) and associated publications and services."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "\u2022 Availity \u2013 Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. \u2022 Claims processing edit notifications \u2013 Alerts of upcoming claims payment changes are posted on the first Friday of each month. \u2022 Claims resources \u2013 Providers can find information on referrals, authorizations, electronic claim submissions and more. \u2022 Education and news \u2013 This page can help you find clinical guidelines, educational tools, Medicare and Medicaid resources, our provider magazine and other resources to help you do business with us. \u2022 Making it easier \u2013 This page contains an educational series for providers and healthcare professionals. \u2022 Medical and pharmacy coverage policies \u2013 Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. Note : Links to sources outside of Humana\u2019s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Base maximum amount payable under the member\u2019s plan": "The maximum amount of reimbursement for a covered expense, determined by the member\u2019s plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments. \u2022 Medicare Physician Fee Schedule (MPFS) Relative Value File: A file published by the Centers for Medicare & Medicaid Services that includes, among other information, co-surgeon indicator, relative value units and conversion factors for physician services. This file is commonly referred to as the relative value unit (RVU) table. \u2022 Modifier 62: \u201cTwo surgeons.\u201d"
+  },
+  "references": [
+    "Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 12 \u2013 Physicians/Nonphysician Practitioners . Sections 20.4, 40, 40.6, 40.8 and 40.9. http://www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 23 \u2013 Fee Schedule Administration and Coding Requirements . Section 50.6 and Addendum. http://www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Physician Fee Schedule (MPFS) Relative Value File . http://www.cms.gov. \u2022 American Medical Association\u2019s Current Procedural Terminology (CPT\u00ae) and associated publications and services."
+  ],
+  "resources": [
+    "Availity \u2013 Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. \u2022 Claims processing edit notifications \u2013 Alerts of upcoming claims payment changes are posted on the first Friday of each month. \u2022 Claims resources \u2013 Providers can find information on referrals, authorizations, electronic claim submissions and more. \u2022 Education and news \u2013 This page can help you find clinical guidelines, educational tools, Medicare and Medicaid resources, our provider magazine and other resources to help you do business with us. \u2022 Making it easier \u2013 This page contains an educational series for providers and healthcare professionals. \u2022 Medical and pharmacy coverage policies \u2013 Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. Note : Links to sources outside of Humana\u2019s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 8,
+    "total_tables": 0,
+    "total_characters": 5787
+  },
+  "mapped_cpt_codes": [
+    {
+      "code": "33945",
+      "code_system": "CPT",
+      "description": "Transplantation of donor heart",
+      "confidence_tier": "B",
+      "score": 80.0,
+      "mapping_origin": "inferred",
+      "best_method": "exact_synonym"
+    },
+    {
+      "code": "G0088",
+      "code_system": "HCPCS_L2",
+      "description": "Professional services, initial visit, for the administration of anti-infective, pain management, chelation, pulmonary hypertension, inotropic, or other intravenous infusion drug or biological (excluding chemotherapy or other highly complex drug or biological) for each infusion drug administration calendar day in the individual's home, each 15 minutes",
+      "confidence_tier": "D",
+      "score": 48.49,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "G0089",
+      "code_system": "HCPCS_L2",
+      "description": "Professional services, initial visit, for the administration of subcutaneous immunotherapy or other subcutaneous infusion drug or biological for each infusion drug administration calendar day in the individual's home, each 15 minutes",
+      "confidence_tier": "D",
+      "score": 48.49,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "G0090",
+      "code_system": "HCPCS_L2",
+      "description": "Professional services, initial visit, for the administration of intravenous chemotherapy or other highly complex infusion drug or biological for each infusion drug administration calendar day in the individual's home, each 15 minutes",
+      "confidence_tier": "D",
+      "score": 48.49,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "15826",
+      "code_system": "CPT",
+      "description": "Rhytidectomy; glabellar frown lines",
+      "confidence_tier": "E",
+      "score": 33.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    },
+    {
+      "code": "21209",
+      "code_system": "CPT",
+      "description": "Osteoplasty, facial bones; reduction",
+      "confidence_tier": "E",
+      "score": 29.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "54600",
+      "code_system": "CPT",
+      "description": "Repair of twisted testicle",
+      "confidence_tier": "E",
+      "score": 29.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "27437",
+      "code_system": "CPT",
+      "description": "Arthroplasty, patella; without prosthesis",
+      "confidence_tier": "E",
+      "score": 23.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "27440",
+      "code_system": "CPT",
+      "description": "Arthroplasty, knee, tibial plateau",
+      "confidence_tier": "E",
+      "score": 23.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "27442",
+      "code_system": "CPT",
+      "description": "Arthroplasty, femoral condyles or tibial plateau(s), knee",
+      "confidence_tier": "E",
+      "score": 23.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "27486",
+      "code_system": "CPT",
+      "description": "Revision of component of total knee joint prosthesis",
+      "confidence_tier": "E",
+      "score": 23.0,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "00100",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on salivary glands, including biopsy",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00102",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures involving plastic repair of cleft lip",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00103",
+      "code_system": "CPT",
+      "description": "Anesthesia for reconstructive procedures of eyelid (eg, blepharoplasty, ptosis surgery)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00104",
+      "code_system": "CPT",
+      "description": "Anesthesia for electroconvulsive therapy",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00120",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on external, middle, and inner ear including biopsy; not otherwise specified",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00124",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on external, middle, and inner ear including biopsy; otoscopy",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00126",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on external, middle, and inner ear including biopsy; tympanotomy",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00140",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on eye",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00142",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on eye; lens surgery",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00144",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on eye; corneal transplant",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00145",
+      "code_system": "CPT",
+      "description": "Anesthesia for retinal surgery",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00147",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on eye for removal of iris",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00148",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on eye; ophthalmoscopy",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00160",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on nose and accessory sinuses; not otherwise specified",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00162",
+      "code_system": "CPT",
+      "description": "Anesthesia for extensive surgery on nose and sinuses",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00170",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on mouth",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00174",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on throat for removal of tumor",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00176",
+      "code_system": "CPT",
+      "description": "Anesthesia for intraoral procedures, including biopsy; radical surgery",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00190",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on face bones or skull",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00192",
+      "code_system": "CPT",
+      "description": "Anesthesia for extensive surgery on face bones or skull",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00210",
+      "code_system": "CPT",
+      "description": "Anesthesia for intracranial procedures; not otherwise specified",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00212",
+      "code_system": "CPT",
+      "description": "Anesthesia for removal of fluid from brain",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00214",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure to create holes in skull including X-ray imaging",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00216",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on blood vessels in brain",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00218",
+      "code_system": "CPT",
+      "description": "Anesthesia for intracranial procedures; procedures in sitting position",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "10004",
+      "code_system": "CPT",
+      "description": "Fine needle aspiration biopsy, without imaging guidance; each additional lesion (List separately in addition to code for primary procedure)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "10040",
+      "code_system": "CPT",
+      "description": "Removal of acne",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "10120",
+      "code_system": "CPT",
+      "description": "Incision and removal of foreign body, subcutaneous tissues; simple",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "11000",
+      "code_system": "CPT",
+      "description": "Debridement of extensive eczematous or infected skin; up to 10% of body surface",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "11755",
+      "code_system": "CPT",
+      "description": "Biopsy of fingernail or toenail",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "11770",
+      "code_system": "CPT",
+      "description": "Simple removal of cyst of tailbone",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "11771",
+      "code_system": "CPT",
+      "description": "Excision of pilonidal cyst or sinus; extensive",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "11772",
+      "code_system": "CPT",
+      "description": "Excision of pilonidal cyst or sinus; complicated",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "14350",
+      "code_system": "CPT",
+      "description": "Filleted finger or toe flap, including preparation of recipient site",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15780",
+      "code_system": "CPT",
+      "description": "Dermabrasion; total face (eg, for acne scarring, fine wrinkling, rhytids, general keratosis)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15781",
+      "code_system": "CPT",
+      "description": "Dermabrasion; segmental, face",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15782",
+      "code_system": "CPT",
+      "description": "Dermabrasion; regional, other than face",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15783",
+      "code_system": "CPT",
+      "description": "Dermabrasion; superficial, any site (eg, tattoo removal)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15786",
+      "code_system": "CPT",
+      "description": "Abrasion; single lesion (eg, keratosis, scar)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15787",
+      "code_system": "CPT",
+      "description": "Scraping of skin growth, each additional 1-4 growths",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15824",
+      "code_system": "CPT",
+      "description": "Rhytidectomy; forehead",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15825",
+      "code_system": "CPT",
+      "description": "Removal of wrinkles and extra skin of neck",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15828",
+      "code_system": "CPT",
+      "description": "Removal of wrinkles and extra skin of cheeks, chin, and neck",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15829",
+      "code_system": "CPT",
+      "description": "Rhytidectomy; superficial musculoaponeurotic system (SMAS) flap",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15833",
+      "code_system": "CPT",
+      "description": "Excision, excessive skin and subcutaneous tissue (includes lipectomy); leg",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15834",
+      "code_system": "CPT",
+      "description": "Excision, excessive skin and subcutaneous tissue (includes lipectomy); hip",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15835",
+      "code_system": "CPT",
+      "description": "Removal of extra skin and tissue of buttock",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15851",
+      "code_system": "CPT",
+      "description": "Removal of sutures or staples requiring anesthesia (ie, general anesthesia, moderate sedation)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15853",
+      "code_system": "CPT",
+      "description": "Removal of sutures or staples not requiring anesthesia (List separately in addition to E/M code)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "11960",
+      "code_system": "CPT",
+      "description": "Insertion of tissue expander",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "27880",
+      "code_system": "CPT",
+      "description": "Amputation of both lower leg bones",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "32440",
+      "code_system": "CPT",
+      "description": "Removal of lung",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "37799",
+      "code_system": "CPT",
+      "description": "Other procedure on blood vessel",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "38505",
+      "code_system": "CPT",
+      "description": "Needle biopsy or removal of surface lymph nodes",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "43496",
+      "code_system": "CPT",
+      "description": "Relocation of upper small bowel for graft",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "44320",
+      "code_system": "CPT",
+      "description": "Creation of opening from large bowel to skin",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "54437",
+      "code_system": "CPT",
+      "description": "Repair of penis",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "59899",
+      "code_system": "CPT",
+      "description": "Other maternity care and delivery procedure",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "60240",
+      "code_system": "CPT",
+      "description": "Removal of thyroid",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "64999",
+      "code_system": "CPT",
+      "description": "Unlisted procedure, nervous system",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "G9643",
+      "code_system": "HCPCS_L2",
+      "description": "Elective surgery",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    }
+  ]
+}

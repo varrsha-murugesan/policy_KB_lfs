@@ -1,0 +1,162 @@
+{
+  "policy_title": "Clinical & Correct Code Editing",
+  "policy_number": "ABHIL-RP-0002",
+  "effective_date": "12/01/2020",
+  "expiry_date": "10/01/2026",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "The HIPAA-compliant code editing software utilized by ABHIL audits a claim utilizing current and \nhistorical claim information and will make a recommendation known as an “edit” when a provider \ndoes not adhere to correct coding and/or Illinois Health and Family Services (HFS) guidelines. \nThe various code editing utilized by ABHIL include: \n \n• \nClaimsXten \nReal time rule-based software application that edits submitted claims for adherence to \nmedical coverage policies, reimbursement coverage policies, benefit plans, and industry \nstandard coding practices based on Illinois Health and Family Services State Guidelines, \nCenters for Medicare & Medicaid Services (CMS) and American Medical Association \n(AMA) guidelines \n \n• \nPayment Policy Management \nSoftware application that edits submitted claims for adherence to medical coverage \npolicies, reimbursement coverage policies, benefit plans, and industry-standard coding \npractices based on Illinois Health & Family Services State Guidelines, Centers for \nMedicare & Medicaid Services (CMS) and American Medical Association (AMA) \nguidelines. Payment Policy Management offers claims editing solutions that validate, \nidentify and review claims to comprehensively address Fraud Waste and Abuse. \n \n• \nCoding Validation \nCoding validation allows for consideration of exceptions to correct coding principles and \nmay identify where additional reimbursement is warranted. Evaluates the correct use of \ncoding modifiers with certain types of edits \no For example, clinicians review claims billed with modifiers -25 and -59 for clinical \ncircumstances which justify separate reimbursement for the service performed. \n \nCode editing software is updated as needed to account for coding changes such as \nincorporating new codes, changes to code definitions and changes to rules used to support edit \nlogic. Edit logic can be based on the several of the following sources (listed in no particular \norder): \n \n• \nIllinois Health & Family Services State Guidelines- Takes precedence over all other editing \nsources \n• \nAetna Clinical Policy Bulletins (CPBs) \n• \nAmerican Medical Association (AMA) standards and published resources \n\n\n \n \n \n \n \n• \nCenters for Medicare & Medicaid Services (CMS) including Local Coverage \nDeterminations (LCD) and National Coverage Determinations (NCD) \n• \nCPT Coding Manual, Code Definitions and coding guidelines \n• \nHCPCS Coding Manual, Code Definitions and coding guidelines \n• \nICD-10-CM Coding Manual, Code Definitions and coding guidelines \n• \nNational Correct Coding Initiative (NCCI) \n• \nProfessional Specialty Society or Association recommendations",
+    "subsections": [
+      {
+        "title": "ClaimsXten",
+        "content": "Real time rule-based software application that edits submitted claims for adherence to medical coverage policies, reimbursement coverage policies, benefit plans, and industry standard coding practices based on Illinois Health and Family Services State Guidelines, Centers for Medicare & Medicaid Services (CMS) and American Medical Association (AMA) guidelines"
+      },
+      {
+        "title": "Payment Policy Management",
+        "content": "Software application that edits submitted claims for adherence to medical coverage policies, reimbursement coverage policies, benefit plans, and industry-standard coding practices based on Illinois Health & Family Services State Guidelines, Centers for Medicare & Medicaid Services (CMS) and American Medical Association (AMA) guidelines. Payment Policy Management offers claims editing solutions that validate, identify and review claims to comprehensively address Fraud Waste and Abuse."
+      },
+      {
+        "title": "Coding Validation",
+        "content": "Coding validation allows for consideration of exceptions to correct coding principles and may identify where additional reimbursement is warranted. Evaluates the correct use of coding modifiers with certain types of edits o For example, clinicians review claims billed with modifiers -25 and -59 for clinical circumstances which justify separate reimbursement for the service performed. Code editing software is updated as needed to account for coding changes such as incorporating new codes, changes to code definitions and changes to rules used to support edit logic. Edit logic can be based on the several of the following sources (listed in no particular order):"
+      },
+      {
+        "title": "Illinois Health & Family Services State Guidelines- Takes precedence over all other editing",
+        "content": "sources"
+      },
+      {
+        "title": "Aetna Clinical Policy Bulletins (CPBs)",
+        "content": "Aetna Clinical Policy Bulletins (CPBs)"
+      },
+      {
+        "title": "American Medical Association (AMA) standards and published resources",
+        "content": "American Medical Association (AMA) standards and published resources"
+      },
+      {
+        "title": "Centers for Medicare & Medicaid Services (CMS) including Local Coverage",
+        "content": "Determinations (LCD) and National Coverage Determinations (NCD)"
+      },
+      {
+        "title": "CPT Coding Manual, Code Definitions and coding guidelines",
+        "content": "CPT Coding Manual, Code Definitions and coding guidelines"
+      },
+      {
+        "title": "HCPCS Coding Manual, Code Definitions and coding guidelines",
+        "content": "HCPCS Coding Manual, Code Definitions and coding guidelines"
+      },
+      {
+        "title": "ICD-10-CM Coding Manual, Code Definitions and coding guidelines",
+        "content": "ICD-10-CM Coding Manual, Code Definitions and coding guidelines"
+      },
+      {
+        "title": "National Correct Coding Initiative (NCCI)",
+        "content": "National Correct Coding Initiative (NCCI)"
+      },
+      {
+        "title": "Professional Specialty Society or Association recommendations",
+        "content": "Professional Specialty Society or Association recommendations"
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Provider",
+            "value": "A licensed or certified professional who provides medical or"
+          },
+          {
+            "key": "behavioral healthcare services as well as institutions or",
+            "value": ""
+          },
+          {
+            "key": "organizations that provide services, such as a hospital, residential",
+            "value": ""
+          },
+          {
+            "key": "treatment center, home health agency or rehabilitation facility.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "The HIPAA-compliant code editing software utilized by ABHIL audits a claim utilizing current and\nhistorical claim information and will make a recommendation known as an “edit” when a provider\ndoes not adhere to correct coding and/or Illinois Health and Family Services (HFS) guidelines.\nThe various code editing utilized by ABHIL include:\n• ClaimsXten\nReal time rule-based software application that edits submitted claims for adherence to\nmedical coverage policies, reimbursement coverage policies, benefit plans, and industry\nstandard coding practices based on Illinois Health and Family Services State Guidelines,\nCenters for Medicare & Medicaid Services (CMS) and American Medical Association\n(AMA) guidelines\n• Payment Policy Management\nSoftware application that edits submitted claims for adherence to medical coverage\npolicies, reimbursement coverage policies, benefit plans, and industry-standard coding\npractices based on Illinois Health & Family Services State Guidelines, Centers for\nMedicare & Medicaid Services (CMS) and American Medical Association (AMA)\nguidelines. Payment Policy Management offers claims editing solutions that validate,\nidentify and review claims to comprehensively address Fraud Waste and Abuse.\n• Coding Validation\nCoding validation allows for consideration of exceptions to correct coding principles and\nmay identify where additional reimbursement is warranted. Evaluates the correct use of\ncoding modifiers with certain types of edits\no For example, clinicians review claims billed with modifiers -25 and -59 for clinical\ncircumstances which justify separate reimbursement for the service performed.\nCode editing software is updated as needed to account for coding changes such as\nincorporating new codes, changes to code definitions and changes to rules used to support edit\nlogic. Edit logic can be based on the several of the following sources (listed in no particular\norder):\n• Illinois Health & Family Services State Guidelines- Takes precedence over all other editing\nsources\n• Aetna Clinical Policy Bulletins (CPBs)\n• American Medical Association (AMA) standards and published resources",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "F. Frequently Asked Questions",
+            "value": ""
+          },
+          {
+            "key": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "G. Review/Revision Date",
+            "value": ""
+          },
+          {
+            "key": "Action",
+            "value": "Date | Comments"
+          },
+          {
+            "key": "Review",
+            "value": "01/08/2026 | Policy template updated- Addition of PTP edit & Modifier\ndefinition; update to edit logic sources; re-wording for\nclarity- no other content changes"
+          },
+          {
+            "key": "Effective Date",
+            "value": "12/01/2020"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "H. Resources",
+            "value": ""
+          },
+          {
+            "key": "N/A",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "5"
+}

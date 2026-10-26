@@ -1,0 +1,154 @@
+{
+  "policy_title": "Medicare Physician Fee Schedule Status Indicator, Professional - Reimbursement Policy",
+  "policy_number": "2026R9003A",
+  "policy_dates": {
+    "effective_date": "1/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS-1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals.,"
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "A fee schedule is a complete listing of fees used by Medicare to pay doctors or other providers/suppliers. This comprehensive listing of fee maximums is used to reimburse a physician and/or other providers on a fee-for-service basis. CMS develops fee schedules for physicians, ambulance services, clinical laboratory services, and durable medical equipment, prosthetics, orthotics, and supplies. The National Physician Fee Schedule (NPFS) Relative Value File contains information on services covered under the Medicare Physician Fee Schedule (MPFS). For more than 10,000 physician services, the file contains the associated relative value units (RVUs), a fee schedule status indicator, and various payment policy indicators needed for payment adjustment (i.e., payment of assistant at surgery, team surgery, bilateral surgery, etc.). This policy addresses Medicare Physician Fee Schedule status codes B, I, M, N, P & T. Status indicator B represents \"Bundled\" codes, status code I represents \"Invalid\" codes, status code M represents \"Measurement\" codes, status code N represents \"Noncovered\" codes, P represents \"Bundled/Excluded\" codes, and T represents \"Injection\" codes."
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "All codes published on the NPFS Relative Value File are assigned a status code. Per the public use file that accompanies the NPFS Relative Value File, the status code indicates whether the code is separately payable if the service is covered. Only Relative Value Unites (RVUs) associated with status codes of \"A\", \"R\", or \"T\", are used for Medicare payment. Attachment A of the NPFS Relative Value File provides a description of status code values and states the following for B, I, M, N, P, & T, B - \"Bundled\" Codes - Payment for covered services are always bundled into payment for other services not specified. If Relative Value Units (RVUs) are shown on the fee schedule, they are not used for Medicare payment. If these services are covered, payment for them is subsumed by the payment for the services to which they are incident. (An example is a telephone call from a hospital nurse regarding care of a patient). I - \"Not valid for Medicare purposes\" - Medicare uses another code for reporting of, and payment for, these services. (Code NOT subject to a 90-day grace period.)",
+      "children": [
+        {
+          "title": "M - \"Measurement\" codes.   Used for reporting purposes only.",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "N - \"Non-covered\" Services. These services are not covered by Medicare. P - \"Bundled/Excluded\" Codes. There are no RVUs, and no payment amounts for these services. No separate payment should be made for them under the fee schedule. - If the item or service is covered as incident to a physician service and is provided on the same day as a physician service, payment for it is bundled into the payment for the physician service to which it is incident. (An example is an elastic bandage furnished by a physician incident to physician service.) - If the item or service is covered as other than incident to a physician service, it is excluded from the fee schedule (i.e., colostomy supplies) and should be paid under the other payment provision of the Act. T - \"Injections\". There are RVUs, and payment amounts for these services, but they are only paid if there are no other services payable under the physician fee schedule billed on the same date by the same provider. If any other services payable under the physician fee schedule are billed on the same date by the same provider, these services are bundled into the physician services for which payment is made. Consistent with CMS, UnitedHealthcare Medicare Advantage will not separately reimburse for specific Current Procedural Terminology (CPT) and Healthcare Common Procedure Coding System (HCPCS) codes assigned a status code of B, I, M, N, or P on the NPFS Relative Value File."
+        },
+        {
+          "title": "CPT Category II Codes",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "According to the American Medical Association (AMA) Current Procedural Terminology (CPT) guidelines, Category II codes are supplemental tracking codes that can be used for performance measurement. The use of the tracking codes for performance measurement will decrease the need for record abstraction and chart review, and thereby minimize administrative burdens on physicians and other health care professionals. These codes are intended to facilitate data collection about quality of care by coding certain services and/or test results that support performance measures and that have been agreed upon as contributing to good patient care. Some codes in this category may relate to compliance by the health care professional with state or federal law. As such, UnitedHealthcare Medicare Advantage recognizes all CPT Category II codes as measurement codes used for reporting purposes only, regardless of status indicator M or I designation."
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Relative Value Unit (RVU)",
+          "value": "The assigned unit value of a particular CPT or HCPCS code. The associated RVU is either from the CMS NPFS Non-Facility Total value or Facility Total value."
+        },
+        {
+          "key": "Medicare Physician Fee Schedule (MPFS)",
+          "value": "A fee schedule is a complete listing of fee maximums used by Medicare to pay physicians, other enrolled health care professionals, or providers/suppliers on a Fee-For-Service (FFS) basis. Medicare bases payment on whichever is less, the charge or MPFS amount."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "What if CMS has labeled some codes with a non-covered status but the member has extended benefits for them?",
+            "A": "Codes identified as supplemental benefits for our members will be carved out of the non-covered status and bypassed from the global denial."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "If a code with status indicator of B, I, M, or P is billed for a member, whose liability is the denied service?",
+            "A": "If one of the codes with these status indicators is billed, the Provider will be held liable for the denied service. The member will be held harmless."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Codes",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "The CMS MPFS National Physician Fee Schedule Relative Value files are found at: PFS Relative Value Files. The files are grouped by calendar year and are updated quarterly. The file name begins with \"RVU\", two digits year, and alpha quarter designator. \"A\" = January, \"B\" = April, \"C\" = July, \"D\" = October. If there is an \"R\" after the quarter code, this will indicate a revision was made."
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov Centers for Medicare and Medicaid Services: PFS Relative Value Files, HCPCS Release & Code Sets Medicare Claims Processing Manual - Chapter 05 - Part B Outpatient Rehabilitation and CORF/OPT Services: Section: 10 Medicare Claims Processing Manual - Chapter 12 - Bundled Services/Supplies Section: 20.3 Medicare Benefit Policy Manual - Chapter 15 - Covered Medical and Other Health Services Section: 220.4 Medicare Claims Processing Manual - Chapter 23 - Fee Schedule Administration and Coding Requirements Section: 30.2.2 The Medicare Learning Network (MLN) MLN Matters: MM9476; MM8166; MM8005; SE1307; MM11453,"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1/1/2026",
+          "value": "Policy Version Change History Section: Entries prior to 1/1/2024 archived"
+        },
+        {
+          "key": "1/1/2025",
+          "value": "Policy Version Change Resource Section: Updated History Section: Entries prior to 1/1/2023 archived"
+        },
+        {
+          "key": "2/8/2012",
+          "value": "Policy developed and approved by committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

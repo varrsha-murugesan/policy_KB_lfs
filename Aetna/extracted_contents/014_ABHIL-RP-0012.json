@@ -1,0 +1,105 @@
+{
+  "policy_title": "Durable Medical Equipment & Supplies",
+  "policy_number": "ABHIL-RP-0012",
+  "effective_date": "11/01/2023",
+  "expiry_date": "03/01/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "A5500",
+    "A5514",
+    "T4543"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for durable medical equipment & supplies when appropriately \nreported. Appropriate reporting includes \n• \nTherapeutic Shoes, inserts, fittings and modifications are submitted with a diagnosis of \nfoot ulcers, demonstrated impaired healing of the foot or toes, a history of amputation, or \nother serious medical foot problems due to diabetes or venous insufficiency \n• \nDisposable incontinence product, brief/diaper, bariatric, each is reported for patients 12 \nyears of age or older Effective 06/01/2026 \n \nClaims that are submitted will be denied when \n• \nTherapeutic Shoes, inserts, fittings and modifications are submitted with a diagnosis not \nindicated as appropriate in this policy \n• \nDisposable incontinence product, brief/diaper, bariatric, each is reported for patients 11 \nyears of age or younger Effective 06/01/2026 \n \nThe medical record documentation is expected to support the specific HCPCS code(s) and ICD-\n10-CM codes reported.",
+    "subsections": [
+      {
+        "title": "Therapeutic Shoes, inserts, fittings and modifications are submitted with a diagnosis of",
+        "content": "foot ulcers, demonstrated impaired healing of the foot or toes, a history of amputation, or other serious medical foot problems due to diabetes or venous insufficiency"
+      },
+      {
+        "title": "Disposable incontinence product, brief/diaper, bariatric, each is reported for patients 12",
+        "content": "years of age or older Effective 06/01/2026 Claims that are submitted will be denied when"
+      },
+      {
+        "title": "Therapeutic Shoes, inserts, fittings and modifications are submitted with a diagnosis not",
+        "content": "indicated as appropriate in this policy"
+      },
+      {
+        "title": "Disposable incontinence product, brief/diaper, bariatric, each is reported for patients 11",
+        "content": "years of age or younger Effective 06/01/2026 The medical record documentation is expected to support the specific HCPCS code(s) and ICD- 10-CM codes reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for durable medical equipment & supplies when appropriately\nreported. Appropriate reporting includes\n• Therapeutic Shoes, inserts, fittings and modifications are submitted with a diagnosis of\nfoot ulcers, demonstrated impaired healing of the foot or toes, a history of amputation, or\nother serious medical foot problems due to diabetes or venous insufficiency\n• Disposable incontinence product, brief/diaper, bariatric, each is reported for patients 12\nyears of age or older Effective 06/01/2026\nClaims that are submitted will be denied when\n• Therapeutic Shoes, inserts, fittings and modifications are submitted with a diagnosis not\nindicated as appropriate in this policy\n• Disposable incontinence product, brief/diaper, bariatric, each is reported for patients 11\nyears of age or younger Effective 06/01/2026\nThe medical record documentation is expected to support the specific HCPCS code(s) and ICD-\n10-CM codes reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "Diabetic Shoe HCPCS Codes\nA5500- A5514 Therapeutic Shoes, inserts, fittings and modifications\nAppropriate Therapeutic Shoe ICD-10-CM Codes\nE08.00- E08.39; Diabetes mellitus due to underlying condition\nE08.63- E08.9\nE09.00- E09.39; Drug or chemical induced diabetes mellitus\nE09.63- E09.9\nE10.10- E10.39; Type 1 diabetes mellitus\nE10.63- E10.A2",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "A5500- A5514",
+            "value": "Therapeutic Shoes, inserts, fittings and modifications"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E08.00- E08.39;\nE08.63- E08.9",
+            "value": "Diabetes mellitus due to underlying condition"
+          },
+          {
+            "key": "E09.00- E09.39;\nE09.63- E09.9",
+            "value": "Drug or chemical induced diabetes mellitus"
+          },
+          {
+            "key": "E10.10- E10.39;\nE10.63- E10.A2",
+            "value": "Type 1 diabetes mellitus"
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. HCPCS Level II Professional 2025, AMA; 2025. \n2. American Medical Association. ICD-10-CM 2025 the Complete Official Codebook, AMA; 2024. \n3. Illinois Department of Healthcare and Family Services. Handbook for Providers of Medical \nEquipment and Supplies: Chapter M-200—Policy and Procedures for Medical Equipment and \nSupplies. Illinois Department of Healthcare and Family Services; 2015. \nhttps://hfs.illinois.gov/content/dam/soi/en/web/hfs/medicalproviders/handbooks/m200.p\ndf \n4. Illinois Department of Healthcare and Family Services. Provider Notice- Incontinence Supplies \nMonthly Limitations (PRN140514A). Illinois Department of Healthcare and Family Services. \nhttps://hfs.illinois.gov/medicalproviders/notices/notice.prn140514a.html"
+}

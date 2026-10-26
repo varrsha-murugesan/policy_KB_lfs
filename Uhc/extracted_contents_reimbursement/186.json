@@ -1,0 +1,290 @@
+{
+  "policy_title": "Age-Based Codes Policy",
+  "policy_number": "2026R5032A",
+  "policy_dates": {
+    "effective_date": "8/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to services reported using the 1500 Health Insurance Claim Form (a/k/a CMS-1500) or its electronic equivalent or its successor form. This policy applies to all products, all network and non-network physicians and other qualified health care professionals, including, but not limited to, non-network authorized and percent of charge contract physicians and other qualified health care professionals.",
+      "children": [
+        {
+          "title": "United Healthcare Commercial",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all UnitedHealthcare Commercial benefit plans."
+        },
+        {
+          "title": "UnitedHealthcare Individual Exchange",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all Individual Exchange benefit plans."
+        }
+      ]
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "This policy addresses certain Current Procedural Terminology (CPT) and Healthcare Common Procedure Coding System (HCPCS) codes with age limitations. Age designations are assigned based on code descriptions or on publications and guidelines from sources such the American Medical Association (AMA), American Academy of Pediatrics (AAP), the Centers for Disease Control and Prevention (CDC) or the U.S. Food and Drug Administration (FDA)."
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "UnitedHealthcare will consider reimbursement for an age-based CPT or HCPCS code when the patient's age is within the age designation assigned to the code. Procedure codes reported inappropriately will be considered billing errors and will not be considered for reimbursement. Providers may resubmit using the appropriate age-based code. UnitedHealthcare develops age edits for certain codes based on age designation to align with code descriptions, publications and guidelines from sources, such as those listed above, and from the entities that create the codes (CMS, AMA). These guidelines can be either definitive or interpretive."
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Definitive Source",
+          "value": "Definitive Sources contain the exact codes, modifiers or very specific instructions from the given source."
+        },
+        {
+          "key": "Interpretive Source",
+          "value": "An edit source that includes guidelines; however, no exact or specific code or modifier information is listed. Therefore, an interpretation must be made as to what codes correlate to the guidelines. Additionally, an interpretation may be applied to surrounding or similar codes based on related definitively sourced edits."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "CPT code 99385 is for a designated age range from 18 through 39 years of age. How does UnitedHealth Care handle a claim that submitted that code for a patient 17 years and 11 months of age on the date of service?",
+            "A": "The procedure code will be denied as the patient's age on the date the service was rendered was outside of the age range for the code submitted. The provider may submit a corrected claim with the appropriate code."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Can a provider submit a claim with the HCPCS code Q4039 for a 23-year-old patient?",
+            "A": "No. Code Q4039 is designated for a patient 10 years of age and younger. The provider may submit a corrected claim with the appropriate code."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Attachments",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Age-Based-Proc-Codes-Policy-List.pdf",
+          "value": "CPT and HCPCS code list (is not all-inclusive and is subject to change)"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association, Current Procedural Terminology (CPT) Professional Edition and associated publications and services Centers for Medicare and Medicaid Services, CMS Manual System and other CMS publications and services Healthcare Common Procedure Coding System, HCPCS Release and Code Sets Centers for Disease Control and Prevention (CDC) American Academy of Pediatrics (AAP) U.S. Food and Drug Administration (FDA)"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "8/1/2026",
+          "value": "Anniversary review and version change History Section: Entries prior to 8/1/2024 archived"
+        },
+        {
+          "key": "8/1/2025",
+          "value": "Anniversary review and version change"
+        },
+        {
+          "key": "8/1/2023",
+          "value": "Policy implemented by UnitedHealthcare Employer & Individual"
+        },
+        {
+          "key": "4/25/2023",
+          "value": "Policy approved by the Payment Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [
+    {
+      "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/attachments/reimbursement/Age-Based-Proc-Codes-Policy-List.pdf",
+      "content": [
+        {
+          "page": 1,
+          "content": "Age-Based-Proc-Codes-Policy-List\nCode\nBeginning Age\nBeginning Age Type\nEnding Age\nEnding Age Type\n00320\n1\nY\n999\nY\n00326\n0\nY\n1\nY\n00561\n0\nY\n1\nY\n00562\n1\nY\n999\nY\n00834\n0\nY\n1\nY\n24640\n0\nY\n21\nY\n31525\n29\nD\n999\nY\n31601\n0\nY\n2\nY\n36406\n0\nY\n3\nY\n36410\n3\nY\n999\nY\n36555\n0\nY\n5\nY\n36569\n5\nY\n999\nY\n36572\n0\nY\n5\nY\n36573\n5\nY\n999\nY\n42820\n0\nY\n12\nY\n42821\n12\nY\n999\nY\n49495\n0\nM\n6\nM\n49500\n6\nM\n5\nY\n49501\n6\nM\n5\nY\n53020\n1\nY\n999\nY\n53025\n0\nY\n1\nY\n67229\n0\nY\n1\nY\n76886\n0\nM\n1\nY\n90683\n60\nY\n999\nY\n94780\n0\nM\n13\nM\n94781\n0\nM\n13\nM\n95782\n0\nY\n6\nY\n95783\n0\nY\n6\nY\n95810\n6\nY\n999\nY\n95811\n6\nY\n999\nY\n99151\n0\nY\n5\nY\n99152\n5\nY\n999\nY\n99155\n0\nY\n5\nY\n99156\n5\nY\n999\nY\n99381\n0\nY\n1\nY\n99382\n1\nY\n5\nY\n99383\n5\nY\n12\nY\n99384\n12\nY\n18\nY\n99385\n18\nY\n40\nY\n99386\n40\nY\n65\nY\n99387\n65\nY\n999\nY\n99391\n0\nY\n1\nY\n99392\n1\nY\n5\nY\n99393\n5\nY\n12\nY"
+        },
+        {
+          "page": 2,
+          "content": "99394\n12\nY\n18\nY\n99395\n18\nY\n40\nY\n99396\n40\nY\n65\nY\n99397\n65\nY\n999\nY\n99466\n0\nM\n25\nM\n99467\n0\nM\n25\nM\nB4102\n18\nY\n999\nY\nB4103\n0\nY\n21\nY\nB4160\n0\nY\n21\nY\nB4161\n0\nY\n21\nY\nB4162\n0\nY\n21\nY\nG8510\n12\nY\n999\nY\nQ4003\n11\nY\n999\nY\nQ4004\n11\nY\n999\nY\nQ4005\n11\nY\n999\nY\nQ4006\n11\nY\n999\nY\nQ4007\n0\nY\n11\nY\nQ4008\n0\nY\n11\nY\nQ4009\n11\nY\n999\nY\nQ4010\n11\nY\n999\nY\nQ4011\n0\nY\n11\nY\nQ4012\n0\nY\n11\nY\nQ4013\n11\nY\n999\nY\nQ4014\n11\nY\n999\nY\nQ4015\n0\nY\n11\nY\nQ4016\n0\nY\n11\nY\nQ4017\n11\nY\n999\nY\nQ4018\n11\nY\n999\nY\nQ4019\n0\nY\n11\nY\nQ4020\n0\nY\n11\nY\nQ4021\n11\nY\n999\nY\nQ4022\n11\nY\n999\nY\nQ4023\n0\nY\n11\nY\nQ4024\n0\nY\n11\nY\nQ4025\n11\nY\n999\nY\nQ4026\n11\nY\n999\nY\nQ4027\n0\nY\n11\nY\nQ4028\n0\nY\n11\nY\nQ4029\n11\nY\n999\nY\nQ4030\n11\nY\n999\nY\nQ4031\n0\nY\n11\nY\nQ4032\n0\nY\n11\nY\nQ4033\n11\nY\n999\nY\nQ4034\n11\nY\n999\nY\nQ4035\n0\nY\n11\nY\nQ4036\n0\nY\n11\nY\nQ4037\n11\nY\n999\nY"
+        },
+        {
+          "page": 3,
+          "content": "Q4038\n11\nY\n999\nY\nQ4039\n0\nY\n11\nY\nQ4040\n0\nY\n11\nY\nQ4041\n11\nY\n999\nY\nQ4042\n11\nY\n999\nY\nQ4043\n0\nY\n11\nY\nQ4044\n0\nY\n11\nY\nQ4045\n11\nY\n999\nY\nQ4046\n11\nY\n999\nY\nQ4047\n0\nY\n11\nY\nQ4048\n0\nY\n11\nY"
+        }
+      ],
+      "tables": [],
+      "CPT_CODES_USED": [
+        "00320",
+        "00326",
+        "00561",
+        "00562",
+        "00834",
+        "24640",
+        "31525",
+        "31601",
+        "36406",
+        "36410",
+        "36555",
+        "36569",
+        "36572",
+        "36573",
+        "42820",
+        "42821",
+        "49495",
+        "49500",
+        "49501",
+        "53020",
+        "53025",
+        "67229",
+        "76886",
+        "90683",
+        "94780",
+        "94781",
+        "95782",
+        "95783",
+        "95810",
+        "95811",
+        "99151",
+        "99152",
+        "99155",
+        "99156",
+        "99381",
+        "99382",
+        "99383",
+        "99384",
+        "99385",
+        "99386",
+        "99387",
+        "99391",
+        "99392",
+        "99393",
+        "99394",
+        "99395",
+        "99396",
+        "99397",
+        "99466",
+        "99467",
+        "B4102",
+        "B4103",
+        "B4160",
+        "B4161",
+        "B4162",
+        "G8510",
+        "Q4003",
+        "Q4004",
+        "Q4005",
+        "Q4006",
+        "Q4007",
+        "Q4008",
+        "Q4009",
+        "Q4010",
+        "Q4011",
+        "Q4012",
+        "Q4013",
+        "Q4014",
+        "Q4015",
+        "Q4016",
+        "Q4017",
+        "Q4018",
+        "Q4019",
+        "Q4020",
+        "Q4021",
+        "Q4022",
+        "Q4023",
+        "Q4024",
+        "Q4025",
+        "Q4026",
+        "Q4027",
+        "Q4028",
+        "Q4029",
+        "Q4030",
+        "Q4031",
+        "Q4032",
+        "Q4033",
+        "Q4034",
+        "Q4035",
+        "Q4036",
+        "Q4037",
+        "Q4038",
+        "Q4039",
+        "Q4040",
+        "Q4041",
+        "Q4042",
+        "Q4043",
+        "Q4044",
+        "Q4045",
+        "Q4046",
+        "Q4047",
+        "Q4048"
+      ],
+      "ICD_CODES_USED": []
+    }
+  ],
+  "Line_of_Business": "Commercial",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "99385",
+    "Q4039"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

@@ -1,0 +1,171 @@
+{
+  "policy_title": "Multiple Procedure Payment Reduction (MPPR) for Therapy Services, Professional - Reimbursement Policy",
+  "policy_number": "2026R9022A",
+  "policy_dates": {
+    "effective_date": "3/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "Section 3134 of The Affordable Care Act added section 1848(c)(2)(K) of The Social Security Act, which specifies that the Secretary of Health and Human Services shall identify potentially misvalued codes by examining multiple codes that are frequently billed in conjunction with furnishing a single service. The Act states that the MPPR applies to services identified as \"always\" therapy and applies to the second and subsequent therapy services furnished by a single provider to a beneficiary on a single date of service. This policy will apply to all outpatient therapy services paid under Part B, including those furnished in office and facility settings."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "As a step in implementing this provision, Medicare is applying a new MPPR to the Practice Expense (PE) component of payment of select therapy services paid under the MPFS. The reduction will be similar to that currently applied to multiple surgical procedures and to diagnostic imaging procedures. This policy is discussed in the CY 2011 MPFS final rule. Many therapy services are time-based codes, i.e., multiple units may be billed for a single procedure. In compliance with CMS, UnitedHealthcare Medicare Advantage is applying a MPPR to the PE payment when more than one unit or procedure is provided to the same patient on the same day, i.e., the MPPR applies to multiple units as well as multiple procedures. Full payment is made for the unit or procedure with the highest PE payment. For subsequent units and procedures, furnished to the same patient on the same day, full payment is made at 50 percent payment for the PE for services furnished in both office settings and institutional settings. For therapy services furnished by a group practice or \"incident to\" a physician's service, the MPPR applies to all services furnished to a patient on the same day, regardless of whether the services are provided in one therapy discipline or multiple disciplines; for example, physical therapy, occupational therapy, or speech-language pathology. The reduction applies to the Healthcare Common Procedure Coding System (HCPCS) codes contained on the list of \"always therapy\" services that are paid under the physician fee schedule, regardless of the type of provider or supplier that furnishes the services (e.g., hospitals, Home Health Agencies (HHAs), and Comprehensive Outpatient Rehabilitation Facilities (CORFs), etc.) - For professional claims, the MPPR applies to the procedures with a Multiple Procedure value of \"5\" on the Medicare Fee Schedule Database (MFSDB). When applying the 50 percent reduction in non-facility PE Relative Value Units (RVUs), UnitedHealthcare Medicare Advantage will use the fee schedule amounts. In addition, UnitedHealthcare Medicare Advantage will retrieve the non-facility PE RVUs from the physician fee schedule database in order to rank services according to non-facility PE RVU and appropriately apply the MPPR methodology. When the highest non-facility PE RVU applies to more than one of the identified services, UnitedHealthcare Medicare Advantage will additionally sort and rank these services according to highest fee schedule amount, with the highest of these being priced at 100 percent of the non-facility PE RVU, and the others priced at 50 percent of the non-facility PE RVU for professional claims. The following UnitedHealthcare Medicare Advantage reimbursement guidelines will apply to the MPPR for Therapy Services Policy: - The multiple procedure value of \"5,\" the beneficiary's health insurance claim number (HIC), the billing provider National Provider Identifier (NPI) tax identification number (TIN) and date of service to identify therapy services subject to the MPPR. - The MPPR will apply to claims for two or more services identified by the multiple procedure value of 5, for the same beneficiary HIC, same billing provider NPI (TIN) and same date of service - The services will be sorted according to the highest non-facility PE RVU amount such that the service with the highest non-facility PE RVU is ranked first. - In performing the sort, consideration for both non-facility PE RVUs for units for procedures billed in multiple time units, and non-facility PE RVUs for procedures not billed based on time, including both in the ranking such that the highest ranked non-facility PE RVU could be either that for a single time unit of a service or a non-time based service for a beneficiary receiving both types of services on a given date of service through the same billing provider. - If the sort results in the highest ranked non-facility PE RVU applying to two or more services, then these highest non-facility PE RVU services will additionally be sorted according to highest total fee schedule non facility amount, with the service with the highest fee schedule amount ranked first. - In performing the additional sort according to the full fee schedule amount, the full fee schedule amount applicable to 1 unit for those services billed in units will be utilized. - When the service ranked highest according to the sorts is billed in units, and multiple units were reported, the first unit will be ranked as that having the highest non-facility PE RVU. - Reimbursement for the lower of the billed or total fee schedule amount for the service ranked highest according to the sorts described above. - Reimbursement for the lower of the billed or the amount in field 31EE (Reduced Therapy Fee Schedule Amount) for those services ranked below the first ranked service identified through the sorts described above. - The current CMS RVU values will be utilized to administer this policy for claims submitted with a date of service on or after March 1, 2012. These values will be reviewed and updated quarterly to align with CMS when changes are needed. - The MPPR methodology will be applied as described above to therapy services meeting all of the criteria described in this policy, but billed on different days (i.e., coming in on separate claims for the same beneficiary HIC, billing provider NPI (TIN) and date of service)."
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Allowable Amount",
+          "value": "Defined as the dollar amount eligible for reimbursement to the physician or other qualified health care professional on the claim. Contracted rate, reasonable charge, or billed charges are examples of an Allowable Amount, whichever is applicable. For percent of charge or discount contracts, the Allowable Amount is determined as the billed amount, less the discount."
+        },
+        {
+          "key": "Practice Expense Relative Value Units (PE RVU)",
+          "value": "The portion of the Total Relative Value Units assigned to a particular CPT or HCPCS code for maintaining a practice, including rent, equipment, supplies and nonphysician staff costs."
+        },
+        {
+          "key": "Same Individual Physician or Other Qualified Health Care Professional",
+          "value": "The same individual rendering health care services reporting the same Federal Tax Identification number"
+        },
+        {
+          "key": "Total Relative Value Units, Total RVU",
+          "value": "The assigned unit value of a particular CPT or HCPCS code that consists of the sum of the Work Relative Value Units, the Practice Expense Relative Value Units and the Malpractice Relative Value Units"
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "How is the PE portion of a service determined?",
+            "A": "The PE portion of a service is determined by calculating the ratio of PE RVU to Total RVU. This ratio is applied to the Allowable Amount of each charge to determine the PE portion in dollars."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "If the Same Individual Physician or Other Qualified Health Care Professional includes several specialties (physical, occupational, speech-language), how will their services provided to a single patient on a single date of service be reduced?",
+            "A": "All Multiple Therapy Reducible Codes reported for a single patient on a single date of service by the Same Individual Physician or Other Qualified Health Care Professional will be viewed together for ranking and reduction purposes. The single code with the highest PE RVU will be ranked primary and will not be reduced. All remaining codes subject to this policy from the same individual physician, regardless of specialty, will be ranked as secondary, tertiary and so on and the PE portion of those services will be reduced by the appropriate percentage, depending on the date the service was performed. See the Reimbursement section for information about reduction percentages."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "Other Physical Medicine & Rehabilitation policies allow the reporting of timed codes with modifiers GO, GN or GP to distinguish the type of specialty provider who is performing services. Should these modifiers still be reported when they apply?",
+            "A": "Yes. Continue to report modifiers that are appropriate and that communicate information that may be used in policies other than this one. The use of these distinguishing modifiers will not exempt reducible codes from multiple therapy reduction when reported by the Same Individual Physician or Other Qualified Health Care Professional for the same member on the same day. However, claims are edited against all applicable policies, so the modifiers should be reported when appropriate to ensure accurate reimbursement under policies other than Multiple Therapy Reduction."
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "Q": "If the same individual physician with the same TIN reports several Multiple Therapy Reducible Codes on a single date of service on separate claims at different times, how will these codes be reimbursed?",
+            "A": "The claims editing system reviews all codes for a single date of service as if they were reported on a single claim, regardless of when they are reported. When codes for services provided to a single patient on a single date of service that are subject to multiple therapy reduction are submitted on different claims at different times, adjustments will be made to ensure that the code with the highest PE RVU is considered primary (that is, not subject to reduction) and that the remaining codes are correctly ranked and reduced."
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "Q": "If several Multiple Therapy Reducible Codes that share the same PE RVU are reported on the same date of service, how are they ranked?",
+            "A": "If the sort results in the highest ranked non-facility PE RVU applying to two or more services, then these highest non-facility PE RVU services will additionally be sorted according to highest total fee schedule non facility amount, with the service with the highest fee schedule amount ranked first."
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "Q": "Will all services provided on the same date as Multiple Therapy Reducible Codes be reduced?",
+            "A": "No. The only services that are subject to this policy are those on the Multiple Therapy Reducible Codes list. However, all codes reported on the same date of service, both reducible and non-reducible, will be subject to all other reimbursement policies that apply."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 5,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov Centers for Medicare and Medicaid Services, National Physician Fee Schedule (NPFS) Relative Value Files Medicare Claims Processing Manual - Chapter 23 - Fee Schedule Administration and Coding Requirements: Sections: 30, 30.1 CMS Therapy Services"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 5,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "3/1/2026",
+          "value": "Policy Version Change Resource Section: Updated History Section: Entries prior to 3/1/2024 archived"
+        },
+        {
+          "key": "3/1/2025",
+          "value": "Policy Version Change Resource Section: Updated History Section: Entries prior to 3/1/2023 archived"
+        },
+        {
+          "key": "3/1/2024",
+          "value": "Policy Version Change History Section: Entries prior to 3/1/2022 archived"
+        },
+        {
+          "key": "7/23/2011",
+          "value": "Policy Approved"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "GO",
+    "GN",
+    "GP"
+  ]
+}

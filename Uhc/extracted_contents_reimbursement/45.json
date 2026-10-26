@@ -1,0 +1,719 @@
+{
+  "policy_title": "Emergency Department (ED) Facility Evaluation and Management (E&M) Coding Policy",
+  "policy_number": "2026R6007A",
+  "policy_dates": {
+    "effective_date": "9/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy describes how UnitedHealthcare Medicare Advantage Plan reimburses UB claims billed with Evaluation and Management (E/M) codes Level 4 (99284/G0383) and Level 5 (99285/G0384) for services rendered in an emergency department. This policy is based on coding principles established by the Centers for Medicare and Medicaid Services (CMS)1, and the CPT and HCPCS code descriptions. CMS Coding Principles CMS indicates facilities should bill appropriately and differentially for outpatient visits, including emergency department visits. To that end, CMS coding principles applicable to emergency department services provide that facility coding guidelines should: follow the intent of the CPT code descriptor in that the guidelines should be designed to reasonably relate the intensity of hospital resources to the different levels of effort represented by the code; be based on hospital facility resources and not based on physician resources; and not facilitate upcoding or gaming.1"
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "UB-04 Claims for services rendered in an emergency department should be complete and include all diagnostic services and diagnosis codes relevant to the emergency department visit and be billed at the appropriate E/M level. UnitedHealthcare Medicare Advantage Plan will utilize the Optum Emergency Department Claim (EDC) Analyzer to determine the emergency department E/M level to be reimbursed for certain facility claims. The EDC Analyzer applies an algorithm that takes three factors into account in order to determine a Calculated Visit Level for the emergency department E/M services rendered. The three factors used in the calculation are as follows: - Presenting problems - as defined by the ICD-10 reason for visit (RFV) diagnosis; - Diagnostic services performed - based on intensity of the diagnostic workup as measured by the diagnostic CPT codes submitted on the claim (i.e. Lab, X-ray, EKG/RT/Other Diagnostic, CT/MRI/Ultrasound); and - Patient complexity and co-morbidity - based on complicating conditions as defined by the ICD-10 principal and secondary diagnosis codes. Facilities may experience adjustments to the level 4 or 5 E/M codes submitted to reflect the EDC Analyzer calculated E/M code or may receive a denial for the code level submitted. Criteria that may exclude Facility claims from being subject to an adjustment or denial include: - The patient is admitted to inpatient, observation, or has an outpatient surgery during the course of the same ED visit; - Critical care patients (99291, 99292); - The patient is less than 2 years old; - Claims with certain diagnosis that when treated in the ED most often necessitate greater than average resource usage, such as significant nursing time; - Patients who have expired in the emergency department; or - Claims from facilities who's billing of level 4 and 5 E/M codes that do not deviate from the EDC Analyzer. UnitedHealthcare Medicare Advantage Plan and Optum are related companies through common ownership by UnitedHealth Group. For additional information on the EDC Analyzer, visit EDCAnalyzer.com."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "What steps can a facility take if they disagree with reimbursement at a lower E/M code level instead of the submitted E/M code level 4 or 5?",
+            "A": "The facility may follow the UnitedHealthcare Medicare Advantage Plan standard reconsideration and appeals processes for administrative claims determinations as outlined in the administrative guide. For example, if the facility did not include all of the relevant and applicable diagnosis codes on its claim, then it could use such processes to resubmit the claim with an appropriate diagnosis code which may support the level of E/M code originally submitted."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Is the policy applicable to all emergency departments?",
+            "A": "Yes, this policy is applicable to all emergency departments (whether facility-based, free standing or otherwise). However, a facility may not experience claim adjustments or denials if its billing of level 4 and 5 E/M codes does not deviate from the EDC Analyzer or it submits claims that otherwise meet one of the criteria for exclusion listed in the policy."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "Is there additional information available regarding the Emergency Department Claim (EDC) Analyzer?",
+            "A": "Yes, additional information can be found at the following link: EDCAnalyzer.com."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Codes",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "99284",
+          "value": "99285 99291 99292 G0383 G0384"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "1. Medicare and Medicaid Programs; Interim and Final Rule Federal Register / Vol. 72, NO. 227 / Tuesday, November 27, 2007 / Rules and Regulations, page 66580, at 66805. Available online at http://www.gpo.gov/fdsys/pkg/FR-2007-11-27/html/07-5507.htm 2. Centers for Medicare and Medicaid Services, National Correct Coding Initiative (NCCI) Policy Publications 3. Medicare Physician Fee Schedule"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "9/1/2026",
+          "value": "Policy Version Change Resource Section: Updated Policy History Section: Entries prior to 9/1/2024 archived"
+        },
+        {
+          "key": "9/1/2025",
+          "value": "Policy Version Change Table Of Contents Section: Updated Policy History Section: Entries prior to 9/1/2023 archived"
+        },
+        {
+          "key": "1/1/2025",
+          "value": "Policy Version Change Reimbursement Guidelines: EDC Analyzer URL Updated Questions and Answers: EDC Analyzer URL Updated"
+        },
+        {
+          "key": "9/1/2024",
+          "value": "Policy Version Change Policy Application Section: Updated"
+        },
+        {
+          "key": "1/8/2018",
+          "value": "New Policy"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [
+    {
+      "url": "https://www.optum.com/content/dam/o4-dam/resources/pdfs/e-books/emergency-department-claim-analyzer-guide.pdf",
+      "content": [
+        {
+          "page": 1,
+          "content": "Emergency Department  \nClaim Analyzer Guide"
+        },
+        {
+          "page": 2,
+          "content": "2\nEmergency Department Claim Analyzer guide\nOverview\nThe goal of Optum® Emergency Department Claim (EDC) Analyzer is to achieve fair and consistent evaluation and management \ncoding and reimbursement of facility outpatient emergency department (ED) claims. EDC Analyzer™ systematically evaluates each \nED visit level code in the context of other claim data (i.e., diagnosis codes, procedure codes, patient age and patient sex*) to ensure \nthat it reasonably relates to the intensity of hospital resource utilization as required per CMS Guidelines. Optum is committed to \nsimplifying the health care system and promoting transparency in the coding and reimbursement process. \nLearn more about EDC Analyzer. \n*Patient sex assigned at birth\nStep 1: Standard weights\nDetermines the standard weight of the visit based on the patient’s demographic characteristics and presenting \nproblem. Assigns a standard weight to the visit based on this evaluation. Learn more\nStep 2: Extended weights\nEvaluates the intensity of the diagnostic workup performed by the facility based on diagnostic CPT codes. Assigns \nan extended weight to the visit based on this evaluation. Learn more\nStep 3: Patient complexity weights\nDetermines if the patient has any conditions or has experienced any circumstances that may increase the \ncomplexity of the visit. Assigns a patient complexity weight to the visit based on this determination. Learn more\nFinal step: Calculate visit level\nThe weights from steps 1 through 3 are summed and a visit level is assigned based on that summation. Learn more\nTo view how EDC Analyzer processes specific claim scenarios, review the following examples:\n•\t Claim Example 1 \n•\t Claim Example 2\n•\t Claim Example 3\n•\t Claim Example 4 \n•\t Claim Example 5\n+\n=\nThe appropriate visit level of an ED claim is determined by EDC Analyzer using the following 4-step process: \nOverview\nEDC Analyzer \nbackground\nStep 1: Standard  \nweights\nStep 2: Extended \nweights\nStep 3: Patient \ncomplexity weights\nFinal step: Calculate \nvisit level\nClaim example 1\nClaim example 2\nClaim example 3\nClaim example 4\nClaim example 5"
+        },
+        {
+          "page": 3,
+          "content": "3\nEmergency Department Claim Analyzer guide\nEDC Analyzer background \nEmergency Department (ED) visits should be coded based on hospital resource utilization, which is dictated by the patient’s \nclinical condition and the treatment provided. There are 5 visit levels that the ED can choose from when submitting claims. \nVisit level 1 is the least resource-intensive for the facility and visit level 5 is the most resource-intensive. These visit levels are \nrepresented by the following Evaluation and Management (E/M) procedure codes:\nProcedure codes and corresponding levels for ED claims\nVisit level\nProcedure codes*\nExplanation\n1\n99281/G0380\nUsed for very simple and limited services. The presenting problem is usually  \nself-limited or minor.\n2\n99282/G0381\nTypically assigned for an acute episodic illness and/or minor injury evaluation.  \nThe presenting problem is of low to moderate severity.\n3\n99283/G0382\nGenerally requires additional facility resources, including X-ray, laboratory testing \nor additional nursing time. The presenting problem is of moderate severity.\n4\n99284/G0383\nFor encounters associated with acute illness or injury that require prolonged \nevaluation and typically diagnostic studies, repeat nursing evaluations, or other \ntherapeutic interventions. The presenting problem is high severity, requiring \nurgent evaluation.\n5\n99285/G0384\nFor encounters that are associated with serious presenting symptoms, often a \nlife-threatening disease or injury, requiring treatment that is complex and/or \nresource-intensive. The presenting problem is of high severity and/or poses an \nimmediate significant threat to life or physiological function.\n*Procedure codes starting with “9” above are considered Type A codes, and procedure codes starting with a “G” above are considered Type B codes. “[CMS] considers the \nmain distinguishing feature between Type A and Type B emergency departments to be the full-time versus part-time availability of staffed areas for emergency medical \ncare, not the process of care or the site of care (on the hospital’s main campus or offsite),” per the CY 2008 OPPS Final Rule.\nOverview\nEDC Analyzer \nbackground\nStep 1: Standard  \nweights\nStep 2: Extended \nweights\nStep 3: Patient \ncomplexity weights\nFinal step: Calculate \nvisit level\nClaim example 1\nClaim example 2\nClaim example 3\nClaim example 4\nClaim example 5"
+        },
+        {
+          "page": 4,
+          "content": "4\nEmergency Department Claim Analyzer guide\nAt the time of the introduction of the Medicare Outpatient Prospective Payment System (OPPS) and the associated ED Ambulatory \nPayment Classifications (APCs), Medicare did not specify a standard approach for classification of the acuity levels for ED E/M visit \ncodes. Instead, facilities were instructed to use any methodology as long as it met certain Centers for Medicare & Medicaid Services \n(CMS) guidelines. Per the current CMS guidelines, the facility must bill the visit level that most reasonably relates to the intensity of \nhospital resources used in the treatment of the patient.\nThe goal of EDC Analyzer is to achieve fair and consistent E/M coding and reimbursement of facility outpatient ED claims. EDC \nAnalyzer systematically evaluates each ED visit code in the context of other claim data (i.e., diagnosis codes, procedure codes, \npatient age and patient sex*) to determine if it reasonably relates to the intensity of utilized hospital resources. Optum is committed \nto simplifying the health care system and promoting transparency in the coding and reimbursement process.\n*Patient sex assigned at birth\n1.\t Follow the intent of the CPT® code descriptor in that  \nthe guidelines should be designed to reasonably relate \nthe intensity of hospital resources to the different  \nlevels of effort represented by the code\n2.\t Be based on hospital facility resources, not on  \nphysician resources\n3.\t Be clear to facilitate accurate payments and be  \nusable for compliance purposes and audits\n4.\t Meet the HIPPA requirements\n5.\t Only require documentation that is clinically  \nnecessary for patient care\n6.\t Not facilitate upcoding or gaming\n7.\t Be written or recorded, well-documented and provide  \nthe basis of selection of a specific code\n8.\t Be applied consistently across patients in the clinic  \nor emergency department to which they apply\n9.\t Not change with great frequency\n10.\tBe readily available for fiscal intermediary (or if \napplicable, MAC contractor) review\n11.\tResult in coding decisions that could be verified by  \nother hospital staff, as well as outside sources\nCMS guidelines\nOverview\nEDC Analyzer \nbackground\nStep 1: Standard  \nweights\nStep 2: Extended \nweights\nStep 3: Patient \ncomplexity weights\nFinal step: Calculate \nvisit level\nClaim example 1\nClaim example 2\nClaim example 3\nClaim example 4\nClaim example 5"
+        },
+        {
+          "page": 5,
+          "content": "5\nEmergency Department Claim Analyzer guide\nStep 1: Standard weights\nEDC Analyzer reviews all reason-for-visit diagnosis codes and assigns a Proportional Standard Cost Allocation (PSCA) and \nassociated standard weight to each code based on the age and sex* of the patient. If multiple PSCAs are assigned to a \nclaim, EDC Analyzer takes the highest PSCA found. There are 5 possible PSCAs corresponding to the 5 ED visit levels.\nPSCA values\nVisit level\nDescription\n1 (lowest \nweight)\nPresenting problem is self-limited or minor\n2\nPresenting problem is low to moderate severity\n3\nPresenting problem is moderate severity\n4\nPresenting problem is high severity, requiring urgent evaluation\n5 (highest \nweight)\nPresenting problem is high severity, posing an immediate, significant threat to physiological function\n*Patient sex assigned at birth\nOverview\nEDC Analyzer \nbackground\nStep 1: Standard  \nweights\nStep 2: Extended \nweights\nStep 3: Patient \ncomplexity weights\nFinal step: Calculate \nvisit level\nClaim example 1\nClaim example 2\nClaim example 3\nClaim example 4\nClaim example 5"
+        },
+        {
+          "page": 6,
+          "content": "6\nEmergency Department Claim Analyzer guide\nStandard weights were calculated by analyzing the typical amount of facility resources utilized for each presenting problem, \nwhich includes the following:\nPresenting problem\nDiagnosis code\nAge range\nSex*\nStandard weight**\nBlood pressure check\nZ01.30\n> 2\nM & F\n***\nWeakness\nR53.1\n> 2\nM & F\n****\nSeizure: pregnant\nO15.9\n7–54\nF\n****\nFever\nR50.9\n2–74\nM & F\n***\nFever\nR50.9\n75+\nM & F\n***\nWheezing\nR06.2\n2–11\nM & F\n***\nWheezing\nR06.2\n12+\nM & F\n****\n*Patient sex assigned at birth\n**Redacted\nNursing and ancillary staff time  \n(for a routine arrival, triage, registration, basic  \npatient/family communications and a routine discharge)\nThe room\nCreation of a  \nmedical record\nCoding and billing\nStep 1 examples\nOverview\nEDC Analyzer \nbackground\nStep 1: Standard  \nweights\nStep 2: Extended \nweights\nStep 3: Patient \ncomplexity weights\nFinal step: Calculate \nvisit level\nClaim example 1\nClaim example 2\nClaim example 3\nClaim example 4\nClaim example 5"
+        },
+        {
+          "page": 7,
+          "content": "7\nEmergency Department Claim Analyzer guide\nStep 2: Extended weights\nEDC Analyzer reviews all line-level services on the claim to identify diagnostic tests that fall into each of the following categories:\n•\t Laboratory tests\n•\t X-rays (film)\n•\t CT/MRI/ultrasound\n•\t EKG/respiratory therapy/other diagnostic services\nEach category carries an extended weight. EDC Analyzer adds together the weights for each unique category of tests found on \nthe claim to determine the overall extended weight. For example, if 2 laboratory tests and 3 X-rays are billed, EDC Analyzer will \ncount the laboratory tests as one and the X-rays as one.\nExtended weights were calculated for each category based on the level of ED resources expended (including staff time) to note \norders, communicate with the patient and staff and follow up as needed.\nBelow are some examples showing how EDC Analyzer assigns an extended weight based on a diagnostic test:\nDiagnostic category\nCPT code\nCode description\nExtended weight*\nLab\n80048\nBASIC METABOLIC PANEL CALCIUM TOTAL\n***\nLab\n85025\nCOMPL CBC W AUTO DIFFIAL WBC\n***\nCT/MRI/ultrasound\n70450\nCT HEAD/BRN C-MATRL\n***\nEKG/RT/other diagnostic\n93005\nECG ROUTINE ECG W/LEAST 12 LDS TRCG  \nONLY W/O I&R\n***\nEKG/RT/other diagnostic\n94640\nINHALATION TREATMENT\n***\nLab\n80053\nCOMPRE METAB PANEL\n***\nLab\n83605\nLACTATE (Lactic Acid)\n***\nX-ray – plain film\n71020\nCHEST XRAY 2VW FRONTAL LATL\n***\n*Redacted\nOverview\nEDC Analyzer \nbackground\nStep 1: Standard  \nweights\nStep 2: Extended \nweights\nStep 3: Patient \ncomplexity weights\nFinal step: Calculate \nvisit level\nClaim example 1\nClaim example 2\nClaim example 3\nClaim example 4\nClaim example 5"
+        },
+        {
+          "page": 8,
+          "content": "8\nEmergency Department Claim Analyzer guide\nStep 3: Patient complexity weights\nEDC Analyzer reviews all principal, secondary and external cause of injury diagnosis codes on the claim, looking for complicating \nconditions or circumstances that may impact facility resource utilization. EDC Analyzer then assigns a weight to each \ncomplicating diagnosis code that is found. The highest weighted diagnosis code on the claim is used to determine the overall \npatient complexity weight. Reason-for-visit diagnosis codes that are also reported as principal or secondary diagnosis codes are \nexcluded from acting as complicating conditions during this step.\nPatient complexity weights were developed for each complicating condition or circumstance by analyzing the additional \nservices typically provided to patients with that complicating condition or circumstance.\nBelow are some examples showing how EDC Analyzer assigns a patient complexity weight based on a diagnosis code:\nDiagnosis code\nCode description\nPatient complexity weight*\nM05.9\nRHEUMATOID ARTHRITIS WITH RHEUMATOID \nFACTOR, UNSPECIFIED\n***\nJ44.9\nCHRONIC OBSTRUCTIVE PULMONARY DISEASE, \nUNSPECIFIED\n***\nI50.9\nHEART FAILURE, UNSPECIFIED\n***\nF10.920\nALCOHOL USE, UNSPECIFIED WITH INTOXICATION, \nUNCOMPLICATED\n***\nG40.801\nOTHER EPILEPSY, NOT INTRACTABLE, WITH STATUS \nEPILEPTICUS\n***\nE11.8\nTYPE 1 DIABETES MELLITUS WITH UNSPECIFIED \nCOMPLICATIONS\n***\nE11.29\nTYPE 2 DIABETES MELLITUS WITH OTHER DIABETIC \nKIDNEY COMPLICATION\n***\n*Redacted\nOverview\nEDC Analyzer \nbackground\nStep 1: Standard  \nweights\nStep 2: Extended \nweights\nStep 3: Patient \ncomplexity weights\nFinal step: Calculate \nvisit level\nClaim example 1\nClaim example 2\nClaim example 3\nClaim example 4\nClaim example 5"
+        },
+        {
+          "page": 9,
+          "content": "9\nEmergency Department Claim Analyzer guide\nFinal step: Visit level assignment\nAll 3 weights described in steps 1–3 will be used in combination to assign the final visit level (level 1, 2, 3, 4 or 5) to the claim using \nthis formula:\nTotal weight = standard weight + extended weight + patient complexity weight\nEach visit level equates to a range of weights. The total weight is compared to these ranges and the final visit level is assigned to \nthe claim.\nVisit level\nProcedure codes\nExplanation\n1\n99281/G0380\nUsed for very simple and limited services. The presenting problem is usually  \nself-limited or minor.\n2\n99282/G0381\nTypically assigned for an acute episodic illness and/or minor injury evaluation.  \nThe presenting problem is of low to moderate severity.\n3\n99283/G0382\nGenerally requires additional facility resources, including X-ray, laboratory testing  \nor additional nursing time. The presenting problem is of moderate severity.\n4\n99284/G0383\nFor encounters associated with acute illness or injury that requires prolonged \nevaluation and typically diagnostic studies, repeat nursing evaluations, or other \ntherapeutic interventions. The presenting problem is high severity requiring urgent \nevaluation.\n5\n99285/G0384\nFor encounters that are associated with serious presenting symptoms, often a  \nlife-threatening disease or injury, requiring treatment that is complex and/or \nresource intensive. The presenting problem is of high severity and/or poses an \nimmediate significant threat to life or physiological function.\nOverview\nEDC Analyzer \nbackground\nStep 1: Standard  \nweights\nStep 2: Extended \nweights\nStep 3: Patient \ncomplexity weights\nFinal step: Calculate \nvisit level\nClaim example 1\nClaim example 2\nClaim example 3\nClaim example 4\nClaim example 5"
+        },
+        {
+          "page": 10,
+          "content": "10\nEmergency Department Claim Analyzer guide\nClaim example 1\nPatient information\nA 26-year-old male presents to the ED complaining of low back pain. The patient had labs with no other diagnostic testing. The \npatient received treatment and was discharged home. Below is a subset of the claim that was submitted for this visit.\nAge\n26\nSex*\nMale\nReason for visit diagnosis code\nM54.50, Low back pain, unspecified\nExternal cause of injury diagnosis codes\nNone\nPrincipal diagnosis code\nM54.50, Low back pain, unspecified\nSecondary diagnosis codes\nD17.1, Benign lipomatous neoplasm of skin, subcutaneous tissue of trunk R11.0, \nNausea\nDiagnostic procedure codes\n80053, Comprehensive metabolic panel\n85025, Blood count complete auto & auto differential WBC\n*Patient sex assigned at birth\nClaim information\nOverview\nEDC Analyzer \nbackground\nStep 1: Standard  \nweights\nStep 2: Extended \nweights\nStep 3: Patient \ncomplexity weights\nFinal step: Calculate \nvisit level\nClaim example 1\nClaim example 2\nClaim example 3\nClaim example 4\nClaim example 5"
+        },
+        {
+          "page": 11,
+          "content": "11\nEmergency Department Claim Analyzer guide\nAnalyzer processing\nStep 1: This claim contains one reason-for-visit diagnosis code (M54.50). This diagnosis code is assigned to a PSCA of 3 and a \nstandard weight of 400.\nStep 2: This claim contains 2 lab services (80053 and 85025). Since there is one unique diagnostic category on this claim, this \nclaim is assigned an extended weight of 100.\nStep 3: This claim contains a principal (M54.50) and 2 secondary diagnosis codes (D17.1 and R11.0). Since M54.50 is also billed as \nthe reason-for-visit diagnosis code, it will be ignored in this step. Of the remaining diagnosis codes, only one (D17.1) is considered \nto be a diagnosis code that increases the complexity of the ED visit. As such, the patient complexity weight is 100.\nFinal step: All 3 weights are added together to determine the total weight for the claim:\nTotal weight = 400 + 100 + 100 = 600\nThis total weight falls into the weight range used by EDC Analyzer for a visit level 3. As such, EDC Analyzer would recommend that \nthe ED visit code on this claim be 99283 or G0382.\nOverview\nEDC Analyzer \nbackground\nStep 1: Standard  \nweights\nStep 2: Extended \nweights\nStep 3: Patient \ncomplexity weights\nFinal step: Calculate \nvisit level\nClaim example 1\nClaim example 2\nClaim example 3\nClaim example 4\nClaim example 5"
+        },
+        {
+          "page": 12,
+          "content": "12\nEmergency Department Claim Analyzer guide\nClaim example 2\nPatient information\nA 27-year-old female presents to the ED with complaints of chest pain. The patient was ordered applicable diagnostic testing. \nThe patient received treatment and was discharged home. Below is a subset of the claim that was submitted for this visit.\nAge\n27\nSex*\nFemale\nReason for visit diagnosis code\nR07.9, Chest pain unspecified\nExternal cause of injury diagnosis codes\nNone\nPrincipal diagnosis code\nR07.89, Other chest pain\nSecondary diagnosis codes\nR07.9, Chest pain unspecified\nDiagnostic procedure codes\n71046, X-ray exam chest 2 views\n80047, Metabolic panel ionized ca\n84484, Assay of troponin, quant\n84703, Chorionic gonadotropin assay\n85025, Complete CBC w/auto diff WBC\n85379, Fibrin degradation, quant\n93005, Electrocardiogram, tracing\nClaim information\n*Patient sex assigned at birth\nOverview\nEDC Analyzer \nbackground\nStep 1: Standard  \nweights\nStep 2: Extended \nweights\nStep 3: Patient \ncomplexity weights\nFinal step: Calculate \nvisit level\nClaim example 1\nClaim example 2\nClaim example 3\nClaim example 4\nClaim example 5"
+        },
+        {
+          "page": 13,
+          "content": "13\nEmergency Department Claim Analyzer guide\nAnalyzer processing\nStep 1: This claim contains one reason-for-visit diagnosis code (R07.9). This diagnosis code is assigned to a PSCA of 5 and a \nstandard weight of 1,000.\nStep 2: This claim contains several diagnostic services, including X-ray (71046), 5 lab services (80047, 84484, 84703, 85025, \n85379), and EKG (93005). Since there are 3 unique diagnostic categories on this claim, this claim is assigned an extended \nweight of 300.\nStep 3: This claim contains a principal (R07.89) and one secondary diagnosis code (R07.9). Since R07.9 is also billed as the \nreason-for-visit diagnosis code, it will be ignored in this step. The remaining diagnosis code (R07.89) is not considered to be a \ndiagnosis code that increases the complexity of the ED visit. As such, the patient complexity weight is 0.\nFinal step: All 3 weights are added together to determine the total weight for the claim:\nTotal weight = 1,000 + 300 + 0 = 1,300\nThis total weight falls into the weight range used by EDC Analyzer for a visit level 5. As such, EDC Analyzer would recommend \nthat the ED visit code on this claim be 99285 or G0384.\nOverview\nEDC Analyzer \nbackground\nStep 1: Standard  \nweights\nStep 2: Extended \nweights\nStep 3: Patient \ncomplexity weights\nFinal step: Calculate \nvisit level\nClaim example 1\nClaim example 2\nClaim example 3\nClaim example 4\nClaim example 5"
+        },
+        {
+          "page": 14,
+          "content": "14\nEmergency Department Claim Analyzer guide\nClaim example 3\nPatient information\nA 50-year-old female presents to the ED with complaints of a bad cough. Several lab services and a chest X-ray are performed. \nShe is seen by a physician and discharged home. Below is a subset of the claim that was submitted for this visit.\nAge\n50\nSex*\nFemale\nReason for visit diagnosis code\nR05.9, Cough unspecified\nExternal cause of injury diagnosis codes\nNone\nPrincipal diagnosis code\nJ22, Unspecified acute lower respiratory infection\nSecondary diagnosis codes\nR05.9, Cough unspecified\nDiagnostic procedure codes\n71046, X-ray exam chest 2 views\n87400, Influenza A/B AG IA\n87430, Strep A AG IA\nClaim information\n*Patient sex assigned at birth\nOverview\nEDC Analyzer \nbackground\nStep 1: Standard  \nweights\nStep 2: Extended \nweights\nStep 3: Patient \ncomplexity weights\nFinal step: Calculate \nvisit level\nClaim example 1\nClaim example 2\nClaim example 3\nClaim example 4\nClaim example 5"
+        },
+        {
+          "page": 15,
+          "content": "15\nEmergency Department Claim Analyzer guide\nAnalyzer processing\nStep 1: This claim contains one reason-for-visit diagnosis code (R05.9). This diagnosis code is assigned to a PSCA of 3 and a \nstandard weight of 400.\nStep 2: This claim contains one X-ray (71046) and two lab services (87400 and 87430). Since there are 2 unique diagnostic \ncategories on this claim, this claim is assigned an extended weight of 200.\nStep 3: This claim contains a principal (J22) and one secondary diagnosis code (R05.9). Since R05.9 is also billed as the  \nreason-for-visit diagnosis code, it will be ignored in this step. The remaining diagnosis code (J22) increases the complexity  \nof the ED visit with a patient complexity weight of 100.\nFinal step: All 3 weights are added together to determine the total weight for the claim:\nTotal weight = 400 + 200 + 100 = 700\nThis total weight falls into the weight range used by EDC Analyzer for a visit level 3. As such, EDC Analyzer would recommend \nthat the ED visit code on this claim be 99283 or G0382.\nOverview\nEDC Analyzer \nbackground\nStep 1: Standard  \nweights\nStep 2: Extended \nweights\nStep 3: Patient \ncomplexity weights\nFinal step: Calculate \nvisit level\nClaim example 1\nClaim example 2\nClaim example 3\nClaim example 4\nClaim example 5"
+        },
+        {
+          "page": 16,
+          "content": "16\nEmergency Department Claim Analyzer guide\nClaim example 4\nPatient information\nA 60-year-old male presents to the ED with complaints of a bad cough and shortness of breath. A chest CT scan and multiple \nnebulizer treatments are performed. He is seen by a physician and discharged home. Below is a subset of the claim that was \nsubmitted for this visit.\nAge\n60\nSex*\nMale\nReason for visit diagnosis code\nR05.9, Cough unspecified\nR06.02, Shortness of breath\nExternal cause of injury diagnosis codes\nNone\nPrincipal diagnosis code\nJ45.51, Severe persistent asthma with (acute) exacerbation\nSecondary diagnosis codes\nR06.02, Shortness of breath\nR05.9, Cough unspecified\nDiagnostic procedure codes\n94640 (2 units), Airway inhalation treatment\n71270, CT thorax w/o & w/dye\nClaim information\n*Patient sex assigned at birth\nOverview\nEDC Analyzer \nbackground\nStep 1: Standard  \nweights\nStep 2: Extended \nweights\nStep 3: Patient \ncomplexity weights\nFinal step: Calculate \nvisit level\nClaim example 1\nClaim example 2\nClaim example 3\nClaim example 4\nClaim example 5"
+        },
+        {
+          "page": 17,
+          "content": "17\nEmergency Department Claim Analyzer guide\nAnalyzer processing\nStep 1: This claim contains 2 reason-for-visit diagnosis codes (R05.9 and R06.02). Diagnosis code R05.9 is assigned to a \nPSCA of 3 and a standard weight of 400. Diagnosis code R06.02 is assigned to a PSCA of 5 and a standard weight of 1,000. \nSince the highest weight is 1,000, this claim is assigned to a standard weight of 1,000.\nStep 2: This claim contains one CT scan (71270) and 2 breathing treatments (94640). Since there are 2 unique diagnostic \ncategories on this claim, this claim is assigned an extended weight of 300.\nStep 3: This claim contains a principal (J45.51) and 2 secondary diagnosis codes (R06.02, and R05.9). Since R05.9 and \nR06.02 are also billed as reason-for-visit diagnosis codes, they will be ignored in this step. The remaining diagnosis code \n(J45.51) is considered to be a diagnosis code that increases the complexity of the ED visit. The patient complexity weight \nfor this code is 100.\nFinal step: All 3 weights are added together to determine the total weight for the claim:\nTotal weight = 1,000 + 300 + 100 = 1,400\nThis total weight falls into the weight range used by EDC Analyzer for a visit level 5. As such, EDC Analyzer would recommend \nthat the ED visit code on this claim be 99285 or G0384.\nOverview\nEDC Analyzer \nbackground\nStep 1: Standard  \nweights\nStep 2: Extended \nweights\nStep 3: Patient \ncomplexity weights\nFinal step: Calculate \nvisit level\nClaim example 1\nClaim example 2\nClaim example 3\nClaim example 4\nClaim example 5"
+        },
+        {
+          "page": 18,
+          "content": "18\nEmergency Department Claim Analyzer guide\nClaim example 5\nPatient information\nA 37-year-old female presents to the ED with complaints of abdominal pain. Several lab services and a CT scan are performed. \nShe is seen by a physician and discharged home. Below is a subset of the claim that was submitted for this visit.\nAge\n37\nSex*\nFemale\nReason for visit diagnosis code\nR10.9, Unspecified abdominal pain\nExternal cause of injury diagnosis codes\nNone\nPrincipal diagnosis code\nR10.11, Right upper quadrant pain\nSecondary diagnosis codes\nNone\nDiagnostic procedure codes\n80053, Comprehensive metabolic panel\n81001, Urinalysis dip stick/tablet reagent auto microscopy\n85025, Blood count complete auto & auto differential WBC\n74177, CT abdomen and pelvis with contrast\nClaim information\n*Patient sex assigned at birth\nOverview\nEDC Analyzer \nbackground\nStep 1: Standard  \nweights\nStep 2: Extended \nweights\nStep 3: Patient \ncomplexity weights\nFinal step: Calculate \nvisit level\nClaim example 1\nClaim example 2\nClaim example 3\nClaim example 4\nClaim example 5"
+        },
+        {
+          "page": 19,
+          "content": "19\nEmergency Department Claim Analyzer guide\nAnalyzer processing\nStep 1: This claim contains one reason-for-visit diagnosis code (R10.9). Diagnosis code R10.9 is assigned to a PSCA of 4 and a \nstandard weight of 600.\nStep 2: This claim contains one CT scan (74177) and 3 lab services (80053, 81001, 85025). Since there are 2 unique \ndiagnostic categories on this claim, this claim is assigned an extended weight of 300.\nStep 3: This claim contains a principal (R10.11) and no secondary diagnosis codes. The principal diagnosis code does not \nincrease the complexity of the ED visit. As such, the patient complexity weight is 0.\nFinal step: All 3 weights are added together to determine the total weight for the claim:\nTotal weight = 600 + 300 + 0 = 900\nThis total weight falls into the weight range used by EDC Analyzer for a visit level 4. As such, EDC Analyzer would recommend \nthat the ED visit code on this claim be 99284 or G0383.\nOverview\nEDC Analyzer \nbackground\nStep 1: Standard  \nweights\nStep 2: Extended \nweights\nStep 3: Patient \ncomplexity weights\nFinal step: Calculate \nvisit level\nClaim example 1\nClaim example 2\nClaim example 3\nClaim example 4\nClaim example 5"
+        },
+        {
+          "page": 20,
+          "content": "Optum is a registered trademark of Optum, Inc. in the U.S. and other jurisdictions. All other brand or product names are the property of their respective owners. Because we \nare continuously improving our products and services, Optum reserves the right to change specifications without prior notice. Optum is an equal opportunity employer.\n© 2024 Optum, Inc. All rights reserved. WF12827568 01/24"
+        }
+      ],
+      "tables": [
+        {
+          "page": 3,
+          "columns": [
+            "Visit level",
+            "Procedure codes*",
+            "Explanation"
+          ],
+          "rows": [
+            {
+              "Visit level": "1",
+              "Procedure codes*": "99281/G0380",
+              "Explanation": "Used for very simple and limited services. The presenting problem is usually self-limited or minor."
+            },
+            {
+              "Visit level": "2",
+              "Procedure codes*": "99282/G0381",
+              "Explanation": "Typically assigned for an acute episodic illness and/or minor injury evaluation. The presenting problem is of low to moderate severity."
+            },
+            {
+              "Visit level": "3",
+              "Procedure codes*": "99283/G0382",
+              "Explanation": "Generally requires additional facility resources, including X-ray, laboratory testing or additional nursing time. The presenting problem is of moderate severity."
+            },
+            {
+              "Visit level": "4",
+              "Procedure codes*": "99284/G0383",
+              "Explanation": "For encounters associated with acute illness or injury that require prolonged evaluation and typically diagnostic studies, repeat nursing evaluations, or other therapeutic interventions. The presenting problem is high severity, requiring urgent evaluation."
+            },
+            {
+              "Visit level": "5",
+              "Procedure codes*": "99285/G0384",
+              "Explanation": "For encounters that are associated with serious presenting symptoms, often a life-threatening disease or injury, requiring treatment that is complex and/or resource-intensive. The presenting problem is of high severity and/or poses an immediate significant threat to life or physiological function."
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "columns": [
+            "Visit level",
+            "Description"
+          ],
+          "rows": [
+            {
+              "Visit level": "1 (lowest weight)",
+              "Description": "Presenting problem is self-limited or minor"
+            },
+            {
+              "Visit level": "2",
+              "Description": "Presenting problem is low to moderate severity"
+            },
+            {
+              "Visit level": "3",
+              "Description": "Presenting problem is moderate severity"
+            },
+            {
+              "Visit level": "4",
+              "Description": "Presenting problem is high severity, requiring urgent evaluation"
+            },
+            {
+              "Visit level": "5 (highest weight)",
+              "Description": "Presenting problem is high severity, posing an immediate, significant threat to physiological function"
+            }
+          ]
+        },
+        {
+          "page": 6,
+          "columns": [
+            "Presenting problem",
+            "Diagnosis code",
+            "Age range",
+            "Sex*",
+            "Standard weight**"
+          ],
+          "rows": [
+            {
+              "Presenting problem": "Blood pressure check",
+              "Diagnosis code": "Z01.30",
+              "Age range": "> 2",
+              "Sex*": "M & F",
+              "Standard weight**": "***"
+            },
+            {
+              "Presenting problem": "Weakness",
+              "Diagnosis code": "R53.1",
+              "Age range": "> 2",
+              "Sex*": "M & F",
+              "Standard weight**": "****"
+            },
+            {
+              "Presenting problem": "Seizure: pregnant",
+              "Diagnosis code": "O15.9",
+              "Age range": "7-54",
+              "Sex*": "F",
+              "Standard weight**": "****"
+            },
+            {
+              "Presenting problem": "Fever",
+              "Diagnosis code": "R50.9",
+              "Age range": "2-74",
+              "Sex*": "M & F",
+              "Standard weight**": "***"
+            },
+            {
+              "Presenting problem": "Fever",
+              "Diagnosis code": "R50.9",
+              "Age range": "75+",
+              "Sex*": "M & F",
+              "Standard weight**": "***"
+            },
+            {
+              "Presenting problem": "Wheezing",
+              "Diagnosis code": "R06.2",
+              "Age range": "2-11",
+              "Sex*": "M & F",
+              "Standard weight**": "***"
+            },
+            {
+              "Presenting problem": "Wheezing",
+              "Diagnosis code": "R06.2",
+              "Age range": "12+",
+              "Sex*": "M & F",
+              "Standard weight**": "****"
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "columns": [
+            "Diagnostic category",
+            "CPT code",
+            "Code description",
+            "Extended weight*"
+          ],
+          "rows": [
+            {
+              "Diagnostic category": "Lab",
+              "CPT code": "80048",
+              "Code description": "BASIC METABOLIC PANEL CALCIUM TOTAL",
+              "Extended weight*": "***"
+            },
+            {
+              "Diagnostic category": "Lab",
+              "CPT code": "85025",
+              "Code description": "COMPL CBC W AUTO DIFFIAL WBC",
+              "Extended weight*": "***"
+            },
+            {
+              "Diagnostic category": "CT/MRI/ultrasound",
+              "CPT code": "70450",
+              "Code description": "CT HEAD/BRN C-MATRL",
+              "Extended weight*": "***"
+            },
+            {
+              "Diagnostic category": "EKG/RT/other diagnostic",
+              "CPT code": "93005",
+              "Code description": "ECG ROUTINE ECG W/LEAST 12 LDS TRCG ONLY W/O I&R",
+              "Extended weight*": "***"
+            },
+            {
+              "Diagnostic category": "EKG/RT/other diagnostic",
+              "CPT code": "94640",
+              "Code description": "INHALATION TREATMENT",
+              "Extended weight*": "***"
+            },
+            {
+              "Diagnostic category": "Lab",
+              "CPT code": "80053",
+              "Code description": "COMPRE METAB PANEL",
+              "Extended weight*": "***"
+            },
+            {
+              "Diagnostic category": "Lab",
+              "CPT code": "83605",
+              "Code description": "LACTATE (Lactic Acid)",
+              "Extended weight*": "***"
+            },
+            {
+              "Diagnostic category": "X-ray - plain film",
+              "CPT code": "71020",
+              "Code description": "CHEST XRAY 2VW FRONTAL LATL",
+              "Extended weight*": "***"
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "columns": [
+            "Diagnosis code",
+            "Code description",
+            "Patient complexity weight*"
+          ],
+          "rows": [
+            {
+              "Diagnosis code": "M05.9",
+              "Code description": "RHEUMATOID ARTHRITIS WITH RHEUMATOID FACTOR, UNSPECIFIED",
+              "Patient complexity weight*": "***"
+            },
+            {
+              "Diagnosis code": "J44.9",
+              "Code description": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE, UNSPECIFIED",
+              "Patient complexity weight*": "***"
+            },
+            {
+              "Diagnosis code": "I50.9",
+              "Code description": "HEART FAILURE, UNSPECIFIED",
+              "Patient complexity weight*": "***"
+            },
+            {
+              "Diagnosis code": "F10.920",
+              "Code description": "ALCOHOL USE, UNSPECIFIED WITH INTOXICATION, UNCOMPLICATED",
+              "Patient complexity weight*": "***"
+            },
+            {
+              "Diagnosis code": "G40.801",
+              "Code description": "OTHER EPILEPSY, NOT INTRACTABLE, WITH STATUS EPILEPTICUS",
+              "Patient complexity weight*": "***"
+            },
+            {
+              "Diagnosis code": "E11.8",
+              "Code description": "TYPE 1 DIABETES MELLITUS WITH UNSPECIFIED COMPLICATIONS",
+              "Patient complexity weight*": "***"
+            },
+            {
+              "Diagnosis code": "E11.29",
+              "Code description": "TYPE 2 DIABETES MELLITUS WITH OTHER DIABETIC KIDNEY COMPLICATION",
+              "Patient complexity weight*": "***"
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "columns": [
+            "Visit level",
+            "Procedure codes",
+            "Explanation"
+          ],
+          "rows": [
+            {
+              "Visit level": "1",
+              "Procedure codes": "99281/G0380",
+              "Explanation": "Used for very simple and limited services. The presenting problem is usually self-limited or minor."
+            },
+            {
+              "Visit level": "2",
+              "Procedure codes": "99282/G0381",
+              "Explanation": "Typically assigned for an acute episodic illness and/or minor injury evaluation. The presenting problem is of low to moderate severity."
+            },
+            {
+              "Visit level": "3",
+              "Procedure codes": "99283/G0382",
+              "Explanation": "Generally requires additional facility resources, including X-ray, laboratory testing or additional nursing time. The presenting problem is of moderate severity."
+            },
+            {
+              "Visit level": "4",
+              "Procedure codes": "99284/G0383",
+              "Explanation": "For encounters associated with acute illness or injury that requires prolonged evaluation and typically diagnostic studies, repeat nursing evaluations, or other therapeutic interventions. The presenting problem is high severity requiring urgent evaluation."
+            },
+            {
+              "Visit level": "5",
+              "Procedure codes": "99285/G0384",
+              "Explanation": "For encounters that are associated with serious presenting symptoms, often a life-threatening disease or injury, requiring treatment that is complex and/or resource intensive. The presenting problem is of high severity and/or poses an immediate significant threat to life or physiological function."
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "columns": [
+            "Age",
+            "26"
+          ],
+          "rows": [
+            {
+              "Age": "Sex*",
+              "26": "Male"
+            },
+            {
+              "Age": "Reason for visit diagnosis code",
+              "26": "M54.50, Low back pain, unspecified"
+            },
+            {
+              "Age": "External cause of injury diagnosis codes",
+              "26": "None"
+            },
+            {
+              "Age": "Principal diagnosis code",
+              "26": "M54.50, Low back pain, unspecified"
+            },
+            {
+              "Age": "Secondary diagnosis codes",
+              "26": "D17.1, Benign lipomatous neoplasm of skin, subcutaneous tissue of trunk R11.0, Nausea"
+            },
+            {
+              "Age": "Diagnostic procedure codes",
+              "26": "80053, Comprehensive metabolic panel 85025, Blood count complete auto & auto differential WBC"
+            }
+          ]
+        },
+        {
+          "page": 12,
+          "columns": [
+            "Age",
+            "27"
+          ],
+          "rows": [
+            {
+              "Age": "Sex*",
+              "27": "Female"
+            },
+            {
+              "Age": "Reason for visit diagnosis code",
+              "27": "R07.9, Chest pain unspecified"
+            },
+            {
+              "Age": "External cause of injury diagnosis codes",
+              "27": "None"
+            },
+            {
+              "Age": "Principal diagnosis code",
+              "27": "R07.89, Other chest pain"
+            },
+            {
+              "Age": "Secondary diagnosis codes",
+              "27": "R07.9, Chest pain unspecified"
+            },
+            {
+              "Age": "Diagnostic procedure codes",
+              "27": "71046, X-ray exam chest 2 views 80047, Metabolic panel ionized ca 84484, Assay of troponin, quant 84703, Chorionic gonadotropin assay 85025, Complete CBC w/auto diff WBC 85379, Fibrin degradation, quant 93005, Electrocardiogram, tracing"
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "columns": [
+            "Age",
+            "50"
+          ],
+          "rows": [
+            {
+              "Age": "Sex*",
+              "50": "Female"
+            },
+            {
+              "Age": "Reason for visit diagnosis code",
+              "50": "R05.9, Cough unspecified"
+            },
+            {
+              "Age": "External cause of injury diagnosis codes",
+              "50": "None"
+            },
+            {
+              "Age": "Principal diagnosis code",
+              "50": "J22, Unspecified acute lower respiratory infection"
+            },
+            {
+              "Age": "Secondary diagnosis codes",
+              "50": "R05.9, Cough unspecified"
+            },
+            {
+              "Age": "Diagnostic procedure codes",
+              "50": "71046, X-ray exam chest 2 views 87400, Influenza A/B AG IA 87430, Strep A AG IA"
+            }
+          ]
+        },
+        {
+          "page": 16,
+          "columns": [
+            "Age",
+            "60"
+          ],
+          "rows": [
+            {
+              "Age": "Sex*",
+              "60": "Male"
+            },
+            {
+              "Age": "Reason for visit diagnosis code",
+              "60": "R05.9, Cough unspecified R06.02, Shortness of breath"
+            },
+            {
+              "Age": "External cause of injury diagnosis codes",
+              "60": "None"
+            },
+            {
+              "Age": "Principal diagnosis code",
+              "60": "J45.51, Severe persistent asthma with (acute) exacerbation"
+            },
+            {
+              "Age": "Secondary diagnosis codes",
+              "60": "R06.02, Shortness of breath R05.9, Cough unspecified"
+            },
+            {
+              "Age": "Diagnostic procedure codes",
+              "60": "94640 (2 units), Airway inhalation treatment 71270, CT thorax w/o & w/dye"
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "columns": [
+            "Age",
+            "37"
+          ],
+          "rows": [
+            {
+              "Age": "Sex*",
+              "37": "Female"
+            },
+            {
+              "Age": "Reason for visit diagnosis code",
+              "37": "R10.9, Unspecified abdominal pain"
+            },
+            {
+              "Age": "External cause of injury diagnosis codes",
+              "37": "None"
+            },
+            {
+              "Age": "Principal diagnosis code",
+              "37": "R10.11, Right upper quadrant pain"
+            },
+            {
+              "Age": "Secondary diagnosis codes",
+              "37": "None"
+            },
+            {
+              "Age": "Diagnostic procedure codes",
+              "37": "80053, Comprehensive metabolic panel 81001, Urinalysis dip stick/tablet reagent auto microscopy 85025, Blood count complete auto & auto differential WBC 74177, CT abdomen and pelvis with contrast"
+            }
+          ]
+        }
+      ],
+      "CPT_CODES_USED": [
+        "99281",
+        "G0380",
+        "99282",
+        "G0381",
+        "99283",
+        "G0382",
+        "99284",
+        "G0383",
+        "99285",
+        "G0384",
+        "80048",
+        "85025",
+        "70450",
+        "93005",
+        "94640",
+        "80053",
+        "83605",
+        "71020",
+        "71046",
+        "80047",
+        "84484",
+        "84703",
+        "85379",
+        "87400",
+        "87430",
+        "71270",
+        "81001",
+        "74177"
+      ],
+      "ICD_CODES_USED": [
+        "Z01.30",
+        "R53.1",
+        "O15.9",
+        "R50.9",
+        "R06.2",
+        "M05.9",
+        "J44.9",
+        "I50.9",
+        "F10.920",
+        "G40.801",
+        "E11.8",
+        "E11.29",
+        "M54.50",
+        "D17.1",
+        "R11.0",
+        "R07.9",
+        "R07.89",
+        "R05.9",
+        "J22",
+        "R06.02",
+        "J45.51",
+        "R10.9",
+        "R10.11"
+      ]
+    }
+  ],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Facility",
+  "CPT_CODES_USED": [
+    "99284",
+    "G0383",
+    "99285",
+    "G0384",
+    "99291",
+    "99292",
+    "66580",
+    "66805"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

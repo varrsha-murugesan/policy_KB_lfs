@@ -1,0 +1,32 @@
+# --- secrets ---
+.env
+*.env
+!.env.example
+
+# --- licensed UMLS content: never commit or share ---
+data/raw/*
+!data/raw/README.md
+data/processed/
+*.RRF
+*.RRF.*
+umls-*.zip
+*.zip.part
+*.zip.manifest.json
+
+# --- databases and outputs (contain licensed strings and derived data) ---
+database/*.duckdb
+database/*.duckdb.wal
+data/exports/
+data/review/*.csv
+logs/
+
+# --- Python / tooling ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.vscode/*
+!.vscode/settings.json
+# synthetic test fixture is NOT licensed content and is kept in git
+!tests/fixtures/META/*.RRF

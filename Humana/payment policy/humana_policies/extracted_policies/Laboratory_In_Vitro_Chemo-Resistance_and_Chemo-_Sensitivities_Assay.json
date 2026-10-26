@@ -1,0 +1,200 @@
+{
+  "policy_metadata": {
+    "policy_title": "Laboratory – In Vitro Chemo-Resistance and Chemo- Sensitivities Assay",
+    "policy_number": "LAB2023012",
+    "published_date": "04/2023",
+    "effective_date": "04/2023",
+    "revision_date": "04/2026",
+    "last_reviewed": "04/2026",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Professional",
+    "source_pdf": "Laboratory_-_In_Vitro_Chemo-Resistance_and_Chemo-Sensitivities_Assay_Revised-babbf324.pdf",
+    "total_pages": 3,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "0083U",
+      "0248U",
+      "0249U",
+      "0285U",
+      "0435U",
+      "81535",
+      "81536"
+    ],
+    "cpt_codes": [
+      "0083U",
+      "0248U",
+      "0249U",
+      "0285U",
+      "0435U",
+      "81535",
+      "81536"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": [
+        "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. • In vitro chemotherapy sensitivity and resistance assays (CPT code 81535**, CPT code 81536**, CPT code 0083U^, CPT code 0248U^^, CPT code 0249U*, CPT code 0285U*, CPT code 0435U^^) ARE NOT REIMBURSABLE."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Applicable procedures for Medicare Advantage plans",
+          "level": 2,
+          "page_start": 1,
+          "page_end": 2,
+          "content": [
+            "Solutions, LLC., Palmetto GBA and Wisconsin Physician Service Insurance Corporation. **The payment criterion for 81535 and 81536 applies to all Medicare jurisdictions except for states awarded to National Government Services, Inc. ^The payment criterion for 0083U applies to all Medicare jurisdictions except for states awarded to Noridian Healthcare Solutions, LLC. and Palmetto GBA. ^^The payment criterion for 0248U and 0435U applies to all Medicare jurisdictions, except for states awarded to Palmetto GBA."
+          ],
+          "tables": [
+            {
+              "type": "table",
+              "page_start": 1,
+              "page_end": 2,
+              "columns": [
+                "Procedure code",
+                "Code description"
+              ],
+              "row_count": 7,
+              "rows": [
+                {
+                  "Procedure code": "81535**",
+                  "Code description": "Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; first single drug or drug\ncombination Proprietary test: ChemoFX® Lab/manufacturer: Helomics, Corp"
+                },
+                {
+                  "Procedure code": "81536**",
+                  "Code description": "Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; each additional single drug or drug\ncombination (List separately in addition to code for primary procedure) Proprietary test: ChemoFX®\nLab/manufacturer: Helomics, Corp"
+                },
+                {
+                  "Procedure code": "0083U^",
+                  "Code description": "Oncology, response to chemotherapy drugs using motility contrast tomography, fresh or frozen tissue,\nreported as likelihood of sensitivity or resistance to drugs or drug combinations\nProprietary test: Onco4D™\nLab/Manufacturer: Animated Dynamics, Inc"
+                },
+                {
+                  "Procedure code": "0248U^^",
+                  "Code description": "Oncology, spheroid cell culture in a 3D microenvironment, 12 drug panel, brain- or brain metastasis-\nresponse prediction for each drug\nProprietary test: 3D Predict Glioma\nLab/Manufacturer: KIYATEC®, Inc"
+                },
+                {
+                  "Procedure code": "0249U*",
+                  "Code description": "Oncology (breast), semiquantitative analysis of 32 phosphoproteins and protein analytes, includes laser\ncapture microdissection, with algorithmic analysis and interpretative report\nProprietary test: Theralink® Reverse Phase Protein Array (RPPA)\nLab/Manufacturer: Theralink® Technologies, Inc"
+                },
+                {
+                  "Procedure code": "0285U*",
+                  "Code description": "Oncology, disease progression and response monitoring to radiation, chemotherapy, or other systematic\ncancer treatments, cell-free DNA, quantitative branched chain DNA amplification, plasma, reported in\nng/mL Proprietary test: RadTox™ cfDNA test\nLab/Manufacturer: DiaCarta Clinical Lab/DiaCarta Inc"
+                },
+                {
+                  "Procedure code": "0435U^^",
+                  "Code description": "Oncology, chemotherapeutic drug cytotoxicity assay of cancer stem cells (CSCs), from cultured CSCs and\nprimary tumor cells, categorical drug response reported based on cytotoxicity percentage observed,\nminimum of 14 drugs or drug combinations\nProprietary test: ChemoID®\nLab/Manufacturer: Cordgenics, LLC"
+                }
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Original Medicare Local Coverage Determinations (LCDs)",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 2,
+          "page_end": 2,
+          "columns": [
+            "Contractor name",
+            "Policy title",
+            "Policy number",
+            "Procedure code"
+          ],
+          "row_count": 8,
+          "rows": [
+            {
+              "Contractor name": "CGS Administrators, LLC",
+              "Policy title": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "Policy number": "L36021",
+              "Procedure code": "0249U\n0285U"
+            },
+            {
+              "Contractor name": "National Government\nServices, Inc.",
+              "Policy title": "Molecular Pathology\nProcedures",
+              "Policy number": "L35000",
+              "Procedure code": "81535\n81536"
+            },
+            {
+              "Contractor name": "Noridian Healthcare\nSolutions, LLC",
+              "Policy title": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "Policy number": "L35160",
+              "Procedure code": "0249U\n0285U"
+            },
+            {
+              "Contractor name": "Noridian Healthcare\nSolutions, LLC",
+              "Policy title": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "Policy number": "L36256",
+              "Procedure code": "0249U\n0285U"
+            },
+            {
+              "Contractor name": "Noridian Healthcare\nSolutions, LLC",
+              "Policy title": "In Vitro Chemosensitivity &\nChemoresistance Assays",
+              "Policy number": "L37628",
+              "Procedure code": "0083U"
+            },
+            {
+              "Contractor name": "Palmetto GBA",
+              "Policy title": "In Vitro Chemosensitivity &\nChemoresistance Assays",
+              "Policy number": "L34554",
+              "Procedure code": "0083U\n0248U\n0435U"
+            },
+            {
+              "Contractor name": "Palmetto GBA",
+              "Policy title": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "Policy number": "L35025",
+              "Procedure code": "0249U\n0285U"
+            },
+            {
+              "Contractor name": "Wisconsin Physicians Service\nInsurance Corporation",
+              "Policy title": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "Policy number": "L36807",
+              "Procedure code": "0249U\n0285U"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 3,
+      "content": [
+        "Brower, S. L., Fensterer, J. E., & Bush, J. E. (2008). The ChemoFx® Assay: An Ex Vivo Chemosensitivity and Resistance Assay for Predicting Patient Response to Cancer Chemotherapy. In G. Mor & A. B. Alvero (Eds.), Apoptosis and Cancer: Methods and Protocols (pp. 57-78). Humana Press. https://doi.org/10.1007/978-1-59745-339-4_6 Burstein, H. J., Mangu, P. B., Somerfield, M. R., Schrag, D., Samson, D., Holt, L., Zelman, D., & Ajani, J. A. (2011). American Society of Clinical Oncology clinical practice guideline update on the use of chemotherapy sensitivity and resistance assays. J Clin Oncol , 29 (24), 3328-3330. https://doi.org/10.1200/jco.2011.36.0354 Chen, Z., Zhang, S., Ma, S., Li, C., Xu, C., Shen, Y., Zhao, J., & Miao, L. (2018). Evaluation of the in vitro Chemosensitivity and Correlation with Clinical Outcomes in Lung Cancer using the ATP-TCA. Anticancer Agents Med Chem , 18 (1), 139-145. https://doi.org/10.2174/1871520617666170419123713 Grendys, E. C., Jr., Fiorica, J. V., Orr, J. W., Jr., Holloway, R., Wang, D., Tian, C., Chan, J. K., & Herzog, T. J. (2014). Overview of a chemoresponse assay in ovarian cancer. Clin Transl Oncol , 16 (9), 761-769. https://doi.org/10.1007/s12094-014-1192-8 Hatok, J., Babusikova, E., Matakova, T., Mistuna, D., Dobrota, D., & Racay, P. (2009). In vitro assays for the evaluation of drug resistance in tumor cells. Clin Exp Med , 9 (1), 1-7. https://doi.org/10.1007/s10238-008-0011-3 Hoffman, R. M. (2018). Clinical Correlation of the Histoculture Drug Response Assay in Gastrointestinal Cancer. Methods Mol Biol , 1760 , 61-72. https://doi.org/10.1007/978-1-4939-7745-1_7 Howard, C. M., Valluri, J., Alberico, A., Julien, T., Mazagri, R., Marsh, R., Alastair, H., Cortese, A., Griswold, M., Wang, W., Denning, K., Brown, L., & Claudio, P. P. (2017). Analysis of Chemopredictive Assay for Targeting Cancer Stem Cells in Glioblastoma Patients. Transl Oncol , 10 (2), 241-254. https://doi.org/10.1016/j.tranon.2017.01.008 Karam, A. K., Chiang, J. W., Fung, E., Nossov, V., & Karlan, B. Y. (2009). Extreme drug resistance assay results do not influence survival in women with epithelial ovarian cancer. Gynecologic Oncology , 114 (2), 246-252. https://doi.org/10.1016/j.ygyno.2009.02.022 Kiyatec. (2023). 3D Predict Platform. https://kiyatec.com/healthcare-professionals/3d-predict-platform/ Krivak, T. C., Lele, S., Richard, S., Secord, A. A., Leath, C. A., 3rd, Brower, S. L., Tian, C., & Moore, R. G. (2014). A chemoresponse assay for prediction of platinum resistance in primary ovarian cancer. Am J Obstet Gynecol , 211 (1), 68.e61-68. https://doi.org/10.1016/j.ajog.2014.02.009 Kwon, H. Y., Kim, I. K., Kang, J., Sohn, S. K., & Lee, K. Y. (2016). In Vitro Adenosine Triphosphate-Based Chemotherapy Response Assay as a Predictor of Clinical Response to Fluorouracil-Based Adjuvant Chemotherapy in Stage II Colorectal Cancer. Cancer Res Treat , 48 (3), 970-977. https://doi.org/10.4143/crt.2015.140 NCCN. (2024a). NCCN Clinical Practice Guidelines in Oncology . https://www.nccn.org/professionals/physician_gls/default.aspx NCCN. (2024b). NCCN Clinical Practice Guidelines in Oncology; Ovarian Cancer v 3.2024 https://www.nccn.org/professionals/physician_gls/pdf/ovarian.pdf Pierian. (2023). Products: ChemoINTEL™. https://pierianbio.com/project/chemo-intel/ RGCC. (2023). Onconomics RGCC . https://www.rgcc-group.com/tests/onconomics-plus-rgcc/ Rutherford, T., Orr, J., Jr., Grendys, E., Jr., Edwards, R., Krivak, T. C., Holloway, R., Moore, R. G., Puls, L., Tillmanns, T., Schink, J. C., Brower, S. L., Tian, C., & Herzog, T. J. (2013). A prospective study evaluating the clinical relevance of a chemoresponse assay for treatment of patients with persistent or recurrent ovarian cancer. Gynecol Oncol , 131 (2), 362-367. https://doi.org/10.1016/j.ygyno.2013.08.009 Schrag, D., Garewal, H. S., Burstein, H. J., Samson, D. J., Von Hoff, D. D., & Somerfield, M. R. (2004). American Society of Clinical Oncology Technology Assessment: chemotherapy sensitivity and resistance assays. J Clin Oncol , 22 (17), 3631-3638. https://doi.org/10.1200/jco.2004.05.065 Shuford, S., Lipinski, L., Abad, A., Smith, A. M., Rayner, M., O'Donnell, L., Stuart, J., Mechtler, L. L., Fabiano, A. J., Edenfield, J., Kanos, C., Gardner, S., Hodge, P., Lynn, M., Butowski, N. A., Han, S. J., Redjal, N., Crosswell, H. E., Vibat, C. R. T., . . . DesRochers, T. M. (2021). Prospective prediction of clinical drug response in high-grade gliomas using an ex vivo 3D cell culture assay. Neurooncol Adv , 3 (1), vdab065. https://doi.org/10.1093/noajnl/vdab065 Strickland, S. A., Raptis, A., Hallquist, A., Rutledge, J., Chernick, M., Perree, M., Talbott, M. S., & Presant, C. A. (2013). Correlation of the microculture-kinetic drug-induced apoptosis assay with patient outcomes in initial treatment of adult acute myelocytic",
+        "leukemia. Leuk Lymphoma , 54 (3), 528-534. https://doi.org/10.3109/10428194.2012.722217 Tatar, B., Boyraz, G., Selçuk, İ., Doğan, A. K., Usubütün, A., & Tuncer, Z. S. (2016). In vitro chemosensitivity in ovarian carcinoma: Comparison of three leading assays. In J Turk Ger Gynecol Assoc (Vol. 17, pp. 35-40). https://doi.org/10.5152/jtgga.2016.16017 Theralink. (2023). Theralink: Precision Medicine for Life. https://theralink.com/theralink"
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": null,
+  "references": [
+    "Brower, S. L., Fensterer, J. E., & Bush, J. E. (2008). The ChemoFx® Assay: An Ex Vivo Chemosensitivity and Resistance Assay for Predicting Patient Response to Cancer Chemotherapy. In G. Mor & A. B. Alvero (Eds.), Apoptosis and Cancer: Methods and Protocols (pp. 57-78). Humana Press. https://doi.org/10.1007/978-1-59745-339-4_6 Burstein, H. J., Mangu, P. B., Somerfield, M. R., Schrag, D., Samson, D., Holt, L., Zelman, D., & Ajani, J. A. (2011). American Society of Clinical Oncology clinical practice guideline update on the use of chemotherapy sensitivity and resistance assays. J Clin Oncol , 29 (24), 3328-3330. https://doi.org/10.1200/jco.2011.36.0354 Chen, Z., Zhang, S., Ma, S., Li, C., Xu, C., Shen, Y., Zhao, J., & Miao, L. (2018). Evaluation of the in vitro Chemosensitivity and Correlation with Clinical Outcomes in Lung Cancer using the ATP-TCA. Anticancer Agents Med Chem , 18 (1), 139-145. https://doi.org/10.2174/1871520617666170419123713 Grendys, E. C., Jr., Fiorica, J. V., Orr, J. W., Jr., Holloway, R., Wang, D., Tian, C., Chan, J. K., & Herzog, T. J. (2014). Overview of a chemoresponse assay in ovarian cancer. Clin Transl Oncol , 16 (9), 761-769. https://doi.org/10.1007/s12094-014-1192-8 Hatok, J., Babusikova, E., Matakova, T., Mistuna, D., Dobrota, D., & Racay, P. (2009). In vitro assays for the evaluation of drug resistance in tumor cells. Clin Exp Med , 9 (1), 1-7. https://doi.org/10.1007/s10238-008-0011-3 Hoffman, R. M. (2018). Clinical Correlation of the Histoculture Drug Response Assay in Gastrointestinal Cancer. Methods Mol Biol , 1760 , 61-72. https://doi.org/10.1007/978-1-4939-7745-1_7 Howard, C. M., Valluri, J., Alberico, A., Julien, T., Mazagri, R., Marsh, R., Alastair, H., Cortese, A., Griswold, M., Wang, W., Denning, K., Brown, L., & Claudio, P. P. (2017). Analysis of Chemopredictive Assay for Targeting Cancer Stem Cells in Glioblastoma Patients. Transl Oncol , 10 (2), 241-254. https://doi.org/10.1016/j.tranon.2017.01.008 Karam, A. K., Chiang, J. W., Fung, E., Nossov, V., & Karlan, B. Y. (2009). Extreme drug resistance assay results do not influence survival in women with epithelial ovarian cancer. Gynecologic Oncology , 114 (2), 246-252. https://doi.org/10.1016/j.ygyno.2009.02.022 Kiyatec. (2023). 3D Predict Platform. https://kiyatec.com/healthcare-professionals/3d-predict-platform/ Krivak, T. C., Lele, S., Richard, S., Secord, A. A., Leath, C. A., 3rd, Brower, S. L., Tian, C., & Moore, R. G. (2014). A chemoresponse assay for prediction of platinum resistance in primary ovarian cancer. Am J Obstet Gynecol , 211 (1), 68.e61-68. https://doi.org/10.1016/j.ajog.2014.02.009 Kwon, H. Y., Kim, I. K., Kang, J., Sohn, S. K., & Lee, K. Y. (2016). In Vitro Adenosine Triphosphate-Based Chemotherapy Response Assay as a Predictor of Clinical Response to Fluorouracil-Based Adjuvant Chemotherapy in Stage II Colorectal Cancer. Cancer Res Treat , 48 (3), 970-977. https://doi.org/10.4143/crt.2015.140 NCCN. (2024a). NCCN Clinical Practice Guidelines in Oncology . https://www.nccn.org/professionals/physician_gls/default.aspx NCCN. (2024b). NCCN Clinical Practice Guidelines in Oncology; Ovarian Cancer v 3.2024 https://www.nccn.org/professionals/physician_gls/pdf/ovarian.pdf Pierian. (2023). Products: ChemoINTEL™. https://pierianbio.com/project/chemo-intel/ RGCC. (2023). Onconomics RGCC . https://www.rgcc-group.com/tests/onconomics-plus-rgcc/ Rutherford, T., Orr, J., Jr., Grendys, E., Jr., Edwards, R., Krivak, T. C., Holloway, R., Moore, R. G., Puls, L., Tillmanns, T., Schink, J. C., Brower, S. L., Tian, C., & Herzog, T. J. (2013). A prospective study evaluating the clinical relevance of a chemoresponse assay for treatment of patients with persistent or recurrent ovarian cancer. Gynecol Oncol , 131 (2), 362-367. https://doi.org/10.1016/j.ygyno.2013.08.009 Schrag, D., Garewal, H. S., Burstein, H. J., Samson, D. J., Von Hoff, D. D., & Somerfield, M. R. (2004). American Society of Clinical Oncology Technology Assessment: chemotherapy sensitivity and resistance assays. J Clin Oncol , 22 (17), 3631-3638. https://doi.org/10.1200/jco.2004.05.065 Shuford, S., Lipinski, L., Abad, A., Smith, A. M., Rayner, M., O'Donnell, L., Stuart, J., Mechtler, L. L., Fabiano, A. J., Edenfield, J., Kanos, C., Gardner, S., Hodge, P., Lynn, M., Butowski, N. A., Han, S. J., Redjal, N., Crosswell, H. E., Vibat, C. R. T., . . . DesRochers, T. M. (2021). Prospective prediction of clinical drug response in high-grade gliomas using an ex vivo 3D cell culture assay. Neurooncol Adv , 3 (1), vdab065. https://doi.org/10.1093/noajnl/vdab065 Strickland, S. A., Raptis, A., Hallquist, A., Rutledge, J., Chernick, M., Perree, M., Talbott, M. S., & Presant, C. A. (2013). Correlation of the microculture-kinetic drug-induced apoptosis assay with patient outcomes in initial treatment of adult acute myelocytic",
+    "leukemia. Leuk Lymphoma , 54 (3), 528-534. https://doi.org/10.3109/10428194.2012.722217 Tatar, B., Boyraz, G., Selçuk, İ., Doğan, A. K., Usubütün, A., & Tuncer, Z. S. (2016). In vitro chemosensitivity in ovarian carcinoma: Comparison of three leading assays. In J Turk Ger Gynecol Assoc (Vol. 17, pp. 35-40). https://doi.org/10.5152/jtgga.2016.16017 Theralink. (2023). Theralink: Precision Medicine for Life. https://theralink.com/theralink"
+  ],
+  "resources": null,
+  "_extraction_stats": {
+    "total_sections": 4,
+    "total_tables": 2,
+    "total_characters": 6620
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "policy_metadata": {
+    "policy_title": "Laboratory – Thyroid Disease Testing",
+    "policy_number": "LAB2023022",
+    "published_date": "05/2023",
+    "effective_date": "05/2023",
+    "revision_date": "06/2025",
+    "last_reviewed": "06/2025",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Professional",
+    "source_pdf": "Laboratory_-_Thyroid_Disease_Testing-dc832f08.pdf",
+    "total_pages": 6,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "80438",
+      "80439",
+      "83519",
+      "83520",
+      "84432",
+      "84436",
+      "84437",
+      "84442",
+      "84443",
+      "84445",
+      "84479",
+      "84482",
+      "86376",
+      "86800"
+    ],
+    "cpt_codes": [
+      "80438",
+      "80439",
+      "83519",
+      "83520",
+      "84432",
+      "84436",
+      "84437",
+      "84442",
+      "84443",
+      "84445",
+      "84479",
+      "84482",
+      "86376",
+      "86800"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare Local Coverage Determinations (LCD) as outlined below. In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+        "1. For individuals with a diagnosis of hyperthyroidism and a diagnosis of pregnancy or postpartum, testing for total T4 (CPT code 84436) and antithyroglobulin antibody (TgAb) (CPT code 86800) ARE REIMBURSABLE .",
+        "2. For individuals with a diagnosis of hypothyroidism or hyperthyroidism, testing for thyroid antibodies (CPT code 83519, CPT code 83520, CPT code 84445, CPT code 86376, CPT code 86800) IS REIMBURSABLE once every three years.",
+        "3. For individuals with thyroid cancer, testing for serum thyroglobulin (CPT code 84432) and TgAb levels (CPT code 86800) ARE REIMBURSABLE .",
+        "4. For individuals diagnosed with hyperthyroidism or hypothyroidism, testing for thyroxine-binding globulin (TBG) (CPT code 84442) IS NOT REIMBURSABLE.",
+        "5. Testing for thyrotropin-releasing hormone (TRH) (CPT code 80438, CPT code 80439), reverse T3 (CPT code 84482), or T3 uptake (CPT code 84479) IS NOT REIMBURSABLE.",
+        "6. Testing for thyroxine (CPT code 84437) IS NOT REIMBURSABLE for individuals over the age of two. Applicable procedures for Medicare Advantage plans",
+        "* The payment criterion for 84436 applies to all Medicare jurisdictions, except those states awarded to Novitas Solutions."
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 1,
+          "page_end": 1,
+          "columns": [
+            "Procedure Code",
+            "Code Description"
+          ],
+          "row_count": 4,
+          "rows": [
+            {
+              "Procedure Code": "80438",
+              "Code Description": "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour. This panel must include\nthe following: Thyroid stimulating hormone (TSH) (84443 x 3)"
+            },
+            {
+              "Procedure Code": "80439",
+              "Code Description": "Thyrotropin releasing hormone (TRH) stimulation panel; 2 hour. This panel must include\nthe following: Thyroid stimulating hormone (TSH) (84443 x 4)"
+            },
+            {
+              "Procedure Code": "83519",
+              "Code Description": "Immunoassay for analyte other than infectious agent antibody or infectious agent antigen;\nquantitative, by radioimmunoassay (e.g., RIA)"
+            },
+            {
+              "Procedure Code": "83520",
+              "Code Description": "Immunoassay for analyte other than infectious agent antibody or infectious agent antigen;\nquantitative, not otherwise specified"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "page_start": 2,
+          "page_end": 2,
+          "columns": [
+            "84432",
+            "Thyroglobulin"
+          ],
+          "row_count": 8,
+          "rows": [
+            {
+              "84432": "84436*",
+              "Thyroglobulin": "Thyroxine; total"
+            },
+            {
+              "84432": "84437",
+              "Thyroglobulin": "Thyroxine; requiring elution (e.g., neonatal)"
+            },
+            {
+              "84432": "84442",
+              "Thyroglobulin": "Thyroxine binding globulin (TBG)"
+            },
+            {
+              "84432": "84445",
+              "Thyroglobulin": "Thyroid stimulating immune globulins (TSI)"
+            },
+            {
+              "84432": "84479",
+              "Thyroglobulin": "Thyroid hormone (T3 or T4) uptake or thyroid hormone binding ratio (THBR)"
+            },
+            {
+              "84432": "84482",
+              "Thyroglobulin": "Triiodothyronine T3; reverse"
+            },
+            {
+              "84432": "86376",
+              "Thyroglobulin": "Microsomal antibodies (e.g., thyroid or liver-kidney), each"
+            },
+            {
+              "84432": "86800",
+              "Thyroglobulin": "Thyroglobulin antibody"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Original Medicare Local Coverage Determination (LCD)",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 2,
+          "page_end": 2,
+          "columns": [
+            "Contractor Name",
+            "Policy Title",
+            "Policy Number",
+            "Procedure Code"
+          ],
+          "row_count": 1,
+          "rows": [
+            {
+              "Contractor Name": "Novitas Solutions, Inc",
+              "Policy Title": "Frequency of Laboratory\nTests",
+              "Policy Number": "L35099",
+              "Procedure Code": "84436"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 6,
+      "content": [
+        "AACE. (2024). All About the Thyroid . https://www.aace.com/disease-and-conditions/thyroid/all-about-thyroid AAFP. (2024). Thyroid Dysfunction Screening. https://www.aafp.org/family-physician/patient-care/clinical- recommendations/all-clinical-recommendations/thyroid-dysfunction.html AAP. (2017). http://www.choosingwisely.org/clinician-lists/aap-soen-avoid-measuring-thyroid-function-and- insulin-levels-in-obese-children/ ACOG. (2020). Thyroid Disease in Pregnancy: ACOG Practice Bulletin, Number 223. Obstet Gynecol , 135 (6), e261-",
+        "e274. https://doi.org/10.1097/aog.0000000000003893 Alexander, E. K., Pearce, E. N., Brent, G. A., Brown, R. S., Chen, H., Dosiou, C., Grobman, W. A., Laurberg, P., Lazarus, J. H., Mandel, S. J., Peeters, R. P., & Sullivan, S. (2017). 2017 Guidelines of the American Thyroid Association for the Diagnosis and Management of Thyroid Disease During Pregnancy and the Postpartum. Thyroid , 27 (3), 315-389. https://doi.org/10.1089/thy.2016.0457 AlSaedi, A. H., Almalki, D. S., & ElKady, R. M. (2024). Approach to Thyroid Nodules: Diagnosis and Treatment. Cureus , 16 (1), e52232. https://doi.org/10.7759/cureus.52232 ASCP. (2020, 09/01/2020). Thirty Five Things Physicians and Patients Should Question . ABIM Foundation. https://www.ascp.org/content/docs/default-source/get-involved-pdfs/istp_choosingwisely/ascp-35-things- list_2020_final.pdf Bernstein, J. A., Lang, D. M., Khan, D. A., Craig, T., Dreyfus, D., Hsieh, F., Sheikh, J., Weldon, D., Zuraw, B., Bernstein, D. I., Blessing-Moore, J., Cox, L., Nicklas, R. A., Oppenheimer, J., Portnoy, J. M., Randolph, C. R., Schuller, D. E., Spector, S. L., Tilles, S. A., & Wallace, D. (2014). The diagnosis and management of acute and chronic urticaria: 2014 update. J Allergy Clin Immunol , 133 (5), 1270-1277. https://doi.org/10.1016/j.jaci.2014.02.036 Biktagirova, E. M., Sattarova, L. I., Vagapova, G. R., Skibo, Y. V., Chuhlovina, E. N., Kravtsova, O. A., & Abramova, Z. I. (2016). [Biochemical and immunological markers of autoimmune thyroiditis]. Biomed Khim , 62 (4), 458-465. https://doi.org/10.18097/pbmc20166204458 (Biokhimicheskie i immunologicheskie markery khronicheskogo limfotsitarnogo tireoidita.) Brent, G. (2024, May 28). Thyroid hormone action . https://www.uptodate.com/contents/thyroid-hormone-action Burmeister, L. A. (1995). Reverse T3 Does Not Reliably Differentiate Hypothyroid Sick Syndrome from Euthyroid Sick Syndrome. Thyroid , 5 (6), 435-441. https://doi.org/10.1089/thy.1995.5.435 Croker, E. E., McGrath, S. A., & Rowe, C. W. (2021). Thyroid disease: Using diagnostic tools effectively. Aust J Gen Pract , 50 (1-2), 16-21. https://doi.org/10.31128/ajgp-10-20-5693 Degrandi, R., Prodam, F., Genoni, G., Bellomo, G., Bona, G., Giordano, M., Bellone, S., & Monzani, A. (2021). The Prevalence of Thyroid Autoimmunity in Children with Developmental Dyslexia. Biomed Res Int , 2021 , 7656843. https://doi.org/10.1155/2021/7656843 Diana, T., Krause, J., Olivo, P. D., König, J., Kanitz, M., Decallonne, B., & Kahaly, G. J. (2017). Prevalence and clinical relevance of thyroid stimulating hormone receptor-blocking antibodies in autoimmune thyroid disease. Clin Exp Immunol , 189 (3), 304-309. https://doi.org/10.1111/cei.12980 Donangelo, I., & Suh, S. Y. (2017). Subclinical Hyperthyroidism: When to Consider Treatment. Am Fam Physician , 95 (11), 710-716. Durante, C., Hegedüs, L., Czarniecka, A., Paschke, R., Russ, G., Schmitt, F., Soares, P., Solymosi, T., & Papini, E. (2023). 2023 European Thyroid Association Clinical Practice Guidelines for thyroid nodule management. Eur Thyroid J , 12 (5). https://doi.org/10.1530/etj-23-0067 Endocrine Society. (2022). RECOMMENDATIONS The Endocrine Society of Australia . https://www.choosingwisely.org.au/recommendations/esa5 EverlyWell. (2024). Check your thyroid from the comfort of home. https://www.everlywell.com/products/thyroid- test/ Gaitonde, D. Y., Rowley, K. D., & Sweeney, L. B. (2012). Hypothyroidism: An Update . https://www.aafp.org/afp/2012/0801/p244.html Garber, J. R., Cobin, R. H., Gharib, H., Hennessey, J. V., Klein, I., Mechanick, J. I., Pessah-Pollack, R., Singer, P. A., & Woeber, K. A. (2012). Clinical practice guidelines for hypothyroidism in adults: cosponsored by the American Association of Clinical Endocrinologists and the American Thyroid Association. Endocr Pract , 18 (6), 988-1028. https://doi.org/10.4158/ep12280.gl Gholve, C., Kumarasamy, J., Kulkarni, S., & Rajan, M. G. R. (2017). In-House Solid-Phase Radioassay for the Detection of Anti-thyroglobulin Autoantibodies in Patients with Differentiated Thyroid Cancer. Indian J Clin Biochem , 32 (1), 39-44. https://doi.org/10.1007/s12291-016-0568-7 Gomes-Lima, C., & Burman, K. D. (2018). Reverse T3 or perverse T3? Still puzzling after 40 years. Cleve Clin J Med , 85 (6), 450-455. https://doi.org/10.3949/ccjm.85a.17079 Haymart, M. R., Repplinger, D. J., Leverson, G. E., Elson, D. F., Sippel, R. S., Jaume, J. C., & Chen, H. (2008). Higher serum thyroid stimulating hormone level in thyroid nodule patients is associated with greater risks of differentiated thyroid cancer and advanced tumor stage. J Clin Endocrinol Metab , 93 (3), 809-814. https://doi.org/10.1210/jc.2007-2215 Hogan, M. B., & Shepherd, M. W. (2022, October 20, 2022). Common variable immunodeficiency in children . UpToDate. https://www.uptodate.com/contents/common-variable-immunodeficiency-in-children Homan, G. J. (2016). Failure to Thrive: A Practical Guide. Am Fam Physician , 94 (4), 295-299. https://www.ncbi.nlm.nih.gov/pubmed/27548594 Jin, H. Y. (2018). Prevalence of subclinical hypothyroidism in obese children or adolescents and association between thyroid hormone and the components of metabolic syndrome. J Paediatr Child Health , 54 (9), 975-",
+        "980. https://doi.org/10.1111/jpc.13926 Jonklaas, J., Bianco, A. C., Bauer, A. J., Burman, K. D., Cappola, A. R., Celi, F. S., Cooper, D. S., Kim, B. W., Peeters, R. P., Rosenthal, M. S., & Sawka, A. M. (2014). Guidelines for the treatment of hypothyroidism: prepared by the american thyroid association task force on thyroid hormone replacement. Thyroid , 24 (12), 1670-1751. https://doi.org/10.1089/thy.2014.0028 Kahaly, G. J., Bartalena, L., Hegedus, L., Leenhardt, L., Poppe, K., & Pearce, S. H. (2018). 2018 European Thyroid Association Guideline for the Management of Graves' Hyperthyroidism. Eur Thyroid J , 7 (4), 167-186. https://doi.org/10.1159/000490384 Kazerouni, F., & Amirrasouli, H. (2012). Performance characteristics of three automated immunoassays for thyroid",
+        "hormones. Caspian J Intern Med , 3 (2), 400-104. Kiel, S., Ittermann, T., Völzke, H., Chenot, J.-F., & Angelow, A. (2020). Frequency of thyroid function tests and examinations in participants of a population-based study. BMC Health Services Research , 20 (1), 70. https://doi.org/10.1186/s12913-020-4910-7 Kluesner, J. K., Beckman, D. J., Tate, J. M., Beauvais, A. A., Kravchenko, M. I., Wardian, J. L., Graybill, S. D., Colburn, J. A., Folaron, I., & True, M. W. (2018). Analysis of current thyroid function test ordering practices. J Eval Clin Pract , 24 (2), 347-352. https://doi.org/10.1111/jep.12846 Korevaar, T. I. M., Derakhshan, A., Taylor, P. N., Meima, M., Chen, L., Bliddal, S., Carty, D. M., Meems, M., Vaidya, B., Shields, B., Ghafoor, F., Popova, P. V., Mosso, L., Oken, E., Suvanto, E., Hisada, A., Yoshinaga, J., Brown, S. J., Bassols, J., . . . Peeters, R. P. (2019). Association of Thyroid Function Test Abnormalities and Thyroid Autoimmunity With Preterm Birth: A Systematic Review and Meta-analysis. Jama , 322 (7), 632-641. https://doi.org/10.1001/jama.2019.10931 Kravets, I. (2016). Hyperthyroidism: Diagnosis and Treatment. Am Fam Physician , 93 (5), 363-370. LetsGetChecked. (2024). Home Thyroid Testing. https://www.letsgetchecked.com/home-thyroid-test/ Leung, A. M., & Brent, G. A. (2016). The Influence of Thyroid Hormone on Growth Hormone Secretion and Action. In L. E. Cohen (Ed.), Growth Hormone Deficiency: Physiology and Clinical Management (pp. 29-46). Springer International Publishing. https://doi.org/10.1007/978-3-319-28038-7_4 Li, D., Radulescu, A., Shrestha, R. T., Root, M., Karger, A. B., Killeen, A. A., Hodges, J. S., Fan, S. L., Ferguson, A., Garg, U., Sokoll, L. J., & Burmeister, L. A. (2017). Association of Biotin Ingestion With Performance of Hormone and Nonhormone Assays in Healthy Adults. Jama , 318 (12), 1150-1160. https://doi.org/10.1001/jama.2017.13705 Li, Y. H., & Marren, A. (2018). Recurrent pregnancy loss: A summary of international evidence-based guidelines and",
+        "practice. Aust J Gen Pract , 47 (7), 432-436. https://doi.org/10.31128/AJGP-01-18-4459 Livingston, M., Birch, K., Guy, M., Kane, J., & Heald, A. H. (2015). No role for tri-iodothyronine (T3) testing in the assessment of levothyroxine (T4) over-replacement in hypothyroid patients. Br J Biomed Sci , 72 (4), 160-163. Luewan, S., Chakkabut, P., & Tongsong, T. (2011). Outcomes of pregnancy complicated with hyperthyroidism: a cohort study. Arch Gynecol Obstet , 283 (2), 243-247. https://doi.org/10.1007/s00404-010-1362-z Masika, L. S., Zhao, Z., & Soldin, S. J. (2016). Is measurement of TT3 by immunoassay reliable at low concentrations? A comparison of the Roche Cobas 6000 vs. LC-MSMS. Clin Biochem , 49 (12), 846-849. https://doi.org/10.1016/j.clinbiochem.2016.02.004 Mooij, C. F., Cheetham, T. D., Verburg, F. A., Eckstein, A., Pearce, S. H., Leger, J., & van Trotsenburg, A. S. P. (2022). 2022 European Thyroid Association Guideline for the management of pediatric Graves' disease. Eur Thyroid J , 11 (1). https://doi.org/10.1530/ETJ-21-0073 Muller, I., Moran, C., Lecumberri, B., Decallonne, B., Robertson, N., Jones, J., & Dayan, C. M. (2019). 2019 European Thyroid Association Guidelines on the Management of Thyroid Dysfunction following Immune Reconstitution Therapy. European Thyroid Journal , 8 (4), 173-185. https://doi.org/10.1159/000500881 Muraresku, C. C., McCormick, E. M., & Falk, M. J. (2018). Mitochondrial Disease: Advances in clinical diagnosis, management, therapeutic development, and preventative strategies. Curr Genet Med Rep , 6 (2), 62-72. https://doi.org/10.1007/s40142-018-0138-9 myLABBOX. (2024). At Home Thyroid Health Screening Test . Retrieved January 3, 2023 from https://www.mylabbox.com/product/at-home-thyroid-health-screening-test/ NICE. (2023). Thyroid disease: assessment and management. https://www.nice.org.uk/guidance/ng145 Paloma Health. (2024). Complete Thyroid Blood Test Kit . https://www.palomahealth.com/home-thyroid-blood- test-kit Parikh, S., Goldstein, A., Karaa, A., Koenig, M. K., Anselm, I., Brunel-Guitton, C., Christodoulou, J., Cohen, B. H., Dimmock, D., Enns, G. M., Falk, M. J., Feigenbaum, A., Frye, R. E., Ganesh, J., Griesemer, D., Haas, R., Horvath, R., Korson, M., Kruer, M. C., . . . Chinnery, P. F. (2017). Patient care standards for primary mitochondrial disease: a consensus statement from the Mitochondrial Medicine Society. Genet Med , 19 (12). https://doi.org/10.1038/gim.2017.107 Poppe, K., Bisschop, P., Fugazzola, L., Minziori, G., Unuane, D., & Weghofer, A. (2021). 2021 European Thyroid Association Guideline on Thyroid Disorders prior to and during Assisted Reproduction. European Thyroid Journal , 9 (6), 281-295. https://doi.org/10.1159/000512790 Richmond, E. J., & Rogol, A. D. (2024, April 2). Causes of short stature . https://www.uptodate.com/contents/causes-of-short-stature Ross, D. S. (2023a, June 10, 2023). Diagnosis of hyperthyroidism https://www.uptodate.com/contents/diagnosis- of-hyperthyroidism Ross, D. S. (2023b, December 6, 2023). Laboratory assessment of thyroid function . https://www.uptodate.com/contents/laboratory-assessment-of-thyroid-function Ross, D. S. (2023c, March 23, 2023). Overview of thryoid disease and pregnancy . UpToDate. https://www.uptodate.com/contents/overview-of-thyroid-disease-and-pregnancy Ross, D. S. (2024, March 21). Diagnosis of and screening for hypothyroidism in nonpregnant adults . https://www.uptodate.com/contents/diagnosis-of-and-screening-for-hypothyroidism-in-nonpregnant-adults Ross, D. S. (2024, January 9). Thyroid hormone synthesis and physiology . UpToDate. https://www.uptodate.com/contents/thyroid-hormone-synthesis-and- physiology?search=thyrotropin%20releasing%20hormone&source=search_result&selectedTitle=1~39&usage_ type=default&display_rank=1#H26 Ross, D. S., Burch, H. B., Cooper, D. S., Greenlee, M. C., Laurberg, P., Maia, A. L., Rivkees, S. A., Samuels, M., Sosa, J. A., Stan, M. N., & Walter, M. A. (2016). 2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis. Thyroid , 26 (10), 1343-1421. https://doi.org/10.1089/thy.2016.0229 Rugge, J. B., Bougatsos, C., & Chou, R. (2015). Screening and treatment of thyroid dysfunction: an evidence review for the U.S. Preventive Services Task Force. Ann Intern Med , 162 (1), 35-45. https://doi.org/10.7326/m14-1456 Sarkar, D. (2012). Recurrent pregnancy loss in patients with thyroid dysfunction. Indian J Endocrinol Metab , 16 (Suppl 2), S350-351. https://doi.org/10.4103/2230-8210.104088 Society for Maternal-Fetal Medicine. (2022). Choosing Wisely: Eighteen Things Physicians and Patients Should Question. https://www.smfm.org/news/choosing-wisely-eighteen-things-physicians-and-patients-should- question Stagnaro-Green, A., Abalovich, M., Alexander, E., Azizi, F., Mestman, J., Negro, R., Nixon, A., Pearce, E. N., Soldin, O. P., Sullivan, S., & Wiersinga, W. (2011). Guidelines of the American Thyroid Association for the diagnosis and management of thyroid disease during pregnancy and postpartum. Thyroid , 21 (10), 1081-1125. https://doi.org/10.1089/thy.2011.0087 TellmeGEN. (2023). Thyroid Function . https://www.tellmegen.com/en/results/dna-traits-test/thyroid-function-tsh- levels Testing. (2024). Thyroid Function . https://www.testing.com/thyroid-function-testing/ Toloza, F. J. K., Derakhshan, A., Männistö, T., Bliddal, S., Popova, P. V., Carty, D. M., Chen, L., Taylor, P., Mosso, L., Oken, E., Suvanto, E., Itoh, S., Kishi, R., Bassols, J., Auvinen, J., López-Bermejo, A., Brown, S. J., Boucai, L., Hisada, A., . . . Maraka, S. (2022). Association between maternal thyroid function and risk of gestational hypertension and pre-eclampsia: a systematic review and individual-participant data meta-analysis. Lancet Diabetes Endocrinol , 10 (4), 243-252. https://doi.org/10.1016/s2213-8587(22)00007-9 USPSTF. (2017). Thyroid Cancer: Screening . Retrieved 1/6/21 from https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/thyroid-cancer-screening Wang, J. J., Zhuang, Z. H., Shao, C. L., Yu, C. Q., Wang, W. Y., Zhang, K., Meng, X. B., Gao, J., Tian, J., Zheng, J. L., Huang, T., & Tang, Y. D. (2021). Assessment of causal association between thyroid function and lipid metabolism: a Mendelian randomization study. Chin Med J (Engl) , 134 (9), 1064-1069. https://doi.org/10.1097/CM9.0000000000001505 Wilson, S. A., Stem, L. A., & Bruehlman, R. D. (2021). Hypothyroidism: Diagnosis and Treatment. Am Fam Physician , 103 (10), 605-613. Yazici, P., Mihmanli, M., Bozkurt, E., Ozturk, F. Y., & Uludag, M. (2016). Which is the best predictor of thyroid cancer: thyrotropin, thyroglobulin or their ratio? Hormones (Athens) , 15 (2), 256-263. https://doi.org/10.14310/horm.2002.1677"
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": null,
+  "references": [
+    "AACE. (2024). All About the Thyroid . https://www.aace.com/disease-and-conditions/thyroid/all-about-thyroid AAFP. (2024). Thyroid Dysfunction Screening. https://www.aafp.org/family-physician/patient-care/clinical- recommendations/all-clinical-recommendations/thyroid-dysfunction.html AAP. (2017). http://www.choosingwisely.org/clinician-lists/aap-soen-avoid-measuring-thyroid-function-and- insulin-levels-in-obese-children/ ACOG. (2020). Thyroid Disease in Pregnancy: ACOG Practice Bulletin, Number 223. Obstet Gynecol , 135 (6), e261-",
+    "e274. https://doi.org/10.1097/aog.0000000000003893 Alexander, E. K., Pearce, E. N., Brent, G. A., Brown, R. S., Chen, H., Dosiou, C., Grobman, W. A., Laurberg, P., Lazarus, J. H., Mandel, S. J., Peeters, R. P., & Sullivan, S. (2017). 2017 Guidelines of the American Thyroid Association for the Diagnosis and Management of Thyroid Disease During Pregnancy and the Postpartum. Thyroid , 27 (3), 315-389. https://doi.org/10.1089/thy.2016.0457 AlSaedi, A. H., Almalki, D. S., & ElKady, R. M. (2024). Approach to Thyroid Nodules: Diagnosis and Treatment. Cureus , 16 (1), e52232. https://doi.org/10.7759/cureus.52232 ASCP. (2020, 09/01/2020). Thirty Five Things Physicians and Patients Should Question . ABIM Foundation. https://www.ascp.org/content/docs/default-source/get-involved-pdfs/istp_choosingwisely/ascp-35-things- list_2020_final.pdf Bernstein, J. A., Lang, D. M., Khan, D. A., Craig, T., Dreyfus, D., Hsieh, F., Sheikh, J., Weldon, D., Zuraw, B., Bernstein, D. I., Blessing-Moore, J., Cox, L., Nicklas, R. A., Oppenheimer, J., Portnoy, J. M., Randolph, C. R., Schuller, D. E., Spector, S. L., Tilles, S. A., & Wallace, D. (2014). The diagnosis and management of acute and chronic urticaria: 2014 update. J Allergy Clin Immunol , 133 (5), 1270-1277. https://doi.org/10.1016/j.jaci.2014.02.036 Biktagirova, E. M., Sattarova, L. I., Vagapova, G. R., Skibo, Y. V., Chuhlovina, E. N., Kravtsova, O. A., & Abramova, Z. I. (2016). [Biochemical and immunological markers of autoimmune thyroiditis]. Biomed Khim , 62 (4), 458-465. https://doi.org/10.18097/pbmc20166204458 (Biokhimicheskie i immunologicheskie markery khronicheskogo limfotsitarnogo tireoidita.) Brent, G. (2024, May 28). Thyroid hormone action . https://www.uptodate.com/contents/thyroid-hormone-action Burmeister, L. A. (1995). Reverse T3 Does Not Reliably Differentiate Hypothyroid Sick Syndrome from Euthyroid Sick Syndrome. Thyroid , 5 (6), 435-441. https://doi.org/10.1089/thy.1995.5.435 Croker, E. E., McGrath, S. A., & Rowe, C. W. (2021). Thyroid disease: Using diagnostic tools effectively. Aust J Gen Pract , 50 (1-2), 16-21. https://doi.org/10.31128/ajgp-10-20-5693 Degrandi, R., Prodam, F., Genoni, G., Bellomo, G., Bona, G., Giordano, M., Bellone, S., & Monzani, A. (2021). The Prevalence of Thyroid Autoimmunity in Children with Developmental Dyslexia. Biomed Res Int , 2021 , 7656843. https://doi.org/10.1155/2021/7656843 Diana, T., Krause, J., Olivo, P. D., König, J., Kanitz, M., Decallonne, B., & Kahaly, G. J. (2017). Prevalence and clinical relevance of thyroid stimulating hormone receptor-blocking antibodies in autoimmune thyroid disease. Clin Exp Immunol , 189 (3), 304-309. https://doi.org/10.1111/cei.12980 Donangelo, I., & Suh, S. Y. (2017). Subclinical Hyperthyroidism: When to Consider Treatment. Am Fam Physician , 95 (11), 710-716. Durante, C., Hegedüs, L., Czarniecka, A., Paschke, R., Russ, G., Schmitt, F., Soares, P., Solymosi, T., & Papini, E. (2023). 2023 European Thyroid Association Clinical Practice Guidelines for thyroid nodule management. Eur Thyroid J , 12 (5). https://doi.org/10.1530/etj-23-0067 Endocrine Society. (2022). RECOMMENDATIONS The Endocrine Society of Australia . https://www.choosingwisely.org.au/recommendations/esa5 EverlyWell. (2024). Check your thyroid from the comfort of home. https://www.everlywell.com/products/thyroid- test/ Gaitonde, D. Y., Rowley, K. D., & Sweeney, L. B. (2012). Hypothyroidism: An Update . https://www.aafp.org/afp/2012/0801/p244.html Garber, J. R., Cobin, R. H., Gharib, H., Hennessey, J. V., Klein, I., Mechanick, J. I., Pessah-Pollack, R., Singer, P. A., & Woeber, K. A. (2012). Clinical practice guidelines for hypothyroidism in adults: cosponsored by the American Association of Clinical Endocrinologists and the American Thyroid Association. Endocr Pract , 18 (6), 988-1028. https://doi.org/10.4158/ep12280.gl Gholve, C., Kumarasamy, J., Kulkarni, S., & Rajan, M. G. R. (2017). In-House Solid-Phase Radioassay for the Detection of Anti-thyroglobulin Autoantibodies in Patients with Differentiated Thyroid Cancer. Indian J Clin Biochem , 32 (1), 39-44. https://doi.org/10.1007/s12291-016-0568-7 Gomes-Lima, C., & Burman, K. D. (2018). Reverse T3 or perverse T3? Still puzzling after 40 years. Cleve Clin J Med , 85 (6), 450-455. https://doi.org/10.3949/ccjm.85a.17079 Haymart, M. R., Repplinger, D. J., Leverson, G. E., Elson, D. F., Sippel, R. S., Jaume, J. C., & Chen, H. (2008). Higher serum thyroid stimulating hormone level in thyroid nodule patients is associated with greater risks of differentiated thyroid cancer and advanced tumor stage. J Clin Endocrinol Metab , 93 (3), 809-814. https://doi.org/10.1210/jc.2007-2215 Hogan, M. B., & Shepherd, M. W. (2022, October 20, 2022). Common variable immunodeficiency in children . UpToDate. https://www.uptodate.com/contents/common-variable-immunodeficiency-in-children Homan, G. J. (2016). Failure to Thrive: A Practical Guide. Am Fam Physician , 94 (4), 295-299. https://www.ncbi.nlm.nih.gov/pubmed/27548594 Jin, H. Y. (2018). Prevalence of subclinical hypothyroidism in obese children or adolescents and association between thyroid hormone and the components of metabolic syndrome. J Paediatr Child Health , 54 (9), 975-",
+    "980. https://doi.org/10.1111/jpc.13926 Jonklaas, J., Bianco, A. C., Bauer, A. J., Burman, K. D., Cappola, A. R., Celi, F. S., Cooper, D. S., Kim, B. W., Peeters, R. P., Rosenthal, M. S., & Sawka, A. M. (2014). Guidelines for the treatment of hypothyroidism: prepared by the american thyroid association task force on thyroid hormone replacement. Thyroid , 24 (12), 1670-1751. https://doi.org/10.1089/thy.2014.0028 Kahaly, G. J., Bartalena, L., Hegedus, L., Leenhardt, L., Poppe, K., & Pearce, S. H. (2018). 2018 European Thyroid Association Guideline for the Management of Graves' Hyperthyroidism. Eur Thyroid J , 7 (4), 167-186. https://doi.org/10.1159/000490384 Kazerouni, F., & Amirrasouli, H. (2012). Performance characteristics of three automated immunoassays for thyroid",
+    "hormones. Caspian J Intern Med , 3 (2), 400-104. Kiel, S., Ittermann, T., Völzke, H., Chenot, J.-F., & Angelow, A. (2020). Frequency of thyroid function tests and examinations in participants of a population-based study. BMC Health Services Research , 20 (1), 70. https://doi.org/10.1186/s12913-020-4910-7 Kluesner, J. K., Beckman, D. J., Tate, J. M., Beauvais, A. A., Kravchenko, M. I., Wardian, J. L., Graybill, S. D., Colburn, J. A., Folaron, I., & True, M. W. (2018). Analysis of current thyroid function test ordering practices. J Eval Clin Pract , 24 (2), 347-352. https://doi.org/10.1111/jep.12846 Korevaar, T. I. M., Derakhshan, A., Taylor, P. N., Meima, M., Chen, L., Bliddal, S., Carty, D. M., Meems, M., Vaidya, B., Shields, B., Ghafoor, F., Popova, P. V., Mosso, L., Oken, E., Suvanto, E., Hisada, A., Yoshinaga, J., Brown, S. J., Bassols, J., . . . Peeters, R. P. (2019). Association of Thyroid Function Test Abnormalities and Thyroid Autoimmunity With Preterm Birth: A Systematic Review and Meta-analysis. Jama , 322 (7), 632-641. https://doi.org/10.1001/jama.2019.10931 Kravets, I. (2016). Hyperthyroidism: Diagnosis and Treatment. Am Fam Physician , 93 (5), 363-370. LetsGetChecked. (2024). Home Thyroid Testing. https://www.letsgetchecked.com/home-thyroid-test/ Leung, A. M., & Brent, G. A. (2016). The Influence of Thyroid Hormone on Growth Hormone Secretion and Action. In L. E. Cohen (Ed.), Growth Hormone Deficiency: Physiology and Clinical Management (pp. 29-46). Springer International Publishing. https://doi.org/10.1007/978-3-319-28038-7_4 Li, D., Radulescu, A., Shrestha, R. T., Root, M., Karger, A. B., Killeen, A. A., Hodges, J. S., Fan, S. L., Ferguson, A., Garg, U., Sokoll, L. J., & Burmeister, L. A. (2017). Association of Biotin Ingestion With Performance of Hormone and Nonhormone Assays in Healthy Adults. Jama , 318 (12), 1150-1160. https://doi.org/10.1001/jama.2017.13705 Li, Y. H., & Marren, A. (2018). Recurrent pregnancy loss: A summary of international evidence-based guidelines and",
+    "practice. Aust J Gen Pract , 47 (7), 432-436. https://doi.org/10.31128/AJGP-01-18-4459 Livingston, M., Birch, K., Guy, M., Kane, J., & Heald, A. H. (2015). No role for tri-iodothyronine (T3) testing in the assessment of levothyroxine (T4) over-replacement in hypothyroid patients. Br J Biomed Sci , 72 (4), 160-163. Luewan, S., Chakkabut, P., & Tongsong, T. (2011). Outcomes of pregnancy complicated with hyperthyroidism: a cohort study. Arch Gynecol Obstet , 283 (2), 243-247. https://doi.org/10.1007/s00404-010-1362-z Masika, L. S., Zhao, Z., & Soldin, S. J. (2016). Is measurement of TT3 by immunoassay reliable at low concentrations? A comparison of the Roche Cobas 6000 vs. LC-MSMS. Clin Biochem , 49 (12), 846-849. https://doi.org/10.1016/j.clinbiochem.2016.02.004 Mooij, C. F., Cheetham, T. D., Verburg, F. A., Eckstein, A., Pearce, S. H., Leger, J., & van Trotsenburg, A. S. P. (2022). 2022 European Thyroid Association Guideline for the management of pediatric Graves' disease. Eur Thyroid J , 11 (1). https://doi.org/10.1530/ETJ-21-0073 Muller, I., Moran, C., Lecumberri, B., Decallonne, B., Robertson, N., Jones, J., & Dayan, C. M. (2019). 2019 European Thyroid Association Guidelines on the Management of Thyroid Dysfunction following Immune Reconstitution Therapy. European Thyroid Journal , 8 (4), 173-185. https://doi.org/10.1159/000500881 Muraresku, C. C., McCormick, E. M., & Falk, M. J. (2018). Mitochondrial Disease: Advances in clinical diagnosis, management, therapeutic development, and preventative strategies. Curr Genet Med Rep , 6 (2), 62-72. https://doi.org/10.1007/s40142-018-0138-9 myLABBOX. (2024). At Home Thyroid Health Screening Test . Retrieved January 3, 2023 from https://www.mylabbox.com/product/at-home-thyroid-health-screening-test/ NICE. (2023). Thyroid disease: assessment and management. https://www.nice.org.uk/guidance/ng145 Paloma Health. (2024). Complete Thyroid Blood Test Kit . https://www.palomahealth.com/home-thyroid-blood- test-kit Parikh, S., Goldstein, A., Karaa, A., Koenig, M. K., Anselm, I., Brunel-Guitton, C., Christodoulou, J., Cohen, B. H., Dimmock, D., Enns, G. M., Falk, M. J., Feigenbaum, A., Frye, R. E., Ganesh, J., Griesemer, D., Haas, R., Horvath, R., Korson, M., Kruer, M. C., . . . Chinnery, P. F. (2017). Patient care standards for primary mitochondrial disease: a consensus statement from the Mitochondrial Medicine Society. Genet Med , 19 (12). https://doi.org/10.1038/gim.2017.107 Poppe, K., Bisschop, P., Fugazzola, L., Minziori, G., Unuane, D., & Weghofer, A. (2021). 2021 European Thyroid Association Guideline on Thyroid Disorders prior to and during Assisted Reproduction. European Thyroid Journal , 9 (6), 281-295. https://doi.org/10.1159/000512790 Richmond, E. J., & Rogol, A. D. (2024, April 2). Causes of short stature . https://www.uptodate.com/contents/causes-of-short-stature Ross, D. S. (2023a, June 10, 2023). Diagnosis of hyperthyroidism https://www.uptodate.com/contents/diagnosis- of-hyperthyroidism Ross, D. S. (2023b, December 6, 2023). Laboratory assessment of thyroid function . https://www.uptodate.com/contents/laboratory-assessment-of-thyroid-function Ross, D. S. (2023c, March 23, 2023). Overview of thryoid disease and pregnancy . UpToDate. https://www.uptodate.com/contents/overview-of-thyroid-disease-and-pregnancy Ross, D. S. (2024, March 21). Diagnosis of and screening for hypothyroidism in nonpregnant adults . https://www.uptodate.com/contents/diagnosis-of-and-screening-for-hypothyroidism-in-nonpregnant-adults Ross, D. S. (2024, January 9). Thyroid hormone synthesis and physiology . UpToDate. https://www.uptodate.com/contents/thyroid-hormone-synthesis-and- physiology?search=thyrotropin%20releasing%20hormone&source=search_result&selectedTitle=1~39&usage_ type=default&display_rank=1#H26 Ross, D. S., Burch, H. B., Cooper, D. S., Greenlee, M. C., Laurberg, P., Maia, A. L., Rivkees, S. A., Samuels, M., Sosa, J. A., Stan, M. N., & Walter, M. A. (2016). 2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis. Thyroid , 26 (10), 1343-1421. https://doi.org/10.1089/thy.2016.0229 Rugge, J. B., Bougatsos, C., & Chou, R. (2015). Screening and treatment of thyroid dysfunction: an evidence review for the U.S. Preventive Services Task Force. Ann Intern Med , 162 (1), 35-45. https://doi.org/10.7326/m14-1456 Sarkar, D. (2012). Recurrent pregnancy loss in patients with thyroid dysfunction. Indian J Endocrinol Metab , 16 (Suppl 2), S350-351. https://doi.org/10.4103/2230-8210.104088 Society for Maternal-Fetal Medicine. (2022). Choosing Wisely: Eighteen Things Physicians and Patients Should Question. https://www.smfm.org/news/choosing-wisely-eighteen-things-physicians-and-patients-should- question Stagnaro-Green, A., Abalovich, M., Alexander, E., Azizi, F., Mestman, J., Negro, R., Nixon, A., Pearce, E. N., Soldin, O. P., Sullivan, S., & Wiersinga, W. (2011). Guidelines of the American Thyroid Association for the diagnosis and management of thyroid disease during pregnancy and postpartum. Thyroid , 21 (10), 1081-1125. https://doi.org/10.1089/thy.2011.0087 TellmeGEN. (2023). Thyroid Function . https://www.tellmegen.com/en/results/dna-traits-test/thyroid-function-tsh- levels Testing. (2024). Thyroid Function . https://www.testing.com/thyroid-function-testing/ Toloza, F. J. K., Derakhshan, A., Männistö, T., Bliddal, S., Popova, P. V., Carty, D. M., Chen, L., Taylor, P., Mosso, L., Oken, E., Suvanto, E., Itoh, S., Kishi, R., Bassols, J., Auvinen, J., López-Bermejo, A., Brown, S. J., Boucai, L., Hisada, A., . . . Maraka, S. (2022). Association between maternal thyroid function and risk of gestational hypertension and pre-eclampsia: a systematic review and individual-participant data meta-analysis. Lancet Diabetes Endocrinol , 10 (4), 243-252. https://doi.org/10.1016/s2213-8587(22)00007-9 USPSTF. (2017). Thyroid Cancer: Screening . Retrieved 1/6/21 from https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/thyroid-cancer-screening Wang, J. J., Zhuang, Z. H., Shao, C. L., Yu, C. Q., Wang, W. Y., Zhang, K., Meng, X. B., Gao, J., Tian, J., Zheng, J. L., Huang, T., & Tang, Y. D. (2021). Assessment of causal association between thyroid function and lipid metabolism: a Mendelian randomization study. Chin Med J (Engl) , 134 (9), 1064-1069. https://doi.org/10.1097/CM9.0000000000001505 Wilson, S. A., Stem, L. A., & Bruehlman, R. D. (2021). Hypothyroidism: Diagnosis and Treatment. Am Fam Physician , 103 (10), 605-613. Yazici, P., Mihmanli, M., Bozkurt, E., Ozturk, F. Y., & Uludag, M. (2016). Which is the best predictor of thyroid cancer: thyrotropin, thyroglobulin or their ratio? Hormones (Athens) , 15 (2), 256-263. https://doi.org/10.14310/horm.2002.1677"
+  ],
+  "resources": null,
+  "_extraction_stats": {
+    "total_sections": 3,
+    "total_tables": 3,
+    "total_characters": 17071
+  }
+}

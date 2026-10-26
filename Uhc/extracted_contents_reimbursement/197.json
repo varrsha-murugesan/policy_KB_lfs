@@ -1,0 +1,465 @@
+{
+  "policy_title": "CCI Editing Policy",
+  "policy_number": "2025R0105A",
+  "policy_dates": {
+    "effective_date": "2/1/2025",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to services reported using the 1500 Health Insurance Claim Form (a/k/a CMS-1500) or its electronic equivalent or its successor form. This policy applies to all products and all network and non-network physicians and Other Qualified Health Care Professionals(QHPs), including, but not limited to, non-network authorized and percent of charge contract physicians and other QHP.",
+      "children": [
+        {
+          "title": "UnitedHealthcare Commercial",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all UnitedHealthcare Commercial benefit plans."
+        },
+        {
+          "title": "UnitedHealthcare Individual Exchange",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all Individual Exchange benefit plans."
+        }
+      ]
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "According to the Centers for Medicare and Medicaid Services (CMS), medical and surgical procedures should be reported with the CPT/HCPCS codes that most comprehensively describe the services performed. For the purpose of this policy, the Same Individual Physician or Other QHP is the same individual rendering health care services reporting the same Federal Tax Identification number."
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Medicare NCCI edits",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "UnitedHealthcare uses this policy to administer the \"Column One/Column Two\" National Correct Coding Initiative (NCCI) edits not otherwise addressed in UnitedHealthcare reimbursement policies to determine whether CPT and/or HCPCS codes reported together by the Same Individual Physician or Other QHP for the same member on the same date of service are eligible for separate reimbursement. When reported with a column one code, UnitedHealthcare will not separately reimburse a column two code unless the codes are appropriately reported with one of the NCCI designated modifiers recognized by UnitedHealthcare under this policy. When modifiers 59, XE, XP, XS or XU are appended to either the column one or column two code for a procedure or service rendered to the same patient, on the same date of service and by the Same Individual Physician or Other QHP, and there is an NCCI modifier indicator of \"1\", UnitedHealthcare will consider both services and/or procedures for reimbursement. Please refer to the \"Modifiers\" section of this policy for a complete listing of acceptable modifiers and the description of modifier indicators of \"0\" and \"1\". The edits administered by this policy may be found on the following link: Medicare National Correct Coding Initiative (NCCI) Edits"
+        },
+        {
+          "title": "Medicaid NCCI Edits",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "Consistent with CMS, UnitedHealthcare utilizes the procedure-to-procedure (PTP) durable medical equipment (DME) edits developed by Medicaid in October of 2012, and will not separately reimburse PTP column two codes unless appropriately reported with one of the NCCI designated modifiers recognized by UnitedHealthcare under this policy. When one of the designated modifiers is appended to either the PTP column one or column two code rendered to the same patient, on the same date of service and by the Same Individual Physician or Other QHP, and there is an NCCI modifier indicator of \"1\", UnitedHealthcare will consider both services and/or procedures for reimbursement. Please refer to the \"Modifiers\" section of this policy for a complete listing of acceptable modifiers. The Medicaid PTP DME edits can be found on the following link: Medicaid National Correct Coding Initiative (NCCI) Edit Files Modifiers Modifiers offer the physician or healthcare professional a way to identify that a service or procedure has been altered in some way. Under appropriate circumstances, modifiers should be used to identify unusual circumstances, staged or related procedures, distinct procedural services or separate anatomical location(s). Each CMS NCCI edit has a modifier indicator assigned to it. A modifier indicator of \"0\" indicates a modifier cannot be used to bypass the edit. A modifier indicator of \"1\" indicates that an NCCI designated modifier can be used to allow both submitted services or procedures. NCCI and Medicaid PTP edits: 24, 25, 57, 58, 59, 78, 79, 91, E1, E2, E3, E4, LC, LD, LM, LT, RC, RI, RT, TA, T1, T2, T3, T4, T5, T6, T7, T8, T9, FA, F1, F2, F3, F4, F5, F6, F7, F8, F9, XE, XP, XS and XU. As it relates to the use of anatomical modifiers: E1, E2, E3, E4, LC, LD, LM, LT, RC, RI, RT, TA, T1, T2, T3, T4, T5, T6, T7, T8, T9, FA, F1, F2, F3, F4, F5, F6, F7, F8, and F9, code pair edits may be bypassed only if the two procedures reported are submitted with different anatomical modifiers. When CCI edits are applicable to codes representing paired body parts, an anatomical modifier will be required to be reported with both codes, instead of just one code. The existence of the NCCI PTP edit indicates that the two codes generally cannot be reported together unless the two corresponding procedures are performed at two separate patient encounters or two separate anatomic locations. If anatomical modifiers are reported on only one but not both of the applicable codes, UnitedHealthcare will not have enough information to recognize whether both codes are eligible to be reimbursed. An NCCI PTP edit code pair consisting of two codes describing two shoulder arthroscopy procedures, CPT codes ranging from 29805-29828, shall not be separately reimbursable when performed on the ipsilateral shoulder even when an NCCI PTP-associated modifier is present. These services may be considered for separate reimbursement with an NCCI PTP-associated modifier only if the two procedures are performed on contralateral shoulders. The following CPT codes will be considered for separate reimbursement when submitted in addition to code 29823 if extensive debridement is completed in a different area of the same shoulder: 29824, 29827 and 29828. Modifiers offer specific information and should be used appropriately. For example, by definition, Modifier 91 would be used to repeat the same laboratory test on the same day for the same patient. Modifiers XE, XP, XS, and XU (referred to collectively as the -X {EPSU} modifiers) define specific subsets of modifier 59. According to the CPT book, modifier 59 should only be used when a more descriptive modifier is not available and therefore the provider should report one of these modifiers or modifier 59, but not both. Please refer to the \"Codes\" section for a complete listing of modifiers. Information describing usage of modifier 59 and the -X {EPSU} modifiers can be found on the CMS Medicare NCCI, Medicaid NCCI or CMS MLN Matters websites. CMS MLN Matters website: Medicare Learning Network (MLN) Proper Use of Modifier 59 CMS Medicare NCCI website: Medicare National Correct Coding Initiative (NCCI) Edits CMS Medicaid NCCI website: Medicaid National Correct Coding Initiative (NCCI) Edit Files"
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "Claims Estimator",
+          "value": "Real-time online tool that allows the user to determine how UnitedHealthcare rebundling edits would apply to any combination of codes prior to claim submission."
+        },
+        {
+          "key": "Same Individual Physician or Other QHP",
+          "value": "The same individual rendering health care services reporting the same Federal Tax Identification number."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Why does this UnitedHealthcare reimbursement policy not contain all CCI edits?",
+            "A": "CCI edits may be addressed within other UnitedHealthcare reimbursement policies and therefore, are not included in this policy. Please refer to the Claims Estimator (available via UnitedHealthcareonline.com) to review appropriate bundling under all UnitedHealthcare policies."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Will UnitedHealthcare allow both codes of a CCI edit to be reimbursed?",
+            "A": "Yes, UnitedHealthcare will allow each code of a CCI edit pair to be separately reimbursed if the above listed modifiers are appropriately used. The separately reimbursed procedure and/or service must meet the criteria per the modifier definition. For example, modifier T1 is used to identify a procedure or service that is performed on the second digit of the left foot. Therefore, modifier T1 could be appended to code 28285 indicating a hammertoe procedure was performed on the second digit of the left foot at the same time as a bunionectomy procedure was"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "Why does UnitedHealthcare not reimburse a NCCI Column Two (deny) code when it is reported with a NCCI designated modifier included in this policy?",
+            "A": "NCCI edit has a modifier indicator assignment which specifies whether a modifier will bypass the edit. A modifier assignment of \"0\" does not allow a modifier to bypass the edit."
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "Q": "What is the difference between Medicare NCCI edits and Medicaid NCCI Edits?",
+            "A": "CMS administers Medicare NCCI edits on a national level whereas Medicaid NCCI edits are administered at a state level. The Medicaid NCCI program is derived from the Medicare NCCI program with modifications relevant to the Medicaid program. CMS has worked with states to develop specific PTP edits for each state because of differences in state Medicaid programs and laws and regulations. In order to avoid confusion between the two programs, the Medicaid NCCI program uses the term NCCI PTP to identify its NCCI column one/column two edits."
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "Q": "Since the CCI Editing policy recognizes many modifiers, do all modifiers bypass bundling edits in every situation?",
+            "A": "No. There are many coding guidelines provided within credible third-party sources including, but not limited to, the CPT and HCPCS books, and CMS NCCI Policy Manual which address situations in which a modifier applies. While the CCI Editing policy recognizes many modifiers, modifiers only apply when they are used according to correct coding guidelines. For example, CMS considers the shoulder to be a single anatomic structure. An NCCI procedure to procedure edit code pair consisting of two codes describing two shoulder procedures should never be bypassed with an NCCI-associated modifier when performed on the ipsilateral (same side) shoulder. In this case, procedure 23700 is billed with modifier LT and is performed at the same encounter as procedure 29823 with modifier LT. Since both services were performed on the same (left) shoulder, only one procedure would be allowed. If the two procedures are performed on contralateral (opposite) shoulders (23700 with modifier LT and 29823 with modifier RT) then the CCI edit would not apply."
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "Q": "Should providers report wound repair codes 12001-13153 for closure of surgical incisions?",
+            "A": "No. Closure/repair of a surgical incision is included in the global surgical package and wound repair CPT codes 12001-13153 shall not be reported separately to describe closure of surgical incisions for procedures with global surgery indicators of 000, 010, 090, or MMM. UnitedHealthcare aligns with CMS and will only consider reimbursement for closure/repair if it is separate from the primary procedure. Reporting one of the -X {EPSU} modifiers on the wound repair code would be beneficial to indicate why it is separate from the primary procedure."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Codes",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "24",
+          "value": "79 F1 F7 LM T2 T8 XU"
+        },
+        {
+          "key": "25",
+          "value": "91 F2 F8 LT T3 T9"
+        },
+        {
+          "key": "57",
+          "value": "E1 F3 F9 RC T4 TA"
+        },
+        {
+          "key": "58",
+          "value": "E2 F4 FA RI T5 XE"
+        },
+        {
+          "key": "59",
+          "value": "E3 F5 LC RT T6 XP"
+        },
+        {
+          "key": "78",
+          "value": "E4 F6 LD T1 T7 XS"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "Centers for Medicare and Medicaid Services, CMS Manual System and other CMS publications and services Centers for Medicare and Medicaid Services, National Correct Coding Initiative (NCCI) publications"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 5,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "2/1/2025",
+          "value": "Policy Version Change Modifier section: Updated policy language History Section: Entries prior to 2/1/2023 archived"
+        },
+        {
+          "key": "4/1/2024",
+          "value": "Template Update - Transferred content to shared policy template that applies to both UnitedHealthcare Commercial and Individual Exchange benefit plans. - Updated Application section to indicate this Reimbursement Policy applies to: o All UnitedHealthcare Commercial benefit plans o All Individual Exchange benefit plans"
+        },
+        {
+          "key": "1/1/2024",
+          "value": "Policy Version Change Logo Updated History Section: Entries prior to 1/1/2022 archived"
+        },
+        {
+          "key": "12/9/07",
+          "value": "Policy implemented by UnitedHealthcare Employer & Individual"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [
+    {
+      "url": "https://www.cms.gov/files/document/proper-use-modifiers-59-xepsu.pdf",
+      "content": [
+        {
+          "page": 1,
+          "content": "Page 1 of 11\nProper Use of Modifiers 59, XE, XP, XS & XU\nMLN1783722 April 2026\nCPT codes, descriptions, and other data only are copyright 2025 American Medical Association. All Rights Reserved. \nFee schedules, relative value units, conversion factors and/or related components are not assigned by the AMA, are not \npart of CPT, and the AMA is not recommending their use. The AMA does not directly or indirectly practice medicine or \ndispense medical services. The AMA assumes no liability for data contained or not contained herein.\nCPT is a registered trademark of the American Medical Association.\nWhat’s Changed?\nNote: No substantive content updates."
+        },
+        {
+          "page": 2,
+          "content": "MLN Booklet\nProper Use of Modifiers 59, XE, XP, XS & XU\nMLN1783722 April 2026\nPage 2 of 11\nTable of Contents\nDefinition of Modifiers 59, XE, XP, XS, XU ......................................................................................... 3\nAppropriate & Inappropriate Use of These Modifiers ...................................................................... 4\nRural Health Clinics & Federally Qualified Health Centers ............................................................. 7\nExamples of Appropriate & Inappropriate Use ................................................................................. 7\nResources ...........................................................................................................................................11\nCPT only copyright 2025 American Medical Association. All Rights Reserved."
+        },
+        {
+          "page": 3,
+          "content": "MLN Booklet\nProper Use of Modifiers 59, XE, XP, XS & XU\nMLN1783722 April 2026\nPage 3 of 11\nThe Medicare National Correct Coding Initiative (NCCI) includes Procedure-to-Procedure (PTP) edits \nthat explain when you shouldn’t report certain HCPCS or CPT codes together in all or most billing \nsituations. For NCCI PTP edits with:\n●\nA Correct Coding Modifier Indicator (CCMI) of “0,” don’t report the codes together by the \nsame provider for the same patient on the same date of service (DOS). If you report the codes \ntogether on the same DOS, the Column 1 code is eligible for payment and Medicare denies the \nColumn 2 code.\n●\nA CCMI of “1,” report the codes together only in limited circumstances by using NCCI \nPTP-associated modifiers.\nRefer to the Medicare NCCI Policy Manual, Chapter 1 for general information about the NCCI \nprogram, NCCI PTP edits, CCMIs, and NCCI PTP-associated modifiers. One purpose of NCCI PTP \nedits is to prevent payment for codes that report overlapping services except where the services are \n“separate and distinct.”\nModifier 59 is an important NCCI PTP-associated modifier that physicians and providers often use \nincorrectly. For the NCCI program, its primary purpose is to show that a provider performed 2 or more \nprocedures at different anatomic sites or patient encounters. Use modifier 59 only when no other \nmodifier better describes the relationship between the procedure codes.\nDefinition of Modifiers 59, XE, XP, XS, XU\nThe CPT Professional Codebook defines modifier 59 as:\nDistinct Procedural Service: Under certain circumstances, it may be necessary to indicate that \na procedure or service was distinct or independent from other non-E/M services performed on the \nsame day. Modifier 59 is used to identify procedures/services, other than E/M services, that are \nnot normally reported together, but are appropriate under the circumstances. Documentation must \nsupport a different session, different procedure or surgery, different site or organ system, separate \nincision/excision, separate lesion, or separate injury (or area of injury in extensive injuries) not \nordinarily encountered or performed on the same day by the same individual.\nHowever, when another already established modifier is appropriate it should be used rather than \nmodifier 59. Only if no more descriptive modifier is available, and the use of modifier 59 best \nexplains the circumstances, should modifier 59 be used.\nNote: Modifier 59 should not be appended to an E/M service. To report a separate and distinct \nE/M service with a non-E/M service performed on the same date, see modifier 25.\nCPT only copyright 2025 American Medical Association. All Rights Reserved."
+        },
+        {
+          "page": 4,
+          "content": "MLN Booklet\nProper Use of Modifiers 59, XE, XP, XS & XU\nMLN1783722 April 2026\nPage 4 of 11\nDon’t use modifiers 59, XE, XP, XS, XU, and other NCCI PTP-associated modifiers to bypass an \nNCCI PTP edit unless the proper criteria for use of the modifiers are met. Medical documentation \nmust support the use of the modifier.\nModifiers XE, XP, XS, and XU are valid modifiers. These modifiers give greater reporting specificity \nin situations where you used modifier 59 previously. Use these modifiers instead of modifier 59 \nwhenever possible. Only use modifier 59 if no other more specific modifier is appropriate.\nWe allow modifiers 59, XE, XP, XS, or XU on Column 1 or Column 2 codes (review the related \ntransmittal at Change Request 11168).\nWe define these modifiers as follows:\n●\nXE—“Separate encounter, a service that is distinct because it occurred during a \nseparate encounter.” Only use XE to describe separate encounters on the same DOS.\n●\nXP—“Separate practitioner, a service that is distinct because it was performed by a \ndifferent practitioner.”\n●\nXS—“Separate structure, a service that is distinct because it was performed on a separate \norgan/structure.”\n●\nXU—“Unusual non-overlapping service, the use of a service that is distinct because it does \nnot overlap usual components of the main service.”\nAppropriate & Inappropriate Use of These Modifiers\nUse modifier 59 or XS for different anatomic sites during the same encounter only when \nprocedures that aren’t ordinarily performed or encountered on the same day are performed on:\n●\nDifferent organs\n●\nDifferent anatomic regions\n●\nIn limited situations on different, non-contiguous lesions in different anatomic regions of the same organ\nModifiers 59 and XS are for surgical procedures, non-surgical therapeutic procedures, or diagnostic \nprocedures that:\n●\nAre performed at different anatomic sites.\n●\nAren’t ordinarily performed or encountered on the same day.\n●\nCan’t be described by 1 of the more specific anatomic NCCI PTP-associated modifiers—in other \nwords, RT, LT, E1–E4, FA, F1–F9, TA, T1–T9, LC, LD, RC, LM, or RI. Review Examples 1, 2, 3, and 6.\nCPT only copyright 2025 American Medical Association. All Rights Reserved."
+        },
+        {
+          "page": 5,
+          "content": "MLN Booklet\nProper Use of Modifiers 59, XE, XP, XS & XU\nMLN1783722 April 2026\nPage 5 of 11\nFrom an NCCI program perspective, the definition of different anatomic sites includes different \norgans or, in certain instances, different lesions in the same organ. We created NCCI edits to \nprevent providers from inappropriate billing of lesions and sites not considered separate and distinct. \nTreatment of contiguous structures in the same organ or anatomic region doesn’t generally constitute \ntreatment of different anatomic sites. For example:\n●\nTreating the nail, nail bed, and adjacent soft tissue distal to and including the skin overlying the \ndistal interphalangeal joint on the same toe or finger constitutes treatment of a single anatomic \nsite. Review Example 4.\n●\nTreatment of posterior segment structures in the ipsilateral eye constitutes treatment of a single \nanatomic site. Review Example 5.\nOnly use modifier 59 or XE if no other modifier more appropriately describes the relationship \nof the 2 procedure codes.\nAnother common use of modifier 59 or XE is for surgical procedures, non-surgical therapeutic \nprocedures, or diagnostic procedures performed during different patient encounters on the same day \nthat can’t be described by 1 of the more specific NCCI PTP-associated modifiers—in other words, 24, \n25, 27, 57, 58, 78, 79, or 91. Review Example 7.\nDon’t use modifier 59 or XU just because the code descriptors of the 2 codes are different.\nOne of the common misuses of modifier 59 relates to the part of the definition of modifier 59 allowing \nits use to describe a “different procedure or surgery.” The code descriptors of the 2 codes of a code \npair edit describe different procedures even though they may overlap. Don’t report the 2 codes \ntogether if they’re performed at the same anatomic site and same patient encounter because they \naren’t considered “separate and distinct.” Don’t use modifier 59 or XU to bypass a PTP edit based on \nthe 2 codes being “different procedures.” Review Example 8.\nIf you perform 2 procedures at separate anatomic sites or at separate patient encounters on the same \nDOS, you may use modifiers 59, XE, or XS to show that they’re different procedures on that DOS. Also, \nthere may be limited circumstances sometimes identified in the Medicare NCCI Policy Manual when \nyou may report the 2 codes of an edit pair together with modifiers 59, XE, or XS when performed at \nthe same patient encounter or at the same anatomic site.\nCPT only copyright 2025 American Medical Association. All Rights Reserved."
+        },
+        {
+          "page": 6,
+          "content": "MLN Booklet\nProper Use of Modifiers 59, XE, XP, XS & XU\nMLN1783722 April 2026\nPage 6 of 11\nOnly use modifiers 59, XE, or XU in these other specific situations.\nThere are 3 other limited situations where you may report 2 services as separate and distinct because \nthey’re separated in time and describe non-overlapping services even though they may occur during \nthe same encounter.\n●\nUsing modifier 59 or XE properly for 2 services described by timed codes provided during \nthe same encounter only when they’re performed 1 after another. There’s an appropriate \nuse for modifier 59 that applies only to codes for which the unit of service is a measure of time (2 \nexamples are: per 15 minutes or per hour). If you provide 2 timed services in separate and distinct \ntime periods that aren’t mingled with each other (in other words, you complete 1 service before the \nnext service begins), you may use modifier 59 or XE to identify the services. Review Example 9.\n●\nUsing modifier 59 or XU properly for a diagnostic procedure that’s performed before a \ntherapeutic procedure only when the diagnostic procedure is the basis for performing the \ntherapeutic procedure. When you perform a diagnostic procedure before a surgical procedure or \nnon-surgical therapeutic procedure and it’s the basis on which you decide to perform the surgical \nprocedure or non-surgical therapeutic procedure, you may consider that diagnostic procedure to \nbe a separate and distinct procedure if it:\n●\nOccurs before the therapeutic procedure and isn’t mingled with services the therapeutic \nintervention requires\n●\nClearly provides the information needed to decide whether to proceed with the \ntherapeutic procedure\n●\nDoesn’t constitute a service that you would’ve otherwise required during the \ntherapeutic intervention\nIf the diagnostic procedure is an inherent component of the surgical procedure, don’t report it separately.\n●\nUsing modifier 59 or XU properly for a diagnostic procedure that occurs after a completed \ntherapeutic procedure only when the diagnostic procedure isn’t a common, an expected, \nor a necessary follow-up to the therapeutic procedure. When a diagnostic procedure follows \nthe surgical procedure or non-surgical therapeutic procedure, you may consider that diagnostic \nprocedure to be a separate and distinct procedure if it:\n●\nOccurs after the completion of the therapeutic procedure and isn’t mingled with or otherwise \nmixed with services that the therapeutic intervention requires.\n●\nDoesn’t constitute an otherwise required service during the therapeutic intervention. If the \npost-procedure diagnostic procedure is an inherent component or otherwise included (or \nnot separately payable) post-procedure service of the surgical procedure or non-surgical \ntherapeutic procedure, don’t report it separately.\nYou don’t need a different diagnosis for each HCPCS- or CPT-coded procedure to use modifiers 59, XE, \nXP, XS, or XU. On the other hand, different diagnoses aren’t adequate criteria for using modifiers 59, \nXE, XP, XS, or XU. The codes stay bundled unless you perform the procedures at different anatomic \nsites, during separate patient encounters, or in 1 of the other 3 scenarios described previously.\nCPT only copyright 2025 American Medical Association. All Rights Reserved."
+        },
+        {
+          "page": 7,
+          "content": "MLN Booklet\nProper Use of Modifiers 59, XE, XP, XS & XU\nMLN1783722 April 2026\nPage 7 of 11\nRural Health Clinics & Federally Qualified Health Centers\nA single Rural Health Clinic (RHC) or Federally Qualified Health Center (FQHC) visit constitutes more \nthan 1 RHC or FQHC practitioner encounter on the same day or multiple encounters with the same \nRHC or FQHC practitioner on the same day. It’s payable as 1 visit, and this policy applies regardless of:\n●\nThe length or complexity of the visit\n●\nThe number or type of practitioners seen\n●\nIf the second visit is scheduled or unscheduled\n●\nIf the first visit is related or unrelated to the subsequent visit\nAn exception to this policy is when the patient, after the first visit, suffers an illness or injury that \nrequires additional diagnosis or treatment on the same day (for example, a patient sees their \npractitioner in the morning for a medical condition and later in the day has a fall and returns to the \nRHC or FQHC). In this situation only, the FQHC would use modifier 59 on the claim, while the RHC \nwould use modifier 59 or 25, to show the treatment qualifies for 2 billable visits.\nThe only other exceptions are:\n●\nThe patient has a medical visit and a mental health visit on the same day (2 billable visits)\n●\nFor RHCs only, the patient has an initial preventive physical exam (IPPE) and a separate medical, \nmental health visit, or both on the same day as the IPPE (2 or 3 billable visits)\nExamples of Appropriate & Inappropriate Use\nExample 1: \nColumn 1\nColumn 2\nCPT Code 11102 – Tangential biopsy of skin (eg, \nshave, scoop, saucerize, curette); single lesion\nCPT Code 17000 – Destruction (eg, laser \nsurgery, electrosurgery, cryosurgery, \nchemosurgery, surgical curettement), \npremalignant lesions (eg, actinic keratoses); \nfirst lesion\nYou may report modifier 59 or XS with either the Column 1 or Column 2 code if you did the \nprocedures at different anatomic sites on the same side of the body and a specific anatomic modifier \nisn’t applicable. If you did the procedures on different sides of the body, use modifiers RT and LT or \nanother pair of anatomic modifiers. Don’t use modifier 59 or XS.\nUsing modifier 59 or XS is appropriate for different anatomic sites during the same encounter only \nwhen you perform procedures (that you don’t ordinarily perform or encounter on the same day) on \ndifferent organs or different anatomic regions or, in limited situations, on different, non-contiguous \nlesions in different anatomic regions of the same organ.\nCPT only copyright 2025 American Medical Association. All Rights Reserved."
+        },
+        {
+          "page": 8,
+          "content": "MLN Booklet\nProper Use of Modifiers 59, XE, XP, XS & XU\nMLN1783722 April 2026\nPage 8 of 11\nExample 2: \nColumn 1\nColumn 2\nCPT Code 47370 – Laparoscopy, surgical, \nablation of 1 or more liver tumor(s); radiofrequency\nCPT Code 76942 – Ultrasonic guidance for \nneedle placement (eg, biopsy, aspiration, \ninjection, localization device), imaging \nsupervision and interpretation\nDon’t report CPT code 76942 with or without modifiers 59, XE, XP, XS, or XU if the ultrasonic \nguidance is for needle placement for the laparoscopic liver tumor ablation procedure 47370. Only \nreport 76942 with modifiers 59, XE, XP, XS, or XU if the ultrasonic guidance for needle placement is \nunrelated to the laparoscopic liver tumor ablation.\nExample 3: \nColumn 1\nColumn 2\nCPT Code 93453 – Combined right and left \nheart catheterization including intraprocedural \ninjection(s) for left ventriculography, imaging \nsupervision and interpretation, when performed\nCPT Code 76000 – Fluoroscopy (separate \nprocedure), up to 1 hour physician or other \nqualified health care professional time\nDon’t report CPT code 76000 with or without modifiers 59, XE, XP, XS, or XU for a fluoroscopy \nin conjunction with a cardiac catheterization procedure. You may report 76000 with modifiers 59,\nXE, XP, XS, or XU if you perform the fluoroscopy for a procedure unrelated to the cardiac \ncatheterization procedure.\nExample 4: \nColumn 1\nColumn 2\nCPT Code 11055 – Paring or cutting of \nbenign hyperkeratotic lesion (eg, corn or callus); \nsingle lesion\nCPT Code 11720 – Debridement of nail(s) by any \nmethod(s); 1 to 5\nDon’t report CPT codes 11055 and 11720 together for services you perform on skin distal to and \nincluding the skin overlying the distal interphalangeal joint of the same toe. Don’t use modifiers 59, \nXE, XP, XS, or XU if you debride a nail on the same toe on which you pare a hyperkeratotic lesion \nof the skin on or distal to the distal interphalangeal joint. You may report modifier 59 or XS with code \n11720 if you debride 1–5 nails and you pare a hyperkeratotic lesion on a toe other than 1 with a \ndebrided toenail or the hyperkeratotic lesion is proximal to the skin overlying the distal interphalangeal \njoint of a toe on which you debride a nail.\nCPT only copyright 2025 American Medical Association. All Rights Reserved."
+        },
+        {
+          "page": 9,
+          "content": "MLN Booklet\nProper Use of Modifiers 59, XE, XP, XS & XU\nMLN1783722 April 2026\nPage 9 of 11\nExample 5: \nColumn 1\nColumn 2\nCPT Code 67210 – Destruction of localized \nlesion of retina (eg, macular edema, tumors), 1 \nor more sessions; photocoagulation\nCPT Code 67220 – Destruction of \nlocalized lesion of choroid (eg, choroidal \nneovascularization); photocoagulation (eg, \nlaser), 1 or more sessions\nDon’t report CPT code 67220 with or without modifiers 59, XE, XP, XS, or XU if you perform both \nprocedures during the same operative session because the retina and choroid are contiguous \nstructures of the same organ.\nExample 6: \nColumn 1\nColumn 2\nCPT Code 29827 – Arthroscopy, shoulder, \nsurgical; with rotator cuff repair\nCPT Code 29820 – Arthroscopy, shoulder, \nsurgical; synovectomy, partial\nDon’t report CPT code 29820 with or without modifiers 59, XE, XP, XS, or XU if you perform both \nprocedures on the same shoulder during the same operative session. If you perform the procedures \non different shoulders, use modifiers RT and LT, not modifiers 59, XE, XP, XS, or XU.\nExample 7: \nColumn 1\nColumn 2\nCPT Code 93015 – Cardiovascular stress \ntest using maximal or submaximal treadmill or \nbicycle exercise, continuous electrocardiographic \nmonitoring, and/or pharmacological stress; with \nsupervision, interpretation and report\nCPT Code 93040 – Rhythm ECG, 1-3 leads; with \ninterpretation and report\nYou may report modifier 59 or XE if you interpret and report the rhythm electrocardiogram (ECG) at \na different encounter than the cardiovascular stress test. If you interpret and report a rhythm ECG \nduring the cardiovascular stress test encounter, don’t report 93040 with or without modifier 59. You \nmay report modifier 59 or XE when you interpret and report the procedures in different encounters on \nthe same day.\nCPT only copyright 2025 American Medical Association. All Rights Reserved."
+        },
+        {
+          "page": 10,
+          "content": "MLN Booklet\nProper Use of Modifiers 59, XE, XP, XS & XU\nMLN1783722 April 2026\nPage 10 of 11\nExample 8: \nColumn 1\nColumn 2\nCPT Code 34833 – Open iliac artery exposure \nwith creation of conduit for delivery of \nendovascular prosthesis or for establishment \nof cardiopulmonary bypass, by abdominal or \nretroperitoneal incision, unilateral (List separately \nin addition to code for primary procedure)\nCPT Code 34820 – Open iliac artery exposure \nfor delivery of endovascular prosthesis or \niliac occlusion during endovascular therapy, \nby abdominal or retroperitoneal incision, \nunilateral (List separately in addition to code \nfor primary procedure)\nThe CPT Professional Codebook instruction for CPT code 34833 states, “(Do not report 34833 in \nconjunction with 33364, 33953, 33954, 33959, 33962, 33969, 33984, 34820 when performed on the \nsame side).” Although the CPT code descriptors for 34833 and 34820 describe different procedures, \ndon’t report them together for the same side. Don’t add modifiers 59, XE, XP, XS, or XU to either code \nto report 2 procedures for the same side of the body. If you performed 2 procedures on different sides \nof the body, you may report them with modifiers LT and RT as appropriate. However, modifiers 59, \nXE, XP, XS, or XU are inappropriate if the basis for their use is that the narrative description of the 2 \ncodes is different.\nExample 9: \nColumn 1\nColumn 2\nCPT Code 97140 – Manual therapy techniques \n(eg, mobilization/manipulation, manual lymphatic \ndrainage, manual traction), 1 or more regions, \neach 15 minutes\nCPT Code 97750 – Physical performance test or \nmeasurement (eg, musculoskeletal, functional \ncapacity), with written report, each 15 minutes\nYou may report modifier 59 if you perform 2 procedures in distinctly different 15-minute time blocks. \nFor example, you may report modifier 59 if you perform 1 service during the initial 15 minutes of \ntherapy and you perform the other service during the second 15 minutes of therapy. As another \nexample, you may report modifier 59 if you split the therapy time blocks by performing manual \ntherapy for 10 minutes, followed by 15 minutes of physical performance test, followed by another 5 \nminutes of manual therapy. Don’t report CPT code 97750 with modifier 59 if you perform 2 procedures \nduring the same time block. You may report modifier 59 when you perform 2 timed procedures in 2 \ndifferent blocks of time on the same day.\nCPT only copyright 2025 American Medical Association. All Rights Reserved."
+        },
+        {
+          "page": 11,
+          "content": "MLN Booklet\nProper Use of Modifiers 59, XE, XP, XS & XU\nMLN1783722 April 2026\nPage 11 of 11\nResources\n●\nMedicare Benefit Policy Manual, Chapter 13, section 40.3\n●\nMedicare Claims Processing Manual, Chapter 23, section 20.9\nView the Medicare Learning Network® Content Disclaimer and Department of Health & Human Services Disclosure.\nThe Medicare Learning Network®, MLN Connects®, and MLN Matters® are registered trademarks of the U.S. Department \nof Health & Human Services (HHS).\nCPT only copyright 2025 American Medical Association. All Rights Reserved."
+        }
+      ],
+      "tables": [
+        {
+          "page": 7,
+          "columns": [
+            "Column 1",
+            "Column 2"
+          ],
+          "rows": [
+            {
+              "Column 1": "CPT Code 11102 - Tangential biopsy of skin (eg, shave, scoop, saucerize, curette); single lesion",
+              "Column 2": "CPT Code 17000 - Destruction (eg, laser surgery, electrosurgery, cryosurgery, chemosurgery, surgical curettement), premalignant lesions (eg, actinic keratoses); first lesion"
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "columns": [
+            "Column 1",
+            "Column 2"
+          ],
+          "rows": [
+            {
+              "Column 1": "CPT Code 47370 - Laparoscopy, surgical, ablation of 1 or more liver tumor(s); radiofrequency",
+              "Column 2": "CPT Code 76942 - Ultrasonic guidance for needle placement (eg, biopsy, aspiration, injection, localization device), imaging supervision and interpretation"
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "columns": [
+            "Column 1",
+            "Column 2"
+          ],
+          "rows": [
+            {
+              "Column 1": "CPT Code 93453 - Combined right and left heart catheterization including intraprocedural injection(s) for left ventriculography, imaging supervision and interpretation, when performed",
+              "Column 2": "CPT Code 76000 - Fluoroscopy (separate procedure), up to 1 hour physician or other qualified health care professional time"
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "columns": [
+            "Column 1",
+            "Column 2"
+          ],
+          "rows": [
+            {
+              "Column 1": "CPT Code 11055 - Paring or cutting of benign hyperkeratotic lesion (eg, corn or callus); single lesion",
+              "Column 2": "CPT Code 11720 - Debridement of nail(s) by any method(s); 1 to 5"
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "columns": [
+            "Column 1",
+            "Column 2"
+          ],
+          "rows": [
+            {
+              "Column 1": "CPT Code 67210 - Destruction of localized lesion of retina (eg, macular edema, tumors), 1 or more sessions; photocoagulation",
+              "Column 2": "CPT Code 67220 - Destruction of localized lesion of choroid (eg, choroidal neovascularization); photocoagulation (eg, laser), 1 or more sessions"
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "columns": [
+            "Column 1",
+            "Column 2"
+          ],
+          "rows": [
+            {
+              "Column 1": "CPT Code 29827 - Arthroscopy, shoulder, surgical; with rotator cuff repair",
+              "Column 2": "CPT Code 29820 - Arthroscopy, shoulder, surgical; synovectomy, partial"
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "columns": [
+            "Column 1",
+            "Column 2"
+          ],
+          "rows": [
+            {
+              "Column 1": "CPT Code 93015 - Cardiovascular stress test using maximal or submaximal treadmill or bicycle exercise, continuous electrocardiographic monitoring, and/or pharmacological stress; with supervision, interpretation and report",
+              "Column 2": "CPT Code 93040 - Rhythm ECG, 1-3 leads; with interpretation and report"
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "columns": [
+            "Column 1",
+            "Column 2"
+          ],
+          "rows": [
+            {
+              "Column 1": "CPT Code 34833 - Open iliac artery exposure with creation of conduit for delivery of endovascular prosthesis or for establishment of cardiopulmonary bypass, by abdominal or retroperitoneal incision, unilateral (List separately in addition to code for primary procedure)",
+              "Column 2": "CPT Code 34820 - Open iliac artery exposure for delivery of endovascular prosthesis or iliac occlusion during endovascular therapy, by abdominal or retroperitoneal incision, unilateral (List separately in addition to code for primary procedure)"
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "columns": [
+            "Column 1",
+            "Column 2"
+          ],
+          "rows": [
+            {
+              "Column 1": "CPT Code 97140 - Manual therapy techniques (eg, mobilization/manipulation, manual lymphatic drainage, manual traction), 1 or more regions, each 15 minutes",
+              "Column 2": "CPT Code 97750 - Physical performance test or measurement (eg, musculoskeletal, functional capacity), with written report, each 15 minutes"
+            }
+          ]
+        }
+      ],
+      "CPT_CODES_USED": [
+        "11168",
+        "11102",
+        "17000",
+        "47370",
+        "76942",
+        "93453",
+        "76000",
+        "11055",
+        "11720",
+        "67210",
+        "67220",
+        "29827",
+        "29820",
+        "93015",
+        "93040",
+        "34833",
+        "34820",
+        "33364",
+        "33953",
+        "33954",
+        "33959",
+        "33962",
+        "33969",
+        "33984",
+        "97140",
+        "97750"
+      ],
+      "ICD_CODES_USED": []
+    }
+  ],
+  "Line_of_Business": "Commercial",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "29805",
+    "29828",
+    "29823",
+    "29824",
+    "29827",
+    "28285",
+    "28296",
+    "23700",
+    "12001",
+    "13153"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "59",
+    "XE",
+    "XP",
+    "XS",
+    "XU",
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "LC",
+    "LD",
+    "LM",
+    "LT",
+    "RC",
+    "RI",
+    "RT",
+    "TA",
+    "T1",
+    "T2",
+    "T3",
+    "T4",
+    "T5",
+    "T6",
+    "91"
+  ]
+}

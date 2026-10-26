@@ -1,0 +1,119 @@
+{
+  "policy_title": "Chiropractic Services",
+  "policy_number": "ABHIL-RP-0029",
+  "effective_date": "06/01/2026",
+  "expiry_date": "03/15/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "98940",
+    "98941",
+    "98942",
+    "98943"
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for chiropractic services when appropriately reported. Appropriate \nreporting includes \n• \nReporting a maximum of 1 unit per date of service for any provider for applicable \nchiropractic CPT codes \n \nClaims that are submitted will be denied when \n• \nMore than the maximum units are reported per date of service for any provider for \napplicable chiropractic CPT codes \n• \nReporting non- covered chiropractic services \n \nThe medical record documentation is expected to support the specific CPT code(s) and ICD-10-\nCM codes reported.",
+    "subsections": [
+      {
+        "title": "Reporting a maximum of 1 unit per date of service for any provider for applicable",
+        "content": "chiropractic CPT codes Claims that are submitted will be denied when"
+      },
+      {
+        "title": "More than the maximum units are reported per date of service for any provider for",
+        "content": "applicable chiropractic CPT codes"
+      },
+      {
+        "title": "Reporting non- covered chiropractic services",
+        "content": "The medical record documentation is expected to support the specific CPT code(s) and ICD-10- CM codes reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Illinois Department\nof Health Care and\nFamily Services\n(HFS)",
+            "value": "The Department of Healthcare and Family Services\nadministers health insurance programs for children, pregnant\nwomen, and adults who are residents of Illinois."
+          },
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for chiropractic services when appropriately reported. Appropriate\nreporting includes\n• Reporting a maximum of 1 unit per date of service for any provider for applicable\nchiropractic CPT codes\nClaims that are submitted will be denied when\n• More than the maximum units are reported per date of service for any provider for\napplicable chiropractic CPT codes\n• Reporting non- covered chiropractic services\nThe medical record documentation is expected to support the specific CPT code(s) and ICD-10-\nCM codes reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "Applicable Chiropractic CPT Codes\n98940 Chiropractic manipulative treatment (CMT); spinal, 1-2 regions\n98941 Chiropractic manipulative treatment (CMT); spinal, 3-4 regions\n98942 Chiropractic manipulative treatment (CMT); spinal, 5 regions\nNon- Covered Chiropractic CPT Code\n98943 Chiropractic manipulative treatment (CMT); extraspinal, 1 or more regions",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "98940",
+            "value": "Chiropractic manipulative treatment (CMT); spinal, 1-2 regions"
+          },
+          {
+            "key": "98941",
+            "value": "Chiropractic manipulative treatment (CMT); spinal, 3-4 regions"
+          },
+          {
+            "key": "98942",
+            "value": "Chiropractic manipulative treatment (CMT); spinal, 5 regions"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "98943",
+            "value": "Chiropractic manipulative treatment (CMT); extraspinal, 1 or more regions"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "F. Frequently Asked Questions",
+            "value": ""
+          },
+          {
+            "key": "N/A",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. CPT Professional Edition 2026, AMA; 2025. \n2. Illinois Department of Healthcare and Family Services. (2021, November 5). Chiropractic fee \nschedule effective December 1, 2021. \nhttps://hfs.illinois.gov/content/dam/soi/en/web/hfs/medicalproviders/medicaidreimburse\nment/chriropractor/11052021chiropracticfeeschedulefor120112021final.pdf"
+}

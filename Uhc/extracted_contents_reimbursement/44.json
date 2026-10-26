@@ -1,0 +1,257 @@
+{
+  "policy_title": "Durable Medical Equipment, Orthotics and Prosthetics Policy",
+  "policy_number": "2026R9012A",
+  "policy_dates": {
+    "effective_date": "5/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for services reported using the 1500 Health Insurance Claim Form (a/k/a CMS 1500) or its electronic equivalent or its successor form. This policy applies to all network physicians and other qualified health care professionals."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "mixed",
+          "content": [
+            "This policy describes how UnitedHealthcare Medicare Advantage reimburses for the rental and/or purchase of certain items of Durable Medical Equipment (DME), Orthotics and Prosthetics Policy (DMEOP). The provisions of this policy apply to the Same Specialty Physicians and Other Qualified Health Care Professionals, which includes DME, Prosthetic and Orthotic vendors, renting or selling DME, Prosthetics or Orthotics.",
+            "Durable Medical Equipment, Prosthetics/Orthotics & Supplies DMEPOS are categorized into one of the following payment classes: - Inexpensive or other routinely purchased DME; - Items requiring frequent and substantial servicing; - Certain customized items; - Other Prosthetic and Orthotic Devices; - Capped rental items; or - Oxygen and oxygen equipment.",
+            {
+              "key": "IN",
+              "value": "Inexpensive and Other Routinely Purchased Item"
+            },
+            {
+              "key": "FS",
+              "value": "Frequently Serviced Items"
+            },
+            {
+              "key": "CR",
+              "value": "Capped Rental Items"
+            },
+            {
+              "key": "OX",
+              "value": "Oxygen and Oxygen Equipment"
+            },
+            {
+              "key": "OS",
+              "value": "Ostomy, Tracheostomy & Urological Items"
+            },
+            {
+              "key": "SD",
+              "value": "Surgical Dressings"
+            },
+            {
+              "key": "PO",
+              "value": "Prosthetics & Orthotics"
+            },
+            {
+              "key": "SU",
+              "value": "Supplies"
+            },
+            {
+              "key": "TE",
+              "value": "Transcutaneous Electrical Nerve Stimulators"
+            },
+            "CMS determines the category that applies to each HCPCS code and issues instructions when changes are appropriate. Please refer to the Medicare Claims Processing Manual to determine payment rules."
+          ]
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "Rental and Purchase Modifiers Some DME items are eligible for rental as well as for purchase. Claims must specify whether equipment is rented or purchased. For purchased equipment, the itemized bill or claim must also indicate whether equipment is new or used. The codes must be reported with the appropriate rental or purchase modifier in order to be considered for reimbursement. Some DME items are eligible for rental only. The codes representing these items must be reported with the appropriate rental modifier in order to be considered for reimbursement. Total reimbursement of fees reported for a single code (modified with RR and/or NU) from a single vendor is limited to either the purchase price of the item or a maximum number of rental months, whichever is less. These rental limits do not apply to oxygen equipment or to ventilators. Rental guidelines are explained further in the sections titled Monthly Rental and Daily Rental. Rental Modifiers The following modifiers indicate that an item has been rented: - RR - KH - KI - KJ - KR Purchase Modifiers The following modifiers indicate that an item has been purchased: - NU - UE - NR - KM - KN Monthly Rental Monthly capped rental of DME, Orthotics, or Prosthetics identified by the applicable code with a rental modifier RR and/or modifiers KH, KI, KJ, KR appended will be reimbursed once per Calendar Month to the Same Specialty Physician or Other Qualified Health Care Professional. For these items of DME, A/B MACs (HHH) and DME MACs will pay the fee schedule amounts on a monthly rental basis not to exceed the cap rental period in the provider's contract after which the ownership of the equipment passes to the beneficiary. On the first day after the cap rental period has been reached, the supplier must transfer title to the equipment to the beneficiary. Modifiers RT and LT - An additional rental rate will be allowed in the same Calendar Month for codes with a rental modifier when both modifiers RT and LT are submitted for the same HCPCS code on separate lines. Modifiers RT and LT may be used to report an item for the right or left side of the body. Use of these modifiers may convey that multiples of that item are being utilized. If a code is submitted with modifier RR and/or modifiers KH, KI, KJ, KR with units greater than 1, or multiple times during the same Calendar Month, UnitedHealthcare Medicare Advantage will only reimburse one monthly rate per Calendar Month to the Same Specialty Physician or Other Qualified Health Care Professional. Monthly rental of DME, Orthotics, or Prosthetics should be reported on a 1500 Health Insurance Claim Form (a/k/a CMS-1500) or its electronic equivalent or its successor form according to the National Uniform Billing Committee (NUBC) and the National Uniform Claim Committee (NUCC) guidelines. Second Ventilator It may be necessary for a patient to rent two ventilators in the same month. Examples of situations where a second ventilator may be necessary include: o A patient requires one type of ventilator (e.g., a negative pressure ventilator with a chest shell) for part of the day and needs a different type of ventilator (e.g., a positive pressure ventilator with a nasal mask) during the rest of the day. o A patient who is confined to a wheelchair requires a ventilator mounted on the wheelchair for use during the day and needs another ventilator of the same type for use while in bed. Without both pieces of equipment, the patient may be prone to certain medical complications, may not be able to achieve certain appropriate medical outcomes, or may not be able to use the medical equipment effectively. One additional rental rate will be allowed in the same Calendar Month for a second ventilator reported with a rental modifier plus modifier KX appended to HCPCS code E0465 or E0466. Daily Rental UnitedHealthcare Medicare Advantage will allow a daily rental for the following items to the Same Specialty Physician or Other Qualified Health Care Professional. HCPCS codes E0935 is reimbursed on a daily basis consistent with CMS guidelines. Repairs, Replacement and Maintenance Payment may be made for repair, maintenance, and replacement of medically required DME, including equipment which had been in use before the user enrolled in Part B of the program. In addition, payments for repair and maintenance may not include payment for parts and labor covered under a manufacturer's or supplier's warranty. Repairs: To repair means to fix or mend and to put the equipment back in good condition after damage or wear. Repairs to equipment which a beneficiary owns are covered when necessary to make the equipment serviceable. Repairs are not applicable to equipment that has been previously denied or equipment in the frequent and substantial servicing payment category. The RB modifier is used for replacement parts furnished in order to repair beneficiary owned DMEPOS. Replacement: Replacement refers to the provision of an identical or nearly identical item. Equipment which the beneficiary owns or is a capped rental item may be replaced in cases of loss or irreparable damage. Irreparable damage refers to a specific accident or to a natural disaster (e.g., fire, flood). Irreparable wear refers to deterioration sustained from day-to-day usage over time and a specific event cannot be identified. Replacement of equipment due to irreparable wear takes into consideration the reasonable useful lifetime of the equipment. The RA modifier is described as replacement of a DME item, due to loss, irreparable damage, or when the item has been stolen. Maintenance: UnitedHealthcare Medicare Advantage allows for reimbursement of maintenance and service once every six months to the Same Specialty Physician or Other Qualified Health Care Professional. The appropriate HCPCS code appended with modifier MS (maintenance/service fee) is required to identify such services. The Maintenance and Service modifier (MS) must be reported on a separate line in order to be considered for separate reimbursement from the rental or purchase of the equipment. Maintenance and Service includes the following: - regular routine maintenance and performance checks as required to maintain the warranty or performance standards - re-education - compliance with alerts and recalls - necessary supplies in accordance with the applicable agreement - back-up equipment - emergency availability and replacement equipment when out-of-service for repair. For the purposes of this policy, maintenance and servicing does not apply to Orthotics or Prosthetics. Place of Service DME Suppliers Consistent with CMS guidelines, reimbursement of certain DME items is limited to a place of service (POS) that qualifies as the member's home. The following POS codes would qualify as the member's home: 01, 04, 09, 12, 13, 14, 16, 33, 54, 55, 56, and 65 DME suppliers should report the POS code where the device is intended to be used. DME dispensed for use in a POS other than the patient's home are not reimbursable. Devices not intended for home use There are specific DME items such as implantable devices that are not suitable for dispensing or using in the home setting and are therefore not reimbursed with a home POS. Purchased Durable Medical Equipment (DME), Orthotics and Prosthetics reported with a Facility Place of Service CMS follows a Prospective Payment System (PPS) where Medicare payment is based on a predetermined, fixed amount payable to a facility for inpatient or outpatient hospital services. In addition, CMS reimburses ambulatory surgery centers under an Ambulatory Payment Classification (APC) payment methodology. With these fixed rates all costs associated with drugs and supplies are also deemed included in the global payment to the facility and not considered separately reimbursable when reported on a CMS-1500 claim form by a physician or other qualified health care professional. Consistent with CMS Guidelines, UnitedHealthcare Medicare Advantage will not allow separate reimbursement for the purchase of certain DME, Orthotics, and Prosthetics when reported by a physician or health care professional on a CMS- 1500 claim form in POS 19, 21, 22, 23 or 24 and the services are reported with no modifier or with one of the following purchase modifiers: - NU - UE - NR - KM - KN",
+          "subsections": [
+            {
+              "title": "Rental and Purchase Modifiers",
+              "content": "Some DME items are eligible for rental as well as for purchase. Claims must specify whether equipment is rented or purchased. For purchased equipment, the itemized bill or claim must also indicate whether equipment is new or used. The codes must be reported with the appropriate rental or purchase modifier in order to be considered for reimbursement. Some DME items are eligible for rental only.  The codes representing these items must be reported with the appropriate rental modifier in order to be considered for reimbursement. Total reimbursement of fees reported for a single code (modified with RR and/or NU) from a single vendor is limited to either the purchase price of the item or a maximum number of rental months, whichever is less.  These rental limits do not apply to oxygen equipment or to ventilators."
+            },
+            {
+              "title": "Rental guidelines are explained further in the sections titled Monthly Rental and Daily Rental.",
+              "content": "Rental Modifiers The following modifiers indicate that an item has been rented: ▪ RR ▪ KH ▪ KI ▪ KJ ▪ KR Purchase Modifiers The following modifiers indicate that an item has been purchased: ▪ NU ▪ UE ▪ NR ▪ KM ▪ KN"
+            },
+            {
+              "title": "Monthly Rental",
+              "content": "Monthly capped rental of DME, Orthotics, or Prosthetics identified by the applicable code with a rental modifier RR and/or modifiers KH, KI, KJ, KR appended will be reimbursed once per Calendar Month to the Same Specialty Physician or Other Qualified Health Care Professional. For these items of DME, A/B MACs (HHH) and DME MACs will pay the fee schedule amounts on a monthly rental basis not to exceed the cap rental period in the provider’s contract after which the ownership of the equipment passes to the beneficiary. On the first day after the cap rental period has been reached, the supplier must transfer title to the equipment to the beneficiary. Modifiers RT and LT ▪ An additional rental rate will be allowed in the same Calendar Month for codes with a rental modifier when both modifiers RT and LT are submitted for the same HCPCS code on separate lines. Modifiers RT and LT may be used to report an item for the right or left side of the body.  Use of these modifiers may convey that multiples of"
+            },
+            {
+              "title": "that item are being utilized.",
+              "content": "If a code is submitted with modifier RR and/or modifiers KH, KI, KJ, KR with units greater than 1, or multiple times during the same Calendar Month, UnitedHealthcare Medicare Advantage will only reimburse one monthly rate per Calendar Month to the Same Specialty Physician or Other Qualified Health Care Professional. Monthly rental of DME, Orthotics, or Prosthetics should be reported on a 1500 Health Insurance Claim Form (a/k/a CMS-1500) or its electronic equivalent or its successor form according to the National Uniform Billing Committee (NUBC) and the National Uniform Claim Committee (NUCC) guidelines. Second Ventilator It may be necessary for a patient to rent two ventilators in the same month.  Examples of situations where a second ventilator may be necessary include: o A patient requires one type of ventilator (e.g., a negative pressure ventilator with a chest shell) for part of the day and needs a different type of ventilator (e.g., a positive pressure ventilator with a nasal mask) during the rest of the day. o A patient who is confined to a wheelchair requires a ventilator mounted on the wheelchair for use during the day and needs another ventilator of the same type for use while in bed.  Without both pieces of equipment, the patient may be prone to certain medical complications, may not be able to achieve certain appropriate medical outcomes, or may not be able to use the medical equipment effectively. One additional rental rate will be allowed in the same Calendar Month for a second ventilator reported with a rental modifier plus modifier KX appended to HCPCS code E0465 or E0466."
+            },
+            {
+              "title": "Daily Rental",
+              "content": "UnitedHealthcare Medicare Advantage will allow a daily rental for the following items to the Same Specialty Physician or Other Qualified Health Care Professional."
+            },
+            {
+              "title": "HCPCS codes E0935 is reimbursed on a daily basis consistent with CMS guidelines."
+            },
+            {
+              "title": "Repairs, Replacement and Maintenance",
+              "content": "Payment may be made for repair, maintenance, and replacement of medically required DME, including equipment which had been in use before the user enrolled in Part B of the program. In addition, payments for repair and maintenance may not include payment for parts and labor covered under a manufacturer's or supplier's warranty. Repairs: To repair means to fix or mend and to put the equipment back in good condition after damage or wear. Repairs to equipment which a beneficiary owns are covered when necessary to make the equipment serviceable. Repairs are not applicable to equipment that has been previously denied or equipment in the frequent and substantial servicing payment category. The RB modifier is used for replacement parts furnished in order to repair beneficiary owned DMEPOS. Replacement: Replacement refers to the provision of an identical or nearly identical item. Equipment which the beneficiary owns or is a capped rental item may be replaced in cases of loss or irreparable damage. Irreparable damage refers to a specific accident or to a natural disaster (e.g., fire, flood).  Irreparable wear refers to deterioration sustained from day-to-day usage over time and a specific event cannot be identified. Replacement of equipment due to irreparable wear takes into consideration the reasonable useful lifetime of the equipment. The RA modifier is described as replacement of a DME item, due to loss, irreparable damage, or when the item has been stolen. Maintenance: UnitedHealthcare Medicare Advantage allows for reimbursement of maintenance and service once every six months to the Same Specialty Physician or Other Qualified Health Care Professional.  The appropriate HCPCS code appended with modifier MS (maintenance/service fee) is required to identify such services. The Maintenance and Service modifier (MS) must be reported on a separate line in order to be considered for separate reimbursement from the rental or purchase of the equipment. Maintenance and Service includes the following: ▪ regular routine maintenance and performance checks as required to maintain the warranty or performance standards ▪ re-education ▪ compliance with alerts and recalls ▪ necessary supplies in accordance with the applicable agreement ▪ back-up equipment ▪ emergency availability and replacement equipment when out-of-service for repair. For the purposes of this policy, maintenance and servicing does not apply to Orthotics or Prosthetics."
+            },
+            {
+              "title": "Place of Service"
+            },
+            {
+              "title": "DME Suppliers",
+              "content": "Consistent with CMS guidelines, reimbursement of certain DME items is limited to a place of service (POS) that qualifies as the member’s home.  The following POS codes would qualify as the member’s home: 01, 04, 09, 12, 13, 14, 16, 33, 54, 55, 56, and 65 DME suppliers should report the POS code where the device is intended to be used. DME dispensed for use in a POS other than the patient’s home are not reimbursable."
+            },
+            {
+              "title": "Devices not intended for home use",
+              "content": "There are specific DME items such as implantable devices that are not suitable for dispensing or using in the home setting and are therefore not reimbursed with a home POS. Purchased Durable Medical Equipment (DME), Orthotics and Prosthetics reported with a Facility Place of"
+            },
+            {
+              "title": "Service",
+              "content": "CMS follows a Prospective Payment System (PPS) where Medicare payment is based on a predetermined, fixed amount payable to a facility for inpatient or outpatient hospital services.  In addition, CMS reimburses ambulatory surgery centers under an Ambulatory Payment Classification (APC) payment methodology.  With these fixed rates all costs associated with drugs and supplies are also deemed included in the global payment to the facility and not considered separately reimbursable when reported on a CMS-1500 claim form by a physician or other qualified health care professional. Consistent with CMS Guidelines, UnitedHealthcare Medicare Advantage will not allow separate reimbursement for  the purchase of certain DME, Orthotics, and Prosthetics when reported by a physician or health care professional on a CMS- 1500 claim form in POS 19, 21, 22, 23 or 24 and the services are reported with no modifier or with one of the following purchase modifiers: • NU • UE • NR • KM • KN"
+            }
+          ],
+          "children": [
+            {
+              "title": "Definitions",
+              "level": 3,
+              "confirmed": true,
+              "page": 5,
+              "matched_via": "blue",
+              "type": "mixed",
+              "content": [
+                {
+                  "key": "Calendar Month",
+                  "value": "The period from a day of one month to the corresponding day of the next month."
+                },
+                {
+                  "key": "Durable Medical Equipment (DME)",
+                  "value": "Medical equipment which: *Can withstand repeated use *Is not disposable *Is used to serve a medical purpose *Is generally not useful to a person in the absence of sickness or injury *Is appropriate for use in the home"
+                },
+                {
+                  "key": "Orthotic",
+                  "value": "An external appliance such as a brace or splint that prevents or assists movement of the spine or limbs. A brace is used for the purpose of supporting a weak or deformed body part of a customer or restricting or eliminating motion in a diseased or injured part of the body."
+                },
+                {
+                  "key": "Prosthetic",
+                  "value": "A device that replaces all or part of an internal body organ or all or part of the function of a permanently inoperative or malfunctioning internal body organ."
+                },
+                {
+                  "key": "Same Specialty Physician or Other Qualified Health Care Professional",
+                  "value": "Physicians and/or other health care professionals of the same group and same specialty reporting the same Federal Tax Identification number."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 6,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Why is a rental month defined as a Calendar Month when months vary as to their number of days?",
+            "A": "The rationale for reimbursing rental once per Calendar Month rather than once per 30-day period is due to the fact that some months are less or greater than 30 days. Billing trends indicate that rentals are reported on a cycle billing method; i.e., item dispensed on 1/9, and rented for 3 continuous months. Resulting bills will be submitted with 1/9 and 2/9 and 3/9 dates of service."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "How should monthly rental of DME items be reported?",
+            "A": "According to the National Uniform Billing Committee (NUBC) and the National Uniform Claim Committee (NUCC), monthly rental of an item should be reported on a single claim line with one unit and a single Calendar Month date span-that is, for one month, enter the rental initiation date in the From field and the end date of that month's rental in the To field. Rental charges for multiple months should not be reported on the same line. If two claims are submitted that show From dates in the same month for the same item from the Same Specialty Physician or Other Qualified Health Care Professional, only one claim will be allowed and the second claim for the same month will not be covered. See the policy section titled Monthly Rental for an example of how to report more than one month's rental for the same item. Note that each line in the example has a From date in a different month."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "Why does UnitedHealthcare Medicare Advantage pay a full Calendar Month rental rate when modifier KR is used, which indicates the item is only rented for a partial Calendar Month?",
+            "A": "Regardless of whether the item is used for a full Calendar Month or only a few days within a Calendar Month, UnitedHealthcare Medicare Advantage allows reimbursement only once per Calendar Month to the Same Specialty Physician or Other Qualified Health Care Professional. UnitedHealthcare Medicare Advantage pays a single monthly rate and does not prorate the services to allow a daily rate. The exceptions to the above are the items listed in the section titled Daily Rental."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 6,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "www.cms.gov CGS Medicare, Supplier Manual: Chapter 5 - DMEPOS Fee Schedule CMS DMEPOS Fee Schedule Medicare Benefit Policy Manual Chapter 15 - Covered Medical and Other Health Services: Sections110, 110.2 Medicare Claims Processing Manual - Chapter 20 - Durable Medical Equipment, Prosthetics, Orthotics and Supplies (DMEPOS) Sections 20.4, 130 Medicare Coverage Database"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 7,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "5/1/2026",
+          "value": "Policy Version Change Resource section: Updated Anniversary Review"
+        },
+        {
+          "key": "6/1/2025",
+          "value": "Policy Version Change Application Section: Updated History section: Entries prior to 6/1/2023 archived"
+        },
+        {
+          "key": "8/1/2017",
+          "value": "Policy Implemented by UnitedHealthcare Medicare Advantage"
+        },
+        {
+          "key": "5/10/2017",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Professional",
+  "CPT_CODES_USED": [
+    "E0465",
+    "E0466",
+    "E0935"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": [
+    "RR",
+    "KH",
+    "KI",
+    "KJ",
+    "KR",
+    "RT",
+    "LT",
+    "KX",
+    "RB",
+    "RA",
+    "MS",
+    "19",
+    "21",
+    "22",
+    "23",
+    "24"
+  ]
+}

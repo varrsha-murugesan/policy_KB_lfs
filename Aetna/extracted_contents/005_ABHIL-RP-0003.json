@@ -1,0 +1,88 @@
+{
+  "policy_title": "Diagnosis Code Guidelines",
+  "policy_number": "ABHIL-RP-0003",
+  "effective_date": "11/01/2023",
+  "expiry_date": "03/01/2027",
+  "Line_of_Business": "Illinois Medicaid",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "ABH IL will only reimburse for services and/ or procedures when submitted with ICD-10-CM \ndiagnosis codes that are appropriately reported. Appropriate reporting includes \n• \nDiagnosis codes reported are coded to the highest level of specificity and considered \nvalid on the date of service reported \n \nClaims that are submitted will be denied when \n• \nDiagnosis codes are not reported to the highest level of specificity or are not valid on the \ndate of service \n• \nProcedures or treatments that are not carried out due to the patient’s decision to not \nmove forward are correctly reported using the applicable ICD-10-CM code \n \nThe medical record documentation is expected to support the specific CPT, HCPCS, ICD-10-CM \ncodes and any applicable modifiers reported.",
+    "subsections": [
+      {
+        "title": "Diagnosis codes reported are coded to the highest level of specificity and considered",
+        "content": "valid on the date of service reported Claims that are submitted will be denied when"
+      },
+      {
+        "title": "Diagnosis codes are not reported to the highest level of specificity or are not valid on the",
+        "content": "date of service"
+      },
+      {
+        "title": "Procedures or treatments that are not carried out due to the patient’s decision to not",
+        "content": "move forward are correctly reported using the applicable ICD-10-CM code The medical record documentation is expected to support the specific CPT, HCPCS, ICD-10-CM codes and any applicable modifiers reported."
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "International\nStatistical\nClassification of\nDiseases (ICD-10-\nCM)",
+            "value": "The 10th revision of the (ICD), a medical classification list by the\nWorld Health Organization (WHO). It contains codes for diseases,\nsigns and symptoms, abnormal findings, complaints, social\ncircumstances, and external causes of injury or diseases."
+          },
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "D. Reimbursement Guidelines",
+            "value": ""
+          },
+          {
+            "key": "ABH IL will only reimburse for services and/ or procedures when submitted with ICD-10-CM\ndiagnosis codes that are appropriately reported. Appropriate reporting includes\n• Diagnosis codes reported are coded to the highest level of specificity and considered\nvalid on the date of service reported\nClaims that are submitted will be denied when\n• Diagnosis codes are not reported to the highest level of specificity or are not valid on the\ndate of service\n• Procedures or treatments that are not carried out due to the patient’s decision to not\nmove forward are correctly reported using the applicable ICD-10-CM code\nThe medical record documentation is expected to support the specific CPT, HCPCS, ICD-10-CM\ncodes and any applicable modifiers reported.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "E. Codes/Condition of Coverage",
+            "value": ""
+          },
+          {
+            "key": "Applicable Health Services for Specific Procedures and Treatments ICD-10-CM codes\nZ53.1 Procedure and treatment not carried out because of patient's decision for\nreasons of belief and group pressure\nZ53.2X Procedure and treatment not carried out because of patient’s decision for\nother and unspecified reasons",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Z53.1",
+            "value": "Procedure and treatment not carried out because of patient's decision for\nreasons of belief and group pressure"
+          },
+          {
+            "key": "Z53.2X",
+            "value": "Procedure and treatment not carried out because of patient’s decision for\nother and unspecified reasons"
+          }
+        ]
+      }
+    ]
+  },
+  "Question_Answer_Rules": null,
+  "linked_pdf_contents": null,
+  "resources": "1. American Medical Association. ICD-10-CM 2026 the Complete Official Codebook, AMA; 2025."
+}

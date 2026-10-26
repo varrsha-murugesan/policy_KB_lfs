@@ -1,0 +1,223 @@
+{
+  "policy_title": "Allergen Testing Policy",
+  "policy_number": "2026R8222A",
+  "policy_dates": {
+    "effective_date": "9/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy describes the reimbursement methodology for allergen testing."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "mixed",
+          "content": [
+            "In Vitro Serum IgE",
+            "UnitedHealthcare will not consider reimbursement for the following in vitro serum IgE testing procedure code(s) for individuals 20 years of age or older when billed for any condition other than those listed below.",
+            "Procedure Code(s)",
+            "82785",
+            "Condition(s)",
+            "a. For individuals with moderate to severe asthma. b. For individuals with signs or symptoms of allergic bronchopulmonary aspergillosis.",
+            "Allergy Testing Limitation",
+            "UnitedHealthcare will consider reimbursement for the following specific IgE in vitro allergy testing procedure codes for up to twenty allergen specific antibodies per year for individuals 20 years of age or older.",
+            "Procedure Code(s)",
+            "86003 86008",
+            "Antigen Leukocyte Antibody (ALCAT)",
+            "UnitedHealthcare will not consider reimbursement of the following antigen leukocyte antibody testing (ALCAT) procedure code(s)",
+            "Procedure Code(s)",
+            "83516",
+            "Immunoglobulins",
+            "UnitedHealthcare will not consider reimbursement of the following procedure codes for basophil activation flow cytometry testing and in-vitro testing of IgG, IgA, IgM, and/or IgD when billed for signs or symptoms of allergies.",
+            "Procedure Code(s)",
+            {
+              "key": "82787",
+              "value": "86001 88184 88185"
+            },
+            "82784",
+            "Bead-Based Epitope Assays",
+            "UnitedHealthcare will not consider reimbursement of the following procedure codes for in vitro allergen testing using bead-based epitope assays.",
+            "Procedure Code(s)",
+            "0165U 0178U",
+            "Multi-Allergen Screening",
+            "UnitedHealthcare will not consider reimbursement for the following qualitative specific IgE multi-allergen screen procedure code(s) that do not identify a specific allergen.",
+            "Procedure Code(s)",
+            "86005"
+          ],
+          "subsections": [
+            {
+              "title": "In Vitro Serum IgE",
+              "content": "UnitedHealthcare will not consider reimbursement for the following in vitro serum IgE testing procedure code(s) for individuals 20 years of age or older when billed for any condition other than those listed below.",
+              "procedure_codes": [
+                "82785"
+              ],
+              "conditions": [
+                "a. For individuals with moderate to severe asthma.",
+                "b. For individuals with signs or symptoms of allergic bronchopulmonary aspergillosis."
+              ]
+            },
+            {
+              "title": "Allergy Testing Limitation",
+              "content": "UnitedHealthcare will consider reimbursement for the following specific IgE in vitro allergy testing procedure codes for up to twenty allergen specific antibodies per year for individuals 20 years of age or older.",
+              "procedure_codes": [
+                "86003",
+                "86008"
+              ]
+            },
+            {
+              "title": "Antigen Leukocyte Antibody (ALCAT)",
+              "content": "UnitedHealthcare will not consider reimbursement of the following antigen leukocyte antibody testing (ALCAT) procedure code(s)",
+              "procedure_codes": [
+                "83516"
+              ]
+            },
+            {
+              "title": "Immunoglobulins",
+              "content": "UnitedHealthcare will not consider reimbursement of the following procedure codes for basophil activation flow cytometry testing and in-vitro testing of IgG, IgA, IgM, and/or IgD when billed for signs or symptoms of allergies.",
+              "procedure_codes": [
+                "82784",
+                "82787",
+                "86001",
+                "88184",
+                "88185"
+              ]
+            },
+            {
+              "title": "Bead-Based Epitope Assays",
+              "content": "UnitedHealthcare will not consider reimbursement of the following procedure codes for in vitro allergen testing using bead-based epitope assays.",
+              "procedure_codes": [
+                "0165U",
+                "0178U"
+              ]
+            },
+            {
+              "title": "Multi-Allergen Screening",
+              "content": "UnitedHealthcare will not consider reimbursement for the following qualitative specific IgE multi-allergen screen procedure code(s) that do not identify a specific allergen.",
+              "procedure_codes": [
+                "86005"
+              ]
+            }
+          ],
+          "children": [
+            {
+              "title": "Definitions",
+              "level": 3,
+              "confirmed": true,
+              "page": 3,
+              "matched_via": "blue",
+              "type": "mixed",
+              "content": [
+                {
+                  "key": "Twenty allergen-specific antibodies per year",
+                  "value": "Twenty units per 365 calendar days from initial date of service."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Is the frequency limitation based on individual provider per member?",
+            "A": "Frequency limitation is applicable regardless of billing and/or rendering provider (any individual provider OR any facility) for each individual member for the same date of service."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "Does the frequency limitation of in vitro specific IgE allergy testing apply to each procedure code individually or do all count toward the same limit?",
+            "A": "The frequency limitation applies to each procedure code individually."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association, Current Procedural Terminology (CPT) and associated publications and services Centers for Medicare and Medicaid Services (CMS) Recovery Audit Contractors (RAC)"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "9/1/2026",
+          "value": "New Policy"
+        },
+        {
+          "key": "6/1/2026",
+          "value": "Policy published"
+        },
+        {
+          "key": "4/28/2026",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "82785",
+    "86003",
+    "86008",
+    "83516",
+    "82784",
+    "82787",
+    "86001",
+    "88184",
+    "88185",
+    "0165U",
+    "0178U",
+    "86005"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

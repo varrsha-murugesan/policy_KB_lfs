@@ -1,0 +1,107 @@
+{
+  "policy_metadata": {
+    "policy_title": "Short Inpatient Hospital Stay",
+    "policy_number": "CP2026011",
+    "published_date": "10/2026",
+    "effective_date": "10/2026",
+    "revision_date": null,
+    "last_reviewed": null,
+    "Line_of_Business": "Oklahoma Medicaid",
+    "Billingclass": "Facility",
+    "source_pdf": "Short_Inpatient_Hospital_Stay_New-94ef2d1f.pdf",
+    "total_pages": 2,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "G2176"
+    ],
+    "cpt_codes": [],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "This policy outlines Humana\u2019s billing requirements and reimbursement for a short inpatient hospital stay ."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Oklahoma Medicaid Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. An inpatient claim billed for a short inpatient hospital stay is subject to review to determine the medical necessity of an inpatient level of care, based on Humana\u2019s Short Inpatient Hospital Stay medical coverage policy, available in the References section of this policy. Humana requires the provider to submit medical records, when requested, for a short inpatient hospital stay. Humana may deny the claim if medical records are not received upon request. If Humana determines that medical necessity for the inpatient level of care was not met, according to Humana\u2019s Short Inpatient Hospital Stay medical coverage policy, Humana denies the inpatient claim. Humana will accept an outpatient claim for the short inpatient hospital stay and will allow the provider to submit all service codes ordinarily appropriate for an outpatient level of care."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "\u2022 Short inpatient hospital stay : A hospital stay of fewer than 48 hours."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "\u2022 Oklahoma Health Care Authority website. Oklahoma\u2019s Medicaid Agency . www.oklahoma.gov. \u2022 Humana website. Humana Healthy Horizons in Oklahoma . Humana.com. \u2022 Humana website. Medical and Pharmacy Coverage Policies . Short Inpatient Hospital Stay. Humana.com."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "\u2022 Availity \u2013 Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. \u2022 Claims processing edit notifications \u2013 Alerts of upcoming claims payment changes are posted on the first Friday of each month. \u2022 Claims resources \u2013 Providers can find information on referrals, authorizations, electronic claim submissions and more. \u2022 Making it easier \u2013 This page contains an educational series for providers and healthcare professionals. \u2022 Medical and pharmacy coverage policies \u2013 Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. \u2022 Publications \u2013 This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana\u2019s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Short inpatient hospital stay": "A hospital stay of fewer than 48 hours."
+  },
+  "references": [
+    "Oklahoma Health Care Authority website. Oklahoma\u2019s Medicaid Agency . www.oklahoma.gov. \u2022 Humana website. Humana Healthy Horizons in Oklahoma . Humana.com. \u2022 Humana website. Medical and Pharmacy Coverage Policies . Short Inpatient Hospital Stay. Humana.com."
+  ],
+  "resources": [
+    "Availity \u2013 Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. \u2022 Claims processing edit notifications \u2013 Alerts of upcoming claims payment changes are posted on the first Friday of each month. \u2022 Claims resources \u2013 Providers can find information on referrals, authorizations, electronic claim submissions and more. \u2022 Making it easier \u2013 This page contains an educational series for providers and healthcare professionals. \u2022 Medical and pharmacy coverage policies \u2013 Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. \u2022 Publications \u2013 This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana\u2019s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 5,
+    "total_tables": 0,
+    "total_characters": 2566
+  },
+  "mapped_cpt_codes": [
+    {
+      "code": "G2176",
+      "code_system": "HCPCS_L2",
+      "description": "Outpatient, ed, or observation visits that result in an inpatient admission",
+      "confidence_tier": "D",
+      "score": 50.0,
+      "mapping_origin": "inferred",
+      "best_method": "descriptor_head"
+    }
+  ]
+}

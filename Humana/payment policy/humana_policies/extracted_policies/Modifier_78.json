@@ -1,0 +1,656 @@
+{
+  "policy_metadata": {
+    "policy_title": "Modifier 78",
+    "policy_number": "CP2013106",
+    "published_date": "12/2015",
+    "effective_date": "12/2015",
+    "revision_date": "01/2025",
+    "last_reviewed": "01/2025",
+    "Line_of_Business": "Medicare Advantage, Kentucky Medicaid and Oklahoma Medicaid Products",
+    "Billingclass": "Professional",
+    "source_pdf": "Modifier_78-22a4e06f.pdf",
+    "total_pages": 3,
+    "related_policies": [
+      "Common CPT and HCPCS Modifiers"
+    ]
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "00100",
+      "00102",
+      "00103",
+      "00104",
+      "00120",
+      "00124",
+      "00126",
+      "00140",
+      "00142",
+      "00144",
+      "00145",
+      "00147",
+      "00148",
+      "00160",
+      "00162",
+      "00170",
+      "00174",
+      "00176",
+      "00190",
+      "00192",
+      "00210",
+      "00212",
+      "00214",
+      "00216",
+      "00218",
+      "11960",
+      "15271",
+      "15272",
+      "15273",
+      "15274",
+      "15275",
+      "15276",
+      "15277",
+      "15278",
+      "27880",
+      "32440",
+      "37799",
+      "38505",
+      "43496",
+      "44320",
+      "54437",
+      "59899",
+      "60240",
+      "64999",
+      "76",
+      "77",
+      "78",
+      "79",
+      "C1753",
+      "C1757",
+      "C2628",
+      "G9643"
+    ],
+    "cpt_codes": [
+      "00100",
+      "00102",
+      "00103",
+      "00104",
+      "00120",
+      "00124",
+      "00126",
+      "00140",
+      "00142",
+      "00144",
+      "00145",
+      "00147",
+      "00148",
+      "00160",
+      "00162",
+      "00170",
+      "00174",
+      "00176",
+      "00190",
+      "00192",
+      "00210",
+      "00212",
+      "00214",
+      "00216",
+      "00218",
+      "11960",
+      "15271",
+      "15272",
+      "15273",
+      "15274",
+      "15275",
+      "15276",
+      "15277",
+      "15278",
+      "27880",
+      "32440",
+      "37799",
+      "38505",
+      "43496",
+      "44320",
+      "54437",
+      "59899",
+      "60240",
+      "64999"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [
+      "76",
+      "77",
+      "78",
+      "79"
+    ],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Overview",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": [
+        "Modifier 78 identifies an unplanned return to the operating or procedure room, by the same physician or other qualified health care professional, following the initial procedure for a related procedure during the postoperative period. This policy outlines Humana\u2019s reimbursement for a service reported with modifier 78."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. This policy applies only to charges for practitioner services for procedure codes identified, in the Medicare Physician Fee Schedule (MPFS) Relative Value file , as having global surgery periods. Humana plans consider a return trip to the operating or procedure room, as indicated by the use of modifier 78 , as surgical only and allow the appropriate rate for the service, which is the practitioner\u2019s contracted rate or base maximum amount payable under the member\u2019s plan , multiplied by the MPFS intraoperative percentage. For a charge for an unlisted code submitted with modifier 78 , Humana plans allow 50 percent of the intraoperative amount of the original surgical procedure that resulted in the return to the operating or procedure room. Multiple surgery and bilateral rules do not apply on return trips to the operating or procedure room. Reimbursement for modifier 78 charges for assistant at surgery services is not subject to multiplication by the intraoperative percentage. It is inappropriate to bill modifiers 76, 77 or 79 with modifier 78 ; therefore, Humana plans deny a charge submitted with modifier 78 and any of those modifiers."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Kentucky Medicaid Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. This policy applies only to charges for practitioner services for procedure codes identified, in the MPFS Relative Value file , as having global surgery periods. Humana allows a return trip to the operating or procedure room, as indicated by the use of modifier 78 , at 70 percent of the practitioner\u2019s contracted rate or base maximum amount payable under the member\u2019s plan for the service. Note: In certain circumstances, additional payment rules may apply. For example, when applicable, claims are subject to the Humana Healthy Horizons in Kentucky out-of-network payment policy. For more information, see the relevant guidance in the References section of this policy."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Oklahoma Medicaid Payment Policy",
+      "level": 1,
+      "page_start": 2,
+      "page_end": 3,
+      "content": [
+        "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. This policy applies only to charges for practitioner services for procedure codes identified, in the MPFS Relative Value file , as having global surgery periods. Humana allows a return trip to the operating or procedure room, as indicated by the use of modifier 78 , at 79 percent of the practitioner\u2019s contracted rate or base maximum amount payable under the member\u2019s plan for the service."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "Definitions of Italicized Terms",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "\u2022 Base maximum amount payable under the member\u2019s plan: The maximum amount of reimbursement for a covered expense, determined by the member\u2019s plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments. \u2022 Medicare Physician Fee Schedule (MPFS) Relative Value file: A file published by the Centers for Medicare & Medicaid Services that includes, among other information, intraoperative percentage, relative value units and conversion factors for physician",
+        "services. This file is commonly referred to as the relative value unit (RVU) table. \u2022 Modifier 76: Repeat procedure or service by same physician or other qualified health care professional. \u2022 Modifier 77: Repeat procedure by another physician or other qualified health care professional. \u2022 Modifier 78: Unplanned return to the operating/procedure room by the same physician or other qualified health care professional following initial procedure for a related procedure during the postoperative period. \u2022 Modifier 79 : Unrelated procedure or service by the same physician during the postoperative period."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "\u2022 Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual Chapter 12 \u2013 Physicians/Nonphysician Practitioners . Sections 40.2.A.5 and 40.4. www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Physician Fee Schedule (MPFS) Relative Value Files . www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicaid National Correct Coding Initiative Policy Manual. Chapter 1 \u2013 General Correct Coding Policies . Section D. \u2013 Evaluation & Management (E&M) Services. www.cms.gov. \u2022 Kentucky Cabinet for Health and Family Services website. Department for Medicaid Services . chfs.ky.gov. \u2022 Oklahoma Health Care Authority website. Oklahoma\u2019s Medicaid Agency . oklahoma.gov. \u2022 American Medical Association. Coding with Modifiers. \u2022 American Medical Association\u2019s CPT\u00ae and associated publications and services. \u2022 Humana website. Humana Healthy Horizons in Kentucky . Humana.com. \u2022 Humana website. Humana Healthy Horizons in Kentucky Policies Booklet . Out-of-Network Provider Requirements and Claim Payment Policy. Humana.com. \u2022 Humana website. Humana Healthy Horizons in Oklahoma . Humana.com."
+      ],
+      "tables": [],
+      "subsections": []
+    },
+    {
+      "heading": "General Humana Resources",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "content": [
+        "\u2022 Availity \u2013 Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. \u2022 Claims processing edit notifications \u2013 Alerts of upcoming claims payment changes are posted on the first Friday of each month. \u2022 Claims resources \u2013 Providers can find information on referrals, authorizations, electronic claim submissions and more. \u2022 Making it easier \u2013 This page contains an educational series for providers and healthcare professionals. \u2022 Medical and pharmacy coverage policies \u2013 Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. \u2022 Publications \u2013 This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana\u2019s control are verified at the time of publication. Please report broken links ."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": {
+    "Base maximum amount payable under the member\u2019s plan": "The maximum amount of reimbursement for a covered expense, determined by the member\u2019s plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments. \u2022 Medicare Physician Fee Schedule (MPFS) Relative Value file: A file published by the Centers for Medicare & Medicaid Services that includes, among other information, intraoperative percentage, relative value units and conversion factors for physician"
+  },
+  "references": [
+    "Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual Chapter 12 \u2013 Physicians/Nonphysician Practitioners . Sections 40.2.A.5 and 40.4. www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicare Physician Fee Schedule (MPFS) Relative Value Files . www.cms.gov. \u2022 Centers for Medicare & Medicaid Services website. Medicaid National Correct Coding Initiative Policy Manual. Chapter 1 \u2013 General Correct Coding Policies . Section D. \u2013 Evaluation & Management (E&M) Services. www.cms.gov. \u2022 Kentucky Cabinet for Health and Family Services website. Department for Medicaid Services . chfs.ky.gov. \u2022 Oklahoma Health Care Authority website. Oklahoma\u2019s Medicaid Agency . oklahoma.gov. \u2022 American Medical Association. Coding with Modifiers. \u2022 American Medical Association\u2019s CPT\u00ae and associated publications and services. \u2022 Humana website. Humana Healthy Horizons in Kentucky . Humana.com. \u2022 Humana website. Humana Healthy Horizons in Kentucky Policies Booklet . Out-of-Network Provider Requirements and Claim Payment Policy. Humana.com. \u2022 Humana website. Humana Healthy Horizons in Oklahoma . Humana.com."
+  ],
+  "resources": [
+    "Availity \u2013 Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances. \u2022 Claims processing edit notifications \u2013 Alerts of upcoming claims payment changes are posted on the first Friday of each month. \u2022 Claims resources \u2013 Providers can find information on referrals, authorizations, electronic claim submissions and more. \u2022 Making it easier \u2013 This page contains an educational series for providers and healthcare professionals. \u2022 Medical and pharmacy coverage policies \u2013 Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. \u2022 Publications \u2013 This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note : Links to sources outside of Humana\u2019s control are verified at the time of publication. Please report broken links ."
+  ],
+  "_extraction_stats": {
+    "total_sections": 7,
+    "total_tables": 0,
+    "total_characters": 6736
+  },
+  "mapped_cpt_codes": [
+    {
+      "code": "15271",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to wound of trunk, arms, or legs, 25.0 sq cm or less of wound 100.0 sq cm or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15272",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to wound of trunk, arms, or legs, each additional 25.0 sq cm of wound 100.0 sq cm or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15273",
+      "code_system": "CPT",
+      "description": "Skin substitute graft to wound 100.0 sq cm or more of trunk, arms, or legs, 100.0 sq cm or 1% body area for infants and children, or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15274",
+      "code_system": "CPT",
+      "description": "Skin substitute graft to wound 100.0 sq cm or more of trunk, arms, or legs, each additional 100.0 sq cm or 1% body area for infants and children, or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15275",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to wound of face, scalp, eyelids, mouth, neck, ears, around eyes, genitals, hands, feet, fingers, or toes, 25.0 sq cm or less of wound 100.0 sq cm or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15276",
+      "code_system": "CPT",
+      "description": "Application of skin substitute graft to wound of face, scalp, eyelids, mouth, neck, ears, around eyes, genitals, hands, feet, fingers, or toes, each additional 25.0 sq cm of wound 100.0 sq cm or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15277",
+      "code_system": "CPT",
+      "description": "Skin substitute graft to wound 100.0 sq cm or more of face, scalp, eyelids, mouth, neck, ears, around eyes, genitals, hands, feet, fingers, or toes, 100.0 sq cm or 1% body area for infants and children, or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "15278",
+      "code_system": "CPT",
+      "description": "Skin substitute graft to wound 100.0 sq cm or more of face, scalp, eyelids, mouth, neck, ears, around eyes, genitals, hands, feet, fingers, or toes, each additional 100.0 sq cm or 1% body area for infants and children, or less",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "C1753",
+      "code_system": "HCPCS_L2",
+      "description": "Catheter, intravascular ultrasound",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "C1757",
+      "code_system": "HCPCS_L2",
+      "description": "Catheter, thrombectomy/embolectomy",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "C2628",
+      "code_system": "HCPCS_L2",
+      "description": "Catheter, occlusion",
+      "confidence_tier": "E",
+      "score": 24.24,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00100",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on salivary glands, including biopsy",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00102",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures involving plastic repair of cleft lip",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00103",
+      "code_system": "CPT",
+      "description": "Anesthesia for reconstructive procedures of eyelid (eg, blepharoplasty, ptosis surgery)",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00104",
+      "code_system": "CPT",
+      "description": "Anesthesia for electroconvulsive therapy",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00120",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on external middle and inner ear",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00124",
+      "code_system": "CPT",
+      "description": "Anesthesia for exam of ear using an endoscope",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00126",
+      "code_system": "CPT",
+      "description": "Anesthesia for incision of ear drum",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00140",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on eye",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00142",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on eye; lens surgery",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00144",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on eye; corneal transplant",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00145",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on eye; vitreoretinal surgery",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00147",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on eye; iridectomy",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00148",
+      "code_system": "CPT",
+      "description": "Anesthesia for exam of inner eye using an endoscope",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00160",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on nose and sinuses",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00162",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedures on nose and accessory sinuses; radical surgery",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00170",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on mouth",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00174",
+      "code_system": "CPT",
+      "description": "Anesthesia for procedure on throat for removal of tumor",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00176",
+      "code_system": "CPT",
+      "description": "Anesthesia for intraoral procedures, including biopsy; radical surgery",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00190",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on face bones or skull",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00192",
+      "code_system": "CPT",
+      "description": "Anesthesia for extensive surgery on face bones or skull",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00210",
+      "code_system": "CPT",
+      "description": "Anesthesia for other procedure on brain",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00212",
+      "code_system": "CPT",
+      "description": "Anesthesia for intracranial procedures; subdural taps",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00214",
+      "code_system": "CPT",
+      "description": "Anesthesia for intracranial procedures; burr holes, including ventriculography",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00216",
+      "code_system": "CPT",
+      "description": "Anesthesia for intracranial procedures; vascular procedures",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "00218",
+      "code_system": "CPT",
+      "description": "Anesthesia for intracranial procedures; procedures in sitting position",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "hierarchy_group"
+    },
+    {
+      "code": "11960",
+      "code_system": "CPT",
+      "description": "Insertion of tissue expander",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "27880",
+      "code_system": "CPT",
+      "description": "Amputation of both lower leg bones",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "32440",
+      "code_system": "CPT",
+      "description": "Removal of lung, pneumonectomy",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "37799",
+      "code_system": "CPT",
+      "description": "Unlisted procedure, vascular surgery",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "38505",
+      "code_system": "CPT",
+      "description": "Biopsy or excision of lymph node(s); by needle, superficial (eg, cervical, inguinal, axillary)",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "43496",
+      "code_system": "CPT",
+      "description": "Free jejunum transfer with microvascular anastomosis",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "44320",
+      "code_system": "CPT",
+      "description": "Creation of opening from large bowel to skin",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "54437",
+      "code_system": "CPT",
+      "description": "Repair of traumatic corporeal tear(s)",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "59899",
+      "code_system": "CPT",
+      "description": "Unlisted procedure, maternity care and delivery",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "60240",
+      "code_system": "CPT",
+      "description": "Removal of thyroid",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "64999",
+      "code_system": "CPT",
+      "description": "Other procedure on nervous system",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    },
+    {
+      "code": "G9643",
+      "code_system": "HCPCS_L2",
+      "description": "Elective surgery",
+      "confidence_tier": "E",
+      "score": 13.49,
+      "mapping_origin": "inferred",
+      "best_method": "related_concept"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "policy_title": "Testosterone Policy",
+  "policy_number": "2026R8221A",
+  "policy_dates": {
+    "effective_date": "9/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to all Medicare Advantage products and for network provider services reported using the UB04 and CMS 1500 form or its electronic equivalent or its successor form."
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "",
+      "children": [
+        {
+          "title": "Overview",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "text",
+          "content": "This policy describes the reimbursement methodology for testosterone testing when billed with designated conditions. Certain services are also subject to specific frequency limitations."
+        },
+        {
+          "title": "Reimbursement Guidelines",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "blue",
+          "type": "mixed",
+          "content": [
+            "Serum Total Testosterone",
+            "UnitedHealthcare will consider reimbursement for the following procedure code(s) for serum total testosterone when billed for any of the conditions listed below:",
+            "Procedure Code(s) 84403",
+            "Condition(s)",
+            "a. The monitoring of treatment response in men taking enzyme inhibitors for prostate cancer. b. For gender-dysphoric/gender-incongruent persons (baseline, during treatment, and for therapy monitoring). c. For symptomatic individuals being evaluated for conditions associated with androgen excess (e.g., polycystic ovary syndrome and functional hypothalamic amenorrhea).",
+            "Serum Total Testosterone Limitation",
+            "UnitedHealthcare will consider reimbursement, subject to the frequency limitations described below, for the following serum total testosterone procedure code(s):",
+            "Procedure Code(s) 84403",
+            "Condition(s) a. For the evaluation of symptoms of androgen deficiency or androgen excess in males. i. Initial screening, one measurement per day, not to exceed two calendar days. ii. If initial screening results are normal and symptoms persist, follow-up testing may be considered no sooner than 60 days after the initial screening. b. For individuals receiving testosterone replacement therapy. i. No more than once every 60 days.",
+            "Testicular Hypofunction Limitation",
+            "UnitedHealthcare will consider reimbursement of the following procedure codes for serum free testosterone, sex hormone-binding globulin (SHBG), and/or albumin, once annually, for males who have hypogonadism, gynecomastia, and/or other forms of testicular hypofunction:",
+            "Procedure Code(s) 82040",
+            {
+              "key": "84270",
+              "value": "84402"
+            },
+            "Bioavailable Testosterone",
+            "UnitedHealthcare will consider reimbursement of the following procedure codes used to calculate bioavailable testosterone for the condition listed below, based on free and total serum testosterone, sex hormone-binding globulin (SHBG), and/or albumin.",
+            "Procedure Code(s) 84403 84410",
+            "Condition(s) a. For individuals suspected of having a disorder associated with increased or decreased SHBG levels.",
+            "Serum Estradiol Limitation",
+            "UnitedHealthcare will consider reimbursement of the following procedure codes for serum estradiol once per lifetime prior to initiating testosterone therapy in males with any of the condition(s) listed below:",
+            "Procedure Code(s) 82670 82681",
+            "Condition(s) a. Gynecomastia",
+            "Serum Dihydrotestosterone",
+            "UnitedHealthcare will consider reimbursement of the following procedure code(s) for serum dihydrotestosterone, for the determination of 5-alpha reductase deficiency, in individuals with any of the condition(s) listed below:",
+            "Procedure Code(s) 82642",
+            "Condition(s) a. Ambiguous genitalia b. Hypospadias c. Microphallus",
+            "Non-Reimbursable",
+            "UnitedHealthcare will not consider reimbursement of the following procedure codes for serum total testosterone, free testosterone, and/or bioavailable testosterone for asymptomatic individuals or for individuals with non-specific symptoms.",
+            "Procedure Code(s) 84402",
+            {
+              "key": "84403",
+              "value": "84410"
+            }
+          ],
+          "subsections": [
+            {
+              "title": "Serum Total Testosterone",
+              "content": "UnitedHealthcare will consider reimbursement for the following procedure code(s) for serum total testosterone when billed for any of the conditions listed below:",
+              "procedure_codes": [
+                "84403"
+              ],
+              "conditions": [
+                "a. The monitoring of treatment response in men taking enzyme inhibitors for prostate cancer.",
+                "b. For gender-dysphoric/gender-incongruent persons (baseline, during treatment, and for therapy monitoring).",
+                "c. For symptomatic individuals being evaluated for conditions associated with androgen excess (e.g., polycystic ovary syndrome and functional hypothalamic amenorrhea)."
+              ]
+            },
+            {
+              "title": "Serum Total Testosterone Limitation",
+              "content": "UnitedHealthcare will consider reimbursement, subject to the frequency limitations described below, for the following serum total testosterone procedure code(s):",
+              "procedure_codes": [
+                "84403"
+              ],
+              "conditions": [
+                "a. For the evaluation of symptoms of androgen deficiency or androgen excess in males. i. Initial screening, one measurement per day, not to exceed two calendar days. ii. If initial screening results are normal and symptoms persist, follow-up testing may be considered no sooner than 60 days after the initial screening.",
+                "b. For individuals receiving testosterone replacement therapy. i. No more than once every 60 days."
+              ]
+            },
+            {
+              "title": "Testicular Hypofunction Limitation",
+              "content": "UnitedHealthcare will consider reimbursement of the following procedure codes for serum free testosterone, sex hormone–binding globulin (SHBG), and/or albumin, once annually, for males who have hypogonadism, gynecomastia, and/or other forms of testicular hypofunction:",
+              "procedure_codes": [
+                "82040",
+                "84270",
+                "84402"
+              ]
+            },
+            {
+              "title": "Bioavailable Testosterone",
+              "content": "UnitedHealthcare will consider reimbursement of the following procedure codes used to calculate bioavailable testosterone for the condition listed below, based on free and total serum testosterone, sex hormone–binding globulin (SHBG), and/or albumin.",
+              "procedure_codes": [
+                "84403",
+                "84410"
+              ],
+              "conditions": [
+                "a. For individuals suspected of having a disorder associated with increased or decreased SHBG levels."
+              ]
+            },
+            {
+              "title": "Serum Estradiol Limitation",
+              "content": "UnitedHealthcare will consider reimbursement of the following procedure codes for serum estradiol once per lifetime prior to initiating testosterone therapy in males with any of the condition(s) listed below:",
+              "procedure_codes": [
+                "82670",
+                "82681"
+              ],
+              "conditions": [
+                "a. Gynecomastia"
+              ]
+            },
+            {
+              "title": "Serum Dihydrotestosterone",
+              "content": "UnitedHealthcare will consider reimbursement of the following procedure code(s) for serum dihydrotestosterone, for the determination of 5-alpha reductase deficiency, in individuals with any of the condition(s) listed below:",
+              "procedure_codes": [
+                "82642"
+              ],
+              "conditions": [
+                "a. Ambiguous genitalia",
+                "b. Hypospadias",
+                "c. Microphallus"
+              ]
+            },
+            {
+              "title": "Non-Reimbursable",
+              "content": "UnitedHealthcare will not consider reimbursement of the following procedure codes for serum total testosterone, free testosterone, and/or bioavailable testosterone for asymptomatic individuals or for individuals with non-specific symptoms.",
+              "procedure_codes": [
+                "84402",
+                "84403",
+                "84410"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Definitions",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "One measurement per day not to exceed two calendar days",
+          "value": "One unit daily up to two consecutive calendar days."
+        },
+        {
+          "key": "No sooner than 60 days",
+          "value": "Two units every 60 calendar days."
+        },
+        {
+          "key": "No more than once every 60 days",
+          "value": "One unit every 60 calendar days."
+        },
+        {
+          "key": "Once annually",
+          "value": "Once per 365 calendar days from initial date of service."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Does the frequency limitation of Serum Estradiol apply to each procedure code individually or do all count toward the same limit?",
+            "A": "The frequency limitation applies to each procedure code individually."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association, Current Procedural Terminology (CPT) and associated publications and services Centers for Medicare and Medicaid Services (CMS) Recovery Audit Contractors (RAC)"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 4,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "9/1/2026",
+          "value": "New Policy"
+        },
+        {
+          "key": "6/1/2026",
+          "value": "Policy published"
+        },
+        {
+          "key": "4/28/2026",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Medicare Advantage",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "84403",
+    "82040",
+    "84270",
+    "84402",
+    "84410",
+    "82670",
+    "82681",
+    "82642"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

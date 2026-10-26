@@ -1,0 +1,174 @@
+{
+  "policy_title": "After Hours and Weekend Care Policy",
+  "policy_number": "2026R0044A",
+  "policy_dates": {
+    "effective_date": "3/1/2026",
+    "expiry_date": null
+  },
+  "sections": [
+    {
+      "title": "Application",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "This reimbursement policy applies to services reported using the 1500 Health Insurance Claim Form (a/k/a CMS-1500) or its electronic equivalent or its successor form. This policy applies to all products and all network and non-network physicians and other qualified health care professionals, including, but not limited to, non-network authorized and percent of charge contract physicians and other qualified health care professionals.",
+      "children": [
+        {
+          "title": "United Healthcare Commercial",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all UnitedHealthcare Commercial benefit plans."
+        },
+        {
+          "title": "UnitedHealthcare Individual Exchange",
+          "level": 2,
+          "confirmed": true,
+          "page": 1,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "This Reimbursement Policy applies to all Individual Exchange benefit plans."
+        }
+      ]
+    },
+    {
+      "title": "Policy",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "blue",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "Overview",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "After hours or weekend care (CPT) codes represent services provided, when an individual physician or other health care professional is required to render the services outside of regular posted office hours to treat a patient's urgent illness or condition. This policy outlines when after hours or weekend care codes are considered for separate reimbursement."
+    },
+    {
+      "title": "Reimbursement Guidelines",
+      "level": 1,
+      "confirmed": true,
+      "page": 1,
+      "matched_via": "bold",
+      "type": "text",
+      "content": "The Centers for Medicare and Medicaid Services (CMS) considers reimbursement for Current Procedural Terminology (CPT) codes 99050, 99051, 99053, 99056, 99058 and 99060 to be bundled into the payment for other services provided on the same day.",
+      "children": [
+        {
+          "title": "CPT Codes 99053, 99056, 99058 or 99060",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "Consistent with CMS, UnitedHealthcare will not separately reimburse CPT codes 99053, 99056, 99058 or 99060."
+        },
+        {
+          "title": "CPT Codes 99050 and 99051",
+          "level": 2,
+          "confirmed": true,
+          "page": 2,
+          "matched_via": "bold",
+          "type": "text",
+          "content": "Although CMS considers CPT codes 99050 and 99051 to be bundled into the payment for other services provided on the same day, UnitedHealthcare will provide additional compensation to participating primary care providers for seeing patients in situations that would otherwise require more costly urgent care or emergency room settings by reimbursing CPT code 99050 in addition to basic services and CPT code 99051 in addition to acute care services (not preventive medicine codes). UnitedHealthcare will reimburse after hours CPT codes 99050 and 99051 to participating primary care providers when reported in one of the following CMS non-facility place of service (POS) designations only: - School (CMS POS 03) - Indian Health Service Free-standing Facility (CMS POS 5) - Tribal 638 Free-Standing Facility (CMS POS 7) - Office (CMS POS 11) - Independent Clinic (CMS POS 49) - Federally Qualified Health Center (CMS POS 50) - State or Local Public Health Clinic (CMS POS 71) - Rural Health Clinic (CMS POS 72) UnitedHealthcare will reimburse the following participating primary care providers for CPT codes 99050 and 99051: - Adolescent Medicine, Pediatric-Adolescent, Pediatrics - Family Nurse Practitioner, Nurse Practitioner, Pediatric Nurse Practitioner, Advanced Registered Nurse Practitioner - Family Practice - General Practice - Geriatric Medicine - Gynecology, Obstetrics & Gynecology, Obstetrics - Internal Medicine - Certified Nurse Midwife - Physician Assistant"
+        }
+      ]
+    },
+    {
+      "title": "Questions and Answers",
+      "level": 1,
+      "confirmed": true,
+      "page": 2,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "1",
+          "value": {
+            "Q": "Why doesn't UnitedHealthcare provide reimbursement for CPT codes 99053, 99056, 99058 or 99060?",
+            "A": "The After Hours and Weekend Care policy is intended to reimburse participating primary care providers for services that are outside their regular posted business hours as an alternative to more costly emergency room or urgent care center services. Reimbursement for CPT codes 99053, 99056, 99058 or 99060 would not accomplish this purpose and are not reimbursed by CMS."
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "Q": "When will UnitedHealthcare provide reimbursement for CPT code 99050?",
+            "A": "UnitedHealthcare will provide reimbursement for CPT code 99050 during times other than regularly scheduled office hours, or days when the office is normally closed (eg, holidays, Saturday or Sunday), in addition to basic service."
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "Q": "When will UnitedHealthcare provide reimbursement for CPT code 99051?",
+            "A": "UnitedHealthcare will provide reimbursement for CPT code 99051 during regularly scheduled evening, weekend, or holiday office hours, in addition to acute care services (not preventive medicine services)."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Codes",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "CPT Code Section 99050 99051 99053 99056 99058 99060"
+    },
+    {
+      "title": "Resources",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "text",
+      "content": "American Medical Association, Current Procedural Terminology (CPT) and associated publications and services Centers for Medicare and Medicaid Services, National Correct Coding Initiative (NCCI) publications"
+    },
+    {
+      "title": "History",
+      "level": 1,
+      "confirmed": true,
+      "page": 3,
+      "matched_via": "blue",
+      "type": "mixed",
+      "content": [
+        {
+          "key": "3/1/2026",
+          "value": "Anniversary review and version change"
+        },
+        {
+          "key": "4/1/2024",
+          "value": "Template Update - Transferred content to shared policy template that applies to both UnitedHealthcare Commercial and Individual Exchange benefit plans. - Updated Application section to indicate this Reimbursement Policy applies to: o All UnitedHealthcare Commercial benefit plans o All Individual Exchange benefit plans"
+        },
+        {
+          "key": "5/25/2025",
+          "value": "Anniversary review and version change"
+        },
+        {
+          "key": "5/11/2016",
+          "value": "Policy approved by the Reimbursement Policy Oversight Committee"
+        }
+      ]
+    }
+  ],
+  "linked_pdf_contents": [],
+  "Line_of_Business": "Commercial",
+  "Billingclass": "Both",
+  "CPT_CODES_USED": [
+    "99050",
+    "99051",
+    "99053",
+    "99056",
+    "99058",
+    "99060"
+  ],
+  "ICD_CODES_USED": [],
+  "modifiers_used_here": []
+}

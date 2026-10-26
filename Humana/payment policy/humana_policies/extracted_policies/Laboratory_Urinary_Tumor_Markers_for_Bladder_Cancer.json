@@ -1,0 +1,260 @@
+{
+  "policy_metadata": {
+    "policy_title": "Laboratory – Urinary Tumor Markers for Bladder Cancer",
+    "policy_number": "LAB2023055",
+    "published_date": "07/2023",
+    "effective_date": "07/2023",
+    "revision_date": "04/2026",
+    "last_reviewed": "04/2026",
+    "Line_of_Business": "Medicare Advantage Products",
+    "Billingclass": "Both",
+    "source_pdf": "Laboratory_-_Urinary_Tumor_Markers_for_Bladder_Cancer_Revised-2ace8696.pdf",
+    "total_pages": 6,
+    "related_policies": []
+  },
+  "clinical_codes": {
+    "all_codes": [
+      "0012M",
+      "0013M",
+      "0363U",
+      "0365U",
+      "0366U",
+      "0367U",
+      "0420U",
+      "0452U",
+      "0465U",
+      "0549U",
+      "0613U",
+      "86294",
+      "86316",
+      "86386",
+      "88346",
+      "88350"
+    ],
+    "cpt_codes": [
+      "0012M",
+      "0013M",
+      "0363U",
+      "0365U",
+      "0366U",
+      "0367U",
+      "0420U",
+      "0452U",
+      "0465U",
+      "0549U",
+      "0613U",
+      "86294",
+      "86316",
+      "86386",
+      "88346",
+      "88350"
+    ],
+    "hcpcs_codes": [],
+    "modifiers": [],
+    "icd_codes": [],
+    "revenue_codes": []
+  },
+  "sections": [
+    {
+      "heading": "Medicare Advantage Payment Policy",
+      "level": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": [
+        "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. • A nuclear matrix protein (NMP22) test (CPT code 86386*) or a bladder tumor antigen (BTA) test (CPT code 86294*, CPT code 86316*) IS REIMBURSABLE in individuals with a bladder neoplasm or a personal history of bladder neoplasm. • For all other situations not described above, an NMP22 test or a BTA test IS NOT REIMBURSABLE . • Fluorescence immunocytology tests (e.g., ImmunoCyt/uCyt+) (CPT code 88346, CPT code 88350) ARE NOT REIMBURSABLE as part of a screening for malignant neoplasm of the bladder or in individuals with the following symptoms: – Dysuria or painful or frequent micturition – Hematuria – Low back pain – Pyuria or other abnormal findings • Urinary protein biomarker panels designed to detect, monitor or predict recurrence of bladder cancer (e.g., Oncuria® Detect, Oncuria® Monitor, Oncuria® Predict) (CPT code 0365U***, CPT code 0366U***, CPT code 0367U***) ARE NOT REIMBURSABLE . • All other urinary biomarker panels designed to diagnose or prognose bladder cancer (CPT code 0012M, CPT code 0013M, CPT code 0363U, CPT code 0420U, CPT code 0452U**, CPT code 0465U**, CPT code 0549U**, CPT code 0613U) ARE NOT REIMBURSABLE ."
+      ],
+      "tables": [],
+      "subsections": [
+        {
+          "heading": "Applicable procedures for Medicare Advantage plans",
+          "level": 2,
+          "page_start": 1,
+          "page_end": 3,
+          "content": [
+            "Solutions, and Palmetto GBA. ** The payment criteria for 0452U, 0465U, and 0549Uapply to all Medicare jurisdictions, except those states awarded to CGS Administrators, Noridian Healthcare Solutions, Palmetto GBA and WPS Insurance Corporation. *** The payment criteria for 0365U, 0366U, 0367U apply to all Medicare jurisdictions, except those states awarded to CGS Administrators, Noridian Healthcare Solutions, Palmetto GBA, and WPS Insurance Corporation."
+          ],
+          "tables": [
+            {
+              "type": "table",
+              "page_start": 1,
+              "page_end": 3,
+              "columns": [
+                "Procedure code",
+                "Code description"
+              ],
+              "row_count": 16,
+              "rows": [
+                {
+                  "Procedure code": "86294*",
+                  "Code description": "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)"
+                },
+                {
+                  "Procedure code": "86316*",
+                  "Code description": "Immunoassay for tumor antigen; other antigen, quantitative, (eg, CA 50, 72-4, 549) each"
+                },
+                {
+                  "Procedure code": "86386*",
+                  "Code description": "Nuclear matrix protein 22 (nmp22), qualitative"
+                },
+                {
+                  "Procedure code": "88346",
+                  "Code description": "Immunofluorescence, per specimen; initial single antibody stain procedure"
+                },
+                {
+                  "Procedure code": "88350",
+                  "Code description": "Immunofluorescence, per specimen; each additional single antibody stain procedure (List separately in\naddition to code for primary procedure)"
+                },
+                {
+                  "Procedure code": "0012M**",
+                  "Code description": "Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,\nHOXA13, CDC2 [CDK1], IGFBP5, and CXCR2), utilizing urine, algorithm reported as a risk score for having\nurothelial carcinoma\nProprietary Test: Cxbladder Detect\nLab/Manufacturer: Pacific Edge Limited"
+                },
+                {
+                  "Procedure code": "0013M**",
+                  "Code description": "Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,\nHOXA13, CDC2 [CDK1], IGFBP5, and CXCR2), utilizing urine, algorithm reported as a risk score for having\nrecurrent urothelial carcinoma\nProprietary Test: Cxbladder Monitor\nLab/Manufacturer: Pacific Edge Limited"
+                },
+                {
+                  "Procedure code": "0363U**",
+                  "Code description": "Oncology (urothelial), mRNA, gene-expression profiling by real-time quantitative PCR of 5 genes (MDK,\nHOXA13, CDC2 [CDK1], IGFBP5, and CXCR2), utilizing urine, algorithm incorporates age, sex, smoking\nhistory, and macrohematuria frequency, reported as a risk score for having urothelial carcinoma\nProprietary Test: Cxbladder™ Triage\nLab/Manufacturer: Pacific Edge Diagnostics USA, Ltd, Pacific Edge Diagnostics USA, Ltd"
+                },
+                {
+                  "Procedure code": "0365U***",
+                  "Code description": "Oncology (bladder), 10 protein biomarkers (A1AT, ANG, APOE, CA9, IL8, MMP9, MMP10, PAI1, SDC1, and\nVEGFA) by immunoassays, urine, diagnostic algorithm, including patient's age, race, and gender, reported\nas a probability of harboring urothelial cancer\nProprietary Test: Oncuria® Detect\nLab/Manufacturer: DiaCarta Clinical Lab, DiaCarta, Inc"
+                },
+                {
+                  "Procedure code": "0366U***",
+                  "Code description": "Oncology (bladder), analysis of 10 protein biomarkers (A1AT, ANG, APOE, CA9, IL8, MMP9, MMP10, PAI1,\nSDC1 and VEGFA) by immunoassays, urine, algorithm reported as a probability of recurrent bladder\ncancer\nProprietary Test: Oncuria® Monitor,\nLab/Manufacturer: DiaCarta Clinical Lab, DiaCarta, Inc"
+                },
+                {
+                  "Procedure code": "0367U***",
+                  "Code description": "Oncology (bladder), analysis of 10 protein biomarkers (A1AT, ANG, APOE, CA9, IL8, MMP9, MMP10, PAI1,\nSDC1 and VEGFA) by immunoassays, urine, diagnostic algorithm reported as a risk score for probability of\nrapid recurrence of recurrent or persistent cancer following transurethral resection\nProprietary Test: Oncuria® Predict\nLab/Manufacturer: DiaCarta Clinical Lab, DiaCarta, Inc"
+                },
+                {
+                  "Procedure code": "0420U**",
+                  "Code description": "Oncology (urothelial), mRNA expression profiling by real-time quantitative PCR of MDK, HOXA13, CDC2,\nIGFBP5, and CXCR2 in combination with droplet digital PCR (ddPCR) analysis of 6 single-nucleotide\npolymorphisms (SNPs) genes TERT and FGFR3, urine, algorithm reported as a risk score for urothelial\ncarcinoma\nProprietary Test: Cxbladder Triage Plus\nLab/Manufacturer: Pacific Edge Diagnostics USA LTD, Pacific Edge Diagnostics USA LTD"
+                },
+                {
+                  "Procedure code": "0452U**",
+                  "Code description": "Oncology (bladder), methylated PENK DNA detection by linear target enrichment-quantitative\nmethylation-specific real-time PCR (LTE-qMSP), urine, reported as likelihood of bladder cancer\nProprietary Test: EarlyTect® Bladder Cancer Detection (EarlyTect® BCD)\nLab/Manufacturer: Promis Diagnostics, Inc, Promis Diagnostics, Inc"
+                },
+                {
+                  "Procedure code": "0465U**",
+                  "Code description": "Oncology (urothelial carcinoma), DNA, quantitative methylation-specific PCR of 2 genes (ONECUT2, VIM),\nalgorithmic analysis reported as positive or negative\nProprietary Test: UriFind® Urothelial Carcinoma Assay\nLab/Manufacturer: DiaCarta, Inc, AnchorDx"
+                },
+                {
+                  "Procedure code": "0549U**",
+                  "Code description": "Oncology (urothelial), DNA, quantitative methylated real-time PCR of TRNA-Cys, SIM2, and NKX1-1, using\nurine, diagnostic algorithm reported as a probability index for bladder cancer and/or upper tract\nurothelial carcinoma (UTUC)\nProprietary Test: Bladder CARE™\nLab/Manufacturer: Pangea Laboratory LLC, Pangea Laboratory LLC"
+                },
+                {
+                  "Procedure code": "0613U",
+                  "Code description": "Oncology (urothelial carcinoma), DNA methylation and mutation analysis of 6 biomarkers (TWIST1, OTX1,\nONECUT2, FGFR3, HRAS, TERT promoter region), methylation-specific PCR and targeted next-generation\nsequencing, urine, algorithm reported as a probability index for bladder cancer and upper tract urothelial\ncarcinoma\nProprietary Test: AssureMDxTM\nLab/Manufacturer: Vesica Health® Inc"
+                }
+              ]
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Original Medicare Local Coverage Determinations (LCDs)",
+      "level": 1,
+      "page_start": 3,
+      "page_end": 4,
+      "content": [],
+      "tables": [
+        {
+          "type": "table",
+          "page_start": 3,
+          "page_end": 4,
+          "columns": [
+            "Contractor name",
+            "Policy title",
+            "Policy number",
+            "Procedure code"
+          ],
+          "row_count": 9,
+          "rows": [
+            {
+              "Contractor name": "CGS Administrators, LLC",
+              "Policy title": "Bladder/Urothelial Tumor\nMarkers",
+              "Policy number": "L36975",
+              "Procedure code": "86294\n86316\n86386"
+            },
+            {
+              "Contractor name": "CGS Administrators, LLC",
+              "Policy title": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "Policy number": "L36021",
+              "Procedure code": "0365U\n0366U\n0367U\n0452U\n0465U\n0549U"
+            },
+            {
+              "Contractor name": "Noridian Healthcare\nSolutions, LLC",
+              "Policy title": "Lab: Bladder/Urothelial\nTumor Markers",
+              "Policy number": "L36678",
+              "Procedure code": "86294\n86316\n86386"
+            },
+            {
+              "Contractor name": "Noridian Healthcare\nSolutions, LLC",
+              "Policy title": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "Policy number": "L35160",
+              "Procedure code": "0365U\n0366U\n0367U\n0452U\n0465U\n0549U"
+            },
+            {
+              "Contractor name": "Noridian Healthcare\nSolutions, LLC",
+              "Policy title": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "Policy number": "L36256",
+              "Procedure code": "0365U\n0366U\n0367U\n0452U\n0465U\n0549U"
+            },
+            {
+              "Contractor name": "Palmetto GBA",
+              "Policy title": "Lab: Bladder/Urothelial\nTumor Markers",
+              "Policy number": "L33420",
+              "Procedure code": "86294\n86316\n86386"
+            },
+            {
+              "Contractor name": "Palmetto GBA",
+              "Policy title": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "Policy number": "L35025",
+              "Procedure code": "0365U\n0366U\n0367U\n0452U\n0465U\n0549U"
+            },
+            {
+              "Contractor name": "WPS Insurance Corporation",
+              "Policy title": "MolDX: Molecular Diagnostic\nTests (MDT)",
+              "Policy number": "L36807",
+              "Procedure code": "0365U\n0366U"
+            },
+            {
+              "Contractor name": "",
+              "Policy title": "",
+              "Policy number": "",
+              "Procedure code": "0367U\n0452U\n0465U\n0549U"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "References",
+      "level": 1,
+      "page_start": 4,
+      "page_end": 6,
+      "content": [
+        "Abbott. ALERE NMP22® BLADDERCHEK®. https://www.globalpointofcare.abbott/en/product-details/nmp22-bladderchek.html ACS. Key Statistics for Bladder Cancer. Updated March 12, 2024. https://www.cancer.org/cancer/types/bladder-cancer/about/key- statistics.html AroCell. Bladder Cancer Detection. https://arocell.com/products/oncology/ubc-rapid/ Babjuk M, Burger M, Capoun O, et al. European Association of Urology Guidelines on Non–muscle-invasive Bladder Cancer (Ta, T1, and Carcinoma in Situ). European Urology . 2022;81(1):75-94. doi:10.1016/j.eururo.2021.08.010 Barocas DA, Boorjian SA, Alvarez RD, et al. Microhematuria: AUA/SUFU Guideline. The Journal of urology . Oct 2020;204(4):778-786. doi:10.1097/ju.0000000000001297 Bhindi B, Kool R, Kulkarni GS, et al. Canadian Urological Association guideline on the management of non-muscle-invasive bladder cancer – Full-text. Can Urol Assoc J 2021; Breen V, Kasabov N, Kamat AM, et al. A holistic comparative analysis of diagnostic tests for urothelial carcinoma: a study of Cxbladder Detect, UroVysion® FISH, NMP22® and cytology based on imputation of multiple datasets. BMC medical research methodology . 2015;15:45-45. doi:10.1186/s12874-015-0036-8 Chang SS, Bochner BH, Chou R, et al. Treatment of Non-Metastatic Muscle-Invasive Bladder Cancer: AUA/ASCO/ASTRO/SUO Guideline. The Journal of urology . Sep 2017;198(3):552-559. doi:10.1016/j.juro.2017.04.086 Chang SS, Boorjian SA, Chou R, et al. Diagnosis and Treatment of Non-Muscle Invasive Bladder Cancer: AUA/SUO Guideline. The Journal of urology . Oct 2020;196(4):1021-9. doi:10.1016/j.juro.2016.06.049 Chou R, Dana T. Screening adults for bladder cancer: A review of the evidence for the u.s. preventive services task force. Annals of Internal Medicine . 2010;153(7):461-468. doi:10.7326/0003-4819-153-7-201010050-00009 Chou R, Gore JL, Buckley D, et al. Urinary Biomarkers for Diagnosis of Bladder Cancer: A Systematic Review and Meta-analysis. Ann Intern Med . Dec 15 2015;163(12):922-31. doi:10.7326/m15-0997 D'Andrea D, Soria F, Zehetmayer S, et al. Diagnostic accuracy, clinical utility and influence on decision-making of a methylation urine biomarker test in the surveillance of non-muscle-invasive bladder cancer. BJU Int . Jun 2019;123(6):959-967. doi:10.1111/bju.14673 Darwiche F, Parekh DJ, Gonzalgo ML. Biomarkers for non-muscle invasive bladder cancer: Current tests and future promise. Indian journal of urology : IJU : journal of the Urological Society of India . Oct-Dec 2015;31(4):273-82. doi:10.4103/0970-1591.166448 Davis R, Jones JS, Barocas DA, et al. Diagnosis, evaluation and follow-up of asymptomatic microhematuria (AMH) in adults: AUA",
+        "guideline. The Journal of urology . Dec 2012;188(6 Suppl):2473-81. doi:10.1016/j.juro.2012.09.078 D'Costa JJ, Goldsmith JC, Wilson JS, Bryan RT, Ward DG. A Systematic Review of the Diagnostic and Prognostic Value of Urinary Protein Biomarkers in Urothelial Bladder Cancer. Bladder cancer (Amsterdam, Netherlands) . 2016;2(3):301-317. doi:10.3233/blc-160054 DeGeorge KC, Holt HR, Hodges SC. Bladder Cancer: Diagnosis and Treatment. 2017;(1532-0650 (Electronic)) D'Elia C, Folchini DM, Mian C, et al. Diagnostic value of Xpert(®) Bladder Cancer Monitor in the follow-up of patients affected by non-muscle invasive bladder cancer: an update. Ther Adv Urol . Jan-Dec 2021;13:1756287221997183. doi:10.1177/1756287221997183 Dudley JC, Schroers-Martin J, Lazzareschi DV, et al. Detection and Surveillance of Bladder Cancer Using Urine Tumor DNA. Cancer Discov . Apr 2019;9(4):500-509. doi:10.1158/2159-8290.Cd-18-0825 EAU. EAU Guidelines on Non-muscle Invasive Bladder Cancer. https://uroweb.org/guidelines/non-muscle-invasive-bladder-cancer Ecke TH, Weiß S, Stephan C, et al. UBC(®) Rapid Test-A Urinary Point-of-Care (POC) Assay for Diagnosis of Bladder Cancer with a focus on Non-Muscle Invasive High-Grade Tumors: Results of a Multicenter-Study. Int J Mol Sci . Dec 2 2018;19(12)doi:10.3390/ijms19123841 Fantony JJ, Longo TA, Gopalakrishna A, et al. Urinary NID2 and TWIST1 methylation to augment conventional urine cytology for the detection of bladder cancer. Cancer Biomark . 2017;18(4):381-387. doi:10.3233/cbm-160261 FDA. 510(k) number: K994356. https://www.accessdata.fda.gov/cdrh_docs/pdf/K994356.pdf FDA. 510(k) Summary Information. https://www.accessdata.fda.gov/cdrh_docs/pdf/K964151.pdf FDA. 510(k) Summary Information. https://www.accessdata.fda.gov/cdrh_docs/pdf/K971402.pdf FDA. 510(k) Summary. https://www.accessdata.fda.gov/cdrh_docs/pdf2/K021231.pdf FDA. Premarket Approval. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P940035 FDA. Premarket Approval. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P030052 Grossman H, Messing E, Soloway M, et al. Detection of bladder cancer using a point-of-care proteomic assay. JAMA . 2005;293(7):810-816. doi:10.1001/jama.293.7.810 Halpern JA, Chughtai B, Ghomrawi H. Cost-effectiveness of Common Diagnostic Approaches for Evaluation of Asymptomatic Microscopic Hematuria. JAMA internal medicine . Jun 2017;177(6):800-807. doi:10.1001/jamainternmed.2017.0739 Hirasawa Y, Pagano I, Chen R, et al. Diagnostic performance of Oncuria™, a urinalysis test for bladder cancer. Journal of Translational Medicine . 2021/04/06 2021;19(1):141. doi:10.1186/s12967-021-02796-4 Holzbeierlein J BB, Buckley DI, et al. Diagnosis and Treatment of Non-Muscle Invasive Bladder Cancer: AUA/SUO Guideline: 2024 Amendment. Journal of Urology [Internet] . 2024 Apr 1 2024; Holzbeierlein J BB, Buckley DI, et al. Treatment of non-metastatic muscle-invasive bladder cancer: AUA/ASCO/SUO guideline (2017; amended 2020, 2024). J Urol . 2024; Hottinger AF, Hormigo A. Serum Biomarkers. In: Schwab M, ed. Encyclopedia of Cancer . Springer Berlin Heidelberg; 2011:3390-3394. Kaufman DS, Shipley WU, Feldman AS. Bladder cancer. Lancet (London, England) . Jul 18 2009;374(9685):239-49. doi:10.1016/s0140- 6736(09)60491-8 KDx Diagnostics. URO17® A Better test For Better Health. https://kdxdiagnostics.com/uro17/ Landaas EJ, Eckel AM, Wright JL, Baird GS, Hansen RN, Sullivan SD. Application of Health Technology Assessment (HTA) to Evaluate New Laboratory Tests in a Health System: A Case Study of Bladder Cancer Testing. Acad Pathol . Jan-Dec 2020;7:2374289520968225. doi:10.1177/2374289520968225 Lerner SP, Raghavan, Derek. Overview of the initial approach and management of urothelial bladder cancer. Updated July 29, 2024. https://www.uptodate.com/contents/overview-of-the-initial-approach-and-management-of-urothelial-bladder-cancer Li HT, Duymich CE, Weisenberger DJ, Liang G. Genetic and Epigenetic Alterations in Bladder Cancer. Int Neurourol J . Nov 2016;20(Suppl 2):S84-94. doi:10.5213/inj.1632752.376 Lopez-Beltran A, Cheng L, Gevaert T, et al. Current and emerging bladder cancer biomarkers with an emphasis on urine biomarkers. Expert Rev Mol Diagn . Dec 11 2019:1-13. doi:10.1080/14737159.2020.1699791 Lotan Y, Choueiri T. Clinical presentation, diagnosis, and staging of bladder cancer. Updated February 25, 2025. https://www.uptodate.com/contents/clinical-presentation-diagnosis-and-staging-of-bladder-cancer Lotan Y, Elias K, Svatek RS, et al. Bladder cancer screening in a high risk asymptomatic population using a point of care urine based protein tumor marker. The Journal of urology . Jul 2009;182(1):52-7; discussion 58. doi:10.1016/j.juro.2009.02.142 Lotan Y, Roehrborn CG. Sensitivity and specificity of commonly available bladder tumor markers versus cytology: results of a comprehensive literature review and meta-analyses. Urology . 2003;61(1):109-118. doi:10.1016/S0090-4295(02)02136-2 Mahnert B, Tauber S, Kriegmair M, et al. BTA-TRAK--a useful diagnostic tool in urinary bladder cancer? Anticancer research . Jul-Aug 1999;19(4a):2615-9. Meleth S, Reeder-Hayes K, Ashok M, et al. AHRQ Technology Assessments. Technology Assessment of Molecular Pathology Testing for the Estimation of Prognosis for Common Cancers . Agency for Healthcare Research and Quality (US); 2014. Mitra A, Birkman M, Penson D, Cote R. Urine biomarkers for the detection of urothelial (transitional cell) carcinoma of the bladder Updated January 18, 2024. https://www.uptodate.com/contents/urine-biomarkers-for-the-detection-of-urothelial-transitional- cell-carcinoma-of-the-bladder Monteiro LL, Witjes JA, Agarwal PK, et al. ICUD-SIU International Consultation on Bladder Cancer 2017: management of non-muscle invasive bladder cancer. 2018:1-10. Mossanen M, Wang Y, Szymaniak J, et al. Evaluating the cost of surveillance for non-muscle-invasive bladder cancer: an analysis based on risk categories. World J Urol . Oct 2019;37(10):2059-2065. doi:10.1007/s00345-018-2550-x Moyer VA. Screening for bladder cancer: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med . Aug 16 2011;155(4):246-51. doi:10.7326/0003-4819-155-4-201108160-00008 NCCN. NCCN Guidelines Version 5.2024 Bladder Cancer. Updated October 28, 2024. https://www.nccn.org/professionals/physician_gls/pdf/bladder.pdf NCI. Bladder and Other Urothelial Cancers Screening (PDQ®)–Health Professional Version. U.S. Department of Health and Human Services. Accessed 12/12/2024, https://www.cancer.gov/types/bladder/hp/bladder-screening-pdq NICE. URO17 for detecting bladder cancer. Updated February 4, 2021. https://www.nice.org.uk/advice/mib250/chapter/The- technology Nonagen Bioscience. Bladder Cancer. https://www.nonagen.com/products Nucleix. BLADDER EPICHECK https://www.nucleix.com/bladder-epicheck/ Pangea. Features of Bladder CARE™. https://pangealab.com/bladder-care/ Pangea. Pangea® Laboratory to License Bladder CARE™ Technology from Zymo Research. https://www.prnewswire.com/news- releases/pangea-laboratory-to-license-bladder-care-technology-from-zymo-research-300800622.html Perazalla M. Evaluation of hematuria in adults. Updated December 18, 2024. https://www.uptodate.com/contents/evaluation-of- hematuria-in-adults Piao XM, Jeong P, Kim YH, et al. Urinary cell-free microRNA biomarker could discriminate bladder cancer from benign hematuria. Int J Cancer . Jan 15 2019;144(2):380-388. doi:10.1002/ijc.31849 Pichler R, Fritz J, Tulchiner G, et al. Increased accuracy of a novel mRNA-based urine test for bladder cancer surveillance. BJU Int . Jan 2018;121(1):29-37. doi:10.1111/bju.14019 Sathianathen NJ, Butaney M, Weight CJ, Kumar R, Konety BR. Urinary Biomarkers in the Evaluation of Primary Hematuria: A Systematic Review and Meta-Analysis. Bladder cancer (Amsterdam, Netherlands) . 2018;4(4):353-63. Schmitz-Dräger BJ, Droller M, Lokeshwar VB, et al. Molecular Markers for Bladder Cancer Screening, Early Diagnosis, and Surveillance: The WHO/ICUD Consensus. Urologia Internationalis . 2015;94(1):1-24. doi:10.1159/000369357 Soubra A, Risk MC. Diagnostics techniques in nonmuscle invasive bladder cancer. Indian journal of urology : IJU : journal of the Urological Society of India . Oct-Dec 2015;31(4):283-8. doi:10.4103/0970-1591.166449 Stecca C, Chowdhury D, Blais N, et al. 2024 CUA-GUMOC Expert Report: Management of unresectable locally advanced and metastatic urothelial carcinoma. Can Urol Assoc J . 2024;18(12):379-90 Sutton AJ, Lamont JV, Evans RM, et al. An early analysis of the cost-effectiveness of a diagnostic classifier for risk stratification of haematuria patients (DCRSHP) compared to flexible cystoscopy in the diagnosis of bladder cancer. PloS one . 2018;13(8):e0202796. doi:10.1371/journal.pone.0202796 Tan WS, Tan WP, Tan MY, et al. Novel urinary biomarkers for the detection of bladder cancer: A systematic review. Cancer Treat Rev . Sep 2018;69:39-52. doi:10.1016/j.ctrv.2018.05.012 USPSTF. Bladder Cancer in Adults: Screening. https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/bladder- cancer-in-adults-screening Vasdev N, Hampson A, Agarwal S, et al. The role of URO17™ biomarker to enhance diagnosis of urothelial cancer in new hematuria patients—First European Data. BJUI Compass . 2021;2(1):46-52. doi:10.1002/bco2.50 Vasdev, Hampson A, Agarwal S, et al. The role of URO17™ biomarker to enhance diagnosis of urothelial cancer in new hematuria patients-First European Data. BJUI Compass . Jan 2021;2(1):46-52. doi:10.1002/bco2.50 Witjes JA, Bruins HM, Cathomas R, et al. Muscle-invasive and Metastatic Bladder Cancer. https://doi.org/10.1016/j.eururo.2023.08.016 Zuiverloon TCM, de Jong FC, Theodorescu D. Clinical Decision Making in Surveillance of Non-Muscle-Invasive Bladder Cancer: The Evolving Roles of Urinary Cytology and Molecular Markers. Oncology (Williston Park, NY) . Dec 15 2017;31(12):855-62."
+      ],
+      "tables": [],
+      "subsections": []
+    }
+  ],
+  "definitions": null,
+  "references": [
+    "Abbott. ALERE NMP22® BLADDERCHEK®. https://www.globalpointofcare.abbott/en/product-details/nmp22-bladderchek.html ACS. Key Statistics for Bladder Cancer. Updated March 12, 2024. https://www.cancer.org/cancer/types/bladder-cancer/about/key- statistics.html AroCell. Bladder Cancer Detection. https://arocell.com/products/oncology/ubc-rapid/ Babjuk M, Burger M, Capoun O, et al. European Association of Urology Guidelines on Non–muscle-invasive Bladder Cancer (Ta, T1, and Carcinoma in Situ). European Urology . 2022;81(1):75-94. doi:10.1016/j.eururo.2021.08.010 Barocas DA, Boorjian SA, Alvarez RD, et al. Microhematuria: AUA/SUFU Guideline. The Journal of urology . Oct 2020;204(4):778-786. doi:10.1097/ju.0000000000001297 Bhindi B, Kool R, Kulkarni GS, et al. Canadian Urological Association guideline on the management of non-muscle-invasive bladder cancer – Full-text. Can Urol Assoc J 2021; Breen V, Kasabov N, Kamat AM, et al. A holistic comparative analysis of diagnostic tests for urothelial carcinoma: a study of Cxbladder Detect, UroVysion® FISH, NMP22® and cytology based on imputation of multiple datasets. BMC medical research methodology . 2015;15:45-45. doi:10.1186/s12874-015-0036-8 Chang SS, Bochner BH, Chou R, et al. Treatment of Non-Metastatic Muscle-Invasive Bladder Cancer: AUA/ASCO/ASTRO/SUO Guideline. The Journal of urology . Sep 2017;198(3):552-559. doi:10.1016/j.juro.2017.04.086 Chang SS, Boorjian SA, Chou R, et al. Diagnosis and Treatment of Non-Muscle Invasive Bladder Cancer: AUA/SUO Guideline. The Journal of urology . Oct 2020;196(4):1021-9. doi:10.1016/j.juro.2016.06.049 Chou R, Dana T. Screening adults for bladder cancer: A review of the evidence for the u.s. preventive services task force. Annals of Internal Medicine . 2010;153(7):461-468. doi:10.7326/0003-4819-153-7-201010050-00009 Chou R, Gore JL, Buckley D, et al. Urinary Biomarkers for Diagnosis of Bladder Cancer: A Systematic Review and Meta-analysis. Ann Intern Med . Dec 15 2015;163(12):922-31. doi:10.7326/m15-0997 D'Andrea D, Soria F, Zehetmayer S, et al. Diagnostic accuracy, clinical utility and influence on decision-making of a methylation urine biomarker test in the surveillance of non-muscle-invasive bladder cancer. BJU Int . Jun 2019;123(6):959-967. doi:10.1111/bju.14673 Darwiche F, Parekh DJ, Gonzalgo ML. Biomarkers for non-muscle invasive bladder cancer: Current tests and future promise. Indian journal of urology : IJU : journal of the Urological Society of India . Oct-Dec 2015;31(4):273-82. doi:10.4103/0970-1591.166448 Davis R, Jones JS, Barocas DA, et al. Diagnosis, evaluation and follow-up of asymptomatic microhematuria (AMH) in adults: AUA",
+    "guideline. The Journal of urology . Dec 2012;188(6 Suppl):2473-81. doi:10.1016/j.juro.2012.09.078 D'Costa JJ, Goldsmith JC, Wilson JS, Bryan RT, Ward DG. A Systematic Review of the Diagnostic and Prognostic Value of Urinary Protein Biomarkers in Urothelial Bladder Cancer. Bladder cancer (Amsterdam, Netherlands) . 2016;2(3):301-317. doi:10.3233/blc-160054 DeGeorge KC, Holt HR, Hodges SC. Bladder Cancer: Diagnosis and Treatment. 2017;(1532-0650 (Electronic)) D'Elia C, Folchini DM, Mian C, et al. Diagnostic value of Xpert(®) Bladder Cancer Monitor in the follow-up of patients affected by non-muscle invasive bladder cancer: an update. Ther Adv Urol . Jan-Dec 2021;13:1756287221997183. doi:10.1177/1756287221997183 Dudley JC, Schroers-Martin J, Lazzareschi DV, et al. Detection and Surveillance of Bladder Cancer Using Urine Tumor DNA. Cancer Discov . Apr 2019;9(4):500-509. doi:10.1158/2159-8290.Cd-18-0825 EAU. EAU Guidelines on Non-muscle Invasive Bladder Cancer. https://uroweb.org/guidelines/non-muscle-invasive-bladder-cancer Ecke TH, Weiß S, Stephan C, et al. UBC(®) Rapid Test-A Urinary Point-of-Care (POC) Assay for Diagnosis of Bladder Cancer with a focus on Non-Muscle Invasive High-Grade Tumors: Results of a Multicenter-Study. Int J Mol Sci . Dec 2 2018;19(12)doi:10.3390/ijms19123841 Fantony JJ, Longo TA, Gopalakrishna A, et al. Urinary NID2 and TWIST1 methylation to augment conventional urine cytology for the detection of bladder cancer. Cancer Biomark . 2017;18(4):381-387. doi:10.3233/cbm-160261 FDA. 510(k) number: K994356. https://www.accessdata.fda.gov/cdrh_docs/pdf/K994356.pdf FDA. 510(k) Summary Information. https://www.accessdata.fda.gov/cdrh_docs/pdf/K964151.pdf FDA. 510(k) Summary Information. https://www.accessdata.fda.gov/cdrh_docs/pdf/K971402.pdf FDA. 510(k) Summary. https://www.accessdata.fda.gov/cdrh_docs/pdf2/K021231.pdf FDA. Premarket Approval. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P940035 FDA. Premarket Approval. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P030052 Grossman H, Messing E, Soloway M, et al. Detection of bladder cancer using a point-of-care proteomic assay. JAMA . 2005;293(7):810-816. doi:10.1001/jama.293.7.810 Halpern JA, Chughtai B, Ghomrawi H. Cost-effectiveness of Common Diagnostic Approaches for Evaluation of Asymptomatic Microscopic Hematuria. JAMA internal medicine . Jun 2017;177(6):800-807. doi:10.1001/jamainternmed.2017.0739 Hirasawa Y, Pagano I, Chen R, et al. Diagnostic performance of Oncuria™, a urinalysis test for bladder cancer. Journal of Translational Medicine . 2021/04/06 2021;19(1):141. doi:10.1186/s12967-021-02796-4 Holzbeierlein J BB, Buckley DI, et al. Diagnosis and Treatment of Non-Muscle Invasive Bladder Cancer: AUA/SUO Guideline: 2024 Amendment. Journal of Urology [Internet] . 2024 Apr 1 2024; Holzbeierlein J BB, Buckley DI, et al. Treatment of non-metastatic muscle-invasive bladder cancer: AUA/ASCO/SUO guideline (2017; amended 2020, 2024). J Urol . 2024; Hottinger AF, Hormigo A. Serum Biomarkers. In: Schwab M, ed. Encyclopedia of Cancer . Springer Berlin Heidelberg; 2011:3390-3394. Kaufman DS, Shipley WU, Feldman AS. Bladder cancer. Lancet (London, England) . Jul 18 2009;374(9685):239-49. doi:10.1016/s0140- 6736(09)60491-8 KDx Diagnostics. URO17® A Better test For Better Health. https://kdxdiagnostics.com/uro17/ Landaas EJ, Eckel AM, Wright JL, Baird GS, Hansen RN, Sullivan SD. Application of Health Technology Assessment (HTA) to Evaluate New Laboratory Tests in a Health System: A Case Study of Bladder Cancer Testing. Acad Pathol . Jan-Dec 2020;7:2374289520968225. doi:10.1177/2374289520968225 Lerner SP, Raghavan, Derek. Overview of the initial approach and management of urothelial bladder cancer. Updated July 29, 2024. https://www.uptodate.com/contents/overview-of-the-initial-approach-and-management-of-urothelial-bladder-cancer Li HT, Duymich CE, Weisenberger DJ, Liang G. Genetic and Epigenetic Alterations in Bladder Cancer. Int Neurourol J . Nov 2016;20(Suppl 2):S84-94. doi:10.5213/inj.1632752.376 Lopez-Beltran A, Cheng L, Gevaert T, et al. Current and emerging bladder cancer biomarkers with an emphasis on urine biomarkers. Expert Rev Mol Diagn . Dec 11 2019:1-13. doi:10.1080/14737159.2020.1699791 Lotan Y, Choueiri T. Clinical presentation, diagnosis, and staging of bladder cancer. Updated February 25, 2025. https://www.uptodate.com/contents/clinical-presentation-diagnosis-and-staging-of-bladder-cancer Lotan Y, Elias K, Svatek RS, et al. Bladder cancer screening in a high risk asymptomatic population using a point of care urine based protein tumor marker. The Journal of urology . Jul 2009;182(1):52-7; discussion 58. doi:10.1016/j.juro.2009.02.142 Lotan Y, Roehrborn CG. Sensitivity and specificity of commonly available bladder tumor markers versus cytology: results of a comprehensive literature review and meta-analyses. Urology . 2003;61(1):109-118. doi:10.1016/S0090-4295(02)02136-2 Mahnert B, Tauber S, Kriegmair M, et al. BTA-TRAK--a useful diagnostic tool in urinary bladder cancer? Anticancer research . Jul-Aug 1999;19(4a):2615-9. Meleth S, Reeder-Hayes K, Ashok M, et al. AHRQ Technology Assessments. Technology Assessment of Molecular Pathology Testing for the Estimation of Prognosis for Common Cancers . Agency for Healthcare Research and Quality (US); 2014. Mitra A, Birkman M, Penson D, Cote R. Urine biomarkers for the detection of urothelial (transitional cell) carcinoma of the bladder Updated January 18, 2024. https://www.uptodate.com/contents/urine-biomarkers-for-the-detection-of-urothelial-transitional- cell-carcinoma-of-the-bladder Monteiro LL, Witjes JA, Agarwal PK, et al. ICUD-SIU International Consultation on Bladder Cancer 2017: management of non-muscle invasive bladder cancer. 2018:1-10. Mossanen M, Wang Y, Szymaniak J, et al. Evaluating the cost of surveillance for non-muscle-invasive bladder cancer: an analysis based on risk categories. World J Urol . Oct 2019;37(10):2059-2065. doi:10.1007/s00345-018-2550-x Moyer VA. Screening for bladder cancer: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med . Aug 16 2011;155(4):246-51. doi:10.7326/0003-4819-155-4-201108160-00008 NCCN. NCCN Guidelines Version 5.2024 Bladder Cancer. Updated October 28, 2024. https://www.nccn.org/professionals/physician_gls/pdf/bladder.pdf NCI. Bladder and Other Urothelial Cancers Screening (PDQ®)–Health Professional Version. U.S. Department of Health and Human Services. Accessed 12/12/2024, https://www.cancer.gov/types/bladder/hp/bladder-screening-pdq NICE. URO17 for detecting bladder cancer. Updated February 4, 2021. https://www.nice.org.uk/advice/mib250/chapter/The- technology Nonagen Bioscience. Bladder Cancer. https://www.nonagen.com/products Nucleix. BLADDER EPICHECK https://www.nucleix.com/bladder-epicheck/ Pangea. Features of Bladder CARE™. https://pangealab.com/bladder-care/ Pangea. Pangea® Laboratory to License Bladder CARE™ Technology from Zymo Research. https://www.prnewswire.com/news- releases/pangea-laboratory-to-license-bladder-care-technology-from-zymo-research-300800622.html Perazalla M. Evaluation of hematuria in adults. Updated December 18, 2024. https://www.uptodate.com/contents/evaluation-of- hematuria-in-adults Piao XM, Jeong P, Kim YH, et al. Urinary cell-free microRNA biomarker could discriminate bladder cancer from benign hematuria. Int J Cancer . Jan 15 2019;144(2):380-388. doi:10.1002/ijc.31849 Pichler R, Fritz J, Tulchiner G, et al. Increased accuracy of a novel mRNA-based urine test for bladder cancer surveillance. BJU Int . Jan 2018;121(1):29-37. doi:10.1111/bju.14019 Sathianathen NJ, Butaney M, Weight CJ, Kumar R, Konety BR. Urinary Biomarkers in the Evaluation of Primary Hematuria: A Systematic Review and Meta-Analysis. Bladder cancer (Amsterdam, Netherlands) . 2018;4(4):353-63. Schmitz-Dräger BJ, Droller M, Lokeshwar VB, et al. Molecular Markers for Bladder Cancer Screening, Early Diagnosis, and Surveillance: The WHO/ICUD Consensus. Urologia Internationalis . 2015;94(1):1-24. doi:10.1159/000369357 Soubra A, Risk MC. Diagnostics techniques in nonmuscle invasive bladder cancer. Indian journal of urology : IJU : journal of the Urological Society of India . Oct-Dec 2015;31(4):283-8. doi:10.4103/0970-1591.166449 Stecca C, Chowdhury D, Blais N, et al. 2024 CUA-GUMOC Expert Report: Management of unresectable locally advanced and metastatic urothelial carcinoma. Can Urol Assoc J . 2024;18(12):379-90 Sutton AJ, Lamont JV, Evans RM, et al. An early analysis of the cost-effectiveness of a diagnostic classifier for risk stratification of haematuria patients (DCRSHP) compared to flexible cystoscopy in the diagnosis of bladder cancer. PloS one . 2018;13(8):e0202796. doi:10.1371/journal.pone.0202796 Tan WS, Tan WP, Tan MY, et al. Novel urinary biomarkers for the detection of bladder cancer: A systematic review. Cancer Treat Rev . Sep 2018;69:39-52. doi:10.1016/j.ctrv.2018.05.012 USPSTF. Bladder Cancer in Adults: Screening. https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/bladder- cancer-in-adults-screening Vasdev N, Hampson A, Agarwal S, et al. The role of URO17™ biomarker to enhance diagnosis of urothelial cancer in new hematuria patients—First European Data. BJUI Compass . 2021;2(1):46-52. doi:10.1002/bco2.50 Vasdev, Hampson A, Agarwal S, et al. The role of URO17™ biomarker to enhance diagnosis of urothelial cancer in new hematuria patients-First European Data. BJUI Compass . Jan 2021;2(1):46-52. doi:10.1002/bco2.50 Witjes JA, Bruins HM, Cathomas R, et al. Muscle-invasive and Metastatic Bladder Cancer. https://doi.org/10.1016/j.eururo.2023.08.016 Zuiverloon TCM, de Jong FC, Theodorescu D. Clinical Decision Making in Surveillance of Non-Muscle-Invasive Bladder Cancer: The Evolving Roles of Urinary Cytology and Molecular Markers. Oncology (Williston Park, NY) . Dec 15 2017;31(12):855-62."
+  ],
+  "resources": null,
+  "_extraction_stats": {
+    "total_sections": 4,
+    "total_tables": 2,
+    "total_characters": 14807
+  }
+}
