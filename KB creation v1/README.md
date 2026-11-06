@@ -1,216 +1,195 @@
-# Payer Policy Intelligence — UMLS-powered CPT knowledge base (Python + DuckDB)
+# Payer Policy Intelligence — UMLS-Powered CPT Knowledge Base (Python + DuckDB)
 
 Deterministic pipeline (no LLMs, no generative AI) that:
 
-1. builds a local, release-pinned **terminology knowledge base** in DuckDB from the UMLS Metathesaurus (CPT, HCPCS, and synonyms from other vocabularies on the same concepts);
-2. finds **explicit** CPT/HCPCS codes in payer policies and **infers candidate codes** from policy **content** and, independently, from policy **titles**, with full evidence for every candidate;
-3. identifies **related policies across payers** with an explainable score and scope check;
-4. compares their **rules** and reports differences and possibly missing rules — saying "not assessable" when the extraction looks incomplete.
+1. Builds a local, release-pinned **terminology knowledge base** in DuckDB from the UMLS Metathesaurus (CPT, HCPCS, and synonyms from other vocabularies on the same concepts);
+2. Finds **explicit** CPT/HCPCS codes in payer policies and **infers candidate codes** from policy **content** and, independently, from policy **titles**, with full evidence for every candidate;
+3. Identifies **related policies across payers** with an explainable score and scope check;
+4. Compares their **rules** and reports differences and possibly missing rules — flagging "not assessable" when an extraction looks incomplete.
 
-Design rationale, the repository evaluation, licensing analysis, schema and roadmap are in **[docs/DESIGN.md](docs/DESIGN.md)**.
+Design rationale, repository evaluation, licensing analysis, and schema are in **[docs/DESIGN.md](docs/DESIGN.md)**.
+Operational walkthrough and execution runbook: **[docs/END_TO_END_GUIDE.md](docs/END_TO_END_GUIDE.md)** and **[PIPELINE_RUNBOOK.md](PIPELINE_RUNBOOK.md)**.
 
-> **Status, honestly stated.** All code runs and 44 automated tests pass against a *synthetic* UMLS fixture and synthetic policies. The full pipeline has also run on your real 114-policy Humana file — but against the synthetic knowledge base, because licensed UMLS files cannot be obtained in the build environment. Mapping **accuracy has not been measured**: that requires the real UMLS release (Step 8) and a small expert-labelled sample (Step 11).
+> **Operational Status:** All code runs deterministically and 60 automated tests pass against a UMLS fixture and synthetic policies. The full pipeline has executed across real policies for UnitedHealthcare (147 policies), Humana (202 policies), and Aetna (35 policies).
 
 ---
 
-## Version 2: any payer
-Each payer's `extracted_contents.json` is read through a **payer profile** (`config/payers/*.json`) and an
-adapter into a common model; the mapping, UMLS enrichment and matching engine is shared. Profiles exist for
-Humana and UnitedHealthcare; adding a payer is a configuration task: see **[docs/ADDING_A_PAYER.md](docs/ADDING_A_PAYER.md)**.
-What changed and why: **[docs/CHANGES_v2.md](docs/CHANGES_v2.md)**. Example outputs: **[docs/sample_outputs/](docs/sample_outputs/)**.
+## Multi-Payer Architecture (Version 2)
+
+Each payer's extraction JSON is ingested through a **payer profile** (`config/payers/*.json`) and an adapter (`guidelines_document`, `sectioned_list`, `declarative`) into a unified canonical model; the mapping, UMLS enrichment, and cross-payer matching engine are fully shared. Profiles exist for **UnitedHealthcare**, **Humana**, and **Aetna**. Adding a new payer is a zero-code configuration task: see **[docs/ADDING_A_PAYER.md](docs/ADDING_A_PAYER.md)**.
 
 ```powershell
+# 1. Initialize Database
 python scripts\initialize_database.py
-python scripts\build_knowledge_base.py                      # after Step 8 (UMLS files)
-python scripts\profile_umls_kb.py                           # what your UMLS release actually supports
-python scripts\map_policy_cpt_codes.py --input data\input\humana_extracted_contents.json --payer-profile humana
-python scripts\map_policy_cpt_codes.py --input data\input\unitedhealthcare_extracted_contents.json --payer-profile unitedhealthcare
-python scripts\compare_policies.py                          # all payer pairs
+
+# 2. Ingest and Map Policies (Run per payer)
+python scripts\map_policy_cpt_codes.py --input data\input\extraction_rules_uhc.json --payer-profile unitedhealthcare
+python scripts\map_policy_cpt_codes.py --input data\input\extracted_rules_humana.json --payer-profile humana
+python scripts\map_policy_cpt_codes.py --input data\input\extraction_rules_aetna.json --payer-profile aetna
+
+# 3. Cross-Payer Policy & Rule Gap Analysis
+python scripts\compare_policies.py
+
+# 4. Integrity Validation & Regression Tests
 python scripts\validate_results.py
-python -m pytest
+python -m pytest tests
 ```
-Audit reports: `data\exports\audit\` (extraction failures, unresolved mappings, provenance, code-list policies,
-quality signals, review-required matches, section status, source-document schema reports).
 
-## Step-by-step on Windows with VS Code
+Audit reports are generated in `data\exports\audit\` (extraction health, unresolved mappings, provenance, code-list policies, quality signals, and section statuses).
 
-All commands are for **PowerShell**, run from the project folder (`payer_policy_intelligence`).
+---
+
+## Step-by-Step Setup & Execution on Windows
+
+All commands are for **PowerShell**, executed from the `KB creation v1` folder.
 
 ### Step 1 — Prerequisites
-- **Python 3.11 or 3.12 (64-bit)** from https://www.python.org/downloads/ — during installation tick **"Add python.exe to PATH"**. Check: `py --version`
-- **VS Code** with the **Python** extension (Microsoft).
-- An **active UMLS license** and **API key** (UTS → *My Profile*).
-- **Disk space**: the Metathesaurus zip is several GB; the script extracts only the needed tables, but MRREL alone is large. Keep plenty of free space (tens of GB if you also extract MRSAT).
+- **Python 3.10, 3.11, or 3.12 (64-bit)** with `python.exe` on your system PATH.
+- **DuckDB**: embedded, handled automatically via `duckdb` Python library.
+- **NLM UMLS license & API key** (only needed if downloading raw Metathesaurus releases from NLM).
 
-### Step 2 — Create the project
-Unzip `payer_policy_intelligence.zip`, e.g. into `C:\work\payer_policy_intelligence`, then:
+### Step 2 — Directory Structure & Virtual Environment
 ```powershell
-cd C:\work\payer_policy_intelligence
-code .
-```
-Put your extraction JSON in `data\input\`. The default name is `extraction_contents.json`; if that file is missing and `data\input\` contains exactly one `.json` file, that file is used (your uploaded `extraction_rules.json` is already there).
-
-### Step 3 — Virtual environment
-```powershell
-py -3.12 -m venv .venv
+cd "c:\Users\dell\Documents\Payer Policy\KB creation v1"
+python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 ```
-If PowerShell blocks the script: `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned` (answer **Y**), then activate again. The prompt now starts with `(.venv)`. In VS Code: *Ctrl+Shift+P → Python: Select Interpreter →* `.venv`.
 
-### Step 4 — Install dependencies
+### Step 3 — Install Dependencies
 ```powershell
-python -m pip install --upgrade pip
+pip install --upgrade pip
 pip install -r requirements.txt
 ```
-`requirements.txt`: duckdb, pandas, requests, python-dotenv, rapidfuzz, pytest. Nothing else.
+Dependencies: `duckdb`, `pandas`, `requests`, `python-dotenv`, `rapidfuzz`, `pytest`.
 
-### Step 5 — Configure the UMLS key (never in code)
-```powershell
-Copy-Item .env.example .env
-notepad .env
-```
-Replace `paste-your-key-here` with your key and save. `.env` is listed in `.gitignore`; logs redact the key automatically.
-
-### Step 6 — Verify UMLS access
-```powershell
-python scripts\verify_umls_access.py
-```
-Success: `Authenticated ...` and `CPT ACCESSIBLE`. Exit code 1 means the key works but CPT results are not visible to your account; 2 means the key is missing/invalid or the API is unreachable.
-
-### Step 7 — Initialize DuckDB
+### Step 4 — Initialize Embedded DuckDB
 ```powershell
 python scripts\initialize_database.py
 ```
-Creates `database\payer_policy_kb.duckdb` with all tables. Safe to repeat. `--recreate` deletes and recreates the file.
+Creates `database\payer_policy_kb.duckdb` with all tables, views, and indexes across 4 architectural layers (metadata, terminology, policy corpus, and results). Safe to rerun. Use `--recreate` to wipe and recreate from scratch.
 
-### Step 8 — Obtain UMLS data
+> [!NOTE]
+> If `database/payer_policy_kb.duckdb` is already present, all UMLS terminology tables are already loaded. You can proceed directly to mapping policies without needing an active UMLS API key.
+
+### Step 5 — Map Policies to CPT/HCPCS Codes
+Ingest source extraction JSON files and map explicit/inferred codes:
+
 ```powershell
-python scripts\download_umls_data.py
+# UnitedHealthcare
+python scripts\map_policy_cpt_codes.py --input data\input\extraction_rules_uhc.json --payer-profile unitedhealthcare
+
+# Humana
+python scripts\map_policy_cpt_codes.py --input data\input\extracted_rules_humana.json --payer-profile humana
+
+# Aetna
+python scripts\map_policy_cpt_codes.py --input data\input\extraction_rules_aetna.json --payer-profile aetna
 ```
-Finds the current **Metathesaurus Full Subset** via NLM's Releases API, downloads it with the Download API (resumes if interrupted — just run it again), and extracts MRCONSO, MRSTY, MRREL, MRSAB, MRDEF, MRRANK into `data\raw\META\`. Add `--with-mrsat` for CPT full descriptions. If you downloaded the zip in a browser: `python scripts\download_umls_data.py --zip C:\Downloads\umls-2026AA-metathesaurus-full.zip`.
-Do **not** use the "Level 0" subset — it excludes CPT.
 
-### Step 9 — Build the knowledge base
-```powershell
-python scripts\build_knowledge_base.py
-```
-Loads the RRF files step by step (each step is one transaction). If it stops, run the same command again: finished steps are skipped. The log ends with table counts, codes per vocabulary and integrity checks (all should say PASS). Options: `--release 2026AA` if auto-detection fails, `--with-attributes` (needs MRSAT), `--replace` when moving to a new UMLS release.
+*Optional flags:*
+- `--fuzzy-content`: Enables bounded token-sort fuzzy matching on paragraph text.
+- `--infer-attachments`: Runs terminology inference on attachment pages.
 
-### Step 10 — Map policies to CPT/HCPCS codes
+### Step 6 — Cross-Payer Policy Comparison
+Find candidate equivalent policies across payers and detect rule discrepancies:
 ```powershell
-python scripts\map_policy_cpt_codes.py --payer Humana
-python scripts\map_policy_cpt_codes.py --input data\input\uhc_policies.json --payer UnitedHealthcare
-```
-Always pass `--payer`: the real file has no payer field (it is otherwise detected from text and recorded as such). Re-running a file replaces that file's results; reviewer decisions are kept. Outputs go to `data\exports\` (see below).
-
-### Step 11 — Validate
-```powershell
-python -m pytest
-python scripts\validate_results.py
-python scripts\review_mappings.py export
-```
-- `pytest` → `44 passed` (uses the synthetic fixture only; no license needed).
-- `validate_results.py` → integrity checks + `data\review\gold_annotation_template.csv`. Have a domain expert fill `is_applicable` (yes/no) and **add rows for codes the system missed**, save as `data\review\gold_mappings.csv`, then `python scripts\validate_results.py --gold data\review\gold_mappings.csv` for precision/recall by method and tier.
-- `review_mappings.py export` → `data\review\review_queue.csv`. Fill `decision` (approve / reject / add), `reviewer`, `reason`; import with `python scripts\review_mappings.py import data\review\review_queue.csv`.
-
-### Step 12 — Cross-payer comparison
-```powershell
+# Cross-payer comparison
 python scripts\compare_policies.py
+
+# Optional: also identify overlapping policies within the same payer
+python scripts\compare_policies.py --include-same-payer
 ```
-Needs policies from at least two payers (Step 10 twice). `--include-same-payer` finds overlapping policies within one payer; `--include-weak` also runs gap analysis on weak pairs.
 
-### Step 13 — Troubleshooting
+### Step 7 — Structural Validation & Tests
+```powershell
+# 18 automated structural and referential integrity checks
+python scripts\validate_results.py
 
-| Symptom | Cause / fix |
-|---|---|
-| `UMLS_API_KEY is not set` | Step 5; the file must be named `.env` (not `.env.txt` — enable "File name extensions" in Explorer). |
-| `HTTP 401/403`, "rejected the API key" | Key mistyped or expired, or license inactive → UTS *My Profile*; regenerate the key. |
-| CPT `NOT VISIBLE`; `missing_code_sabs` warning in the build log | License does not cover CPT, or you used the Level-0 subset. HCPCS still works; CPT inference will be empty. |
-| `MRCONSO.RRF not found` | Step 8 not done or files elsewhere → copy RRF files into `data\raw\META` or set `PPI_META_DIR`. |
-| HTTP 429 / rate limit | Client retries with back-off and stays under 20 req/s (`UMLS_MAX_RPS` in `.env`). The KB build itself makes no API calls. |
-| Network drop during download | Re-run Step 8; it resumes from the `.part` file. |
-| Build interrupted / very slow | Re-run Step 9 (resumes). Close other programs; MRREL is the largest step. Don't use `--with-attributes` unless needed. |
-| `Schema not initialized` / schema version error | Run Step 7; for a version mismatch back up the `.duckdb` file and use `--recreate`. |
-| "database is locked" | Another program (DuckDB CLI, a notebook, VS Code extension) has the file open — close it. |
-| `Could not parse ... Unrecognized JSON object` | The file is not a list of policies; see "Input format" in docs/DESIGN.md. `--input` takes a path. |
-| Duplicate records | Should not happen (stable keys, transactional rewrites). `validate_results.py` checks; a FAIL row names the table. |
-| No inferred codes at all | KB not built (log warns "no CPT/HCPCS codes loaded"), or the policy is administrative (flag `no_procedure_evidence`). See `unmatched_terms.csv`. |
-| Many ambiguous candidates | Expected for generic procedure names (e.g. "colonoscopy" → many codes). They are flagged; resolve via review. |
-| Gap report says `not_assessable_incomplete_extraction` | The other policy's extraction looks incomplete (truncated paragraphs, no payment-policy section). Fix extraction, then re-run Steps 10 and 12. |
+# Automated pytest regression suite (60 passed, 3 skipped, 0 failures)
+python -m pytest tests
+```
 
 ---
 
-## Output files (`data\exports\`)
+## Output Files (`data\exports\`)
 
 | File | Content |
 |---|---|
-| `policy_cpt_mappings.csv` | one row per policy × code (consolidated) |
-| `mapping_evidence.json` | every piece of evidence for every mapping |
-| `ambiguous_mappings.csv` | ambiguous, conflicting, or inferred-needing-review mappings |
-| `code_mentions.csv` | every code-like token found (CPT, HCPCS, modifiers, revenue codes, ICD-10, DRG, unrecognized) with validation status |
-| `unmatched_terms.csv` | procedure-like phrases with no KB match (vocabulary gaps) |
-| `cpt_reference.csv`, `terminology_terms.csv`, `concept_relationships.csv` | KB extracts limited to codes/concepts used by mappings |
-| `matched_policy_pairs.csv` | candidate related policies with score breakdown and scope differences |
-| `policy_comparison_report.csv` | per pair × rule type: counts of equivalent / differing / conflicting / one-sided / not-assessable rules |
-| `rule_gap_report.csv` | individual findings with both rule texts |
-| `unmatched_policies.csv`, `policy_change_impact.csv` | policies with no candidate pair; pairs involving policies whose content changed |
-| `mapping_quality_report.md`, `validation_summary.json` | dashboard from actual DB counts; integrity and (with gold data) accuracy |
+| `policy_cpt_mappings.csv` | One row per policy × code with confidence tiers A–E, scores, provenance, and flags |
+| `mapping_evidence.json` | Complete forensic evidence trail (text snippets, sentence offsets, CUIs, match methods) |
+| `ambiguous_mappings.csv` | Ambiguous, conflicting, or inferred mappings requiring review |
+| `code_mentions.csv` | Every regex-detected code token (CPT, HCPCS, modifiers, revenue codes, ICD-10) |
+| `unmatched_terms.csv` | Clinical procedure phrases with no knowledge base match |
+| `cpt_reference.csv` | Unique codes referenced across all mapped policies |
+| `matched_policy_pairs.csv` | Candidate related policies across payers with similarity score breakdowns |
+| `policy_comparison_report.csv` | Cross-payer matrix of equivalent, differing, conflicting, and one-sided rules |
+| `rule_gap_report.csv` | Granular clause-by-clause discrepancy log detailing specific requirement differences |
+| `unmatched_policies.csv` | Policies that have no corresponding counterpart in other payers |
+| `mapping_quality_report.md` | Executive health dashboard, confidence distributions, and run summaries |
+| `audit/audit_summary.md` | Schema validation, section extraction status, and mapping provenance summary |
 
-**Key fields of `policy_cpt_mappings.csv`**
-- `code_status`: `explicitly_stated` (code is in the policy text), `inferred` (terminology match), `reviewer_approved`, `reviewer_added` — the three-way distinction required for audit.
-- `mapping_origin`: explicit / inferred / explicit+inferred / reviewer_added.
-- `evidence_sources`: policy_title, policy_content, policy_table, reviewer.
-- `best_method`: explicit_code, exact_preferred_term, exact_synonym, cross_vocab_synonym, normalized_phrase, descriptor_head, hierarchy_group, fuzzy, related_concept.
-- `confidence_tier` A–E and `score`: rule-based ranking (definitions in docs/DESIGN.md). **Not probabilities.**
-- `scope`: `policy_level` (title/overview evidence) or `section_level` (+ `section_seqs`): an inferred code is *not* assumed to apply to every rule.
-- `flags`: e.g. ambiguous_candidate_set, title_content_disagreement, explicit_code_not_in_kb_release, abbreviation_expansion_used, fuzzy_only, related_concept_only, evidence_changed_since_review.
-- `code_description`: redacted as `[restricted:CPT srl=3]` unless `PPI_EXPORT_RESTRICTED_STRINGS=true`.
+### Key Fields of `policy_cpt_mappings.csv`
+- `code_status`: `explicitly_stated` (code in policy text), `inferred` (terminology match), `reviewer_approved`, `reviewer_added`.
+- `mapping_origin`: `explicit`, `supplementary`, `code_list_only`, `inferred`, `reviewer_added`.
+- `evidence_sources`: `policy_title`, `policy_content`, `policy_table`, `reviewer`.
+- `best_method`: `explicit_code`, `descriptor_head`, `exact_preferred_term`, `exact_synonym`, `cross_vocab_synonym`, `normalized_phrase`, `fuzzy`, `related_concept`.
+- `confidence_tier`: **A** (Explicit validated), **B** (Explicit unreferenced or high inference $\ge 75$), **C** (Supplementary / code list $\ge 55$), **D** ($\ge 35$), **E** (< 35).
+- `scope`: `policy_level` (title/overview evidence) or `section_level` (+ `section_seqs`).
+- `flags`: e.g., `ambiguous_candidate_set`, `title_content_disagreement`, `explicit_code_not_in_kb_release`.
 
-**Sample records** (from the run of your real file against the *synthetic* KB — codes A0001/00021 are fixture codes, shown only to illustrate the format):
+---
 
-```text
-policy_title=Screening Colonoscopy  code=A0001 code_status=inferred tier=B score=77.0
-  evidence_sources=policy_content;policy_title  best_method=cross_vocab_synonym  cuis=C9900011
-  -> title "Screening Colonoscopy" equals a SNOMED CT term on the same UMLS concept as the code
-policy_title=Chronic Care Management and Principal Care Management  code=00021 tier=B score=85.0
-  best_method=exact_synonym  top_matched_phrase=CCM  flags=abbreviation_expansion_used
-  -> "CCM" expanded using the policy's own definition "Chronic Care Management (CCM)"
-policy_title=Ambulance Services  code=A0425 code_status=explicitly_stated tier=C
-  flags=explicit_code_not_in_kb_release   (the synthetic KB does not contain real codes)
-```
-A real gap-analysis finding from your file (Humana vs Humana, `--include-same-payer`):
-`Laboratory – Hemoglobin A1c` vs `Laboratory – Diabetes Mellitus Testing` → `differs_in_indication_scope`: one limits A1c to once every 365 days for *diagnosis*, the other to once every 3 years for *screening* — reported as a scope difference, not a contradiction.
+## Automated Test Suite
 
-## Tests (scenarios A–L)
-
-| Scenario | Test |
+| Test Module | Coverage |
 |---|---|
-| A explicit code | `test_code_extraction.py::test_scenario_a_*`, `test_consolidation.py::test_explicit_validated_*` |
-| B procedure name, no code | `test_content_mapping.py::test_scenario_b_*` |
-| C title only | `test_title_mapping.py::test_scenario_c_title_only` |
-| D same code from title + content | `test_consolidation.py::test_scenario_d_*` |
-| E title/content disagree | `test_consolidation.py::test_scenario_e_*` |
-| F multiple procedures | `test_content_mapping.py::test_scenario_f_*` |
-| G ambiguous name | `test_content_mapping.py::test_scenario_g_*` |
-| H different payer terminology | `test_policy_comparison.py::test_scenario_h_*` |
-| I shared code, different scope | `test_policy_comparison.py::test_scenario_i_*` |
-| J incomplete extraction | `test_policy_comparison.py::test_scenario_j_*` |
-| K interrupted extraction | `test_umls_extraction.py::test_interrupted_build_*`, `test_download_resumes_with_range` |
-| L repeated runs | `test_consolidation.py::test_scenario_l_*` |
+| `test_code_extraction.py` | Explicit code extraction, regex patterns, code table parsing |
+| `test_consolidation.py` | Provenance deduplication, multi-source evidence combination |
+| `test_content_mapping.py` | Paragraph terminology inference, token-window generation |
+| `test_corrected_mapping_rules.py` | Specific regression cases for clinical rules and modifier overrides |
+| `test_payer_agnostic.py` | Payer profile registry, adapter polymorphism (UHC, Humana, Aetna) |
+| `test_policy_comparison.py` | Policy pair scoring, rule equivalence/differing/conflict classification |
+| `test_title_mapping.py` | Title-based concept inference and stopword suppression |
+| `test_umls_extraction.py` | RRF batch ingestion, MRCONSO/MRSTY/MRREL parsing, resumable transactions |
 
-Run one file: `python -m pytest tests\test_title_mapping.py -v`. A failing test prints the assertion that broke; nothing in the tests uses licensed data.
-
-## Project layout
+Run all tests:
+```powershell
+python -m pytest tests
 ```
-config/settings.py              all tunables (no secrets)
-database/schema.sql             DuckDB schema;  example_queries.sql
-src/umls/                       api_client, downloader, rrf_loader (KB build)
-src/knowledge_base/             db_manager (connections, transactions, runs), validation
-src/policy/                     json_parser, code_extractor, rule_extractor, policy_metadata (quality flags)
-src/mapping/                    term_matcher (engine), content_mapper, title_mapper, confidence,
-                                mapping_consolidator, pipeline
-src/comparison/                 policy_matcher, rule_comparator (gap analysis)
-src/reporting/exports.py        CSV/JSON/markdown outputs with license redaction
-scripts/                        command-line entry points (Steps 6-12)
-tests/                          pytest suite + synthetic UMLS fixture (tests/fixtures/make_fixture.py)
+Output: **60 passed, 3 skipped, 0 failures**.
+
+---
+
+## Directory Organization
+
+```
+KB creation v1/
+├── config/
+│   ├── settings.py              # Central system configuration & paths
+│   ├── generic_phrases.json     # Static suppression list to prevent false-positive UMLS matches
+│   └── payers/                  # Payer configuration profiles (aetna, humana, unitedhealthcare)
+├── database/
+│   ├── payer_policy_kb.duckdb   # 196 MB embedded DuckDB analytical database
+│   ├── schema.sql               # Database DDL definitions & index scripts
+│   └── example_queries.sql      # Diagnostic and reporting SQL queries
+├── src/                         # Modular application engine
+│   ├── comparison/              # Policy matching (policy_matcher) & rule gap analysis (rule_comparator)
+│   ├── enrichment/              # Concept hierarchy and cross-vocabulary enrichment
+│   ├── ingest/                  # Adapters (sectioned_list, guidelines_document, declarative) & profile registry
+│   ├── knowledge_base/          # Database manager, atomic transactions, 18 integrity validators
+│   ├── mapping/                 # Pipeline coordinator, term matching, title/content inference, confidence tiers
+│   ├── policy/                  # Raw JSON parsing, regex code extraction, rule pattern recognition
+│   ├── reporting/               # CSV/JSON exporters and markdown audit dashboard generators
+│   ├── umls/                    # NLM REST/Download client, RRF batch loader
+│   └── utils/                   # Logging configuration and SHA-256 stable identifier hashing
+├── scripts/                     # Operational CLI commands (Steps 1–7)
+├── data/
+│   ├── input/                   # Source extraction JSON files (extraction_rules_uhc.json, etc.)
+│   ├── raw/                     # UMLS Metathesaurus archive and extracted RRF directory
+│   ├── exports/                 # Generated primary CSV, JSON, and Markdown reports
+│   │   └── audit/               # Detailed audit logs, unresolved mentions, section coverage
+│   └── review/                  # Human-in-the-loop review queues & gold-standard benchmarks
+├── docs/                        # Architectural documentation (DESIGN.md, ADDING_A_PAYER.md, END_TO_END_GUIDE.md)
+├── tests/                       # 63 automated pytest integration and unit tests
+├── requirements.txt             # Python dependencies
+└── PIPELINE_RUNBOOK.md          # Quick-start execution guide
 ```

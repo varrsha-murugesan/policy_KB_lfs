@@ -319,9 +319,9 @@ class KnowledgeBaseBuilder:
         temp_dir.mkdir(parents=True, exist_ok=True)
         self.con.execute(f"PRAGMA temp_directory='{str(temp_dir).replace(chr(92), '/')}'")
         self.con.execute("PRAGMA max_memory='10GB'")
-        # Focus on candidate relationship types used for terminology inference
-        candidate_rels = tuple(set(SETTINGS.vocab.candidate_rels + ("PAR", "RB")))
-        rels = ", ".join(f"'{r}'" for r in candidate_rels)
+        # Relationships kept in the knowledge base
+        keep_rels = tuple(set(SETTINGS.vocab.keep_rels))
+        rels = ", ".join(f"'{r}'" for r in keep_rels)
         self.con.execute(f"""
             INSERT INTO concept_relationships (rui, cui1, rel, cui2, rela, sab, dir, suppress, umls_release)
             SELECT r.RUI, r.CUI1, r.REL, r.CUI2, NULLIF(r.RELA, ''), r.SAB, NULLIF(r.DIR, ''), r.SUPPRESS, ?

@@ -46,20 +46,25 @@ Other open-source options: QuickUMLS (approximate dictionary matching over MRCON
 - Consequences built into the code: RRF files, the DuckDB file and exports are git-ignored; exported strings from sources with restriction level > 0 are redacted unless `PPI_EXPORT_RESTRICTED_STRINGS=true`; codes and CUIs (identifiers) are always kept so results stay traceable (license §11c). If you build a product for others, or production claim-processing use, confirm with AMA/legal whether your CPT rights cover it — the UMLS license alone may not.
 - The license requires an annual usage report to NLM (§5).
 
-## 4. Input file: actual structure (`extraction_rules.json`)
+## 4. Multi-Payer Input Architecture
 
-List of 114 policies: `policy_title, policy_number, effective_date, source_pdf, line_of_business, billing_class, extracted_content[]`; each element: `title, section, subsection, hierarchy_path, page_number/page_start/page_end, content, codes[], table_data{columns,row}|null, content_type ∈ {paragraph (315), bullet_point (107), definition (54), table_row (909)}`.
+The engine ingests extracted payer policies through polymorphic adapters configured in `config/payers/<payer>.json`:
 
-Findings that shaped the parser and pipeline:
-- **No payer field.** 71 policies name Humana; 43 name no payer → `--payer` CLI argument, else text detection, else file majority; `payer_source` records which.
-- **`policy_number` is not unique** (`CP2013101`, `LAB2023027` each label two policies) → key = payer + hash(`source_pdf`).
-- **Upstream `codes` list is unreliable**: mixes CPT, HCPCS, `Modifier-XX`, `RevCode-NNNN`, ICD-10, DRG, CPT MAAA (`0012M`) and false positives (`X12` = ANSI standard, `J01` antigen name, `B12` vitamin), and misses codes in text (modifiers PT, 33 in *Screening Colonoscopy*) → treated as hints; everything is re-extracted and re-validated.
-- Code ranges appear (`98940 – 98942`, `00100 – 01999`, `G0380 – G0384`) → expanded only against reference data.
-- 29 policies contain no codes; many are administrative (claim disputes, fees) and correctly end with `no_procedure_evidence`.
-- Some paragraphs are truncated mid-sentence ("...mileage is not") → `possible_truncated_paragraphs` flag (23 policies) that gap analysis respects.
-- Section names carry scope: "Kentucky Medicaid Payment Policy" → `scope_label = Kentucky Medicaid`; "Definitions of Italicized Terms" and LCD reference sections get lower evidence weight.
+1. **Guidelines Document Adapter** (UnitedHealthcare, Aetna):
+   - Ingests structured guidelines with `reimbursement_guidelines.content`, `subsections`, `tables`, `definitions`, and Q&A items (`questions_and_answers`).
+   - Normalizes attachment tables and parameter lists (e.g. Time Span codes, Add-on code pairs).
+2. **Sectioned List Adapter** (Humana):
+   - Ingests policy files structured as lists of sections (`extracted_content[]` with `title`, `section`, `subsection`, `content`, `codes[]`, `table_data`).
+3. **Declarative Adapter** (Generic / New Payers):
+   - Allows declaring JSONPath bindings directly in the payer profile without code modifications.
 
-Tolerated variants: root object wrapping a list (`policies`, `data`, `items`, `results`, `documents`), single policy object, JSON Lines, aliases (`title/policy_name`, `policy_id`, `sections/contents`, `text/body`).
+Key normalization findings handled by the ingestion layer:
+- **Payer Identification**: Payer identity is pinned via `--payer-profile <payer>` or explicit detection patterns.
+- **Unique Stable Identification**: Stable UUIDs are computed via deterministic SHA-256 hashes of `payer + source_pdf`.
+- **Code Mention Extraction & Re-Validation**: Because raw upstream code lists may omit modifier tokens or include non-procedure strings (e.g., ANSI standards or vitamin names), the engine extracts and re-validates all code mentions directly from policy text, tables, and Q&A using strict CPT/HCPCS regex grammars.
+- **Code Range Expansion**: Explicit ranges (`98940 – 98942`, `00100 – 01999`) are safely expanded against the terminology reference.
+- **Administrative vs. Clinical Classification**: Policies without procedure codes (e.g. claim dispute policies, administrative fees) are cleanly flagged with `no_procedure_evidence`.
+- **Scope Segmentation**: Clinical section scopes (e.g., Line of Business, State Medicaid, Professional vs. Technical component) are preserved and associated with extracted rules.
 
 ## 5. Architecture
 

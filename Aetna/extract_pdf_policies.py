@@ -501,29 +501,99 @@ def process_policy_pdf(pdf_path: Path) -> Dict[str, Any]:
     # 2. Sections
     sections = extract_sections(doc)
 
-    # 3. Reimbursement guidelines
-    rg_data = extract_reimbursement_guidelines(doc, sections)
+    # Collect all tables across the document
+    all_extracted_tables = []
+    seen_table_keys = set()
+    for pno in range(len(doc)):
+        tbls = extract_tables_for_section(doc, pno, pno)
+        for tbl in tbls:
+            t_key = tuple((r.get("key"), r.get("value")) for r in tbl.get("content", []) if isinstance(r, dict))
+            if t_key and t_key not in seen_table_keys:
+                seen_table_keys.add(t_key)
+                all_extracted_tables.append(tbl)
 
-    # 4. Codes section tables & all CPT codes
-    codes_tables = []
-    for k in ("Codes/Condition of Coverage", "Codes/Conditions of Coverage", "Codes", "CODES"):
-        if k in sections:
-            start_p, end_p = sections[k][1], sections[k][2]
-            codes_tables.extend(extract_tables_for_section(doc, start_p, end_p))
+    # Extract distinct sections
+    sec_policy = ""
+    sec_overview = ""
+    sec_definitions = ""
+    sec_rg = ""
+    sec_codes = ""
 
-    all_tables = (rg_data.get("tables") or []) + codes_tables
-    cpt_codes_used = extract_cpt_codes(full_text, all_tables)
+    for k, (content, sp, ep) in sections.items():
+        k_clean = k.lower().strip()
+        if "policy" in k_clean and "reimbursement" not in k_clean and "laboratory" not in k_clean and "radiology" not in k_clean:
+            sec_policy = norm_ws(content)
+        elif "overview" in k_clean or "statement of objective" in k_clean:
+            sec_overview = norm_ws(content)
+        elif "definition" in k_clean:
+            sec_definitions = norm_ws(content)
+        elif "reimbursement guideline" in k_clean or "purpose" in k_clean:
+            sec_rg = norm_ws(content)
+        elif "code" in k_clean:
+            sec_codes = norm_ws(content)
 
-    # 5. Q&A Rules
+    # Fallback if sec_rg is empty
+    if not sec_rg and sec_overview:
+        sec_rg = sec_overview
+
+    # Combine Section D (Reimbursement Guidelines) + Section B (Overview) + Section E (Codes)
+    # Guarantees zero rule-bearing content is missed
+    content_parts = []
+    if sec_rg:
+        content_parts.append(sec_rg)
+    if sec_overview and sec_overview != sec_rg:
+        content_parts.append(sec_overview)
+    if sec_codes:
+        content_parts.append(sec_codes)
+
+    full_guideline_content = "\n\n".join(content_parts)
+
+    # Subsections
+    subsections = []
+    if sec_overview and sec_overview != sec_rg:
+        subsections.append({
+            "title": "Overview & Policy Scope",
+            "content": sec_overview
+        })
+    if sec_rg:
+        rg_subs = build_subsections(sec_rg)
+        if rg_subs:
+            subsections.extend(rg_subs)
+        else:
+            subsections.append({
+                "title": "Reimbursement Guidelines",
+                "content": sec_rg
+            })
+    if sec_codes:
+        subsections.append({
+            "title": "Codes / Conditions of Coverage",
+            "content": sec_codes
+        })
+
+    # Definitions payload matching UHC reference schema
+    definitions_data = None
+    if sec_definitions:
+        def_tables = [t for t in all_extracted_tables if any("definition" in str(r).lower() or "term" in str(r).lower() for r in t.get("content", []))]
+        definitions_data = {
+            "title": "Definitions",
+            "content": sec_definitions,
+            "tables": def_tables if def_tables else None
+        }
+
+    # Extract all CPT and HCPCS codes from text and tables
+    cpt_codes_used = extract_cpt_codes(full_text, all_extracted_tables)
+
     qa_rules = extract_qa_rules(sections)
-
-    # 6. Linked PDF contents
     linked_pdfs = extract_linked_pdfs(full_text)
-
-    # 7. Resources
     resources_content = extract_resources(sections)
 
-    # Construct the final rule matching UHC schema
+    rg_data = {
+        "title": "Reimbursement Guidelines",
+        "content": full_guideline_content,
+        "subsections": subsections if subsections else None,
+        "tables": all_extracted_tables if all_extracted_tables else None,
+    }
+
     rule = {
         "policy_title": meta.get("policy_title"),
         "policy_number": meta.get("policy_number"),
@@ -533,6 +603,7 @@ def process_policy_pdf(pdf_path: Path) -> Dict[str, Any]:
         "Billingclass": meta.get("Billingclass", "Both"),
         "CPT_CODES_USED": cpt_codes_used,
         "reimbursement_guidelines": rg_data,
+        "definitions": definitions_data,
         "Question_Answer_Rules": qa_rules,
         "linked_pdf_contents": linked_pdfs,
         "resources": resources_content,
@@ -552,7 +623,7 @@ def main():
     )
     base_dir = Path(__file__).resolve().parent
     default_input = base_dir / "aetna_il_payment_policies"
-    default_out = base_dir / "extraction_rules.json"
+    default_out = base_dir / "extraction_rules_aetna.json"
     default_out_dir = base_dir / "extracted_contents"
 
     parser.add_argument(
@@ -563,7 +634,7 @@ def main():
     parser.add_argument(
         "--out",
         default=str(default_out),
-        help="Path for compiled extraction_rules.json (default: %(default)s)",
+        help="Path for compiled extraction_rules_aetna.json (default: %(default)s)",
     )
     parser.add_argument(
         "--out-dir",

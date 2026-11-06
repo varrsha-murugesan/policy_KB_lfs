@@ -12,8 +12,12 @@
   ],
   "reimbursement_guidelines": {
     "title": "Reimbursement Guidelines",
-    "content": "ABH IL will only reimburse for removal of impacted cerumen procedures when \n• \nReported with an ICD-10-CM diagnosis code that supports the necessity for performing \nthe procedure. \n \nClaims that are submitted will be denied when \n• \nProcedures reported for removal of impacted cerumen are submitted with any other ICD-\n10-CM diagnosis that does not support the necessity for performing the procedure. \n \nThe medical record documentation is expected to support the specific CPT code(s), ICD-10-CM \ncode(s) and/ or HCPCS Codes reported.",
+    "content": "ABH IL will only reimburse for removal of impacted cerumen procedures when \n• \nReported with an ICD-10-CM diagnosis code that supports the necessity for performing \nthe procedure. \n \nClaims that are submitted will be denied when \n• \nProcedures reported for removal of impacted cerumen are submitted with any other ICD-\n10-CM diagnosis that does not support the necessity for performing the procedure. \n \nThe medical record documentation is expected to support the specific CPT code(s), ICD-10-CM \ncode(s) and/ or HCPCS Codes reported.\n\nThis policy outlines the coding and editing guidelines for reporting procedures conducted to \nremove impacted cerumen. This policy applies to all professional and facility claim types.\n\nCPT Codes \n69209 \nRemoval impacted cerumen using irrigation/lavage, unilateral \n69210 \nRemoval impacted cerumen requiring instrumentation, unilateral \n \nICD-10-CM Diagnosis Codes \nH61.20 \nImpacted cerumen, unspecified ear \nH61.21 \nImpacted cerumen, right ear \nH61.22 \nImpacted cerumen, left ear \nH61.23 \nImpacted cerumen, bilateral \n \nHCPCS Codes \nG0268 \nRemoval of impacted cerumen (one or both ears) by physician on same date \nof service as audiologic function testing",
     "subsections": [
+      {
+        "title": "Overview & Policy Scope",
+        "content": "This policy outlines the coding and editing guidelines for reporting procedures conducted to \nremove impacted cerumen. This policy applies to all professional and facility claim types."
+      },
       {
         "title": "Reported with an ICD-10-CM diagnosis code that supports the necessity for performing",
         "content": "the procedure. Claims that are submitted will be denied when"
@@ -21,9 +25,105 @@
       {
         "title": "Procedures reported for removal of impacted cerumen are submitted with any other ICD-",
         "content": "10-CM diagnosis that does not support the necessity for performing the procedure. The medical record documentation is expected to support the specific CPT code(s), ICD-10-CM code(s) and/ or HCPCS Codes reported."
+      },
+      {
+        "title": "Codes / Conditions of Coverage",
+        "content": "CPT Codes \n69209 \nRemoval impacted cerumen using irrigation/lavage, unilateral \n69210 \nRemoval impacted cerumen requiring instrumentation, unilateral \n \nICD-10-CM Diagnosis Codes \nH61.20 \nImpacted cerumen, unspecified ear \nH61.21 \nImpacted cerumen, right ear \nH61.22 \nImpacted cerumen, left ear \nH61.23 \nImpacted cerumen, bilateral \n \nHCPCS Codes \nG0268 \nRemoval of impacted cerumen (one or both ears) by physician on same date \nof service as audiologic function testing"
       }
     ],
     "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Reimbursement Policy Statement Illinois Medicaid",
+            "value": ""
+          },
+          {
+            "key": "Effective Date",
+            "value": "Next Annual Review | Policy Number"
+          },
+          {
+            "key": "12/01/2020",
+            "value": "10/28/2026 | ABHIL-RP-0007"
+          },
+          {
+            "key": "Policy Name",
+            "value": "Department"
+          },
+          {
+            "key": "Impacted Cerumen Removal",
+            "value": "Claims Operations Medical Payment"
+          },
+          {
+            "key": "Policy Type",
+            "value": ""
+          },
+          {
+            "key": "Medical",
+            "value": "Administrative | Pharmacy | Reimbursement"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "A. Policy",
+            "value": ""
+          },
+          {
+            "key": "This policy is provided as a guide to medical coding and editing guidelines for the appropriate\nreporting of ear, nose and throat procedures conducted to remove impacted cerumen. This\nguidance aligns with AMA CPT Coding Guidelines for coding and reporting of ear nose and throat\nprocedures.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "B. Overview",
+            "value": ""
+          },
+          {
+            "key": "This policy outlines the coding and editing guidelines for reporting procedures conducted to\nremove impacted cerumen. This policy applies to all professional and facility claim types.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "C. Definitions",
+            "value": ""
+          },
+          {
+            "key": "Term",
+            "value": "Definition"
+          },
+          {
+            "key": "Aetna Better\nHealth of Illinois\n(ABHIL)",
+            "value": "A subsidiary of CVS Health Corporation, Medicaid subsidiary that\nprovides plan management and other administrative services for\nthe Illinois Medicaid program."
+          },
+          {
+            "key": "American Medical\nAssociation (AMA)",
+            "value": "A professional group that publishes research to advance public\nhealth and advocates for the interests of registered physician-\nmembers."
+          },
+          {
+            "key": "Centers for\nMedicare &\nMedicaid Services\n(CMS)",
+            "value": "The federal agency that administers the Medicare program as\nwell as works with the individual states to administer state\nMedicaid and Children’s Health Insurance Programs."
+          },
+          {
+            "key": "Current\nProcedural\nTerminology\n(CPT)",
+            "value": "A medical code set maintained by the American Medical\nAssociation through the CPT Editorial Panel. The CPT code set\n(copyright protected by the AMA) describes medical, surgical,\nand diagnostic services and is designed to communicate uniform\ninformation about medical services and procedures among\nphysicians, coders, patients, accreditation organizations, and\npayers for administrative, financial, and analytical purposes."
+          },
+          {
+            "key": "Healthcare\nCommon\nProcedure Coding\nSystem (HCPCS)",
+            "value": "Level II of the HCPCS is a standardized coding system that is used\nprimarily to identify products, supplies, and services not included\nin the CPT code set. Examples include ambulance services and\ndurable medical equipment, prosthetics, orthotics, and supplies\n(DMEPOS). Level II HCPCS codes were established to allow these\nproducts, supplies and services to be reported for\nreimbursement."
+          }
+        ]
+      },
       {
         "type": "table",
         "content": [
@@ -158,6 +258,45 @@
           {
             "key": "1. American Medical Association. CPT Professional Edition 2025, AMA; 2024.\n2. American Medical Association. HCPCS Level II Professional 2025, AMA; 2025.\n3. American Medical Association. ICD-10-CM 2025 the Complete Official Codebook, AMA; 2024.",
             "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": "Term \nDefinition \nAetna Better \nHealth of Illinois \n(ABHIL) \nA subsidiary of CVS Health Corporation, Medicaid subsidiary that \nprovides plan management and other administrative services for \nthe Illinois Medicaid program. \nAmerican Medical \nAssociation (AMA) \nA professional group that publishes research to advance public \nhealth and advocates for the interests of registered physician-\nmembers. \nCenters for \nMedicare & \nMedicaid Services \n(CMS) \nThe federal agency that administers the Medicare program as \nwell as works with the individual states to administer state \nMedicaid and Children’s Health Insurance Programs. \nCurrent \nProcedural \nTerminology \n(CPT) \nA medical code set maintained by the American Medical \nAssociation through the CPT Editorial Panel. The CPT code set \n(copyright protected by the AMA) describes medical, surgical, \nand diagnostic services and is designed to communicate uniform \ninformation about medical services and procedures among \nphysicians, coders, patients, accreditation organizations, and \npayers for administrative, financial, and analytical purposes. \nHealthcare \nCommon \nProcedure Coding \nSystem (HCPCS) \nLevel II of the HCPCS is a standardized coding system that is used \nprimarily to identify products, supplies, and services not included \nin the CPT code set. Examples include ambulance services and \ndurable medical equipment, prosthetics, orthotics, and supplies \n(DMEPOS). Level II HCPCS codes were established to allow these \nproducts, supplies and services to be reported for \nreimbursement. \n\n\n \n \n \n \n \nIllinois Department \nof Health Care and \nFamily Services \n(HFS) \nThe Department of Healthcare and Family Services \nadministers health insurance programs for children, pregnant \nwomen, and adults who are residents of Illinois. \nInternational \nStatistical \nClassification of \nDiseases (ICD-10-\nCM) \nThe 10th revision of the (ICD), a medical classification list by the \nWorld Health Organization (WHO). It contains codes for diseases, \nsigns and symptoms, abnormal findings, complaints, social \ncircumstances, and external causes of injury or diseases. \nMedicaid \nThe state administered program that provides health coverage to \nmillions of Americans, including eligible low-income adults, \nchildren, pregnant women, elderly adults, and people with \ndisabilities, according to federal requirements. The program is \nfunded jointly by states and the federal government. \nMedicare \nMedicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain \ndisabilities, and people of all ages with End-Stage Renal Disease \n(permanent kidney failure requiring dialysis or a kidney \ntransplant).",
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "C. Definitions",
+            "value": ""
+          },
+          {
+            "key": "Term",
+            "value": "Definition"
+          },
+          {
+            "key": "Aetna Better\nHealth of Illinois\n(ABHIL)",
+            "value": "A subsidiary of CVS Health Corporation, Medicaid subsidiary that\nprovides plan management and other administrative services for\nthe Illinois Medicaid program."
+          },
+          {
+            "key": "American Medical\nAssociation (AMA)",
+            "value": "A professional group that publishes research to advance public\nhealth and advocates for the interests of registered physician-\nmembers."
+          },
+          {
+            "key": "Centers for\nMedicare &\nMedicaid Services\n(CMS)",
+            "value": "The federal agency that administers the Medicare program as\nwell as works with the individual states to administer state\nMedicaid and Children’s Health Insurance Programs."
+          },
+          {
+            "key": "Current\nProcedural\nTerminology\n(CPT)",
+            "value": "A medical code set maintained by the American Medical\nAssociation through the CPT Editorial Panel. The CPT code set\n(copyright protected by the AMA) describes medical, surgical,\nand diagnostic services and is designed to communicate uniform\ninformation about medical services and procedures among\nphysicians, coders, patients, accreditation organizations, and\npayers for administrative, financial, and analytical purposes."
+          },
+          {
+            "key": "Healthcare\nCommon\nProcedure Coding\nSystem (HCPCS)",
+            "value": "Level II of the HCPCS is a standardized coding system that is used\nprimarily to identify products, supplies, and services not included\nin the CPT code set. Examples include ambulance services and\ndurable medical equipment, prosthetics, orthotics, and supplies\n(DMEPOS). Level II HCPCS codes were established to allow these\nproducts, supplies and services to be reported for\nreimbursement."
           }
         ]
       }

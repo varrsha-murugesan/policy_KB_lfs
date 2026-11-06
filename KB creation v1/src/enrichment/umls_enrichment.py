@@ -100,8 +100,12 @@ def apply_enrichment(con, policy_uids: list[str], run_id: str) -> dict:
         WITH stated AS (SELECT DISTINCT m.policy_uid, e.family_cui FROM policy_cpt_mappings m
                         JOIN code_enrichment e ON e.code_system = m.code_system AND e.code = m.code
                         WHERE m.mapping_origin NOT IN ('inferred', 'reviewer_added') AND e.family_cui IS NOT NULL)
-        UPDATE policy_cpt_mappings m SET flags = list_append(m.flags, 'inferred_family_differs_from_stated_codes'),
-               needs_review = TRUE
+        UPDATE policy_cpt_mappings m 
+        SET flags = list_append(m.flags, 'inferred_family_differs_from_stated_codes'),
+            needs_review = TRUE,
+            confidence_tier = 'E',
+            score = LEAST(m.score, 20.0),
+            validation_classification = 'LIKELY_FALSE_MAPPING'
         FROM code_enrichment e
         WHERE m.policy_uid IN (SELECT unnest(?)) AND m.mapping_origin = 'inferred'
           AND e.code_system = m.code_system AND e.code = m.code AND e.family_cui IS NOT NULL
@@ -114,7 +118,12 @@ def apply_enrichment(con, policy_uids: list[str], run_id: str) -> dict:
         FROM (SELECT cui, list(DISTINCT tui ORDER BY tui) AS stys FROM concept_semantic_types GROUP BY cui) s
         WHERE ev.policy_uid IN (SELECT unnest(?)) AND ev.cui = s.cui""", [policy_uids])
     n2 = con.execute("""
-        UPDATE policy_cpt_mappings m SET flags = list_append(m.flags, 'non_procedure_semantic_type'), needs_review = TRUE
+        UPDATE policy_cpt_mappings m 
+        SET flags = list_append(m.flags, 'non_procedure_semantic_type'), 
+            needs_review = TRUE,
+            confidence_tier = 'E',
+            score = LEAST(m.score, 15.0),
+            validation_classification = 'LIKELY_FALSE_MAPPING'
         WHERE m.policy_uid IN (SELECT unnest(?)) AND m.mapping_origin = 'inferred'
           AND EXISTS (SELECT 1 FROM mapping_evidence ev WHERE ev.mapping_id = m.mapping_id AND ev.semantic_types IS NOT NULL)
           AND NOT EXISTS (SELECT 1 FROM mapping_evidence ev WHERE ev.mapping_id = m.mapping_id

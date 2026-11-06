@@ -28,7 +28,7 @@ from collections import defaultdict, Counter
 import pandas as pd
 import fitz  # pymupdf
 
-BASE_DIR = Path(r"c:\Payer Policy\Aetna")
+BASE_DIR = Path(__file__).resolve().parent
 INPUT_JSON = BASE_DIR / "extraction_rules_aetna.json"
 PDF_DIR = BASE_DIR / "aetna_il_payment_policies"
 OUTPUT_XLSX = BASE_DIR / "billing_rules.xlsx"

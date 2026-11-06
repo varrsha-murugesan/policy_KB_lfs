@@ -8,6 +8,7 @@ intact (Scenario L). Review decisions live in their own table and survive.
 from __future__ import annotations
 
 import logging
+import re
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -31,6 +32,16 @@ log = logging.getLogger(__name__)
 
 DERIVED_TABLES = ["mapping_evidence", "policy_cpt_mappings", "code_mentions", "policy_concepts", "unmatched_terms",
                   "policy_rules", "section_mapping_status", "policy_service_groups", "policy_sections"]
+
+ADMINISTRATIVE_TITLE_PATTERNS = [
+    r"\bmodifier\b", r"\binclusive\s+charges\b", r"\bhospital\s+acquired\b",
+    r"\breduced\s+services\b", r"\bdiscontinued\s+procedures\b",
+    r"\bassistant-at-surgery\b", r"\bresidents\b", r"\binterns\b",
+    r"\bmedical\s+students\b", r"\bdiagnosis\s+code\s+requirement\b",
+    r"\bfee\s+schedule\s+status\b", r"\bmppr\b", r"\bco-surgeon\b",
+    r"\bteam\s+surgeon\b", r"\bclinical\s+laboratory\s+improvement\s+amendments\b",
+    r"\bclia\b", r"\bnever\s+events?\b", r"\bclaim\s+requirements?\b"
+]
 
 
 def load_generic_phrases() -> tuple[set[str], str]:
@@ -142,10 +153,18 @@ def run_mapping(con: duckdb.DuckDBPyConnection, input_path: Path, run, payer: st
         elif p.n_distinct_codes >= min_list:
             p.policy_class = "code_list_policy"
             p.quality_flags.append(f"large_code_list:{p.n_distinct_codes}")
+        is_admin_title = any(re.search(pat, p.policy_title or "", re.IGNORECASE) for pat in ADMINISTRATIVE_TITLE_PATTERNS)
+        if p.record_status == "ok" and p.n_distinct_codes == 0 and is_admin_title:
+            p.policy_class = "administrative"
+            maps = [m for m in maps if m["mapping_origin"] != "inferred"]
+            evs = [e for e in evs if e["method"] == "explicit_code"]
+            if "no_procedure_evidence" not in p.quality_flags:
+                p.quality_flags.append("no_procedure_evidence")
         elif not maps and not any(c["has_code_link"] for c in concepts[p.policy_uid]):
             p.policy_class = "administrative"
         if p.record_status == "ok" and not maps and not any(c["has_code_link"] for c in concepts[p.policy_uid]):
-            p.quality_flags.append("no_procedure_evidence")
+            if "no_procedure_evidence" not in p.quality_flags:
+                p.quality_flags.append("no_procedure_evidence")
         rules = extract_rules(p) if p.record_status == "ok" else []
         mark_boilerplate(rules, boilerplate, p.payer)
         all_rows["section_mapping_status"].extend(

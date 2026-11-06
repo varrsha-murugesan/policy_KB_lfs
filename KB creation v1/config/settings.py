@@ -88,8 +88,9 @@ class VocabularyScope:
     # RQ = possibly synonymous, SY = source-asserted synonymy, RO = other.
     keep_rels: tuple = ("PAR", "CHD", "RB", "RN", "RQ", "SY", "RO")
     # Relationships allowed to GENERATE candidate codes (Section 17.4).
-    # RO (e.g. add_on_code_for) is stored but not used to infer codes.
-    candidate_rels: tuple = ("SY", "RQ", "RN", "CHD")
+    # SY = synonymy, RQ = closely related possible synonym, CHD = child concept.
+    # RN is excluded from candidate generation because it is a broad MeSH narrower-concept hierarchy.
+    candidate_rels: tuple = ("SY", "RQ", "CHD")
 
 
 @dataclass(frozen=True)
@@ -99,9 +100,11 @@ class MatchingSettings:
     fuzzy_threshold: float = 92.0          # rapidfuzz token_sort_ratio, 0-100
     fuzzy_min_tokens: int = 2
     max_fuzzy_candidates_per_window: int = 3
-    max_candidates_per_phrase: int = 25    # larger sets are recorded as truncated
-    max_hierarchy_depth: int = 4
-    single_token_min_len: int = 5
+    max_candidates_per_phrase: int = 15    # larger sets are rejected as non-specific
+    max_hierarchy_depth: int = 2           # bounded depth to prevent deep hierarchy explosion
+    max_hierarchy_candidates: int = 15     # hierarchy groups larger than this are broad categories
+    max_related_candidates: int = 5        # related concept groups larger than this are broad
+    single_token_min_len: int = 6
     # Corpus frequency above which a matched phrase is treated as generic.
     generic_phrase_doc_fraction: float = 0.30
     # Sentences repeated in >= this fraction of a payer's policies are boilerplate.

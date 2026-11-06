@@ -49,6 +49,22 @@ PROCEDURE_CUES = ("ectomy", "otomy", "ostomy", "oscopy", "plasty", "graphy", "ce
                   "biopsy", "testing", "test", "assay", "screening", "imaging", "injection", "infusion", "surgery",
                   "therapy", "transplant", "implant", "implantation", "ablation", "repair", "removal", "excision",
                   "evaluation", "examination", "management", "monitoring", "analysis", "panel", "culture")
+CLINICAL_PROCEDURE_SUFFIXES = ("ectomy", "otomy", "ostomy", "oscopy", "plasty", "centesis", "pexy", "rrhaphy", "lysis",
+                               "tripsy", "dialysis", "biopsy", "graphy", "intubation", "catheterization", "radiotherapy",
+                               "fluoroscopy", "amputation", "debridement", "embolization", "ablation", "puncture")
+DISALLOWED_NON_PROC_TUIS = frozenset({
+    "T021", "T022", "T023", "T024", "T029", "T030",
+    "T031", "T032",
+    "T033", "T034", "T037", "T046", "T047", "T048", "T184", "T190",
+    "T073",
+    "T078", "T079", "T080", "T081", "T082",
+    "T092", "T093", "T094", "T095",
+})
+ALLOWED_PROCEDURE_TUIS = frozenset({
+    "T058", "T059", "T060", "T061", "T062", "T063", "T065",
+    "T074", "T075",
+    "T109", "T116", "T121", "T125", "T126", "T127", "T129", "T130", "T131", "T195", "T197", "T200", "T203",
+})
 UNMATCHED_LEADING_NOISE = {"modifier", "modifiers", "applicable", "appropriate", "other", "such", "same", "separate",
                            "specific", "certain", "related", "following", "each", "additional", "records", "record",
                            "visit", "history", "any", "all", "covered", "noncovered", "billed", "reported"}
@@ -154,7 +170,8 @@ class TermMatcher:
                         phrase = " ".join(words)
                         if is_generic_phrase(phrase):
                             continue
-                        if n == 1 and (len(words[0]) < self.cfg.single_token_min_len or words[0] in GENERIC_WORDS):
+                        if n == 1 and (len(words[0]) < self.cfg.single_token_min_len or words[0] in GENERIC_WORDS
+                                       or not any(words[0].endswith(suf) for suf in CLINICAL_PROCEDURE_SUFFIXES)):
                             continue
                         # an abbreviation expansion must be used whole, not split
                         exp = {t[3] for t in span if t[3]}
@@ -249,10 +266,29 @@ class TermMatcher:
         if not cuis:
             return same, hier, related
         cl = list(cuis)
+
+        # STY filtering: identify concepts that represent non-procedure entities
+        tuis_by_cui = {}
+        for cui, tuis in self.con.execute(
+                "SELECT cui, list(DISTINCT tui) FROM concept_semantic_types WHERE cui IN (SELECT unnest(?)) GROUP BY cui",
+                [cl]).fetchall():
+            tuis_by_cui[cui] = set(tuis)
+
+        valid_cuis = []
+        for cui in cl:
+            tuis = tuis_by_cui.get(cui, set())
+            if tuis and tuis.issubset(DISALLOWED_NON_PROC_TUIS) and not (tuis & ALLOWED_PROCEDURE_TUIS):
+                continue
+            valid_cuis.append(cui)
+
+        if not valid_cuis:
+            return same, hier, related
+
         for cui, sab, code in self.con.execute(
-                "SELECT cui, sab, code FROM v_code_concepts WHERE cui IN (SELECT unnest(?))", [cl]).fetchall():
+                "SELECT cui, sab, code FROM v_code_concepts WHERE cui IN (SELECT unnest(?))", [valid_cuis]).fetchall():
             same[cui].append((sab, code))
         depth = int(self.cfg.max_hierarchy_depth)
+        max_hier = getattr(self.cfg, "max_hierarchy_candidates", 15)
         for root, sab, code in self.con.execute(f"""
                 WITH RECURSIVE d(root, cui, depth) AS (
                     SELECT c, c, 0 FROM (SELECT unnest(?) AS c)
@@ -260,14 +296,25 @@ class TermMatcher:
                     SELECT d.root, r.cui2, d.depth + 1 FROM d JOIN concept_relationships r
                       ON r.cui1 = d.cui AND r.rel = 'CHD' WHERE d.depth < {depth})
                 SELECT DISTINCT d.root, v.sab, v.code FROM d JOIN v_code_concepts v ON v.cui = d.cui
-                WHERE d.depth > 0""", [cl]).fetchall():
+                WHERE d.depth > 0""", [valid_cuis]).fetchall():
             hier[root].append((sab, code))
+
+        for root in list(hier.keys()):
+            if len(hier[root]) > max_hier:
+                del hier[root]
+
         rels = list(self.vocab.candidate_rels)
+        max_rel = getattr(self.cfg, "max_related_candidates", 5)
         for c1, rel, rela, c2, sab, code in self.con.execute("""
                 SELECT r.cui1, r.rel, r.rela, r.cui2, v.sab, v.code FROM concept_relationships r
                 JOIN v_code_concepts v ON v.cui = r.cui2
-                WHERE r.cui1 IN (SELECT unnest(?)) AND r.rel IN (SELECT unnest(?))""", [cl, rels]).fetchall():
+                WHERE r.cui1 IN (SELECT unnest(?)) AND r.rel IN (SELECT unnest(?))""", [valid_cuis, rels]).fetchall():
             related[c1].append((sab, code, f"{c1} -{rel}{'/' + rela if rela else ''}-> {c2}"))
+
+        for c1 in list(related.keys()):
+            if len(related[c1]) > max_rel:
+                del related[c1]
+
         return same, hier, related
 
     @staticmethod
@@ -377,8 +424,17 @@ class TermMatcher:
                 all_codes.setdefault(k, (v, g))
         size = len(all_codes)
         cap = self.cfg.max_candidates_per_phrase
+        if size > cap:
+            # Under Principle 6 (No forced mappings), large candidate sets (> cap) are too broad
+            # to constitute a reliable procedure mapping. Do not arbitrarily truncate and emit.
+            log.info("Phrase '%s' (%s) points to %d codes (exceeds cap %d); suppressed to prevent false mappings",
+                     w.phrase_norm, item.policy_uid, size, cap)
+            for g in groups:
+                result.concepts.append(self._concept_row(item, w, g["hit"].cui, "candidate_set_too_broad", False))
+            return
+
         keys = sorted(all_codes)[:cap]
-        truncated = size > cap
+        truncated = False
         n_tok = w.tok_end - w.tok_start
         for key in keys:
             (code_tuple, g) = all_codes[key]

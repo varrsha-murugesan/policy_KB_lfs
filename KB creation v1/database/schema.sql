@@ -244,6 +244,7 @@ CREATE TABLE IF NOT EXISTS policy_cpt_mappings (
     umls_release       VARCHAR,
     processing_version VARCHAR NOT NULL,
     run_id             VARCHAR NOT NULL,
+    validation_classification VARCHAR,
     UNIQUE (policy_uid, code_system, code)
 );
 

@@ -9,6 +9,16 @@
   "reimbursement_guidelines": {
     "title": "Reimbursement Guidelines",
     "content": "Per Aetna Better Health of Illinois Policy Ambulatory EEG is indicated with a supporting \ndiagnosis.\n\nAmbulatory EEG procedures should be reported with a supporting diagnosis indicating \nseizures/convulsions.",
+    "subsections": [
+      {
+        "title": "Overview & Policy Scope",
+        "content": "Ambulatory EEG procedures should be reported with a supporting diagnosis indicating \nseizures/convulsions."
+      },
+      {
+        "title": "Reimbursement Guidelines",
+        "content": "Per Aetna Better Health of Illinois Policy Ambulatory EEG is indicated with a supporting \ndiagnosis."
+      }
+    ],
     "tables": [
       {
         "type": "table",
@@ -33,6 +43,11 @@
         ]
       }
     ]
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": "Electroencephalogram \n(EEG) \nElectroencephalography (EEG) is an electrophysiological \nmonitoring method to record electrical activity of the brain.",
+    "tables": null
   },
   "Question_Answer_Rules": null,
   "linked_pdf_contents": null,

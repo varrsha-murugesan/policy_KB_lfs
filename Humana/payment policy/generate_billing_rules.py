@@ -27,7 +27,7 @@ from typing import List, Dict, Any, Optional, Set, Tuple
 from collections import defaultdict, Counter
 import pandas as pd
 
-BASE_DIR = Path(r"c:\Payer Policy\Humana\payment policy")
+BASE_DIR = Path(__file__).resolve().parent
 INPUT_JSON = BASE_DIR / "humana_policies" / "extraction_rules.json"
 OUTPUT_XLSX = BASE_DIR / "humana_policies" / "billing_rules.xlsx"
 OUTPUT_JSON = BASE_DIR / "humana_policies" / "billing_rules.json"

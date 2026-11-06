@@ -20,11 +20,16 @@ BAG_STOPWORDS = frozenset({"a", "an", "the", "of", "and", "or", "for", "to", "in
 
 # Words that never constitute evidence of a procedure on their own.
 GENERIC_WORDS = frozenset(
-    """service services procedure procedures test tests testing therapy treatment care visit
+    """service services procedure procedures test tests testing therapy therapies treatment treatments care visit
     visits code codes claim claims policy policies payment payments billing bill provider providers
     member members plan plans medicare medicaid advantage humana unitedhealthcare uhc medical
     reimbursement guidelines requirements requirement other unlisted each additional initial
-    subsequent per day days report reports patient patients program products product""".split()
+    subsequent per day days report reports patient patients program products product
+    placement preparation addition administration monitoring limited documentation closure
+    removal replacement insertion examination evaluation management assessment assistant
+    surgery surgical diagnostic modifiers modifier records record facility facilities hospital
+    hospitals physician physicians coverage covered noncovered standard reference definition
+    definitions section sections table attachment repair general routine set up laboratory pathology""".split()
 )
 
 _TOKEN_RE = re.compile(r"[a-z0-9]+(?:'[a-z]+)?")

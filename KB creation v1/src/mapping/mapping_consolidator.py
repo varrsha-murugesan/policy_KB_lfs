@@ -190,10 +190,26 @@ def consolidate(policy, mentions: list[CodeMention], inferred: list[InferredEvid
                                                           or "policy_description_mismatch" in flags)
         title_or_overview = any(e["evidence_source"] == "policy_title" or e["_role"] == "overview" for e in evs)
         info = code_info.get(key, {})
+
+        # Determine semantic validation classification
+        if has_explicit or has_listed:
+            val_class = "REFERENCE_MATCH"
+        elif "candidate_set_truncated" in flags or "non_procedure_semantic_type" in flags or "inferred_family_differs_from_stated_codes" in flags:
+            val_class = "LIKELY_FALSE_MAPPING"
+        elif getattr(policy, "policy_class", "") == "administrative":
+            val_class = "LIKELY_FALSE_MAPPING"
+        elif conf in ("A", "B") or (conf == "C" and not ambiguous and score >= 60.0):
+            val_class = "VALID_ADDITIONAL_CANDIDATE"
+        elif conf == "E" and ambiguous:
+            val_class = "LIKELY_FALSE_MAPPING"
+        else:
+            val_class = "NEEDS_REVIEW"
+
         mappings.append({
             "mapping_id": mid, "policy_uid": policy.policy_uid, "code_system": system, "code": code,
             "code_sab": info.get("sab") or next((e["matched_sab"] for e in evs if e["matched_sab"]), None),
             "mapping_origin": origin, "code_provenance": tiers_present[0], "provenance_tiers": tiers_present,
+            "validation_classification": val_class,
             "evidence_sources": sources, "methods": methods, "best_method": best["method"],
             "confidence_tier": conf, "score": round(score, 2),
             "cuis": sorted({e["cui"] for e in evs if e["cui"]}), "scope": "policy_level" if title_or_overview else "section_level",

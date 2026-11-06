@@ -8,8 +8,12 @@
   "CPT_CODES_USED": [],
   "reimbursement_guidelines": {
     "title": "Reimbursement Guidelines",
-    "content": "ABH IL will only reimburse for procedures/ services when appropriately reported with the \nspecific anatomical modifier applicable when \n• \nThe procedure code reported applies to a specific paired organ or structure \n• \nThe procedure code reported applies to a distinct body part (fingers, toes or eyelids) \n• \nThe procedure code reported for a unilateral procedure which was conducted bilaterally \nis correctly reported with the appropriate modifier appended \n \nClaims that are submitted will be denied when \n• \nThe anatomical modifier code reported does not match the organ, body part or structure \nreported by the CPT code \n• \nThe procedure reported is defined as requiring an anatomical modifier, but the correct or \nno anatomical modifier is not reported \n• \nThe procedure code reported for a unilateral procedure which was conducted bilaterally \nis reported without the appropriate bilateral modifier or an inappropriate modifier is \nappended. \n \nThe medical record documentation is expected to support the specific CPT code(s), ICD-10-CM, \nHCPCS code(s) and modifier(s) reported.",
+    "content": "ABH IL will only reimburse for procedures/ services when appropriately reported with the \nspecific anatomical modifier applicable when \n• \nThe procedure code reported applies to a specific paired organ or structure \n• \nThe procedure code reported applies to a distinct body part (fingers, toes or eyelids) \n• \nThe procedure code reported for a unilateral procedure which was conducted bilaterally \nis correctly reported with the appropriate modifier appended \n \nClaims that are submitted will be denied when \n• \nThe anatomical modifier code reported does not match the organ, body part or structure \nreported by the CPT code \n• \nThe procedure reported is defined as requiring an anatomical modifier, but the correct or \nno anatomical modifier is not reported \n• \nThe procedure code reported for a unilateral procedure which was conducted bilaterally \nis reported without the appropriate bilateral modifier or an inappropriate modifier is \nappended. \n \nThe medical record documentation is expected to support the specific CPT code(s), ICD-10-CM, \nHCPCS code(s) and modifier(s) reported.\n\nThis policy outlines the coding and editing guidelines for reporting procedures \nconducted on specific paired anatomical structures, distinct body parts or organs. \nAnatomical modifiers should be reported when additional information is needed to accurately \ndescribe how a service or procedure was performed and when indicated as required based on \nthe service(s) provided in box 24D of the CMS-1500 paper form. This policy applies to all \nprofessional claim types. \n \nDistinct Body Part Procedures \nDistinct body part modifiers are used to designate the exact body part on which a procedure was \nperformed. For procedures performed on eyelids, fingers or toes, the distinct body part modifier \nas listed in this policy should be appended to the procedure code with one unit reported. When \nthe same procedure is conducted on similar anatomical sites (for example- on two finger digits) \nthen the procedure should be reported twice with a quantity of one for each line with the distinct \nbody part modifier appropriate, appended to each line. \n \nBilateral Procedures \nMany surgical procedures can be performed bilaterally however correct reporting of the \nprocedure will rely on the CPT code description of the procedure being reported. Procedures \nthat are defined as bilateral in their code description do not require modifier RT, LT or 50 to \ncorrectly report the procedure when they are conducted bilaterally. When an appropriate \nbilateral procedure code is not available to report, the unilateral procedure code should be \nreported with the appropriate bilateral modifier appended.\n\nSide of Body Modifiers \nModifier - RT \nRight side \nModifier - LT \nLeft side \nModifier - 50 \nBilateral \nEye Lid Modifiers \nModifier – E1 \nUpper left eyelid \nModifier – E2 \nLower left eyelid \nModifier – E3 \nUpper right eyelid \nModifier – E4 \nLower right eyelid \nFinger/Digit of Hand Modifiers \nModifier - FA \nLeft hand thumb \nModifier – F1 \nLeft hand, second digit \nModifier – F2 \nLeft hand, third digit \nModifier – F3 \nLeft hand, fourth digit \nModifier – F4 \nLeft hand, fifth digit \nModifier – F5 \nRight hand, thumb \nModifier – F6 \nRight hand, second digit \nModifier – F7 \nRight hand, third digit \n\n\n \n \n \n \n \nModifier – F8 \nRight hand, fourth digit \nModifier – F9 \nRight hand, fifth digit \nToe/Digit of Foot Modifiers \nModifier - TA \nLeft foot, great toe \nModifier – T1 \nLeft foot, second digit \nModifier – T2 \nLeft foot, third digit \nModifier – T3 \nLeft foot, fourth digit \nModifier – T4 \nLeft foot, fifth digit \nModifier – T5 \nRight foot, great toe \nModifier – T6 \nRight foot, second digit \nModifier - T7 \nRight foot, third digit \nModifier – T8 \nRight foot, fourth digit \nModifier – T9 \nRight foot, fifth digit",
     "subsections": [
+      {
+        "title": "Overview & Policy Scope",
+        "content": "This policy outlines the coding and editing guidelines for reporting procedures \nconducted on specific paired anatomical structures, distinct body parts or organs. \nAnatomical modifiers should be reported when additional information is needed to accurately \ndescribe how a service or procedure was performed and when indicated as required based on \nthe service(s) provided in box 24D of the CMS-1500 paper form. This policy applies to all \nprofessional claim types. \n \nDistinct Body Part Procedures \nDistinct body part modifiers are used to designate the exact body part on which a procedure was \nperformed. For procedures performed on eyelids, fingers or toes, the distinct body part modifier \nas listed in this policy should be appended to the procedure code with one unit reported. When \nthe same procedure is conducted on similar anatomical sites (for example- on two finger digits) \nthen the procedure should be reported twice with a quantity of one for each line with the distinct \nbody part modifier appropriate, appended to each line. \n \nBilateral Procedures \nMany surgical procedures can be performed bilaterally however correct reporting of the \nprocedure will rely on the CPT code description of the procedure being reported. Procedures \nthat are defined as bilateral in their code description do not require modifier RT, LT or 50 to \ncorrectly report the procedure when they are conducted bilaterally. When an appropriate \nbilateral procedure code is not available to report, the unilateral procedure code should be \nreported with the appropriate bilateral modifier appended."
+      },
       {
         "title": "The procedure code reported applies to a specific paired organ or structure",
         "content": "The procedure code reported applies to a specific paired organ or structure"
@@ -33,9 +37,138 @@
       {
         "title": "The procedure code reported for a unilateral procedure which was conducted bilaterally",
         "content": "is reported without the appropriate bilateral modifier or an inappropriate modifier is appended. The medical record documentation is expected to support the specific CPT code(s), ICD-10-CM, HCPCS code(s) and modifier(s) reported."
+      },
+      {
+        "title": "Codes / Conditions of Coverage",
+        "content": "Side of Body Modifiers \nModifier - RT \nRight side \nModifier - LT \nLeft side \nModifier - 50 \nBilateral \nEye Lid Modifiers \nModifier – E1 \nUpper left eyelid \nModifier – E2 \nLower left eyelid \nModifier – E3 \nUpper right eyelid \nModifier – E4 \nLower right eyelid \nFinger/Digit of Hand Modifiers \nModifier - FA \nLeft hand thumb \nModifier – F1 \nLeft hand, second digit \nModifier – F2 \nLeft hand, third digit \nModifier – F3 \nLeft hand, fourth digit \nModifier – F4 \nLeft hand, fifth digit \nModifier – F5 \nRight hand, thumb \nModifier – F6 \nRight hand, second digit \nModifier – F7 \nRight hand, third digit \n\n\n \n \n \n \n \nModifier – F8 \nRight hand, fourth digit \nModifier – F9 \nRight hand, fifth digit \nToe/Digit of Foot Modifiers \nModifier - TA \nLeft foot, great toe \nModifier – T1 \nLeft foot, second digit \nModifier – T2 \nLeft foot, third digit \nModifier – T3 \nLeft foot, fourth digit \nModifier – T4 \nLeft foot, fifth digit \nModifier – T5 \nRight foot, great toe \nModifier – T6 \nRight foot, second digit \nModifier - T7 \nRight foot, third digit \nModifier – T8 \nRight foot, fourth digit \nModifier – T9 \nRight foot, fifth digit"
       }
     ],
     "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Reimbursement Policy Statement Illinois Medicaid",
+            "value": ""
+          },
+          {
+            "key": "Effective Date",
+            "value": "Next Annual Review | Policy Number"
+          },
+          {
+            "key": "04/06/2023",
+            "value": "08/01/2027 | ABHIL-RP-0016"
+          },
+          {
+            "key": "Policy Name",
+            "value": "Department"
+          },
+          {
+            "key": "Anatomical Modifiers",
+            "value": "Claims Operations Medical Payment"
+          },
+          {
+            "key": "Policy Type",
+            "value": ""
+          },
+          {
+            "key": "Medical",
+            "value": "Administrative | Pharmacy | Reimbursement"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "A. Policy",
+            "value": ""
+          },
+          {
+            "key": "This policy is provided as a guide to medical coding and editing guidelines for the appropriate\nuse of anatomical modifiers. This guidance aligns with AMA CPT Coding Guidelines, CMS\nHealthcare Common Procedure Coding System (HCPCS) coding guidelines and Illinois\nHealthcare and Family Services (HFS) guidelines for reporting of services and supplies",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "B. Overview",
+            "value": ""
+          },
+          {
+            "key": "This policy outlines the coding and editing guidelines for reporting procedures\nconducted on specific paired anatomical structures, distinct body parts or organs.\nAnatomical modifiers should be reported when additional information is needed to accurately\ndescribe how a service or procedure was performed and when indicated as required based on\nthe service(s) provided in box 24D of the CMS-1500 paper form. This policy applies to all\nprofessional claim types.\nDistinct Body Part Procedures\nDistinct body part modifiers are used to designate the exact body part on which a procedure was\nperformed. For procedures performed on eyelids, fingers or toes, the distinct body part modifier\nas listed in this policy should be appended to the procedure code with one unit reported. When\nthe same procedure is conducted on similar anatomical sites (for example- on two finger digits)\nthen the procedure should be reported twice with a quantity of one for each line with the distinct\nbody part modifier appropriate, appended to each line.\nBilateral Procedures\nMany surgical procedures can be performed bilaterally however correct reporting of the\nprocedure will rely on the CPT code description of the procedure being reported. Procedures\nthat are defined as bilateral in their code description do not require modifier RT, LT or 50 to\ncorrectly report the procedure when they are conducted bilaterally. When an appropriate\nbilateral procedure code is not available to report, the unilateral procedure code should be\nreported with the appropriate bilateral modifier appended.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "C. Definitions",
+            "value": ""
+          },
+          {
+            "key": "Term",
+            "value": "Definition"
+          },
+          {
+            "key": "Aetna Better\nHealth of Illinois\n(ABHIL)",
+            "value": "A subsidiary of CVS Health Corporation, Medicaid subsidiary that\nprovides plan management and other administrative services for\nthe Illinois Medicaid program."
+          },
+          {
+            "key": "American Medical\nAssociation (AMA)",
+            "value": "A professional group that publishes research to advance public\nhealth and advocates for the interests of registered physician-\nmembers."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Anatomical\nModifiers",
+            "value": "A two-character code reported along with an applicable CPT\ncode used to provide greater detail for procedures performed\nsuch. These codes help differentiate similar procedures that\noccur on different sides of the body (e.g., left vs. right), different\nlevels of the body (e.g., upper vs. lower), or specific anatomical\nsites."
+          },
+          {
+            "key": "Centers for",
+            "value": "The federal agency that administers the Medicare program as\nwell as works with the individual states to administer state\nMedicaid and Children’s Health Insurance Programs."
+          },
+          {
+            "key": "Medicare &",
+            "value": ""
+          },
+          {
+            "key": "Medicaid Services",
+            "value": ""
+          },
+          {
+            "key": "(CMS)",
+            "value": ""
+          },
+          {
+            "key": "Current\nProcedural\nTerminology\n(CPT)",
+            "value": "A medical code set maintained by the American Medical\nAssociation through the CPT Editorial Panel. The CPT code set\n(copyright protected by the AMA) describes medical, surgical,\nand diagnostic services and is designed to communicate uniform\ninformation about medical services and procedures among\nphysicians, coders, patients, accreditation organizations, and\npayers for administrative, financial, and analytical purposes."
+          },
+          {
+            "key": "Healthcare\nCommon\nProcedure Coding\nSystem (HCPCS)",
+            "value": "Level II of the HCPCS is a standardized coding system that is used\nprimarily to identify products, supplies, and services not included\nin the CPT code set. Examples include ambulance services and\ndurable medical equipment, prosthetics, orthotics, and supplies\n(DMEPOS). Level II HCPCS codes were established to allow these\nproducts, supplies and services to be reported for\nreimbursement."
+          },
+          {
+            "key": "Illinois Department\nof Health Care and\nFamily Services\n(HFS)",
+            "value": "The Department of Healthcare and Family Services\nadministers health insurance programs for children, pregnant\nwomen, and adults who are residents of Illinois."
+          },
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          }
+        ]
+      },
       {
         "type": "table",
         "content": [
@@ -127,6 +260,186 @@
           {
             "key": "Modifier – F7",
             "value": "Right hand, third digit"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Modifier – F8",
+            "value": "Right hand, fourth digit"
+          },
+          {
+            "key": "Modifier – F9",
+            "value": "Right hand, fifth digit"
+          },
+          {
+            "key": "Toe/Digit of Foot Modifiers",
+            "value": ""
+          },
+          {
+            "key": "Modifier - TA",
+            "value": "Left foot, great toe"
+          },
+          {
+            "key": "Modifier – T1",
+            "value": "Left foot, second digit"
+          },
+          {
+            "key": "Modifier – T2",
+            "value": "Left foot, third digit"
+          },
+          {
+            "key": "Modifier – T3",
+            "value": "Left foot, fourth digit"
+          },
+          {
+            "key": "Modifier – T4",
+            "value": "Left foot, fifth digit"
+          },
+          {
+            "key": "Modifier – T5",
+            "value": "Right foot, great toe"
+          },
+          {
+            "key": "Modifier – T6",
+            "value": "Right foot, second digit"
+          },
+          {
+            "key": "Modifier - T7",
+            "value": "Right foot, third digit"
+          },
+          {
+            "key": "Modifier – T8",
+            "value": "Right foot, fourth digit"
+          },
+          {
+            "key": "Modifier – T9",
+            "value": "Right foot, fifth digit"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "F. Frequently Asked Questions",
+            "value": ""
+          },
+          {
+            "key": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "G. Review/Revision Date",
+            "value": ""
+          },
+          {
+            "key": "Action",
+            "value": "Date | Comments"
+          },
+          {
+            "key": "Review",
+            "value": "06/22/2026 | Section B- additional reporting guidance added on\nbilateral and unilateral modifier reporting- no other content\nchanges."
+          },
+          {
+            "key": "Review",
+            "value": "10/07/2025 | Policy template updated- no other content changes"
+          },
+          {
+            "key": "Effective Date",
+            "value": "04/06/2023"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "H. Resources",
+            "value": ""
+          },
+          {
+            "key": "1. American Medical Association. HCPCS Level II Professional 2026, AMA; 2025.\n2. American Medical Association. ICD-10-CM 2026 the Complete Official Codebook, AMA; 2025.",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": "Term \nDefinition \nAetna Better \nHealth of Illinois \n(ABHIL) \nA subsidiary of CVS Health Corporation, Medicaid subsidiary that \nprovides plan management and other administrative services for \nthe Illinois Medicaid program. \nAmerican Medical \nAssociation (AMA) \nA professional group that publishes research to advance public \nhealth and advocates for the interests of registered physician-\nmembers. \n\n\n \n \n \n \n \nAnatomical \nModifiers \nA two-character code reported along with an applicable CPT \ncode used to provide greater detail for procedures performed \nsuch. These codes help differentiate similar procedures that \noccur on different sides of the body (e.g., left vs. right), different \nlevels of the body (e.g., upper vs. lower), or specific anatomical \nsites. \nCenters for \nMedicare & \nMedicaid Services \n(CMS) \nThe federal agency that administers the Medicare program as \nwell as works with the individual states to administer state \nMedicaid and Children’s Health Insurance Programs. \nCurrent \nProcedural \nTerminology \n(CPT) \nA medical code set maintained by the American Medical \nAssociation through the CPT Editorial Panel. The CPT code set \n(copyright protected by the AMA) describes medical, surgical, \nand diagnostic services and is designed to communicate uniform \ninformation about medical services and procedures among \nphysicians, coders, patients, accreditation organizations, and \npayers for administrative, financial, and analytical purposes. \nHealthcare \nCommon \nProcedure Coding \nSystem (HCPCS) \nLevel II of the HCPCS is a standardized coding system that is used \nprimarily to identify products, supplies, and services not included \nin the CPT code set. Examples include ambulance services and \ndurable medical equipment, prosthetics, orthotics, and supplies \n(DMEPOS). Level II HCPCS codes were established to allow these \nproducts, supplies and services to be reported for \nreimbursement. \nIllinois Department \nof Health Care and \nFamily Services \n(HFS) \nThe Department of Healthcare and Family Services \nadministers health insurance programs for children, pregnant \nwomen, and adults who are residents of Illinois. \nMedicaid \nThe state administered program that provides health coverage to \nmillions of Americans, including eligible low-income adults, \nchildren, pregnant women, elderly adults, and people with \ndisabilities, according to federal requirements. The program is \nfunded jointly by states and the federal government. \nMedicare \nMedicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain \ndisabilities, and people of all ages with End-Stage Renal Disease \n(permanent kidney failure requiring dialysis or a kidney \ntransplant).",
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "C. Definitions",
+            "value": ""
+          },
+          {
+            "key": "Term",
+            "value": "Definition"
+          },
+          {
+            "key": "Aetna Better\nHealth of Illinois\n(ABHIL)",
+            "value": "A subsidiary of CVS Health Corporation, Medicaid subsidiary that\nprovides plan management and other administrative services for\nthe Illinois Medicaid program."
+          },
+          {
+            "key": "American Medical\nAssociation (AMA)",
+            "value": "A professional group that publishes research to advance public\nhealth and advocates for the interests of registered physician-\nmembers."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Anatomical\nModifiers",
+            "value": "A two-character code reported along with an applicable CPT\ncode used to provide greater detail for procedures performed\nsuch. These codes help differentiate similar procedures that\noccur on different sides of the body (e.g., left vs. right), different\nlevels of the body (e.g., upper vs. lower), or specific anatomical\nsites."
+          },
+          {
+            "key": "Centers for",
+            "value": "The federal agency that administers the Medicare program as\nwell as works with the individual states to administer state\nMedicaid and Children’s Health Insurance Programs."
+          },
+          {
+            "key": "Medicare &",
+            "value": ""
+          },
+          {
+            "key": "Medicaid Services",
+            "value": ""
+          },
+          {
+            "key": "(CMS)",
+            "value": ""
+          },
+          {
+            "key": "Current\nProcedural\nTerminology\n(CPT)",
+            "value": "A medical code set maintained by the American Medical\nAssociation through the CPT Editorial Panel. The CPT code set\n(copyright protected by the AMA) describes medical, surgical,\nand diagnostic services and is designed to communicate uniform\ninformation about medical services and procedures among\nphysicians, coders, patients, accreditation organizations, and\npayers for administrative, financial, and analytical purposes."
+          },
+          {
+            "key": "Healthcare\nCommon\nProcedure Coding\nSystem (HCPCS)",
+            "value": "Level II of the HCPCS is a standardized coding system that is used\nprimarily to identify products, supplies, and services not included\nin the CPT code set. Examples include ambulance services and\ndurable medical equipment, prosthetics, orthotics, and supplies\n(DMEPOS). Level II HCPCS codes were established to allow these\nproducts, supplies and services to be reported for\nreimbursement."
+          },
+          {
+            "key": "Illinois Department\nof Health Care and\nFamily Services\n(HFS)",
+            "value": "The Department of Healthcare and Family Services\nadministers health insurance programs for children, pregnant\nwomen, and adults who are residents of Illinois."
+          },
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
           }
         ]
       }

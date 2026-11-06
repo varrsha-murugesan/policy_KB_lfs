@@ -8,8 +8,12 @@
   "CPT_CODES_USED": [],
   "reimbursement_guidelines": {
     "title": "Reimbursement Guidelines",
-    "content": "ABH IL will only reimburse for physician administered services when appropriately reported. \nAppropriate reporting includes \n• \nReporting only up to the unit limits set by HFS for CPT and/ or HCPCS codes. \n• \nFor drugs that are not administered and are discarded, the HCPCS code must be reported \nwith the JW modifier. Discarded units billed with the JW modifier are excluded from unit \nlimits. \n \nClaims that are submitted will be denied when \n• \nCPT and/ or HCPCS codes are reported with units that exceed the unit limits set by HFS \n \nThe medical record documentation is expected to support the specific CPT/ HCPCS code(s), \nmodifiers and ICD-10-CM codes reported.",
+    "content": "ABH IL will only reimburse for physician administered services when appropriately reported. \nAppropriate reporting includes \n• \nReporting only up to the unit limits set by HFS for CPT and/ or HCPCS codes. \n• \nFor drugs that are not administered and are discarded, the HCPCS code must be reported \nwith the JW modifier. Discarded units billed with the JW modifier are excluded from unit \nlimits. \n \nClaims that are submitted will be denied when \n• \nCPT and/ or HCPCS codes are reported with units that exceed the unit limits set by HFS \n \nThe medical record documentation is expected to support the specific CPT/ HCPCS code(s), \nmodifiers and ICD-10-CM codes reported.\n\nThis policy outlines the coding and editing guidelines for reporting of physician administered \nservices. Certain physician administered services are assigned a maximum amount of units that \ncan be reported per day. These maximum units are assigned and published by HFS and can be \nfound on the Practitioner Fee Schedule. Maximum reportable units per day are listed for each \nCPT and/ or HCPCS code under the “Max Qty” column of the fee schedule. \n \nABH IL follows the unit limits set by HFS when processing claims. Providers are encouraged to \nuse the HFS Practitioner Fee Schedule as guidance when submitting claims for \nphysician- administered services. This policy applies to all professional claim types.\n\nModifier \nJW \nDrug amount discarded/not administered to any patient",
     "subsections": [
+      {
+        "title": "Overview & Policy Scope",
+        "content": "This policy outlines the coding and editing guidelines for reporting of physician administered \nservices. Certain physician administered services are assigned a maximum amount of units that \ncan be reported per day. These maximum units are assigned and published by HFS and can be \nfound on the Practitioner Fee Schedule. Maximum reportable units per day are listed for each \nCPT and/ or HCPCS code under the “Max Qty” column of the fee schedule. \n \nABH IL follows the unit limits set by HFS when processing claims. Providers are encouraged to \nuse the HFS Practitioner Fee Schedule as guidance when submitting claims for \nphysician- administered services. This policy applies to all professional claim types."
+      },
       {
         "title": "Reporting only up to the unit limits set by HFS for CPT and/ or HCPCS codes.",
         "content": "Reporting only up to the unit limits set by HFS for CPT and/ or HCPCS codes."
@@ -21,9 +25,130 @@
       {
         "title": "CPT and/ or HCPCS codes are reported with units that exceed the unit limits set by HFS",
         "content": "The medical record documentation is expected to support the specific CPT/ HCPCS code(s), modifiers and ICD-10-CM codes reported."
+      },
+      {
+        "title": "Codes / Conditions of Coverage",
+        "content": "Modifier \nJW \nDrug amount discarded/not administered to any patient"
       }
     ],
     "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Reimbursement Policy Statement Illinois Medicaid",
+            "value": ""
+          },
+          {
+            "key": "Effective Date",
+            "value": "Next Annual Review | Policy Number"
+          },
+          {
+            "key": "06/01/2026",
+            "value": "03/15/2027 | ABHIL-RP-0025"
+          },
+          {
+            "key": "Policy Name",
+            "value": "Department"
+          },
+          {
+            "key": "Physician Administered Services",
+            "value": "Claims Operations Medical Payment"
+          },
+          {
+            "key": "Policy Type",
+            "value": ""
+          },
+          {
+            "key": "Medical",
+            "value": "Administrative | Pharmacy | Reimbursement"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "A. Policy",
+            "value": ""
+          },
+          {
+            "key": "This policy is provided as a guide to medical coding and editing guidelines for the appropriate\nreporting of physician administered services. This policy aligns with guidance from the Centers\nfor Medicare & Medicaid Services (CMS), Illinois Department of Health Care and Family Services\nguidance as well as with AMA CPT and HCPCS Coding Guidelines.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "B. Overview",
+            "value": ""
+          },
+          {
+            "key": "This policy outlines the coding and editing guidelines for reporting of physician administered\nservices. Certain physician administered services are assigned a maximum amount of units that\ncan be reported per day. These maximum units are assigned and published by HFS and can be\nfound on the Practitioner Fee Schedule. Maximum reportable units per day are listed for each\nCPT and/ or HCPCS code under the “Max Qty” column of the fee schedule.\nABH IL follows the unit limits set by HFS when processing claims. Providers are encouraged to\nuse the HFS Practitioner Fee Schedule as guidance when submitting claims for\nphysician- administered services. This policy applies to all professional claim types.",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "C. Definitions",
+            "value": ""
+          },
+          {
+            "key": "Term",
+            "value": "Definition"
+          },
+          {
+            "key": "Aetna Better\nHealth of Illinois\n(ABHIL)",
+            "value": "A subsidiary of CVS Health Corporation, Medicaid subsidiary that\nprovides plan management and other administrative services for\nthe Illinois Medicaid program."
+          },
+          {
+            "key": "American Medical\nAssociation (AMA)",
+            "value": "A professional group that publishes research to advance public\nhealth and advocates for the interests of registered physician-\nmembers."
+          },
+          {
+            "key": "Centers for\nMedicare &\nMedicaid Services\n(CMS)",
+            "value": "The federal agency that administers the Medicare program as\nwell as works with the individual states to administer state\nMedicaid and Children’s Health Insurance Programs."
+          },
+          {
+            "key": "Current\nProcedural\nTerminology\n(CPT)",
+            "value": "A medical code set maintained by the American Medical\nAssociation through the CPT Editorial Panel. The CPT code set\n(copyright protected by the AMA) describes medical, surgical,\nand diagnostic services and is designed to communicate uniform\ninformation about medical services and procedures among\nphysicians, coders, patients, accreditation organizations, and\npayers for administrative, financial, and analytical purposes."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Healthcare\nCommon\nProcedure Coding\nSystem (HCPCS)",
+            "value": "Level II of the HCPCS is a standardized coding system that is used\nprimarily to identify products, supplies, and services not included\nin the CPT code set. Examples include ambulance services and\ndurable medical equipment, prosthetics, orthotics, and supplies\n(DMEPOS). Level II HCPCS codes were established to allow these\nproducts, supplies and services to be reported for\nreimbursement."
+          },
+          {
+            "key": "Illinois Department\nof Health Care and\nFamily Services\n(HFS)",
+            "value": "The Department of Healthcare and Family Services\nadministers health insurance programs for children, pregnant\nwomen, and adults who are residents of Illinois."
+          },
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          },
+          {
+            "key": "Modifier",
+            "value": "A two-digit code (numeric or alphanumeric) reported along with\nan applicable CPT or HCPCS code to provide greater detail about\nthe service performed, explaining special circumstances,\nlocation, or that the service was altered without changing the\ncode's basic definition."
+          },
+          {
+            "key": "Physician\nAdministered\nServices",
+            "value": "Services or treatments that must be given by a physician or\nqualified health care professional in a clinical setting and cannot\nbe safely self-administered by the patient"
+          }
+        ]
+      },
       {
         "type": "table",
         "content": [
@@ -99,6 +224,70 @@
           {
             "key": "1. American Medical Association. CPT Professional Edition 2026, AMA; 2025.\n2. American Medical Association. HCPCS Level II Professional 2026, AMA; 2025.\n3. Illinois Department of Healthcare and Family Services. Practitioner Fee Schedule; 2026.\nhttps://hfs.illinois.gov/medicalproviders/medicaidreimbursement/practitioner.html",
             "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": "Term \nDefinition \nAetna Better \nHealth of Illinois \n(ABHIL) \nA subsidiary of CVS Health Corporation, Medicaid subsidiary that \nprovides plan management and other administrative services for \nthe Illinois Medicaid program. \nAmerican Medical \nAssociation (AMA) \nA professional group that publishes research to advance public \nhealth and advocates for the interests of registered physician-\nmembers. \nCenters for \nMedicare & \nMedicaid Services \n(CMS) \nThe federal agency that administers the Medicare program as \nwell as works with the individual states to administer state \nMedicaid and Children’s Health Insurance Programs. \nCurrent \nProcedural \nTerminology \n(CPT) \nA medical code set maintained by the American Medical \nAssociation through the CPT Editorial Panel. The CPT code set \n(copyright protected by the AMA) describes medical, surgical, \nand diagnostic services and is designed to communicate uniform \ninformation about medical services and procedures among \nphysicians, coders, patients, accreditation organizations, and \npayers for administrative, financial, and analytical purposes. \n\n\n \n \n \n \n \nHealthcare \nCommon \nProcedure Coding \nSystem (HCPCS) \nLevel II of the HCPCS is a standardized coding system that is used \nprimarily to identify products, supplies, and services not included \nin the CPT code set. Examples include ambulance services and \ndurable medical equipment, prosthetics, orthotics, and supplies \n(DMEPOS). Level II HCPCS codes were established to allow these \nproducts, supplies and services to be reported for \nreimbursement. \nIllinois Department \nof Health Care and \nFamily Services \n(HFS) \nThe Department of Healthcare and Family Services \nadministers health insurance programs for children, pregnant \nwomen, and adults who are residents of Illinois. \nMedicaid \nThe state administered program that provides health coverage to \nmillions of Americans, including eligible low-income adults, \nchildren, pregnant women, elderly adults, and people with \ndisabilities, according to federal requirements. The program is \nfunded jointly by states and the federal government. \nMedicare \nMedicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain \ndisabilities, and people of all ages with End-Stage Renal Disease \n(permanent kidney failure requiring dialysis or a kidney \ntransplant). \nModifier \nA two-digit code (numeric or alphanumeric) reported along with \nan applicable CPT or HCPCS code to provide greater detail about \nthe service performed, explaining special circumstances, \nlocation, or that the service was altered without changing the \ncode's basic definition. \nPhysician \nAdministered \nServices \nServices or treatments that must be given by a physician or \nqualified health care professional in a clinical setting and cannot \nbe safely self-administered by the patient",
+    "tables": [
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "C. Definitions",
+            "value": ""
+          },
+          {
+            "key": "Term",
+            "value": "Definition"
+          },
+          {
+            "key": "Aetna Better\nHealth of Illinois\n(ABHIL)",
+            "value": "A subsidiary of CVS Health Corporation, Medicaid subsidiary that\nprovides plan management and other administrative services for\nthe Illinois Medicaid program."
+          },
+          {
+            "key": "American Medical\nAssociation (AMA)",
+            "value": "A professional group that publishes research to advance public\nhealth and advocates for the interests of registered physician-\nmembers."
+          },
+          {
+            "key": "Centers for\nMedicare &\nMedicaid Services\n(CMS)",
+            "value": "The federal agency that administers the Medicare program as\nwell as works with the individual states to administer state\nMedicaid and Children’s Health Insurance Programs."
+          },
+          {
+            "key": "Current\nProcedural\nTerminology\n(CPT)",
+            "value": "A medical code set maintained by the American Medical\nAssociation through the CPT Editorial Panel. The CPT code set\n(copyright protected by the AMA) describes medical, surgical,\nand diagnostic services and is designed to communicate uniform\ninformation about medical services and procedures among\nphysicians, coders, patients, accreditation organizations, and\npayers for administrative, financial, and analytical purposes."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "key": "Healthcare\nCommon\nProcedure Coding\nSystem (HCPCS)",
+            "value": "Level II of the HCPCS is a standardized coding system that is used\nprimarily to identify products, supplies, and services not included\nin the CPT code set. Examples include ambulance services and\ndurable medical equipment, prosthetics, orthotics, and supplies\n(DMEPOS). Level II HCPCS codes were established to allow these\nproducts, supplies and services to be reported for\nreimbursement."
+          },
+          {
+            "key": "Illinois Department\nof Health Care and\nFamily Services\n(HFS)",
+            "value": "The Department of Healthcare and Family Services\nadministers health insurance programs for children, pregnant\nwomen, and adults who are residents of Illinois."
+          },
+          {
+            "key": "Medicaid",
+            "value": "The state administered program that provides health coverage to\nmillions of Americans, including eligible low-income adults,\nchildren, pregnant women, elderly adults, and people with\ndisabilities, according to federal requirements. The program is\nfunded jointly by states and the federal government."
+          },
+          {
+            "key": "Medicare",
+            "value": "Medicare is a health insurance program for: people aged sixty-\nfive (65) or older, people under age sixty-five (65) with certain\ndisabilities, and people of all ages with End-Stage Renal Disease\n(permanent kidney failure requiring dialysis or a kidney\ntransplant)."
+          },
+          {
+            "key": "Modifier",
+            "value": "A two-digit code (numeric or alphanumeric) reported along with\nan applicable CPT or HCPCS code to provide greater detail about\nthe service performed, explaining special circumstances,\nlocation, or that the service was altered without changing the\ncode's basic definition."
+          },
+          {
+            "key": "Physician\nAdministered\nServices",
+            "value": "Services or treatments that must be given by a physician or\nqualified health care professional in a clinical setting and cannot\nbe safely self-administered by the patient"
           }
         ]
       }

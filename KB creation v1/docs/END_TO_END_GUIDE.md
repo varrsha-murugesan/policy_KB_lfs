@@ -68,7 +68,7 @@ KB creation v1/
 │   │   └── audit/               # Detailed audit logs, unresolved mentions, section coverage
 │   └── review/                  # Human-in-the-loop review queues & gold-standard benchmarks
 ├── docs/                        # Architectural documentation (DESIGN.md, ADDING_A_PAYER.md, CHANGES_v2.md)
-├── tests/                       # 59 automated pytest integration and unit tests
+├── tests/                       # 63 automated pytest integration and unit tests (60 passed, 3 skipped)
 ├── requirements.txt             # Python package dependencies
 └── .env.example                 # Environment template for UMLS credentials
 ```
@@ -221,14 +221,14 @@ flowchart TD
 - **When to Run:** Central mapping engine. Ingests raw payer JSON, extracts explicit codes, infers candidate codes via UMLS semantic joins, assigns confidence tiers (A–E), extracts policy rules, and writes all mapping/audit reports. Run once per payer dataset.
 - **Commands:**
   ```powershell
-  # Humana
-  python scripts\map_policy_cpt_codes.py --input data\input\humana_extracted_contents.json --payer-profile humana
-
   # UnitedHealthcare
-  python scripts\map_policy_cpt_codes.py --input data\input\unitedhealthcare_extracted_contents.json --payer-profile unitedhealthcare
+  python scripts\map_policy_cpt_codes.py --input data\input\extraction_rules_uhc.json --payer-profile unitedhealthcare
+
+  # Humana
+  python scripts\map_policy_cpt_codes.py --input data\input\extracted_rules_humana.json --payer-profile humana
 
   # Aetna
-  python scripts\map_policy_cpt_codes.py --input data\input\aetna_extracted_contents.json --payer-profile aetna
+  python scripts\map_policy_cpt_codes.py --input data\input\extraction_rules_aetna.json --payer-profile aetna
   ```
   *(Optional flags: `--fuzzy-content` enables token-sort fuzzy matching on paragraph text; `--infer-attachments` runs terminology inference on attachment pages).*
 - **Primary Inputs:**
@@ -416,7 +416,7 @@ If processing a new payer file (e.g. `data/input/cigna_extracted_contents.json`)
 2. Create a profile in `config/payers/cigna.json`:
    - If structured as a list of policies with section objects, set `"adapter": "sectioned_list"`.
    - If structured as a reimbursement guideline with Q&A and code tables, set `"adapter": "guidelines_document"`.
-   - If using a bespoke schema, set `"adapter": "declarative"` and define key mappings in `"adapter_options"`. (See [docs/ADDING_A_PAYER.md](file:///c:/Payer%20Policy/KB%20creation%20v1/docs/ADDING_A_PAYER.md)).
+   - If using a bespoke schema, set `"adapter": "declarative"` and define key mappings in `"adapter_options"`. (See [ADDING_A_PAYER.md](ADDING_A_PAYER.md)).
 
 ### Step 4: Run the Execution Pipeline
 Execute in PowerShell:

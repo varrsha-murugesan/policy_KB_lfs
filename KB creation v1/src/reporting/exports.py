@@ -48,6 +48,11 @@ def export_mappings(con: duckdb.DuckDBPyConnection, out_dir: Path) -> list[Path]
                     WHEN m.mapping_origin LIKE 'code_list%' THEN 'code_list_field_only'
                     WHEN m.mapping_origin = 'reviewer_added' THEN 'reviewer_added'
                     ELSE 'inferred' END AS code_status,
+               COALESCE(m.validation_classification, 
+                    CASE WHEN m.mapping_origin LIKE 'explicit%' OR m.mapping_origin LIKE 'supplementary%' OR m.mapping_origin LIKE 'code_list%' THEN 'REFERENCE_MATCH'
+                         WHEN list_contains(m.flags, 'inferred_family_differs_from_stated_codes') OR list_contains(m.flags, 'non_procedure_semantic_type') OR list_contains(m.flags, 'candidate_set_truncated') THEN 'LIKELY_FALSE_MAPPING'
+                         WHEN m.confidence_tier IN ('A', 'B') OR (m.confidence_tier = 'C' AND NOT m.is_ambiguous AND m.score >= 60.0) THEN 'VALID_ADDITIONAL_CANDIDATE'
+                         ELSE 'NEEDS_REVIEW' END) AS validation_classification,
                m.code_provenance, array_to_string(m.provenance_tiers, ';') AS provenance_tiers,
                p.record_status, p.policy_class,
                array_to_string(m.evidence_sources, ';') AS evidence_sources,
@@ -55,12 +60,15 @@ def export_mappings(con: duckdb.DuckDBPyConnection, out_dir: Path) -> list[Path]
                array_to_string(m.cuis, ';') AS cuis, m.scope, array_to_string(m.section_seqs, ';') AS section_seqs,
                m.is_ambiguous, m.has_conflict, array_to_string(m.flags, ';') AS flags, m.needs_review, m.review_status,
                m.umls_release, m.processing_version, m.run_id,
-               (SELECT e.matched_phrase FROM mapping_evidence e WHERE e.mapping_id = m.mapping_id ORDER BY e.score DESC LIMIT 1) AS top_matched_phrase
+               (SELECT e.matched_phrase FROM mapping_evidence e WHERE e.mapping_id = m.mapping_id ORDER BY e.score DESC LIMIT 1) AS top_matched_phrase,
+               (SELECT e.matched_term FROM mapping_evidence e WHERE e.mapping_id = m.mapping_id ORDER BY e.score DESC LIMIT 1) AS top_matched_term,
+               (SELECT e.relationship_path FROM mapping_evidence e WHERE e.mapping_id = m.mapping_id ORDER BY e.score DESC LIMIT 1) AS top_relationship_path
         FROM policy_cpt_mappings m JOIN policies p USING (policy_uid)
         LEFT JOIN cpt_codes c ON c.sab = m.code_sab AND c.code = m.code
         LEFT JOIN source_vocabularies v ON v.rsab = c.sab
         ORDER BY p.payer, p.policy_title, m.confidence_tier, m.code""").df()
     paths = [_write(mappings, out_dir / "policy_cpt_mappings.csv")]
+    paths.append(_write(mappings, out_dir / "policy_cpt_mappings_corrected.csv"))
     amb = mappings[(mappings.is_ambiguous) | (mappings.has_conflict) | (mappings.needs_review & (mappings.code_status == "inferred"))]
     paths.append(_write(amb, out_dir / "ambiguous_mappings.csv"))
 
