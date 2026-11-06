@@ -193,6 +193,14 @@ python scripts\validate_results.py
 python -m pytest tests
 ```
 
+### Rule Comparison Platform (Cross-Payer Matching & Conflict Detection)
+```powershell
+cd "c:\Users\dell\Documents\Payer Policy\Rule Comparison"
+
+# Run end-to-end rule comparison across UHC, Aetna, and Humana
+python run_comparison.py
+```
+
 ---
 
 ## 5. Summary of Deliverables & Verifications
