@@ -34,9 +34,8 @@ import ast
 BASE = Path(__file__).resolve().parent.parent
 
 SOURCES = {
-    "UHC":    BASE / "Uhc/billing_rules.xlsx",
-    "Aetna":  BASE / "Aetna/billing_rules.xlsx",
-    "Humana": BASE / "Humana/payment policy/billing_rules.xlsx",
+    "UHC":    BASE / "Uhc/billing_rules_uhc.xlsx" if (BASE / "Uhc/billing_rules_uhc.xlsx").exists() else BASE / "Uhc/billing_rules.xlsx",
+    "Humana": BASE / "Humana/billing_rules_humana.xlsx" if (BASE / "Humana/billing_rules_humana.xlsx").exists() else BASE / "Humana/payment policy/billing_rules.xlsx",
 }
 
 # ---------------------------------------------------------------------------
@@ -185,8 +184,8 @@ def _load_humana() -> pd.DataFrame:
 
 
 def load_all() -> pd.DataFrame:
-    """Return one canonical DataFrame with all three payers' rules."""
-    frames = [_load_uhc(), _load_aetna(), _load_humana()]
+    """Return one canonical DataFrame with all available payers' rules."""
+    frames = [_load_uhc(), _load_humana()]
     df = pd.concat(frames, ignore_index=True)
     return df
 

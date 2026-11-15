@@ -14,7 +14,7 @@ Operational walkthrough and execution runbook: **[docs/END_TO_END_GUIDE.md](docs
 
 ## Multi-Payer Architecture
 
-Each payer's extraction JSON is ingested through a **payer profile** (`config/payers/*.json`) and an adapter (`guidelines_document`, `sectioned_list`, `declarative`) into a unified canonical model; the mapping, UMLS enrichment, and cross-payer matching engine are fully shared. Profiles exist for **UnitedHealthcare**, **Humana**, and **Aetna**.
+Each payer's extraction JSON is ingested through a **payer profile** (`config/payers/*.json`) and an adapter (`guidelines_document`, `sectioned_list`, `declarative`) into a unified canonical model; the mapping, UMLS enrichment, and cross-payer matching engine are fully shared. Profiles exist for **UnitedHealthcare** and **Humana**.
 
 ```powershell
 # 1. Initialize Database
@@ -26,7 +26,6 @@ python scripts\build_icd10cm_index.py
 # 3. Ingest and Map Policies (Run per payer)
 python scripts\map_policy_cpt_codes.py --input data\input\extraction_rules_uhc.json --payer-profile unitedhealthcare
 python scripts\map_policy_cpt_codes.py --input data\input\extracted_rules_humana.json --payer-profile humana
-python scripts\map_policy_cpt_codes.py --input data\input\extraction_rules_aetna.json --payer-profile aetna
 
 # 4. Cross-Payer Policy & Rule Gap Analysis
 python scripts\compare_policies.py

@@ -178,9 +178,6 @@ python scripts\map_policy_cpt_codes.py --input data\input\extraction_rules_uhc.j
 # Humana (Sectioned List adapter, 120 policies)
 python scripts\map_policy_cpt_codes.py --input data\input\extracted_rules_humana.json --payer-profile humana
 
-# Aetna (Sectioned Guidelines adapter, 35 policies)
-python scripts\map_policy_cpt_codes.py --input data\input\extraction_rules_aetna.json --payer-profile aetna
-
 # 1.5 Compare Policies & Identify Cross-Payer Rule Gaps
 # Computes cross-payer policy equivalence scores and clause-by-clause discrepancy logs
 python scripts\compare_policies.py
