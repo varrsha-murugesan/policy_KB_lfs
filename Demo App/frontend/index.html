@@ -1,0 +1,2030 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Payer Policy Rule Intelligence</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- FontAwesome CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+            mono: ['JetBrains Mono', 'monospace'],
+          },
+          colors: {
+            navy: {
+              950: '#070B13',
+              900: '#0B0F19',
+              850: '#101625',
+              800: '#161F33',
+              700: '#1E293B',
+              600: '#334155'
+            },
+            accent: {
+              cyan: '#06B6D4',
+              emerald: '#10B981',
+              amber: '#F59E0B',
+              rose: '#F43F5E',
+              purple: '#8B5CF6'
+            }
+          }
+        }
+      }
+    }
+  </script>
+
+  <style>
+    /* Custom scrollbars */
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: #0B0F19; }
+    ::-webkit-scrollbar-thumb { background: #1E293B; border-radius: 4px; }
+    ::-webkit-scrollbar-thumb:hover { background: #334155; }
+    .glass-panel {
+      background: rgba(16, 22, 37, 0.75);
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+    .stepper-line {
+      height: 2px;
+      background: #1E293B;
+      flex: 1;
+    }
+    .stepper-line.active {
+      background: #06B6D4;
+    }
+    pre code {
+      font-family: 'JetBrains Mono', monospace;
+    }
+  </style>
+</head>
+<body class="bg-navy-950 text-slate-200 font-sans min-h-screen flex flex-col antialiased selection:bg-cyan-500 selection:text-white">
+
+  <!-- ============================================================== -->
+  <!-- TOP NAVIGATION BAR                                            -->
+  <!-- ============================================================== -->
+  <header class="sticky top-0 z-40 border-b border-navy-700 bg-navy-900/90 backdrop-blur-md px-6 py-3.5 flex items-center justify-between">
+    <div class="flex items-center space-x-3 cursor-pointer" onclick="navigate('home')">
+      <div class="w-9 h-9 rounded-lg bg-gradient-to-tr from-cyan-500 to-emerald-400 flex items-center justify-center shadow-lg shadow-cyan-500/20">
+        <i class="fa-solid fa-dna text-navy-950 font-bold text-lg"></i>
+      </div>
+      <div>
+        <div class="flex items-center space-x-2">
+          <span class="font-extrabold tracking-tight text-white text-lg">Payer Policy</span>
+          <span class="text-cyan-400 font-semibold text-lg">Rule Intelligence</span>
+          <span class="bg-navy-750 text-cyan-300 text-xs px-2 py-0.5 rounded-full border border-cyan-500/30">v2.0</span>
+        </div>
+        <p class="text-xs text-slate-400">Deterministic Clinical & Reimbursement Rule Engine</p>
+      </div>
+    </div>
+
+    <!-- Nav tabs -->
+    <div class="flex items-center space-x-2">
+      <button onclick="navigate('home')" id="nav-btn-home" class="px-3.5 py-1.5 rounded-md text-sm font-medium transition text-white bg-navy-800 border border-navy-700 hover:text-cyan-400">
+        <i class="fa-solid fa-grip mr-1.5 text-xs"></i> Overview
+      </button>
+      <button onclick="navigate('compare')" id="nav-btn-compare" class="px-3.5 py-1.5 rounded-md text-sm font-medium transition text-slate-300 hover:text-white hover:bg-navy-800">
+        <i class="fa-solid fa-code-compare mr-1.5 text-xs text-cyan-400"></i> Compare Rules
+      </button>
+
+      <!-- Vertical divider -->
+      <div class="h-6 w-px bg-navy-700 mx-2"></div>
+
+      <!-- Demo Mode Toggle -->
+      <div class="flex items-center space-x-2.5 bg-navy-850 px-3 py-1.5 rounded-lg border border-navy-700">
+        <span class="text-xs font-semibold uppercase tracking-wider text-slate-400 flex items-center">
+          <i class="fa-solid fa-bolt mr-1.5 text-amber-400"></i> Demo Mode
+        </span>
+        <label class="relative inline-flex items-center cursor-pointer">
+          <input type="checkbox" id="demo-mode-toggle" class="sr-only peer" onchange="toggleDemoMode(this.checked)">
+          <div class="w-9 h-5 bg-navy-700 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-emerald-500"></div>
+        </label>
+        <span id="demo-mode-badge" class="hidden text-[10px] px-1.5 py-0.5 rounded bg-emerald-500/20 text-emerald-300 border border-emerald-500/30">Active</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ============================================================== -->
+  <!-- MAIN APP CONTAINER                                             -->
+  <!-- ============================================================== -->
+  <main class="flex-1 max-w-7xl w-full mx-auto p-6">
+
+    <!-- ============================================================ -->
+    <!-- PAGE 1: HOME OVERVIEW                                        -->
+    <!-- ============================================================ -->
+    <div id="page-home" class="space-y-8">
+
+      <!-- Summary Strip -->
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+        <div class="glass-panel p-4 rounded-xl border border-navy-700/80 shadow-sm flex items-center space-x-4">
+          <div class="w-12 h-12 rounded-lg bg-cyan-500/10 border border-cyan-500/20 flex items-center justify-center text-cyan-400 text-xl">
+            <i class="fa-solid fa-shield-halved"></i>
+          </div>
+          <div>
+            <div class="text-xs text-slate-400 uppercase tracking-wider font-semibold">Active Payers</div>
+            <div id="sum-payers" class="text-2xl font-bold text-white tracking-tight">--</div>
+            <div class="text-[11px] text-slate-400">Commercial & Medicare</div>
+          </div>
+        </div>
+
+        <div class="glass-panel p-4 rounded-xl border border-navy-700/80 shadow-sm flex items-center space-x-4">
+          <div class="w-12 h-12 rounded-lg bg-emerald-500/10 border border-emerald-500/20 flex items-center justify-center text-emerald-400 text-xl">
+            <i class="fa-solid fa-list-check"></i>
+          </div>
+          <div>
+            <div class="text-xs text-slate-400 uppercase tracking-wider font-semibold">Deterministic Rules</div>
+            <div id="sum-rules" class="text-2xl font-bold text-white tracking-tight">--</div>
+            <div class="text-[11px] text-emerald-400/90 font-medium">Executable SQL queries</div>
+          </div>
+        </div>
+
+        <div class="glass-panel p-4 rounded-xl border border-navy-700/80 shadow-sm flex items-center space-x-4">
+          <div class="w-12 h-12 rounded-lg bg-purple-500/10 border border-purple-500/20 flex items-center justify-center text-purple-400 text-xl">
+            <i class="fa-solid fa-arrows-split-up-and-left"></i>
+          </div>
+          <div>
+            <div class="text-xs text-slate-400 uppercase tracking-wider font-semibold">Matched Code Pairs</div>
+            <div id="sum-matched" class="text-2xl font-bold text-white tracking-tight">--</div>
+            <div class="text-[11px] text-slate-400">Cross-payer verified</div>
+          </div>
+        </div>
+
+        <div class="glass-panel p-4 rounded-xl border border-navy-700/80 shadow-sm flex items-center space-x-4">
+          <div class="w-12 h-12 rounded-lg bg-rose-500/10 border border-rose-500/20 flex items-center justify-center text-rose-400 text-xl">
+            <i class="fa-solid fa-triangle-exclamation"></i>
+          </div>
+          <div>
+            <div class="text-xs text-slate-400 uppercase tracking-wider font-semibold">Payer Gaps / Outliers</div>
+            <div id="sum-gaps" class="text-2xl font-bold text-white tracking-tight">--</div>
+            <div class="text-[11px] text-rose-400/90 font-medium">High / Med / Low severity</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- PAYER PODS SECTION -->
+      <div>
+        <div class="flex items-center justify-between mb-4">
+          <h2 class="text-lg font-bold text-white flex items-center">
+            <i class="fa-solid fa-building-columns mr-2 text-cyan-400 text-sm"></i>
+            Payer Workspaces
+          </h2>
+          <span class="text-xs text-slate-400">Click any pod to inspect rules or ingest new policies</span>
+        </div>
+
+        <div id="payer-pods-grid" class="grid grid-cols-1 md:grid-cols-3 gap-6">
+          <!-- Dynamically populated via JS -->
+          <div class="p-8 text-center text-slate-400 col-span-3">Loading payer registries...</div>
+        </div>
+      </div>
+
+      <!-- COVERAGE HEATMAP -->
+      <div class="glass-panel p-6 rounded-2xl border border-navy-700/80">
+        <div class="flex items-center justify-between mb-4">
+          <div>
+            <h3 class="text-base font-bold text-white flex items-center">
+              <i class="fa-solid fa-chart-simple mr-2 text-emerald-400"></i>
+              Cross-Payer Rule Category Coverage Heatmap
+            </h3>
+            <p class="text-xs text-slate-400 mt-0.5">Rule density distribution across clinical policy categories. Click any count cell to filter directly in that payer's workspace.</p>
+          </div>
+          <span class="text-xs bg-navy-800 text-slate-300 px-3 py-1 rounded-md border border-navy-700">Interactive Matrix</span>
+        </div>
+
+        <div class="overflow-x-auto mt-4">
+          <table class="w-full text-left text-xs border-collapse">
+            <thead>
+              <tr class="border-b border-navy-700 text-slate-400 font-semibold bg-navy-900/60">
+                <th class="py-3 px-4">Rule Category</th>
+                <th class="py-3 px-4 text-center">UnitedHealthcare</th>
+                <th class="py-3 px-4 text-center">Humana</th>
+                <th class="py-3 px-4 text-center">Devoted Health (Stub)</th>
+              </tr>
+            </thead>
+            <tbody id="heatmap-body" class="divide-y divide-navy-800 text-slate-300">
+              <!-- Rendered via JS -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ============================================================ -->
+    <!-- PAGE 2: PAYER WORKSPACE                                      -->
+    <!-- ============================================================ -->
+    <div id="page-workspace" class="hidden space-y-6">
+
+      <!-- Workspace Header -->
+      <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 pb-4 border-b border-navy-700">
+        <div class="flex items-center space-x-3">
+          <button onclick="navigate('home')" class="w-9 h-9 rounded-lg bg-navy-850 hover:bg-navy-800 border border-navy-700 flex items-center justify-center text-slate-300 hover:text-white transition">
+            <i class="fa-solid fa-arrow-left text-sm"></i>
+          </button>
+          <div>
+            <div class="flex items-center space-x-2">
+              <h1 id="workspace-payer-title" class="text-2xl font-black text-white tracking-tight">Payer Name</h1>
+              <span id="workspace-status-badge" class="px-2 py-0.5 text-xs rounded-full bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">Connected</span>
+            </div>
+            <p id="workspace-payer-desc" class="text-xs text-slate-400 mt-0.5">Deterministic rule generation & SQL claim validation</p>
+          </div>
+        </div>
+
+        <div class="flex items-center space-x-3">
+          <button onclick="navigate('compare')" class="px-4 py-2 bg-navy-800 hover:bg-navy-750 text-cyan-400 border border-cyan-500/30 rounded-lg text-xs font-semibold transition flex items-center shadow-sm">
+            <i class="fa-solid fa-code-compare mr-2"></i> Compare with other payers
+          </button>
+          <div class="relative inline-block text-left" id="export-dropdown-wrapper">
+            <button onclick="toggleDownloadMenu()" class="px-4 py-2 bg-gradient-to-r from-cyan-600 to-emerald-600 hover:from-cyan-500 hover:to-emerald-500 text-white rounded-lg text-xs font-semibold transition flex items-center shadow-md">
+              <i class="fa-solid fa-download mr-2"></i> Export Artifacts <i class="fa-solid fa-chevron-down ml-2 text-[10px]"></i>
+            </button>
+            <div id="download-menu" class="hidden absolute right-0 mt-2 w-52 bg-navy-850 border border-navy-700 rounded-lg shadow-xl z-50 py-1">
+              <a id="btn-download-wb" href="#" target="_blank" class="block px-4 py-2 text-xs text-slate-200 hover:bg-navy-800 hover:text-cyan-400">
+                <i class="fa-solid fa-file-excel mr-2 text-emerald-400"></i> Download Workbook (.xlsx)
+              </a>
+              <a id="btn-download-sql" href="#" target="_blank" class="block px-4 py-2 text-xs text-slate-200 hover:bg-navy-800 hover:text-cyan-400">
+                <i class="fa-solid fa-database mr-2 text-cyan-400"></i> Download Queries (.sql)
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- BEFORE / AFTER COUNTER BANNER (Shows after successful upload) -->
+      <div id="before-after-banner" class="hidden glass-panel p-4 rounded-xl border border-emerald-500/40 bg-emerald-950/20 text-emerald-300 flex items-center justify-between">
+        <div class="flex items-center space-x-3">
+          <div class="w-8 h-8 rounded-full bg-emerald-500/20 flex items-center justify-center text-emerald-400 font-bold">
+            <i class="fa-solid fa-arrow-trend-up"></i>
+          </div>
+          <div>
+            <div class="font-bold text-sm text-white">Pipeline Update Applied</div>
+            <div id="before-after-text" class="text-xs text-emerald-300/90">+23 rules, +41 distinct codes, +6 new gaps vs Humana</div>
+          </div>
+        </div>
+        <button onclick="document.getElementById('before-after-banner').classList.add('hidden')" class="text-slate-400 hover:text-white text-xs">
+          <i class="fa-solid fa-xmark text-sm"></i>
+        </button>
+      </div>
+
+      <!-- DUPLICATE DETECTION WARNING BANNER / MODAL -->
+      <div id="duplicate-banner" class="hidden p-5 rounded-xl border border-amber-500/40 bg-amber-950/30 text-amber-200 space-y-3">
+        <div class="flex items-start justify-between">
+          <div class="flex items-center space-x-3">
+            <div class="w-9 h-9 rounded-lg bg-amber-500/20 flex items-center justify-center text-amber-400 text-lg">
+              <i class="fa-solid fa-copy"></i>
+            </div>
+            <div>
+              <div id="dup-title" class="font-bold text-white text-sm">Policy already exists</div>
+              <div id="dup-desc" class="text-xs text-amber-300/90 mt-0.5">Found matching policy record and SHA-256 hash in workbook.</div>
+            </div>
+          </div>
+          <span id="dup-badge" class="px-2 py-0.5 rounded text-[10px] font-bold uppercase bg-amber-500/20 text-amber-300 border border-amber-500/30">Exact Duplicate</span>
+        </div>
+
+        <div class="flex items-center space-x-3 pt-2">
+          <button onclick="viewExistingRulesFromDup()" class="px-4 py-2 bg-navy-800 hover:bg-navy-750 text-white rounded-lg text-xs font-semibold border border-navy-700 transition">
+            <i class="fa-solid fa-eye mr-1.5"></i> View Existing Rules
+          </button>
+          <button onclick="forceReprocessUpload()" class="px-4 py-2 bg-amber-600 hover:bg-amber-500 text-white rounded-lg text-xs font-semibold transition">
+            <i class="fa-solid fa-rotate mr-1.5"></i> Re-process anyway
+          </button>
+          <button id="btn-dup-replace" onclick="replacePolicyUpload()" class="hidden px-4 py-2 bg-cyan-600 hover:bg-cyan-500 text-white rounded-lg text-xs font-semibold transition">
+            <i class="fa-solid fa-code-commit mr-1.5"></i> Replace Version
+          </button>
+          <button onclick="cancelDuplicateBanner()" class="text-xs text-slate-400 hover:text-white px-2 py-1">
+            Cancel
+          </button>
+        </div>
+      </div>
+
+      <!-- UPLOAD & STEPPER SECTION -->
+      <div class="glass-panel p-6 rounded-2xl border border-navy-700/80 space-y-6">
+
+        <!-- Upload Dropzone -->
+        <div id="upload-dropzone" class="border-2 border-dashed border-navy-700 hover:border-cyan-500/60 rounded-xl p-6 text-center cursor-pointer transition bg-navy-900/50 hover:bg-navy-900 group"
+             ondragover="handleDragOver(event)" ondragleave="handleDragLeave(event)" ondrop="handleDrop(event)" onclick="triggerFileInput()">
+          <input type="file" id="file-input" class="hidden" accept=".pdf" onchange="handleFileSelect(event)">
+          <div class="w-12 h-12 rounded-full bg-cyan-500/10 group-hover:bg-cyan-500/20 border border-cyan-500/20 text-cyan-400 mx-auto flex items-center justify-center text-xl transition">
+            <i class="fa-solid fa-cloud-arrow-up"></i>
+          </div>
+          <div class="mt-3 font-semibold text-white text-sm">Drag & drop policy PDF here, or <span class="text-cyan-400 underline">browse</span></div>
+          <div class="text-xs text-slate-400 mt-1">Supports commercial & Medicare Advantage policy PDF documents</div>
+
+          <!-- Demo Quick Pick Pill (Visible in Demo Mode) -->
+          <div id="demo-quick-pick" class="hidden mt-4 inline-flex items-center space-x-2 bg-navy-800 border border-amber-500/40 px-3 py-1.5 rounded-lg text-xs text-amber-300" onclick="event.stopPropagation()">
+            <i class="fa-solid fa-wand-magic-sparkles text-amber-400"></i>
+            <span>Demo Mode: Click to pre-load sample:</span>
+            <select id="demo-sample-select" class="bg-navy-900 text-white border border-navy-700 rounded px-2 py-0.5 text-xs focus:outline-none" onchange="loadDemoSample(this.value)">
+              <option value="">Select sample...</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- 8-STAGE PIPELINE STEPPER -->
+        <div id="pipeline-stepper-container" class="hidden space-y-4 pt-2">
+          <div class="flex items-center justify-between">
+            <div class="flex items-center space-x-2">
+              <span class="w-2.5 h-2.5 rounded-full bg-cyan-400 animate-pulse"></span>
+              <span id="stepper-overall-status" class="text-xs font-bold uppercase tracking-wider text-cyan-400">Pipeline In Progress</span>
+              <span id="stepper-filename" class="text-xs text-slate-400 italic">policy.pdf</span>
+            </div>
+            <div id="stepper-pct-badge" class="text-xs font-mono font-bold text-white bg-navy-800 px-2 py-0.5 rounded border border-navy-700">0%</div>
+          </div>
+
+          <!-- Overall Progress Bar -->
+          <div class="w-full bg-navy-800 rounded-full h-2 overflow-hidden border border-navy-700">
+            <div id="stepper-progress-bar" class="bg-gradient-to-r from-cyan-500 to-emerald-400 h-2 rounded-full transition-all duration-300" style="width: 0%"></div>
+          </div>
+
+          <!-- 8 Stage Nodes -->
+          <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-8 gap-2 text-center pt-2" id="stepper-stages-grid">
+            <!-- Rendered by JS -->
+          </div>
+
+          <!-- Expandable Live Logs Console -->
+          <div class="bg-navy-950 border border-navy-700 rounded-xl p-3 font-mono text-[11px] text-slate-300">
+            <div class="flex items-center justify-between pb-2 border-b border-navy-800 text-slate-400 text-xs">
+              <div class="flex items-center space-x-2">
+                <i class="fa-solid fa-terminal text-cyan-400"></i>
+                <span class="font-semibold">Pipeline Execution Logs</span>
+              </div>
+              <button onclick="toggleLogsExpand()" class="text-slate-400 hover:text-white text-[10px]">
+                <span id="btn-toggle-log-text">Collapse</span>
+              </button>
+            </div>
+            <div id="stepper-log-stream" class="h-32 overflow-y-auto space-y-1 pt-2 pr-2 text-slate-400">
+              <div class="text-slate-500">Waiting for pipeline start...</div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- WORKSPACE OUTPUT PANEL (KPIs + Donut + Rules Table) -->
+      <div id="workspace-output-panel" class="space-y-6">
+
+        <!-- KPI CARDS -->
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+          <div class="glass-panel p-4 rounded-xl border border-navy-700">
+            <div class="text-xs text-slate-400 font-semibold uppercase tracking-wider">Total Rules</div>
+            <div id="kpi-total-rules" class="text-2xl font-bold text-white mt-1">--</div>
+            <div class="text-[11px] text-cyan-400 mt-0.5">Parsed from active guidelines</div>
+          </div>
+
+          <div class="glass-panel p-4 rounded-xl border border-navy-700">
+            <div class="text-xs text-slate-400 font-semibold uppercase tracking-wider">Target CPT / HCPCS</div>
+            <div id="kpi-distinct-codes" class="text-2xl font-bold text-emerald-400 mt-1">--</div>
+            <div class="text-[11px] text-slate-400 mt-0.5">Unique procedure codes</div>
+          </div>
+
+          <div class="glass-panel p-4 rounded-xl border border-navy-700">
+            <div class="text-xs text-slate-400 font-semibold uppercase tracking-wider">Review Needed</div>
+            <div id="kpi-review-needed" class="text-2xl font-bold text-amber-400 mt-1">--</div>
+            <div class="text-[11px] text-slate-400 mt-0.5">Flagged for manual audit</div>
+          </div>
+
+          <!-- Mini Donut Chart in KPI -->
+          <div class="glass-panel p-3 rounded-xl border border-navy-700 flex items-center justify-between">
+            <div>
+              <div class="text-xs text-slate-400 font-semibold uppercase tracking-wider">Categories</div>
+              <div class="text-xs text-slate-300 font-medium mt-1">Distribution</div>
+              <div class="text-[10px] text-slate-500">Top 5 classes</div>
+            </div>
+            <div class="w-16 h-16 relative">
+              <canvas id="category-donut-chart"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <!-- RULES TABLE CONTAINER -->
+        <div class="glass-panel rounded-2xl border border-navy-700/80 overflow-hidden shadow-xl">
+
+          <!-- Filter / Search Toolbar -->
+          <div class="p-4 border-b border-navy-700 flex flex-wrap items-center justify-between gap-3 bg-navy-900/60">
+            <div class="flex-1 min-w-[240px] relative">
+              <i class="fa-solid fa-magnifying-glass absolute left-3 top-1/2 -translate-y-1/2 text-slate-400 text-xs"></i>
+              <input type="text" id="rules-search-input" placeholder="Search by Rule ID, Policy Title, CPT code, or keyword..."
+                     class="w-full bg-navy-850 border border-navy-700 rounded-lg pl-9 pr-4 py-2 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-cyan-500 transition"
+                     oninput="debounceSearchRules()">
+            </div>
+
+            <div class="flex flex-wrap items-center gap-2">
+              <select id="rules-filter-category" onchange="fetchWorkspaceRules()" class="bg-navy-850 border border-navy-700 text-xs rounded-lg px-3 py-2 text-slate-300 focus:outline-none focus:border-cyan-500">
+                <option value="">All Categories</option>
+                <option value="REIMBURSEMENT_CRITERIA">Reimbursement Criteria</option>
+                <option value="DENIAL_PROHIBITION">Denial / Prohibition</option>
+                <option value="MODIFIER_RULE">Modifier Rule</option>
+                <option value="BUNDLING_INCLUSION">Bundling / Inclusion</option>
+                <option value="FREQUENCY_LIMIT">Frequency Limit</option>
+                <option value="PAYMENT_ADJUSTMENT">Payment Adjustment</option>
+                <option value="PLACE_OF_SERVICE">Place of Service</option>
+                <option value="ADD_ON_PRIMARY">Add-on Primary</option>
+                <option value="AGE_GENDER_RESTRICTION">Age / Gender</option>
+              </select>
+
+              <select id="rules-filter-action" onchange="fetchWorkspaceRules()" class="bg-navy-850 border border-navy-700 text-xs rounded-lg px-3 py-2 text-slate-300 focus:outline-none focus:border-cyan-500">
+                <option value="">All Audit Actions</option>
+                <option value="PAY_IF_CRITERIA_MET">PAY_IF_CRITERIA_MET</option>
+                <option value="DENY_LINE">DENY_LINE</option>
+                <option value="FLAG_FOR_REVIEW">FLAG_FOR_REVIEW</option>
+                <option value="REDUCE_PAYMENT">REDUCE_PAYMENT</option>
+              </select>
+
+              <select id="rules-filter-review" onchange="fetchWorkspaceRules()" class="bg-navy-850 border border-navy-700 text-xs rounded-lg px-3 py-2 text-slate-300 focus:outline-none focus:border-cyan-500">
+                <option value="">All Review Statuses</option>
+                <option value="yes">Needs Review Only</option>
+              </select>
+
+              <button onclick="resetRuleFilters()" class="text-xs text-slate-400 hover:text-white px-2 py-2">
+                <i class="fa-solid fa-arrow-rotate-left mr-1"></i> Reset
+              </button>
+            </div>
+          </div>
+
+          <!-- Rules Table -->
+          <div class="overflow-x-auto">
+            <table class="w-full text-left text-xs border-collapse">
+              <thead>
+                <tr class="border-b border-navy-700 bg-navy-850/80 text-slate-400 font-semibold">
+                  <th class="py-3 px-4 w-36">Rule ID</th>
+                  <th class="py-3 px-4 w-52">Policy Title</th>
+                  <th class="py-3 px-4 w-44">Category</th>
+                  <th class="py-3 px-4 w-36">Audit Action</th>
+                  <th class="py-3 px-4">Target Codes</th>
+                  <th class="py-3 px-4 w-60">Rule Text Preview</th>
+                  <th class="py-3 px-4 text-right w-20">Details</th>
+                </tr>
+              </thead>
+              <tbody id="rules-table-body" class="divide-y divide-navy-800 text-slate-300">
+                <!-- Dynamically populated -->
+              </tbody>
+            </table>
+          </div>
+
+          <!-- Table Pagination Footer -->
+          <div class="p-3.5 border-t border-navy-700 bg-navy-900/60 flex items-center justify-between text-xs text-slate-400">
+            <div id="rules-pagination-info">Showing 0 of 0 rules</div>
+            <div class="flex items-center space-x-2">
+              <button id="btn-prev-page" onclick="changeRulesPage(-1)" class="px-2.5 py-1 bg-navy-800 hover:bg-navy-750 text-white rounded border border-navy-700 disabled:opacity-30 disabled:cursor-not-allowed">
+                <i class="fa-solid fa-chevron-left"></i>
+              </button>
+              <span id="rules-page-indicator" class="font-semibold text-white px-1">Page 1</span>
+              <button id="btn-next-page" onclick="changeRulesPage(1)" class="px-2.5 py-1 bg-navy-800 hover:bg-navy-750 text-white rounded border border-navy-700 disabled:opacity-30 disabled:cursor-not-allowed">
+                <i class="fa-solid fa-chevron-right"></i>
+              </button>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- ============================================================ -->
+    <!-- PAGE 3: COMPARE RULES                                        -->
+    <!-- ============================================================ -->
+    <div id="page-compare" class="hidden space-y-6">
+
+      <!-- Header & Scope Selector -->
+      <div class="glass-panel p-6 rounded-2xl border border-navy-700/80 space-y-4">
+        <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 pb-3 border-b border-navy-700">
+          <div>
+            <div class="flex items-center space-x-2">
+              <h1 class="text-xl font-bold text-white tracking-tight flex items-center">
+                <i class="fa-solid fa-code-compare mr-2 text-cyan-400"></i>
+                Cross-Payer Rule Comparison
+              </h1>
+              <span class="text-xs bg-navy-800 text-cyan-300 px-2 py-0.5 rounded border border-navy-700">comparison_report.xlsx</span>
+            </div>
+            <p class="text-xs text-slate-400 mt-1">Instant evaluation of unique rules, similar rules, and divergent reimbursement policies.</p>
+          </div>
+
+          <div class="flex items-center space-x-3">
+            <button onclick="exportComparisonToExcel()" class="px-3.5 py-2 bg-emerald-600 hover:bg-emerald-500 text-white rounded-lg text-xs font-semibold transition flex items-center shadow-md">
+              <i class="fa-solid fa-file-excel mr-1.5"></i> Export This View (.xlsx)
+            </button>
+          </div>
+        </div>
+
+        <!-- Scope Selector Controls -->
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-3 pt-1">
+          <div>
+            <label class="text-[11px] font-semibold uppercase tracking-wider text-slate-400 mb-1 block">Primary Payer</label>
+            <select id="comp-client1-select" onchange="fetchComparisonData()" class="w-full bg-navy-850 border border-navy-700 rounded-lg px-3 py-2 text-xs text-white focus:outline-none focus:border-cyan-500">
+              <option value="UnitedHealthcare">UnitedHealthcare (UHC)</option>
+              <option value="Humana">Humana</option>
+            </select>
+          </div>
+
+          <div>
+            <label class="text-[11px] font-semibold uppercase tracking-wider text-slate-400 mb-1 block">Comparison Payer</label>
+            <select id="comp-client2-select" onchange="fetchComparisonData()" class="w-full bg-navy-850 border border-navy-700 rounded-lg px-3 py-2 text-xs text-white focus:outline-none focus:border-cyan-500">
+              <option value="Humana">Humana</option>
+              <option value="UnitedHealthcare">UnitedHealthcare (UHC)</option>
+            </select>
+          </div>
+
+          <div>
+            <label class="text-[11px] font-semibold uppercase tracking-wider text-slate-400 mb-1 block">Policy Scope</label>
+            <input type="text" id="comp-policy-input" placeholder="All Policies (or type title...)"
+                   class="w-full bg-navy-850 border border-navy-700 rounded-lg px-3 py-2 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-cyan-500"
+                   onchange="fetchComparisonData()">
+          </div>
+
+          <div>
+            <label class="text-[11px] font-semibold uppercase tracking-wider text-slate-400 mb-1 block">Filter Search</label>
+            <div class="relative">
+              <i class="fa-solid fa-magnifying-glass absolute left-3 top-1/2 -translate-y-1/2 text-slate-400 text-xs"></i>
+              <input type="text" id="comp-search-input" placeholder="Search codes, rules, text..."
+                     class="w-full bg-navy-850 border border-navy-700 rounded-lg pl-8 pr-3 py-2 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-cyan-500"
+                     oninput="debounceFetchComparison()">
+            </div>
+          </div>
+        </div>
+
+        <!-- Plain-English Headline Strip -->
+        <div class="bg-navy-900 border border-cyan-500/30 rounded-xl p-3 flex items-center justify-between">
+          <div class="flex items-center space-x-3">
+            <span class="w-2 h-2 rounded-full bg-cyan-400"></span>
+            <span id="comp-headline" class="text-sm font-semibold text-white">Loading comparison scope...</span>
+          </div>
+          <span class="text-[11px] text-slate-400">Deterministic code-level alignment</span>
+        </div>
+      </div>
+
+      <!-- CONFLICT SPOTLIGHT CARD (Top 3 POSSIBLE_CONFLICT pairs) -->
+      <div class="glass-panel p-5 rounded-2xl border border-rose-500/30 bg-rose-950/10 space-y-3">
+        <div class="flex items-center justify-between">
+          <h3 class="text-sm font-bold text-rose-400 flex items-center uppercase tracking-wider">
+            <i class="fa-solid fa-fire-flame-curved mr-2 text-rose-400"></i>
+            Conflict Spotlight (High Risk Payer Divergence)
+          </h3>
+          <span class="text-[10px] bg-rose-500/20 text-rose-300 border border-rose-500/30 px-2 py-0.5 rounded font-bold uppercase">POSSIBLE_CONFLICT</span>
+        </div>
+        <p class="text-xs text-slate-300">Rules sharing identical procedure codes where one payer pays and another denies or imposes opposite coverage requirements:</p>
+
+        <div id="conflict-spotlight-list" class="grid grid-cols-1 md:grid-cols-3 gap-3 pt-1">
+          <!-- Populated by JS -->
+        </div>
+      </div>
+
+      <!-- 3 ORDERED COMPARISON TABS (Unique Rules -> Similar Rules -> Rule Gaps) -->
+      <div class="space-y-4">
+        <div class="flex items-center space-x-2 border-b border-navy-700 pb-2">
+          <button onclick="switchCompTab('unique')" id="tab-comp-unique" class="px-4 py-2 text-xs font-semibold rounded-lg bg-navy-800 text-white border border-navy-700 transition flex items-center">
+            <i class="fa-solid fa-fingerprint mr-1.5 text-cyan-400"></i>
+            1. UNIQUE RULES
+            <span id="badge-comp-unique" class="ml-2 px-1.5 py-0.5 rounded-full text-[10px] bg-cyan-500/20 text-cyan-300">0</span>
+          </button>
+
+          <button onclick="switchCompTab('similar')" id="tab-comp-similar" class="px-4 py-2 text-xs font-semibold rounded-lg text-slate-400 hover:text-white hover:bg-navy-800 transition flex items-center">
+            <i class="fa-solid fa-scale-balanced mr-1.5 text-emerald-400"></i>
+            2. SIMILAR RULES
+            <span id="badge-comp-similar" class="ml-2 px-1.5 py-0.5 rounded-full text-[10px] bg-emerald-500/20 text-emerald-300">0</span>
+          </button>
+
+          <button onclick="switchCompTab('gaps')" id="tab-comp-gaps" class="px-4 py-2 text-xs font-semibold rounded-lg text-slate-400 hover:text-white hover:bg-navy-800 transition flex items-center">
+            <i class="fa-solid fa-triangle-exclamation mr-1.5 text-rose-400"></i>
+            3. RULE GAPS
+            <span id="badge-comp-gaps" class="ml-2 px-1.5 py-0.5 rounded-full text-[10px] bg-rose-500/20 text-rose-300">0</span>
+          </button>
+        </div>
+
+        <!-- TAB CONTENT 1: UNIQUE RULES -->
+        <div id="content-comp-unique" class="glass-panel rounded-2xl border border-navy-700/80 overflow-hidden">
+          <div class="p-3 bg-navy-900/60 border-b border-navy-700 text-xs text-slate-400 flex items-center justify-between">
+            <span>Rules native to primary payer with no matching procedure codes in comparison payer.</span>
+            <span class="text-[11px] text-slate-500">Source: Unmatched_Rules</span>
+          </div>
+          <div class="overflow-x-auto">
+            <table class="w-full text-left text-xs border-collapse">
+              <thead>
+                <tr class="border-b border-navy-700 bg-navy-850/80 text-slate-400 font-semibold">
+                  <th class="py-3 px-4 w-36">Rule ID</th>
+                  <th class="py-3 px-4 w-52">Policy Title</th>
+                  <th class="py-3 px-4 w-36">Category</th>
+                  <th class="py-3 px-4 w-32">Severity</th>
+                  <th class="py-3 px-4 w-44">Unmatched Reason</th>
+                  <th class="py-3 px-4">Codes</th>
+                  <th class="py-3 px-4">Rule Text</th>
+                </tr>
+              </thead>
+              <tbody id="unique-rules-tbody" class="divide-y divide-navy-800 text-slate-300">
+                <!-- Rendered by JS -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- TAB CONTENT 2: SIMILAR RULES -->
+        <div id="content-comp-similar" class="hidden glass-panel rounded-2xl border border-navy-700/80 overflow-hidden">
+          <div class="p-3 bg-navy-900/60 border-b border-navy-700 text-xs text-slate-400 flex items-center justify-between">
+            <span>Rules with overlapping procedure codes. Click any pair to open the side-by-side discrepancy viewer.</span>
+            <span class="text-[11px] text-slate-500">Source: Rule_Comparison</span>
+          </div>
+          <div class="overflow-x-auto">
+            <table class="w-full text-left text-xs border-collapse">
+              <thead>
+                <tr class="border-b border-navy-700 bg-navy-850/80 text-slate-400 font-semibold">
+                  <th class="py-3 px-4 w-56">Comparison Result</th>
+                  <th class="py-3 px-4 w-36">Shared Codes</th>
+                  <th class="py-3 px-4 w-36">Primary Rule ID</th>
+                  <th class="py-3 px-4 w-36">Other Rule ID</th>
+                  <th class="py-3 px-4 w-48">Primary Policy</th>
+                  <th class="py-3 px-4 w-48">Other Policy</th>
+                  <th class="py-3 px-4">Differences Summary</th>
+                  <th class="py-3 px-4 text-right w-20">Inspect</th>
+                </tr>
+              </thead>
+              <tbody id="similar-rules-tbody" class="divide-y divide-navy-800 text-slate-300">
+                <!-- Rendered by JS -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- TAB CONTENT 3: RULE GAPS -->
+        <div id="content-comp-gaps" class="hidden glass-panel rounded-2xl border border-navy-700/80 overflow-hidden">
+          <div class="p-3 bg-navy-900/60 border-b border-navy-700 text-xs text-slate-400 flex items-center justify-between">
+            <span>Reimbursement gaps where the other payer imposes restrictive criteria or policies not matched in primary payer.</span>
+            <span class="text-[11px] text-slate-500">Sorted by Gap Severity (High -> Low)</span>
+          </div>
+          <div class="overflow-x-auto">
+            <table class="w-full text-left text-xs border-collapse">
+              <thead>
+                <tr class="border-b border-navy-700 bg-navy-850/80 text-slate-400 font-semibold">
+                  <th class="py-3 px-4 w-28">Severity</th>
+                  <th class="py-3 px-4 w-40">Rule / Pair</th>
+                  <th class="py-3 px-4 w-48">Policy Title</th>
+                  <th class="py-3 px-4 w-36">Category</th>
+                  <th class="py-3 px-4 w-32">Audit Action</th>
+                  <th class="py-3 px-4 w-36">Codes</th>
+                  <th class="py-3 px-4">Gap Explanation</th>
+                </tr>
+              </thead>
+              <tbody id="gaps-rules-tbody" class="divide-y divide-navy-800 text-slate-300">
+                <!-- Rendered by JS -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+  </main>
+
+  <!-- ============================================================== -->
+  <!-- SIDE-BY-SIDE SIMILAR RULE DRAWER                               -->
+  <!-- ============================================================== -->
+  <div id="side-by-side-modal" class="hidden fixed inset-0 z-50 overflow-hidden bg-black/70 backdrop-blur-sm flex justify-center items-center p-4">
+    <div class="bg-navy-900 border border-navy-700 rounded-2xl w-full max-w-5xl max-h-[90vh] flex flex-col shadow-2xl overflow-hidden">
+      <!-- Modal Header -->
+      <div class="p-4 border-b border-navy-700 flex items-center justify-between bg-navy-850">
+        <div class="flex items-center space-x-3">
+          <span id="sbs-result-badge" class="px-2.5 py-1 rounded text-xs font-bold uppercase bg-amber-500/20 text-amber-300 border border-amber-500/30">SAME_CODES_DIFFERENT_RULE_DETAILS</span>
+          <span class="text-sm font-bold text-white">Cross-Payer Rule Diff</span>
+        </div>
+        <button onclick="closeSideBySideModal()" class="w-8 h-8 rounded-lg bg-navy-800 hover:bg-navy-750 text-slate-400 hover:text-white flex items-center justify-center">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+
+      <!-- Differences Banner -->
+      <div class="p-4 bg-navy-950 border-b border-navy-800">
+        <div class="text-[11px] font-semibold text-slate-400 uppercase tracking-wider mb-1">Identified Discrepancies:</div>
+        <div id="sbs-differences" class="text-xs text-amber-300/95 font-mono whitespace-pre-line leading-relaxed">
+          Differences text...
+        </div>
+        <div class="mt-2 flex items-center space-x-2 text-[11px] text-slate-400">
+          <span class="font-semibold text-slate-300">Shared Codes:</span>
+          <span id="sbs-shared-codes" class="font-mono text-cyan-300">--</span>
+        </div>
+      </div>
+
+      <!-- Two-Column Side by Side -->
+      <div class="flex-1 overflow-y-auto grid grid-cols-1 md:grid-cols-2 divide-y md:divide-y-0 md:divide-x divide-navy-700 p-4 gap-4">
+        <!-- Client 1 -->
+        <div class="space-y-3">
+          <div class="flex items-center justify-between border-b border-navy-800 pb-2">
+            <span id="sbs-c1-name" class="font-bold text-cyan-400 text-sm">UnitedHealthcare</span>
+            <span id="sbs-c1-rule-id" class="font-mono text-xs text-slate-400">--</span>
+          </div>
+          <div>
+            <div class="text-[10px] uppercase font-bold text-slate-500">Policy Title</div>
+            <div id="sbs-c1-title" class="text-xs font-semibold text-white mt-0.5">--</div>
+          </div>
+          <div>
+            <div class="text-[10px] uppercase font-bold text-slate-500">Category & Action</div>
+            <div class="text-xs text-slate-300 mt-0.5"><span id="sbs-c1-cat">--</span> | <span id="sbs-c1-action" class="font-mono text-cyan-400">--</span></div>
+          </div>
+          <div>
+            <div class="text-[10px] uppercase font-bold text-slate-500">Rule Prose</div>
+            <div id="sbs-c1-text" class="text-xs text-slate-300 mt-0.5 p-2 bg-navy-950 rounded border border-navy-800 max-h-40 overflow-y-auto leading-relaxed">--</div>
+          </div>
+          <div>
+            <div class="text-[10px] uppercase font-bold text-slate-500">ICD-10 Mappings</div>
+            <div id="sbs-c1-icd" class="text-xs font-mono text-emerald-400 mt-0.5">--</div>
+          </div>
+        </div>
+
+        <!-- Client 2 -->
+        <div class="space-y-3">
+          <div class="flex items-center justify-between border-b border-navy-800 pb-2">
+            <span id="sbs-c2-name" class="font-bold text-purple-400 text-sm">Humana</span>
+            <span id="sbs-c2-rule-id" class="font-mono text-xs text-slate-400">--</span>
+          </div>
+          <div>
+            <div class="text-[10px] uppercase font-bold text-slate-500">Policy Title</div>
+            <div id="sbs-c2-title" class="text-xs font-semibold text-white mt-0.5">--</div>
+          </div>
+          <div>
+            <div class="text-[10px] uppercase font-bold text-slate-500">Category & Action</div>
+            <div class="text-xs text-slate-300 mt-0.5"><span id="sbs-c2-cat">--</span> | <span id="sbs-c2-action" class="font-mono text-purple-400">--</span></div>
+          </div>
+          <div>
+            <div class="text-[10px] uppercase font-bold text-slate-500">Rule Prose</div>
+            <div id="sbs-c2-text" class="text-xs text-slate-300 mt-0.5 p-2 bg-navy-950 rounded border border-navy-800 max-h-40 overflow-y-auto leading-relaxed">--</div>
+          </div>
+          <div>
+            <div class="text-[10px] uppercase font-bold text-slate-500">ICD-10 Mappings</div>
+            <div id="sbs-c2-icd" class="text-xs font-mono text-emerald-400 mt-0.5">--</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Footer -->
+      <div class="p-3 border-t border-navy-700 bg-navy-850 flex justify-end">
+        <button onclick="closeSideBySideModal()" class="px-4 py-1.5 bg-navy-800 hover:bg-navy-750 text-white rounded-lg text-xs font-semibold">
+          Close Inspector
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- RULE DETAIL SIDE DRAWER                                        -->
+  <!-- ============================================================== -->
+  <div id="rule-drawer-backdrop" class="hidden fixed inset-0 z-50 bg-black/60 backdrop-blur-xs" onclick="closeRuleDrawer()"></div>
+  <div id="rule-drawer" class="fixed right-0 top-0 bottom-0 z-50 w-full max-w-xl bg-navy-900 border-l border-navy-700 shadow-2xl transform translate-x-full transition-transform duration-300 flex flex-col">
+
+    <!-- Drawer Header -->
+    <div class="p-5 border-b border-navy-700 flex items-center justify-between bg-navy-850">
+      <div class="flex items-center space-x-3">
+        <div id="drawer-rule-id" class="text-base font-extrabold text-white font-mono">RULE-001</div>
+        <span id="drawer-action-badge" class="px-2 py-0.5 rounded text-[10px] font-bold uppercase bg-emerald-500/20 text-emerald-300 border border-emerald-500/30">PAY_IF_CRITERIA_MET</span>
+      </div>
+      <button onclick="closeRuleDrawer()" class="w-8 h-8 rounded-lg bg-navy-800 hover:bg-navy-750 text-slate-400 hover:text-white flex items-center justify-center">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+    </div>
+
+    <!-- Drawer Content Scrollable Area -->
+    <div class="flex-1 overflow-y-auto p-5 space-y-5">
+
+      <!-- Metadata Box -->
+      <div class="bg-navy-950 p-3.5 rounded-xl border border-navy-800 space-y-2 text-xs">
+        <div class="flex items-center justify-between">
+          <span class="text-slate-400">Policy:</span>
+          <span id="drawer-policy-title" class="font-semibold text-white text-right">Testosterone Policy</span>
+        </div>
+        <div class="flex items-center justify-between">
+          <span class="text-slate-400">Policy Number:</span>
+          <span id="drawer-policy-num" class="font-mono text-cyan-400">2026R8221A</span>
+        </div>
+        <div class="flex items-center justify-between">
+          <span class="text-slate-400">Line of Business & Class:</span>
+          <span id="drawer-lob" class="text-slate-300">Medicare Advantage | Professional</span>
+        </div>
+        <div class="flex items-center justify-between">
+          <span class="text-slate-400">Effective Date:</span>
+          <span id="drawer-eff-date" class="text-slate-300">01/01/2026</span>
+        </div>
+      </div>
+
+      <!-- Verbatim Rule Text -->
+      <div>
+        <div class="text-[11px] font-bold text-slate-400 uppercase tracking-wider mb-1.5 flex items-center">
+          <i class="fa-solid fa-align-left mr-1.5 text-cyan-400"></i> Verbatim Policy Rule Text
+        </div>
+        <div id="drawer-rule-text" class="p-3 bg-navy-950 rounded-xl border border-navy-800 text-xs text-slate-300 leading-relaxed max-h-48 overflow-y-auto">
+          Rule text...
+        </div>
+      </div>
+
+      <!-- Target Procedure Codes & Modifiers -->
+      <div>
+        <div class="flex items-center justify-between mb-1.5">
+          <div class="text-[11px] font-bold text-slate-400 uppercase tracking-wider flex items-center">
+            <i class="fa-solid fa-barcode mr-1.5 text-emerald-400"></i> Target CPT / HCPCS & Modifiers
+          </div>
+          <button onclick="copyDrawerCodes()" class="text-[11px] text-cyan-400 hover:text-cyan-300">
+            <i class="fa-regular fa-copy mr-1"></i> Copy All
+          </button>
+        </div>
+        <div id="drawer-codes-container" class="flex flex-wrap gap-1.5 p-3 bg-navy-950 rounded-xl border border-navy-800">
+          <!-- Code chips -->
+        </div>
+      </div>
+
+      <!-- Possible ICD-10 Mappings -->
+      <div>
+        <div class="text-[11px] font-bold text-slate-400 uppercase tracking-wider mb-1.5 flex items-center">
+          <i class="fa-solid fa-stethoscope mr-1.5 text-purple-400"></i> Possible ICD-10 Diagnosis Codes
+        </div>
+        <div id="drawer-icd-codes" class="p-3 bg-navy-950 rounded-xl border border-navy-800 text-xs font-mono text-purple-300">
+          --
+        </div>
+      </div>
+
+      <!-- Review Flag (if any) -->
+      <div id="drawer-review-flag-container" class="hidden">
+        <div class="text-[11px] font-bold text-amber-400 uppercase tracking-wider mb-1.5 flex items-center">
+          <i class="fa-solid fa-flag mr-1.5 text-amber-400"></i> Audit Review Flag
+        </div>
+        <div id="drawer-review-flag" class="p-3 bg-amber-950/20 border border-amber-500/30 rounded-xl text-xs text-amber-300">
+          --
+        </div>
+      </div>
+
+      <!-- Runnable SQL Query Section -->
+      <div>
+        <div class="flex items-center justify-between mb-1.5">
+          <div class="text-[11px] font-bold text-slate-400 uppercase tracking-wider flex items-center">
+            <i class="fa-solid fa-database mr-1.5 text-cyan-400"></i> Executable SQL Query
+          </div>
+          <div class="flex items-center space-x-2">
+            <button onclick="copyDrawerSQL()" class="text-[11px] text-slate-400 hover:text-white px-2 py-0.5 rounded bg-navy-800 border border-navy-700">
+              <i class="fa-regular fa-copy mr-1"></i> Copy SQL
+            </button>
+            <button onclick="runSampleClaimsFromDrawer()" class="text-[11px] text-emerald-300 hover:text-white px-2.5 py-0.5 rounded bg-emerald-600/30 border border-emerald-500/40 hover:bg-emerald-600 transition font-semibold flex items-center">
+              <i class="fa-solid fa-play mr-1 text-[10px]"></i> Run on Sample Claims
+            </button>
+          </div>
+        </div>
+        <pre class="p-3 bg-navy-950 rounded-xl border border-navy-800 text-xs text-cyan-300/90 font-mono overflow-x-auto max-h-56 leading-normal"><code id="drawer-sql-code">-- SQL Query</code></pre>
+      </div>
+
+      <!-- IN-MEMORY DUCKDB CLAIM EXECUTION RESULTS PANEL -->
+      <div id="drawer-duckdb-results" class="hidden space-y-2 p-3 bg-navy-950 rounded-xl border border-cyan-500/30">
+        <div class="flex items-center justify-between text-xs">
+          <span class="font-bold text-cyan-400 flex items-center">
+            <i class="fa-solid fa-circle-check mr-1.5 text-emerald-400"></i> DuckDB Execution Output
+          </span>
+          <span id="duckdb-status-pill" class="text-[10px] px-1.5 py-0.5 rounded bg-navy-800 text-slate-300">50 claims in memory</span>
+        </div>
+        <p id="duckdb-msg" class="text-xs text-slate-300">5 claims flagged.</p>
+        <div id="duckdb-table-wrapper" class="overflow-x-auto max-h-48 border border-navy-800 rounded">
+          <table class="w-full text-[10px] text-left border-collapse">
+            <thead class="bg-navy-900 text-slate-400 sticky top-0">
+              <tr id="duckdb-thead-tr"></tr>
+            </thead>
+            <tbody id="duckdb-tbody" class="divide-y divide-navy-800 text-slate-200"></tbody>
+          </table>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Drawer Footer -->
+    <div class="p-4 border-t border-navy-700 bg-navy-850 flex items-center justify-between">
+      <span class="text-xs text-slate-400">Table: <code class="text-cyan-400">claim_lines</code></span>
+      <button onclick="closeRuleDrawer()" class="px-4 py-1.5 bg-navy-800 hover:bg-navy-750 text-white rounded-lg text-xs font-semibold">
+        Close Drawer
+      </button>
+    </div>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- JAVASCRIPT APPLICATION LOGIC                                  -->
+  <!-- ============================================================== -->
+  <script>
+    // Global Application State
+    const state = {
+      currentPage: 'home',
+      currentPayerId: 'uhc',
+      isDemoMode: false,
+      activeJobId: null,
+      activeJobEventSource: null,
+      rulesPage: 1,
+      rulesLimit: 50,
+      totalRulesCount: 0,
+      selectedRule: null,
+      activeCompTab: 'unique',
+      donutChartInstance: null,
+      payersRegistry: [],
+      pendingUploadFile: null
+    };
+
+    // Initialize application on DOM ready
+    document.addEventListener('DOMContentLoaded', () => {
+      initApp();
+    });
+
+    async function initApp() {
+      await fetchSummary();
+      await fetchPayers();
+      await fetchHeatmap();
+      // Check hash routing if any
+      const hash = window.location.hash.replace('#', '');
+      if (hash.startsWith('workspace')) {
+        const params = new URLSearchParams(hash.split('?')[1] || '');
+        const pid = params.get('payer') || 'uhc';
+        openWorkspace(pid);
+      } else if (hash === 'compare') {
+        navigate('compare');
+      } else {
+        navigate('home');
+      }
+    }
+
+    // Navigation Router
+    function navigate(page) {
+      state.currentPage = page;
+      window.location.hash = page;
+
+      document.getElementById('page-home').classList.add('hidden');
+      document.getElementById('page-workspace').classList.add('hidden');
+      document.getElementById('page-compare').classList.add('hidden');
+
+      // Update Nav Buttons
+      document.getElementById('nav-btn-home').className = (page === 'home')
+        ? 'px-3.5 py-1.5 rounded-md text-sm font-medium transition text-white bg-navy-800 border border-navy-700'
+        : 'px-3.5 py-1.5 rounded-md text-sm font-medium transition text-slate-300 hover:text-white hover:bg-navy-800';
+
+      document.getElementById('nav-btn-compare').className = (page === 'compare')
+        ? 'px-3.5 py-1.5 rounded-md text-sm font-medium transition text-white bg-navy-800 border border-navy-700'
+        : 'px-3.5 py-1.5 rounded-md text-sm font-medium transition text-slate-300 hover:text-white hover:bg-navy-800';
+
+      if (page === 'home') {
+        document.getElementById('page-home').classList.remove('hidden');
+        fetchSummary();
+        fetchPayers();
+      } else if (page === 'workspace') {
+        document.getElementById('page-workspace').classList.remove('hidden');
+        fetchWorkspaceRules();
+      } else if (page === 'compare') {
+        document.getElementById('page-compare').classList.remove('hidden');
+        fetchComparisonData();
+      }
+    }
+
+    // Toggle Demo Mode
+    function toggleDemoMode(checked) {
+      state.isDemoMode = checked;
+      const badge = document.getElementById('demo-mode-badge');
+      const quickPick = document.getElementById('demo-quick-pick');
+      if (checked) {
+        badge.classList.remove('hidden');
+        quickPick.classList.remove('hidden');
+        populateDemoSamples(state.currentPayerId);
+      } else {
+        badge.classList.add('hidden');
+        quickPick.classList.add('hidden');
+      }
+    }
+
+    async function populateDemoSamples(payerId) {
+      try {
+        const res = await fetch('/api/demo-samples');
+        const data = await res.json();
+        const samples = data[payerId] || [];
+        const select = document.getElementById('demo-sample-select');
+        select.innerHTML = '<option value="">Select sample policy...</option>';
+        samples.forEach(s => {
+          select.innerHTML += `<option value="${s.id}">${s.policy_title} (${s.policy_number})</option>`;
+        });
+      } catch (err) {
+        console.error('Error fetching demo samples:', err);
+      }
+    }
+
+    // -------------------------------------------------------------
+    // PAGE 1: HOME LOGIC
+    // -------------------------------------------------------------
+    async function fetchSummary() {
+      try {
+        const res = await fetch('/api/summary');
+        const data = await res.json();
+        document.getElementById('sum-payers').textContent = data.total_payers;
+        document.getElementById('sum-rules').textContent = data.total_rules.toLocaleString();
+        document.getElementById('sum-matched').textContent = data.total_matched_pairs.toLocaleString();
+        document.getElementById('sum-gaps').textContent = data.total_gaps.toLocaleString();
+      } catch (e) {
+        console.error('Error fetching summary:', e);
+      }
+    }
+
+    async function fetchPayers() {
+      try {
+        const res = await fetch('/api/payers');
+        const payers = await res.json();
+        state.payersRegistry = payers;
+        const grid = document.getElementById('payer-pods-grid');
+        grid.innerHTML = '';
+
+        payers.forEach(p => {
+          const isStub = p.status === 'stub';
+          const card = document.createElement('div');
+          card.className = "glass-panel p-6 rounded-2xl border border-navy-700/80 hover:border-cyan-500/50 cursor-pointer transition transform hover:-translate-y-1 shadow-lg flex flex-col justify-between group";
+          card.onclick = () => openWorkspace(p.id);
+
+          const statusBadge = isStub
+            ? `<span class="px-2.5 py-0.5 rounded-full text-[10px] font-bold uppercase bg-amber-500/20 text-amber-300 border border-amber-500/30">${p.badge}</span>`
+            : `<span class="px-2.5 py-0.5 rounded-full text-[10px] font-bold uppercase bg-emerald-500/20 text-emerald-400 border border-emerald-500/30"><i class="fa-solid fa-circle text-[8px] mr-1"></i> Live Connected</span>`;
+
+          const statsBlock = isStub
+            ? `<div class="grid grid-cols-2 gap-2 mt-4 pt-4 border-t border-navy-800 text-center">
+                 <div class="bg-navy-900/60 p-2.5 rounded-lg border border-navy-800">
+                   <div class="text-base font-bold text-white">${p.policies_count}</div>
+                   <div class="text-[10px] text-slate-400 uppercase">Extracted Policies</div>
+                 </div>
+                 <div class="bg-navy-900/60 p-2.5 rounded-lg border border-navy-800">
+                   <div class="text-base font-bold text-amber-400">Stub Data</div>
+                   <div class="text-[10px] text-slate-400 uppercase">Status</div>
+                 </div>
+               </div>`
+            : `<div class="grid grid-cols-3 gap-2 mt-4 pt-4 border-t border-navy-800 text-center">
+                 <div class="bg-navy-900/60 p-2 rounded-lg border border-navy-800">
+                   <div class="text-base font-bold text-white">${p.policies_count}</div>
+                   <div class="text-[10px] text-slate-400 uppercase">Policies</div>
+                 </div>
+                 <div class="bg-navy-900/60 p-2 rounded-lg border border-navy-800">
+                   <div class="text-base font-bold text-cyan-400">${p.rules_count.toLocaleString()}</div>
+                   <div class="text-[10px] text-slate-400 uppercase">Rules</div>
+                 </div>
+                 <div class="bg-navy-900/60 p-2 rounded-lg border border-navy-800">
+                   <div class="text-base font-bold text-emerald-400">${p.distinct_codes.toLocaleString()}</div>
+                   <div class="text-[10px] text-slate-400 uppercase">Codes</div>
+                 </div>
+               </div>`;
+
+          card.innerHTML = `
+            <div>
+              <div class="flex items-start justify-between">
+                <div class="w-10 h-10 rounded-xl bg-navy-800 border border-navy-700 flex items-center justify-center text-cyan-400 text-lg group-hover:scale-105 transition">
+                  <i class="fa-solid fa-hospital-user"></i>
+                </div>
+                ${statusBadge}
+              </div>
+              <h3 class="text-lg font-black text-white tracking-tight mt-3 group-hover:text-cyan-400 transition">${p.display_name}</h3>
+              <p class="text-xs text-slate-400 mt-1 line-clamp-2">${p.description}</p>
+            </div>
+            <div>
+              ${statsBlock}
+              <div class="mt-4 flex items-center justify-between text-xs text-slate-400">
+                <span>Updated: ${p.last_updated ? p.last_updated.split(' ')[0] : 'N/A'}</span>
+                <span class="text-cyan-400 font-semibold group-hover:translate-x-1 transition inline-flex items-center">
+                  Open Workspace <i class="fa-solid fa-arrow-right ml-1.5 text-[10px]"></i>
+                </span>
+              </div>
+            </div>
+          `;
+          grid.appendChild(card);
+        });
+      } catch (e) {
+        console.error('Error fetching payers:', e);
+      }
+    }
+
+    async function fetchHeatmap() {
+      try {
+        const res = await fetch('/api/heatmap');
+        const data = await res.json();
+        const tbody = document.getElementById('heatmap-body');
+        tbody.innerHTML = '';
+
+        data.categories.forEach(cat => {
+          const row = document.createElement('tr');
+          row.className = "hover:bg-navy-850/50 transition";
+          const catLabel = cat.replace(/_/g, ' ');
+
+          let cells = `<td class="py-2.5 px-4 font-medium text-slate-200">${catLabel}</td>`;
+          data.payers.forEach(p => {
+            const count = p.counts[cat] || 0;
+            const bgClass = count > 50 ? 'bg-cyan-500/20 text-cyan-300 font-bold border border-cyan-500/30'
+                          : count > 10 ? 'bg-navy-800 text-slate-200 border border-navy-700'
+                          : count > 0  ? 'bg-navy-900 text-slate-400'
+                          : 'text-slate-600';
+            cells += `
+              <td class="py-2.5 px-4 text-center">
+                <button onclick="openWorkspaceCategory('${p.id}', '${cat}')" class="px-2.5 py-1 rounded text-xs transition hover:scale-105 ${bgClass}">
+                  ${count > 0 ? count : '-'}
+                </button>
+              </td>`;
+          });
+          row.innerHTML = cells;
+          tbody.appendChild(row);
+        });
+      } catch (e) {
+        console.error('Error fetching heatmap:', e);
+      }
+    }
+
+    function openWorkspace(payerId) {
+      state.currentPayerId = payerId;
+      window.location.hash = `workspace?payer=${payerId}`;
+      navigate('workspace');
+      setupWorkspaceHeader(payerId);
+      if (state.isDemoMode) {
+        populateDemoSamples(payerId);
+      }
+    }
+
+    function openWorkspaceCategory(payerId, category) {
+      state.currentPayerId = payerId;
+      openWorkspace(payerId);
+      const catSelect = document.getElementById('rules-filter-category');
+      if (catSelect) {
+        catSelect.value = category;
+        fetchWorkspaceRules();
+      }
+    }
+
+    // -------------------------------------------------------------
+    // PAGE 2: PAYER WORKSPACE LOGIC
+    // -------------------------------------------------------------
+    function setupWorkspaceHeader(payerId) {
+      const payer = state.payersRegistry.find(p => p.id === payerId) || {
+        display_name: payerId.toUpperCase(),
+        status: 'connected',
+        description: 'Payer workspace'
+      };
+
+      document.getElementById('workspace-payer-title').textContent = payer.display_name;
+      document.getElementById('workspace-payer-desc').textContent = payer.description;
+
+      const badge = document.getElementById('workspace-status-badge');
+      if (payer.status === 'stub') {
+        badge.className = "px-2 py-0.5 text-xs rounded-full bg-amber-500/20 text-amber-300 border border-amber-500/30";
+        badge.textContent = payer.badge || "Stub Sample";
+      } else {
+        badge.className = "px-2 py-0.5 text-xs rounded-full bg-emerald-500/20 text-emerald-400 border border-emerald-500/30";
+        badge.textContent = "Live Connected";
+      }
+
+      // Configure export links
+      document.getElementById('btn-download-wb').href = `/api/download/workbook/${payerId}`;
+      document.getElementById('btn-download-sql').href = `/api/download/queries/${payerId}`;
+    }
+
+    function toggleDownloadMenu() {
+      const menu = document.getElementById('download-menu');
+      menu.classList.toggle('hidden');
+    }
+
+    // Close download menu when clicking outside
+    document.addEventListener('click', (e) => {
+      const wrapper = document.getElementById('export-dropdown-wrapper');
+      if (wrapper && !wrapper.contains(e.target)) {
+        const menu = document.getElementById('download-menu');
+        if (menu) menu.classList.add('hidden');
+      }
+    });
+
+    async function fetchWorkspaceRules() {
+      const payerId = state.currentPayerId;
+      const cat = document.getElementById('rules-filter-category')?.value || '';
+      const action = document.getElementById('rules-filter-action')?.value || '';
+      const rev = document.getElementById('rules-filter-review')?.value || '';
+      const search = document.getElementById('rules-search-input')?.value || '';
+
+      const url = `/api/rules/${payerId}?page=${state.rulesPage}&limit=${state.rulesLimit}&category=${encodeURIComponent(cat)}&audit_action=${encodeURIComponent(action)}&review_flag=${encodeURIComponent(rev)}&search=${encodeURIComponent(search)}`;
+
+      try {
+        const res = await fetch(url);
+        const data = await res.json();
+
+        // Update KPIs
+        if (data.kpis) {
+          document.getElementById('kpi-total-rules').textContent = data.kpis.total_rules?.toLocaleString() || '0';
+          document.getElementById('kpi-distinct-codes').textContent = data.kpis.distinct_codes?.toLocaleString() || '0';
+          document.getElementById('kpi-review-needed').textContent = data.kpis.review_needed_count?.toLocaleString() || '0';
+          renderDonutChart(data.kpis.categories_breakdown || {});
+        }
+
+        // Render Table
+        renderRulesTable(data.rules || []);
+
+        // Update Pagination
+        state.totalRulesCount = data.total || 0;
+        const totalPages = Math.ceil(state.totalRulesCount / state.rulesLimit) || 1;
+        document.getElementById('rules-page-indicator').textContent = `Page ${state.rulesPage} of ${totalPages}`;
+        document.getElementById('rules-pagination-info').textContent = `Showing ${Math.min((state.rulesPage - 1) * state.rulesLimit + 1, state.totalRulesCount)} - ${Math.min(state.rulesPage * state.rulesLimit, state.totalRulesCount)} of ${state.totalRulesCount} rules`;
+
+        document.getElementById('btn-prev-page').disabled = (state.rulesPage <= 1);
+        document.getElementById('btn-next-page').disabled = (state.rulesPage >= totalPages);
+
+      } catch (err) {
+        console.error('Error fetching rules:', err);
+      }
+    }
+
+    function renderDonutChart(catMap) {
+      const ctx = document.getElementById('category-donut-chart')?.getContext('2d');
+      if (!ctx) return;
+
+      if (state.donutChartInstance) {
+        state.donutChartInstance.destroy();
+      }
+
+      const labels = Object.keys(catMap).slice(0, 5);
+      const values = Object.values(catMap).slice(0, 5);
+      const colors = ['#06B6D4', '#10B981', '#F59E0B', '#8B5CF6', '#F43F5E'];
+
+      state.donutChartInstance = new Chart(ctx, {
+        type: 'doughnut',
+        data: {
+          labels: labels,
+          datasets: [{
+            data: values,
+            backgroundColor: colors,
+            borderWidth: 0
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            tooltip: { enabled: true }
+          },
+          cutout: '70%'
+        }
+      });
+    }
+
+    function renderRulesTable(rules) {
+      const tbody = document.getElementById('rules-table-body');
+      tbody.innerHTML = '';
+
+      if (!rules.length) {
+        tbody.innerHTML = `<tr><td colspan="7" class="p-8 text-center text-slate-500">No matching rules found. Try adjusting filters or search.</td></tr>`;
+        return;
+      }
+
+      rules.forEach(rule => {
+        const tr = document.createElement('tr');
+        tr.className = "hover:bg-navy-850/60 transition cursor-pointer group";
+        tr.onclick = () => openRuleDrawer(rule);
+
+        // Action badge styling
+        const action = rule.Audit_Action || 'PAY_IF_CRITERIA_MET';
+        let actionColor = 'bg-cyan-500/20 text-cyan-300 border-cyan-500/30';
+        if (action.includes('DENY')) actionColor = 'bg-rose-500/20 text-rose-300 border-rose-500/30';
+        else if (action.includes('REVIEW')) actionColor = 'bg-amber-500/20 text-amber-300 border-amber-500/30';
+        else if (action.includes('REDUCE')) actionColor = 'bg-purple-500/20 text-purple-300 border-purple-500/30';
+
+        // Target Codes chips
+        const rawCodes = String(rule.Target_Codes || '').split(',').map(c => c.trim()).filter(Boolean);
+        const first8 = rawCodes.slice(0, 8);
+        const remainingCount = rawCodes.length - first8.length;
+
+        let codeChipsHtml = '';
+        first8.forEach(c => {
+          codeChipsHtml += `<span class="inline-block px-1.5 py-0.5 rounded bg-navy-800 text-slate-200 border border-navy-700 font-mono text-[10px] mr-1 mb-1">${c}</span>`;
+        });
+        if (remainingCount > 0) {
+          codeChipsHtml += `<span class="inline-block px-1.5 py-0.5 rounded bg-navy-750 text-cyan-400 border border-cyan-500/30 font-mono text-[10px] mr-1 mb-1" title="${rawCodes.join(', ')}">+${remainingCount} more</span>`;
+        }
+        if (rawCodes.length > 0) {
+          codeChipsHtml += `<button onclick="event.stopPropagation(); copyAllRuleCodes('${rawCodes.join(', ')}')" class="inline-block px-1.5 py-0.5 text-[10px] text-slate-400 hover:text-white" title="Copy all codes"><i class="fa-regular fa-copy"></i></button>`;
+        } else {
+          codeChipsHtml = `<span class="text-slate-500 italic text-[11px]">No procedure codes</span>`;
+        }
+
+        // Rule text preview (verbatim snippet with expand)
+        const ruleText = rule.Policy_Rule_Text || '';
+        const previewText = ruleText.length > 110 ? ruleText.substring(0, 110) + '...' : ruleText;
+
+        tr.innerHTML = `
+          <td class="py-3 px-4 font-mono font-bold text-white group-hover:text-cyan-400 transition">${rule.Rule_ID || '-'}</td>
+          <td class="py-3 px-4">
+            <div class="font-semibold text-white line-clamp-1">${rule.Policy_Title || '-'}</div>
+            <div class="text-[10px] font-mono text-slate-400 mt-0.5">${rule.Policy_Number || '-'}</div>
+          </td>
+          <td class="py-3 px-4">
+            <span class="inline-block px-2 py-0.5 rounded bg-navy-800 text-slate-300 border border-navy-700 text-[10px] font-medium">${rule.Rule_Category || '-'}</span>
+          </td>
+          <td class="py-3 px-4">
+            <span class="px-2 py-0.5 rounded text-[10px] font-bold border uppercase tracking-wider ${actionColor}">${action}</span>
+          </td>
+          <td class="py-3 px-4">${codeChipsHtml}</td>
+          <td class="py-3 px-4 text-slate-400 text-[11px] leading-snug">${previewText}</td>
+          <td class="py-3 px-4 text-right">
+            <button class="w-7 h-7 rounded-lg bg-navy-800 group-hover:bg-cyan-500/20 group-hover:text-cyan-400 text-slate-400 transition flex items-center justify-center">
+              <i class="fa-solid fa-chevron-right text-xs"></i>
+            </button>
+          </td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    function changeRulesPage(delta) {
+      state.rulesPage += delta;
+      if (state.rulesPage < 1) state.rulesPage = 1;
+      fetchWorkspaceRules();
+    }
+
+    let searchTimer = null;
+    function debounceSearchRules() {
+      clearTimeout(searchTimer);
+      searchTimer = setTimeout(() => {
+        state.rulesPage = 1;
+        fetchWorkspaceRules();
+      }, 300);
+    }
+
+    function resetRuleFilters() {
+      document.getElementById('rules-search-input').value = '';
+      document.getElementById('rules-filter-category').value = '';
+      document.getElementById('rules-filter-action').value = '';
+      document.getElementById('rules-filter-review').value = '';
+      state.rulesPage = 1;
+      fetchWorkspaceRules();
+    }
+
+    function copyAllRuleCodes(codesStr) {
+      navigator.clipboard.writeText(codesStr);
+      showToast("Procedure codes copied to clipboard!");
+    }
+
+    // -------------------------------------------------------------
+    // FILE UPLOAD & 8-STAGE STEPPER ENGINE
+    // -------------------------------------------------------------
+    function triggerFileInput() {
+      document.getElementById('file-input').click();
+    }
+
+    function handleDragOver(e) {
+      e.preventDefault();
+      e.currentTarget.classList.add('border-cyan-400', 'bg-navy-850');
+    }
+
+    function handleDragLeave(e) {
+      e.preventDefault();
+      e.currentTarget.classList.remove('border-cyan-400', 'bg-navy-850');
+    }
+
+    function handleDrop(e) {
+      e.preventDefault();
+      e.currentTarget.classList.remove('border-cyan-400', 'bg-navy-850');
+      if (e.dataTransfer.files && e.dataTransfer.files.length > 0) {
+        processUploadFile(e.dataTransfer.files[0]);
+      }
+    }
+
+    function handleFileSelect(e) {
+      if (e.target.files && e.target.files.length > 0) {
+        processUploadFile(e.target.files[0]);
+      }
+    }
+
+    async function loadDemoSample(sampleId) {
+      if (!sampleId) return;
+      try {
+        const res = await fetch('/api/demo-samples');
+        const data = await res.json();
+        const samples = data[state.currentPayerId] || [];
+        const chosen = samples.find(s => s.id === sampleId);
+        if (!chosen) return;
+
+        // Create virtual sample file
+        const blob = new Blob(["DEMO PDF CONTENT - DETERMINISTIC TEST"], { type: 'application/pdf' });
+        const file = new File([blob], chosen.filename || "sample_policy.pdf", { type: 'application/pdf' });
+        processUploadFile(file, true);
+      } catch (err) {
+        console.error('Error loading demo sample:', err);
+      }
+    }
+
+    async function processUploadFile(file, isDemo = false) {
+      state.pendingUploadFile = file;
+      document.getElementById('duplicate-banner').classList.add('hidden');
+
+      // Duplicate check step 1
+      if (!isDemo && !state.isDemoMode) {
+        const formData = new FormData();
+        formData.append('file', file);
+        try {
+          const checkRes = await fetch(`/api/check-duplicate/${state.currentPayerId}`, {
+            method: 'POST',
+            body: formData
+          });
+          const dup = await checkRes.json();
+          if (dup.is_duplicate) {
+            showDuplicateBanner(dup);
+            return;
+          }
+        } catch (e) {
+          console.warn('Duplicate pre-check warning:', e);
+        }
+      }
+
+      // Start actual upload and pipeline stepper
+      executePipelineUpload(file, isDemo || state.isDemoMode, false, false);
+    }
+
+    function showDuplicateBanner(dup) {
+      const banner = document.getElementById('duplicate-banner');
+      banner.classList.remove('hidden');
+
+      document.getElementById('dup-title').textContent = dup.type === 'VERSION_COLLISION'
+        ? `Previous version of policy ${dup.policy_number || ''} exists`
+        : `Policy already exists (${dup.existing_rules_count || 0} rules)`;
+
+      document.getElementById('dup-desc').textContent = dup.message || 'Duplicate identified in existing repository index.';
+
+      const replaceBtn = document.getElementById('btn-dup-replace');
+      if (dup.type === 'VERSION_COLLISION') {
+        replaceBtn.classList.remove('hidden');
+      } else {
+        replaceBtn.classList.add('hidden');
+      }
+    }
+
+    function cancelDuplicateBanner() {
+      document.getElementById('duplicate-banner').classList.add('hidden');
+      state.pendingUploadFile = null;
+    }
+
+    function viewExistingRulesFromDup() {
+      document.getElementById('duplicate-banner').classList.add('hidden');
+      fetchWorkspaceRules();
+      showToast("Showing existing rules in table below.");
+    }
+
+    function forceReprocessUpload() {
+      document.getElementById('duplicate-banner').classList.add('hidden');
+      if (state.pendingUploadFile) {
+        executePipelineUpload(state.pendingUploadFile, state.isDemoMode, true, false);
+      }
+    }
+
+    function replacePolicyUpload() {
+      document.getElementById('duplicate-banner').classList.add('hidden');
+      if (state.pendingUploadFile) {
+        executePipelineUpload(state.pendingUploadFile, state.isDemoMode, true, true);
+      }
+    }
+
+    async function executePipelineUpload(file, isDemo, force, replace) {
+      initStepperUI(file.name);
+
+      const formData = new FormData();
+      formData.append('file', file);
+      formData.append('is_demo', isDemo ? 'true' : 'false');
+      formData.append('force', force ? 'true' : 'false');
+      formData.append('replace', replace ? 'true' : 'false');
+
+      try {
+        const res = await fetch(`/api/upload/${state.currentPayerId}`, {
+          method: 'POST',
+          body: formData
+        });
+        const data = await res.json();
+
+        if (data.status === 'duplicate_stopped') {
+          showDuplicateBanner(data.duplicate_info);
+          return;
+        }
+
+        state.activeJobId = data.job_id;
+        subscribeToJobSSE(data.job_id);
+
+      } catch (err) {
+        console.error('Error starting pipeline job:', err);
+        showToast('Error initiating pipeline job: ' + err.message);
+      }
+    }
+
+    function initStepperUI(filename) {
+      const container = document.getElementById('pipeline-stepper-container');
+      container.classList.remove('hidden');
+      document.getElementById('stepper-filename').textContent = filename;
+      document.getElementById('stepper-pct-badge').textContent = '5%';
+      document.getElementById('stepper-progress-bar').style.width = '5%';
+      document.getElementById('stepper-log-stream').innerHTML = '<div class="text-cyan-400 font-semibold">[INIT] Pipeline job initiated.</div>';
+
+      const stagesGrid = document.getElementById('stepper-stages-grid');
+      stagesGrid.innerHTML = '';
+
+      const stageNames = [
+        "1. Duplicate check",
+        "2. PDF extraction",
+        "3. Rule identification",
+        "4. Rule generation",
+        "5. ICD-10 mapping",
+        "6. SQL generation",
+        "7. Cross comparison",
+        "8. Report saved"
+      ];
+
+      stageNames.forEach((name, idx) => {
+        const node = document.createElement('div');
+        node.id = `stage-node-${idx + 1}`;
+        node.className = "p-2 rounded-lg bg-navy-850 border border-navy-700 text-slate-400 text-xs flex flex-col items-center justify-center space-y-1";
+        node.innerHTML = `
+          <div class="stage-icon w-6 h-6 rounded-full bg-navy-800 text-slate-400 text-[10px] flex items-center justify-center font-bold">
+            ${idx + 1}
+          </div>
+          <span class="stage-label text-[10px] font-semibold leading-tight line-clamp-1">${name.split('. ')[1]}</span>
+        `;
+        stagesGrid.appendChild(node);
+      });
+    }
+
+    function subscribeToJobSSE(jobId) {
+      if (state.activeJobEventSource) {
+        state.activeJobEventSource.close();
+      }
+
+      const es = new EventSource(`/api/jobs/${jobId}/stream`);
+      state.activeJobEventSource = es;
+
+      es.onmessage = (event) => {
+        try {
+          const job = JSON.parse(event.data);
+          updateStepperUI(job);
+
+          if (job.rules_ready) {
+            // Unlock rules table view immediately after Stage 6!
+            fetchWorkspaceRules();
+            if (job.before_after && job.before_after.rules_diff !== undefined) {
+              showBeforeAfterBanner(job.before_after);
+            }
+          }
+
+          if (job.status === 'completed') {
+            es.close();
+            document.getElementById('stepper-overall-status').textContent = 'Pipeline Finished';
+            document.getElementById('stepper-overall-status').className = 'text-xs font-bold uppercase tracking-wider text-emerald-400';
+            showToast("Pipeline completed! Rules generated and comparison report refreshed.");
+          } else if (job.status === 'failed') {
+            es.close();
+            document.getElementById('stepper-overall-status').textContent = 'Pipeline Failed';
+            document.getElementById('stepper-overall-status').className = 'text-xs font-bold uppercase tracking-wider text-rose-400';
+          }
+        } catch (e) {
+          console.error('Error handling SSE event:', e);
+        }
+      };
+
+      es.onerror = (err) => {
+        console.warn('SSE connection closed or error:', err);
+        es.close();
+      };
+    }
+
+    function updateStepperUI(job) {
+      const pct = job.progress_pct || 0;
+      document.getElementById('stepper-progress-bar').style.width = `${pct}%`;
+      document.getElementById('stepper-pct-badge').textContent = `${pct}%`;
+
+      // Update stage nodes
+      const stages = job.stages || [];
+      stages.forEach((st, idx) => {
+        const node = document.getElementById(`stage-node-${st.id}`);
+        if (!node) return;
+        const icon = node.querySelector('.stage-icon');
+
+        if (st.status === 'completed') {
+          node.className = "p-2 rounded-lg bg-emerald-950/20 border border-emerald-500/40 text-emerald-300 text-xs flex flex-col items-center justify-center space-y-1";
+          icon.className = "stage-icon w-6 h-6 rounded-full bg-emerald-500 text-navy-950 text-[10px] flex items-center justify-center font-bold";
+          icon.innerHTML = '<i class="fa-solid fa-check text-[10px]"></i>';
+        } else if (st.status === 'running') {
+          node.className = "p-2 rounded-lg bg-cyan-950/30 border border-cyan-400 text-cyan-300 text-xs flex flex-col items-center justify-center space-y-1 shadow-md shadow-cyan-500/10";
+          icon.className = "stage-icon w-6 h-6 rounded-full bg-cyan-400 text-navy-950 text-[10px] flex items-center justify-center font-bold animate-spin";
+          icon.innerHTML = '<i class="fa-solid fa-spinner"></i>';
+        } else if (st.status === 'failed') {
+          node.className = "p-2 rounded-lg bg-rose-950/20 border border-rose-500 text-rose-300 text-xs flex flex-col items-center justify-center space-y-1";
+          icon.className = "stage-icon w-6 h-6 rounded-full bg-rose-500 text-white text-[10px] flex items-center justify-center font-bold";
+          icon.innerHTML = '<i class="fa-solid fa-xmark"></i>';
+        }
+      });
+
+      // Stream logs
+      const logBox = document.getElementById('stepper-log-stream');
+      const allLogs = [];
+      stages.forEach(st => {
+        (st.logs || []).forEach(l => {
+          allLogs.push(`[${st.name}] ${l}`);
+        });
+      });
+      if (allLogs.length > 0) {
+        logBox.innerHTML = allLogs.map(l => `<div class="leading-relaxed hover:text-white">${escapeHtml(l)}</div>`).join('');
+        logBox.scrollTop = logBox.scrollHeight;
+      }
+    }
+
+    function toggleLogsExpand() {
+      const box = document.getElementById('stepper-log-stream');
+      const btn = document.getElementById('btn-toggle-log-text');
+      if (box.classList.contains('h-32')) {
+        box.classList.remove('h-32');
+        box.classList.add('h-64');
+        btn.textContent = 'Collapse';
+      } else {
+        box.classList.remove('h-64');
+        box.classList.add('h-32');
+        btn.textContent = 'Expand';
+      }
+    }
+
+    function showBeforeAfterBanner(diff) {
+      const banner = document.getElementById('before-after-banner');
+      banner.classList.remove('hidden');
+      const text = document.getElementById('before-after-text');
+      text.textContent = `+${diff.rules_diff} rules, +${diff.codes_diff} codes, +${diff.gaps_diff} new gaps vs ${diff.other_payer || 'Humana'}`;
+    }
+
+    // -------------------------------------------------------------
+    // RULE DETAIL SIDE DRAWER & DUCKDB EXECUTION
+    // -------------------------------------------------------------
+    function openRuleDrawer(rule) {
+      state.selectedRule = rule;
+
+      document.getElementById('drawer-rule-id').textContent = rule.Rule_ID || '-';
+      document.getElementById('drawer-action-badge').textContent = rule.Audit_Action || 'PAY_IF_CRITERIA_MET';
+      document.getElementById('drawer-policy-title').textContent = rule.Policy_Title || '-';
+      document.getElementById('drawer-policy-num').textContent = rule.Policy_Number || '-';
+      document.getElementById('drawer-lob').textContent = `${rule.Line_of_Business || 'Medicare Advantage'} | ${rule.Billing_Class || 'Professional'}`;
+      document.getElementById('drawer-eff-date').textContent = rule.Effective_Date || '01/01/2026';
+      document.getElementById('drawer-rule-text').textContent = rule.Policy_Rule_Text || 'No rule text available.';
+
+      // Target Codes chips
+      const codesContainer = document.getElementById('drawer-codes-container');
+      codesContainer.innerHTML = '';
+      const rawCodes = String(rule.Target_Codes || '').split(',').map(c => c.trim()).filter(Boolean);
+      if (rawCodes.length) {
+        rawCodes.forEach(c => {
+          codesContainer.innerHTML += `<span class="px-2 py-0.5 rounded bg-navy-800 text-cyan-300 font-mono text-xs border border-navy-700">${c}</span>`;
+        });
+      } else {
+        codesContainer.innerHTML = '<span class="text-slate-500 text-xs italic">No specific procedure codes assigned.</span>';
+      }
+
+      // ICD-10 Mappings
+      const icdBox = document.getElementById('drawer-icd-codes');
+      icdBox.textContent = rule.Possible_icd_codes || 'No ICD-10 diagnosis codes mapped for this rule.';
+
+      // Review Flag
+      const flagContainer = document.getElementById('drawer-review-flag-container');
+      const flagBox = document.getElementById('drawer-review-flag');
+      const rf = rule.Review_Flag;
+      if (rf && rf.trim() && rf.toLowerCase() !== 'none') {
+        flagContainer.classList.remove('hidden');
+        flagBox.textContent = rf;
+      } else {
+        flagContainer.classList.add('hidden');
+      }
+
+      // SQL Code block
+      document.getElementById('drawer-sql-code').textContent = rule.SQL_Query || '-- No SQL query generated for this rule.';
+
+      // Hide DuckDB result panel by default
+      document.getElementById('drawer-duckdb-results').classList.add('hidden');
+
+      // Show drawer & backdrop
+      document.getElementById('rule-drawer-backdrop').classList.remove('hidden');
+      document.getElementById('rule-drawer').classList.remove('translate-x-full');
+    }
+
+    function closeRuleDrawer() {
+      document.getElementById('rule-drawer').classList.add('translate-x-full');
+      document.getElementById('rule-drawer-backdrop').classList.add('hidden');
+    }
+
+    function copyDrawerCodes() {
+      if (state.selectedRule && state.selectedRule.Target_Codes) {
+        navigator.clipboard.writeText(state.selectedRule.Target_Codes);
+        showToast("Copied all codes to clipboard!");
+      }
+    }
+
+    function copyDrawerSQL() {
+      if (state.selectedRule && state.selectedRule.SQL_Query) {
+        navigator.clipboard.writeText(state.selectedRule.SQL_Query);
+        showToast("SQL Query copied to clipboard!");
+      }
+    }
+
+    async function runSampleClaimsFromDrawer() {
+      if (!state.selectedRule || !state.selectedRule.SQL_Query) return;
+      const resPanel = document.getElementById('drawer-duckdb-results');
+      resPanel.classList.remove('hidden');
+      document.getElementById('duckdb-msg').textContent = 'Executing SQL against in-memory synthetic claims (DuckDB)...';
+
+      try {
+        const res = await fetch('/api/run-sql', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ sql_query: state.selectedRule.SQL_Query })
+        });
+        const out = await res.json();
+
+        if (out.success) {
+          document.getElementById('duckdb-msg').innerHTML = `<span class="text-emerald-400 font-bold">${out.message}</span>`;
+          document.getElementById('duckdb-status-pill').textContent = `${out.flagged_claims_count} flagged / ${out.total_claims_in_db} claims`;
+
+          // Render rows
+          const theadTr = document.getElementById('duckdb-thead-tr');
+          const tbody = document.getElementById('duckdb-tbody');
+          theadTr.innerHTML = '';
+          tbody.innerHTML = '';
+
+          const displayCols = (out.columns || []).slice(0, 7);
+          displayCols.forEach(c => {
+            theadTr.innerHTML += `<th class="py-1 px-2 border-b border-navy-800">${c}</th>`;
+          });
+
+          if (!out.rows || !out.rows.length) {
+            tbody.innerHTML = `<tr><td colspan="${displayCols.length}" class="py-3 text-center text-slate-500">Query executed cleanly. 0 claims met criteria in 50 synthetic test claims.</td></tr>`;
+          } else {
+            out.rows.forEach(r => {
+              const tr = document.createElement('tr');
+              displayCols.forEach(c => {
+                tr.innerHTML += `<td class="py-1 px-2 font-mono text-[10px] text-slate-300">${r[c] !== undefined ? r[c] : '-'}</td>`;
+              });
+              tbody.appendChild(tr);
+            });
+          }
+        } else {
+          document.getElementById('duckdb-msg').innerHTML = `<span class="text-rose-400 font-bold">Execution Error: ${out.error}</span>`;
+        }
+      } catch (err) {
+        document.getElementById('duckdb-msg').innerHTML = `<span class="text-rose-400">Failed to connect to DuckDB harness: ${err.message}</span>`;
+      }
+    }
+
+    // -------------------------------------------------------------
+    // PAGE 3: COMPARE RULES LOGIC
+    // -------------------------------------------------------------
+    let compSearchTimer = null;
+    function debounceFetchComparison() {
+      clearTimeout(compSearchTimer);
+      compSearchTimer = setTimeout(() => {
+        fetchComparisonData();
+      }, 300);
+    }
+
+    async function fetchComparisonData() {
+      const c1 = document.getElementById('comp-client1-select')?.value || 'UnitedHealthcare';
+      const c2 = document.getElementById('comp-client2-select')?.value || 'Humana';
+      const policy = document.getElementById('comp-policy-input')?.value || 'all';
+      const search = document.getElementById('comp-search-input')?.value || '';
+
+      const url = `/api/comparison?client1=${encodeURIComponent(c1)}&client2=${encodeURIComponent(c2)}&policy=${encodeURIComponent(policy)}&search=${encodeURIComponent(search)}`;
+
+      try {
+        const res = await fetch(url);
+        const data = await res.json();
+
+        // Update Headline
+        document.getElementById('comp-headline').textContent = data.headline;
+        document.getElementById('badge-comp-unique').textContent = data.unique_count;
+        document.getElementById('badge-comp-similar').textContent = data.similar_count;
+        document.getElementById('badge-comp-gaps').textContent = data.gaps_count;
+
+        // Render Conflict Spotlight
+        renderConflictSpotlight(data.conflict_spotlight || []);
+
+        // Render Tabs Content
+        renderUniqueRulesTab(data.unique_rules || []);
+        renderSimilarRulesTab(data.similar_rules || []);
+        renderGapsTab(data.rule_gaps || []);
+
+      } catch (err) {
+        console.error('Error fetching comparison data:', err);
+      }
+    }
+
+    function renderConflictSpotlight(spotlight) {
+      const container = document.getElementById('conflict-spotlight-list');
+      container.innerHTML = '';
+
+      if (!spotlight.length) {
+        container.innerHTML = `<div class="col-span-3 text-slate-500 text-xs italic">No high-risk conflict rule pairs found in this scope.</div>`;
+        return;
+      }
+
+      spotlight.forEach(item => {
+        const card = document.createElement('div');
+        card.className = "bg-navy-950 p-3 rounded-xl border border-rose-500/20 hover:border-rose-500/50 cursor-pointer transition space-y-1.5";
+        card.onclick = () => openSideBySideModal(item.detail);
+
+        card.innerHTML = `
+          <div class="flex items-center justify-between text-[11px]">
+            <span class="font-mono font-bold text-white">${item.rule_pair}</span>
+            <span class="font-mono text-cyan-400">${item.shared_codes}</span>
+          </div>
+          <div class="text-[11px] font-semibold text-rose-300 line-clamp-1">${item.policies}</div>
+          <div class="text-[11px] text-slate-300 leading-snug line-clamp-2">${item.summary}</div>
+          <div class="pt-1 text-[10px] text-cyan-400 font-semibold inline-flex items-center">
+            Inspect Side-by-Side <i class="fa-solid fa-arrow-right ml-1 text-[8px]"></i>
+          </div>
+        `;
+        container.appendChild(card);
+      });
+    }
+
+    function switchCompTab(tab) {
+      state.activeCompTab = tab;
+      const tabs = ['unique', 'similar', 'gaps'];
+      tabs.forEach(t => {
+        const btn = document.getElementById(`tab-comp-${t}`);
+        const content = document.getElementById(`content-comp-${t}`);
+        if (t === tab) {
+          btn.className = "px-4 py-2 text-xs font-semibold rounded-lg bg-navy-800 text-white border border-navy-700 transition flex items-center";
+          content.classList.remove('hidden');
+        } else {
+          btn.className = "px-4 py-2 text-xs font-semibold rounded-lg text-slate-400 hover:text-white hover:bg-navy-800 transition flex items-center";
+          content.classList.add('hidden');
+        }
+      });
+    }
+
+    function renderUniqueRulesTab(rules) {
+      const tbody = document.getElementById('unique-rules-tbody');
+      tbody.innerHTML = '';
+      if (!rules.length) {
+        tbody.innerHTML = `<tr><td colspan="7" class="p-6 text-center text-slate-500">No unmatched unique rules for this scope.</td></tr>`;
+        return;
+      }
+      rules.forEach(r => {
+        const sev = r.Gap_Severity || 'LOW';
+        const sevColor = sev === 'HIGH' ? 'bg-rose-500/20 text-rose-300 border-rose-500/30'
+                       : sev === 'MEDIUM' ? 'bg-amber-500/20 text-amber-300 border-amber-500/30'
+                       : 'bg-navy-800 text-slate-400 border-navy-700';
+
+        const tr = document.createElement('tr');
+        tr.className = "hover:bg-navy-850/50 transition";
+        tr.innerHTML = `
+          <td class="py-2.5 px-4 font-mono font-bold text-white">${r.Rule_ID || '-'}</td>
+          <td class="py-2.5 px-4 font-semibold text-slate-200 line-clamp-1">${r.Policy_Title || '-'}</td>
+          <td class="py-2.5 px-4 text-slate-300">${r.Rule_Category || '-'}</td>
+          <td class="py-2.5 px-4"><span class="px-2 py-0.5 rounded text-[10px] font-bold border ${sevColor}">${sev}</span></td>
+          <td class="py-2.5 px-4 text-slate-400 text-[11px]">${r.Unmatched_Reason || 'Not covered in comparison payer'}</td>
+          <td class="py-2.5 px-4 font-mono text-cyan-300 text-[11px]">${r.Target_Codes || '-'}</td>
+          <td class="py-2.5 px-4 text-slate-400 text-[11px] line-clamp-2">${r.Policy_Rule_Text || '-'}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    function renderSimilarRulesTab(pairs) {
+      const tbody = document.getElementById('similar-rules-tbody');
+      tbody.innerHTML = '';
+      if (!pairs.length) {
+        tbody.innerHTML = `<tr><td colspan="8" class="p-6 text-center text-slate-500">No similar rules matching shared codes found.</td></tr>`;
+        return;
+      }
+
+      pairs.forEach(p => {
+        const res = p.Comparison_Result || 'SAME_RULE';
+        let resColor = 'bg-emerald-500/20 text-emerald-300 border-emerald-500/30';
+        if (res === 'POSSIBLE_CONFLICT') resColor = 'bg-rose-500/20 text-rose-300 border-rose-500/30';
+        else if (res === 'DIFFERENT_DETAILS') resColor = 'bg-amber-500/20 text-amber-300 border-amber-500/30';
+        else if (res === 'SAME_CODES_DIFFERENT_RULE_DETAILS') resColor = 'bg-orange-500/20 text-orange-300 border-orange-500/30';
+
+        const tr = document.createElement('tr');
+        tr.className = "hover:bg-navy-850/50 transition cursor-pointer group";
+        tr.onclick = () => openSideBySideModal(p);
+
+        tr.innerHTML = `
+          <td class="py-2.5 px-4"><span class="px-2 py-0.5 rounded text-[10px] font-bold border ${resColor}">${res}</span></td>
+          <td class="py-2.5 px-4 font-mono text-cyan-300 font-semibold">${p.Shared_Codes || '-'}</td>
+          <td class="py-2.5 px-4 font-mono text-white">${p.Client1_Rule_ID || '-'}</td>
+          <td class="py-2.5 px-4 font-mono text-white">${p.Client2_Rule_ID || '-'}</td>
+          <td class="py-2.5 px-4 text-slate-300 line-clamp-1">${p.Client1_Policy_Title || '-'}</td>
+          <td class="py-2.5 px-4 text-slate-300 line-clamp-1">${p.Client2_Policy_Title || '-'}</td>
+          <td class="py-2.5 px-4 text-slate-400 text-[11px] line-clamp-1">${p.Differences || 'Identical criteria'}</td>
+          <td class="py-2.5 px-4 text-right">
+            <button class="w-6 h-6 rounded bg-navy-800 text-slate-400 group-hover:text-cyan-400 flex items-center justify-center">
+              <i class="fa-solid fa-arrow-right text-[10px]"></i>
+            </button>
+          </td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    function renderGapsTab(gaps) {
+      const tbody = document.getElementById('gaps-rules-tbody');
+      tbody.innerHTML = '';
+      if (!gaps.length) {
+        tbody.innerHTML = `<tr><td colspan="7" class="p-6 text-center text-slate-500">No policy gaps identified.</td></tr>`;
+        return;
+      }
+
+      gaps.forEach(g => {
+        const sev = g.Gap_Severity || 'LOW';
+        const sevColor = sev === 'HIGH' ? 'bg-rose-500/20 text-rose-300 border-rose-500/30'
+                       : sev === 'MEDIUM' ? 'bg-amber-500/20 text-amber-300 border-amber-500/30'
+                       : 'bg-navy-800 text-slate-400 border-navy-700';
+
+        const tr = document.createElement('tr');
+        tr.className = "hover:bg-navy-850/50 transition";
+        tr.innerHTML = `
+          <td class="py-2.5 px-4"><span class="px-2 py-0.5 rounded text-[10px] font-bold border ${sevColor}">${sev}</span></td>
+          <td class="py-2.5 px-4 font-mono font-bold text-white">${g.Rule_ID || '-'}</td>
+          <td class="py-2.5 px-4 font-semibold text-slate-200 line-clamp-1">${g.Policy_Title || '-'}</td>
+          <td class="py-2.5 px-4 text-slate-300">${g.Rule_Category || '-'}</td>
+          <td class="py-2.5 px-4 font-mono text-cyan-400 text-[11px]">${g.Audit_Action || '-'}</td>
+          <td class="py-2.5 px-4 font-mono text-cyan-300 text-[11px]">${g.Target_Codes || '-'}</td>
+          <td class="py-2.5 px-4 text-slate-400 text-[11px]">${g.Reason || '-'}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    // -------------------------------------------------------------
+    // SIDE-BY-SIDE MODAL INSPECTOR
+    // -------------------------------------------------------------
+    function openSideBySideModal(pair) {
+      if (!pair) return;
+      document.getElementById('sbs-result-badge').textContent = pair.Comparison_Result || 'SIMILAR_RULE';
+      document.getElementById('sbs-differences').textContent = pair.Differences || 'No major structural discrepancies.';
+      document.getElementById('sbs-shared-codes').textContent = pair.Shared_Codes || 'None';
+
+      document.getElementById('sbs-c1-name').textContent = pair.Client1 || 'Primary Payer';
+      document.getElementById('sbs-c1-rule-id').textContent = pair.Client1_Rule_ID || '-';
+      document.getElementById('sbs-c1-title').textContent = pair.Client1_Policy_Title || '-';
+      document.getElementById('sbs-c1-cat').textContent = pair.Client1_Category || '-';
+      document.getElementById('sbs-c1-action').textContent = pair.Client1_Audit_Action || '-';
+      document.getElementById('sbs-c1-text').textContent = pair.Client1_Rule_Text || 'No text recorded.';
+      document.getElementById('sbs-c1-icd').textContent = pair.Client1_ICD_Codes || 'None';
+
+      document.getElementById('sbs-c2-name').textContent = pair.Client2 || 'Comparison Payer';
+      document.getElementById('sbs-c2-rule-id').textContent = pair.Client2_Rule_ID || '-';
+      document.getElementById('sbs-c2-title').textContent = pair.Client2_Policy_Title || '-';
+      document.getElementById('sbs-c2-cat').textContent = pair.Client2_Category || '-';
+      document.getElementById('sbs-c2-action').textContent = pair.Client2_Audit_Action || '-';
+      document.getElementById('sbs-c2-text').textContent = pair.Client2_Rule_Text || 'No text recorded.';
+      document.getElementById('sbs-c2-icd').textContent = pair.Client2_ICD_Codes || 'None';
+
+      document.getElementById('side-by-side-modal').classList.remove('hidden');
+    }
+
+    function closeSideBySideModal() {
+      document.getElementById('side-by-side-modal').classList.add('hidden');
+    }
+
+    function exportComparisonToExcel() {
+      // Trigger download of comparison_report.xlsx directly
+      window.location.href = '/api/download/workbook/uhc';
+      showToast("Downloading comparison report export...");
+    }
+
+    // -------------------------------------------------------------
+    // UTILITIES
+    // -------------------------------------------------------------
+    function escapeHtml(str) {
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    function showToast(msg) {
+      let toast = document.getElementById('app-toast');
+      if (!toast) {
+        toast = document.createElement('div');
+        toast.id = 'app-toast';
+        toast.className = "fixed bottom-5 right-5 z-50 bg-navy-800 border border-cyan-500/40 text-white px-4 py-2.5 rounded-xl shadow-xl text-xs flex items-center space-x-2 transition transform duration-300";
+        document.body.appendChild(toast);
+      }
+      toast.innerHTML = `<i class="fa-solid fa-circle-info text-cyan-400"></i> <span>${escapeHtml(msg)}</span>`;
+      toast.style.opacity = '1';
+      setTimeout(() => {
+        toast.style.opacity = '0';
+      }, 3000);
+    }
+
+    // Keyboard shortcuts (Escape closes modals)
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        closeRuleDrawer();
+        closeSideBySideModal();
+        cancelDuplicateBanner();
+      }
+    });
+  </script>
+</body>
+</html>
+

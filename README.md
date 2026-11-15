@@ -1,224 +1,321 @@
-# Payer Policy Intelligence & Deterministic Billing Rule Generation Engine
+# Payer Policy Rule Intelligence Pipeline
 
-An enterprise-grade, end-to-end payer policy intelligence platform that scrapes, extracts, and parses healthcare payment policies across major payers (**UnitedHealthcare**, **Humana**, **Aetna**) into clean, verbatim billing rules and actionable incorrect billing conditions for claims auditors, payment integrity teams, and concept engineers.
+A deterministic clinical and billing-rule intelligence engine that scrapes, extracts, standardizes, and cross-compares healthcare payer payment policies (UnitedHealthcare, Humana, and Devoted Health). 
+
+The pipeline converts complex, unstructured clinical reimbursement policy PDFs into structured, machine-executable billing rules with **CPT/HCPCS procedure code scoping**, **UMLS-backed ICD-10 diagnosis mappings**, **single-table SQL claim validation queries**, and **cross-payer discrepancy detection**.
 
 ---
 
-## 1. Clean System Architecture
+## 1. High-Level Architecture & Dataflow
 
-Each payer pipeline follows a standardized, transparent 3-step architecture with zero redundant scripts:
-
-```mermaid
-flowchart TD
-    subgraph S1["Step 1: Scraping & Acquisition"]
-        UHC_SCRAP["Uhc/scraper.py"] --> UHC_PDFS["UHC Policy & Attachment PDFs"]
-        HUM_SCRAP["Humana/payment policy/scraper.py"] --> HUM_PDFS["Humana Policy PDFs"]
-        AET_SCRAP["Aetna/scraper.py"] --> AET_PDFS["Aetna Policy PDFs"]
-    end
-
-    subgraph S2["Step 2: Content & Attachment Extraction"]
-        UHC_PDFS --> UHC_EXT["Uhc/extraction_script.py"]
-        HUM_PDFS --> HUM_EXT["Humana scraper.py / parser"]
-        AET_PDFS --> AET_EXT["Aetna/extract_pdf_policies.py"]
-        UHC_EXT --> UHC_JSON["Uhc/extraction_rules_uhc.json"]
-        HUM_EXT --> HUM_JSON["Humana/payment policy/extracted_rules.json"]
-        AET_EXT --> AET_JSON["Aetna/extraction_rules_aetna.json"]
-    end
-
-    subgraph S3["Step 3: Deterministic Rule Generation & In-Filling"]
-        UHC_JSON --> UHC_GEN["Uhc/generate_billing_rules.py"]
-        HUM_JSON --> HUM_GEN["Humana/payment policy/generate_billing_rules.py"]
-        AET_JSON --> AET_GEN["Aetna/generate_billing_rules.py"]
-        
-        UHC_GEN --> UHC_OUT["Uhc/billing_rules.xlsx / .json / .csv"]
-        HUM_GEN --> HUM_OUT["Humana/payment policy/billing_rules.xlsx / .json / .csv"]
-        AET_GEN --> AET_OUT["Aetna/billing_rules.xlsx / .json / .csv"]
-    end
-
-    subgraph S4["Step 4: Central Knowledge Base & Cross-Payer Verification"]
-        UHC_JSON & HUM_JSON & AET_JSON --> KB["KB creation v1/scripts/map_policy_cpt_codes.py"]
-        KB --> DUCKDB["KB creation v1/database/payer_policy_kb.duckdb"]
-        KB --> COMP["KB creation v1/scripts/compare_policies.py"]
-        COMP --> GAPS["KB creation v1/data/exports/rule_gap_report.csv"]
-        UHC_OUT --> UHC_AUDIT["Uhc/billing_rules_verification_audit.xlsx (100% Pass)"]
-        AET_OUT --> AET_AUDIT["Aetna/aetna_pdf_vs_json_audit.xlsx (100% Pass)"]
-    end
+```
+                    ┌────────────────────────────────────────────────────────┐
+                    │            Official Payer Provider Portals             │
+                    │      (UnitedHealthcare, Humana, Devoted Health)        │
+                    └───────────────────────────┬────────────────────────────┘
+                                                │
+                                    [Step 1: Scraper]
+                                                ▼
+                    ┌────────────────────────────────────────────────────────┐
+                    │               Raw Policy Document PDFs                 │
+                    │               (*.pdf in payer folders)                 │
+                    └───────────────────────────┬────────────────────────────┘
+                                                │
+                                  [Step 2: PDF Extraction]
+                                                ▼
+                    ┌────────────────────────────────────────────────────────┐
+                    │             Structured Extraction JSON                 │
+                    │      (extraction_rules_*.json / extracted_rules.json)  │
+                    └───────────────────────────┬────────────────────────────┘
+                                                │
+                          ┌─────────────────────┴─────────────────────┐
+                          ▼                                           ▼
+            [Step 3: Rule Core & Lexicon]               [Step 4: Clinical Ontology]
+            Directive keyword classification            Exact UMLS ICD-10 mapping &
+            Statement chunking & clubbing               clinical overrides lookup
+                          │                                           │
+                          └─────────────────────┬─────────────────────┘
+                                                ▼
+                                    [Step 5: SQL Skeleton]
+                                    Single-table executable SQL
+                                    query generation (claim_lines)
+                                                ▼
+                    ┌────────────────────────────────────────────────────────┐
+                    │       Standardized Billing Rules Workbooks (.xlsx)     │
+                    │          billing_rules_uhc.xlsx / humana.xlsx          │
+                    │  (Rules | Rule_Detail | Code_Map | Query_Logic | Summ) │
+                    └───────────────────────────┬────────────────────────────┘
+                                                │
+                                [Step 6: Cross-Payer Compare]
+                                                ▼
+                    ┌────────────────────────────────────────────────────────┐
+                    │             Cross-Payer Comparison Report              │
+                    │               comparison_report.xlsx                   │
+                    │   (Rule_Comparison [32 cols] | Unmatched_Rules [19])   │
+                    └───────────────────────────┬────────────────────────────┘
+                                                │
+                                [Step 7: Interactive Demo App]
+                                                ▼
+                    ┌────────────────────────────────────────────────────────┐
+                    │        FastAPI + Tailwind SPA Web Application          │
+                    │   (Live Pods | 8-Stage Stepper | DuckDB Claim Testing) │
+                    └────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 2. Core Operational Principles
-
-1. **Verbatim Fidelity (Zero Hallucinated Words)**:
-   Policy rule statements pick out the exact, untouched content from the policy reimbursement guidelines, definitions, tables, and Q&A entries. No paraphrasing, no generative rewriting.
-2. **Keyword-Driven Selection**:
-   Rule statements are selected using domain-grounded deontic keywords (denials, reimbursement criteria, frequency limits, bundling/unbundling, modifiers, place of service, exceptions).
-3. **Attachment Value In-Filling**:
-   For parameter-driven policies (e.g., Time Span Codes, Add-on Codes, Once in a Lifetime Procedures, Age-Based Codes), the parameters, time periods, and code pairings are cleanly populated directly from policy attachment tables.
-4. **Actionable Incorrect Billing Conditions**:
-   Generates clean, unambiguous conditions required for claims editing engines and auditors to evaluate claims for non-compliance.
-5. **No Clutter / Clean Codebase**:
-   Only essential scripts supporting the pipeline are retained. All intermediate, one-off, and redundant scripts have been permanently pruned.
-
----
-
-## 3. Directory Structure & Script Inventory
+## 2. Repository Layout
 
 ```text
-c:\Users\dell\Documents\Payer Policy\
-├── README.md                                          <-- Master Platform Documentation (You are here)
+.
+├── Demo App/
+│   ├── backend/
+│   │   ├── app.py                   # FastAPI REST API, SSE streaming, SQLite persistence
+│   │   └── jobs.db                  # Local SQLite job state database
+│   ├── frontend/
+│   │   └── index.html               # SPA frontend (Tailwind CSS, FontAwesome, Chart.js)
+│   ├── adapters/
+│   │   ├── single_pdf_pipeline.py   # PDF upload adapter, duplicate checking, 8-stage stepper
+│   │   └── claim_tester.py          # In-memory DuckDB harness seeded with 50 synthetic claims
+│   ├── data/
+│   │   ├── demo_samples.json        # Pre-computed sample policies for instant recorded timing replay
+│   │   ├── uploads_index.json       # SHA-256 and policy metadata index preventing duplicates
+│   │   └── uploads/                 # Temporary storage for uploaded PDFs
+│   ├── payers.json                  # Payer configuration registry
+│   ├── requirements.txt             # Web app dependencies
+│   ├── README.md                    # Demo app setup and feature guide
+│   └── test_e2e.py                  # End-to-end verification test suite
 │
-├── Uhc\                                               <-- UnitedHealthcare Pipeline
-│   ├── README.md                                      <-- UHC Subsystem Documentation
-│   ├── scraper.py                                     <-- Step 1: Scrapes UHC policies & attachments
-│   ├── extraction_script.py                           <-- Step 2: Extracts PDFs into extraction_rules_uhc.json
-│   ├── policy_lib.py                                  <-- Shared parsing, segmentation, & extraction library
-│   ├── claim_requirements.py                          <-- Canonical claim columns assigner
-│   ├── generate_billing_rules.py                      <-- Step 3: Master rule generator & attachment in-filler
-│   ├── extraction_rules_uhc.json                      <-- Master extracted policy JSON (147 policies)
-│   ├── policy_title_uhc.csv                           <-- Scraped document registry
-│   ├── billing_rules.xlsx                             <-- Master UHC Billing Rules Workbook (4 sheets, 1,116 rules)
-│   ├── billing_rules.json                             <-- Master UHC Billing Rules JSON (1,116 rules)
-│   ├── billing_rules.csv                              <-- Master UHC Billing Rules CSV (1,116 rules)
-│   ├── billing_rules_verification_audit.xlsx          <-- Forensic audit trail (100% verified consistent)
-│   ├── uhc_pdf_vs_json_audit.xlsx                     <-- PDF vs. JSON completeness audit report
-│   ├── commercial_plans\                              <-- Commercial policy PDFs
-│   ├── medicare_advantage_plans\                      <-- Medicare Advantage policy PDFs
-│   ├── extracted_contents_reimbursement\              <-- Per-policy JSON extractions
-│   └── policy_attachments\                            <-- Policy attachment PDFs (TimeSpan, Add-on, etc.)
+├── Uhc/
+│   ├── scraper.py                   # Scrapes UHC Commercial & MA payment policy PDFs
+│   ├── extraction_script.py         # Parses PDF sections, tables, CPT codes, and dates
+│   ├── extraction_rules_uhc.json    # 147 extracted UHC policy objects
+│   ├── generate_billing_rules.py    # Deterministic rule generator for UnitedHealthcare
+│   ├── rule_core.py                 # Lexicon classifier, chunking, and workbook exporter
+│   ├── sql_skeleton.py              # SQL dialect generator for claim_lines table
+│   ├── icd_lookup.py                # UMLS exact matching & 3-character category expansion
+│   ├── icd_overrides.csv            # Override lookup list checked before UMLS
+│   ├── claim_table_skeleton.sql     # Target SQL schema for single-table claim queries
+│   └── billing_rules_uhc.xlsx       # Output workbook (620 deterministic rules)
 │
-├── Humana\                                            <-- Humana Pipeline
-│   └── payment policy\
-│       ├── README.md                                  <-- Humana Subsystem Documentation
-│       ├── scraper.py                                 <-- Scrapes and parses Humana payment policies
-│       ├── generate_billing_rules.py                  <-- Master rule generator
-│       ├── extracted_rules.json                       <-- Master extracted policy JSON (202 policies)
-│       ├── policy_title_humana_payment.csv            <-- Scraped document registry
-│       ├── billing_rules.xlsx                         <-- Master Humana Billing Rules Workbook (1,120 rules)
-│       ├── billing_rules.json                         <-- Master Humana Billing Rules JSON (1,120 rules)
-│       ├── billing_rules.csv                          <-- Master Humana Billing Rules CSV (1,120 rules)
-│       └── humana_policies\                           <-- PDFs and per-policy extractions
+├── Humana/
+│   ├── scraper.py                   # Scrapes Humana payment policy documents
+│   ├── extracted_rules.json         # 120 extracted Humana policy objects
+│   ├── generate_billing_rules.py    # Deterministic rule generator for Humana
+│   ├── rule_core.py                 # Shared lexicon classifier & export routines
+│   ├── sql_skeleton.py              # Shared SQL skeleton query generator
+│   ├── icd_lookup.py                # Shared UMLS diagnosis mapper
+│   ├── icd_overrides.csv            # Shared overrides dictionary
+│   ├── claim_table_skeleton.sql     # Target SQL schema for claim queries
+│   └── billing_rules_humana.xlsx    # Output workbook (560 deterministic rules)
 │
-├── Aetna\                                             <-- Aetna Pipeline
-│   ├── README.md                                      <-- Aetna Subsystem Documentation
-│   ├── scraper.py                                     <-- Scrapes Aetna payment policies
-│   ├── extract_pdf_policies.py                        <-- Extracts Aetna PDFs (Sections A–E) into JSON
-│   ├── policy_lib.py                                  <-- Parsing & segmentation library
-│   ├── claim_requirements.py                          <-- Claim fields assigner
-│   ├── generate_billing_rules.py                      <-- Master rule generator
-│   ├── extraction_rules_aetna.json                    <-- Master extracted policy JSON (35 policies)
-│   ├── billing_rules.xlsx                             <-- Master Aetna Billing Rules Workbook (212 rules)
-│   ├── billing_rules.json                             <-- Master Aetna Billing Rules JSON (212 rules)
-│   ├── billing_rules.csv                              <-- Master Aetna Billing Rules CSV (212 rules)
-│   ├── aetna_pdf_vs_json_audit.xlsx                   <-- Completeness audit report (100% extraction pass)
-│   ├── aetna_il_payment_policies\                     <-- Policy PDFs
-│   └── extracted_contents\                            <-- Per-policy JSON extractions
+├── devoted_health/
+│   ├── scraper.py                   # Web scraper for Devoted Health provider policies
+│   ├── extraction_script.py         # Extracts policy text, tables, and frontmatter
+│   ├── extraction_rules.json        # 39 extracted Devoted Health policy objects
+│   ├── extracted_contents_jsons/    # Per-policy structured extraction files
+│   └── policies/                    # Downloaded Devoted Health policy PDFs
 │
-└── KB creation v1\                                    <-- Central Knowledge Base & Ontology Mapping
-    ├── README.md                                      <-- KB Subsystem Documentation
-    ├── PIPELINE_RUNBOOK.md                            <-- Quick Execution Runbook
-    ├── config\                                        <-- Configuration and payer profiles (aetna, humana, uhc)
-    ├── database\payer_policy_kb.duckdb                <-- Central DuckDB Knowledge Base (196 MB)
-    ├── scripts\                                       <-- KB CLI commands:
-    │   ├── initialize_database.py                     <-- Initialize DuckDB schema
-    │   ├── map_policy_cpt_codes.py                    <-- Semantic UMLS/CPT code mapper
-    │   ├── compare_policies.py                        <-- Cross-payer policy gap analysis
-    │   └── validate_results.py                        <-- Structural & referential integrity checks (18 checks)
-    ├── src\                                           <-- Modular mapping, ingestion adapters, & comparison engine
-    ├── data\                                          <-- Ingest inputs (`data/input/`) & primary exports (`data/exports/`)
-    ├── docs\                                          <-- Architectural references (DESIGN.md, END_TO_END_GUIDE.md, ADDING_A_PAYER.md)
-    └── tests\                                         <-- Regression test suite (60 passed, 3 skipped, 0 failures)
+├── Rule Comparison/
+│   ├── compare_rules.py             # Deterministic cross-payer CPT/HCPCS code matcher
+│   └── comparison_report.xlsx       # Comprehensive cross-payer alignment & gap report
+│
+├── KB creation v1/
+│   ├── scripts/
+│   │   └── build_icd10cm_index.py   # Compiles UMLS RRF clinical index files
+│   └── icd10cm_index.sqlite         # SQLite indexed clinical diagnosis ontology
+│
+├── .gitattributes                   # Git LFS tracking configuration (*.xlsx, *.pdf, *.db, etc.)
+└── README.md                        # Master pipeline documentation
 ```
 
 ---
 
-## 4. End-to-End Pipeline Execution
+## 3. End-to-End Execution Order & Commands
 
-### UnitedHealthcare (UHC)
+Follow these steps in numerical order to execute the pipeline from scratch.
+
+### Step 0: Environment Setup
+
+Ensure Python 3.10+ and Git LFS are installed on your machine:
+
 ```powershell
-cd "c:\Users\dell\Documents\Payer Policy\Uhc"
+# 1. Initialize Git LFS in the repository
+git lfs install
 
-# Step 1: Scrape policy PDFs and attachments
-python scraper.py
-
-# Step 2: Extract PDF contents into extraction_rules_uhc.json
-python extraction_script.py
-
-# Step 3: Generate clean, verbatim billing rules with attachment parameter in-filling
-python generate_billing_rules.py
-```
-
-### Aetna
-```powershell
-cd "c:\Users\dell\Documents\Payer Policy\Aetna"
-
-# Step 1: Scrape policies
-python scraper.py
-
-# Step 2: Extract PDF contents (Sections A through E)
-python extract_pdf_policies.py
-
-# Step 3: Generate billing rules
-python generate_billing_rules.py
-```
-
-### Humana
-```powershell
-cd "c:\Users\dell\Documents\Payer Policy\Humana\payment policy"
-
-# Step 1: Scrape policies
-python scraper.py
-
-# Step 2: Generate billing rules
-python generate_billing_rules.py
-```
-
-### Central Knowledge Base (KB creation v1)
-```powershell
-cd "c:\Users\dell\Documents\Payer Policy\KB creation v1"
-
-# Step 1: Initialize DuckDB database schema
-python scripts\initialize_database.py
-
-# Step 2: Ingest & map policies to CPT/HCPCS
-python scripts\map_policy_cpt_codes.py --input data\input\extraction_rules_uhc.json --payer-profile unitedhealthcare
-python scripts\map_policy_cpt_codes.py --input data\input\extracted_rules_humana.json --payer-profile humana
-python scripts\map_policy_cpt_codes.py --input data\input\extraction_rules_aetna.json --payer-profile aetna
-
-# Step 3: Cross-payer policy comparison & gap detection
-python scripts\compare_policies.py
-
-# Step 4: Referential validation & regression tests
-python scripts\validate_results.py
-python -m pytest tests
-```
-
-### Rule Comparison Platform (Cross-Payer Matching & Conflict Detection)
-```powershell
-cd "c:\Users\dell\Documents\Payer Policy\Rule Comparison"
-
-# Run end-to-end rule comparison across UHC, Aetna, and Humana
-python run_comparison.py
+# 2. Install required Python libraries
+pip install requests beautifulsoup4 pymupdf openpyxl duckdb fastapi uvicorn python-multipart tqdm
 ```
 
 ---
 
-## 5. Summary of Deliverables & Verifications
+### Step 1: Clinical Knowledge Base Setup (`KB creation v1`)
 
-| Payer / Subsystem | Deliverable | Location | Records | Status / Audit Result |
-| :--- | :--- | :--- | :--- | :--- |
-| **UnitedHealthcare** | Master Rules Workbook (Excel) | [`Uhc/billing_rules.xlsx`](file:///c:/Users/dell/Documents/Payer%20Policy/Uhc/billing_rules.xlsx) | 1,116 rules | Complete with in-filled attachment values, code index, and executive summaries |
-| **UnitedHealthcare** | Master Rules (JSON) | [`Uhc/billing_rules.json`](file:///c:/Users/dell/Documents/Payer%20Policy/Uhc/billing_rules.json) | 1,116 rules | Structured machine-readable array |
-| **UnitedHealthcare** | Master Rules (CSV) | [`Uhc/billing_rules.csv`](file:///c:/Users/dell/Documents/Payer%20Policy/Uhc/billing_rules.csv) | 1,116 rules | Tabular database export format |
-| **UnitedHealthcare** | Rule Verification Audit | [`Uhc/billing_rules_verification_audit.xlsx`](file:///c:/Users/dell/Documents/Payer%20Policy/Uhc/billing_rules_verification_audit.xlsx) | 1,116 rules | 20-column forensic audit trail: **100.0% Verified Consistent** |
-| **UnitedHealthcare** | PDF vs. JSON Completeness Audit | [`Uhc/uhc_pdf_vs_json_audit.xlsx`](file:///c:/Users/dell/Documents/Payer%20Policy/Uhc/uhc_pdf_vs_json_audit.xlsx) | 147 policies | 100% substantive rules captured from disk PDFs |
-| **Aetna** | Master Rules Workbook (Excel) | [`Aetna/billing_rules.xlsx`](file:///c:/Users/dell/Documents/Payer%20Policy/Aetna/billing_rules.xlsx) | 212 rules | 1,423 code linkages across 425 unique codes |
-| **Aetna** | Master Rules (JSON) | [`Aetna/billing_rules.json`](file:///c:/Users/dell/Documents/Payer%20Policy/Aetna/billing_rules.json) | 212 rules | Structured machine-readable array |
-| **Aetna** | Master Rules (CSV) | [`Aetna/billing_rules.csv`](file:///c:/Users/dell/Documents/Payer%20Policy/Aetna/billing_rules.csv) | 212 rules | Flat tabular export format |
-| **Aetna** | PDF vs. JSON Completeness Audit | [`Aetna/aetna_pdf_vs_json_audit.xlsx`](file:///c:/Users/dell/Documents/Payer%20Policy/Aetna/aetna_pdf_vs_json_audit.xlsx) | 35 policies | **35 / 35 (100.0%) Complete Extraction** (Sections A, B, C, D, E) |
-| **Humana** | Master Rules Workbook (Excel) | [`Humana/payment policy/billing_rules.xlsx`](file:///c:/Users/dell/Documents/Payer%20Policy/Humana/payment%20policy/billing_rules.xlsx) | 1,120 rules | 2,868 code linkages across 523 unique codes |
-| **Humana** | Master Rules (JSON) | [`Humana/payment policy/billing_rules.json`](file:///c:/Users/dell/Documents/Payer%20Policy/Humana/payment%20policy/billing_rules.json) | 1,120 rules | Structured machine-readable array |
-| **Humana** | Master Rules (CSV) | [`Humana/payment policy/billing_rules.csv`](file:///c:/Users/dell/Documents/Payer%20Policy/Humana/payment%20policy/billing_rules.csv) | 1,120 rules | Flat tabular export format |
-| **Central Knowledge Base** | Embedded Analytical DB | [`KB creation v1/database/payer_policy_kb.duckdb`](file:///c:/Users/dell/Documents/Payer%20Policy/KB%20creation%20v1/database/payer_policy_kb.duckdb) | 196 MB | 4-layer schema, CPT/UMLS ontology, 18 integrity constraints PASS |
-| **Central Knowledge Base** | Cross-Payer Policy Mappings | [`KB creation v1/data/exports/policy_cpt_mappings.csv`](file:///c:/Users/dell/Documents/Payer%20Policy/KB%20creation%20v1/data/exports/policy_cpt_mappings.csv) | 46,000+ rows | Confidence tiers A–E with full evidence traceability |
-| **Central Knowledge Base** | Regression Test Suite | `KB creation v1/tests` | 63 tests | **60 passed, 3 skipped, 0 failures** |
+Build or verify the local ICD-10 clinical ontology index used by `icd_lookup.py` for deterministic diagnosis mapping:
+
+```powershell
+cd "c:\Users\dell\Documents\Payer Policy\KB creation v1\scripts"
+python build_icd10cm_index.py
+cd ..\..
+```
+
+---
+
+### Step 2: Policy Scraping
+
+Download the latest publicly accessible policy PDFs from the respective payer provider websites:
+
+```powershell
+# UnitedHealthcare
+python "Uhc\scraper.py"
+
+# Humana
+python "Humana\scraper.py"
+
+# Devoted Health
+python "devoted_health\scraper.py"
+```
+
+---
+
+### Step 3: PDF Document Parsing & Extraction
+
+Extract text, tables, frontmatter, dates, and procedure code lists from downloaded policy PDFs into structured JSON objects:
+
+```powershell
+# UnitedHealthcare (writes extraction_rules_uhc.json)
+python "Uhc\extraction_script.py"
+
+# Devoted Health (writes devoted_health\extraction_rules.json)
+python "devoted_health\extraction_script.py"
+```
+
+---
+
+### Step 4: Deterministic Billing Rule & SQL Query Generation
+
+Run deterministic rule generation for each payer. This step performs:
+1. Directive keyword scanning & statement chunking.
+2. Attachment code-list mapping (without exploding attachments into thousands of duplicate rules).
+3. Exact clinical diagnosis mapping via UMLS and `icd_overrides.csv`.
+4. Single-table SQL validation query construction targeting `claim_lines`.
+5. Atomic export to multi-sheet Excel workbooks (`.xlsx`) and SQL dumps (`.sql`).
+
+```powershell
+# Generate UnitedHealthcare billing rules
+python "Uhc\generate_billing_rules.py" --input "Uhc\extraction_rules_uhc.json" --out-dir "Uhc"
+
+# Generate Humana billing rules
+python "Humana\generate_billing_rules.py" --input "Humana\extracted_rules.json" --out-dir "Humana"
+```
+
+---
+
+### Step 5: Cross-Payer Policy Comparison & Gap Analysis
+
+Execute the cross-payer comparison engine across all generated billing workbooks. This step joins rules by CPT/HCPCS codes, detects outcome discrepancies, and identifies coverage gaps:
+
+```powershell
+python "Rule Comparison\compare_rules.py" --inputs "Uhc\billing_rules_uhc.xlsx" "Humana\billing_rules_humana.xlsx" --out "Rule Comparison\comparison_report.xlsx"
+```
+
+---
+
+### Step 6: Launch the Interactive Demo Web Application
+
+Start the FastAPI application serving the interactive dark-mode user interface and DuckDB synthetic claim validation engine:
+
+```powershell
+cd "Demo App\backend"
+python -m uvicorn app:app --reload --host 127.0.0.1 --port 8000
+```
+
+Open your browser at **[http://127.0.0.1:8000](http://127.0.0.1:8000)**.
+
+---
+
+### Step 7: Run End-to-End Automated Verification Test Suite
+
+Run the automated test suite to verify all endpoints, stepper stages, duplicate detection, SQL claim testing, and comparison logic:
+
+```powershell
+cd "c:\Users\dell\Documents\Payer Policy"
+python "Demo App\test_e2e.py"
+```
+
+---
+
+## 4. Standardized Output Formats & Schemas
+
+### 1. Payer Billing Rule Workbook (`billing_rules_<payer>.xlsx`)
+Each payer output workbook contains the following structured sheets:
+* **`Rules`**: High-level rule catalog with 32 columns including `Rule_ID`, `Policy_Title`, `Policy_Number`, `Line_of_Business`, `Rule_Category`, `Audit_Action`, `Target_Codes`, `Possible_icd_codes`, `Policy_Rule_Text`, `SQL_Query`, and `Review_Flag`.
+* **`Rule_Detail`**: Verbatim statement text, source section types, modifiers required/prohibited, bill types, and source PDF reference.
+* **`Rule_Code_Map`**: Normalized one-row-per-code mapping resolving parent-child relationships, parameters, and time span thresholds.
+* **`Query_Logic`**: Condensed query specifications linking audit actions, target procedure codes, ICD-10 codes, and SQL queries.
+* **`Summary`**: Execution metadata, corpus totals, policy counts, and category distribution.
+
+### 2. Single-Table Claim Model (`claim_table_skeleton.sql`)
+Every generated SQL query reads exclusively from the unified `claim_lines` table:
+```sql
+CREATE TABLE claim_lines (
+    claim_id                   VARCHAR(50),
+    line_num                   INTEGER,
+    member_id                  VARCHAR(50),
+    member_dob                 DATE,
+    member_gender              VARCHAR(50),
+    line_of_business           VARCHAR(50),
+    claim_type                 VARCHAR(50),
+    billing_provider_tin       VARCHAR(50),
+    rendering_provider_npi     VARCHAR(50),
+    bill_type                  VARCHAR(50),
+    place_of_service           VARCHAR(50),
+    proc_code                  VARCHAR(50),
+    modifier_1                 VARCHAR(50),
+    modifier_2                 VARCHAR(50),
+    revenue_code               VARCHAR(50),
+    diag_code_1                VARCHAR(50),
+    diag_code_2                VARCHAR(50),
+    service_from_date          DATE,
+    service_to_date            DATE,
+    units_billed               NUMERIC(10,2),
+    allowed_amount             NUMERIC(12,2),
+    paid_amount                NUMERIC(12,2),
+    line_status                VARCHAR(50),
+    PRIMARY KEY (claim_id, line_num)
+);
+```
+
+### 3. Cross-Payer Comparison Report (`comparison_report.xlsx`)
+* **`Rule_Comparison`** (32 columns): Code-overlapping rule pairs classified into:
+  - `SAME_RULE`: Identical clinical criteria and audit action.
+  - `SAME_CODES_DIFFERENT_RULE_DETAILS`: Overlapping codes with minor parameter differences.
+  - `DIFFERENT_DETAILS`: Same code class but divergent clinical indications or modifiers.
+  - `POSSIBLE_CONFLICT`: Direct contradiction (e.g. one payer pays while another denies).
+* **`Unmatched_Rules`** (19 columns): Rules present in one payer with no counterpart in another, tagged with `Gap_Severity` (`HIGH`, `MEDIUM`, `LOW`).
+
+---
+
+## 5. Git LFS Tracking & Configuration
+
+Large assets (Excel workbooks, PDF policy documents, SQLite databases, DuckDB files) are tracked via Git LFS to keep repository history compact.
+
+### Configured Git LFS Patterns (`.gitattributes`):
+```text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.parquet filter=lfs diff=lfs merge=lfs -text
+*.duckdb filter=lfs diff=lfs merge=lfs -text
+*.duckdb.wal filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+*.db filter=lfs diff=lfs merge=lfs -text
+*.sqlite filter=lfs diff=lfs merge=lfs -text
+```
+
+### Pulling Large Files:
+When cloning or pulling the repository, retrieve binary assets with:
+```bash
+git lfs pull
+```

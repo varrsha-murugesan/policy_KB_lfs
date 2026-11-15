@@ -1,0 +1,48 @@
+[
+  {
+    "id": "uhc",
+    "display_name": "UNITED HEALTHCARE CENTER",
+    "short_name": "UHC",
+    "status": "connected",
+    "badge": null,
+    "folder": "Uhc",
+    "extraction_script": "Uhc/extraction_script.py",
+    "extraction_json": "Uhc/extraction_rules_uhc.json",
+    "generator_script": "Uhc/generate_billing_rules.py",
+    "output_workbook": "Uhc/billing_rules_uhc.xlsx",
+    "sql_file": "Uhc/billing_rules_uhc.sql",
+    "comparison_client_name": "UnitedHealthcare",
+    "description": "Deterministic Commercial & Medicare Advantage billing rules with CPT/HCPCS and ICD-10 logic."
+  },
+  {
+    "id": "humana",
+    "display_name": "HUMANA",
+    "short_name": "Humana",
+    "status": "connected",
+    "badge": null,
+    "folder": "Humana",
+    "extraction_script": null,
+    "extraction_json": "Humana/extracted_rules.json",
+    "generator_script": "Humana/generate_billing_rules.py",
+    "output_workbook": "Humana/billing_rules_humana.xlsx",
+    "sql_file": "Humana/billing_rules_humana.sql",
+    "comparison_client_name": "Humana",
+    "description": "Medicare Advantage payment policy rules with deterministic coverage criteria and edit checks."
+  },
+  {
+    "id": "devoted",
+    "display_name": "DEVOTED HEALTH",
+    "short_name": "Devoted",
+    "status": "stub",
+    "badge": "Pipeline not connected - sample data",
+    "folder": "devoted_health",
+    "extraction_script": "devoted_health/extraction_script.py",
+    "extraction_json": "devoted_health/extraction_rules.json",
+    "generator_script": null,
+    "output_workbook": null,
+    "sql_file": null,
+    "comparison_client_name": "Devoted Health",
+    "description": "Devoted Health Medicare Advantage payment policies (39 extracted policies available for review)."
+  }
+]
+
