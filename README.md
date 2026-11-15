@@ -149,15 +149,61 @@ pip install requests beautifulsoup4 pymupdf openpyxl duckdb fastapi uvicorn pyth
 
 ---
 
-### Step 1: Clinical Knowledge Base Setup (`KB creation v1`)
+### Step 1: Central Clinical Knowledge Base & Ontology Pipeline (`KB creation v1`)
 
-Build or verify the local ICD-10 clinical ontology index used by `icd_lookup.py` for deterministic diagnosis mapping:
+The **Central Knowledge Base (`KB creation v1`)** builds an release-pinned UMLS Metathesaurus terminology repository in DuckDB, cross-walks policy texts to CPT/HCPCS codes with confidence scoring (Tiers A–E), and compiles the local ICD-10 diagnosis index (`icd10cm_index.sqlite`) used by `icd_lookup.py`.
+
+Run the entire KB pipeline from the `KB creation v1` folder:
 
 ```powershell
-cd "c:\Users\dell\Documents\Payer Policy\KB creation v1\scripts"
-python build_icd10cm_index.py
-cd ..\..
+cd "c:\Users\dell\Documents\Payer Policy\KB creation v1"
+
+# 1.1 Initialize the Analytical Database Schema (DuckDB)
+# Creates database\payer_policy_kb.duckdb across 4 layers (metadata, terminology, policy corpus, results)
+python scripts\initialize_database.py
+
+# 1.2 (Optional) Ingest Raw UMLS Metathesaurus RRF Releases into DuckDB
+# Note: If database\payer_policy_kb.duckdb is already built, this step is already complete.
+# If re-ingesting from raw NLM releases:
+# python scripts\build_knowledge_base.py
+
+# 1.3 Build Local ICD-10-CM Clinical Diagnosis Search Index (SQLite)
+# Compiles icd10cm_index.sqlite used by icd_lookup.py in Uhc and Humana generators
+python scripts\build_icd10cm_index.py
+
+# 1.4 Ingest & Cross-Walk Payer Policies to CPT/HCPCS Concepts (Run per payer)
+# UnitedHealthcare (Guidelines Document adapter, 147 policies)
+python scripts\map_policy_cpt_codes.py --input data\input\extraction_rules_uhc.json --payer-profile unitedhealthcare
+
+# Humana (Sectioned List adapter, 120 policies)
+python scripts\map_policy_cpt_codes.py --input data\input\extracted_rules_humana.json --payer-profile humana
+
+# Aetna (Sectioned Guidelines adapter, 35 policies)
+python scripts\map_policy_cpt_codes.py --input data\input\extraction_rules_aetna.json --payer-profile aetna
+
+# 1.5 Compare Policies & Identify Cross-Payer Rule Gaps
+# Computes cross-payer policy equivalence scores and clause-by-clause discrepancy logs
+python scripts\compare_policies.py
+
+# 1.6 Validate Referential Integrity & Database Constraints
+# Checks 18 relational invariants across CPT mappings, CUIs, and evidence trails
+python scripts\validate_results.py
+
+# 1.7 Run Automated Regression Test Suite (60 passed, 3 skipped, 0 failures)
+python -m pytest tests
+
+cd ..
 ```
+
+#### Primary KB Outputs Generated (`KB creation v1\data\exports\`):
+* `database\payer_policy_kb.duckdb`: Persistent 196 MB embedded DuckDB analytical database.
+* `icd10cm_index.sqlite`: Fast indexed clinical diagnosis lookup database.
+* `data\exports\policy_cpt_mappings.csv`: Master crosswalk linking policies to procedure codes with confidence tiers A–E and provenance.
+* `data\exports\mapping_evidence.json`: Forensic evidence trail (sentence offsets, exact string matches, UMLS CUIs).
+* `data\exports\code_mentions.csv`: Every regex-detected procedure code token across all policy texts.
+* `data\exports\policy_comparison_report.csv`: Cross-payer matrix of equivalent, differing, and conflicting policy rules.
+* `data\exports\rule_gap_report.csv`: Granular clause-by-clause discrepancy log.
+* `data\exports\audit\audit_summary.md`: Health dashboard, section extraction status, and mapping provenance.
 
 ---
 
@@ -319,3 +365,4 @@ When cloning or pulling the repository, retrieve binary assets with:
 ```bash
 git lfs pull
 ```
+
