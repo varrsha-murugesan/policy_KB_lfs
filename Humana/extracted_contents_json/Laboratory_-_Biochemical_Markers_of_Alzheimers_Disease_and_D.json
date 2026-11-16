@@ -1,0 +1,2997 @@
+{
+  "policy_title": "Laboratory - Biochemical Markers of Alzheimer's",
+  "policy_number": "LAB2023026",
+  "effective_date": "06/2023",
+  "published_date": "06/2023",
+  "revision_date": "04/2026",
+  "source_pdf": "Laboratory_-_Biochemical_Markers_of_Alzheimers_Disease_and_Dementia-e41700d9.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 7,
+  "table_count": 3,
+  "block_count": 118,
+  "CPT_CODES_USED": [
+    "82233",
+    "82234",
+    "0358U",
+    "0459U",
+    "84394",
+    "0445U",
+    "84393",
+    "0479U",
+    "83520",
+    "83884",
+    "0547U",
+    "0393U",
+    "0443U",
+    "0548U",
+    "0551U",
+    "0206U",
+    "0207U",
+    "0412U",
+    "0503U",
+    "0568U",
+    "0596U",
+    "0289U",
+    "30490",
+    "00066",
+    "12756",
+    "12105",
+    "02988",
+    "13901",
+    "12199",
+    "12283",
+    "03784",
+    "47179"
+  ],
+  "MODIFIERS_USED": [
+    "24",
+    "LC",
+    "MS",
+    "US",
+    "AM",
+    "JA",
+    "59",
+    "CS",
+    "CB",
+    "50",
+    "JL",
+    "HH",
+    "56",
+    "CF",
+    "CA",
+    "SE",
+    "JW",
+    "AH",
+    "CR",
+    "SJ",
+    "TG",
+    "AA",
+    "26",
+    "53",
+    "TD",
+    "55",
+    "GM",
+    "JC",
+    "76",
+    "RC",
+    "66",
+    "57",
+    "79",
+    "LM",
+    "LD",
+    "90",
+    "AD",
+    "TK",
+    "JB"
+  ],
+  "ICD_CODES_USED": [
+    "C2N"
+  ],
+  "mapped_cpt_codes": [
+    {
+      "code": "82233",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82234",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0358U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0459U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84394",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0445U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84393",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0479U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83520",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83884",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0547U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0393U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0443U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0548U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0551U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0206U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0207U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0412U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0503U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0568U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0596U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0289U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "30490",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00066",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "12756",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "12105",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "02988",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "13901",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "12199",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "12283",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "03784",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "47179",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "For individuals with a diagnosis of Alzheimer's disease, mild cognitive impairment or dementia, measurement of the following biomarkers IS REIMBURSABLE:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Amyloid beta peptides (CPT Code 82233, CPT code 82234, CPT code 0358U)",
+      "codes": [
+        "82233",
+        "82234",
+        "0358U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "The ratio (CPT code 0459U) of total tau (t-tau) (CPT code 84394) to amyloid beta 1-42 (Aβ42) (CPT code 82234)",
+      "codes": [
+        "0459U",
+        "84394",
+        "82234"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "The ratio (CPT code 0445U) of phosphorylated tau 181 (p-tau181) (CPT code 84393) to Aβ42 (CPT code 82234)",
+      "codes": [
+        "0445U",
+        "84393",
+        "82234"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "The ratio of p-tau 217 (p-tau217) (CPT code 84393, CPT code 0479U) to Aβ42 (CPT code 82234)",
+      "codes": [
+        "84393",
+        "0479U",
+        "82234"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "When not ordered in conjunction with Aβ42 (CPT code 82234), measurement of the following biomarkers IS NOT REIMBURSABLE:",
+      "codes": [
+        "82234"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "t-tau (CPT code 84394)",
+      "codes": [
+        "84394"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "p-tau181 (CPT code 84393)",
+      "codes": [
+        "84393"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "p-tau217 (CPT code 84393, CPT code 0479U)",
+      "codes": [
+        "84393",
+        "0479U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "For individuals with a diagnosis of Alzheimer's disease, mild cognitive impairment or dementia, measurement of other biomarkers (CPT code 83520, CPT code 83884, CPT code 0547U) IS NOT REIMBURSABLE.",
+      "codes": [
+        "83520",
+        "83884",
+        "0547U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "For individuals with a diagnosis of Alzheimer's disease, mild cognitive impairment or dementia, measurement of all other cerebral spinal fluid biomarkers (CPT code 0393U, CPT code 0443U, CPT code 0548U) or plasma biomarkers (CPT code 0479U, CPT code 0551U) IS NOT REIMBURSABLE.",
+      "codes": [
+        "0393U",
+        "0443U",
+        "0548U",
+        "0479U",
+        "0551U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "The use of DISCERNTM (CPT code 0206U*, CPT code 0207U*) IS NOT REIMBURSABLE.",
+      "codes": [
+        "0206U",
+        "0207U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "The use of other multianalyte assays (CPT code 0412U*, CPT code 0503U*, CPT code 0568U*, CPT code 0596U) for Alzheimer's disease or dementia IS NOT REIMBURSABLE.",
+      "codes": [
+        "0412U",
+        "0503U",
+        "0568U",
+        "0596U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Gene expression profiling to predict development of Alzheimer's disease (CPT code 0289U**) IS NOT REIMBURSABLE.",
+      "codes": [
+        "0289U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82233",
+      "codes": [
+        "82233"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Beta-amyloid; 1-40 (Abeta 40)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Beta-amyloid; 1-40 (Abeta 40)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Beta-amyloid; 1-40 (Abeta 40)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82234",
+      "codes": [
+        "82234"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Beta-amyloid; 1-42 (Abeta 42)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Beta-amyloid; 1-42 (Abeta 42)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Beta-amyloid; 1-42 (Abeta 42)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83520 Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative, not otherwise specified 83884",
+      "codes": [
+        "83520",
+        "83884"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Neurofilament light chain (NfL)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Neurofilament light chain (NfL)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Neurofilament light chain (NfL)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84393",
+      "codes": [
+        "84393"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tau, phosphorylated (eg, pTau 181, pTau 217), each",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tau, phosphorylated (eg, pTau 181, pTau 217), each",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tau, phosphorylated (eg, pTau 181, pTau 217), each",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84394",
+      "codes": [
+        "84394"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tau, total (tTau)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tau, total (tTau)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tau, total (tTau)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0206U* Neurology (Alzheimer's disease); cell aggregation using morphometric imaging and protein kinase C- epsilon (PKCe) concentration in response to amylospheroid treatment by ELISA, cultured skin fibroblasts, each reported as positive or negative for Alzheimer's disease",
+      "codes": [
+        "0206U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: NeuroDiagnostics",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: NeuroDiagnostics",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: NeuroDiagnostics",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0207U* Neurology (Alzheimer's disease); Quantitative imaging of phosphorylated ERK1 and ERK2 in response to bradykinin treatment by in situ immunofluorescence, using cultured skin fibroblasts, reported as a probability index for Alzheimer's disease (List separately in addition to code for primary procedure)",
+      "codes": [
+        "0207U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: NeuroDiagnostics",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: NeuroDiagnostics",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: NeuroDiagnostics",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0289U** Neurology (Alzheimer's disease), mRNA, gene expression profiling by RNA sequencing of 24 genes, whole blood, algorithm reported as predictive risk score",
+      "codes": [
+        "0289U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Proprietary test: MindX Blood TestTM - Memory/Alzheimer's",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Proprietary test: MindX Blood TestTM - Memory/Alzheimer's",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Proprietary test: MindX Blood TestTM - Memory/Alzheimer's",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Lab/Manufacturer: MindX SciencesTM Laboratory/MindX SciencesTM Inc 0358U Neurology (mild cognitive impairment), analysis of B-amyloid 1- and 1-40, chemiluminescence enzyme immunoassay, cerebral spinal fluid, reported as positive, likely positive, or negative",
+      "codes": [
+        "0358U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Fujirebio Diagnostics",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Fujirebio Diagnostics",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Fujirebio Diagnostics",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0393U Neurology (eg, Parkinson disease, dementia with Lewy bodies), cerebrospinal fluid (CSF), detection of misfolded a-synuclein protein by seed amplification assay, qualitative",
+      "codes": [
+        "0393U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Amprion Clinical Laboratory",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Amprion Clinical Laboratory",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Amprion Clinical Laboratory",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0412U* Beta amyloid, AB42/40 ratio, immunoprecipitation with quantitation by liquid chromatography with tandem mass spectrometry (LC-MS/MS) and qualitative ApoE isoform-specific proteotyping, plasma combined with age, algorithm reported as presence or absence of brain amyloid pathology",
+      "codes": [
+        "0412U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: C2N Diagnostics LLC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: C2N Diagnostics LLC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: C2N Diagnostics LLC",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0443U Neurofilament light chain (NfL), ultra-sensitive immunoassay, serum or cerebrospinal fluid",
+      "codes": [
+        "0443U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Proprietary test: Neurofilament Light Chain (NfL)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Proprietary test: Neurofilament Light Chain (NfL)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Proprietary test: Neurofilament Light Chain (NfL)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Lab/Manufacturer: Neuromuscular Clinical Laboratory at Washington University in St. Louis School of",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicine",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Medicine",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Medicine",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0445U B-amyloid (Abeta42) and phospho tau (181P) (pTau181), electrochemiluminescent immunoassay (ECLIA), cerebral spinal fluid, ratio reported as positive or negative for amyloid pathology Proprietary test: Elecsys® Phospho-Tau (181P) CSF (pTau181) and Β-Amyloid (1-42) CSF II (Abeta 42) Ratio Lab/Manufacturer: Roche Diagnostics Operations, Inc (US owner/operator) 0459U B-amyloid (Abeta42) and total tau (tTau), electrochemiluminescent immunoassay (ECLIA), cerebral spinal fluid, ratio reported as positive or negative for amyloid pathology Proprietary test: Elecsys® Total Tau CSF (tTau) and Β-Amyloid (1-42) CSF II (Abeta 42) Ratio, Lab/Manufacturer: Roche Diagnostics Operations, Inc (US owner/operator) 0479U",
+      "codes": [
+        "0445U",
+        "0459U",
+        "0479U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tau, phosphorylated, pTau217",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tau, phosphorylated, pTau217",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tau, phosphorylated, pTau217",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Proprietary test: ALZpath pTau217, Neurocode USA, Inc,",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Quanterix/ALZpath",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Quanterix/ALZpath",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Quanterix/ALZpath",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "0503U* Neurology (Alzheimer's disease), beta amyloid (AB40, AB42, AB42/40 ratio) and tau-protein (ptau217, np-tau217, ptau217/np-tau217 ratio), blood, immunoprecipitation with quantitation by liquid chromatography with tandem mass spectrometry (LC-MS/MS), algorithm score reported as likelihood of positive or negative for amyloid plaques",
+      "codes": [
+        "0503U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab Manufacturer: C2N Diagnostics, LLC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab Manufacturer: C2N Diagnostics, LLC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab Manufacturer: C2N Diagnostics, LLC",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "0547U Neurofilament light chain (NfL), chemiluminescent enzyme immunoassay, plasma, quantitative",
+      "codes": [
+        "0547U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab Manufacturer: Neurocode USA, Inc, Fujirebio Diagnostics, Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab Manufacturer: Neurocode USA, Inc, Fujirebio Diagnostics, Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab Manufacturer: Neurocode USA, Inc, Fujirebio Diagnostics, Inc",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "0548U Glial fibrillary acidic protein (GFAP), chemiluminescent enzyme immunoassay, using plasma",
+      "codes": [
+        "0548U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab Manufacturer: Neurocode USA, Inc, Fujirebio Diagnostics, Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab Manufacturer: Neurocode USA, Inc, Fujirebio Diagnostics, Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab Manufacturer: Neurocode USA, Inc, Fujirebio Diagnostics, Inc",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "0568U* Neurology (dementia), beta amyloid (AB40, AB42, AB42/40 ratio), tau-protein phosphorylated at residue (eg, pTau217), neurofilament light chain (NfL), and glial fibrillary acidic protein (GFAP), by ultra-high sensitivity molecule array detection, plasma, algorithm reported as positive, intermediate, or negative for",
+      "codes": [
+        "0568U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab Manufacturer: Quanterix Corporation, Quanterix Corporation",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab Manufacturer: Quanterix Corporation, Quanterix Corporation",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab Manufacturer: Quanterix Corporation, Quanterix Corporation",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "0596U Neurology (Alzheimer's disease), plasma, 3 distinct isoform-specific peptides (APOE2, APOE3, and APOE4) by liquid chromatography with tandem mass spectrometry (LC-MS/MS), reported as an APOE proteotype",
+      "codes": [
+        "0596U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab Manufacturer: C2N Diagnostics, LLC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab Manufacturer: C2N Diagnostics, LLC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab Manufacturer: C2N Diagnostics, LLC",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "* The payment criteria for 0206U, 0207U, 0412U, 0503U and 0568U applies to all Medicare jurisdictions except those states awarded to CGS Administrators, LLC;",
+      "codes": [
+        "0206U",
+        "0207U",
+        "0412U",
+        "0503U",
+        "0568U"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab Manufacturer: C2N Diagnostics, LLC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab Manufacturer: C2N Diagnostics, LLC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab Manufacturer: C2N Diagnostics, LLC",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Noridian Healthcare Solutions, LLC; Palmetto GBA; and WPS Insurance Corporation.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab Manufacturer: C2N Diagnostics, LLC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab Manufacturer: C2N Diagnostics, LLC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab Manufacturer: C2N Diagnostics, LLC",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "**The payment criteria for 0289U applies to all Medicare Jurisdictions except those states awarded to CGS Administrators; Noridian Healthcare Solutions, LLC; Palmetto",
+      "codes": [
+        "0289U"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab Manufacturer: C2N Diagnostics, LLC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab Manufacturer: C2N Diagnostics, LLC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab Manufacturer: C2N Diagnostics, LLC",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "GBA; and WPS Insurance Corporation; First Coast Service Options, Inc. and Novitas Solutions, Inc.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L36021 0206U 0207U 0289U 0412U 0503U 0568U",
+      "codes": [
+        "0206U",
+        "0207U",
+        "0289U",
+        "0412U",
+        "0503U",
+        "0568U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L38288 0289U",
+      "codes": [
+        "0289U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L35160 0206U 0207U 0289U 0412U 0503U 0568U",
+      "codes": [
+        "0206U",
+        "0207U",
+        "0289U",
+        "0412U",
+        "0503U",
+        "0568U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L36256 0206U 0207U 0289U 0412U 0503U 0568U",
+      "codes": [
+        "0206U",
+        "0207U",
+        "0289U",
+        "0412U",
+        "0503U",
+        "0568U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "L38351 0289U",
+      "codes": [
+        "0289U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "L38353 0289U",
+      "codes": [
+        "0289U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "L35025 0206U 0207U 0289U 0412U 0503U 0568U",
+      "codes": [
+        "0206U",
+        "0207U",
+        "0289U",
+        "0412U",
+        "0503U",
+        "0568U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "L38274 0289U",
+      "codes": [
+        "0289U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "L36807 0206U 0207U 0289U 0412U 0503U 0568U",
+      "codes": [
+        "0206U",
+        "0207U",
+        "0289U",
+        "0412U",
+        "0503U",
+        "0568U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "L38429 0289U",
+      "codes": [
+        "0289U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Albert MS, DeKosky ST, Dickson D, et al. The diagnosis of mild cognitive impairment due to Alzheimer's disease: recommendations from the National Institute on Aging-Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease. Alzheimer's & dementia : the journal of the Alzheimer's Association. 2011;7(3):270-9. doi:10.1016/j.jalz.2011.03.008 Alzheimer's Association. Lecanemab Approved for Treatment of Early Alzheimer's Disease. https://www.alz.org/Alzheimer'ss- dementia/treatments/lecanemab-leqembi Arranz AM, De Strooper B. The role of astroglia in Alzheimer's disease: pathophysiology and clinical implications. Lancet Neurol. 2019;18(4):406-414. doi:10.1016/s1474-4422(18)30490-3 Bennett DA, Wilson RS, Schneider JA, et al. Natural history of mild cognitive impairment in older persons. Neurology. 2002;59(2):198-205. Blennow K, Zetterberg H, Fagan AM. Fluid biomarkers in Alzheimer's disease. Cold Spring Harbor perspectives in medicine. 2012;2(9):a006221. doi:10.1101/cshperspect.a006221 BusinessWire. Quanterix Launches LucentAD Biomarker Blood Test to Aid Physician Diagnosis of Alzheimer's Disease in Patients. https://www.businesswire.com/news/home/20230706742971/en/ C2N. SYN-ONE TEST®. https://c2n.com/news-releases/2019/01/29/2019-1-24-c2n-diagnostics-receives-breakthrough-device- designation-from-us-fda-for-blood-test-to-screen-for-Alzheimer'ss-disease-risk Chen YR, Liang CS, Chu H, et al. Diagnostic accuracy of blood biomarkers for Alzheimer's disease and amnestic mild cognitive impairment: A meta-analysis. Ageing Res Rev. 2021;71:101446. doi:10.1016/j.arr.2021.101446 CND Life Sciences. SYN-ONE TEST®. https://cndlifesciences.com/syn-one-test/ Cordell CB, Borson S, Boustani M, et al. Alzheimer's Association recommendations for operationalizing the detection of cognitive impairment during the Medicare Annual Wellness Visit in a primary care setting. Alzheimer's & dementia : the journal of the Alzheimer's Association. 2013;9(2):141-50. doi:10.1016/j.jalz.2012.09.011 Dage JL, Wennberg AMV, Airey DC, et al. Levels of tau protein in plasma are associated with neurodegeneration and cognitive function in a population-based elderly cohort. Alzheimer's & dementia : the journal of the Alzheimer's Association. 2016;12(12):1226-1234. doi:10.1016/j.jalz.2016.06.001 Donadio V, Doppler K, Incensi A, et al. Abnormal alpha-synuclein deposits in skin nerves: intra- and inter-laboratory reproducibility.",
+      "codes": [
+        "30490"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Eur J Neurol. 2019;26(10):1245-1251. doi:10.1111/ene.13939",
+      "section": "References",
+      "subsection": "Eur J Neurol. 2019;26(10):1245-1251. doi:10.1111/ene.13939",
+      "hierarchy_path": "References > Eur J Neurol. 2019;26(10):1245-1251. doi:10.1111/ene.13939",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Dubois B, Feldman HH, Jacova C, et al. Advancing research diagnostic criteria for Alzheimer's disease: the IWG-2 criteria. Lancet",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Neurol. 2014;13(6):614-29. doi:10.1016/s1474-4422(14)70090-0",
+      "section": "References",
+      "subsection": "Neurol. 2014;13(6):614-29. doi:10.1016/s1474-4422(14)70090-0",
+      "hierarchy_path": "References > Neurol. 2014;13(6):614-29. doi:10.1016/s1474-4422(14)70090-0",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Dubois B, Villain N, Frisoni GB, et al. Clinical diagnosis of Alzheimer's disease: recommendations of the International Working Group. Lancet Neurol. 2021;20(6):484-496. doi:10.1016/s1474-4422(21)00066-1 Farrer LA, Cupples LA, Haines JL, et al. Effects of age, sex, and ethnicity on the association between apolipoprotein E genotype and Alzheimer's disease. A meta-analysis. APOE and Alzheimer's Disease Meta Analysis Consortium. Jama. 1997;278(16):1349-56. FDA. Early Alzheimer's Disease: Developing Drugs for Treatment. U.S. Food and Drug Administration Center for Drug Evaluation and Research Center for Biologics Evaluation and Research. https://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM596728.pdf FDA. FDA Permits Marketing for New Test to Improve Diagnosis of Alzheimer's Disease. https://www.prnewswire.com/news- releases/fda-permits-marketing-for-new-test-to-improve-diagnosis-of-Alzheimer'ss-disease-301540093.html FDA. K242706. https://www.accessdata.fda.gov/cdrh_docs/pdf24/K242706.pdf Fossati S, Ramos Cejudo J, Debure L, et al. Plasma tau complements CSF tau and P-tau in the diagnosis of Alzheimer's disease. Alzheimer's & dementia (Amsterdam, Netherlands). 2019;11:483-492. doi:10.1016/j.dadm.2019.05.001 François M, Bull CF, Fenech MF, Leifert WR. Current State of Saliva Biomarkers for Aging and Alzheimer's Disease. Curr Alzheimer's",
+      "codes": [
+        "00066"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Res. 2019;16(1):56-66. doi:10.2174/1567205015666181022094924",
+      "section": "References",
+      "subsection": "Res. 2019;16(1):56-66. doi:10.2174/1567205015666181022094924",
+      "hierarchy_path": "References > Res. 2019;16(1):56-66. doi:10.2174/1567205015666181022094924",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Fujirebio. Lumipulse® G β-Amyloid Ratio (1-42/1-40). https://www.fujirebio.com/en-us/products-solutions/lumipulse-g-beta- amyloid-ratio-142-140 Gatz M, Reynolds CA, Fratiglioni L, et al. Role of genes and environments for explaining Alzheimer's disease. Archives of general psychiatry. 2006;63(2):168-74. doi:10.1001/archpsyc.63.2.168 GBSC. Biomarker Consortium. Global Biomarker Standardization Consortium (GBSC); Alzheimer's Association. https://www.alz.org/research/for_researchers/partnerships/biomarker_consortium Goldman JS, Hahn SE, Catania JW, et al. Genetic counseling and testing for Alzheimer's disease: Joint practice guidelines of the American College of Medical Genetics and the National Society of Genetic Counselors. Genet Med. 2011;13(6):597-605. doi:10.1097/GIM.0b013e31821d69b8 Gottlieb S. Statement from FDA Commissioner Scott Gottlieb, M.D. on advancing the development of novel treatments for neurological conditions; part of broader effort on modernizing FDA's new drug review programs. U.S. Food and Drug Administration. https://www.americanpharmaceuticalreview.com/1315-News/347185-Statement-from-FDA-Commissioner-on- Advancing-the-Development-of-Novel-Treatments-for-Neurological-Conditions/ Hansson O, Edelmayer RM, Boxer AL, et al. The Alzheimer's Association appropriate use recommendations for blood biomarkers in Alzheimer's disease. Alzheimer's & dementia : the journal of the Alzheimer's Association. 2022;18(12):2669-2686. doi:10.1002/alz.12756 Hansson O, Lehmann S, Otto M, Zetterberg H, Lewczuk P. Advantages and disadvantages of the use of the CSF Amyloid β (Aβ) 42/40 ratio in the diagnosis of Alzheimer's Disease. Alzheimer'ss Res Ther. 2019;11(1):34. doi:10.1186/s13195-019-0485-0 Herukka SK, Simonsen AH, Andreasen N, et al. Recommendations for cerebrospinal fluid Alzheimer's disease biomarkers in the diagnostic evaluation of mild cognitive impairment. Alzheimer's & dementia : the journal of the Alzheimer's Association. 2017;13(3):285-295. doi:10.1016/j.jalz.2016.09.009 Huan T, Tran T, Zheng J, et al. Metabolomics Analyses of Saliva Detect Novel Biomarkers of Alzheimer's Disease. Journal of Alzheimer's disease : JAD. 2018;65(4):1401-1416. doi:10.3233/jad-180711 Ismail Z, Black SE, Camicioli R, et al. Recommendations of the 5th Canadian Consensus Conference on the diagnosis and treatment of dementia. Alzheimer's & dementia : the journal of the Alzheimer's Association. 2020;16(8):1182-1195. doi:10.1002/alz.12105 Jack CR, Jr., Andrews SJ, Beach TG, et al. Revised criteria for the diagnosis and staging of Alzheimer's disease. Nat Med. Aug 2024;30(8):2121-2124. doi:10.1038/s41591-024-02988-7 Jack CR, Jr., Bennett DA, Blennow K, et al. NIA-AA Research Framework: Toward a biological definition of Alzheimer's disease. Alzheimer's & dementia : the journal of the Alzheimer's Association. 2018;14(4):535-562. doi:10.1016/j.jalz.2018.02.018 Jiang L, Dong H, Cao H, Ji X, Luan S, Liu J. Exosomes in Pathogenesis, Diagnosis, and Treatment of Alzheimer's Disease. Med Sci",
+      "codes": [
+        "12756",
+        "12105",
+        "02988"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Monit. 2019;25:3329-3335. doi:10.12659/msm.914027",
+      "section": "References",
+      "subsection": "Monit. 2019;25:3329-3335. doi:10.12659/msm.914027",
+      "hierarchy_path": "References > Monit. 2019;25:3329-3335. doi:10.12659/msm.914027",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Karch CM, Cruchaga C, Goate AM. Alzheimer's disease genetics: from the bench to the clinic. Neuron. 2014;83(1):11-26. doi:10.1016/j.neuron.2014.05.041 Kim JY, Illigens BM, McCormick MP, Wang N, Gibbons CH. Alpha-Synuclein in Skin Nerve Fibers as a Biomarker for Alpha- Synucleinopathies. J Clin Neurol. 2019;15(2):135-142. doi:10.3988/jcn.2019.15.2.135",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Monit. 2019;25:3329-3335. doi:10.12659/msm.914027",
+      "section": "References",
+      "subsection": "Monit. 2019;25:3329-3335. doi:10.12659/msm.914027",
+      "hierarchy_path": "References > Monit. 2019;25:3329-3335. doi:10.12659/msm.914027",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "Kim K, Kim M-J, Kim DW, Kim SY, Park S, Park CB. Clinically accurate diagnosis of Alzheimer's disease via multiplexed sensing of core biomarkers in human plasma. Nature Communications. 2020;11(1):119. doi:10.1038/s41467-019-13901-z Knopman DS, DeKosky ST, Cummings JL, et al. Practice parameter: diagnosis of dementia (an evidence-based review). Report of the Quality Standards Subcommittee of the American Academy of Neurology. Neurology. 2001;56(9):1143-53. doi:10.1212/wnl.56.9.1143 Kramarow E, Tejada-Vera B. Adjusted Death Rates* from Dementia,† by Sex, Race, and Hispanic Origin - National Vital Statistics System, United States, 2017. MMWR Morb Mortal Wkly Rep. 2019;68:670. Levine TD, Bellaire B, Gibbons C, Freeman R. Cutaneous alpha-synuclein deposition in postural tachycardia patients. Ann Clin Transl",
+      "codes": [
+        "13901"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Neurol. 2021;8(4):908-917. doi:10.1002/acn3.51347",
+      "section": "References",
+      "subsection": "Neurol. 2021;8(4):908-917. doi:10.1002/acn3.51347",
+      "hierarchy_path": "References > Neurol. 2021;8(4):908-917. doi:10.1002/acn3.51347",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "Lewczuk P, Matzen A, Blennow K, et al. Cerebrospinal Fluid Abeta42/40 Corresponds Better than Abeta42 to Amyloid PET in Alzheimer's Disease. Journal of Alzheimer's disease : JAD. 2017;55(2):813-822. doi:10.3233/jad-160722 Lewczuk P, Riederer P, O'Bryant SE, et al. Cerebrospinal fluid and blood biomarkers for neurodegenerative dementias: An update of the Consensus of the Task Force on Biological Markers in Psychiatry of the World Federation of Societies of Biological Psychiatry. The world journal of biological psychiatry : the official journal of the World Federation of Societies of Biological Psychiatry. 2018;19(4):244-328. doi:10.1080/15622975.2017.1375556 Liu Y, Wei M, Yue K, et al. Study on Urine Metabolic Profile of Abeta25-35-Induced Alzheimer's Disease Using UHPLC-Q-TOF-MS. Neuroscience. 2018;394:30-43. doi:10.1016/j.neuroscience.2018.10.001 Lonneborg A. Biomarkers for Alzheimer's disease in cerebrospinal fluid, urine, and blood. Molecular diagnosis & therapy. 2008;12(5):307-20. Mattsson N, Andreasson U, Persson S, et al. The Alzheimer's Association external quality control program for cerebrospinal fluid biomarkers. Alzheimer's & dementia : the journal of the Alzheimer's Association. 2011;7(4):386-395 e6. doi:10.1016/j.jalz.2011.05.2243 McKeith IG, Boeve BF, Dickson DW, et al. Diagnosis and management of dementia with Lewy bodies: Fourth consensus report of the DLB Consortium. Neurology. 2017;89(1):88-100. doi:10.1212/wnl.0000000000004058 McKhann GM, Knopman DS, Chertkow H, et al. The diagnosis of dementia due to Alzheimer's disease: Recommendations from the National Institute on Aging-Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease. Alzheimer's & dementia : the journal of the Alzheimer's Association. 2011;7(3):263-9. doi:10.1016/j.jalz.2011.03.005 Morris JC, Blennow K, Froelich L, et al. Harmonized diagnostic criteria for Alzheimer's disease: recommendations. Journal of internal medicine. 2014;275(3):204-13. doi:10.1111/joim.12199 NICE. Dementia: assessment, management and support for people living with dementia and their carers. https://www.nice.org.uk/guidance/ng97/chapter/Recommendations Nojima H, Ito S, Kushida A, et al. Clinical utility of cerebrospinal fluid biomarkers measured by LUMIPULSE(®) system. Ann Clin Transl",
+      "codes": [
+        "12199"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Neurol. 2022;9(12):1898-1909. doi:10.1002/acn3.51681",
+      "section": "References",
+      "subsection": "Neurol. 2022;9(12):1898-1909. doi:10.1002/acn3.51681",
+      "hierarchy_path": "References > Neurol. 2022;9(12):1898-1909. doi:10.1002/acn3.51681",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "Owens DK, Davidson KW, Krist AH, et al. Screening for Cognitive Impairment in Older Adults: US Preventive Services Task Force Recommendation Statement. Jama. 2020;323(8):757-763. doi:10.1001/jama.2020.0435 Palmqvist S, Janelidze S, Stomrud E, et al. Performance of Fully Automated Plasma Assays as Screening Tests for Alzheimer's Disease-Related β-Amyloid Status. JAMA Neurol. 2019;76(9):1060-9. doi:10.1001/jamaneurol.2019.1632 Patel S, Shah RJ, Coleman P, Sabbagh M. Potential peripheral biomarkers for the diagnosis of Alzheimer's disease. International journal of Alzheimer's disease. 2011;2011:572495. doi:10.4061/2011/572495 Peterson RC. Mild cognitive impairment: Prognosis and treatment. Updated June 7, 2024. https://www.uptodate.com/contents/mild-cognitive-impairment-prognosis-and-treatment Qu Y, Ma YH, Huang YY, et al. Blood biomarkers for the diagnosis of amnestic mild cognitive impairment and Alzheimer's disease: A systematic review and meta-analysis. Neurosci Biobehav Rev. 2021;128:479-486. doi:10.1016/j.neubiorev.2021.07.007 Rabinovici GD, Knopman DS, Arbizu J, et al. Updated Appropriate Use Criteria for Amyloid and Tau PET: A Report from the Alzheimer's Association and Society for Nuclear Medicine and Molecular Imaging Workgroup. J Nucl Med. Jun 6 2025;66(Suppl 2):S5-s31. doi:10.2967/jnumed.124.268756 Roche. Roche Alzheimer's disease Cerebrospinal Fluid (CSF) assays receive FDA clearance, supporting more accurate and timely diagnosis. https://www.globenewswire.com/news-release/2022/12/08/2569879/0/en/Roche-Alzheimer's-s-disease- Cerebrospinal-Fluid-CSF-assays-receive-FDA-clearance-supporting-more-accurate-and-timely-diagnosis.html",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Neurol. 2022;9(12):1898-1909. doi:10.1002/acn3.51681",
+      "section": "References",
+      "subsection": "Neurol. 2022;9(12):1898-1909. doi:10.1002/acn3.51681",
+      "hierarchy_path": "References > Neurol. 2022;9(12):1898-1909. doi:10.1002/acn3.51681",
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content": "Roche. Roche receives FDA clearance for additional Alzheimer's disease Cerebrospinal Fluid (CSF) assays, supporting timely diagnosis and treatment decision-making. https://diagnostics.roche.com/us/en/news-listing/2023/roche-fda-clearance- additional-Alzheimer'ss-disease-cerebrospinal-fluid-ttau.html Sala Frigerio C, De Strooper B. Alzheimer's Disease Mechanisms and Emerging Roads to Novel Therapeutics. Annual Review of Neuroscience. 2016;39(1):57-79. doi:10.1146/annurev-neuro-070815-014015 Schaffer C, Sarad N, DeCrumpe A, et al. Biomarkers in the Diagnosis and Prognosis of Alzheimer's Disease. Journal of laboratory automation. 2015;20(5):589-600. doi:10.1177/2211068214559979 Schindler SE, Petersen KK, Saef B, et al. Head-to-head comparison of leading blood tests for Alzheimer's disease pathology. medRxiv.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Jul 3 2024;doi:10.1101/2024.06.12.24308839",
+      "section": "References",
+      "subsection": "Jul 3 2024;doi:10.1101/2024.06.12.24308839",
+      "hierarchy_path": "References > Jul 3 2024;doi:10.1101/2024.06.12.24308839",
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content": "Shaw LM, Arias J, Blennow K, et al. Appropriate use criteria for lumbar puncture and cerebrospinal fluid testing in the diagnosis of Alzheimer's disease. Alzheimer's & dementia : the journal of the Alzheimer's Association. 2018;14(11):1505-1521. doi:10.1016/j.jalz.2018.07.220 Shea YF, Chu LW, Chan AO, Ha J, Li Y, Song YQ. A systematic review of familial Alzheimer's disease: Differences in presentation of clinical features among three mutated genes and potential ethnic differences. Journal of the Formosan Medical Association =",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Taiwan yi zhi. 2016;115(2):67-75. doi:10.1016/j.jfma.2015.08.004",
+      "section": "References",
+      "subsection": "Taiwan yi zhi. 2016;115(2):67-75. doi:10.1016/j.jfma.2015.08.004",
+      "hierarchy_path": "References > Taiwan yi zhi. 2016;115(2):67-75. doi:10.1016/j.jfma.2015.08.004",
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content": "Shen XN, Niu LD, Wang YJ, et al. Inflammatory markers in Alzheimer's disease and mild cognitive impairment: a meta-analysis and systematic review of 170 studies. J Neurol Neurosurg Psychiatry. 2019;90(5):590-598. doi:10.1136/jnnp-2018-319148 Simonsen AH, Herukka SK, Andreasen N, et al. Recommendations for CSF AD biomarkers in the diagnostic evaluation of dementia. Alzheimer's & dementia : the journal of the Alzheimer's Association. 2017;13(3):274-284. doi:10.1016/j.jalz.2016.09.008 Simrén J, Leuzy A, Karikari TK, et al. The diagnostic and prognostic capabilities of plasma biomarkers in Alzheimer's disease. Alzheimer's & Dementia. 2021;17(7):1145-1156. doi:10.1002/alz.12283 Sorbi S, Hort J, Erkinjuntti T, et al. EFNS-ENS Guidelines on the diagnosis and management of disorders associated with dementia. Eur J Neurol. 2012;19(9):1159-79. doi:10.1111/j.1468-1331.2012.03784.x Talwar P, Sinha J, Grover S, et al. Meta-analysis of apolipoprotein E levels in the cerebrospinal fluid of patients with Alzheimer's disease. Journal of the neurological sciences. 2016;360:179-87. doi:10.1016/j.jns.2015.12.004 Tatebe H, Kasai T, Ohmichi T, et al. Quantification of plasma phosphorylated tau to use as a biomarker for brain Alzheimer's pathology: pilot case-control studies including patients with Alzheimer's disease and down syndrome. Molecular neurodegeneration. 2017;12(1):63. doi:10.1186/s13024-017-0206-8 Van Cauwenberghe C, Van Broeckhoven C, Sleegers K. The genetic landscape of Alzheimer's disease: clinical implications and perspectives. Genet Med. 2016;18(5):421-30. doi:10.1038/gim.2015.117 Wang H, Stewart T, Toledo JB, et al. A Longitudinal Study of Total and Phosphorylated alpha-Synuclein with Other Biomarkers in Cerebrospinal Fluid of Alzheimer's Disease and Mild Cognitive Impairment. Journal of Alzheimer's disease : JAD. 2018;61(4):1541-1553. doi:10.3233/jad-171013 Wang S, Kojima K, Mobley JA, West AB. Proteomic analysis of urinary extracellular vesicles reveal biomarkers for neurologic disease.",
+      "codes": [
+        "12283",
+        "03784"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "EBioMedicine. 2019;45:351-361. doi:10.1016/j.ebiom.2019.06.021",
+      "section": "References",
+      "subsection": "EBioMedicine. 2019;45:351-361. doi:10.1016/j.ebiom.2019.06.021",
+      "hierarchy_path": "References > EBioMedicine. 2019;45:351-361. doi:10.1016/j.ebiom.2019.06.021",
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content": "Waqar S, Khan H, Zulfiqar SK, Ahmad A. Skin Biopsy as a Diagnostic Tool for Synucleinopathies. Cureus. 2023;15(10):e47179. doi:10.7759/cureus.47179 WHO. Dementia. https://www.who.int/news-room/fact-sheets/detail/dementia WHO. Preferred product characteristics of blood-based biomarker diagnostics for Alzheimer's disease. https://www.who.int/publications/i/item/9789240099067 Wolk DA, Dickerson BC. Clinical features and diagnosis of Alzheimer's disease. Updated September 30, 2024. https://www.uptodate.com/contents/clinical-features-and-diagnosis-of-Alzheimer's-disease Yoong SQ, Lu J, Xing H, Gyanwali B, Tan YQ, Wu XV. The prognostic utility of CSF neurogranin in predicting future cognitive decline in the Alzheimer's disease continuum: A systematic review and meta-analysis with narrative synthesis. Ageing Res Rev. 2021;72:101491. doi:10.1016/j.arr.2021.101491 Zhang J, Zhang CH, Li RJ, et al. Accuracy of urinary AD7c-NTP for diagnosing Alzheimer's disease: a systematic review and meta- analysis. Journal of Alzheimer's disease : JAD. 2014;40(1):153-9. doi:10.3233/jad-131445",
+      "codes": [
+        "47179"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233: 82234 | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40): Beta-amyloid; 1-42 (Abeta 42) | Code description:  | ",
+      "codes": [
+        "82233",
+        "82234"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "82234",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "Beta-amyloid; 1-42 (Abeta 42)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233: 83520 | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40): Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative,\nnot otherwise specified | Code description:  | ",
+      "codes": [
+        "82233",
+        "83520"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "83520",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative,\nnot otherwise specified",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233: 83884 | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40): Neurofilament light chain (NfL) | Code description:  | ",
+      "codes": [
+        "82233",
+        "83884"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "83884",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "Neurofilament light chain (NfL)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233: 84393 | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40): Tau, phosphorylated (eg, pTau 181, pTau 217), each | Code description:  | ",
+      "codes": [
+        "82233",
+        "84393"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "84393",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "Tau, phosphorylated (eg, pTau 181, pTau 217), each",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233: 84394 | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40): Tau, total (tTau) | Code description:  | ",
+      "codes": [
+        "82233",
+        "84394"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "84394",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "Tau, total (tTau)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233: 0206U* | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40): Neurology (Alzheimer's disease); cell aggregation using morphometric imaging and protein kinase C-\nepsilon (PKCe) concentration in response to amylospheroid treatment by ELISA, cultured skin fibroblasts,\neach reported as positive or negative for Alzheimer's disease\nProprietary test: DISCERNTM\nLab/Manufacturer: NeuroDiagnostics | Code description:  | ",
+      "codes": [
+        "82233",
+        "0206U"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "0206U*",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "Neurology (Alzheimer's disease); cell aggregation using morphometric imaging and protein kinase C-\nepsilon (PKCe) concentration in response to amylospheroid treatment by ELISA, cultured skin fibroblasts,\neach reported as positive or negative for Alzheimer's disease\nProprietary test: DISCERNTM\nLab/Manufacturer: NeuroDiagnostics",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233: 0207U* | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40): Neurology (Alzheimer's disease); Quantitative imaging of phosphorylated ERK1 and ERK2 in response to\nbradykinin treatment by in situ immunofluorescence, using cultured skin fibroblasts, reported as a\nprobability index for Alzheimer's disease (List separately in addition to code for primary procedure)\nProprietary test: DISCERNTM\nLab/Manufacturer: NeuroDiagnostics | Code description:  | ",
+      "codes": [
+        "82233",
+        "0207U"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "0207U*",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "Neurology (Alzheimer's disease); Quantitative imaging of phosphorylated ERK1 and ERK2 in response to\nbradykinin treatment by in situ immunofluorescence, using cultured skin fibroblasts, reported as a\nprobability index for Alzheimer's disease (List separately in addition to code for primary procedure)\nProprietary test: DISCERNTM\nLab/Manufacturer: NeuroDiagnostics",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233: 0289U** | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40): Neurology (Alzheimer's disease), mRNA, gene expression profiling by RNA sequencing of 24 genes, whole\nblood, algorithm reported as predictive risk score\nProprietary test: MindX Blood TestTM - Memory/Alzheimer's\nLab/Manufacturer: MindX SciencesTM Laboratory/MindX SciencesTM Inc | Code description:  | ",
+      "codes": [
+        "82233",
+        "0289U"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "0289U**",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "Neurology (Alzheimer's disease), mRNA, gene expression profiling by RNA sequencing of 24 genes, whole\nblood, algorithm reported as predictive risk score\nProprietary test: MindX Blood TestTM - Memory/Alzheimer's\nLab/Manufacturer: MindX SciencesTM Laboratory/MindX SciencesTM Inc",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233: 0358U | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40): Neurology (mild cognitive impairment), analysis of B-amyloid 1- and 1-40, chemiluminescence enzyme\nimmunoassay, cerebral spinal fluid, reported as positive, likely positive, or negative\nProprietary test: Lumipulse® G βAmyloid Ratio (1-42/1-40) Test\nLab/Manufacturer: Fujirebio Diagnostics | Code description:  | ",
+      "codes": [
+        "82233",
+        "0358U"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "0358U",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "Neurology (mild cognitive impairment), analysis of B-amyloid 1- and 1-40, chemiluminescence enzyme\nimmunoassay, cerebral spinal fluid, reported as positive, likely positive, or negative\nProprietary test: Lumipulse® G βAmyloid Ratio (1-42/1-40) Test\nLab/Manufacturer: Fujirebio Diagnostics",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233: 0393U | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40): Neurology (eg, Parkinson disease, dementia with Lewy bodies), cerebrospinal fluid (CSF), detection of\nmisfolded a-synuclein protein by seed amplification assay, qualitative\nProprietary test: SAAmplifyTM -aSYN\nLab/Manufacturer: Amprion Clinical Laboratory | Code description:  | ",
+      "codes": [
+        "82233",
+        "0393U"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "0393U",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "Neurology (eg, Parkinson disease, dementia with Lewy bodies), cerebrospinal fluid (CSF), detection of\nmisfolded a-synuclein protein by seed amplification assay, qualitative\nProprietary test: SAAmplifyTM -aSYN\nLab/Manufacturer: Amprion Clinical Laboratory",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233: 0412U* | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: Beta amyloid, AB42/40 ratio, immunoprecipitation with quantitation by liquid chromatography with | ",
+      "codes": [
+        "82233",
+        "0412U"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "0412U*",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "Beta amyloid, AB42/40 ratio, immunoprecipitation with quantitation by liquid chromatography with"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233:  | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: tandem mass spectrometry (LC-MS/MS) and qualitative ApoE isoform-specific proteotyping, plasma | ",
+      "codes": [
+        "82233"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "tandem mass spectrometry (LC-MS/MS) and qualitative ApoE isoform-specific proteotyping, plasma"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233:  | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: combined with age, algorithm reported as presence or absence of brain amyloid pathology | ",
+      "codes": [
+        "82233"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "combined with age, algorithm reported as presence or absence of brain amyloid pathology"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233:  | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: Proprietary test: | PrecivityAD® blood test",
+      "codes": [
+        "82233"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "Proprietary test:"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233:  | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: Lab/Manufacturer: C2N Diagnostics LLC | ",
+      "codes": [
+        "82233"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "Lab/Manufacturer: C2N Diagnostics LLC"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233: 0443U | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: Neurofilament light chain (NfL), ultra-sensitive immunoassay, serum or cerebrospinal fluid | ",
+      "codes": [
+        "82233",
+        "0443U"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "0443U",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "Neurofilament light chain (NfL), ultra-sensitive immunoassay, serum or cerebrospinal fluid"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233:  | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: Proprietary test: Neurofilament Light Chain (NfL) | ",
+      "codes": [
+        "82233"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "Proprietary test: Neurofilament Light Chain (NfL)"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233:  | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: Lab/Manufacturer: Neuromuscular Clinical Laboratory at Washington University in St. Louis School of | ",
+      "codes": [
+        "82233"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "Lab/Manufacturer: Neuromuscular Clinical Laboratory at Washington University in St. Louis School of"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233:  | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: Medicine | ",
+      "codes": [
+        "82233"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "Medicine"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233: 0445U | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: B-amyloid (Abeta42) and phospho tau (181P) (pTau181), electrochemiluminescent immunoassay (ECLIA), | ",
+      "codes": [
+        "82233",
+        "0445U"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "0445U",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "B-amyloid (Abeta42) and phospho tau (181P) (pTau181), electrochemiluminescent immunoassay (ECLIA),"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233:  | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: cerebral spinal fluid, ratio reported as positive or negative for amyloid pathology | ",
+      "codes": [
+        "82233"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "cerebral spinal fluid, ratio reported as positive or negative for amyloid pathology"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233:  | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: Proprietary test: Elecsys® Phospho-Tau (181P) CSF (pTau181) and Β-Amyloid (1-42) CSF II (Abeta 42) Ratio | ",
+      "codes": [
+        "82233"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "Proprietary test: Elecsys® Phospho-Tau (181P) CSF (pTau181) and Β-Amyloid (1-42) CSF II (Abeta 42) Ratio"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233:  | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: Lab/Manufacturer: Roche Diagnostics Operations, Inc (US owner/operator) | ",
+      "codes": [
+        "82233"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "Lab/Manufacturer: Roche Diagnostics Operations, Inc (US owner/operator)"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233: 0459U | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: B-amyloid (Abeta42) and total tau (tTau), electrochemiluminescent immunoassay (ECLIA), cerebral spinal | ",
+      "codes": [
+        "82233",
+        "0459U"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "0459U",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "B-amyloid (Abeta42) and total tau (tTau), electrochemiluminescent immunoassay (ECLIA), cerebral spinal"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233:  | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: fluid, ratio reported as positive or negative for amyloid pathology | ",
+      "codes": [
+        "82233"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "fluid, ratio reported as positive or negative for amyloid pathology"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233:  | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: Proprietary test: Elecsys® Total Tau CSF (tTau) and Β-Amyloid (1-42) CSF II (Abeta 42) Ratio, | ",
+      "codes": [
+        "82233"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "Proprietary test: Elecsys® Total Tau CSF (tTau) and Β-Amyloid (1-42) CSF II (Abeta 42) Ratio,"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233:  | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: Lab/Manufacturer: Roche Diagnostics Operations, Inc (US owner/operator) | ",
+      "codes": [
+        "82233"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "Lab/Manufacturer: Roche Diagnostics Operations, Inc (US owner/operator)"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233: 0479U | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: Tau, phosphorylated, pTau217 | ",
+      "codes": [
+        "82233",
+        "0479U"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "0479U",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "Tau, phosphorylated, pTau217"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82233:  | Procedure code:  | Beta-amyloid; 1-40 (Abeta 40):  | Code description: Proprietary test: ALZpath pTau217, Neurocode USA, Inc, | ",
+      "codes": [
+        "82233"
+      ],
+      "table_data": {
+        "columns": [
+          "82233",
+          "Procedure code",
+          "Beta-amyloid; 1-40 (Abeta 40)",
+          "Code description",
+          ""
+        ],
+        "row": {
+          "82233": "",
+          "Procedure code": "",
+          "Beta-amyloid; 1-40 (Abeta 40)": "",
+          "Code description": "Proprietary test: ALZpath pTau217, Neurocode USA, Inc,"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 0503U* | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: Neurology (Alzheimer's disease), beta amyloid (AB40, AB42, AB42/40 ratio) and tau-protein (ptau217,",
+      "codes": [
+        "0503U"
+      ],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "Neurology (Alzheimer's disease), beta amyloid (AB40, AB42, AB42/40 ratio) and tau-protein (ptau217,"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes]  | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: np-tau217, ptau217/np-tau217 ratio), blood, immunoprecipitation with quantitation by liquid",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "np-tau217, ptau217/np-tau217 ratio), blood, immunoprecipitation with quantitation by liquid"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes]  | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: positive or negative for amyloid plaques",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "positive or negative for amyloid plaques"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes]  | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: Proprietary test: PrecivityAD2TM",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "Proprietary test: PrecivityAD2TM"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes]  | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: Lab Manufacturer: C2N Diagnostics, LLC",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "Lab Manufacturer: C2N Diagnostics, LLC"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 0547U | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: Neurofilament light chain (NfL), chemiluminescent enzyme immunoassay, plasma, quantitative",
+      "codes": [
+        "0547U"
+      ],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "Neurofilament light chain (NfL), chemiluminescent enzyme immunoassay, plasma, quantitative"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes]  | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: Proprietary test: Neurofilament Light Blood Test",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "Proprietary test: Neurofilament Light Blood Test"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes]  | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: Lab Manufacturer: Neurocode USA, Inc, Fujirebio Diagnostics, Inc",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "Lab Manufacturer: Neurocode USA, Inc, Fujirebio Diagnostics, Inc"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 0548U | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: Glial fibrillary acidic protein (GFAP), chemiluminescent enzyme immunoassay, using plasma",
+      "codes": [
+        "0548U"
+      ],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "Glial fibrillary acidic protein (GFAP), chemiluminescent enzyme immunoassay, using plasma"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes]  | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: Proprietary test: Glial Fibrillary Acidic Protein Blood Test",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "Proprietary test: Glial Fibrillary Acidic Protein Blood Test"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes]  | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: Lab Manufacturer: Neurocode USA, Inc, Fujirebio Diagnostics, Inc",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "Lab Manufacturer: Neurocode USA, Inc, Fujirebio Diagnostics, Inc"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 0568U* | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: Neurology (dementia), beta amyloid (AB40, AB42, AB42/40 ratio), tau-protein phosphorylated at residue",
+      "codes": [
+        "0568U"
+      ],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "Neurology (dementia), beta amyloid (AB40, AB42, AB42/40 ratio), tau-protein phosphorylated at residue"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes]  | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: (eg, pTau217), neurofilament light chain (NfL), and glial fibrillary acidic protein (GFAP), by ultra-high",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "(eg, pTau217), neurofilament light chain (NfL), and glial fibrillary acidic protein (GFAP), by ultra-high"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes]  | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: sensitivity molecule array detection, plasma, algorithm reported as positive, intermediate, or negative for",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "sensitivity molecule array detection, plasma, algorithm reported as positive, intermediate, or negative for"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes]  | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: Alzheimer's pathology",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "Alzheimer's pathology"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes]  | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: Lab Manufacturer: Quanterix Corporation, Quanterix Corporation",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "Lab Manufacturer: Quanterix Corporation, Quanterix Corporation"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 0596U | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: Neurology (Alzheimer's disease), plasma, 3 distinct isoform-specific peptides (APOE2, APOE3, and APOE4",
+      "codes": [
+        "0596U"
+      ],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "Neurology (Alzheimer's disease), plasma, 3 distinct isoform-specific peptides (APOE2, APOE3, and APOE4"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes]  | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: by liquid chromatography with tandem mass spectrometry (LC-MS/MS), reported as an APOE proteotype",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "by liquid chromatography with tandem mass spectrometry (LC-MS/MS), reported as an APOE proteotype"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes]  | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: Proprietary test: Precivity-ApoETM",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "Proprietary test: Precivity-ApoETM"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes]  | Procedure code:  | Code description Lab/Manufacturer: Quanterix/ALZpath: Lab Manufacturer: C2N Diagnostics, LLC",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Procedure code",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath"
+        ],
+        "row": {
+          "Procedure code": "",
+          "Code description Lab/Manufacturer: Quanterix/ALZpath": "Lab Manufacturer: C2N Diagnostics, LLC"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: CGS Administrators, LLC | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): MolDX: Repeat Germline\nTesting | Policy title:  | L36021: L38288 | Policy number:  | 0206U\n0207U\n0289U\n0412U\n0503U\n0568U: 0289U | Procedure code: ",
+      "codes": [
+        "0206U",
+        "0207U",
+        "0289U",
+        "0412U",
+        "0503U",
+        "0568U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0206U\n0207U\n0289U\n0412U\n0503U\n0568U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "CGS Administrators, LLC",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "MolDX: Repeat Germline\nTesting",
+          "Policy title": "",
+          "L36021": "L38288",
+          "Policy number": "",
+          "0206U\n0207U\n0289U\n0412U\n0503U\n0568U": "0289U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, Inc | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | L36021: L35160 | Policy number:  | 0206U\n0207U\n0289U\n0412U\n0503U\n0568U: 0206U\n0207U\n0289U\n0412U\n0503U\n0568U | Procedure code: ",
+      "codes": [
+        "0206U",
+        "0207U",
+        "0289U",
+        "0412U",
+        "0503U",
+        "0568U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0206U\n0207U\n0289U\n0412U\n0503U\n0568U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, Inc",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "L36021": "L35160",
+          "Policy number": "",
+          "0206U\n0207U\n0289U\n0412U\n0503U\n0568U": "0206U\n0207U\n0289U\n0412U\n0503U\n0568U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, Inc | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | L36021: L36256 | Policy number:  | 0206U\n0207U\n0289U\n0412U\n0503U\n0568U: 0206U\n0207U\n0289U\n0412U\n0503U\n0568U | Procedure code: ",
+      "codes": [
+        "0206U",
+        "0207U",
+        "0289U",
+        "0412U",
+        "0503U",
+        "0568U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0206U\n0207U\n0289U\n0412U\n0503U\n0568U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, Inc",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "L36021": "L36256",
+          "Policy number": "",
+          "0206U\n0207U\n0289U\n0412U\n0503U\n0568U": "0206U\n0207U\n0289U\n0412U\n0503U\n0568U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, Inc | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): MolDX: Repeat Germline\nTesting | Policy title:  | L36021: L38353 | Policy number:  | 0206U\n0207U\n0289U\n0412U\n0503U\n0568U: 0289U | Procedure code: ",
+      "codes": [
+        "0206U",
+        "0207U",
+        "0289U",
+        "0412U",
+        "0503U",
+        "0568U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0206U\n0207U\n0289U\n0412U\n0503U\n0568U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, Inc",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "MolDX: Repeat Germline\nTesting",
+          "Policy title": "",
+          "L36021": "L38353",
+          "Policy number": "",
+          "0206U\n0207U\n0289U\n0412U\n0503U\n0568U": "0289U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Palmetto GBA | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | L36021: L35025 | Policy number:  | 0206U\n0207U\n0289U\n0412U\n0503U\n0568U: 0206U\n0207U\n0289U\n0412U\n0503U\n0568U | Procedure code: ",
+      "codes": [
+        "0206U",
+        "0207U",
+        "0289U",
+        "0412U",
+        "0503U",
+        "0568U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0206U\n0207U\n0289U\n0412U\n0503U\n0568U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Palmetto GBA",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "L36021": "L35025",
+          "Policy number": "",
+          "0206U\n0207U\n0289U\n0412U\n0503U\n0568U": "0206U\n0207U\n0289U\n0412U\n0503U\n0568U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Palmetto GBA | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): MolDX: Repeat Germline\nTesting | Policy title:  | L36021: L38274 | Policy number:  | 0206U\n0207U\n0289U\n0412U\n0503U\n0568U: 0289U | Procedure code: ",
+      "codes": [
+        "0206U",
+        "0207U",
+        "0289U",
+        "0412U",
+        "0503U",
+        "0568U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0206U\n0207U\n0289U\n0412U\n0503U\n0568U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Palmetto GBA",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "MolDX: Repeat Germline\nTesting",
+          "Policy title": "",
+          "L36021": "L38274",
+          "Policy number": "",
+          "0206U\n0207U\n0289U\n0412U\n0503U\n0568U": "0289U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: WPS Insurance Corporation | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | L36021: L36807 | Policy number:  | 0206U\n0207U\n0289U\n0412U\n0503U\n0568U: 0206U\n0207U\n0289U\n0412U\n0503U\n0568U | Procedure code: ",
+      "codes": [
+        "0206U",
+        "0207U",
+        "0289U",
+        "0412U",
+        "0503U",
+        "0568U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0206U\n0207U\n0289U\n0412U\n0503U\n0568U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "WPS Insurance Corporation",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "L36021": "L36807",
+          "Policy number": "",
+          "0206U\n0207U\n0289U\n0412U\n0503U\n0568U": "0206U\n0207U\n0289U\n0412U\n0503U\n0568U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: WPS Insurance Corporation | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): MolDX: Repeat Germline\nTesting | Policy title:  | L36021: L38429 | Policy number:  | 0206U\n0207U\n0289U\n0412U\n0503U\n0568U: 0289U | Procedure code: ",
+      "codes": [
+        "0206U",
+        "0207U",
+        "0289U",
+        "0412U",
+        "0503U",
+        "0568U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0206U\n0207U\n0289U\n0412U\n0503U\n0568U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "WPS Insurance Corporation",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "MolDX: Repeat Germline\nTesting",
+          "Policy title": "",
+          "L36021": "L38429",
+          "Policy number": "",
+          "0206U\n0207U\n0289U\n0412U\n0503U\n0568U": "0289U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nFor individuals with a diagnosis of Alzheimer's disease, mild cognitive impairment or dementia, measurement of the following biomarkers IS REIMBURSABLE:\n\nAmyloid beta peptides (CPT Code 82233, CPT code 82234, CPT code 0358U)\n\nThe ratio (CPT code 0459U) of total tau (t-tau) (CPT code 84394) to amyloid beta 1-42 (Aβ42) (CPT code 82234)\n\nThe ratio (CPT code 0445U) of phosphorylated tau 181 (p-tau181) (CPT code 84393) to Aβ42 (CPT code 82234)\n\nThe ratio of p-tau 217 (p-tau217) (CPT code 84393, CPT code 0479U) to Aβ42 (CPT code 82234)\n\nWhen not ordered in conjunction with Aβ42 (CPT code 82234), measurement of the following biomarkers IS NOT REIMBURSABLE:\n\nt-tau (CPT code 84394)\n\np-tau181 (CPT code 84393)\n\np-tau217 (CPT code 84393, CPT code 0479U)\n\nFor individuals with a diagnosis of Alzheimer's disease, mild cognitive impairment or dementia, measurement of other biomarkers (CPT code 83520, CPT code 83884, CPT code 0547U) IS NOT REIMBURSABLE.\n\nFor individuals with a diagnosis of Alzheimer's disease, mild cognitive impairment or dementia, measurement of all other cerebral spinal fluid biomarkers (CPT code 0393U, CPT code 0443U, CPT code 0548U) or plasma biomarkers (CPT code 0479U, CPT code 0551U) IS NOT REIMBURSABLE.\n\nThe use of DISCERNTM (CPT code 0206U*, CPT code 0207U*) IS NOT REIMBURSABLE.\n\nThe use of other multianalyte assays (CPT code 0412U*, CPT code 0503U*, CPT code 0568U*, CPT code 0596U) for Alzheimer's disease or dementia IS NOT REIMBURSABLE.\n\nGene expression profiling to predict development of Alzheimer's disease (CPT code 0289U**) IS NOT REIMBURSABLE.\n\n82233\n\n82234\n\n83520 Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative, not otherwise specified 83884\n\n84393\n\n84394\n\n0206U* Neurology (Alzheimer's disease); cell aggregation using morphometric imaging and protein kinase C- epsilon (PKCe) concentration in response to amylospheroid treatment by ELISA, cultured skin fibroblasts, each reported as positive or negative for Alzheimer's disease\n\n0207U* Neurology (Alzheimer's disease); Quantitative imaging of phosphorylated ERK1 and ERK2 in response to bradykinin treatment by in situ immunofluorescence, using cultured skin fibroblasts, reported as a probability index for Alzheimer's disease (List separately in addition to code for primary procedure)\n\n0289U** Neurology (Alzheimer's disease), mRNA, gene expression profiling by RNA sequencing of 24 genes, whole blood, algorithm reported as predictive risk score\n\nLab/Manufacturer: MindX SciencesTM Laboratory/MindX SciencesTM Inc 0358U Neurology (mild cognitive impairment), analysis of B-amyloid 1- and 1-40, chemiluminescence enzyme immunoassay, cerebral spinal fluid, reported as positive, likely positive, or negative\n\n0393U Neurology (eg, Parkinson disease, dementia with Lewy bodies), cerebrospinal fluid (CSF), detection of misfolded a-synuclein protein by seed amplification assay, qualitative\n\n0412U* Beta amyloid, AB42/40 ratio, immunoprecipitation with quantitation by liquid chromatography with tandem mass spectrometry (LC-MS/MS) and qualitative ApoE isoform-specific proteotyping, plasma combined with age, algorithm reported as presence or absence of brain amyloid pathology\n\n0443U Neurofilament light chain (NfL), ultra-sensitive immunoassay, serum or cerebrospinal fluid\n\nLab/Manufacturer: Neuromuscular Clinical Laboratory at Washington University in St. Louis School of\n\n0445U B-amyloid (Abeta42) and phospho tau (181P) (pTau181), electrochemiluminescent immunoassay (ECLIA), cerebral spinal fluid, ratio reported as positive or negative for amyloid pathology Proprietary test: Elecsys® Phospho-Tau (181P) CSF (pTau181) and Β-Amyloid (1-42) CSF II (Abeta 42) Ratio Lab/Manufacturer: Roche Diagnostics Operations, Inc (US owner/operator) 0459U B-amyloid (Abeta42) and total tau (tTau), electrochemiluminescent immunoassay (ECLIA), cerebral spinal fluid, ratio reported as positive or negative for amyloid pathology Proprietary test: Elecsys® Total Tau CSF (tTau) and Β-Amyloid (1-42) CSF II (Abeta 42) Ratio, Lab/Manufacturer: Roche Diagnostics Operations, Inc (US owner/operator) 0479U\n\nProprietary test: ALZpath pTau217, Neurocode USA, Inc,\n\n0503U* Neurology (Alzheimer's disease), beta amyloid (AB40, AB42, AB42/40 ratio) and tau-protein (ptau217, np-tau217, ptau217/np-tau217 ratio), blood, immunoprecipitation with quantitation by liquid chromatography with tandem mass spectrometry (LC-MS/MS), algorithm score reported as likelihood of positive or negative for amyloid plaques\n\n0547U Neurofilament light chain (NfL), chemiluminescent enzyme immunoassay, plasma, quantitative\n\n0548U Glial fibrillary acidic protein (GFAP), chemiluminescent enzyme immunoassay, using plasma\n\n0568U* Neurology (dementia), beta amyloid (AB40, AB42, AB42/40 ratio), tau-protein phosphorylated at residue (eg, pTau217), neurofilament light chain (NfL), and glial fibrillary acidic protein (GFAP), by ultra-high sensitivity molecule array detection, plasma, algorithm reported as positive, intermediate, or negative for\n\n0596U Neurology (Alzheimer's disease), plasma, 3 distinct isoform-specific peptides (APOE2, APOE3, and APOE4) by liquid chromatography with tandem mass spectrometry (LC-MS/MS), reported as an APOE proteotype\n\n* The payment criteria for 0206U, 0207U, 0412U, 0503U and 0568U applies to all Medicare jurisdictions except those states awarded to CGS Administrators, LLC;\n\nNoridian Healthcare Solutions, LLC; Palmetto GBA; and WPS Insurance Corporation.\n\n**The payment criteria for 0289U applies to all Medicare Jurisdictions except those states awarded to CGS Administrators; Noridian Healthcare Solutions, LLC; Palmetto\n\nGBA; and WPS Insurance Corporation; First Coast Service Options, Inc. and Novitas Solutions, Inc.\n\nL36021 0206U 0207U 0289U 0412U 0503U 0568U\n\nL38288 0289U\n\nL35160 0206U 0207U 0289U 0412U 0503U 0568U\n\nL36256 0206U 0207U 0289U 0412U 0503U 0568U\n\nL38351 0289U\n\nL38353 0289U\n\nL35025 0206U 0207U 0289U 0412U 0503U 0568U\n\nL38274 0289U\n\nL36807 0206U 0207U 0289U 0412U 0503U 0568U\n\nL38429 0289U"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

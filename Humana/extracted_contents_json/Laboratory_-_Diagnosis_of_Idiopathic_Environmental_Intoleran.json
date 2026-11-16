@@ -1,0 +1,2686 @@
+{
+  "policy_title": "Laboratory - Diagnosis of Idiopathic Environmental",
+  "policy_number": "LAB2023040",
+  "effective_date": "07/2023",
+  "published_date": "07/2023",
+  "revision_date": "05/2026",
+  "source_pdf": "Laboratory_-_Diagnosis_of_Idiopathic_Environmental_Intolerance_Revised-12c2384f.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 5,
+  "table_count": 3,
+  "block_count": 105,
+  "CPT_CODES_USED": [
+    "82441",
+    "83497",
+    "82705",
+    "82710",
+    "82715",
+    "83015",
+    "83018",
+    "83918",
+    "83919",
+    "83921",
+    "82127",
+    "82136",
+    "82139",
+    "82300",
+    "82379",
+    "82380",
+    "82495",
+    "82507",
+    "82525",
+    "82542",
+    "82653",
+    "82656",
+    "82978",
+    "83150",
+    "83735",
+    "83785",
+    "83885",
+    "84134",
+    "84255",
+    "84446",
+    "84585",
+    "84590",
+    "84600",
+    "84630",
+    "86001",
+    "89125",
+    "S3708",
+    "S2212",
+    "30444",
+    "01785"
+  ],
+  "MODIFIERS_USED": [
+    "LC",
+    "MS",
+    "GC",
+    "78",
+    "24",
+    "26",
+    "22",
+    "54",
+    "79"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "82441",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83497",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82705",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82710",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82715",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83015",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83018",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83918",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83919",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83921",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82127",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82136",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82139",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82300",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82379",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82380",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82495",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82507",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82525",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82542",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82653",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82656",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82978",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83150",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83735",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83785",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83885",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84134",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84255",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84446",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84585",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84590",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84600",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84630",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86001",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "89125",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "S3708",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "S2212",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "30444",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01785",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "At a general wellness exam, testing for chlorinated pesticides (CPT code 82441), including dichlorodiphenyldichloroethylene (DDE) and dichlorodiphenyltrichloroethane (DDT), using a blood, serum, plasma, saliva, urine or stool sample IS NOT REIMBURSABLE.",
+      "codes": [
+        "82441"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "At a general wellness exam for individuals over the age of four, testing blood, serum, plasma, saliva, urine or stool sample IS NOT REIMBURSABLE for any of the following:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "5-Hydroxyindolacetic acid (5-HIAA) (CPT code 83497)",
+      "codes": [
+        "83497"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Elastase (CPT code 82653, CPT code 82656)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Elastase (CPT code 82653, CPT code 82656)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Elastase (CPT code 82653, CPT code 82656)",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Fat differentiation, qualitative or quantitative (CPT code 82705, CPT code 82710, CPT code 82715)",
+      "codes": [
+        "82705",
+        "82710",
+        "82715"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Vanillylmandelic acid (VMA) (CPT code 84585)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Vanillylmandelic acid (VMA) (CPT code 84585)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Vanillylmandelic acid (VMA) (CPT code 84585)",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "At a general wellness exam, testing blood, serum, urine, cerebrospinal fluid, fingernails, hair or stool sample IS NOT REIMBURSABLE for any of the following:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Copper (CPT code 82525***)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Copper (CPT code 82525***)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Copper (CPT code 82525***)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Heavy metal, qualitative or quantitative (CPT code 83015***, CPT code 83018***)",
+      "codes": [
+        "83015",
+        "83018"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Nickel (CPT code 83885***)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Nickel (CPT code 83885***)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Nickel (CPT code 83885***)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Organic acids, qualitative or quantitative (CPT code 83918, CPT code 83919, CPT code 83921)",
+      "codes": [
+        "83918",
+        "83919",
+        "83921"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82127",
+      "codes": [
+        "82127"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Amino acids; single, qualitative, each specimen",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Amino acids; single, qualitative, each specimen",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Amino acids; single, qualitative, each specimen",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82136",
+      "codes": [
+        "82136"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Amino acids, 2 to 5 amino acids, quantitative, each specimen",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Amino acids, 2 to 5 amino acids, quantitative, each specimen",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Amino acids, 2 to 5 amino acids, quantitative, each specimen",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82139",
+      "codes": [
+        "82139"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Amino acids, 6 or more amino acids, quantitative, each specimen",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Amino acids, 6 or more amino acids, quantitative, each specimen",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Amino acids, 6 or more amino acids, quantitative, each specimen",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82300***",
+      "codes": [
+        "82300"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Cadmium",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Cadmium",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Cadmium",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82379^^",
+      "codes": [
+        "82379"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Carnitine (total and free), quantitative, each specimen",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Carnitine (total and free), quantitative, each specimen",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Carnitine (total and free), quantitative, each specimen",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82380",
+      "codes": [
+        "82380"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Carotene",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Carotene",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Carotene",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82441",
+      "codes": [
+        "82441"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Chlorinated hydrocarbons, screen",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Chlorinated hydrocarbons, screen",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Chlorinated hydrocarbons, screen",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82495***",
+      "codes": [
+        "82495"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Chromium",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Chromium",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Chromium",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82507",
+      "codes": [
+        "82507"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Citrate",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Citrate",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Citrate",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82525***",
+      "codes": [
+        "82525"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Copper",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Copper",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Copper",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82542 Column chromatography, includes mass spectrometry, if performed (eg, HPLC, LC, LC/MS, LC/MS-MS, GC, GC/MS-MS, GC/MS, HPLC/MS), non-drug analyte(s) not elsewhere specified, qualitative or quantitative, each specimen 82653",
+      "codes": [
+        "82542",
+        "82653"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Elastase, pancreatic (EL-1), fecal; quantitative",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Elastase, pancreatic (EL-1), fecal; quantitative",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Elastase, pancreatic (EL-1), fecal; quantitative",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82656 Elastase, pancreatic (EL-1), fecal, qualitative or semi-quantitative 82705",
+      "codes": [
+        "82656",
+        "82705"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Fat or lipids, feces; qualitative",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Fat or lipids, feces; qualitative",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Fat or lipids, feces; qualitative",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82710",
+      "codes": [
+        "82710"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Fat or lipids, feces; quantitative",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Fat or lipids, feces; quantitative",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Fat or lipids, feces; quantitative",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82715",
+      "codes": [
+        "82715"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Fat differential, feces, quantitative",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Fat differential, feces, quantitative",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Fat differential, feces, quantitative",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82978",
+      "codes": [
+        "82978"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Glutathione",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Glutathione",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Glutathione",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83015*** Heavy metal (eg, antimony, arsenic, barium, beryllium, bismuth, gadolinium, mercury); qualitative, any number of analytes 83018*** Heavy metal (eg, antimony, arsenic, barium, beryllium, bismuth, gadolinium, mercury); quantitative, each, not elsewhere specified 83150",
+      "codes": [
+        "83015",
+        "83018",
+        "83150"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Homovanillic acid (HVA)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Homovanillic acid (HVA)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Homovanillic acid (HVA)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83497",
+      "codes": [
+        "83497"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Hydroxyindolacetic acid, 5-(HIAA)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Hydroxyindolacetic acid, 5-(HIAA)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Hydroxyindolacetic acid, 5-(HIAA)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83735*^",
+      "codes": [
+        "83735"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Magnesium",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Magnesium",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Magnesium",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83785***",
+      "codes": [
+        "83785"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Manganese",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Manganese",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Manganese",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83885***",
+      "codes": [
+        "83885"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Nickel",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Nickel",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Nickel",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83918",
+      "codes": [
+        "83918"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Organic acids; total, quantitative, each specimen",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Organic acids; total, quantitative, each specimen",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Organic acids; total, quantitative, each specimen",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83919",
+      "codes": [
+        "83919"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Organic acids; qualitative, each specimen",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Organic acids; qualitative, each specimen",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Organic acids; qualitative, each specimen",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83921",
+      "codes": [
+        "83921"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Organic acid, single, quantitative",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Organic acid, single, quantitative",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Organic acid, single, quantitative",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84134",
+      "codes": [
+        "84134"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Prealbumin",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Prealbumin",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Prealbumin",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84255***",
+      "codes": [
+        "84255"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Selenium",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Selenium",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Selenium",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84446^^",
+      "codes": [
+        "84446"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tocopherol alpha (Vitamin E)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tocopherol alpha (Vitamin E)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tocopherol alpha (Vitamin E)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84585",
+      "codes": [
+        "84585"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Vanillylmandelic acid (VMA), urine",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Vanillylmandelic acid (VMA), urine",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Vanillylmandelic acid (VMA), urine",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84590^^",
+      "codes": [
+        "84590"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Vitamin A",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Vitamin A",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Vitamin A",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "84600",
+      "codes": [
+        "84600"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Volatiles (e.g., acetic anhydride, diethylether)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Volatiles (e.g., acetic anhydride, diethylether)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Volatiles (e.g., acetic anhydride, diethylether)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "84630***",
+      "codes": [
+        "84630"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Zinc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Zinc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Zinc",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "86001* Allergen specific IgG quantitative or semiquantitative, each allergen 89125",
+      "codes": [
+        "86001",
+        "89125"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Fat stain, feces, urine, or respiratory secretions",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Fat stain, feces, urine, or respiratory secretions",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Fat stain, feces, urine, or respiratory secretions",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "S3708",
+      "codes": [
+        "S3708"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Gastrointestinal fat absorption study",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Gastrointestinal fat absorption study",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Gastrointestinal fat absorption study",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "* The payment criterion for 86001 applies to all Medicare jurisdictions except for those states awarded to First Coast Service Options, Wisconsin Physicians Service",
+      "codes": [
+        "86001"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Gastrointestinal fat absorption study",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Gastrointestinal fat absorption study",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Gastrointestinal fat absorption study",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Insurance Corporation, CGS Administrators, LLC, National Government Services, and Novitas Solutions, Inc.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Gastrointestinal fat absorption study",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Gastrointestinal fat absorption study",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Gastrointestinal fat absorption study",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "*^ The payment criterion for 83735 applies to all Medicare jurisdictions, except those states awarded to Noridian Healthcare Solutions, and Palmetto GBA.",
+      "codes": [
+        "83735"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Gastrointestinal fat absorption study",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Gastrointestinal fat absorption study",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Gastrointestinal fat absorption study",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "^^ The payment criterion for 82379, 84446, 84590 applies to all Medicare jurisdictions, except those states awarded to Novitas Solutions.",
+      "codes": [
+        "82379",
+        "84446",
+        "84590"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Gastrointestinal fat absorption study",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Gastrointestinal fat absorption study",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Gastrointestinal fat absorption study",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "*** The payment criteria for 83785, 82300, 83015, 83885, 82495, 84255, 84630, 82525, and 83018 apply to all Medicare jurisdictions, except those states awarded to",
+      "codes": [
+        "83785",
+        "82300",
+        "83015",
+        "83885",
+        "82495",
+        "84255",
+        "84630",
+        "82525",
+        "83018"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Gastrointestinal fat absorption study",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Gastrointestinal fat absorption study",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Gastrointestinal fat absorption study",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "National Government Services, Inc.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "RAST Type Tests",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "RAST Type Tests",
+      "hierarchy_path": "Medicare Advantage Payment Policy > RAST Type Tests",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L34063 86001 First Coast Service Options, Inc.",
+      "codes": [
+        "86001"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Allergy Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Allergy Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Allergy Testing",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L33261 86001",
+      "codes": [
+        "86001"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "National Government",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "National Government",
+      "hierarchy_path": "Medicare Advantage Payment Policy > National Government",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Services, Inc.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Heavy Metal Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Heavy Metal Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Heavy Metal Testing",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L35074 82300 82495 82525 83015 83018 83785 83885 84255 84630",
+      "codes": [
+        "82300",
+        "82495",
+        "82525",
+        "83015",
+        "83018",
+        "83785",
+        "83885",
+        "84255",
+        "84630"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "National Government",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "National Government",
+      "hierarchy_path": "Medicare Advantage Payment Policy > National Government",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Services, Inc.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "RAST Type Tests",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "RAST Type Tests",
+      "hierarchy_path": "Medicare Advantage Payment Policy > RAST Type Tests",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L33591 86001",
+      "codes": [
+        "86001"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Serum Magnesium",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Serum Magnesium",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Serum Magnesium",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L36702 83735 Novitas Solutions, Inc.",
+      "codes": [
+        "83735"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Allergy Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Allergy Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Allergy Testing",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L36241 86001 Novitas Solutions, Inc.",
+      "codes": [
+        "86001"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Metabolic Function",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Metabolic Function",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Metabolic Function",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L34914 82379 84446 84590",
+      "codes": [
+        "82379",
+        "84446",
+        "84590"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Magnesium",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Magnesium",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Magnesium",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L39400 83735",
+      "codes": [
+        "83735"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Allergy Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Allergy Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Allergy Testing",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L36402 86001",
+      "codes": [
+        "86001"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "AAAAI. (1986). Clinical ecology. Executive Committee of the American Academy of Allergy and Immunology. J Allergy Clin Immunol, 78(2), 269-271. AAAAI. (1999). Idiopathic environmental intolerances. American Academy of Allergy, Asthma and Immunology (AAAAI) Board of Directors. J Allergy Clin Immunol, 103(1 Pt 1), 36-40. ACOEM. (1999). ACOEM position statement. Multiple chemical sensitivities: idiopathic environmental intolerance. College of Occupational and Environmental Medicine. J Occup Environ Med, 41(11), 940-942. ACP. (1989). Clinical ecology. American College of Physicians. Ann Intern Med, 111(2), 168-178. AMA. (1992). Clinical ecology. Council on Scientific Affairs, American Medical Association. Jama, 268(24), 3465-3467. AND. (2017). Should Albumin and Prealbumin Be Used as Indicators for Malnutrition? https://jandonline.org/article/S2212- 2672(17)30444-6/pdf",
+      "codes": [
+        "S2212",
+        "30444"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "ANSES. (2018). OPINION of the French Agency for Food, Environmental and Occupational Health & Safety regarding the expert appraisal on \"electromagnetic hypersensitivity (EHS) or idiopathic environmental intolerance attributed to electromagnetic fields (IEI-EMF)\". https://www.anses.fr/en/system/files/AP2011SA0150EN.pdf Barsky, A. J., & Borus, J. F. (1999). Functional somatic syndromes. Ann Intern Med, 130(11), 910-921. Bharadwaj, S., Ginoya, S., Tandon, P., Gohel, T. D., Guirguis, J., Vallabh, H., Jevenn, A., & Hanouneh, I. (2016). Malnutrition: laboratory markers vs nutritional assessment. Gastroenterol Rep (Oxf), 4(4), 272-280. https://doi.org/10.1093/gastro/gow013 Black, D. W., Carver, R. J., & Carver, L. A. (2020, July). Idiopathic Environmental Intolerance (Multiple Chemical Sensitivity; Environmental Illness). Merck Sharp & Dohme Corp. https://www.merckmanuals.com/professional/special-subjects/idiopathic- environmental-intolerance/idiopathic-environmental-intolerance Black, D., & Temple, S. (2021, May 29). Idiopathic environmental intolerance (multiple chemical sensitivity). UptoDate. https://www.uptodate.com/contents/idiopathic-environmental-intolerance-multiple-chemical-sensitivity Bratten, J. R., Spanier, J., & Jones, M. P. (2008). Lactulose breath testing does not discriminate patients with irritable bowel syndrome from healthy controls. Am J Gastroenterol, 103(4), 958-963. https://doi.org/10.1111/j.1572-0241.2008.01785.x Bush, R. K., Portnoy, J. M., Saxon, A., Terr, A. I., & Wood, R. A. (2006). The medical effects of mold exposure. J Allergy Clin Immunol, 117(2), 326-333. https://doi.org/10.1016/j.jaci.2005.12.001 Eltiti, S., Wallace, D., Russo, R., & Fox, E. (2018). Symptom Presentation in Idiopathic Environmental Intolerance With Attribution to Electromagnetic Fields: Evidence for a Nocebo Effect Based on Data Re-Analyzed From Two Previous Provocation Studies. Front",
+      "codes": [
+        "01785"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Psychol, 9, 1563. https://doi.org/10.3389/fpsyg.2018.01563",
+      "section": "References",
+      "subsection": "Psychol, 9, 1563. https://doi.org/10.3389/fpsyg.2018.01563",
+      "hierarchy_path": "References > Psychol, 9, 1563. https://doi.org/10.3389/fpsyg.2018.01563",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Genova. (2020). Testing Services Overview. https://www.gdx.net/files/clinicians/how-to-order/Genova-Diagnostics-Testing-Services-",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Overview.pdf",
+      "section": "References",
+      "subsection": "Overview.pdf",
+      "hierarchy_path": "References > Overview.pdf",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Genova. (2021a). NutrEval® FMV. Retrieved 1/5/21 from https://www.gdx.net/product/nutreval-fmv-nutritional-test-blood-urine Genova. (2021b). ONE (Optimal Nutritional Evaluation) FMVTM. Retrieved 1/5/21 from https://www.gdx.net/product/one-fmv- nutritional-test-urine Genova. (2021c). Organix® Comprehensive Profile - Urine. Retrieved 1/5/21 from https://www.gdx.net/product/organix- comprehensive-profile-metabolic-function-test-urine Genova. (2021d). TRIAD® Bloodspot Profile. Retrieved 1/5/21 from https://www.gdx.net/product/triad-bloodspot-profile-metabolic- nutritional-test-blood-spot Ghoshal, U. C., Srivastava, D., Ghoshal, U., & Misra, A. (2014). Breath tests in the diagnosis of small intestinal bacterial overgrowth in patients with irritable bowel syndrome in comparison with quantitative upper gut aspirate culture. Eur J Gastroenterol Hepatol, 26(7), 753-760. https://doi.org/10.1097/meg.0000000000000122 Gilbody, S., Richards, D., Brealey, S., & Hewitt, C. (2007). Screening for depression in medical settings with the Patient Health Questionnaire (PHQ): a diagnostic meta-analysis. J Gen Intern Med, 22(11), 1596-1602. https://doi.org/10.1007/s11606-007- 0333-y Houston, M. C. (2013). The role of nutrition, nutraceuticals, vitamins, antioxidants, and minerals in the prevention and treatment of hypertension. Altern Ther Health Med, 19 Suppl 1, 32-49. https://www.ncbi.nlm.nih.gov/pubmed/23981465 Huang, P. C., Cheng, M. T., & Guo, H. R. (2018). Representative survey on idiopathic environmental intolerance attributed to electromagnetic fields in Taiwan and comparison with the international literature. Environ Health, 17(1), 5. https://doi.org/10.1186/s12940-018-0351-8 LifeExtension. (2020). Nutrient Panel Blood Test. https://www.lifeextension.com/lab-testing/itemlc100024/nutrient-panel-blood- test Martini, A., Iavicoli, S., & Corso, L. (2013). Multiple chemical sensitivity and the workplace: current position and need for an occupational health surveillance protocol. Oxid Med Cell Longev, 2013, 351457. https://doi.org/10.1155/2013/351457 Mouzaki, M., Bronsky, J., Gupte, G., Hojsak, I., Jahnel, J., Pai, N., Quiros-Tejeira, R. E., Wieman, R., & Sundaram, S. (2019). Nutrition Support of Children With Chronic Liver Diseases: A Joint Position Paper of the North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition and the European Society for Pediatric Gastroenterology, Hepatology, and Nutrition. J Pediatr Gastroenterol Nutr, 69(4), 498-511. https://doi.org/10.1097/mpg.0000000000002443 Multiple chemical sensitivity: a 1999 consensus. (1999). Arch Environ Health, 54(3), 147-149. https://doi.org/10.1080/00039899909602251 Pimentel, M. (2020, February 27). Small intestinal bacterial overgrowth: Clinical manifestations and diagnosis. https://www.uptodate.com/contents/small-intestinal-bacterial-overgrowth-clinical-manifestations-and-diagnosis",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Overview.pdf",
+      "section": "References",
+      "subsection": "Overview.pdf",
+      "hierarchy_path": "References > Overview.pdf",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Quarato, M., De Maria, L., Caputi, A., Cavone, D., Cannone, E. S. S., Mansi, F., Gatti, M. F., & Vimercati, L. (2020). A case report of idiopathic environmental intolerance: A controversial and current issue. Clin Case Rep, 8(1), 79-85. https://doi.org/10.1002/ccr3.2535 Rezaie, A., Buresi, M., Lembo, A., Lin, H., McCallum, R., Rao, S., Schmulson, M., Valdovinos, M., Zakko, S., & Pimentel, M. (2017). Hydrogen and Methane-Based Breath Testing in Gastrointestinal Disorders: The North American Consensus. Am J Gastroenterol, 112(5), 775-784. https://doi.org/10.1038/ajg.2017.46 Rossi, S., & Pitidis, A. (2018). Multiple Chemical Sensitivity: Review of the State of the Art in Epidemiology, Diagnosis, and Future Perspectives. J Occup Environ Med, 60(2), 138-146. https://doi.org/10.1097/jom.0000000000001215 Schmiedchen, K., Driessen, S., & Oftedal, G. (2019). Methodological limitations in experimental studies on symptom development in individuals with idiopathic environmental intolerance attributed to electromagnetic fields (IEI-EMF) - a systematic review. Environ Health, 18(1), 88. https://doi.org/10.1186/s12940-019-0519-x SpectaCell. (2021). Micronutrient Test Panel. Retrieved 1/5/21 from https://www.spectracell.com/micronutrient-test-panel SpectraCell. (2008). SPECTROXTM (Total Antioxidant Function). https://assets.speakcdn.com/Assets/2606/0e2022931_supplement- spectrox.pdf Usai-Satta, P., Giannetti, C., Oppia, F., & Cabras, F. (2018). The North American Consensus on Breath Testing: The Controversial Diagnostic Role of Lactulose in SIBO. Am J Gastroenterol, 113(3), 440. https://doi.org/10.1038/ajg.2017.392 Vibrant. (2017). MICRONUTRIENTS. https://www.vibrant-america.com/micronutrient/",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 82136 | Procedure code:  | Amino acids; single, qualitative, each specimen: Amino acids, 2 to 5 amino acids, quantitative, each specimen | Code description: ",
+      "codes": [
+        "82127",
+        "82136"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "82136",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Amino acids, 2 to 5 amino acids, quantitative, each specimen",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 82139 | Procedure code:  | Amino acids; single, qualitative, each specimen: Amino acids, 6 or more amino acids, quantitative, each specimen | Code description: ",
+      "codes": [
+        "82127",
+        "82139"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "82139",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Amino acids, 6 or more amino acids, quantitative, each specimen",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 82300*** | Procedure code:  | Amino acids; single, qualitative, each specimen: Cadmium | Code description: ",
+      "codes": [
+        "82127",
+        "82300"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "82300***",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Cadmium",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 82379^^ | Procedure code:  | Amino acids; single, qualitative, each specimen: Carnitine (total and free), quantitative, each specimen | Code description: ",
+      "codes": [
+        "82127",
+        "82379"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "82379^^",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Carnitine (total and free), quantitative, each specimen",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 82380 | Procedure code:  | Amino acids; single, qualitative, each specimen: Carotene | Code description: ",
+      "codes": [
+        "82127",
+        "82380"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "82380",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Carotene",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 82441 | Procedure code:  | Amino acids; single, qualitative, each specimen: Chlorinated hydrocarbons, screen | Code description: ",
+      "codes": [
+        "82127",
+        "82441"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "82441",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Chlorinated hydrocarbons, screen",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 82495*** | Procedure code:  | Amino acids; single, qualitative, each specimen: Chromium | Code description: ",
+      "codes": [
+        "82127",
+        "82495"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "82495***",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Chromium",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 82507 | Procedure code:  | Amino acids; single, qualitative, each specimen: Citrate | Code description: ",
+      "codes": [
+        "82127",
+        "82507"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "82507",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Citrate",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 82525*** | Procedure code:  | Amino acids; single, qualitative, each specimen: Copper | Code description: ",
+      "codes": [
+        "82127",
+        "82525"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "82525***",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Copper",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 82542 | Procedure code:  | Amino acids; single, qualitative, each specimen: Column chromatography, includes mass spectrometry, if performed (eg, HPLC, LC, LC/MS, LC/MS-MS, GC,\nGC/MS-MS, GC/MS, HPLC/MS), non-drug analyte(s) not elsewhere specified, qualitative or quantitative,\neach specimen | Code description: ",
+      "codes": [
+        "82127",
+        "82542"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "82542",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Column chromatography, includes mass spectrometry, if performed (eg, HPLC, LC, LC/MS, LC/MS-MS, GC,\nGC/MS-MS, GC/MS, HPLC/MS), non-drug analyte(s) not elsewhere specified, qualitative or quantitative,\neach specimen",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 82653 | Procedure code:  | Amino acids; single, qualitative, each specimen: Elastase, pancreatic (EL-1), fecal; quantitative | Code description: ",
+      "codes": [
+        "82127",
+        "82653"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "82653",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Elastase, pancreatic (EL-1), fecal; quantitative",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 82656 | Procedure code:  | Amino acids; single, qualitative, each specimen: Elastase, pancreatic (EL-1), fecal, qualitative or semi-quantitative | Code description: ",
+      "codes": [
+        "82127",
+        "82656"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "82656",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Elastase, pancreatic (EL-1), fecal, qualitative or semi-quantitative",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 82705 | Procedure code:  | Amino acids; single, qualitative, each specimen: Fat or lipids, feces; qualitative | Code description: ",
+      "codes": [
+        "82127",
+        "82705"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "82705",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Fat or lipids, feces; qualitative",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 82710 | Procedure code:  | Amino acids; single, qualitative, each specimen: Fat or lipids, feces; quantitative | Code description: ",
+      "codes": [
+        "82127",
+        "82710"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "82710",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Fat or lipids, feces; quantitative",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 82715 | Procedure code:  | Amino acids; single, qualitative, each specimen: Fat differential, feces, quantitative | Code description: ",
+      "codes": [
+        "82127",
+        "82715"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "82715",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Fat differential, feces, quantitative",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 82978 | Procedure code:  | Amino acids; single, qualitative, each specimen: Glutathione | Code description: ",
+      "codes": [
+        "82127",
+        "82978"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "82978",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Glutathione",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 83015*** | Procedure code:  | Amino acids; single, qualitative, each specimen: Heavy metal (eg, antimony, arsenic, barium, beryllium, bismuth, gadolinium, mercury); qualitative, any\nnumber of analytes | Code description: ",
+      "codes": [
+        "82127",
+        "83015"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "83015***",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Heavy metal (eg, antimony, arsenic, barium, beryllium, bismuth, gadolinium, mercury); qualitative, any\nnumber of analytes",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 83018*** | Procedure code:  | Amino acids; single, qualitative, each specimen: Heavy metal (eg, antimony, arsenic, barium, beryllium, bismuth, gadolinium, mercury); quantitative,\neach, not elsewhere specified | Code description: ",
+      "codes": [
+        "82127",
+        "83018"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "83018***",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Heavy metal (eg, antimony, arsenic, barium, beryllium, bismuth, gadolinium, mercury); quantitative,\neach, not elsewhere specified",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 83150 | Procedure code:  | Amino acids; single, qualitative, each specimen: Homovanillic acid (HVA) | Code description: ",
+      "codes": [
+        "82127",
+        "83150"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "83150",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Homovanillic acid (HVA)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 83497 | Procedure code:  | Amino acids; single, qualitative, each specimen: Hydroxyindolacetic acid, 5-(HIAA) | Code description: ",
+      "codes": [
+        "82127",
+        "83497"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "83497",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Hydroxyindolacetic acid, 5-(HIAA)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 83735*^ | Procedure code:  | Amino acids; single, qualitative, each specimen: Magnesium | Code description: ",
+      "codes": [
+        "82127",
+        "83735"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "83735*^",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Magnesium",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 83785*** | Procedure code:  | Amino acids; single, qualitative, each specimen: Manganese | Code description: ",
+      "codes": [
+        "82127",
+        "83785"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "83785***",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Manganese",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 83885*** | Procedure code:  | Amino acids; single, qualitative, each specimen: Nickel | Code description: ",
+      "codes": [
+        "82127",
+        "83885"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "83885***",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Nickel",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 83918 | Procedure code:  | Amino acids; single, qualitative, each specimen: Organic acids; total, quantitative, each specimen | Code description: ",
+      "codes": [
+        "82127",
+        "83918"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "83918",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Organic acids; total, quantitative, each specimen",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 83919 | Procedure code:  | Amino acids; single, qualitative, each specimen: Organic acids; qualitative, each specimen | Code description: ",
+      "codes": [
+        "82127",
+        "83919"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "83919",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Organic acids; qualitative, each specimen",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 83921 | Procedure code:  | Amino acids; single, qualitative, each specimen: Organic acid, single, quantitative | Code description: ",
+      "codes": [
+        "82127",
+        "83921"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "83921",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Organic acid, single, quantitative",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 84134 | Procedure code:  | Amino acids; single, qualitative, each specimen: Prealbumin | Code description: ",
+      "codes": [
+        "82127",
+        "84134"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "84134",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Prealbumin",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 84255*** | Procedure code:  | Amino acids; single, qualitative, each specimen: Selenium | Code description: ",
+      "codes": [
+        "82127",
+        "84255"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "84255***",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Selenium",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 84446^^ | Procedure code:  | Amino acids; single, qualitative, each specimen: Tocopherol alpha (Vitamin E) | Code description: ",
+      "codes": [
+        "82127",
+        "84446"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "84446^^",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Tocopherol alpha (Vitamin E)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 84585 | Procedure code:  | Amino acids; single, qualitative, each specimen: Vanillylmandelic acid (VMA), urine | Code description: ",
+      "codes": [
+        "82127",
+        "84585"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "84585",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Vanillylmandelic acid (VMA), urine",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82127: 84590^^ | Procedure code:  | Amino acids; single, qualitative, each specimen: Vitamin A | Code description: ",
+      "codes": [
+        "82127",
+        "84590"
+      ],
+      "table_data": {
+        "columns": [
+          "82127",
+          "Procedure code",
+          "Amino acids; single, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82127": "84590^^",
+          "Procedure code": "",
+          "Amino acids; single, qualitative, each specimen": "Vitamin A",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "References",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "References > Policy Schedule and Criteria Table",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] 84600: 84630*** | Volatiles (e.g., acetic anhydride, diethylether): Zinc",
+      "codes": [
+        "84600",
+        "84630"
+      ],
+      "table_data": {
+        "columns": [
+          "84600",
+          "Volatiles (e.g., acetic anhydride, diethylether)"
+        ],
+        "row": {
+          "84600": "84630***",
+          "Volatiles (e.g., acetic anhydride, diethylether)": "Zinc"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "References",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "References > Policy Schedule and Criteria Table",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] 84600: 86001* | Volatiles (e.g., acetic anhydride, diethylether): Allergen specific IgG quantitative or semiquantitative, each allergen",
+      "codes": [
+        "84600",
+        "86001"
+      ],
+      "table_data": {
+        "columns": [
+          "84600",
+          "Volatiles (e.g., acetic anhydride, diethylether)"
+        ],
+        "row": {
+          "84600": "86001*",
+          "Volatiles (e.g., acetic anhydride, diethylether)": "Allergen specific IgG quantitative or semiquantitative, each allergen"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "References",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "References > Policy Schedule and Criteria Table",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] 84600: 89125 | Volatiles (e.g., acetic anhydride, diethylether): Fat stain, feces, urine, or respiratory secretions",
+      "codes": [
+        "84600",
+        "89125"
+      ],
+      "table_data": {
+        "columns": [
+          "84600",
+          "Volatiles (e.g., acetic anhydride, diethylether)"
+        ],
+        "row": {
+          "84600": "89125",
+          "Volatiles (e.g., acetic anhydride, diethylether)": "Fat stain, feces, urine, or respiratory secretions"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "References",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "References > Policy Schedule and Criteria Table",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] 84600: S3708 | Volatiles (e.g., acetic anhydride, diethylether): Gastrointestinal fat absorption study",
+      "codes": [
+        "84600",
+        "S3708"
+      ],
+      "table_data": {
+        "columns": [
+          "84600",
+          "Volatiles (e.g., acetic anhydride, diethylether)"
+        ],
+        "row": {
+          "84600": "S3708",
+          "Volatiles (e.g., acetic anhydride, diethylether)": "Gastrointestinal fat absorption study"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators. LLC: First Coast Service Options,\nInc. | Contractor name:  | RAST Type Tests: Allergy Testing | Policy title:  | L34063: L33261 | Policy number:  | 86001: 86001 | Procedure code: ",
+      "codes": [
+        "86001"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators. LLC",
+          "Contractor name",
+          "RAST Type Tests",
+          "Policy title",
+          "L34063",
+          "Policy number",
+          "86001",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators. LLC": "First Coast Service Options,\nInc.",
+          "Contractor name": "",
+          "RAST Type Tests": "Allergy Testing",
+          "Policy title": "",
+          "L34063": "L33261",
+          "Policy number": "",
+          "86001": "86001",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators. LLC: National Government\nServices, Inc. | Contractor name:  | RAST Type Tests: Heavy Metal Testing | Policy title:  | L34063: L35074 | Policy number:  | 86001: 82300\n82495\n82525\n83015\n83018\n83785\n83885\n84255\n84630 | Procedure code: ",
+      "codes": [
+        "86001",
+        "82300",
+        "82495",
+        "82525",
+        "83015",
+        "83018",
+        "83785",
+        "83885",
+        "84255",
+        "84630"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators. LLC",
+          "Contractor name",
+          "RAST Type Tests",
+          "Policy title",
+          "L34063",
+          "Policy number",
+          "86001",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators. LLC": "National Government\nServices, Inc.",
+          "Contractor name": "",
+          "RAST Type Tests": "Heavy Metal Testing",
+          "Policy title": "",
+          "L34063": "L35074",
+          "Policy number": "",
+          "86001": "82300\n82495\n82525\n83015\n83018\n83785\n83885\n84255\n84630",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators. LLC: National Government\nServices, Inc. | Contractor name:  | RAST Type Tests: RAST Type Tests | Policy title:  | L34063: L33591 | Policy number:  | 86001: 86001 | Procedure code: ",
+      "codes": [
+        "86001"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators. LLC",
+          "Contractor name",
+          "RAST Type Tests",
+          "Policy title",
+          "L34063",
+          "Policy number",
+          "86001",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators. LLC": "National Government\nServices, Inc.",
+          "Contractor name": "",
+          "RAST Type Tests": "RAST Type Tests",
+          "Policy title": "",
+          "L34063": "L33591",
+          "Policy number": "",
+          "86001": "86001",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators. LLC: Noridian Healthcare\nSolutions, LLC | Contractor name:  | RAST Type Tests: Serum Magnesium | Policy title:  | L34063: L36702 | Policy number:  | 86001: 83735 | Procedure code: ",
+      "codes": [
+        "86001",
+        "83735"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators. LLC",
+          "Contractor name",
+          "RAST Type Tests",
+          "Policy title",
+          "L34063",
+          "Policy number",
+          "86001",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators. LLC": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "RAST Type Tests": "Serum Magnesium",
+          "Policy title": "",
+          "L34063": "L36702",
+          "Policy number": "",
+          "86001": "83735",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators. LLC: Novitas Solutions, Inc. | Contractor name:  | RAST Type Tests: Allergy Testing | Policy title:  | L34063: L36241 | Policy number:  | 86001: 86001 | Procedure code: ",
+      "codes": [
+        "86001"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators. LLC",
+          "Contractor name",
+          "RAST Type Tests",
+          "Policy title",
+          "L34063",
+          "Policy number",
+          "86001",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators. LLC": "Novitas Solutions, Inc.",
+          "Contractor name": "",
+          "RAST Type Tests": "Allergy Testing",
+          "Policy title": "",
+          "L34063": "L36241",
+          "Policy number": "",
+          "86001": "86001",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators. LLC: Novitas Solutions, Inc. | Contractor name:  | RAST Type Tests: Assays for Vitamins and\nMetabolic Function | Policy title:  | L34063: L34914 | Policy number:  | 86001: 82379\n84446\n84590 | Procedure code: ",
+      "codes": [
+        "86001",
+        "82379",
+        "84446",
+        "84590"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators. LLC",
+          "Contractor name",
+          "RAST Type Tests",
+          "Policy title",
+          "L34063",
+          "Policy number",
+          "86001",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators. LLC": "Novitas Solutions, Inc.",
+          "Contractor name": "",
+          "RAST Type Tests": "Assays for Vitamins and\nMetabolic Function",
+          "Policy title": "",
+          "L34063": "L34914",
+          "Policy number": "",
+          "86001": "82379\n84446\n84590",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators. LLC: Palmetto GBA | Contractor name:  | RAST Type Tests: Magnesium | Policy title:  | L34063: L39400 | Policy number:  | 86001: 83735 | Procedure code: ",
+      "codes": [
+        "86001",
+        "83735"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators. LLC",
+          "Contractor name",
+          "RAST Type Tests",
+          "Policy title",
+          "L34063",
+          "Policy number",
+          "86001",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators. LLC": "Palmetto GBA",
+          "Contractor name": "",
+          "RAST Type Tests": "Magnesium",
+          "Policy title": "",
+          "L34063": "L39400",
+          "Policy number": "",
+          "86001": "83735",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators. LLC: Wisconsin Physicians Service\nInsurance Corporation | Contractor name:  | RAST Type Tests: Allergy Testing | Policy title:  | L34063: L36402 | Policy number:  | 86001: 86001 | Procedure code: ",
+      "codes": [
+        "86001"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators. LLC",
+          "Contractor name",
+          "RAST Type Tests",
+          "Policy title",
+          "L34063",
+          "Policy number",
+          "86001",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators. LLC": "Wisconsin Physicians Service\nInsurance Corporation",
+          "Contractor name": "",
+          "RAST Type Tests": "Allergy Testing",
+          "Policy title": "",
+          "L34063": "L36402",
+          "Policy number": "",
+          "86001": "86001",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nAt a general wellness exam, testing for chlorinated pesticides (CPT code 82441), including dichlorodiphenyldichloroethylene (DDE) and dichlorodiphenyltrichloroethane (DDT), using a blood, serum, plasma, saliva, urine or stool sample IS NOT REIMBURSABLE.\n\nAt a general wellness exam for individuals over the age of four, testing blood, serum, plasma, saliva, urine or stool sample IS NOT REIMBURSABLE for any of the following:\n\n5-Hydroxyindolacetic acid (5-HIAA) (CPT code 83497)\n\nFat differentiation, qualitative or quantitative (CPT code 82705, CPT code 82710, CPT code 82715)\n\nAt a general wellness exam, testing blood, serum, urine, cerebrospinal fluid, fingernails, hair or stool sample IS NOT REIMBURSABLE for any of the following:\n\nHeavy metal, qualitative or quantitative (CPT code 83015***, CPT code 83018***)\n\nOrganic acids, qualitative or quantitative (CPT code 83918, CPT code 83919, CPT code 83921)\n\n82127\n\n82136\n\n82139\n\n82300***\n\n82379^^\n\n82380\n\n82441\n\n82495***\n\n82507\n\n82525***\n\n82542 Column chromatography, includes mass spectrometry, if performed (eg, HPLC, LC, LC/MS, LC/MS-MS, GC, GC/MS-MS, GC/MS, HPLC/MS), non-drug analyte(s) not elsewhere specified, qualitative or quantitative, each specimen 82653\n\n82656 Elastase, pancreatic (EL-1), fecal, qualitative or semi-quantitative 82705\n\n82710\n\n82715\n\n82978\n\n83015*** Heavy metal (eg, antimony, arsenic, barium, beryllium, bismuth, gadolinium, mercury); qualitative, any number of analytes 83018*** Heavy metal (eg, antimony, arsenic, barium, beryllium, bismuth, gadolinium, mercury); quantitative, each, not elsewhere specified 83150\n\n83497\n\n83735*^\n\n83785***\n\n83885***\n\n83918\n\n83919\n\n83921\n\n84134\n\n84255***\n\n84446^^\n\n84585\n\n84590^^\n\n84600\n\n84630***\n\n86001* Allergen specific IgG quantitative or semiquantitative, each allergen 89125\n\nS3708\n\n* The payment criterion for 86001 applies to all Medicare jurisdictions except for those states awarded to First Coast Service Options, Wisconsin Physicians Service\n\nInsurance Corporation, CGS Administrators, LLC, National Government Services, and Novitas Solutions, Inc.\n\n*^ The payment criterion for 83735 applies to all Medicare jurisdictions, except those states awarded to Noridian Healthcare Solutions, and Palmetto GBA.\n\n^^ The payment criterion for 82379, 84446, 84590 applies to all Medicare jurisdictions, except those states awarded to Novitas Solutions.\n\n*** The payment criteria for 83785, 82300, 83015, 83885, 82495, 84255, 84630, 82525, and 83018 apply to all Medicare jurisdictions, except those states awarded to\n\nNational Government Services, Inc.\n\nL34063 86001 First Coast Service Options, Inc.\n\nL33261 86001\n\nServices, Inc.\n\nL35074 82300 82495 82525 83015 83018 83785 83885 84255 84630\n\nServices, Inc.\n\nL33591 86001\n\nL36702 83735 Novitas Solutions, Inc.\n\nL36241 86001 Novitas Solutions, Inc.\n\nL34914 82379 84446 84590\n\nL39400 83735\n\nL36402 86001"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

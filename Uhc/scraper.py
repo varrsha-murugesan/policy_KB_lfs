@@ -48,8 +48,15 @@ CATEGORIES = {
 # OUTPUT DIRECTORIES
 # ============================================================
 BASE_DIR    = os.path.dirname(os.path.abspath(__file__))
-MEDICARE_DIR  = os.path.join(BASE_DIR, "medicare_advantage_plans")
-COMMERCIAL_DIR = os.path.join(BASE_DIR, "commercial_plans")
+MEDICARE_DIR   = os.path.join(BASE_DIR, "Medicare_advantage")
+COMMERCIAL_DIR = os.path.join(BASE_DIR, "Commercial")
+
+# Folder names used on disk for each policy category:
+#   Commercial/ and Medicare_advantage/ each get one sub-folder per category.
+CATEGORY_FOLDERS = {
+    "Reimbursement":    "Reimbursement policy",
+    "Medical_and_Drug": "medical and drug policy",
+}
 
 # ============================================================
 # CSV  –  columns: index | line_of_business | category | policy_title
@@ -182,7 +189,7 @@ def scrape_and_download(line_of_business, category_name, url,
     # --------------------------------------------------------
     # CREATE OUTPUT DIRECTORY
     # --------------------------------------------------------
-    output_dir = os.path.join(base_output_dir, category_name)
+    output_dir = os.path.join(base_output_dir, CATEGORY_FOLDERS.get(category_name, category_name))
     os.makedirs(output_dir, exist_ok=True)
     print(f"\nLatest policies found: {len(policies)}")
 

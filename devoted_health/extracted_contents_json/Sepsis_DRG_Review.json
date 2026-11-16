@@ -1,0 +1,1594 @@
+{
+  "policy_title": "Sepsis DRG Review",
+  "policy_number": "CLMS.CP.0021",
+  "effective_date": "2026-10-19",
+  "version": "1.3",
+  "source_pdf": "Sepsis_DRG_Review.pdf",
+  "source_url": "https://assets.devoted.com/Providers/PP_38_Sepsis",
+  "line_of_business": "Medicare Advantage",
+  "billing_class": "Institutional",
+  "page_count": 5,
+  "revision_history": [
+    {
+      "date": "2026-10-19",
+      "document_num": "CLMS.CP.0021",
+      "version_num": "1.3"
+    },
+    {
+      "date": "2025-12-23",
+      "document_num": "CLMS.CP.0021",
+      "version_num": "1.2"
+    },
+    {
+      "date": "2024-12-02",
+      "document_num": "CLMS.CP.0021",
+      "version_num": "1.1"
+    },
+    {
+      "date": "2024-08-13",
+      "document_num": "CLMS.CP.0021",
+      "version_num": "1.0"
+    }
+  ],
+  "table_count": 1,
+  "codes_found": {
+    "cpt_hcpcs": [
+      "42016"
+    ],
+    "modifiers": [],
+    "revenue_codes": [],
+    "bill_types": [
+      "0111-0119"
+    ],
+    "icd_codes": [
+      "X12"
+    ]
+  },
+  "CPT_CODES_USED": [
+    "42016"
+  ],
+  "sections_summary": [
+    "OVERVIEW",
+    "PURPOSE",
+    "APPLICABILITY",
+    "POLICY",
+    "WHAT WE COVER",
+    "HOW TO BILL YOUR CLAIMS",
+    "ACRONYMS AND DEFINITIONS",
+    "RESPONSIBILITIES",
+    "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+    "REVIEW AND VERSION HISTORY"
+  ],
+  "tables": [
+    {
+      "table_id": "tab_p5_1",
+      "title": "Table (Page 5)",
+      "page_number": 5,
+      "bbox": [
+        54.12000020345052,
+        106.42999267578125,
+        557.8800048828125,
+        189.8900146484375
+      ],
+      "columns": [
+        "Date",
+        "Document #",
+        "Version #"
+      ],
+      "row_count": 4,
+      "col_count": 3,
+      "rows": [
+        {
+          "Date": "2026-10-19",
+          "Document #": "CLMS.CP.0021",
+          "Version #": "1.3"
+        },
+        {
+          "Date": "2025-12-23",
+          "Document #": "CLMS.CP.0021",
+          "Version #": "1.2"
+        },
+        {
+          "Date": "2024-12-02",
+          "Document #": "CLMS.CP.0021",
+          "Version #": "1.1"
+        },
+        {
+          "Date": "2024-08-13",
+          "Document #": "CLMS.CP.0021",
+          "Version #": "1.0"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        [
+          "2026-10-19",
+          "CLMS.CP.0021",
+          "1.3"
+        ],
+        [
+          "2025-12-23",
+          "CLMS.CP.0021",
+          "1.2"
+        ],
+        [
+          "2024-12-02",
+          "CLMS.CP.0021",
+          "1.1"
+        ],
+        [
+          "2024-08-13",
+          "CLMS.CP.0021",
+          "1.0"
+        ]
+      ],
+      "markdown": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-10-19 | CLMS.CP.0021 | 1.3 |\n| 2025-12-23 | CLMS.CP.0021 | 1.2 |\n| 2024-12-02 | CLMS.CP.0021 | 1.1 |\n| 2024-08-13 | CLMS.CP.0021 | 1.0 |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    }
+  ],
+  "extracted_content": [
+    {
+      "id": "item_0001",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Sepsis DRG Review",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0002",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "[CLMS.CP.0021] 2026-10-19",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0003",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0021 - 2026-10-19 v1.3",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0004",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0005",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0006",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Page 1 of 5",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0007",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "PURPOSE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0008",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Clinical criteria for the identification and treatment of sepsis were established in 1991, but",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0009",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "have been revised over time to reflect the significant advances in the understanding of the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0010",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "biopathology and management of the disease. The first revision in 2001, known as Sepsis-2,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0011",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "was the prevailing standard until Sepsis-3 was defined in 2016. This policy states our adoption",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0012",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "of Sepsis-3 as the clinical criteria to be used when considering the medical necessity of",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0013",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "sepsis-related treatment.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0014",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "APPLICABILITY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0015",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy applies to all Devoted Health plans.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0016",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "POLICY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0017",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "WHAT WE COVER",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0018",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "We cover medically necessary inpatient services for the treatment of sepsis, which is defined",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0019",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "as \"a life-threatening organ dysfunction caused by a dysregulated host response to infection\"",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0020",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "and septic shock as \"a subset of sepsis in which underlying circulatory and cellular/metabolic",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0021",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "abnormalities are profound enough to substantially increase mortality.\"4",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0022",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "We will consider services medically necessary when our member's medical record indicates",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0023",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "the following:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0024",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Suspected or documented infection, and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0025",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● A qSOFA score of 2 or more:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0026",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ GCS less than 14, or more than 1 point less than baseline.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0027",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Systolic blood pressure less than or equal to 100 mmHg;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0028",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Respiratory rate greater than or equal to 22 BPM.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0029",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "OR",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0030",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Suspected or documented infection, and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0031",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● An acute increase of 2 or more SOFA points (baseline can be assumed to be 0 when",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0032",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "there is no known pre-existing organ dysfunction).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0033",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "We will consider the services billed for septic shock medically necessary when our member's",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0034",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "medical record indicates the following:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0035",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Diagnosis of sepsis;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0036",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0021 - 2026-10-19 v1.3",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0037",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0038",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0039",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Page 2 of 5",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0040",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Persisting hypotension requiring vasopressors to maintain a MAP greater than or equal",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0041",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "to 65 mmhg;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0042",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Persistent lactic acidemia (serum lactate level greater than 2 mmol/L).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0043",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Authorization is required for all inpatient admissions. You must notify us about emergent",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0044",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "admissions within one business day of the admission date for concurrent review and care",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0045",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "planning.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0046",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "HOW TO BILL YOUR CLAIMS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0047",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Bill your inpatient hospital claims on an institutional (UB-04) claim form or its X12 837I",
+      "codes": [
+        "X12"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0048",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "electronic equivalent using bill type 0111-0119. We will conduct post-payment reviews of",
+      "codes": [
+        "0111-0119"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0049",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "claims billed and ICD-10-PCS coding defined by the CMS ICD-10/PCS MS-DRG Definition",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0050",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Manual.5",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0051",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "We reimburse inpatient claims according to IPPS payment rules and all services are",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0052",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "considered inclusive of the DRG payment. Please see your contract for specific details.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0053",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Charges for claims denied for lack of authorization can't be billed to our members, you may",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0054",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "only bill the appropriate cost-share listed under \"Inpatient Hospital Services'' in the EOC. If",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0055",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "you believe your claim was denied incorrectly and would like us to reconsider, please follow",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0056",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "our Provider Dispute process outlined in your provider manual.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0057",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "ACRONYMS AND DEFINITIONS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0058",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "definition",
+      "content": "BPM: Breaths per minute",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0059",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "definition",
+      "content": "GCS: Glasgow Coma Scale1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0060",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "definition",
+      "content": "mmHg: Millimeters of mercury",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0061",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "definition",
+      "content": "mmol/L: Millimoles per liter of blood",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0062",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "definition",
+      "content": "MAP: Mean Arterial Pressure",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0063",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "definition",
+      "content": "SOFA: Sequential [Sepsis-related] Organ Failure Assessment2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0064",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "definition",
+      "content": "qSOFA: Quick Sequential [Sepsis-related] Organ Failure Assessment3",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0065",
+      "title": "RESPONSIBILITIES",
+      "section": "RESPONSIBILITIES",
+      "subsection": null,
+      "hierarchy_path": [
+        "RESPONSIBILITIES"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "RESPONSIBILITIES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0066",
+      "title": "RESPONSIBILITIES",
+      "section": "RESPONSIBILITIES",
+      "subsection": null,
+      "hierarchy_path": [
+        "RESPONSIBILITIES"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0067",
+      "title": "RESPONSIBILITIES",
+      "section": "RESPONSIBILITIES",
+      "subsection": null,
+      "hierarchy_path": [
+        "RESPONSIBILITIES"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "REGULATORY REFERENCE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0068",
+      "title": "Glasgow Coma Scale",
+      "section": "RESPONSIBILITIES",
+      "subsection": "Glasgow Coma Scale",
+      "hierarchy_path": [
+        "RESPONSIBILITIES",
+        "Glasgow Coma Scale"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "Glasgow Coma Scale",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0069",
+      "title": "Glasgow Coma Scale",
+      "section": "RESPONSIBILITIES",
+      "subsection": "Glasgow Coma Scale",
+      "hierarchy_path": [
+        "RESPONSIBILITIES",
+        "Glasgow Coma Scale"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "2SOFA Score",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0070",
+      "title": "Glasgow Coma Scale",
+      "section": "RESPONSIBILITIES",
+      "subsection": "Glasgow Coma Scale",
+      "hierarchy_path": [
+        "RESPONSIBILITIES",
+        "Glasgow Coma Scale"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0021 - 2026-10-19 v1.3",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0071",
+      "title": "Glasgow Coma Scale",
+      "section": "RESPONSIBILITIES",
+      "subsection": "Glasgow Coma Scale",
+      "hierarchy_path": [
+        "RESPONSIBILITIES",
+        "Glasgow Coma Scale"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0072",
+      "title": "Glasgow Coma Scale",
+      "section": "RESPONSIBILITIES",
+      "subsection": "Glasgow Coma Scale",
+      "hierarchy_path": [
+        "RESPONSIBILITIES",
+        "Glasgow Coma Scale"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0073",
+      "title": "Glasgow Coma Scale",
+      "section": "RESPONSIBILITIES",
+      "subsection": "Glasgow Coma Scale",
+      "hierarchy_path": [
+        "RESPONSIBILITIES",
+        "Glasgow Coma Scale"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Page 3 of 5",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0074",
+      "title": "3,42016 Sepsis Definition Consensus Statement",
+      "section": "RESPONSIBILITIES",
+      "subsection": "3,42016 Sepsis Definition Consensus Statement",
+      "hierarchy_path": [
+        "RESPONSIBILITIES",
+        "3,42016 Sepsis Definition Consensus Statement"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "3,42016 Sepsis Definition Consensus Statement",
+      "codes": [
+        "42016"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0075",
+      "title": "3,42016 Sepsis Definition Consensus Statement",
+      "section": "RESPONSIBILITIES",
+      "subsection": "3,42016 Sepsis Definition Consensus Statement",
+      "hierarchy_path": [
+        "RESPONSIBILITIES",
+        "3,42016 Sepsis Definition Consensus Statement"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "5MDC 18, Infectious and parasitic diseases, systemic or unspecified sites",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0076",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0077",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Submitting Authorizations and Referrals",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0078",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0021 - 2026-10-19 v1.3",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0079",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0080",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0081",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Page 4 of 5",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0082",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "header",
+      "content": "REVIEW AND VERSION HISTORY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0083",
+      "title": "Table (Page 5)",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "table",
+      "content": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-10-19 | CLMS.CP.0021 | 1.3 |\n| 2025-12-23 | CLMS.CP.0021 | 1.2 |\n| 2024-12-02 | CLMS.CP.0021 | 1.1 |\n| 2024-08-13 | CLMS.CP.0021 | 1.0 |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p5_1",
+        "title": "Table (Page 5)",
+        "columns": [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        "row_count": 4,
+        "rows": [
+          {
+            "Date": "2026-10-19",
+            "Document #": "CLMS.CP.0021",
+            "Version #": "1.3"
+          },
+          {
+            "Date": "2025-12-23",
+            "Document #": "CLMS.CP.0021",
+            "Version #": "1.2"
+          },
+          {
+            "Date": "2024-12-02",
+            "Document #": "CLMS.CP.0021",
+            "Version #": "1.1"
+          },
+          {
+            "Date": "2024-08-13",
+            "Document #": "CLMS.CP.0021",
+            "Version #": "1.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0084",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Prior versions are available upon request",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0085",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0021 - 2026-10-19 v1.3",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0086",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0087",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0088",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Page 5 of 5",
+      "codes": [],
+      "table_data": null
+    }
+  ]
+}

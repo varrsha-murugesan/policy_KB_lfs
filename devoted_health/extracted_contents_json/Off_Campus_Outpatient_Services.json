@@ -1,0 +1,1834 @@
+{
+  "policy_title": "Off Campus Outpatient Services",
+  "policy_number": "CLMS.CP.0030",
+  "effective_date": "2026-04-26",
+  "version": "2.2",
+  "source_pdf": "Off_Campus_Outpatient_Services.pdf",
+  "source_url": "https://assets.devoted.com/Providers/policy_outpatient_clinic_services",
+  "line_of_business": "Medicare Advantage",
+  "billing_class": "Both",
+  "page_count": 5,
+  "revision_history": [
+    {
+      "date": "2026-04-26",
+      "document_num": "CLMS.CP.0030",
+      "version_num": "2.2"
+    },
+    {
+      "date": "2026-03-30",
+      "document_num": "CLMS.CP.0030",
+      "version_num": "2.1"
+    },
+    {
+      "date": "2025-05-28",
+      "document_num": "CLMS.CP.0030",
+      "version_num": "2.0"
+    },
+    {
+      "date": "2024-08-14",
+      "document_num": "CLMS.CP.0030",
+      "version_num": "1.1"
+    },
+    {
+      "date": "2024-03-08",
+      "document_num": "PP-25",
+      "version_num": "1.0"
+    },
+    {
+      "date": "2023-06-01",
+      "document_num": "PP-25",
+      "version_num": "0.0"
+    }
+  ],
+  "table_count": 1,
+  "codes_found": {
+    "cpt_hcpcs": [
+      "61142"
+    ],
+    "modifiers": [
+      "25",
+      "PN",
+      "PO"
+    ],
+    "revenue_codes": [],
+    "bill_types": [],
+    "icd_codes": []
+  },
+  "CPT_CODES_USED": [
+    "61142"
+  ],
+  "sections_summary": [
+    "OVERVIEW",
+    "PURPOSE",
+    "APPLICABILITY",
+    "POLICY",
+    "ACRONYMS AND DEFINITIONS",
+    "RESPONSIBILITIES",
+    "N/A",
+    "REGULATORY REFERENCE",
+    "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+    "REVIEW AND VERSION HISTORY"
+  ],
+  "tables": [
+    {
+      "table_id": "tab_p5_1",
+      "title": "Table (Page 5)",
+      "page_number": 5,
+      "bbox": [
+        54.12000020345052,
+        106.42999267578125,
+        557.8800048828125,
+        223.27001953125
+      ],
+      "columns": [
+        "Date",
+        "Document #",
+        "Version #"
+      ],
+      "row_count": 6,
+      "col_count": 3,
+      "rows": [
+        {
+          "Date": "2026-04-26",
+          "Document #": "CLMS.CP.0030",
+          "Version #": "2.2"
+        },
+        {
+          "Date": "2026-03-30",
+          "Document #": "CLMS.CP.0030",
+          "Version #": "2.1"
+        },
+        {
+          "Date": "2025-05-28",
+          "Document #": "CLMS.CP.0030",
+          "Version #": "2.0"
+        },
+        {
+          "Date": "2024-08-14",
+          "Document #": "CLMS.CP.0030",
+          "Version #": "1.1"
+        },
+        {
+          "Date": "2024-03-08",
+          "Document #": "PP-25",
+          "Version #": "1.0"
+        },
+        {
+          "Date": "2023-06-01",
+          "Document #": "PP-25",
+          "Version #": "0.0"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        [
+          "2026-04-26",
+          "CLMS.CP.0030",
+          "2.2"
+        ],
+        [
+          "2026-03-30",
+          "CLMS.CP.0030",
+          "2.1"
+        ],
+        [
+          "2025-05-28",
+          "CLMS.CP.0030",
+          "2.0"
+        ],
+        [
+          "2024-08-14",
+          "CLMS.CP.0030",
+          "1.1"
+        ],
+        [
+          "2024-03-08",
+          "PP-25",
+          "1.0"
+        ],
+        [
+          "2023-06-01",
+          "PP-25",
+          "0.0"
+        ]
+      ],
+      "markdown": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-04-26 | CLMS.CP.0030 | 2.2 |\n| 2026-03-30 | CLMS.CP.0030 | 2.1 |\n| 2025-05-28 | CLMS.CP.0030 | 2.0 |\n| 2024-08-14 | CLMS.CP.0030 | 1.1 |\n| 2024-03-08 | PP-25 | 1.0 |\n| 2023-06-01 | PP-25 | 0.0 |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [
+          "25"
+        ],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    }
+  ],
+  "extracted_content": [
+    {
+      "id": "item_0001",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Off-Campus Outpatient",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0002",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0003",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "[CLMS.CP.0030] 2026-04-26",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0004",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0030 - 2026-04-26 v2.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0005",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0006",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0007",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Page 1 of 5",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0008",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "PURPOSE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0009",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "In 2019, CMS finalized a site-neutral policy reducing the payment rate for services rendered by",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0010",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "off-campus provider-based hospital departments (PBD). The payment rate was reduced to 40% of the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0011",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Outpatient Prospective Payment System (OPPS), codified at 42 CFR § 419.48(a).1 This reduction",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0012",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "applies to both excepted PBDs (billing with modifier PO) and non-excepted PBDs (billing with",
+      "codes": [
+        "PO"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0013",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "modifier PN). For non-excepted off-campus PBDs, CMS applied a 60% reduction, reimbursing services",
+      "codes": [
+        "PN"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0014",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "at approximately 40% of the OPPS rate, aligning with the Physician Fee Schedule (PFS) rates. . This",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0015",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "phased-in reduction began in CY2019 with a 30% reduction in payments and was fully implemented",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0016",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "in CY20202. This policy documents how we process claims for services provided in these locations,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0017",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "including application of the PO and PN modifiers and corresponding payment reductions, and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0018",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "outlines the outcomes of claims submitted without appropriate modifiers.3",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0019",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "APPLICABILITY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0020",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy applies to all Devoted Health plans.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0021",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "POLICY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0022",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Consistent with CMS regulations and 42 CFR § 419.48(a)1 , we require modifier PO and/or PN to be",
+      "codes": [
+        "PO"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0023",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "reported on claims for services rendered in an off-campus provider-based department, as defined in",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0024",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "this policy:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0025",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Modifier PO must be reported on claims submitted by all excepted off-campus PBDs.6",
+      "codes": [
+        "PO"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0026",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Modifier PN must be reported on claims submitted by all non-excepted off-campus PBDs.6",
+      "codes": [
+        "PN"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0027",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy does not apply to:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0028",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Critical Access Hospitals (CAHs).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0029",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Any facility that does not meet the definition of provider-based under 42 CFR § 413.65.4",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0030",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "When Devoted Health receives professional claims billed with place of service code 19 and the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0031",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "associated facility claim is billed without one of the appropriate service setting modifiers, Devoted",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0032",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "will use claim history to determine the appropriate payment methodology. If Devoted determines",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0033",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "that the claim should have been submitted with either modifier PO or PN, we will apply the payment",
+      "codes": [
+        "PO"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0034",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "reduction. Payments are subject to retrospective review to ensure accuracy and claims that were not",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0035",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "billed accordingly are subject to adjustment.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0036",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0030 - 2026-04-26 v2.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0037",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0038",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0039",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Page 2 of 5",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0040",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Claim Submission and Reimbursement",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0041",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Devoted Health processes claims according to Medicare OPPS and PFS payment rules, unless",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0042",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "otherwise specified by your contract. This includes, but is not limited to, Ambulatory Payment",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0043",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Classification (APC) grouping, Payment Status Indicators (SI), and Packaging of services.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0044",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Modifier PO must be reported when billing hospital outpatient services that are performed in an",
+      "codes": [
+        "PO"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0045",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "excepted off-campus provider-based department of a hospital under the OPPS.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0046",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Modifier PN must be reported on every claim line for non-excepted items and services furnished by",
+      "codes": [
+        "PN"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0047",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "an off-campus, outpatient, provider-based department of a hospital.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0048",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Add PO or PN modifier(s) to each HCPCS line item on the UB-04 claim when the service is:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0049",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Provided in an off-campus hospital outpatient department",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0050",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● The department is provider-based to the hospital",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0051",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● The department is \"excepted\" under Section 603",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0052",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● The service is billed under OPPS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0053",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Services furnished in an emergency department are exempt from these billing requirements.6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0054",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "ACRONYMS AND DEFINITIONS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0055",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Excepted Department: A department of a main provider that meets the statutory criteria",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0056",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "defined by CMS.1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0057",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Outpatient Prospective Payment System (OPPS): a payment methodology that pays",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0058",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "predetermined, fixed amounts based on average national costs that are adjusted based on",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0059",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "geographic variances.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0060",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Provider-based Department (PBD): A department or clinic that is under the same name and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0061",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "ownership of the main provider, including financial and administrative management.4",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0062",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● PN Modifier: Identifies services furnished in non-excepted off-campus PBDs, subject to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0063",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "payment reductions.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0064",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● PO Modifier: Identifies services furnished in excepted off-campus PBDs, subject to payment",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0065",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "reductions.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0066",
+      "title": "RESPONSIBILITIES",
+      "section": "RESPONSIBILITIES",
+      "subsection": null,
+      "hierarchy_path": [
+        "RESPONSIBILITIES"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "RESPONSIBILITIES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0067",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0068",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0030 - 2026-04-26 v2.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0069",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0070",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0071",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Page 3 of 5",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0072",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "REGULATORY REFERENCE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0073",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "●",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0074",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "142 CFR 419, Subpart D. §419.48(b): Definition of excepted items and services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0075",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "●",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0076",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "2CY 2020 Hospital Outpatient Prospective Payment System (OPPS) and Ambulatory Surgical",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0077",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Center (ASC) Payment System Final Rule (84 FR 61142)",
+      "codes": [
+        "61142"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0078",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "●",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0079",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "3Federal Register, Vol. 83, No. 225: Method to Control Unnecessary Increases in Volume of",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0080",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Outpatient Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0081",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "●",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0082",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "442 CFR 413, Subpart E. §413.65(2): Definitions, \"Campus\"",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0083",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "●",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0084",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "definition",
+      "content": "5SE18002: Billing Requirements for OPPS Providers with Multiple Service Locations5Hospital",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0085",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "definition",
+      "content": "Outpatient Prospective Payment System: April 2024 Update",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0086",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "●",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0087",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "6Medicare Claims Processing Manual, Chapter 4, §20.6.11 and 20.6.12",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0088",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0089",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0090",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0030 - 2026-04-26 v2.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0091",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0092",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0093",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Page 4 of 5",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0094",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "header",
+      "content": "REVIEW AND VERSION HISTORY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0095",
+      "title": "Table (Page 5)",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "table",
+      "content": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-04-26 | CLMS.CP.0030 | 2.2 |\n| 2026-03-30 | CLMS.CP.0030 | 2.1 |\n| 2025-05-28 | CLMS.CP.0030 | 2.0 |\n| 2024-08-14 | CLMS.CP.0030 | 1.1 |\n| 2024-03-08 | PP-25 | 1.0 |\n| 2023-06-01 | PP-25 | 0.0 |",
+      "codes": [
+        "25"
+      ],
+      "table_data": {
+        "table_id": "tab_p5_1",
+        "title": "Table (Page 5)",
+        "columns": [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        "row_count": 6,
+        "rows": [
+          {
+            "Date": "2026-04-26",
+            "Document #": "CLMS.CP.0030",
+            "Version #": "2.2"
+          },
+          {
+            "Date": "2026-03-30",
+            "Document #": "CLMS.CP.0030",
+            "Version #": "2.1"
+          },
+          {
+            "Date": "2025-05-28",
+            "Document #": "CLMS.CP.0030",
+            "Version #": "2.0"
+          },
+          {
+            "Date": "2024-08-14",
+            "Document #": "CLMS.CP.0030",
+            "Version #": "1.1"
+          },
+          {
+            "Date": "2024-03-08",
+            "Document #": "PP-25",
+            "Version #": "1.0"
+          },
+          {
+            "Date": "2023-06-01",
+            "Document #": "PP-25",
+            "Version #": "0.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0096",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Prior versions are available upon request",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0097",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0030 - 2026-04-26 v2.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0098",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0099",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0100",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Page 5 of 5",
+      "codes": [],
+      "table_data": null
+    }
+  ]
+}

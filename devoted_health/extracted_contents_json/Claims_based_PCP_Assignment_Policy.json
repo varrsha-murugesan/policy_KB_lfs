@@ -1,0 +1,1756 @@
+{
+  "policy_title": "Claims based PCP Assignment Policy",
+  "policy_number": "3726DHPV5",
+  "effective_date": "2026-01-01",
+  "version": "1.0",
+  "source_pdf": "Claims_based_PCP_Assignment_Policy.pdf",
+  "source_url": "https://assets.devoted.com/Providers/37_26_DH_P_PCP_Assignment",
+  "line_of_business": "Medicare Advantage",
+  "billing_class": "Both",
+  "page_count": 2,
+  "revision_history": [],
+  "table_count": 0,
+  "codes_found": {
+    "cpt_hcpcs": [],
+    "modifiers": [],
+    "revenue_codes": [],
+    "bill_types": [],
+    "icd_codes": []
+  },
+  "CPT_CODES_USED": [],
+  "sections_summary": [
+    "OVERVIEW",
+    "DEFINITIONS"
+  ],
+  "tables": [],
+  "extracted_content": [
+    {
+      "id": "item_0001",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Devoted Health Claims-",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0002",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Based PCP Assignment Policy",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0003",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "What's our claims-based",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0004",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "How are eligible members",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0005",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "assigned and unassigned?",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0006",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Primary Care Provider (PCP)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0007",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "assignment policy?",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0008",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "PPO members:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0009",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "bullet_point",
+      "content": "• If a member has no in-network PCP assignment",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0010",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "and has had a PCP visit in the past 12 months",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0011",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "with an in-network PCP, they will be assigned to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0012",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "the rendering PCP on the most recent encounter.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0013",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "The purpose of this policy is to better align our",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0014",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Preferred Provider Organization (PPO) and Health",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0015",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Maintenance Organization (HMO) members to the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0016",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "PCPs they are actively seeing.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0017",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "bullet_point",
+      "content": "• If a member has had two consecutive PCP",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0018",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "encounters in the prior 12 months with an in-",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0019",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "network PCP different from the one they were",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0020",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "assigned to through claims attribution, they will",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0021",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "be reassigned to that PCP.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0022",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "PPO members:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0023",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "bullet_point",
+      "content": "• PPO members may select an in-network PCP but",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0024",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "aren't required to do so. If a PPO member hasn't",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0025",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "selected an in-network PCP, we will prospectively",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0026",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "assign or unassign the member based on",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0027",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "historical claims data.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0028",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "bullet_point",
+      "content": "• If a member has had no encounters with their",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0029",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "claims-assigned PCP in the prior 12 months, they",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0030",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "will be unassigned from that PCP.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0031",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "HMO members:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0032",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "bullet_point",
+      "content": "• HMO members are required to have a PCP",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0033",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "assignment, and a subset of members are",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0034",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "auto-assigned to a PCP. This policy allows the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0035",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "reassignment of auto-assigned HMO members to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0036",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "a new in-network PCP based on claims data.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0037",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "HMO members:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0038",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "bullet_point",
+      "content": "• An HMO member may be prospectively",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0039",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "reassigned if they have had no PCP visits with",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0040",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "their auto-assigned PCP or TIN in the past 12",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0041",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "months, but they have had at least one visit with",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0042",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "a different in-network PCP.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0043",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Which members are eligible",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0044",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "bullet_point",
+      "content": "• Once assigned via claims, Devoted will not update",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0045",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "the HMO member's assignment again unless",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0046",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "notified to do so by the member.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0047",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "for claims-attributed PCP",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0048",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "assignment?",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0049",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "PPO members who have not self-selected an",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0050",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "in-network PCP and HMO members who were",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0051",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "auto-assigned to their PCP by Devoted are eligible",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0052",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "to have their PCP assigned or unassigned based on",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0053",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "claims data.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0054",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "As a provider, can I review",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0055",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "this process?",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0056",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "PCPs may review and request reconsideration of our",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0057",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "assignment decision if they believe that the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0058",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "claims-based assignment or unassignment of a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0059",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "member has been made in error.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0060",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "How do I request a correction?",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0061",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "DEFINITIONS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0062",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "PCP encounter:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0063",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "To request a correction, email",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0064",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "provider-updates@devoted.com within 90 days of",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0065",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "the assignment change going into effect. Requests",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0066",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "must include the Devoted Health ID for the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0067",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "member(s), plus a detailed explanation of why the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0068",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "provider feels the assignment or unassignment isn't",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0069",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "correct according to our policy. We'll respond via",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0070",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "email within 60 days of receiving",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0071",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "the request.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0072",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "• A PCP encounter is defined as an office visit",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0073",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "with one of these codes with a Devoted PCP.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0074",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "• A Devoted PCP must have a valid PCP ID in our",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0075",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "system as of the date of the reassignment to be",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0076",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "eligible for membership. Reversed or corrected",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0077",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "claims are not included in this attribution.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0078",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "In-network (INN) PCP:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0079",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "• For this purpose, an INN PCP is defined as a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0080",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "contracted PCP active for the member's plan,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0081",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "with no future termination date.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0082",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Can members change their PCP?",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0083",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Members are free to change their PCP at any time;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0084",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "such changes will be effective on the 1st of the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0085",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "following month unless there's an exception to the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0086",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "general policy. To note, PPO members will not be",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0087",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "notified if they have had their PCP changed because",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0088",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "of the attribution methodology.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0089",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "• PCPs with closed or suppressed panels are",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0090",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "eligible to have members assigned under the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0091",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "claims attribution policy.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0092",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "• We issue PCP IDs to mid-level providers (nurse",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0093",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "practitioners and physician assistants) who are",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0094",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "practicing as PCPs for the purpose of claims",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0095",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "attribution.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0096",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "How can members change",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0097",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "their PCP?",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0098",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "To change their PCP, members can call",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0099",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "1-800-338-6833 (TTY 711) or submit a written",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0100",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "request to the Member Service Department. If",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0101",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "a member calls to change or select their PCP,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0102",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "they will not be eligible for a claims-based PCP",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0103",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "assignment.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0104",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "For provider use only. Not for distribution to Medicare beneficiaries. Devoted Health is an HMO and/or PPO plan with a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0105",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Medicare contract. Our D-SNPs also have contracts with State Medicaid programs. Enrollment in our plans depends on",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0106",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "contract renewal. Out-of-network/non-contracted providers are under no obligation to treat Plan members, except in",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0107",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "emergency situations. Please call our customer service number or see your Evidence of Coverage for more information,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0108",
+      "title": "DEFINITIONS",
+      "section": "DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "including the cost-sharing that applies to out-of-network services. (3726DHPV5)",
+      "codes": [],
+      "table_data": null
+    }
+  ]
+}

@@ -1,0 +1,700 @@
+{
+  "policy_title": "Laboratory - Human Immunodeficiency Virus",
+  "policy_number": "LAB2026005",
+  "effective_date": "10/2026",
+  "published_date": "10/2026",
+  "revision_date": null,
+  "source_pdf": "Laboratory_-_Human_Immunodeficiency_Virus_New-d524a70a.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 4,
+  "table_count": 1,
+  "block_count": 25,
+  "CPT_CODES_USED": [
+    "87389",
+    "87806",
+    "87901",
+    "87903",
+    "87904",
+    "87906",
+    "87900",
+    "0219U",
+    "64137",
+    "92862",
+    "73824",
+    "22246",
+    "24543",
+    "00001",
+    "01806",
+    "17025",
+    "02461",
+    "64863"
+  ],
+  "MODIFIERS_USED": [
+    "90",
+    "RT",
+    "50",
+    "KS",
+    "25",
+    "AM",
+    "JF",
+    "GS",
+    "56",
+    "62",
+    "MS",
+    "GT",
+    "LM",
+    "HM",
+    "53",
+    "TC",
+    "JB",
+    "77",
+    "LC",
+    "52",
+    "US"
+  ],
+  "ICD_CODES_USED": [
+    "B11"
+  ],
+  "mapped_cpt_codes": [
+    {
+      "code": "87389",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87806",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87901",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87903",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87904",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87906",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87900",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0219U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "64137",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "92862",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "73824",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "22246",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "24543",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00001",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01806",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "17025",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "02461",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "64863",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "For 11 to 65 years of age, antigen or antibody screening for human immunodeficiency virus (HIV) infection (CPT code 87389) IS REIMBURSABLE.",
+      "codes": [
+        "87389"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Screening for an HIV infection with an antigen or antibody combination assay (CPT code 87389) or with a rapid antibody test (CPT code 87806) IS REIMBURSABLE for all ages when any of the following conditions are met:",
+      "codes": [
+        "87389",
+        "87806"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "About to begin or actively receiving pre-exposure prophylaxis (PrEP)",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "High-risk sexual behavior",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "High-risk sexual behavior",
+      "hierarchy_path": "Medicare Advantage Payment Policy > High-risk sexual behavior",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "History of previous or concurrent sexually transmitted infection (STI), hepatitis or tuberculosis",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Suspected exposure to HIV",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Suspected exposure to HIV",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Suspected exposure to HIV",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "For all situations described above, HIV testing (CPT code 87389, CPT code 87806) IS REIMBURSABLE no more than one test every 90 days.",
+      "codes": [
+        "87389",
+        "87806"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Suspected exposure to HIV",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Suspected exposure to HIV",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Suspected exposure to HIV",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "HIV genotyping or phenotyping (CPT code 87901, CPT code 87903, CPT code 87904, CPT code 87906) IS REIMBURSABLE for patients with HIV.",
+      "codes": [
+        "87901",
+        "87903",
+        "87904",
+        "87906"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Suspected exposure to HIV",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Suspected exposure to HIV",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Suspected exposure to HIV",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Drug susceptibility phenotype prediction using genotypic comparison to known genotypic or phenotypic database (CPT code 87900, CPT code 0219U) IS NOT REIMBURSABLE.",
+      "codes": [
+        "87900",
+        "0219U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "87389 Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme- linked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay [IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result 87806 Infectious agent antigen detection by immunoassay with direct optical (ie, visual) observation; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies 87900 Infectious agent drug susceptibility phenotype prediction using regularly updated genotypic bioinformatics",
+      "codes": [
+        "87389",
+        "87806",
+        "87900"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "87901 Infectious agent genotype analysis by nucleic acid (DNA or RNA); HIV-1, reverse transcriptase, and protease regions 87903 Infectious agent phenotype analysis by nucleic acid (DNA or RNA) with drug resistance tissue culture analysis, HIV 1; first through 10 drugs tested 87904 Infectious agent phenotype analysis by nucleic acid (DNA or RNA) with drug resistance tissue culture analysis, HIV 1; each additional drug tested (List separately in addition to code for primary procedure) 87906 Infectious agent genotype analysis by nucleic acid (DNA or RNA); HIV-1, other region (e.g., integrase, fusion) 0219U Infectious agent (human immunodeficiency virus), targeted viral next-generation sequence analysis (i.e., protease [PR], reverse transcriptase [RT], integrase [INT]), algorithm reported as prediction of antiviral drug susceptibility",
+      "codes": [
+        "87901",
+        "87903",
+        "87904",
+        "87906",
+        "0219U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "AAP. Bright Futures/AAP Recommendations for Preventive Pediatric Health Care (Periodicity Schedule). Updated Febuary 6, 2025. https://www.aap.org/periodicityschedule ACOG. ACOG Committee Opinion no 596: Committee on Gynecologic Practice: Routine human immunodeficiency virus screening. Obstet Gynecol. May 2014;123(5):1137-1139. doi:10.1097/01.AOG.0000446828.64137.50 ACOG. ACOG Committee Opinion No. 751: Labor and Delivery Management of Women With Human Immunodeficiency Virus Infection. Obstet Gynecol. Sep 2018;132(3):e131-e137. doi:10.1097/aog.0000000000002820 ATCC. ATCC Teams with CDC and Thermo Fisher Scientific on Public Health RT-PCR Assay. https://www.labbulletin.com/articles/ATCC-Teams-CDC-Thermo-Fisher-Scientific-Public-Health-RT-PCR-",
+      "codes": [
+        "64137"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Assay/categories/20130120_11",
+      "section": "References",
+      "subsection": "Assay/categories/20130120_11",
+      "hierarchy_path": "References > Assay/categories/20130120_11",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Avram CM, Greiner KS, Tilden E, Caughey AB. Point-of-care HIV viral load in pregnant women without prenatal care: a cost- effectiveness analysis. Am J Obstet Gynecol. Sep 2019;221(3):265.e1-265.e9. doi:10.1016/j.ajog.2019.06.021 BHIVA. BHIVA guidelines for the routine investigation and monitoring of adult HIV-1-positive individuals (2019 interim update). https://www.bhiva.org/file/DqZbRxfzlYtLg/Monitoring-Guidelines.pdf BHIVA. British HIV Association guidelines for the management of HIV-2 2021. https://www.bhiva.org/file/615ee3de98539/BHIVA- guidelines-for-the-management-of-HIV-2.pdf Braun P, Glass A, Maree L, et al. Multicenter clinical comparative evaluation of Alinity m HIV-1 assay performance. J Clin Virol. Aug 2020;129:104530. doi:10.1016/j.jcv.2020.104530 BusinessWire. Aptima HIV-1 Quant Dx Assay Receives Additional FDA Approval for Use as an Aid in the Diagnosis of HIV Infection. https://www.businesswire.com/news/home/20201120005242/en/ Caliendo A. Techniques and interpretation of HIV-1 RNA quantitation. Updated December 9, 2024. https://www.uptodate.com/contents/techniques-and-interpretation-of-hiv-1-rna-quantitation CDC. Clinical Guidance for PrEP. Updated February 10, 2025. https://www.cdc.gov/hivnexus/hcp/prep/index.html CDC. Clinical Testing Guidance for HIV. Updated February 10, 2025. https://www.cdc.gov/hivnexus/hcp/diagnosis- testing/index.html CDC. Fast Facts: HIV and Gay and Bisexual Men. Updated October 7, 2024. https://www.cdc.gov/hiv/data-research/facts-stats/gay- bisexual-men.html CDC. Getting Tested for HIV. Updated February 11, 2025. https://www.cdc.gov/hiv/testing/index.html CDC. HIV Infection. Updated January 31, 2025. https://www.cdc.gov/immigrant-refugee-health/hcp/domestic-guidance/hiv- infection.html CDC. HIV Preventative Services Coverage. Updated April 19, 2024. https://www.cdc.gov/high-quality-care/hcp/resources/hiv- preventative-service-coverage.html CDC. HIV Testing. Updated January 27, 2025. https://www.cdc.gov/hivpartners/php/hiv-testing/index.html",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Assay/categories/20130120_11",
+      "section": "References",
+      "subsection": "Assay/categories/20130120_11",
+      "hierarchy_path": "References > Assay/categories/20130120_11",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "CDC. Revised surveillance case definition for HIV infection--United States, 2014. MMWR Recommendations and reports : Morbidity and mortality weekly report Recommendations and reports. 2014;63(Rr-03):1-10. April 11, 2014. https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6303a1.htm Coffin J, Swanstrom R. HIV Pathogenesis: Dynamics and Genetics of Viral Populations and Infected Cells. Cold Spring Harb Perspect",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Med. 2013;3(1)doi:10.1101/cshperspect.a012526",
+      "section": "References",
+      "subsection": "Med. 2013;3(1)doi:10.1101/cshperspect.a012526",
+      "hierarchy_path": "References > Med. 2013;3(1)doi:10.1101/cshperspect.a012526",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "DHHS. Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents with HIV. Updated September 25, 2025. https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-arv/whats-new DHHS. Guidelines for the Use of Antiretroviral Agents in Pediatric HIV Infection. Updated September 30, 2025. https://clinicalinfo.hiv.gov/en/guidelines/pediatric-arv/whats-new-guidelines DHHS. Recommendations for the Use of Antiretroviral Drugs in Pregnant Women with HIV Infection and Interventions to Reduce Perinatal HIV Transmission in the United States. Updated June 12, 2025. https://clinicalinfo.hiv.gov/en/guidelines/perinatal/whats-new-guidelines EACS. European AIDS Clinical Society Guidelines Version 11.1 October 2022. https://www.eacsociety.org/media/guidelines- 11.1_final_09-10.pdf EACS. Treatment and Monitoring of Persons with HBV/HIV Co-infection. European AIDS Clinical Society. Updated October 1, 2025. https://eacs.sanfordguide.com/en/eacs-hiv/eacs-section4/hiv-hep-co-infection/treatment-of-hbv-hiv-co-infection Ehret R, Harb K, Breuer S, Obermeier M. Performance assessment of the new Xpert® HIV-1 viral load XC assay for quantification of HIV-1 viral loads. J Clin Virol. Apr 2022;149:105127. doi:10.1016/j.jcv.2022.105127 FDA. Alinity m HIV-1. https://www.fda.gov/vaccines-blood-biologics/alinity-m-hiv-1 FDA. Aptima® HIV-1 Quant Dx Assay. https://www.fda.gov/media/102425/download FDA. BioPlex 2200 HIV Ag-Ab Assay. https://www.fda.gov/media/92862/download FDA. COBAS® AmpliPrep/COBAS® TaqMan® HIV-1 Test, Summary of Safety and Effectiveness https://www.fda.gov/media/73824/download FDA. GeeniusTM HIV 1/2 Supplemental Assay. https://www.fda.gov/media/130312/download Fogel JM, Bonsall D, Cummings V, et al. Performance of a high-throughput next-generation sequencing method for analysis of HIV drug resistance and viral load. Journal of Antimicrobial Chemotherapy. 2020;75(12):3510-3516. doi:10.1093/jac/dkaa352 Fox ZV, Geretti AM, Kjaer J, et al. The ability of four genotypic interpretation systems to predict virological response to ritonavir- boosted protease inhibitors. AIDS (London, England). Oct 01 2007;21(15):2033-42. doi:10.1097/QAD.0b013e32825a69e4 Gandhi RT, Bedimo R, Hoy JF, et al. Antiretroviral Drugs for Treatment and Prevention of HIV Infection in Adults: 2022 Recommendations of the International Antiviral Society-USA Panel. JAMA. 2022;doi:10.1001/jama.2022.22246 Gandhi RT, Landovitz RJ, Sax PE, et al. Antiretroviral Drugs for Treatment and Prevention of HIV in Adults: 2024 Recommendations of the International Antiviral Society-USA Panel. Jama. Feb 18 2025;333(7):609-628. doi:10.1001/jama.2024.24543 Gibson KS, Toner LE. Society for Maternal-Fetal Medicine Special Statement: Updated checklists for pregnancy management in persons with HIV. American Journal of Obstetrics & Gynecology. 2020;223(5):B6-B11. doi:10.1016/j.ajog.2020.08.064 Gottlieb G. Epidemiology, transmission, natural history, and pathogenesis of HIV-2 infection. Updated February 20, 2023. https://www.uptodate.com/contents/epidemiology-transmission-natural-history-and-pathogenesis-of-hiv-2-infection Gottlieb GS. Clinical manifestations and diagnosis of HIV-2 infection. Updated March 28, 2025. https://www.uptodate.com/contents/clinical-manifestations-and-diagnosis-of-hiv-2-infection Hopkins M, Hau S, Tiernan C, et al. Comparative performance of the new Aptima HIV-1 Quant Dx assay with three commercial PCR- based HIV-1 RNA quantitation assays. Journal of Clinical Virology. 2015/08/01/ 2015;69:56-62. doi:10.1016/j.jcv.2015.05.020 Horberg M, Thompson M, Agwu A, et al. Primary Care Guidance for Providers Who Care for Persons With Human Immunodeficiency Virus: 2024 Update by the HIV Medicine Association of the Infectious Diseases Society of America. Clinical Infectious Diseases. 2024;doi:10.1093/cid/ciae479 Hsu KK, Rakhmanina NY. Adolescents and Young Adults: The Pediatrician's Role in HIV Testing and Pre- and Postexposure HIV Prophylaxis. Pediatrics. Jan 1 2022;149(1)doi:10.1542/peds.2021-055207 Hughes MD, Johnson VA, Hirsch MS, et al. Monitoring plasma HIV-1 RNA levels in addition to CD4+ lymphocyte count improves assessment of antiretroviral therapeutic response. ACTG 241 Protocol Virology Substudy Team. Annals of internal medicine. Jun 15 1997;126(12):929-38. doi:10.7326/0003-4819-126-12-199706150-00001 Kozal M. Interpretation of HIV-1 drug resistance testing. Updated September 17, 2024. https://www.uptodate.com/contents/interpretation-of-hiv-1-drug-resistance-testing",
+      "codes": [
+        "92862",
+        "73824",
+        "22246",
+        "24543",
+        "00001"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Med. 2013;3(1)doi:10.1101/cshperspect.a012526",
+      "section": "References",
+      "subsection": "Med. 2013;3(1)doi:10.1101/cshperspect.a012526",
+      "hierarchy_path": "References > Med. 2013;3(1)doi:10.1101/cshperspect.a012526",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Kozal M. Overview of HIV-1 drug resistance testing assays. Updated September 17, 2024. https://www.uptodate.com/contents/overview-of-hiv-1-drug-resistance-testing-assays LabCorp. Human Immunodeficiency Virus 1 (HIV-1) PhenoSense GT® Plus Integrase (Monogram® Phenotype + Genotype). https://www.labcorp.com/tests/551920/human-immunodeficiency-virus-1-hiv-1-phenosense-gt-plus-integrase-monogram- phenotype-genotype Lindman J, Hønge BL, Kjerulff B, et al. Performance of Bio-Rad HIV-1/2 Confirmatory Assay in HIV-1, HIV-2 and HIV-1/2 dually reactive patients - comparison with INNO-LIA and immunocomb discriminatory assays. J Virol Methods. Jun 2019;268:42-47. doi:10.1016/j.jviromet.2019.03.005 Mansky LM, Temin HM. Lower in vivo mutation rate of human immunodeficiency virus type 1 than that predicted from the fidelity of purified reverse transcriptase. J Virol. 1995;69(8):5087-94. 189326, https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/7541846/ Mor O, Gozlan Y, Wax M, et al. Evaluation of the RealTime HIV-1, Xpert HIV-1, and Aptima HIV-1 Quant Dx Assays in Comparison to the NucliSens EasyQ HIV-1 v2.0 Assay for Quantification of HIV-1 Viral Load. Journal of clinical microbiology. Nov 2015;53(11):3458-65. doi:10.1128/jcm.01806-15 Pröll J, Paar C, Taylor N, et al. New aspects of the Virus Life Cycle and Clinical Utility of Next Generation Sequencing based HIV-1 Resistance Testing in the Genomic, the Proviral and the Viral Reservoir of Peripheral Blood Mononuclear Cells. Curr HIV Res.",
+      "codes": [
+        "01806"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Mar 24 2022;doi:10.2174/1570162x20666220324111418",
+      "section": "References",
+      "subsection": "Mar 24 2022;doi:10.2174/1570162x20666220324111418",
+      "hierarchy_path": "References > Mar 24 2022;doi:10.2174/1570162x20666220324111418",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Quinn TC. Global epidemiology of HIV infection. Updated January 29, 2026. https://www.uptodate.com/contents/global- epidemiology-of-hiv-infection Raymond S, Nicot F, Abravanel F, et al. Performance evaluation of the Vela Dx Sentosa next-generation sequencing system for HIV-1 DNA genotypic resistance. Journal of Clinical Virology. 2020/01/01/ 2020;122:104229. doi:10.1016/j.jcv.2019.104229 Rosemary A, Chika O, Jonathan O, et al. Genotyping performance evaluation of commercially available HIV-1 drug resistance test.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "PloS one. 2018;13(6):e0198246. doi:10.1371/journal.pone.0198246",
+      "section": "References",
+      "subsection": "PloS one. 2018;13(6):e0198246. doi:10.1371/journal.pone.0198246",
+      "hierarchy_path": "References > PloS one. 2018;13(6):e0198246. doi:10.1371/journal.pone.0198246",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Saag MS, Gandhi RT, Hoy JF, et al. Antiretroviral Drugs for Treatment and Prevention of HIV Infection in Adults: 2020 Recommendations of the International Antiviral Society-USA Panel. JAMA. 2020;324(16):1651-1669. doi:10.1001/jama.2020.17025 Saag MS, Holodniy M, Kuritzkes DR, et al. HIV viral load markers in clinical practice. Nature medicine. Jun 1996;2(6):625-9. doi:10.1038/nm0696-625 Sempa JB, Dushoff J, Daniels MJ, et al. Reevaluating Cumulative HIV-1 Viral Load as a Prognostic Predictor: Predicting Opportunistic Infection Incidence and Mortality in a Ugandan Cohort. American journal of epidemiology. Jul 1 2016;184(1):67-77. doi:10.1093/aje/kwv303 Shen C, Yu X, Harrison RW, Weber IT. Automated prediction of HIV drug resistance from genotype data. BMC bioinformatics. Aug 31 2016;17 Suppl 8:278. doi:10.1186/s12859-016-1114-6 Sollis KA, Smit PW, Fiscus S, et al. Systematic review of the performance of HIV viral load technologies on plasma samples. PloS one. 2014;9(2):e85869. doi:10.1371/journal.pone.0085869 Swenson LC, Cobb B, Geretti AM, et al. Comparative performances of HIV-1 RNA load assays at low viral load levels: results of an international collaboration. Journal of clinical microbiology. Feb 2014;52(2):517-23. doi:10.1128/jcm.02461-13 ThermoFisher. ViroSeqTM HIV-1 Genotyping System. https://assets.thermofisher.com/TFS-Assets/LSG/brochures/cms_040731.pdf Thompson MA, Horberg MA, Agwu AL, et al. Primary Care Guidance for Persons With Human Immunodeficiency Virus: 2020 Update by the HIV Medicine Association of the Infectious Diseases Society of America. Clinical Infectious Diseases. 2020;doi:10.1093/cid/ciaa1391 USPSTF. Screening for HIV Infection: US Preventive Services Task Force Recommendation Statement. JAMA. 2019;321(23):2326-",
+      "codes": [
+        "17025",
+        "02461"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "PloS one. 2018;13(6):e0198246. doi:10.1371/journal.pone.0198246",
+      "section": "References",
+      "subsection": "PloS one. 2018;13(6):e0198246. doi:10.1371/journal.pone.0198246",
+      "hierarchy_path": "References > PloS one. 2018;13(6):e0198246. doi:10.1371/journal.pone.0198246",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "2336. doi:10.1001/jama.2019.6587",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "PloS one. 2018;13(6):e0198246. doi:10.1371/journal.pone.0198246",
+      "section": "References",
+      "subsection": "PloS one. 2018;13(6):e0198246. doi:10.1371/journal.pone.0198246",
+      "hierarchy_path": "References > PloS one. 2018;13(6):e0198246. doi:10.1371/journal.pone.0198246",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Waters L WA, Reeves I et al. BHIVA guidelines on antiretroviral treatment for adults living with HIV-1 2022 Wood BR. The natural history and clinical features of HIV infection in adults and adolescents. Updated January 27, 2026. https://www.uptodate.com/contents/the-natural-history-and-clinical-features-of-hiv-infection-in-adults-and-adolescents Zhang J, Rhee SY, Taylor J, Shafer RW. Comparison of the precision and sensitivity of the Antivirogram and PhenoSense HIV drug susceptibility assays. Journal of acquired immune deficiency syndromes (1999). Apr 1 2005;38(4):439-44. doi:10.1097/01.qai.0000147526.64863.53",
+      "codes": [
+        "64863"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87389: 87806 | Procedure code:  | Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result: Infectious agent antigen detection by immunoassay with direct optical (ie, visual) observation; HIV-1\nantigen(s), with HIV-1 and HIV-2 antibodies | Code description: ",
+      "codes": [
+        "87389",
+        "87806"
+      ],
+      "table_data": {
+        "columns": [
+          "87389",
+          "Procedure code",
+          "Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result",
+          "Code description"
+        ],
+        "row": {
+          "87389": "87806",
+          "Procedure code": "",
+          "Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result": "Infectious agent antigen detection by immunoassay with direct optical (ie, visual) observation; HIV-1\nantigen(s), with HIV-1 and HIV-2 antibodies",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87389: 87900 | Procedure code:  | Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result: Infectious agent drug susceptibility phenotype prediction using regularly updated genotypic\nbioinformatics | Code description: ",
+      "codes": [
+        "87389",
+        "87900"
+      ],
+      "table_data": {
+        "columns": [
+          "87389",
+          "Procedure code",
+          "Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result",
+          "Code description"
+        ],
+        "row": {
+          "87389": "87900",
+          "Procedure code": "",
+          "Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result": "Infectious agent drug susceptibility phenotype prediction using regularly updated genotypic\nbioinformatics",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87389: 87903 | Procedure code:  | Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result: Infectious agent phenotype analysis by nucleic acid (DNA or RNA) with drug resistance tissue culture\nanalysis, HIV 1; first through 10 drugs tested | Code description: ",
+      "codes": [
+        "87389",
+        "87903"
+      ],
+      "table_data": {
+        "columns": [
+          "87389",
+          "Procedure code",
+          "Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result",
+          "Code description"
+        ],
+        "row": {
+          "87389": "87903",
+          "Procedure code": "",
+          "Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result": "Infectious agent phenotype analysis by nucleic acid (DNA or RNA) with drug resistance tissue culture\nanalysis, HIV 1; first through 10 drugs tested",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87389: 87904 | Procedure code:  | Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result: Infectious agent phenotype analysis by nucleic acid (DNA or RNA) with drug resistance tissue culture\nanalysis, HIV 1; each additional drug tested (List separately in addition to code for primary procedure) | Code description: ",
+      "codes": [
+        "87389",
+        "87904"
+      ],
+      "table_data": {
+        "columns": [
+          "87389",
+          "Procedure code",
+          "Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result",
+          "Code description"
+        ],
+        "row": {
+          "87389": "87904",
+          "Procedure code": "",
+          "Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result": "Infectious agent phenotype analysis by nucleic acid (DNA or RNA) with drug resistance tissue culture\nanalysis, HIV 1; each additional drug tested (List separately in addition to code for primary procedure)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87389: 87906 | Procedure code:  | Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result: Infectious agent genotype analysis by nucleic acid (DNA or RNA); HIV-1, other region (e.g., integrase,\nfusion) | Code description: ",
+      "codes": [
+        "87389",
+        "87906"
+      ],
+      "table_data": {
+        "columns": [
+          "87389",
+          "Procedure code",
+          "Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result",
+          "Code description"
+        ],
+        "row": {
+          "87389": "87906",
+          "Procedure code": "",
+          "Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result": "Infectious agent genotype analysis by nucleic acid (DNA or RNA); HIV-1, other region (e.g., integrase,\nfusion)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87389: 0219U | Procedure code:  | Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result: Infectious agent (human immunodeficiency virus), targeted viral next-generation sequence analysis (i.e.,\nprotease [PR], reverse transcriptase [RT], integrase [INT]), algorithm reported as prediction of antiviral\ndrug susceptibility\nProprietary test: Sentosa® SQ HIV-1 Genotyping Assay\nLab/Manufacturer: Vela Diagnostics USA, Inc | Code description: ",
+      "codes": [
+        "87389",
+        "0219U"
+      ],
+      "table_data": {
+        "columns": [
+          "87389",
+          "Procedure code",
+          "Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result",
+          "Code description"
+        ],
+        "row": {
+          "87389": "0219U",
+          "Procedure code": "",
+          "Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result": "Infectious agent (human immunodeficiency virus), targeted viral next-generation sequence analysis (i.e.,\nprotease [PR], reverse transcriptase [RT], integrase [INT]), algorithm reported as prediction of antiviral\ndrug susceptibility\nProprietary test: Sentosa® SQ HIV-1 Genotyping Assay\nLab/Manufacturer: Vela Diagnostics USA, Inc",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nFor 11 to 65 years of age, antigen or antibody screening for human immunodeficiency virus (HIV) infection (CPT code 87389) IS REIMBURSABLE.\n\nScreening for an HIV infection with an antigen or antibody combination assay (CPT code 87389) or with a rapid antibody test (CPT code 87806) IS REIMBURSABLE for all ages when any of the following conditions are met:\n\nAbout to begin or actively receiving pre-exposure prophylaxis (PrEP)\n\nHistory of previous or concurrent sexually transmitted infection (STI), hepatitis or tuberculosis\n\nFor all situations described above, HIV testing (CPT code 87389, CPT code 87806) IS REIMBURSABLE no more than one test every 90 days.\n\nHIV genotyping or phenotyping (CPT code 87901, CPT code 87903, CPT code 87904, CPT code 87906) IS REIMBURSABLE for patients with HIV.\n\nDrug susceptibility phenotype prediction using genotypic comparison to known genotypic or phenotypic database (CPT code 87900, CPT code 0219U) IS NOT REIMBURSABLE.\n\n87389 Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme- linked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay [IMCA]) qualitative or semiquantitative; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies, single result 87806 Infectious agent antigen detection by immunoassay with direct optical (ie, visual) observation; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies 87900 Infectious agent drug susceptibility phenotype prediction using regularly updated genotypic bioinformatics\n\n87901 Infectious agent genotype analysis by nucleic acid (DNA or RNA); HIV-1, reverse transcriptase, and protease regions 87903 Infectious agent phenotype analysis by nucleic acid (DNA or RNA) with drug resistance tissue culture analysis, HIV 1; first through 10 drugs tested 87904 Infectious agent phenotype analysis by nucleic acid (DNA or RNA) with drug resistance tissue culture analysis, HIV 1; each additional drug tested (List separately in addition to code for primary procedure) 87906 Infectious agent genotype analysis by nucleic acid (DNA or RNA); HIV-1, other region (e.g., integrase, fusion) 0219U Infectious agent (human immunodeficiency virus), targeted viral next-generation sequence analysis (i.e., protease [PR], reverse transcriptase [RT], integrase [INT]), algorithm reported as prediction of antiviral drug susceptibility"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

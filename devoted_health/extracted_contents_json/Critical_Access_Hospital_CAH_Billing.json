@@ -1,0 +1,1629 @@
+{
+  "policy_title": "Critical Access Hospital CAH Billing",
+  "policy_number": "DH-PP-CAH-2024",
+  "effective_date": "11/26/25",
+  "version": "1.0",
+  "source_pdf": "Critical_Access_Hospital_CAH_Billing.pdf",
+  "source_url": "https://assets.devoted.com/Providers/CAH_Billing_Policy_20241107",
+  "line_of_business": "Medicare Advantage",
+  "billing_class": "Both",
+  "page_count": 4,
+  "revision_history": [
+    {
+      "date": "11/26/25",
+      "revision_num": "1",
+      "reason_for_change": "Annual review, no content changes.",
+      "approved_by": "Payment Policy\nManagement"
+    },
+    {
+      "date": "11/7/24",
+      "revision_num": "0",
+      "reason_for_change": "Policy published.",
+      "approved_by": "Payment Policy\nManagement"
+    }
+  ],
+  "table_count": 1,
+  "codes_found": {
+    "cpt_hcpcs": [],
+    "modifiers": [
+      "25"
+    ],
+    "revenue_codes": [
+      "0111",
+      "0119"
+    ],
+    "bill_types": [],
+    "icd_codes": [
+      "X12"
+    ]
+  },
+  "CPT_CODES_USED": [],
+  "sections_summary": [
+    "OVERVIEW",
+    "PAYMENT POLICY",
+    "SCOPE",
+    "ACRONYMS AND DEFINITIONS",
+    "WHAT WE COVER",
+    "RELATED POLICIES",
+    "N/A",
+    "REGULATORY REFERENCES",
+    "REVIEW",
+    "POLICY APPROVAL AND HISTORY"
+  ],
+  "tables": [
+    {
+      "table_id": "tab_p4_1",
+      "title": "Table (Page 4)",
+      "page_number": 4,
+      "bbox": [
+        54.333333333333336,
+        516.5972900390625,
+        522.3333333333334,
+        619.5001220703125
+      ],
+      "columns": [
+        "Date",
+        "Revision #",
+        "Reason for Change",
+        "Approved By"
+      ],
+      "row_count": 2,
+      "col_count": 4,
+      "rows": [
+        {
+          "Date": "11/26/25",
+          "Revision #": "1",
+          "Reason for Change": "Annual review, no content changes.",
+          "Approved By": "Payment Policy\nManagement"
+        },
+        {
+          "Date": "11/7/24",
+          "Revision #": "0",
+          "Reason for Change": "Policy published.",
+          "Approved By": "Payment Policy\nManagement"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Date",
+          "Revision #",
+          "Reason for Change",
+          "Approved By"
+        ],
+        [
+          "11/26/25",
+          "1",
+          "Annual review, no content changes.",
+          "Payment Policy\nManagement"
+        ],
+        [
+          "11/7/24",
+          "0",
+          "Policy published.",
+          "Payment Policy\nManagement"
+        ]
+      ],
+      "markdown": "| Date | Revision # | Reason for Change | Approved By |\n| --- | --- | --- | --- |\n| 11/26/25 | 1 | Annual review, no content changes. | Payment Policy\nManagement |\n| 11/7/24 | 0 | Policy published. | Payment Policy\nManagement |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [
+          "25"
+        ],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    }
+  ],
+  "extracted_content": [
+    {
+      "id": "item_0001",
+      "title": "Critical Access",
+      "section": "OVERVIEW",
+      "subsection": "Critical Access",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "Critical Access"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "header",
+      "content": "Critical Access",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0002",
+      "title": "Critical Access",
+      "section": "OVERVIEW",
+      "subsection": "Critical Access",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "Critical Access"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Hospital (CAH)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0003",
+      "title": "Critical Access",
+      "section": "OVERVIEW",
+      "subsection": "Critical Access",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "Critical Access"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Billing",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0004",
+      "title": "PAYMENT POLICY",
+      "section": "PAYMENT POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "PAYMENT POLICY"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "header",
+      "content": "PAYMENT POLICY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0005",
+      "title": "Policy Overview",
+      "section": "PAYMENT POLICY",
+      "subsection": "Policy Overview",
+      "hierarchy_path": [
+        "PAYMENT POLICY",
+        "Policy Overview"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "Policy Overview",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0006",
+      "title": "Policy Overview",
+      "section": "PAYMENT POLICY",
+      "subsection": "Policy Overview",
+      "hierarchy_path": [
+        "PAYMENT POLICY",
+        "Policy Overview"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "CMS designates certain hospitals as Critical Access Hospitals (CAHs) to improve healthcare access in",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0007",
+      "title": "Policy Overview",
+      "section": "PAYMENT POLICY",
+      "subsection": "Policy Overview",
+      "hierarchy_path": [
+        "PAYMENT POLICY",
+        "Policy Overview"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "rural areas1. Services provided in CAHs are the same as those provided in a Prospective Payment",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0008",
+      "title": "Policy Overview",
+      "section": "PAYMENT POLICY",
+      "subsection": "Policy Overview",
+      "hierarchy_path": [
+        "PAYMENT POLICY",
+        "Policy Overview"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "System (PPS) hospitals but are billed and paid under a different methodology2. This policy covers our",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0009",
+      "title": "Policy Overview",
+      "section": "PAYMENT POLICY",
+      "subsection": "Policy Overview",
+      "hierarchy_path": [
+        "PAYMENT POLICY",
+        "Policy Overview"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "billing requirements for services provided at a CAH. specifically based on the methods defined by",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0010",
+      "title": "Policy Overview",
+      "section": "PAYMENT POLICY",
+      "subsection": "Policy Overview",
+      "hierarchy_path": [
+        "PAYMENT POLICY",
+        "Policy Overview"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "CMS for Method I and Method II billing.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0011",
+      "title": "SCOPE",
+      "section": "SCOPE",
+      "subsection": null,
+      "hierarchy_path": [
+        "SCOPE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "SCOPE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0012",
+      "title": "SCOPE",
+      "section": "SCOPE",
+      "subsection": null,
+      "hierarchy_path": [
+        "SCOPE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy applies to all Devoted Health plans.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0013",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "ACRONYMS AND DEFINITIONS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0014",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "definition",
+      "content": "Critical Access Hospital (CAH): A hospital that participates in the State Medicare Rural Flexibility",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0015",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Program and meets the conditions of participation required by CMS.1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0016",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "definition",
+      "content": "Cost-to-Charge Ratio (CCR): The ratio between a hospital's billed charges and gross expenses.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0017",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Fiscal Intermediary Rate Letter (FIRL): A letter issued by CMS to a facility with their CCR percentage",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0018",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "and effective date.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0019",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "definition",
+      "content": "Prospective Payment System (PPS): A payment methodology that pays predetermined, fixed",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0020",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "amounts based on average national costs that are adjusted based on geographic variances.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0021",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "WHAT WE COVER",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0022",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "We cover medically necessary services provided at a CAH. Under this policy, the same benefit limits",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0023",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "and prior authorization requirements for inpatient and outpatient services apply as those performed",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0024",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "in an acute care hospital. Covered services include:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0025",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Anesthesia services;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0026",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Facilities and related equipment (e.g., operating room);",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0027",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Laboratory Services;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0028",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Medical social services;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0029",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Medications and supplies used during the course of treatment;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0030",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Nursing and physician services;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0031",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Radiology and other diagnostic procedures;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0032",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Room and board or overnight observation.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0033",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "How to bill us",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0034",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "We reimburse claims according to Medicare payment rules. CAHs are exempt from PPS rules and are",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0035",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "instead paid on a reasonable cost basis calculated by the facility's CCR. For specific details regarding",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0036",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "the submission of your FIRLs, please refer to your contact.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0037",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Bill your inpatient claims on a CMS-1450 (UB-04) or X12 837I electronic equivalent, with bill type",
+      "codes": [
+        "X12"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0038",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "0111-0119. Be sure to include the appropriate revenue, HCPCS, and ICD-10-PCS codes.",
+      "codes": [
+        "0111",
+        "0119"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0039",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Outpatient claims for CAHs can be submitted using one of the two CMS-approved billing methods, as",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0040",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "outlined below. Our billing follows the specific method chosen by the CAH, in line with CMS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0041",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "regulations.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0042",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "definition",
+      "content": "Method I (Standard): Separate Billing for Facility and Professional Charges3",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0043",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Facility and professional charges are submitted separately and follow industry coding standards:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0044",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "○ Facility services are submitted on a CMS-1450 (UB-04) or an X12 837I transaction;",
+      "codes": [
+        "X12"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0045",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "○ Use type of bill 085X and the appropriate frequency code (e.g., 0851, 0857).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0046",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "○ Facility claims will be reimbursed at the CCR.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0047",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "○ Professional services are submitted on a CMS-1500 or X12 837P transaction;",
+      "codes": [
+        "X12"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0048",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "○ Use place of service 19 or 22;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0049",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "○ Professional claims will be reimbursed at the lesser of billed charges or 100% of the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0050",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "locality-based facility rate of the Medicare Physician Fee Schedule.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0051",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "definition",
+      "content": "Method II (Optional): Combined Billing for Facility and Professional Charges4",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0052",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Facility and professional charges are submitted on the same claim and must use the following coding",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0053",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "standards:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0054",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "○ All services are submitted on a CMS-1450 (UB-04) or an X12 837I transaction;",
+      "codes": [
+        "X12"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0055",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "○ Use type of bill 085X and the appropriate frequency code (e.g., 0851, 0857);",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0056",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "○ Professional services are billed with the appropriate CPT/HCPCS code and one of the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0057",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "definition",
+      "content": "following revenue codes: 096X, 097X, or 098X",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0058",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "○ Facility charges will be paid at the CCR; while professional services are paid at 115% of the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0059",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "locality-based facility rate of the Medicare Physician Fee Schedule.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0060",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "For CAHs using Method I, this approach remains in place by default unless the CAH proactively opts",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0061",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "into Method II with CMS.5 Once a CAH selects Method II, CMS mandates that this choice remain",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0062",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "effective for all future cost reporting periods unless a written request to terminate the election is",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0063",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "submitted to CMS at least 30 days before the start of the next period.6 Consequently, our billing",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0064",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "practices are governed by CMS classifications, and any billing method preference changes must be",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0065",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "completed with CMS first.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0066",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "definition",
+      "content": "Non-patient Laboratory Tests: CAHs may perform referred laboratory tests without directly",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0067",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "providing outpatient services to the member. These claims must be submitted on a CMS-1450",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0068",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "(UB-04) or an X12 837I transaction with type of bill 014X and the appropriate frequency code (e.g.,",
+      "codes": [
+        "X12"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0069",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "0141, 0147). Claims will be paid at the lesser of billed charges or 100% of the Clinical Laboratory Fee",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0070",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Schedule.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0071",
+      "title": "RELATED POLICIES",
+      "section": "RELATED POLICIES",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "RELATED POLICIES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0072",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0073",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "REGULATORY REFERENCES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0074",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "142 CFR 485, Subpart F: Conditions of Participation: Critical Access Hospitals",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0075",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "definition",
+      "content": "242 CFR 419.20.B: Hospitals Excluded from the Outpatient Prospective Payment System",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0076",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "definition",
+      "content": "342 CFR 413.70(b)(2): Payment for Services of a CAH - Reasonable costs for facility services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0077",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "definition",
+      "content": "442 CFR 413.70(b)(3): Payment for Services of a CAH- Election to be paid reasonable costs for facility services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0078",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "plus fee schedule for professional services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0079",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "5CMS Manual System, Pub. 100-04, Chapter 4, Section 250.1.1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0080",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "6CMS Manual System, Pub. 100-04, Chapter 4, Section 250.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0081",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Disclaimer",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0082",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "This payment policy is informational only and is not a guarantee of reimbursement. Claim payments",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0083",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "are subject to benefit coverage, member eligibility, claims payment edit rules, coding and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0084",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "documentation guidelines, authorization policies, provider contractual agreements, and state and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0085",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "federal regulations.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0086",
+      "title": "REVIEW",
+      "section": "REVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "REVIEW",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0087",
+      "title": "POLICY APPROVAL AND HISTORY",
+      "section": "POLICY APPROVAL AND HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY APPROVAL AND HISTORY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "POLICY APPROVAL AND HISTORY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0088",
+      "title": "Table (Page 4)",
+      "section": "POLICY APPROVAL AND HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY APPROVAL AND HISTORY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "table",
+      "content": "| Date | Revision # | Reason for Change | Approved By |\n| --- | --- | --- | --- |\n| 11/26/25 | 1 | Annual review, no content changes. | Payment Policy\nManagement |\n| 11/7/24 | 0 | Policy published. | Payment Policy\nManagement |",
+      "codes": [
+        "25"
+      ],
+      "table_data": {
+        "table_id": "tab_p4_1",
+        "title": "Table (Page 4)",
+        "columns": [
+          "Date",
+          "Revision #",
+          "Reason for Change",
+          "Approved By"
+        ],
+        "row_count": 2,
+        "rows": [
+          {
+            "Date": "11/26/25",
+            "Revision #": "1",
+            "Reason for Change": "Annual review, no content changes.",
+            "Approved By": "Payment Policy\nManagement"
+          },
+          {
+            "Date": "11/7/24",
+            "Revision #": "0",
+            "Reason for Change": "Policy published.",
+            "Approved By": "Payment Policy\nManagement"
+          }
+        ]
+      }
+    }
+  ],
+  "mapping_eligibility": {
+    "eligible": true,
+    "route": "MAP_NEEDED",
+    "reason": "no explicit codes; 7 procedural terms",
+    "explicit_code_count": 0,
+    "procedure_terms": [
+      "anesthesia",
+      "diagnostic",
+      "equipment",
+      "laboratory",
+      "procedures",
+      "radiology",
+      "supplies"
+    ],
+    "admin_terms": [
+      "eligibility"
+    ]
+  },
+  "mapping_status": "mapped",
+  "mapped_cpt_codes": [
+    {
+      "code": "G0088",
+      "code_system": "HCPCS_L2",
+      "description": "",
+      "confidence_tier": "D",
+      "score": 48.49,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "G0089",
+      "code_system": "HCPCS_L2",
+      "description": "",
+      "confidence_tier": "D",
+      "score": 48.49,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "G0090",
+      "code_system": "HCPCS_L2",
+      "description": "",
+      "confidence_tier": "D",
+      "score": 48.49,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    }
+  ],
+  "mapping_source": "KB PIPELINE MARKED",
+  "kb_pipeline_marked": true
+}

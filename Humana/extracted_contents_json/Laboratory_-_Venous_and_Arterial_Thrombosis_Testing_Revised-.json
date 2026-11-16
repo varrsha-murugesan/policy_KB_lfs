@@ -1,0 +1,1296 @@
+{
+  "policy_title": "Laboratory - Venous and Arterial Thrombosis Testing",
+  "policy_number": "LAB2023006",
+  "effective_date": "03/2023",
+  "published_date": "03/2023",
+  "revision_date": "10/2026",
+  "source_pdf": "Laboratory_-_Venous_and_Arterial_Thrombosis_Testing_Revised-3b929d05.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 5,
+  "table_count": 2,
+  "block_count": 53,
+  "CPT_CODES_USED": [
+    "85302",
+    "85303",
+    "85305",
+    "85306",
+    "85300",
+    "85301",
+    "85307",
+    "0278U",
+    "36184",
+    "01033",
+    "02039",
+    "01658",
+    "01647",
+    "12665",
+    "02058"
+  ],
+  "MODIFIERS_USED": [
+    "79",
+    "SE",
+    "22",
+    "GY",
+    "SM",
+    "AS",
+    "HJ",
+    "TJ",
+    "50",
+    "PT",
+    "HV",
+    "TP",
+    "CC",
+    "52",
+    "54",
+    "JL",
+    "HH",
+    "RA",
+    "AD",
+    "LL",
+    "95",
+    "AJ",
+    "TL",
+    "JB",
+    "SC"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "85302",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "85303",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "85305",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "85306",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "85300",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "85301",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "85307",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0278U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "36184",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01033",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "02039",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01658",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01647",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "12665",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "02058",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Plasma testing for protein C deficiency (CPT code 85302, CPT code 85303), protein S deficiency (CPT code 85305, CPT code 85306) and antithrombin III deficiency (CPT code 85300, CPT code 85301) IS REIMBURSABLE in any of the following situations:",
+      "codes": [
+        "85302",
+        "85303",
+        "85305",
+        "85306",
+        "85300",
+        "85301"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Deep phlebothrombosis in pregnancy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Deep phlebothrombosis in pregnancy",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Deep phlebothrombosis in pregnancy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Disseminated intravascular coagulation, also known as defibrination syndrome",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Relatives of individuals with deep venous thrombosis",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Relatives of individuals with deep venous thrombosis",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Relatives of individuals with deep venous thrombosis",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Plasma testing for protein C deficiency (CPT code 85302, CPT code 85303) or protein S deficiency (CPT code 85305, CPT code 85306) IS REIMBURSABLE in the following situations:",
+      "codes": [
+        "85302",
+        "85303",
+        "85305",
+        "85306"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Warfarin-induced skin necrosis",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Warfarin-induced skin necrosis",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Warfarin-induced skin necrosis",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Venous thrombosis risk testing (CPT codes 85300-85303, CPT code 85305, CPT code 85306) for superficial venous thrombosis, including superficial thrombophlebitis and varicosities IS NOT REIMBURSABLE.",
+      "codes": [
+        "85300",
+        "85303",
+        "85305",
+        "85306"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Warfarin-induced skin necrosis",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Warfarin-induced skin necrosis",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Warfarin-induced skin necrosis",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "The activated protein C resistance assay (CPT code 85307) IS NOT REIMBURSABLE.",
+      "codes": [
+        "85307"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Warfarin-induced skin necrosis",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Warfarin-induced skin necrosis",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Warfarin-induced skin necrosis",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Multi-gene panel testing (CPT code 0278U*) IS NOT REIMBURSABLE.",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "85300 Clotting inhibitors or anticoagulants; antithrombin III, activity 85301 Clotting inhibitors or anticoagulants; antithrombin III, antigen assay 85302",
+      "codes": [
+        "85300",
+        "85301",
+        "85302"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Clotting inhibitors or anticoagulants; protein C, antigen",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Clotting inhibitors or anticoagulants; protein C, antigen",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Clotting inhibitors or anticoagulants; protein C, antigen",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "85303",
+      "codes": [
+        "85303"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Clotting inhibitors or anticoagulants; protein C, activity",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Clotting inhibitors or anticoagulants; protein C, activity",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Clotting inhibitors or anticoagulants; protein C, activity",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "85305",
+      "codes": [
+        "85305"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "85306",
+      "codes": [
+        "85306"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Clotting inhibitors or anticoagulants; protein S, free",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Clotting inhibitors or anticoagulants; protein S, free",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Clotting inhibitors or anticoagulants; protein S, free",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "85307",
+      "codes": [
+        "85307"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Activated Protein C (APC) resistance assay",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Activated Protein C (APC) resistance assay",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Activated Protein C (APC) resistance assay",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0278U* Hematology (genetic thrombosis), genomic sequence analysis of 14 genes, blood, buccal swab, or amniotic fluid",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: VersitiTM Diagnostic Laboratories",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: VersitiTM Diagnostic Laboratories",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: VersitiTM Diagnostic Laboratories",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "*The payment criteria for 0278U apply to all Medicare jurisdictions, except those states awarded to CGS Administrators, First Coast Service Options, Noridian Healthcare",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab/Manufacturer: VersitiTM Diagnostic Laboratories",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: VersitiTM Diagnostic Laboratories",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: VersitiTM Diagnostic Laboratories",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Solutions, Novitas Solutions, Palmetto GBA, and Wisconsin Physicians Service Insurance Corporation.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Procedure code",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Procedure code",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Procedure code",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "First Coast Service Options, Inc.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Pathology and Genetic Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Pathology and Genetic Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Pathology and Genetic Testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "A58918 0278U",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Pathology and Genetic Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Pathology and Genetic Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Pathology and Genetic Testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "A58917 0278U",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L35025 0278U",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Biomarkers Overview",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Biomarkers Overview",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Biomarkers Overview",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L35062 0278U",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L35160 0278U",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L36021 0278U",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L36807 0278U",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L38288 0278U",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L38351 0278U",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L38274 0278U",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L38429 0278U",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "ACOG. ACOG Practice Bulletin No. 138: Inherited thrombophilias in pregnancy. Obstetrics and gynecology. Sep 2013;122(3):706-17. doi:10.1097/01.AOG.0000433981.36184.4e ACOG. ACOG Practice Bulletin No. 197 Summary: Inherited Thrombophilias in Pregnancy. Obstetrics and gynecology. Jul 2018;132(1):249-251. doi:10.1097/aog.0000000000002705 Algahtani FH, Stuckey R. High factor VIII levels and arterial thrombosis: illustrative case and literature review. Ther Adv Hematol. 2019;10:2040620719886685. doi:10.1177/2040620719886685 ASH. ASH - Testing for thromboembolism | Choosing Wisely. Choosing Wisely https://www.hematology.org/education/clinicians/guidelines-and-quality-care/choosing-wisely Bank I, Libourel EJ, Middeldorp S, et al. Elevated levels of FVIII:C within families are associated with an increased risk for venous and arterial thrombosis. J Thromb Haemost. Jan 2005;3(1):79-84. doi:10.1111/j.1538-7836.2004.01033.x Barnes G. Thrombophilia Testing for Provoked VTE. American College of Cardiology; 2017;2019(02/13/2019). https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2017/06/05/12/46/thrombophilia-testing-in-provoked- venous-thromboembolism Barnes GD. Thrombophilia Testing and Venous Thrombosis. American College of Cardiology; 2017. https://www.acc.org/latest-in- cardiology/ten-points-to-remember/2017/10/20/11/18/thrombophilia-testing-and-venous-thrombosis",
+      "codes": [
+        "36184",
+        "01033"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Bartholomew JR. Update on the management of venous thromboembolism. Cleveland Clinic journal of medicine. Dec 2017;84(12",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Suppl 3):39-46. doi:10.3949/ccjm.84.s3.04",
+      "section": "References",
+      "subsection": "Suppl 3):39-46. doi:10.3949/ccjm.84.s3.04",
+      "hierarchy_path": "References > Suppl 3):39-46. doi:10.3949/ccjm.84.s3.04",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Bashford MT, Hickey SE, Curry CJ, et al. Addendum: ACMG Practice Guideline: lack of evidence for MTHFR polymorphism testing. Genetics in Medicine. 2020/12/01 2020;22(12):2125-2125. doi:10.1038/s41436-020-0843-0 Bauer KA, Lip GY. Overview of the causes of venous thrombosis in adults. Updated March 18, 2026. https://www.uptodate.com/contents/overview-of-the-causes-of-venous-thrombosis-in-adults Bauer KA, Stevens SM. Evaluation for thrombophilia and occult malignancy in adults with venous thromboembolism. Updated December 15, 2025. https://www.uptodate.com/contents/evaluation-for-thrombophilia-and-occult-malignancy-in-adults-with- venous-thromboembolism Bauer KA. Clinical presentation and diagnosis of the nonpregnant adult with suspected deep vein thrombosis of the lower extremity. Updated January 16, 2026. https://www.uptodate.com/contents/clinical-presentation-and-diagnosis-of-the-nonpregnant- adult-with-suspected-deep-vein-thrombosis-of-the-lower-extremity Bauer KA. Protein C deficiency. Updated January 29, 2026. https://www.uptodate.com/contents/protein-c-deficiency Bauer KA. Protein S deficiency. Updated December 5, 2025. https://www.uptodate.com/contents/protein-s-deficiency Bauer KA. Prothrombin G20210A. Updated May 30, 2025. https://www.uptodate.com/contents/prothrombin-g20210a Byrnes JR, Wolberg AS. Red blood cells in thrombosis. Blood. Oct 19 2017;130(16):1795-1799. doi:10.1182/blood-2017-03-745349 Carroll BJ, Piazza G. Hypercoagulable states in arterial and venous thrombosis: When, how, and who to test? Vasc Med. Aug 2018;23(4):388-399. doi:10.1177/1358863x18755927 Chiasakul T, De Jesus E, Tong J, et al. Inherited Thrombophilia and the Risk of Arterial Ischemic Stroke: A Systematic Review and Meta-Analysis. J Am Heart Assoc. Oct 2019;8(19):e012877. doi:10.1161/jaha.119.012877 Connors JM. Thrombophilia Testing and Venous Thrombosis. N Engl J Med. 2017;377(23):2298. doi:10.1056/NEJMc1713797 Crous-Bou M, Harrington LB, Kabrhel C. Environmental and genetic risk factors associated with venous thromboembolism. Semin",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Thromb Hemost. Nov 2016;42(8):808-20. doi:10.1055/s-0036-1592333",
+      "section": "References",
+      "subsection": "Thromb Hemost. Nov 2016;42(8):808-20. doi:10.1055/s-0036-1592333",
+      "hierarchy_path": "References > Thromb Hemost. Nov 2016;42(8):808-20. doi:10.1055/s-0036-1592333",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Curtis C, Mineyko A, Massicotte P, et al. Thrombophilia risk is not increased in children after perinatal stroke. Blood. May 18 2017;129(20):2793-2800. doi:10.1182/blood-2016-11-750893 De Backer J, Haugaa KH, Hasselberg NE, et al. 2025 ESC Guidelines for the management of cardiovascular disease and pregnancy: Developed by the task force on the management of cardiovascular disease and pregnancy of the European Society of Cardiology (ESC)Endorsed by the European Society of Gynecology (ESG). European Heart Journal. 2025;46(43):4462-4568. doi:10.1093/eurheartj/ehaf193 de Moerloose P, Reber G, Perrier A, Perneger T, Bounameaux H. Prevalence of factor V Leiden and prothrombin G20210A mutations in unselected patients with venous thromboembolism. Br J Haematol. Jul 2000;110(1):125-9. doi:10.1046/j.1365- 2141.2000.02039.x EGAPP. Recommendations from the EGAPP Working Group: routine testing for Factor V Leiden (R506Q) and prothrombin (20210G>A) mutations in adults with a history of idiopathic venous thromboembolism and their adult family members. Genet",
+      "codes": [
+        "02039"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Med. Jan 2011;13(1):67-76. doi:10.1097/GIM.0b013e3181fbe46f",
+      "section": "References",
+      "subsection": "Med. Jan 2011;13(1):67-76. doi:10.1097/GIM.0b013e3181fbe46f",
+      "hierarchy_path": "References > Med. Jan 2011;13(1):67-76. doi:10.1097/GIM.0b013e3181fbe46f",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Ferriero DM, Fullerton HJ, Bernard TJ, et al. Management of Stroke in Neonates and Children: A Scientific Statement From the American Heart Association/American Stroke Association. Stroke. 2019;50(3)doi:10.1161/str.0000000000000183 Gupta A, Sarode R, Nagalla S. Thrombophilia Testing in Provoked Venous Thromboembolism: A Teachable Moment. JAMA Internal Medicine. 2017;177(8):1195-1196. doi:10.1001/jamainternmed.2017.1815 Hembree WC, Cohen-Kettenis PT, Gooren L, et al. Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons: An Endocrine Society* Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2017;102(11):3869-3903. doi:10.1210/jc.2017-01658",
+      "codes": [
+        "01658"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Herrmann J. Clinical Cardio-Oncology. Elsevier; 2018",
+      "section": "References",
+      "subsection": "Herrmann J. Clinical Cardio-Oncology. Elsevier; 2018",
+      "hierarchy_path": "References > Herrmann J. Clinical Cardio-Oncology. Elsevier; 2018",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Hickey SE, Curry CJ, Toriello HV. ACMG Practice Guideline: lack of evidence for MTHFR polymorphism testing. Genet Med. Feb 2013;15(2):153-6. doi:10.1038/gim.2012.165 Kang BE, Zhang S, Lesmana H, et al. Venous thromboembolism laboratory testing (factor V Leiden and factor II c.&#x2217;97G&gt;A), 2025 revision: A technical standard of the American College of Medical Genetics and Genomics (ACMG).",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Genetics in Medicine. 2025;27(8)doi:10.1016/j.gim.2025.101466",
+      "section": "References",
+      "subsection": "Genetics in Medicine. 2025;27(8)doi:10.1016/j.gim.2025.101466",
+      "hierarchy_path": "References > Genetics in Medicine. 2025;27(8)doi:10.1016/j.gim.2025.101466",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "King H, Kelley TP, Shatzel JJ. Gender-affirming hormone therapy in the transgender patient: influence on thrombotic risk. Hematology. 2024;2024(1):652-663. doi:10.1182/hematology.2024000592",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Genetics in Medicine. 2025;27(8)doi:10.1016/j.gim.2025.101466",
+      "section": "References",
+      "subsection": "Genetics in Medicine. 2025;27(8)doi:10.1016/j.gim.2025.101466",
+      "hierarchy_path": "References > Genetics in Medicine. 2025;27(8)doi:10.1016/j.gim.2025.101466",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Kirsch J, Wu CC, Bolen MA, et al. ACR Appropriateness Criteria® Suspected Pulmonary Embolism: 2022 Update. J Am Coll Radiol. Nov 2022;19(11s):S488-s501. doi:10.1016/j.jacr.2022.09.014 Kleindorfer DO, Towfighi A, Chaturvedi S, et al. 2021 Guideline for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack: A Guideline From the American Heart Association/American Stroke Association. Stroke. Jul 2021;52(7):e364- e467. doi:10.1161/str.0000000000000375 Konstantinides SV, Meyer G, Becattini C, et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC). Eur Respir J. Sep 2019;54(3)doi:10.1183/13993003.01647-2019 Kujovich JL. Factor V Leiden thrombophilia. Genet Med. Jan 2011;13(1):1-16. doi:10.1097/GIM.0b013e3181faa0f2 Kujovich JL. Factor V Leiden Thrombophilia. In: Adam MP, Ardinger HH, Pagon RA, et al, eds. GeneReviews((R)). University of",
+      "codes": [
+        "01647"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Washington, Seattle; 2018",
+      "section": "References",
+      "subsection": "Washington, Seattle; 2018",
+      "hierarchy_path": "References > Washington, Seattle; 2018",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Lee EJ, Dykas DJ, Leavitt AD, et al. Whole-exome sequencing in evaluation of patients with venous thromboembolism. Blood advances. Jul 11 2017;1(16):1224-1237. doi:10.1182/bloodadvances.2017005249 Lehman LL, Beaute J, Kapur K, et al. Workup for Perinatal Stroke Does Not Predict Recurrence. Stroke. 2017;48(8):2078-2083. doi:10.1161/STROKEAHA.117.017356 Lim W, Le Gal G, Bates SM, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: diagnosis of venous thromboembolism. Blood advances. 2018;2(22):3226. doi:10.1182/bloodadvances.2018024828 Linkins LA, Takach Lapner S. Review of D-dimer testing: Good, Bad, and Ugly. Int J Lab Hematol. May 2017;39 Suppl 1:98-103. doi:10.1111/ijlh.12665 Mäkelburg AB, Veeger NJ, Middeldorp S, et al. Different risk of deep vein thrombosis and pulmonary embolism in carriers with factor V Leiden compared with non-carriers, but not in other thrombophilic defects. Results from a large retrospective family cohort study. Haematologica. Jun 2010;95(6):1030-3. doi:10.3324/haematol.2009.017061 Mazzolai L, Ageno W, Alatri A, et al. Second consensus document on diagnosis and management of acute deep vein thrombosis: updated document elaborated by the ESC Working Group on aorta and peripheral vascular diseases and the ESC Working Group on pulmonary circulation and right ventricular function. European Journal of Preventive Cardiology. 2022;doi:10.1093/eurjpc/zwab088 Middeldorp S, Nieuwlaat R, Baumann Kreuziger L, et al. American Society of Hematology 2023 guidelines for management of venous thromboembolism: thrombophilia testing. Blood advances. Nov 28 2023;7(22):7101-7138. doi:10.1182/bloodadvances.2023010177 Middeldorp S. Factor V Leiden and activated protein C resistance. Updated April 23, 2025. https://www.uptodate.com/contents/factor-v-leiden-and-activated-protein-c-resistance Murphy CH, Sabath DE. Comparison of Phenotypic Activated Protein C Resistance Testing With a Genetic Assay for Factor V Leiden. Am J Clin Pathol. Feb 4 2019;151(3):302-305. doi:10.1093/ajcp/aqy142 NATF. Genetic Risk Factors for Blood Clots and the Role of Genetic Testing. Updated July 21, 2022. https://thrombosis.org/patients/patient-articles/genetic-risk-factors-for-blood-clots-and-the-role-of-genetic-testing NICE. Venous thromboembolic diseases: diagnosis, management and thrombophilia testing. Updated August 2, 2023. https://www.nice.org.uk/guidance/ng158/chapter/Recommendations Onda S, Furukawa K, Haruki K, et al. d-dimer-based screening for early diagnosis of venous thromboembolism after hepatectomy. Langenbeck's Archives of Surgery. 2021/05/01 2021;406(3):883-892. doi:10.1007/s00423-020-02058-9 Ordieres-Ortega L, Demelo-Rodríguez P, Galeano-Valle F, Kremers BMM, ten Cate-Hoek AJ, ten Cate H. Predictive value of D-dimer testing for the diagnosis of venous thrombosis in unusual locations: A systematic review. Thrombosis Research. 2020/05/01/ 2020;189:5-12. doi:10.1016/j.thromres.2020.02.009 Ortel TL, Neumann I, Ageno W, et al. American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism. Blood advances. 2020;4(19):4693-4738. doi:10.1182/bloodadvances.2020001830 Previtali E, Bucciarelli P, Passamonti SM, Martinelli I. Risk factors for venous and arterial thrombosis. Blood Transfus. Apr 2011;9(2):120-38. doi:10.2450/2010.0066-10 Raffini L. Thrombophilia testing in children and adolescents. Updated July 15, 2025. https://www.uptodate.com/contents/thrombophilia-testing-in-children-and-adolescents",
+      "codes": [
+        "12665",
+        "02058"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Washington, Seattle; 2018",
+      "section": "References",
+      "subsection": "Washington, Seattle; 2018",
+      "hierarchy_path": "References > Washington, Seattle; 2018",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Segal JB, Brotman DJ, Emadi A, et al. Outcomes of genetic testing in adults with a history of venous thromboembolism. Evidence report/technology assessment. Jun 2009;(180):1-162 Stevens SM, Woller SC, Bauer KA, et al. Guidance for the evaluation and treatment of hereditary and acquired thrombophilia. J Thromb Thrombolysis. 2016;41:154-64. doi:10.1007/s11239-015-1316-1 Thompson BT, Kabrhel, Christopher. Overview of acute pulmonary embolism in adults. Updated October 09, 2025. https://www.uptodate.com/contents/overview-of-acute-pulmonary-embolism-in-adults Thrombosis Canada. Deep Vein Thrombosis: Diagnosis. Updated May 7, 2025. https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=DEEPVEINTHROMBOSISDIAGNOSIS Thrombosis Canada. Pregnancy: Diagnosis of DVT and PE. Updated January 6, 2026. https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=83 Thrombosis Canada. Pulmonary Embolism (PE): Diagnosis. Updated April 30, 2025. https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=PULMONARYEMBOLISMDIAGNOSISANDM Thrombosis Canada. Thrombophilia: Deficiencies in Protein C, Protein S and Antithrombin. Updated November 10, 2025. https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=DEFICIENCIESINPROTEINCPROTEINS Thrombosis Canada. Thrombophilia: Factor V Leiden and Prothrombin Gene Mutation. Updated April 30, 2025. https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=THROMBOPHILIAFACTORVLEIDENANDP WHO. Medical eligibility criteria for contraceptive use: web annex: development of updated recommendations and Grading of Recommendations Assessment, Development and Evaluation (GRADE) tables, 6th ed. https://doi.org/10.2471/B09566 Zhang S, Taylor AK, Huang X, et al. Venous thromboembolism laboratory testing (factor V Leiden and factor II c.*97G>A), 2018 update: a technical standard of the American College of Medical Genetics and Genomics (ACMG). Genet Med. Dec 2018;20(12):1489-1498. doi:10.1038/s41436-018-0322-z",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 85300: 85301 | Procedure code:  | Clotting inhibitors or anticoagulants; antithrombin III, activity: Clotting inhibitors or anticoagulants; antithrombin III, antigen assay | Code description: ",
+      "codes": [
+        "85300",
+        "85301"
+      ],
+      "table_data": {
+        "columns": [
+          "85300",
+          "Procedure code",
+          "Clotting inhibitors or anticoagulants; antithrombin III, activity",
+          "Code description"
+        ],
+        "row": {
+          "85300": "85301",
+          "Procedure code": "",
+          "Clotting inhibitors or anticoagulants; antithrombin III, activity": "Clotting inhibitors or anticoagulants; antithrombin III, antigen assay",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 85300: 85302 | Procedure code:  | Clotting inhibitors or anticoagulants; antithrombin III, activity: Clotting inhibitors or anticoagulants; protein C, antigen | Code description: ",
+      "codes": [
+        "85300",
+        "85302"
+      ],
+      "table_data": {
+        "columns": [
+          "85300",
+          "Procedure code",
+          "Clotting inhibitors or anticoagulants; antithrombin III, activity",
+          "Code description"
+        ],
+        "row": {
+          "85300": "85302",
+          "Procedure code": "",
+          "Clotting inhibitors or anticoagulants; antithrombin III, activity": "Clotting inhibitors or anticoagulants; protein C, antigen",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 85300: 85303 | Procedure code:  | Clotting inhibitors or anticoagulants; antithrombin III, activity: Clotting inhibitors or anticoagulants; protein C, activity | Code description: ",
+      "codes": [
+        "85300",
+        "85303"
+      ],
+      "table_data": {
+        "columns": [
+          "85300",
+          "Procedure code",
+          "Clotting inhibitors or anticoagulants; antithrombin III, activity",
+          "Code description"
+        ],
+        "row": {
+          "85300": "85303",
+          "Procedure code": "",
+          "Clotting inhibitors or anticoagulants; antithrombin III, activity": "Clotting inhibitors or anticoagulants; protein C, activity",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 85300: 85305 | Procedure code:  | Clotting inhibitors or anticoagulants; antithrombin III, activity: Clotting inhibitors or anticoagulants; protein S, total | Code description: ",
+      "codes": [
+        "85300",
+        "85305"
+      ],
+      "table_data": {
+        "columns": [
+          "85300",
+          "Procedure code",
+          "Clotting inhibitors or anticoagulants; antithrombin III, activity",
+          "Code description"
+        ],
+        "row": {
+          "85300": "85305",
+          "Procedure code": "",
+          "Clotting inhibitors or anticoagulants; antithrombin III, activity": "Clotting inhibitors or anticoagulants; protein S, total",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 85300: 85307 | Procedure code:  | Clotting inhibitors or anticoagulants; antithrombin III, activity: Activated Protein C (APC) resistance assay | Code description: ",
+      "codes": [
+        "85300",
+        "85307"
+      ],
+      "table_data": {
+        "columns": [
+          "85300",
+          "Procedure code",
+          "Clotting inhibitors or anticoagulants; antithrombin III, activity",
+          "Code description"
+        ],
+        "row": {
+          "85300": "85307",
+          "Procedure code": "",
+          "Clotting inhibitors or anticoagulants; antithrombin III, activity": "Activated Protein C (APC) resistance assay",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 85300: 0278U* | Procedure code:  | Clotting inhibitors or anticoagulants; antithrombin III, activity: Hematology (genetic thrombosis), genomic sequence analysis of 14 genes, blood, buccal swab, or\namniotic fluid\nProprietary test: VersitiTM Thrombosis Panel\nLab/Manufacturer: VersitiTM Diagnostic Laboratories | Code description: ",
+      "codes": [
+        "85300",
+        "0278U"
+      ],
+      "table_data": {
+        "columns": [
+          "85300",
+          "Procedure code",
+          "Clotting inhibitors or anticoagulants; antithrombin III, activity",
+          "Code description"
+        ],
+        "row": {
+          "85300": "0278U*",
+          "Procedure code": "",
+          "Clotting inhibitors or anticoagulants; antithrombin III, activity": "Hematology (genetic thrombosis), genomic sequence analysis of 14 genes, blood, buccal swab, or\namniotic fluid\nProprietary test: VersitiTM Thrombosis Panel\nLab/Manufacturer: VersitiTM Diagnostic Laboratories",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] First Coast Service Options,\nInc.: Novitas Solutions, Inc | Contractor name:  | Billing and Coding: Molecular\nPathology and Genetic Testing: Billing and Coding: Molecular\nPathology and Genetic Testing | Policy title:  | A58918: A58917 | Policy number:  | 0278U: 0278U | Procedure code: ",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": {
+        "columns": [
+          "First Coast Service Options,\nInc.",
+          "Contractor name",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title",
+          "A58918",
+          "Policy number",
+          "0278U",
+          "Procedure code"
+        ],
+        "row": {
+          "First Coast Service Options,\nInc.": "Novitas Solutions, Inc",
+          "Contractor name": "",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing": "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title": "",
+          "A58918": "A58917",
+          "Policy number": "",
+          "0278U": "0278U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] First Coast Service Options,\nInc.: Palmetto GBA | Contractor name:  | Billing and Coding: Molecular\nPathology and Genetic Testing: MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | A58918: L35025 | Policy number:  | 0278U: 0278U | Procedure code: ",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": {
+        "columns": [
+          "First Coast Service Options,\nInc.",
+          "Contractor name",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title",
+          "A58918",
+          "Policy number",
+          "0278U",
+          "Procedure code"
+        ],
+        "row": {
+          "First Coast Service Options,\nInc.": "Palmetto GBA",
+          "Contractor name": "",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "A58918": "L35025",
+          "Policy number": "",
+          "0278U": "0278U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] First Coast Service Options,\nInc.: Novitas Solutions, Inc | Contractor name:  | Billing and Coding: Molecular\nPathology and Genetic Testing: Biomarkers Overview | Policy title:  | A58918: L35062 | Policy number:  | 0278U: 0278U | Procedure code: ",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": {
+        "columns": [
+          "First Coast Service Options,\nInc.",
+          "Contractor name",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title",
+          "A58918",
+          "Policy number",
+          "0278U",
+          "Procedure code"
+        ],
+        "row": {
+          "First Coast Service Options,\nInc.": "Novitas Solutions, Inc",
+          "Contractor name": "",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing": "Biomarkers Overview",
+          "Policy title": "",
+          "A58918": "L35062",
+          "Policy number": "",
+          "0278U": "0278U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] First Coast Service Options,\nInc.: Noridian Healthcare\nSolutions, LLC | Contractor name:  | Billing and Coding: Molecular\nPathology and Genetic Testing: MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | A58918: L35160 | Policy number:  | 0278U: 0278U | Procedure code: ",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": {
+        "columns": [
+          "First Coast Service Options,\nInc.",
+          "Contractor name",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title",
+          "A58918",
+          "Policy number",
+          "0278U",
+          "Procedure code"
+        ],
+        "row": {
+          "First Coast Service Options,\nInc.": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "A58918": "L35160",
+          "Policy number": "",
+          "0278U": "0278U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] First Coast Service Options,\nInc.: CGS Administrators, LLC | Contractor name:  | Billing and Coding: Molecular\nPathology and Genetic Testing: MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | A58918: L36021 | Policy number:  | 0278U: 0278U | Procedure code: ",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": {
+        "columns": [
+          "First Coast Service Options,\nInc.",
+          "Contractor name",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title",
+          "A58918",
+          "Policy number",
+          "0278U",
+          "Procedure code"
+        ],
+        "row": {
+          "First Coast Service Options,\nInc.": "CGS Administrators, LLC",
+          "Contractor name": "",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "A58918": "L36021",
+          "Policy number": "",
+          "0278U": "0278U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] First Coast Service Options,\nInc.: Wisconsin Physicians Service\nInsurance Corporation | Contractor name:  | Billing and Coding: Molecular\nPathology and Genetic Testing: MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | A58918: L36807 | Policy number:  | 0278U: 0278U | Procedure code: ",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": {
+        "columns": [
+          "First Coast Service Options,\nInc.",
+          "Contractor name",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title",
+          "A58918",
+          "Policy number",
+          "0278U",
+          "Procedure code"
+        ],
+        "row": {
+          "First Coast Service Options,\nInc.": "Wisconsin Physicians Service\nInsurance Corporation",
+          "Contractor name": "",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "A58918": "L36807",
+          "Policy number": "",
+          "0278U": "0278U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] First Coast Service Options,\nInc.: CGS Administrators, LLC | Contractor name:  | Billing and Coding: Molecular\nPathology and Genetic Testing: MolDX: Repeat Germline\nTesting | Policy title:  | A58918: L38288 | Policy number:  | 0278U: 0278U | Procedure code: ",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": {
+        "columns": [
+          "First Coast Service Options,\nInc.",
+          "Contractor name",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title",
+          "A58918",
+          "Policy number",
+          "0278U",
+          "Procedure code"
+        ],
+        "row": {
+          "First Coast Service Options,\nInc.": "CGS Administrators, LLC",
+          "Contractor name": "",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing": "MolDX: Repeat Germline\nTesting",
+          "Policy title": "",
+          "A58918": "L38288",
+          "Policy number": "",
+          "0278U": "0278U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] First Coast Service Options,\nInc.: Noridian Healthcare\nSolutions, LLC | Contractor name:  | Billing and Coding: Molecular\nPathology and Genetic Testing: MolDX: Repeat Germline\nTesting | Policy title:  | A58918: L38351 | Policy number:  | 0278U: 0278U | Procedure code: ",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": {
+        "columns": [
+          "First Coast Service Options,\nInc.",
+          "Contractor name",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title",
+          "A58918",
+          "Policy number",
+          "0278U",
+          "Procedure code"
+        ],
+        "row": {
+          "First Coast Service Options,\nInc.": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing": "MolDX: Repeat Germline\nTesting",
+          "Policy title": "",
+          "A58918": "L38351",
+          "Policy number": "",
+          "0278U": "0278U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] First Coast Service Options,\nInc.: Palmetto GBA | Contractor name:  | Billing and Coding: Molecular\nPathology and Genetic Testing: MolDX: Repeat Germline\nTesting | Policy title:  | A58918: L38274 | Policy number:  | 0278U: 0278U | Procedure code: ",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": {
+        "columns": [
+          "First Coast Service Options,\nInc.",
+          "Contractor name",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title",
+          "A58918",
+          "Policy number",
+          "0278U",
+          "Procedure code"
+        ],
+        "row": {
+          "First Coast Service Options,\nInc.": "Palmetto GBA",
+          "Contractor name": "",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing": "MolDX: Repeat Germline\nTesting",
+          "Policy title": "",
+          "A58918": "L38274",
+          "Policy number": "",
+          "0278U": "0278U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] First Coast Service Options,\nInc.: Wisconsin Physicians Service\nInsurance Corporation | Contractor name:  | Billing and Coding: Molecular\nPathology and Genetic Testing: MolDX: Repeat Germline\nTesting | Policy title:  | A58918: L38429 | Policy number:  | 0278U: 0278U | Procedure code: ",
+      "codes": [
+        "0278U"
+      ],
+      "table_data": {
+        "columns": [
+          "First Coast Service Options,\nInc.",
+          "Contractor name",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title",
+          "A58918",
+          "Policy number",
+          "0278U",
+          "Procedure code"
+        ],
+        "row": {
+          "First Coast Service Options,\nInc.": "Wisconsin Physicians Service\nInsurance Corporation",
+          "Contractor name": "",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing": "MolDX: Repeat Germline\nTesting",
+          "Policy title": "",
+          "A58918": "L38429",
+          "Policy number": "",
+          "0278U": "0278U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nPlasma testing for protein C deficiency (CPT code 85302, CPT code 85303), protein S deficiency (CPT code 85305, CPT code 85306) and antithrombin III deficiency (CPT code 85300, CPT code 85301) IS REIMBURSABLE in any of the following situations:\n\nDisseminated intravascular coagulation, also known as defibrination syndrome\n\nPlasma testing for protein C deficiency (CPT code 85302, CPT code 85303) or protein S deficiency (CPT code 85305, CPT code 85306) IS REIMBURSABLE in the following situations:\n\nVenous thrombosis risk testing (CPT codes 85300-85303, CPT code 85305, CPT code 85306) for superficial venous thrombosis, including superficial thrombophlebitis and varicosities IS NOT REIMBURSABLE.\n\nThe activated protein C resistance assay (CPT code 85307) IS NOT REIMBURSABLE.\n\nMulti-gene panel testing (CPT code 0278U*) IS NOT REIMBURSABLE.\n\n85300 Clotting inhibitors or anticoagulants; antithrombin III, activity 85301 Clotting inhibitors or anticoagulants; antithrombin III, antigen assay 85302\n\n85303\n\n85305\n\n85306\n\n85307\n\n0278U* Hematology (genetic thrombosis), genomic sequence analysis of 14 genes, blood, buccal swab, or amniotic fluid\n\n*The payment criteria for 0278U apply to all Medicare jurisdictions, except those states awarded to CGS Administrators, First Coast Service Options, Noridian Healthcare\n\nSolutions, Novitas Solutions, Palmetto GBA, and Wisconsin Physicians Service Insurance Corporation.\n\nFirst Coast Service Options, Inc.\n\nA58918 0278U\n\nA58917 0278U\n\nL35025 0278U\n\nL35062 0278U\n\nL35160 0278U\n\nL36021 0278U\n\nL36807 0278U\n\nL38288 0278U\n\nL38351 0278U\n\nL38274 0278U\n\nL38429 0278U"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

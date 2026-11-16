@@ -1,0 +1,1115 @@
+[
+  {
+    "policy_title": "Assistant-at-Surgery Services Policy",
+    "policy_number": "2026R9038A",
+    "effective_date": "9/1/2026",
+    "expiry_date": null,
+    "Line_of_Business": "Medicare Advantage",
+    "Billingclass": "Professional",
+    "CPT_CODES_USED": [],
+    "reimbursement_guidelines": {
+      "title": "Reimbursement Guidelines",
+      "content": "Multiple Procedures  Assistant-at-Surgery  Physicians (MD/DO)  Health Care Professionals UnitedHealthcare's Medicare Advantage standard reimbursement for Assistant-at-Surgery services provided by a Health Care Professional other than a Physician (i.e., Physician Assistants (PA), Nurse Practitioners (NP) or Clinical Nurse Specialists (CNS) is in accordance with the requirements outlined in Medicare Claims Processing Manual Chapter 12 section 110.2. Per CMS guidelines covered PA Assistant-at-Surgery services are reimbursed at 80 percent of the lesser of the actual charge or 85 percent of what a Physician is paid under the Medicare Physician Fee Schedule. Since Physicians are paid at 16 percent of the surgical payment amount under the Medicare Physician Fee Schedule for Assistant-at-Surgery services, the actual payment amount that PAs receive for Assistant-at-Surgery services is 13.6 percent of the amount paid to Physicians. The AS modifier must be reported on the claim form when billing PA Assistant-at-Surgery services. This pricing guideline applies unless the provider has a specific contract provision prohibiting the 85% of Physician allowable reimbursement rate. Assistants-at-Surgery who are Health Care Professionals should submit the identical procedure code(s) as the primary surgeon with the following modifier AS to represent that a PA, NP or CNS served as the Assistant-at-Surgery. Per CMS claims processing manual guidelines, surgical technicians are not listed as a health care practitioner that can report modifier AS. The services of a surgical technician assisting at surgery are included in the reimbursement to the facility and not separately reimbursable. Other categories of nonphysician practitioners are not recognized as Medicare providers and thus are not able to bill the program independently for their services. Medicare cannot reimburse an Assistant-at-Surgery's services if the assistant is an unlicensed practitioner and does not qualify to be a Medicare provider.",
+      "subsections": [
+        {
+          "title": "Multiple Procedures",
+          "content": "If an Assistant-at-Surgery submits multiple procedure codes, multiple procedure reductions will apply."
+        },
+        {
+          "title": "Assistant-at-Surgery",
+          "content": "The Assistant-at-Surgery is based on the Centers for Medicare and Medicaid Services (CMS) NPFS payment policy indicators. CMS Definition of Assistant at Surgery Indicator \"2\" 2 = Payment restriction for Assistants-at-Surgery does not apply to this procedure. Assistant-at-Surgery may be paid. All codes in the NPFS with the payment code indicator \"2\" for \"Assistant-at-Surgery\" are considered by UnitedHealthcare Medicare Advantage to be reimbursable for Assistant-at-Surgery services, as indicated by an Assistant Surgeon modifier (80, 81, 82, or AS). All codes in the NPFS with the status code indicator \"1\" for \"Assistant Surgeons\" are considered by UnitedHealthcare Medicare Advantage to not be reimbursable for Assistant Surgeon services, as indicated by an Assistant Surgeon or surgical assistant modifier (80, 81, 82, or AS), and will not be allowed for payment. All codes in the NPFS with the status code indicator \"0\" for \"Assistant Surgeons\" are considered by UnitedHealthcare Medicare Advantage to be conditionally reimbursable for Assistant Surgeon services, as indicated by an Assistant Surgeon or surgical assistant modifier (80, 81, 82, or AS), and will be reviewed with clinical documentation for Assistant- at Surgery eligibility."
+        },
+        {
+          "title": "Physicians (MD/DO)",
+          "content": "UnitedHealthcare's Medicare Advantage standard reimbursement for Assistant-at-Surgery services performed by a Physician is 16% of the Allowable Amount for eligible surgical procedures. This percentage is based on CMS. Assistants-at-Surgery who are Physicians should submit the identical procedure code(s) as the primary surgeon with one of the following modifiers 80, 81 or 82 to represent their service(s)."
+        },
+        {
+          "title": "Health Care Professionals",
+          "content": "UnitedHealthcare's Medicare Advantage standard reimbursement for Assistant-at-Surgery services provided by a Health Care Professional other than a Physician (i.e., Physician Assistants (PA), Nurse Practitioners (NP) or Clinical Nurse Specialists (CNS) is in accordance with the requirements outlined in Medicare Claims Processing Manual Chapter 12 section 110.2. Per CMS guidelines covered PA Assistant-at-Surgery services are reimbursed at 80 percent of the lesser of the actual charge or 85 percent of what a Physician is paid under the Medicare Physician Fee Schedule. Since Physicians are paid at 16 percent of the surgical payment amount under the Medicare Physician Fee Schedule for Assistant-at-Surgery services, the actual payment amount that PAs receive for Assistant-at-Surgery services is 13.6 percent of the amount paid to Physicians. The AS modifier must be reported on the claim form when billing PA Assistant-at-Surgery services. This pricing guideline applies unless the provider has a specific contract provision prohibiting the 85% of Physician allowable reimbursement rate. Assistants-at-Surgery who are Health Care Professionals should submit the identical procedure code(s) as the primary surgeon with the following modifier AS to represent that a PA, NP or CNS served as the Assistant-at-Surgery. Per CMS claims processing manual guidelines, surgical technicians are not listed as a health care practitioner that can report modifier AS. The services of a surgical technician assisting at surgery are included in the reimbursement to the facility and not separately reimbursable. Other categories of nonphysician practitioners are not recognized as Medicare providers and thus are not able to bill the program independently for their services. Medicare cannot reimburse an Assistant-at-Surgery’s services if the assistant is an unlicensed practitioner and does not qualify to be a Medicare provider."
+        }
+      ]
+    },
+    "Question_Answer_Rules": [
+      {
+        "Rule 1": {
+          "Q": "What if hospital bylaws require the attendance of an assistant for all procedures?",
+          "A": "No exceptions will be made to the policy to accommodate hospital bylaws. The NPFS published by CMS will be used to determine benefits for Assistants-at-Surgery."
+        },
+        "Rule 2": {
+          "Q": "The CMS NPFS contains Assistant-at-Surgery payment policy indicators of 0, 1, 2 and 9. Are procedure codes with any of these indicators for Assistants-at-Surgery considered for reimbursement when reported with an Assistant Surgeon modifier?",
+          "A": "Yes, procedure codes included on the CMS NPFS payment policy indicators \"2\" \"Assistants-at-Surgery\" will be considered for reimbursement. Indicator \"0\" will also be eligible for reimbursement. However, there is payment restriction for Assistants-at-Surgery unless supporting documentation is submitted to establish medical necessity."
+        }
+      }
+    ],
+    "linked_pdf_contents": null,
+    "resources": "www.cms.gov Centers for Medicare and Medicaid Services: PFS Relative Value Files Medicare Claims Processing Manual - Chapter 12 - Physicians/Nonphysician Practitioners: Sections 20.4.3, 100.1.7, 110, 110.2, 120, 120.1, 120.3",
+    "mapping_eligibility": {
+      "eligible": true,
+      "route": "MAP_NEEDED",
+      "reason": "no explicit codes; 4 procedural terms",
+      "explicit_code_count": 0,
+      "procedure_terms": [
+        "procedure",
+        "procedures",
+        "surgery",
+        "surgical"
+      ],
+      "admin_terms": [
+        "eligibility"
+      ]
+    },
+    "mapping_status": "pending"
+  },
+  {
+    "policy_title": "Clinical Laboratory Improvement Amendments (CLIA) ID Requirement - Reimbursement Policy",
+    "policy_number": "2026R6000A",
+    "effective_date": "4/1/2026",
+    "expiry_date": null,
+    "Line_of_Business": "Medicare Advantage",
+    "Billingclass": "Both",
+    "CPT_CODES_USED": [],
+    "reimbursement_guidelines": {
+      "title": "Reimbursement Guidelines",
+      "content": "Background CLIA was established to strengthen federal oversight of clinical laboratories to ensure the accuracy and reliability of patient test results. CLIA applies to all laboratories that examine \"materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.\" This applies if even one test is to be performed. CLIA regulatory requirements vary according to the kind of test(s) each laboratory conducts. All entities that meet the definition of a \"Laboratory\" under the CLIA statutes and regulations must obtain an appropriate CLIA certificate prior to conducting patient testing. Purpose For purposes of this policy, a valid CLIA Certificate Identification number will be required for reimbursement of clinical laboratory services reported on a1500 Health Insurance Claim Form (a/k/a CMS-1500) or its electronic equivalent. The CLIA Number is reported in: - ANSI X12 837 professional claim format Ref Segment as REF02 with qualifier of \"X4\" in REF01 or - Field 23 of the paper CMS-1500 Claims Submission Process   Modifier QW   Summary Any claim that does not contain the CLIA ID, invalid ID, and/or the complete servicing provider demographic information will be considered incomplete and rejected or denied. Claim line edits will also be applied if the lab certification level does not support the billed service code. Laboratory service providers who do not meet the reporting requirements and/or do not have the appropriate level of CLIA certification for the services reported will not be reimbursed. Definitions Billing Laboratory The laboratory that submits a bill or claim to Medicare. Clinical Laboratory Improvement Amendments (CLIA) The Centers for Medicare & Medicaid Services (CMS) regulates all laboratory testing (except research) performed on humans in the U.S. through the Clinical Laboratory Improvement Amendments (CLIA). In total, CLIA covers approximately 260,000 laboratory entities. The Division of Laboratory Services, within the Survey and Certification Group, under the Center for Clinical Standards and Quality (CCSQ) has the responsibility for implementing the CLIA Program. More information is available at: Clinical Laboratory Amendments (CLIA) Website CLIA Waived Test As defined by CLIA, waived tests are categorized as \"simple laboratory examinations and procedures that have an insignificant risk of an erroneous result.\" http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfClia/analyteswaived.cfm Laboratory The CLIA regulations define a laboratory to be \"a facility for the biological, microbiological, serological, chemical, immunohematological, hematological, biophysical, cytological, pathological, or other examination of materials derived from the human body for the purposes of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings. These examinations also include procedures to determine, measure, or otherwise describe the presence or absence of various substances or organisms in the body\" Medicare Approved Laboratory A laboratory that meets all of the enrollment standards as a Medicare provider including the certification by a CLIA certifying authority. Modifier QW CLIA Waived Test Referred Laboratory Test A billed laboratory service will be considered referred when the testing is performed by a servicing location other than the billing location. The appropriate claim line qualifier should be applied to indicate which location (billing or servicing) on the electronic claim applies to the submitted CLIA ID for the billed service code. Referring Laboratory A Medicare-approved laboratory that receives a specimen to be tested and that refers the specimen to another laboratory for performance of the laboratory test. CLIA further states a referring laboratory as a credentialed laboratory that receives a specimen to be tested and that refers the specimen to another credentialed laboratory for performance of the laboratory test. Reference Laboratory A Medicare-enrolled laboratory that receives a specimen from another, referring laboratory for testing and that actually performs the test. CLIA further states a reference laboratory as a credentialed laboratory that receives a specimen from another, referring laboratory for testing and that actually performs the test. Questions and Answers 1 Q: How do the Centers for Medicare & Medicaid Services (CMS) determine CLIA applicability? A: CLIA applicability is determined using the regulatory definition of \"laboratory\" quoted above. United Healthcare is acknowledging the CDC, FDA, and CMS CLIA regulations. Specifically, CLIA applies when: (1) patient-specific results are reported from the laboratory to another entity; AND (2) the results are made available \"for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.\" As stated above, whether a test service is billed to Medicare has no bearing on CLIA applicability. Therefore, if a facility performs tests for the above-stated purposes, it is considered a laboratory under CLIA and must obtain a certificate that corresponds to the complexity of testing performed. 2 Q: Where is there more information about the ANSI X12N implementation guidelines? A: More information can be found at www.x12.org or www.wpc-edi.com. 3 Q: Will a billed lab service be considered referred even if both labs are wholly or in part owned/operated by the same entity? A: Yes, the unique CLIA ID and servicing location information is required for every location where testing was performed. (See Referred Laboratory Test and Referring Laboratory definitions for additional information) 4 Q: Should modifier 90 be applied to all line level service codes for testing referred to another laboratory? A: Provider should continue to follow the defined coding and billing guidelines for the use of all applicable",
+      "subsections": [
+        {
+          "title": "Background",
+          "content": "CLIA was established to strengthen federal oversight of clinical laboratories to ensure the accuracy and reliability of patient test results. CLIA applies to all laboratories that examine “materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.”  This applies if even one test is to be performed. CLIA regulatory requirements vary according to the kind of test(s) each laboratory conducts. All entities that meet the definition of a “Laboratory” under the CLIA statutes and regulations must obtain an appropriate CLIA certificate prior to conducting patient testing."
+        },
+        {
+          "title": "Purpose",
+          "content": "For purposes of this policy, a valid CLIA Certificate Identification number will be required for reimbursement of clinical laboratory services reported on a1500 Health Insurance Claim Form (a/k/a CMS-1500) or its electronic equivalent. The CLIA Number is reported in: • ANSI X12 837 professional claim format Ref Segment as REF02 with qualifier of “X4” in REF01 or • Field 23 of the paper CMS-1500"
+        },
+        {
+          "title": "Claims Submission Process",
+          "content": "Laboratory service providers must ensure that the required CLIA information is submitted using the correct loops, segments, and associated line level qualifiers (X4 and F4).  Please refer to the ANSI X12N 837 Professional Claim guidelines and the Medicare Claims Processing Manual Chapters 1, 16, 26 and 35 for more information. Additional information regarding CLIA, applying for or renewing a certificate, or regarding assigned test complexity levels can be found at the following website. Clinical Laboratory Amendments (CLIA) Website"
+        },
+        {
+          "title": "Modifier QW",
+          "content": "Inclusion of this modifier when any applicable laboratory service is reported on a CMS 1500 claim form will be necessary to evaluate the claim to determine eligibility for benefit coverage of the laboratory services performed based upon the CLIA certification.  Additional information regarding the categorization of laboratory tests by CLIA may be found at the website below. CLIA Categorization of Laboratory Tests"
+        },
+        {
+          "title": "Summary",
+          "content": "Any claim that does not contain the CLIA ID, invalid ID, and/or the complete servicing provider demographic information will be considered incomplete and rejected or denied. Claim line edits will also be applied if the lab certification level does not support the billed service code. Laboratory service providers who do not meet the reporting requirements and/or do not have the appropriate level of CLIA certification for the services reported will not be reimbursed. Definitions Billing Laboratory The laboratory that submits a bill or claim to Medicare. Clinical Laboratory Improvement Amendments (CLIA) The Centers for Medicare & Medicaid Services (CMS) regulates all laboratory testing (except research) performed on humans in the U.S. through the Clinical Laboratory Improvement Amendments (CLIA). In total, CLIA covers approximately 260,000 laboratory entities. The Division of Laboratory Services, within the Survey and Certification Group, under the Center for Clinical Standards and Quality (CCSQ) has the responsibility for implementing the CLIA Program.  More information is available at: Clinical Laboratory Amendments (CLIA) Website CLIA Waived Test As defined by CLIA, waived tests are categorized as “simple laboratory examinations and procedures that have an insignificant risk of an erroneous result.” http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfClia/analyteswaived.cfm Laboratory The CLIA regulations define a laboratory to be “a facility for the biological, microbiological, serological, chemical, immunohematological, hematological, biophysical, cytological, pathological, or other examination of materials derived from the human body for the purposes of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings. These examinations also include procedures to determine, measure, or otherwise describe the presence or absence of various substances or organisms in the body” Medicare Approved Laboratory A laboratory that meets all of the enrollment standards as a Medicare provider including the certification by a CLIA certifying authority. Modifier QW CLIA Waived Test Referred Laboratory Test A billed laboratory service will be considered referred when the testing is performed by a servicing location other than the billing location.  The appropriate claim line qualifier should be applied to indicate which location (billing or servicing) on the electronic claim applies to the submitted CLIA ID for the billed service code. Referring Laboratory A Medicare-approved laboratory that receives a specimen to be tested and that refers the specimen to another laboratory for performance of the laboratory test. CLIA further states a referring laboratory as a credentialed laboratory that receives a specimen to be tested and that refers the specimen to another credentialed laboratory for performance of the laboratory test. Reference Laboratory A Medicare-enrolled laboratory that receives a specimen from another, referring laboratory for testing and that actually performs the test. CLIA further states a reference laboratory as a credentialed laboratory that receives a specimen from another, referring laboratory for testing and that actually performs the test. Questions and Answers 1 Q: How do the Centers for Medicare & Medicaid Services (CMS) determine CLIA applicability? A:  CLIA applicability is determined using the regulatory definition of “laboratory” quoted above. United Healthcare is acknowledging the CDC, FDA, and CMS CLIA regulations. Specifically, CLIA applies when: (1) patient-specific results are reported from the laboratory to another entity; AND (2) the results are made available “for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.” As stated above, whether a test service is billed to Medicare has no bearing on CLIA applicability. Therefore, if a facility performs tests for the above-stated purposes, it is considered a laboratory under CLIA and must obtain a certificate that corresponds to the complexity of testing performed. 2 Q: Where is there more information about the ANSI X12N implementation guidelines? A:  More information can be found at www.x12.org or www.wpc-edi.com. 3 Q:  Will a billed lab service be considered referred even if both labs are wholly or in part owned/operated by the same entity? A:  Yes, the unique CLIA ID and servicing location information is required for every location where testing was performed.  (See Referred Laboratory Test and Referring Laboratory definitions for additional information) 4 Q:  Should modifier 90 be applied to all line level service codes for testing referred to another laboratory? A:  Provider should continue to follow the defined coding and billing guidelines for the use of all applicable"
+        },
+        {
+          "title": "Modifiers",
+          "tables": [
+            {
+              "type": "table",
+              "content": [
+                {
+                  "key": "6",
+                  "value": {
+                    "Q": "Do I need to have CLIA certificate even if I am just performing simple laboratory tests?",
+                    "A": "Yes, the CLIA regulations apply to all laboratories that examine \"materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.\" This applies if even one test is to be performed."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Question_Answer_Rules": [
+      {
+        "Rule 1": {
+          "Q": "How do the Centers for Medicare & Medicaid Services (CMS) determine CLIA applicability?",
+          "A": "CLIA applicability is determined using the regulatory definition of \"laboratory\" quoted above. United Healthcare is acknowledging the CDC, FDA, and CMS CLIA regulations. Specifically, CLIA applies when: (1) patient-specific results are reported from the laboratory to another entity; AND (2) the results are made available \"for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.\" As stated above, whether a test service is billed to Medicare has no bearing on CLIA applicability. Therefore, if a facility performs tests for the above-stated purposes, it is considered a laboratory under CLIA and must obtain a certificate that corresponds to the complexity of testing performed."
+        },
+        "Rule 2": {
+          "Q": "Where is there more information about the ANSI X12N implementation guidelines?",
+          "A": "More information can be found at www.x12.org or www.wpc-edi.com."
+        },
+        "Rule 3": {
+          "Q": "Will a billed lab service be considered referred even if both labs are wholly or in part owned/operated by the same entity?",
+          "A": "Yes, the unique CLIA ID and servicing location information is required for every location where testing was performed. (See Referred Laboratory Test and Referring Laboratory definitions for additional information)"
+        },
+        "Rule 4": {
+          "Q": "Should modifier 90 be applied to all line level service codes for testing referred to another laboratory?",
+          "A": "Provider should continue to follow the defined coding and billing guidelines for the use of all applicable modifiers."
+        },
+        "Rule 5": {
+          "Q": "For the purpose of claim line level submission, how should the X4 and F4 qualifiers be applied?",
+          "A": "For all billed laboratory services subject to CLIA the as submitted CLIA ID and servicing location will be verified utilizing the CLIA source validation files. The decision to validate using the billing or servicing location submitted on the claim is determined by the qualifier applied to the claim line as follows: Testing performed at billing location (test not referred): - Report the billing laboratory's CLIA ID number in: Loop 2300, REF02, REF01=X4 for all CLIA-covered laboratory tests submitted on the claim, OR - Report the billing laboratory's CLIA ID number in: Loop 2400, REF02, REF01=X4 for each specific CLIA-covered laboratory tests submitted on the claim, Testing performed at a location other than the billing location as submitted on the claim (test referred): - Report the referral laboratory's CLIA number in: Loop 2400, REF02, REF01=F4 for CLIA-covered laboratory tests referred to another (referral/rendered) laboratory. (See Referred Laboratory Test and Referring Laboratory definition for additional information)"
+        }
+      }
+    ],
+    "linked_pdf_contents": null,
+    "resources": "Centers for Medicare and Medicaid Services, ANSI X12N 837 Professional Claim Guidelines Centers for Medicare and Medicaid Services, Clinical Laboratory Improvement Amendments (CLIA), Clinical Lab fee schedule Centers for Disease Control and Prevention (CDC) Medicare Claims Processing Manual - Chapter 01 - General Billing Requirements - Section: 80.3.2 Medicare Claims Processing Manual - Chapter 16 - Laboratory Services - Section 70.8, 70.9, 70.10, 70.10.1 The Medicare Learning Network (MLN): CLIA Brochure - MLN006270, MM12381 US Food and Drug Administration (FDA)",
+    "mapping_eligibility": {
+      "eligible": true,
+      "route": "MAP_NEEDED",
+      "reason": "no explicit codes; 7 procedural terms",
+      "explicit_code_count": 0,
+      "procedure_terms": [
+        "examination",
+        "laboratories",
+        "laboratory",
+        "pathological",
+        "procedures",
+        "specimen",
+        "testing"
+      ],
+      "admin_terms": [
+        "eligibility",
+        "enrollment"
+      ]
+    },
+    "mapping_status": "pending"
+  },
+  {
+    "policy_title": "From – To Date Policy",
+    "policy_number": "2026R9011A",
+    "effective_date": "2/1/2026",
+    "expiry_date": null,
+    "Line_of_Business": "Medicare Advantage",
+    "Billingclass": "Professional",
+    "CPT_CODES_USED": [
+      "99212"
+    ],
+    "reimbursement_guidelines": {
+      "title": "Reimbursement Guidelines",
+      "content": "The National Uniform Claim Committee (NUCC) develops and oversees the NUCC Data Set (NUCC-DS), which is a standardized data set for use in an electronic environment, but applicable to and consistent with evolving paper claim form standards. The NUCC 1500 Health Insurance Claim Form Reference Instruction Manual For Form Version 02/12 provides instruction for the completion of the 1500 Health Insurance Claim form. This manual includes the following instruction for entering the dates of service:\n- \"If there is only one date of service, enter that date under 'From.' Leave 'To' blank or re-enter 'From' date.\" - \"If Grouping services, the place of service, procedure code, charges, and individual provider for each line must be identical for that service line. Grouping is allowed only for services on consecutive days. The number of days must correspond to the number of units in 24G 'Days or Units' field.\"\nThe Centers for Medicare and Medicaid Services (CMS) Medicare Claims Processing Manual Chapter 26, also states: \"When 'from' and 'to' dates are shown for a series of identical services, enter the number of days or units in column G.\" CMS returns a claim as unprocessable if a date of service extends more than 1 day and a valid \"to\" date is not present.\nConsistent with NUCC and CMS, UnitedHealthcare Medicare Advantage will only consider reimbursement for claim lines with a 'from' and 'to' date span greater than one day, when the units entered correspond to or are equally divisible by the number of days indicated. Claim lines for which the 'from' and 'to' dates and units do not correspond or are not equally divisible by the number of days indicated, will not be processed. The services will need to be resubmitted on separate claim form lines with the units matching the corresponding from and to dates.\nAn example of a claim form submission where the service dates cannot be determined and therefore the claim cannot be processed:\nThe claim should be submitted as follows:\nUnitedHealthcare Medicare Advantage recognizes there are exceptions to this policy based on the uniqueness of some CPT and HCPCS codes reported for services rendered. The following types of services are exempt from this policy:\n- Certain CPT and HCPCS codes, based on their description, are not intended to be reported on consecutive dates of service, but may be appropriate to report with a 'from' and 'to' date. For example, codes whose descriptions say per week, per month, per course of treatment would be considered exceptions to this policy. - Procedure Codes that represent drugs/biologicals, some radiology, Durable Medical Equipment (DME) and Home Health, Unlisted Procedures, Add-on Procedures for additional time, ambulance etc. - Claims with provider specialty Anesthesia - Type of service is \"7\" (CMS Anesthesia Type of service in 100-04 Medicare Claims Processing Manual, Chapter 26) - Claims for Home Service Providers for DME and Home Health Place of service Home (12)",
+      "tables": [
+        {
+          "type": "table",
+          "content": [
+            {
+              "key": "99212",
+              "value": "3 11/01/2014 11/15/2014"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "content": [
+            {
+              "key": "99212",
+              "value": "1 11/01/2014 11/01/2014"
+            },
+            {
+              "key": "99212",
+              "value": "1 11/07/2014 11/07/2014"
+            },
+            {
+              "key": "99212",
+              "value": "1 11/15/2014 11/15/2014"
+            }
+          ]
+        }
+      ]
+    },
+    "Question_Answer_Rules": [
+      {
+        "Rule 1": {
+          "Q": "What fields on the 1500 claim form are you referencing for the \"Days or Units\" and \"From\" and \"To\" date?",
+          "A": "These claim form fields on the 1500 claim form are identified as follows: Paper Claims with CMS Paper Format 02-12: The \"From\" and \"To\" dates are entered in 24A DATE(S) OF SERVICE field. \"Days or Units\" are entered in field 24G DAYS OR UNITS field for each applicable service line. For additional information, refer to the National Uniform Correct Coding (NUCC) Website: http://www.nucc.org/. Electronic Claims: Reference the Health Insurance Portability and Accountability Act of 1996 (HIPAA) guidelines, electronic claims submitted via the 837 Professional transaction set or the NUCC website, which provides a 1500-837p crosswalk."
+        }
+      }
+    ],
+    "linked_pdf_contents": null,
+    "resources": "www.cms.gov Medicare Claims Processing Manual - Chapter 26 - Completing and Processing Form CMS-1500 Data Set: Section 10.4, Item 14-33 National Uniform Claim Committee (NUCC)",
+    "mapping_eligibility": {
+      "eligible": true,
+      "route": "MAP_NEEDED",
+      "reason": "no explicit codes; 5 procedural terms",
+      "explicit_code_count": 0,
+      "procedure_terms": [
+        "anesthesia",
+        "equipment",
+        "procedure",
+        "procedures",
+        "radiology"
+      ],
+      "admin_terms": []
+    },
+    "mapping_status": "pending"
+  },
+  {
+    "policy_title": "Hospital Acquired Conditions Policy",
+    "policy_number": "2026R9014A",
+    "effective_date": "11/1/2026",
+    "expiry_date": null,
+    "Line_of_Business": "Medicare Advantage",
+    "Billingclass": "Facility",
+    "CPT_CODES_USED": [
+      "4010A"
+    ],
+    "reimbursement_guidelines": {
+      "title": "Reimbursement Guidelines",
+      "content": "Hospital Acquired Conditions (HAC) are serious conditions that patients get during an inpatient hospital stay. If hospitals follow proper procedures, patients are less likely to get these conditions. UnitedHealthcare Medicare Advantage doesn't pay for any of these conditions, and patients can't be billed for them, if acquired while in the hospital. UnitedHealthcare Medicare Advantage will only pay for these conditions if they were present on admission to the hospital.\nThrough collaboration with the Centers for Disease Control and Prevention (CDC) and extensive public input, Centers for Medicare and Medicaid Services (CMS) identified HACs (See below) as being reasonably preventable based on the application of published, evidence-based guidelines and thus targeted these HACs for program payment reductions. Selected HACs have to be conditions that are high volume and/or high cost, be identified in the CMS grouper as a complication or comorbidity (CC) or major complication or comorbidity (MCC) for purposes of Medicare Severity Diagnosis Related Grouper (MS-DRG) assignment and be reasonably preventable using evidence-based guidelines.\nOn July 31, 2008, in the Inpatient Prospective Payment System (IPPS) Fiscal Year (FY) 2009 Final Rule, CMS included 10 categories of conditions that were selected for the HAC payment provision. Payment implications began October 1, 2008, for these HACs.\nThese 14 categories of HACs listed below include the new HACs from the IPPS FY 2013 Final Rule which are Surgical Site Infection Following Cardiac Implantable Electronic Device (CIED) and Iatrogenic Pneumothorax with Venous Catheterization. For FY 2014 and FY 2015, there are no additional HACs added.\nEffective October 1, 2015, the International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10- CM) Version 33 Hospital Acquired Condition (HAC) list replaced the ICD-9-CM Version 32 HAC list.\nHAC Categories: 01-Foreign Object Retained Following Surgery 02-Air Embolism 03-Blood Incompatibility 04-Stage III and IV Pressure Ulcers 05-Falls and Trauma 06-Catheter-Associated Urinary Tract Infection (UTI) 07-Vascular Catheter-Associated Infection 08-Surgical Site Infection (SSI) -Mediastinitis Following Coronary Artery Bypass Graft (CABG) 09-Manifestations of Poor Glycemic Control 10-Deep Vein Thrombosis (DVT)/Pulmonary Embolism (PE) With Total Knee or Hip Replacement 11-Surgical Site Infection (SSI) Following Bariatric Surgery for Obesity 12-Surgical Site Infection (SSI) Following Certain Orthopedic Procedures of Spine, Neck, Shoulder or Elbow 13-Surgical Site Infection (SSI) Following Cardiac Implantable Electronic Device (CIED) Procedures 14-Iatrogenic Pneumothorax w/ Venous Catheterization\nPresent on Admission Guidelines To group diagnoses into the proper Diagnosis-related group (DRG), CMS needs to capture a Present on Admission (POA) Indicator for all claims involving inpatient admissions to general acute care hospitals. Collection of POA indicator data is necessary to identify which conditions were acquired during hospitalization for the HAC payment provision as well as for broader public health uses of Medicare data. Use the UB-04 Data Specifications Manual and the ICD-10-CM Official Guidelines for Coding and Reporting to facilitate the assignment of the POA indicator for each \"principal\" diagnosis and \"other\" diagnoses codes reported on claim forms UB-04 and 837 Institutional.\nThe POA Indicator guidelines are not intended to provide guidance on when a condition should be coded, rather to provide guidance on how to apply the POA Indicator to the final set of diagnosis codes that have been assigned in accordance with Sections I, II, and III of the official coding guidelines. Subsequent to the assignment of the ICD-10-CM codes, the POA Indicator should be assigned to all diagnoses that have been coded.\nA joint effort between the health care provider and the coder is essential to achieve accurate and complete documentation, code assignment, and reporting of diagnoses and procedures. The importance of consistent, complete documentation in the medical record cannot be overemphasized.\nThe provider, a provider's billing office, third party billing agents and anyone else involved in the transmission of this data shall insure that any re-sequencing of diagnosis codes prior to transmission to CMS also includes a re-sequencing of the POA Indicators.\nGeneral POA Reporting Requirements - POA indicator reporting is mandatory for all claims involving inpatient admissions to general acute care hospitals or other facilities. - POA is defined as present at the time the order for inpatient admission occurs. Conditions that develop during an outpatient encounter, including emergency department, observation, or outpatient surgery, are considered POA. - A POA Indicator must be assigned to principal and secondary diagnoses (as defined in Section II of the Official Guidelines for Coding and Reporting) and the external cause of injury codes. CMS does not require a POA Indicator for an external cause of injury code unless it is being reported as an \"other diagnosis.\" - Issues related to inconsistent, missing, conflicting, or unclear documentation must be resolved by the provider. - If a condition would not be coded and reported based on Uniform Hospital Discharge Data Set definitions and current official coding guidelines, then the POA Indicator would not be reported.\nTable 2 below includes a list of the POA indicator reporting options, descriptions, and Medicare payment based on the Inpatient Prospective Payment System (IPPS) Fiscal Year (FY) 2011 Final Rule, published by CMS in August 2010. The Final Rule made a change to POA indicator reporting. Effective January 1, 2011, hospitals reporting with the 5010 format will no longer report a POA indicator of \"1\" for POA exempt codes.\nPOA Documentation The importance of consistent, complete documentation in the medical record cannot be overemphasized. Medical record documentation from any provider involved in the care and treatment of the patient may be used to support the determination of whether a condition was POA. In the context of the official coding guidelines, the term \"provider\" means a physician or any qualified health care practitioner who is legally accountable for establishing the patient's diagnosis.\nNOTE: Providers, their billing offices, third party billing agents, and anyone else involved in the transmission of this data must ensure that any re-sequencing of ICD-10-CM diagnosis codes prior to their transmission to CMS also includes a re-sequencing of the POA indicators.\nTable 2: CMS POA Indicator Reporting Options, Description, and Payment",
+      "tables": [
+        {
+          "type": "table",
+          "content": [
+            {
+              "key": "Y",
+              "value": "Diagnosis was present at time of inpatient admission. Payment is made for condition when an HAC is present"
+            },
+            {
+              "key": "N",
+              "value": "Diagnosis was not present at time of inpatient admission. No payment is made for condition when an HAC is present"
+            },
+            {
+              "key": "U",
+              "value": "Documentation insufficient to determine if condition was present at the time of inpatient admission. No payment is made for condition when an HAC is present"
+            },
+            {
+              "key": "W",
+              "value": "Clinically undetermined. Provider unable to clinically determine whether the condition was present at the time of inpatient admission. Payment is made for condition when an HAC is present"
+            },
+            {
+              "key": "1",
+              "value": "Unreported/Not used. Exempt from POA reporting. This code is the equivalent of a blank on the UB-04, it was determined that blanks were undesirable when submitting this data via the 4010A. NOTE: The number \"1\" POA Indicator should not be applied to any codes on the HAC list. Exempt from POA reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "Question_Answer_Rules": [
+      {
+        "Rule 1": {
+          "Q": "Do the POA and HAC programs apply to outpatient or ambulatory surgery services?",
+          "A": "No, this program is only for inpatient acute care admissions."
+        },
+        "Rule 2": {
+          "Q": "If the POA indicator is not on the claim, will the claim be returned?",
+          "A": "Beginning with claims with discharges on or after October 1, 2008, if hospitals do not report a valid POA code for each diagnosis on the claim, the claim will be returned to the hospital for correct submission of POA information."
+        }
+      }
+    ],
+    "linked_pdf_contents": null,
+    "resources": "www.cms.gov Centers for Medicare and Medicaid Services: Hospital-Acquired Conditions (Present on Admission Indicator) Medicare Benefit Policy Manual - Chapter 06 - Hospital Services Covered Under Part B: Section 20.3 Medicare Claims Processing Manual - Chapter 03 - Inpatient Hospital Billing: Section 40.3 Item D The Medicare Learning Network (MLN): HOSPITAL-ACQUIRED CONDITIONS AND PRESENT ICN 901046",
+    "mapping_eligibility": {
+      "eligible": true,
+      "route": "MAP_NEEDED",
+      "reason": "no explicit codes; 7 procedural terms",
+      "explicit_code_count": 0,
+      "procedure_terms": [
+        "catheter",
+        "catheterization",
+        "device",
+        "implantable",
+        "procedures",
+        "surgery",
+        "surgical"
+      ],
+      "admin_terms": [
+        "assignment"
+      ]
+    },
+    "mapping_status": "pending"
+  },
+  {
+    "policy_title": "Hospital Inclusive Charges Policy",
+    "policy_number": "2025R9065A",
+    "effective_date": "12/1/2025",
+    "expiry_date": null,
+    "Line_of_Business": "Medicare Advantage",
+    "Billingclass": "Facility",
+    "CPT_CODES_USED": [],
+    "reimbursement_guidelines": {
+      "title": "Reimbursement Guidelines",
+      "content": "UnitedHealthcare incorporates CMS's Provider Reimbursement Manual definition of \"routine services\". Routine services encompass regular room/observation room costs, dietary and nursing services, minor medical and surgical supplies, medical and psychiatric social services, and the use of certain equipment and facilities without a separate charge. While services not considered routine (or \"ancillary\") may be considered for reimbursement, routine aspects of such ancillary services will not be separately reimbursed.\nRoutine services are incorporated into the reimbursement for the room and board charge (which can include both standard hospital rooms and special care units such as the CCU or ICU), facility charge, or ancillary service charge, as appropriate for the location where the services are provided. There is no separate reimbursement for bundled separately billed routine services.\nThe following lists offer examples of routine services that are not eligible for separate reimbursement. Please note, these are examples and do not constitute a comprehensive list, whether explicitly mentioned or implied in parentheses.\nRoutine medical equipment and supplies are not eligible for separate reimbursement as they are included in the reimbursement for the procedure or facility charge. These items, which are generally available to all patients receiving services, are considered floor stock, and are incorporated into the overall reimbursement of the procedure or facility charge. Therefore, routine supplies are not separately reimbursable.\nMedical Equipment/Supplies This includes, but is not limited to, items associated with revenue codes 260-269, 270, 279, 410, and 412 Intravenous (IV) Therapy, IV Infusion Pump, IV Sterile Supplies (Surgical Instruments, Biopsy Forceps, Pharmacy Services Implanted Medical Devices) Non-Sterile Supplies (Stethoscopes, Bandages, Perfusion Equipment and Supplies Diagnostic Kits, Medical Instruments) Machines (Anesthesia, Bladder Scanner, Blood Pumps (IV, Bio, syringe, blood warmer, suction, feeding, Pressure, Humidifier, CPAP) PCA) Beds, Commodes, Scales, Overhead Frame Fetal Monitors\nMedical/Surgical Supplies This includes, but is not limited to, items associated with revenue codes 250, 270-279 Alcohol Swabs/Pads/Baby Powder Basin Bandages/Dressings Mouth Care Kits Batteries Oxygen and Supplies (Masks, Cannula, Tubing) Bedpans Breast Pumps Cold/Hot Packs Reusable Equipment or Items Heat Lights or Pads Thermometers IV Solutions IV Saline and/or Heparin Flushes Tubing (IV, Blood) Items used for specimens' collection (arterial blood gas kit, urine collection kits, mucus traps)\nNursing Care/Services, carried out by primary bedside nurses (RN and/or LPN), respiratory therapists, certified nursing assistants, perfusionists or other technicians as part of their daily responsibilities, are included in the reimbursement for the room and board charge and are not eligible for separate reimbursement.\nIn addition to the above-listed services, personal and supply items, and equipment, if post-operative surgical or procedural recovery services are performed in any critical care room setting other than the Pre-and Post-Anesthesia Recovery Room, the critical care daily room charges will cover service charges. This coverage extends to surgical suites (both major and minor), treatment rooms, endoscopy labs, cardiac cath labs, X-ray facilities, pulmonary and cardiology procedural rooms. Reimbursement of the hospital's charge for surgical suites and services includes the entire range of nursing personnel services, supplies, and equipment, as already included in the basic or critical care daily room charges. Additionally, the following services and equipment will be incorporated into the surgical rooms and service charge reimbursement.\nCharges for the management of a Ventilator or CPAP, owned by the facility, will be considered for reimbursement for one (1) unit per day. Certain services ancillary to the Ventilator or CPAP usage are separately reimbursable, however there are components within these services that are routine and integral to the delivery and are not separately reimbursed.",
+      "tables": [
+        {
+          "type": "table",
+          "content": [
+            {
+              "key": "Administration of Blood or any Blood Product",
+              "value": "Administration/Application of any Medication, Chemotherapy, and/or IV Fluids"
+            },
+            {
+              "key": "Assisting Physician in Performing any Procedure",
+              "value": "Medical Record Documentation"
+            },
+            {
+              "key": "Accessing Indwelling IV Catheter",
+              "value": "Preparing and Dispensing Medication"
+            },
+            {
+              "key": "Monitoring (Cardiac Monitors, Vital Signs)",
+              "value": "Fluid Specimen Collection"
+            },
+            {
+              "key": "Personal Hygiene",
+              "value": "Point of Care Testing (Glucose, Urine Dip, ABG)"
+            },
+            {
+              "key": "Respiratory Treatments",
+              "value": "Incremental Nursing Care"
+            },
+            {
+              "key": "Insertion, removal, maintenance of Nasogastric Tubes",
+              "value": "IV Hydration"
+            },
+            {
+              "key": "Maintenance or Flushing of Tubing",
+              "value": "Tracheostomy Care"
+            },
+            {
+              "key": "Urinary Catheterization",
+              "value": "Venipuncture (Venous or Arterial)"
+            },
+            {
+              "key": "IV and PICC line insertions",
+              "value": "IV transfusions"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "content": [
+            {
+              "key": "Anesthesia Equipment, Monitors and Gases",
+              "value": "Robotic Assisted Techniques"
+            },
+            {
+              "key": "Intubation/Extubation",
+              "value": "Drill bits, Saws, Blades, etc."
+            },
+            {
+              "key": "Blood Pressure/Vital Sign Equipment",
+              "value": "Batteries for any Equipment"
+            },
+            {
+              "key": "Cardiac Monitors",
+              "value": "Saline Infusion, slush machine,"
+            },
+            {
+              "key": "Cardiopulmonary Bypass Equipment",
+              "value": "CO2 Monitors"
+            },
+            {
+              "key": "Surgeons' Loupes or visual Assisting Devices",
+              "value": "Surgical Cultures"
+            },
+            {
+              "key": "Grounding Pads",
+              "value": "Hemochron Supplies"
+            },
+            {
+              "key": "Laparoscopes, Bronchoscopes, Endoscopes, Fluoroscopies/C-arm, and Additional Accessories",
+              "value": "Local Anesthesia"
+            },
+            {
+              "key": "Laboratory Specimen Collection",
+              "value": "Video Camera Equipment"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "content": [
+            {
+              "key": "System Set Up, System Checks, Circuit Change",
+              "value": "Respiratory assessment"
+            },
+            {
+              "key": "Tracheostomy, Supplies and Care",
+              "value": "Carbon Dioxide end tidal system setup and/or monitoring"
+            },
+            {
+              "key": "O2, CPAP, PEEP changes",
+              "value": "Endotracheal suctioning, weaning, extubating,"
+            }
+          ]
+        }
+      ]
+    },
+    "Question_Answer_Rules": [
+      {
+        "Rule 1": {
+          "Q": "Why did UnitedHealthcare publish this policy?",
+          "A": "UnitedHealthcare introduced the Hospital Inclusive Charges Policy to provide greater transparency into our process regarding items associated with certain inpatient and outpatient stays that aren't considered separately reimbursable. These items are already included within the room and board reimbursement or the reimbursement for an underlying procedure, as applicable."
+        },
+        "Rule 2": {
+          "Q": "What should facilities expect to see differently?",
+          "A": "Facilities already receive documentation requests to ensure reimbursements comply with policy requirements as part of our standard process. This will provide greater transparency into that process, which is used today in reviews and audits of claims paid on a percent of charge basis such as itemized bill reviews and hospital bill audits."
+        }
+      }
+    ],
+    "linked_pdf_contents": null,
+    "resources": "American Medical Association, Current Procedural Terminology ( CPT ) Professional Edition and associated publications and services Centers for Medicare and Medicaid Services, CMS Manual System and other CMS publications and services Centers for Medicare and Medicaid Services, Healthcare Common Procedure Coding System, HCPCS Release and Code Sets CMS, National Correct Coding Initiative Policy Manual for Medicare & Medicaid",
+    "mapping_eligibility": {
+      "eligible": true,
+      "route": "MAP_NEEDED",
+      "reason": "no explicit codes; 19 procedural terms",
+      "explicit_code_count": 0,
+      "procedure_terms": [
+        "anesthesia",
+        "biopsy",
+        "catheter",
+        "catheterization",
+        "chemotherapy",
+        "diagnostic",
+        "endoscopes",
+        "endoscopy",
+        "equipment",
+        "implanted",
+        "infusion",
+        "laboratory"
+      ],
+      "admin_terms": [
+        "audits"
+      ]
+    },
+    "mapping_status": "pending"
+  },
+  {
+    "policy_title": "Increased Procedural Services Policy",
+    "policy_number": "2026R9015A",
+    "effective_date": "8/1/2026",
+    "expiry_date": null,
+    "Line_of_Business": "Medicare Advantage",
+    "Billingclass": "Professional",
+    "CPT_CODES_USED": [
+      "20100",
+      "69990"
+    ],
+    "reimbursement_guidelines": {
+      "title": "Reimbursement Guidelines",
+      "content": "UnitedHealthcare Medicare Advantage's standard for additional reimbursement of Modifier 22 and/or Modifier 63 is 20% of the Allowable Amount for the unmodified procedure, not to exceed the billed charges. Claims submitted with these modifiers must include medical record documentation which supports the use of the modifiers and which will be reviewed by UnitedHealthcare Medicare Advantage in accordance with this policy. Note: When both Modifier 22 and Modifier 63 are appended to the same CPT code, reimbursement will be a total of an additional 20% of the Allowable Amount of the unmodified procedure, not to exceed the billed charges, provided the documentation supports use of either Modifier 22 or Modifier 63. Modifier 22 In order to be considered for additional reimbursement when reporting Modifier 22, the provider is required to provide a concise statement about how the service differs from the usual, and an operative report. The concise statement may be documented on the operative report, but it must be clearly identified. The document(s) must indicate the substantial additional work performed and the reason for the additional work which may include, but not be limited to, increased intensity or time, technical difficulty of procedure that is not described by a more comprehensive procedure code, severity of the patient's condition, or increased physical and mental effort required. Modifier 22 should not be appended to an evaluation and management service. Modifier 63 In order to be considered for additional reimbursement when reporting Modifier 63, thorough medical record(s) or report(s) that support the use of the modifier is required. The document(s) must indicate the substantial additional work performed and the reason for the additional work which may include, but not be limited to, increased intensity or time, technical difficulty of procedure that is not described by a more comprehensive procedure code, severity of the patient's condition, or increased physical and mental effort required. Unless otherwise designated, this modifier may only be appended to procedures/services listed in the 20100-69990 code series. Modifier 63 should not be appended to any CPT code listed in the Evaluation and Management Services, Anesthesia, Radiology, Pathology/Laboratory, or Medicine sections.",
+      "subsections": [
+        {
+          "title": "Modifier 22",
+          "content": "In order to be considered for additional reimbursement when reporting Modifier 22, the provider is required to provide a concise statement about how the service differs from the usual, and an operative report. The concise statement may be documented on the operative report, but it must be clearly identified. The document(s) must indicate the substantial additional work performed and the reason for the additional work which may include, but not be limited to, increased intensity or time, technical difficulty of procedure that is not described by a more comprehensive procedure code, severity of the patient’s condition, or increased physical and mental effort required. Modifier 22 should not be appended to an evaluation and management service."
+        },
+        {
+          "title": "Modifier 63",
+          "content": "In order to be considered for additional reimbursement when reporting Modifier 63, thorough medical record(s) or report(s) that support the use of the modifier is required. The document(s) must indicate the substantial additional work performed and the reason for the additional work which may include, but not be limited to, increased intensity or time, technical difficulty of procedure that is not described by a more comprehensive procedure code, severity of the patient’s condition, or increased physical and mental effort required. Unless otherwise designated, this modifier may only be appended to procedures/services listed in the 20100-69990 code series. Modifier 63 should not be appended to any CPT code listed in the Evaluation and Management Services, Anesthesia, Radiology, Pathology/Laboratory, or Medicine sections."
+        },
+        {
+          "title": "Modifiers",
+          "content": ""
+        }
+      ]
+    },
+    "Question_Answer_Rules": null,
+    "linked_pdf_contents": null,
+    "resources": "www.cms.gov American Medical Association (AMA) Current Procedural Terminology (CPT) Centers for Medicare and Medicaid Services: PFS Relative Value Files, Medicare Fee Schedules Medicare Claims Processing Manual - Chapter 12 - Physicians/Nonphysician Practitioners: Section: 20.4.6, 40.2;10, 40.4",
+    "mapping_eligibility": {
+      "eligible": true,
+      "route": "MAP_NEEDED",
+      "reason": "no explicit codes; 7 procedural terms",
+      "explicit_code_count": 0,
+      "procedure_terms": [
+        "anesthesia",
+        "evaluation and management",
+        "laboratory",
+        "pathology",
+        "procedure",
+        "procedures",
+        "radiology"
+      ],
+      "admin_terms": []
+    },
+    "mapping_status": "pending"
+  },
+  {
+    "policy_title": "Medicare Physician Fee Schedule Status Indicator, Professional - Reimbursement Policy",
+    "policy_number": "2026R9003A",
+    "effective_date": "1/1/2026",
+    "expiry_date": null,
+    "Line_of_Business": "Medicare Advantage",
+    "Billingclass": "Professional",
+    "CPT_CODES_USED": [],
+    "reimbursement_guidelines": {
+      "title": "Reimbursement Guidelines",
+      "content": "All codes published on the NPFS Relative Value File are assigned a status code. Per the public use file that accompanies the NPFS Relative Value File, the status code indicates whether the code is separately payable if the service is covered. Only Relative Value Unites (RVUs) associated with status codes of \"A\", \"R\", or \"T\", are used for Medicare payment. Attachment A of the NPFS Relative Value File provides a description of status code values and states the following for B, I, M, N, P, & T, B - \"Bundled\" Codes - Payment for covered services are always bundled into payment for other services not specified. If Relative Value Units (RVUs) are shown on the fee schedule, they are not used for Medicare payment. If these services are covered, payment for them is subsumed by the payment for the services to which they are incident. (An example is a telephone call from a hospital nurse regarding care of a patient). I - \"Not valid for Medicare purposes\" - Medicare uses another code for reporting of, and payment for, these services. (Code NOT subject to a 90-day grace period.)",
+      "subsections": [
+        {
+          "title": "M - \"Measurement\" codes.   Used for reporting purposes only.",
+          "content": "N - \"Non-covered\" Services. These services are not covered by Medicare. P - \"Bundled/Excluded\" Codes. There are no RVUs, and no payment amounts for these services. No separate payment should be made for them under the fee schedule. - If the item or service is covered as incident to a physician service and is provided on the same day as a physician service, payment for it is bundled into the payment for the physician service to which it is incident. (An example is an elastic bandage furnished by a physician incident to physician service.) - If the item or service is covered as other than incident to a physician service, it is excluded from the fee schedule (i.e., colostomy supplies) and should be paid under the other payment provision of the Act. T - \"Injections\". There are RVUs, and payment amounts for these services, but they are only paid if there are no other services payable under the physician fee schedule billed on the same date by the same provider. If any other services payable under the physician fee schedule are billed on the same date by the same provider, these services are bundled into the physician services for which payment is made. Consistent with CMS, UnitedHealthcare Medicare Advantage will not separately reimburse for specific Current Procedural Terminology (CPT) and Healthcare Common Procedure Coding System (HCPCS) codes assigned a status code of B, I, M, N, or P on the NPFS Relative Value File."
+        },
+        {
+          "title": "CPT Category II Codes",
+          "content": "According to the American Medical Association (AMA) Current Procedural Terminology (CPT) guidelines, Category II codes are supplemental tracking codes that can be used for performance measurement. The use of the tracking codes for performance measurement will decrease the need for record abstraction and chart review, and thereby minimize administrative burdens on physicians and other health care professionals. These codes are intended to facilitate data collection about quality of care by coding certain services and/or test results that support performance measures and that have been agreed upon as contributing to good patient care. Some codes in this category may relate to compliance by the health care professional with state or federal law. As such, UnitedHealthcare Medicare Advantage recognizes all CPT Category II codes as measurement codes used for reporting purposes only, regardless of status indicator M or I designation."
+        }
+      ]
+    },
+    "Question_Answer_Rules": [
+      {
+        "Rule 1": {
+          "Q": "What if CMS has labeled some codes with a non-covered status but the member has extended benefits for them?",
+          "A": "Codes identified as supplemental benefits for our members will be carved out of the non-covered status and bypassed from the global denial."
+        },
+        "Rule 2": {
+          "Q": "If a code with status indicator of B, I, M, or P is billed for a member, whose liability is the denied service?",
+          "A": "If one of the codes with these status indicators is billed, the Provider will be held liable for the denied service. The member will be held harmless."
+        }
+      }
+    ],
+    "linked_pdf_contents": null,
+    "resources": "www.cms.gov Centers for Medicare and Medicaid Services: PFS Relative Value Files, HCPCS Release & Code Sets Medicare Claims Processing Manual - Chapter 05 - Part B Outpatient Rehabilitation and CORF/OPT Services: Section: 10 Medicare Claims Processing Manual - Chapter 12 - Bundled Services/Supplies Section: 20.3 Medicare Benefit Policy Manual - Chapter 15 - Covered Medical and Other Health Services Section: 220.4 Medicare Claims Processing Manual - Chapter 23 - Fee Schedule Administration and Coding Requirements Section: 30.2.2 The Medicare Learning Network (MLN) MLN Matters: MM9476; MM8166; MM8005; SE1307; MM11453,",
+    "mapping_eligibility": {
+      "eligible": true,
+      "route": "MAP_NEEDED",
+      "reason": "no explicit codes; 4 procedural terms",
+      "explicit_code_count": 0,
+      "procedure_terms": [
+        "injections",
+        "procedure",
+        "rehabilitation",
+        "supplies"
+      ],
+      "admin_terms": []
+    },
+    "mapping_status": "pending"
+  },
+  {
+    "policy_title": "Modifier Reference Policy",
+    "policy_number": "2026R9058A",
+    "effective_date": "3/1/2026",
+    "expiry_date": null,
+    "Line_of_Business": "Medicare Advantage",
+    "Billingclass": "Professional",
+    "CPT_CODES_USED": [],
+    "reimbursement_guidelines": {
+      "title": "Reimbursement Guidelines",
+      "content": "",
+      "subsections": [
+        {
+          "title": "Modifiers",
+          "content": "Reimbursement Policy to Modifier Reference Table",
+          "tables": [
+            {
+              "type": "table",
+              "content": [
+                {
+                  "key": "Modifier",
+                  "value": "Industry Standards for Usage According Refer to Reimbursement Policy"
+                },
+                {
+                  "key": "22",
+                  "value": "This modifier should not be appended to an E/M service. - Anesthesia"
+                },
+                {
+                  "key": "24",
+                  "value": "This modifier is only used with E/M services in the CPT codebook. It is not used in any other section of the CPT codebook. - Global Days"
+                },
+                {
+                  "key": "25",
+                  "value": "Modifier 25 should be used with E/M codes only and not appended to the surgical procedure code(s). - Global Days"
+                },
+                {
+                  "key": "26",
+                  "value": "- Intraoperative Neuromonitoring"
+                },
+                {
+                  "key": "27",
+                  "value": "This modifier is approved for ambulatory surgery center (ASC) hospital outpatient use - Modifiers Not Reimbursable to Healthcare Professionals"
+                },
+                {
+                  "key": "47",
+                  "value": "Modifier 47 would not be used as a modifier for the anesthesia procedures. - Anesthesia"
+                },
+                {
+                  "key": "50",
+                  "value": "- Bilateral Procedures"
+                },
+                {
+                  "key": "51",
+                  "value": "- Multiple Procedures Payment Reduction (MPPR) for Medical and Surgical Services"
+                },
+                {
+                  "key": "52",
+                  "value": "- Bilateral Procedures"
+                },
+                {
+                  "key": "53",
+                  "value": "- Reduced Services and Discontinued Procedures"
+                },
+                {
+                  "key": "54",
+                  "value": "- Procedure and Place of Service"
+                },
+                {
+                  "key": "55",
+                  "value": "- Once in a Lifetime Procedures"
+                },
+                {
+                  "key": "56",
+                  "value": "- Once in a Lifetime Procedures"
+                },
+                {
+                  "key": "57",
+                  "value": "Modifier 57 is used only with an E/M service. - Global Days"
+                },
+                {
+                  "key": "58",
+                  "value": "- Global Days"
+                },
+                {
+                  "key": "62",
+                  "value": "- Co-Surgeon/Team Surgeon"
+                },
+                {
+                  "key": "63",
+                  "value": "This modifier should not be appended to any CPT code listed in the Evaluation and Management Services, Anesthesia, Radiology, Pathology/Laboratory, or Medicine sections. - Increased Procedural Services"
+                },
+                {
+                  "key": "66",
+                  "value": "- Co-Surgeon/Team Surgeon"
+                },
+                {
+                  "key": "73",
+                  "value": "This modifier is approved for ambulatory surgery center (ASC) hospital outpatient use - Modifiers Not Reimbursable to Healthcare Professionals"
+                },
+                {
+                  "key": "74",
+                  "value": "This modifier is approved for ambulatory surgery center (ASC) hospital outpatient use - Modifiers Not Reimbursable to Healthcare Professionals"
+                },
+                {
+                  "key": "76",
+                  "value": "This modifier should not be appended to an E/M service. For repeat laboratory tests performed on the same day, use modifier 91. For multiple specimens/sites use modifier 59 - Anesthesia"
+                },
+                {
+                  "key": "77",
+                  "value": "This modifier should not be appended to an E/M service. For repeat laboratory tests performed on the same day, use modifier 91. For multiple specimens/sites use modifier 59. - Anesthesia"
+                },
+                {
+                  "key": "78",
+                  "value": "- Anesthesia"
+                },
+                {
+                  "key": "79",
+                  "value": "- Anesthesia"
+                },
+                {
+                  "key": "80",
+                  "value": "- Assistant-at-Surgery"
+                },
+                {
+                  "key": "81",
+                  "value": "- Assistant-at-Surgery"
+                },
+                {
+                  "key": "82",
+                  "value": "- Assistant-at-Surgery"
+                },
+                {
+                  "key": "91",
+                  "value": "- Laboratory Services"
+                },
+                {
+                  "key": "AS",
+                  "value": "- Assistant Surgeon"
+                },
+                {
+                  "key": "E1-E4",
+                  "value": "- Bilateral Procedures"
+                },
+                {
+                  "key": "FA, F1-F9",
+                  "value": "- Bilateral Procedures"
+                },
+                {
+                  "key": "GN",
+                  "value": "- Physical Medicine & Rehabilitation: Speech Therapy"
+                },
+                {
+                  "key": "GO",
+                  "value": "- Physical Medicine & Rehabilitation: PT, OT, and Evaluation & Management"
+                },
+                {
+                  "key": "GP",
+                  "value": "- Physical Medicine & Rehabilitation: PT, OT, and Evaluation & Management"
+                },
+                {
+                  "key": "LT",
+                  "value": "- Bilateral Procedures"
+                },
+                {
+                  "key": "PO",
+                  "value": "- Services and Modifiers Not Reimbursable to Healthcare Professionals"
+                },
+                {
+                  "key": "RT",
+                  "value": "- Bilateral Procedures"
+                },
+                {
+                  "key": "T1-T9",
+                  "value": "- Medically Unlikely Edits (MUE)"
+                },
+                {
+                  "key": "TC",
+                  "value": "- Intraoperative Neuromonitoring"
+                },
+                {
+                  "key": "XE",
+                  "value": "HCPCS modifiers for selective identification of subsets of Distinct Procedural Services [- 59 modifier] - Anesthesia"
+                },
+                {
+                  "key": "XP",
+                  "value": "HCPCS modifiers for selective identification of subsets of Distinct Procedural Services [- 59 modifier] - Laboratory Services"
+                },
+                {
+                  "key": "XS",
+                  "value": "HCPCS modifiers for selective identification of subsets of Distinct Procedural Services [- 59 modifier] - Bilateral Procedures"
+                },
+                {
+                  "key": "XU",
+                  "value": "HCPCS modifiers for selective identification of subsets of Distinct Procedural Services [- 59 modifier] - Anesthesia"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "content": [
+                {
+                  "key": "Add On Code Policy, Professional",
+                  "value": "N/A"
+                },
+                {
+                  "key": "Anesthesia Policy, Professional",
+                  "value": "22, 23, 47, 59, 76, 77, 78, 79, AA, AD, GC, G8, G9, QK, QS, QX, QY, QZ, XE, XU"
+                },
+                {
+                  "key": "Assistant-at-Surgery Services Policy, Professional",
+                  "value": "80, 81, 82, AS"
+                },
+                {
+                  "key": "Bilateral Procedures Policy, Professional",
+                  "value": "50, 52, 59, LT, RT"
+                },
+                {
+                  "key": "Brace Supply Codes Direct Sourced Edit",
+                  "value": "N/A"
+                },
+                {
+                  "key": "Clinical Laboratory Improvement Amendments (CLIA) ID Requirement Policy, Professional",
+                  "value": "QW"
+                },
+                {
+                  "key": "Co-Surgeon/Team Surgeon, Professional",
+                  "value": "50, 62, 66, 80, 81, 82, AS"
+                },
+                {
+                  "key": "Discarded Drugs and Biologicals, Professional",
+                  "value": "JW"
+                },
+                {
+                  "key": "Durable Medical Equipment Charges in a Skilled Nursing Facility, Professional",
+                  "value": "N/A"
+                },
+                {
+                  "key": "Durable Medical Equipment, Orthotics and Prosthetics Policy, Professional",
+                  "value": "KH, KI, KJ, KM, KN, KR, KX, LT, MS, NR, NU, RR, RT, UE"
+                },
+                {
+                  "key": "Emergency Department (ED) Evaluation and Management (E&M) Coding Policy, Facility",
+                  "value": "N/A"
+                },
+                {
+                  "key": "Evaluation and Management (E/M) Policy, Professional",
+                  "value": "N/A"
+                },
+                {
+                  "key": "From -To Date Policy, Professional",
+                  "value": "N/A"
+                },
+                {
+                  "key": "Global Days Policy, Professional",
+                  "value": "24, 25, 57, 58, 78, 79, FT, RT, LT"
+                },
+                {
+                  "key": "Hospital Acquired Conditions, Facility",
+                  "value": "N/A"
+                },
+                {
+                  "key": "Inappropriate Primary Diagnosis Policy, Facility",
+                  "value": "N/A"
+                },
+                {
+                  "key": "Incident To Services Policy, Professional",
+                  "value": "N/A"
+                },
+                {
+                  "key": "Increased Procedural Service Policy, Professional",
+                  "value": "22, 63"
+                },
+                {
+                  "key": "Intensity Modulated Radiation Therapy (IMRT) Policy, Professional and Facility",
+                  "value": "59, XU"
+                },
+                {
+                  "key": "Intraoperative Neuromonitoring Policy, Professional (IONM)",
+                  "value": "26, TC"
+                },
+                {
+                  "key": "Laboratory Services Policy, Professional",
+                  "value": "59, 76, 77, 90, 91, 92, XE, XP, XS, XU"
+                },
+                {
+                  "key": "Medically Unlikely Edits (MUE) Policy, Professional",
+                  "value": "59, 76, 77, 91, E1, E2, E3, E4, FA, F1, F2, F3, F4, F5, F6, F7, F8, F9, LC, LD, LM, LT, RC, RI, RT, TA, T1, T2, T3, T4, T5, T6, T7, T8, T9, JW, XE, XP, XS, XU"
+                },
+                {
+                  "key": "Medicare Physician Fee Schedule Status Indicator, Professional",
+                  "value": "N/A"
+                },
+                {
+                  "key": "Microsurgery, Professional",
+                  "value": "N/A"
+                },
+                {
+                  "key": "Modifiers Not Reimbursable to Healthcare Professionals, Professional",
+                  "value": "27, 73, 74, PO"
+                },
+                {
+                  "key": "Mohs Micrographic Surgery Policy, Professional",
+                  "value": "58, 59, XS, XU"
+                },
+                {
+                  "key": "Molecular Pathology Policy, Professional and Facility",
+                  "value": "59, XE, XU"
+                },
+                {
+                  "key": "Multiple Procedure Payment Reduction (MPPR) for Diagnostic Cardiovascular and Ophthalmology Procedures, Professional",
+                  "value": "26, TC"
+                },
+                {
+                  "key": "Multiple Procedure Payment Reduction (MPPR) for Diagnostic Imaging f/k/a Radiology Multiple Imaging Reduction, Professional",
+                  "value": "26, 59, 76, TC, XE"
+                },
+                {
+                  "key": "Multiple Procedure Payment reduction (MPPR) for Medical and Surgical Services, Professional",
+                  "value": "26, 50, 51, 53, 62, 66, 78, 80, 81, 82, AS, TC"
+                },
+                {
+                  "key": "Multiple Procedure Payment Reduction (MPPR) for Therapy Services, Professional",
+                  "value": "GO, GN, GP"
+                },
+                {
+                  "key": "National Drug Code (NDC) Requirement Professional and Facility",
+                  "value": "N/A"
+                },
+                {
+                  "key": "New Patient Visit Policy Professional",
+                  "value": "N/A"
+                },
+                {
+                  "key": "Non-Chemotherapy Injection and Infusion Services Policy, Professional",
+                  "value": "25"
+                },
+                {
+                  "key": "Nonphysician Health Care Professionals Billing E/M Codes, Professional",
+                  "value": "N/A"
+                },
+                {
+                  "key": "Observation and Discharge Policy, Professional and Facility",
+                  "value": "24, 25, 27"
+                },
+                {
+                  "key": "Once in a Lifetime Procedures Policy, Professional",
+                  "value": "53, 55, 56, 58"
+                },
+                {
+                  "key": "Procedure and Place of Service Policy, Professional",
+                  "value": "26, 54, 55, 56, 57, 58"
+                },
+                {
+                  "key": "Procedure to Modifier Policy, Professional",
+                  "value": "CO, CQ, CT, FX, FY, GN, GO, GP, UN, UP, UQ, UR, US"
+                },
+                {
+                  "key": "Professional/Technical Component Policy, Professional",
+                  "value": "26, 59, 76, 77, 91, E1, E2, E3, E4, FA, F1, F2, F3, F4, F5, F6, F7, F8, F9, LC, LD, LM, LT, RC, RI, RT, TC, TA, T1, T2, T3, T4, T5, T6, T7, T8, T9, XE, XP, XS, XU"
+                },
+                {
+                  "key": "Rebundling and NCCI Edits, Professional",
+                  "value": "24, 25, 57, 58, 59, 76, 78, 79, 91, E1, E2, E3, E4, LC, LD, LM, LT, RC, RI, RT, TA, T1, T2, T3, T4, T5, T6, T7, T8, T9, FA, F1, F2, F3, F4, F5, F6, F7, F8, F9, XE, XP, XS, XU"
+                },
+                {
+                  "key": "Reduced Services and Discontinued Procedures, Professional",
+                  "value": "52, 53"
+                },
+                {
+                  "key": "Same Day, Same Service Policy, Professional",
+                  "value": "25"
+                },
+                {
+                  "key": "Services Included in Facility Reimbursement, Professional",
+                  "value": "N/A"
+                },
+                {
+                  "key": "Split Surgical Package Policy, Professional",
+                  "value": "54, 55, 56"
+                },
+                {
+                  "key": "Standby Services Policy, Professional",
+                  "value": "N/A"
+                },
+                {
+                  "key": "Supply Policy, Professional",
+                  "value": "N/A"
+                },
+                {
+                  "key": "Telehealth and Telemedicine Policy, Professional",
+                  "value": "95, G0, GQ, GT"
+                },
+                {
+                  "key": "Time Span Codes Policy, Professional",
+                  "value": "52, 59, 76"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Question_Answer_Rules": null,
+    "linked_pdf_contents": null,
+    "resources": "American Medical Association, Current Procedural Terminology (CPT) and associated publications and services. Centers for Medicare and Medicaid Services, CMS Manual System and other CMS publications and services Centers for Medicare and Medicaid Services, Healthcare Common Procedure Coding System, HCPCS Release and Code Sets",
+    "mapping_eligibility": {
+      "eligible": true,
+      "route": "MAP_NEEDED",
+      "reason": "no explicit codes; 19 procedural terms",
+      "explicit_code_count": 0,
+      "procedure_terms": [
+        "anesthesia",
+        "chemotherapy",
+        "diagnostic",
+        "equipment",
+        "evaluation and management",
+        "imaging",
+        "infusion",
+        "injection",
+        "laboratory",
+        "pathology",
+        "procedure",
+        "procedures"
+      ],
+      "admin_terms": []
+    },
+    "mapping_status": "pending"
+  },
+  {
+    "policy_title": "Multiple Procedure Payment Reduction (MPPR) for Therapy Services, Professional - Reimbursement Policy",
+    "policy_number": "2026R9022A",
+    "effective_date": "3/1/2026",
+    "expiry_date": null,
+    "Line_of_Business": "Medicare Advantage",
+    "Billingclass": "Professional",
+    "CPT_CODES_USED": [],
+    "reimbursement_guidelines": {
+      "title": "Reimbursement Guidelines",
+      "content": "As a step in implementing this provision, Medicare is applying a new MPPR to the Practice Expense (PE) component of payment of select therapy services paid under the MPFS. The reduction will be similar to that currently applied to multiple surgical procedures and to diagnostic imaging procedures. This policy is discussed in the CY 2011 MPFS final rule. Many therapy services are time-based codes, i.e., multiple units may be billed for a single procedure. In compliance with CMS, UnitedHealthcare Medicare Advantage is applying a MPPR to the PE payment when more than one unit or procedure is provided to the same patient on the same day, i.e., the MPPR applies to multiple units as well as multiple procedures. Full payment is made for the unit or procedure with the highest PE payment. For subsequent units and procedures, furnished to the same patient on the same day, full payment is made at 50 percent payment for the PE for services furnished in both office settings and institutional settings. For therapy services furnished by a group practice or \"incident to\" a physician's service, the MPPR applies to all services furnished to a patient on the same day, regardless of whether the services are provided in one therapy discipline or multiple disciplines; for example, physical therapy, occupational therapy, or speech-language pathology. The reduction applies to the Healthcare Common Procedure Coding System (HCPCS) codes contained on the list of \"always therapy\" services that are paid under the physician fee schedule, regardless of the type of provider or supplier that furnishes the services (e.g., hospitals, Home Health Agencies (HHAs), and Comprehensive Outpatient Rehabilitation Facilities (CORFs), etc.) - For professional claims, the MPPR applies to the procedures with a Multiple Procedure value of \"5\" on the Medicare Fee Schedule Database (MFSDB). When applying the 50 percent reduction in non-facility PE Relative Value Units (RVUs), UnitedHealthcare Medicare Advantage will use the fee schedule amounts. In addition, UnitedHealthcare Medicare Advantage will retrieve the non-facility PE RVUs from the physician fee schedule database in order to rank services according to non-facility PE RVU and appropriately apply the MPPR methodology. When the highest non-facility PE RVU applies to more than one of the identified services, UnitedHealthcare Medicare Advantage will additionally sort and rank these services according to highest fee schedule amount, with the highest of these being priced at 100 percent of the non-facility PE RVU, and the others priced at 50 percent of the non-facility PE RVU for professional claims. The following UnitedHealthcare Medicare Advantage reimbursement guidelines will apply to the MPPR for Therapy Services Policy: - The multiple procedure value of \"5,\" the beneficiary's health insurance claim number (HIC), the billing provider National Provider Identifier (NPI) tax identification number (TIN) and date of service to identify therapy services subject to the MPPR. - The MPPR will apply to claims for two or more services identified by the multiple procedure value of 5, for the same beneficiary HIC, same billing provider NPI (TIN) and same date of service - The services will be sorted according to the highest non-facility PE RVU amount such that the service with the highest non-facility PE RVU is ranked first. - In performing the sort, consideration for both non-facility PE RVUs for units for procedures billed in multiple time units, and non-facility PE RVUs for procedures not billed based on time, including both in the ranking such that the highest ranked non-facility PE RVU could be either that for a single time unit of a service or a non-time based service for a beneficiary receiving both types of services on a given date of service through the same billing provider. - If the sort results in the highest ranked non-facility PE RVU applying to two or more services, then these highest non-facility PE RVU services will additionally be sorted according to highest total fee schedule non facility amount, with the service with the highest fee schedule amount ranked first. - In performing the additional sort according to the full fee schedule amount, the full fee schedule amount applicable to 1 unit for those services billed in units will be utilized. - When the service ranked highest according to the sorts is billed in units, and multiple units were reported, the first unit will be ranked as that having the highest non-facility PE RVU. - Reimbursement for the lower of the billed or total fee schedule amount for the service ranked highest according to the sorts described above. - Reimbursement for the lower of the billed or the amount in field 31EE (Reduced Therapy Fee Schedule Amount) for those services ranked below the first ranked service identified through the sorts described above. - The current CMS RVU values will be utilized to administer this policy for claims submitted with a date of service on or after March 1, 2012. These values will be reviewed and updated quarterly to align with CMS when changes are needed. - The MPPR methodology will be applied as described above to therapy services meeting all of the criteria described in this policy, but billed on different days (i.e., coming in on separate claims for the same beneficiary HIC, billing provider NPI (TIN) and date of service)."
+    },
+    "Question_Answer_Rules": [
+      {
+        "Rule 1": {
+          "Q": "How is the PE portion of a service determined?",
+          "A": "The PE portion of a service is determined by calculating the ratio of PE RVU to Total RVU. This ratio is applied to the Allowable Amount of each charge to determine the PE portion in dollars."
+        },
+        "Rule 2": {
+          "Q": "If the Same Individual Physician or Other Qualified Health Care Professional includes several specialties (physical, occupational, speech-language), how will their services provided to a single patient on a single date of service be reduced?",
+          "A": "All Multiple Therapy Reducible Codes reported for a single patient on a single date of service by the Same Individual Physician or Other Qualified Health Care Professional will be viewed together for ranking and reduction purposes. The single code with the highest PE RVU will be ranked primary and will not be reduced. All remaining codes subject to this policy from the same individual physician, regardless of specialty, will be ranked as secondary, tertiary and so on and the PE portion of those services will be reduced by the appropriate percentage, depending on the date the service was performed. See the Reimbursement section for information about reduction percentages."
+        },
+        "Rule 3": {
+          "Q": "Other Physical Medicine & Rehabilitation policies allow the reporting of timed codes with modifiers GO, GN or GP to distinguish the type of specialty provider who is performing services. Should these modifiers still be reported when they apply?",
+          "A": "Yes. Continue to report modifiers that are appropriate and that communicate information that may be used in policies other than this one. The use of these distinguishing modifiers will not exempt reducible codes from multiple therapy reduction when reported by the Same Individual Physician or Other Qualified Health Care Professional for the same member on the same day. However, claims are edited against all applicable policies, so the modifiers should be reported when appropriate to ensure accurate reimbursement under policies other than Multiple Therapy Reduction."
+        },
+        "Rule 4": {
+          "Q": "If the same individual physician with the same TIN reports several Multiple Therapy Reducible Codes on a single date of service on separate claims at different times, how will these codes be reimbursed?",
+          "A": "The claims editing system reviews all codes for a single date of service as if they were reported on a single claim, regardless of when they are reported. When codes for services provided to a single patient on a single date of service that are subject to multiple therapy reduction are submitted on different claims at different times, adjustments will be made to ensure that the code with the highest PE RVU is considered primary (that is, not subject to reduction) and that the remaining codes are correctly ranked and reduced."
+        },
+        "Rule 5": {
+          "Q": "If several Multiple Therapy Reducible Codes that share the same PE RVU are reported on the same date of service, how are they ranked?",
+          "A": "If the sort results in the highest ranked non-facility PE RVU applying to two or more services, then these highest non-facility PE RVU services will additionally be sorted according to highest total fee schedule non facility amount, with the service with the highest fee schedule amount ranked first."
+        },
+        "Rule 6": {
+          "Q": "Will all services provided on the same date as Multiple Therapy Reducible Codes be reduced?",
+          "A": "No. The only services that are subject to this policy are those on the Multiple Therapy Reducible Codes list. However, all codes reported on the same date of service, both reducible and non-reducible, will be subject to all other reimbursement policies that apply."
+        }
+      }
+    ],
+    "linked_pdf_contents": null,
+    "resources": "www.cms.gov Centers for Medicare and Medicaid Services, National Physician Fee Schedule (NPFS) Relative Value Files Medicare Claims Processing Manual - Chapter 23 - Fee Schedule Administration and Coding Requirements: Sections: 30, 30.1 CMS Therapy Services",
+    "mapping_eligibility": {
+      "eligible": true,
+      "route": "MAP_NEEDED",
+      "reason": "no explicit codes; 8 procedural terms",
+      "explicit_code_count": 0,
+      "procedure_terms": [
+        "diagnostic",
+        "imaging",
+        "pathology",
+        "procedure",
+        "procedures",
+        "rehabilitation",
+        "surgical",
+        "therapy"
+      ],
+      "admin_terms": []
+    },
+    "mapping_status": "pending"
+  },
+  {
+    "policy_title": "Reduced Services and Discontinued Procedures Policy",
+    "policy_number": "2026R9033A",
+    "effective_date": "11/1/2026",
+    "expiry_date": null,
+    "Line_of_Business": "Medicare Advantage",
+    "Billingclass": "Both",
+    "CPT_CODES_USED": [],
+    "reimbursement_guidelines": {
+      "title": "Reimbursement Guidelines",
+      "content": "Reduced Services  Discontinued Procedures The term \"Discontinued Procedure\" designates a surgical or diagnostic procedure provided by a physician or other health care professional that was less than usually required for the procedure as defined in the Current Procedural Terminology (CPT) book. Professional Claims:  Facility Claims:",
+      "subsections": [
+        {
+          "title": "Reduced Services",
+          "content": "There are no industry standards for reimbursement of claims billed with Modifier 52 from the Centers for Medicare and Medicaid Services (CMS) or other professional organizations. UnitedHealthcare Medicare Advantage standard for reimbursement of Modifier 52 is 50% of the Allowable Amount for the unmodified procedure. This modifier is not used to report the elective cancellation of a procedure before anesthesia induction, intravenous (IV) conscious sedation, and/or surgical preparation in the operating suite. Modifier 52 should not be used with an evaluation and management (E/M) service."
+        },
+        {
+          "title": "Discontinued Procedures",
+          "content": "The term \"Discontinued Procedure\" designates a surgical or diagnostic procedure provided by a physician or other health care professional that was less than usually required for the procedure as defined in the Current Procedural Terminology (CPT®) book."
+        },
+        {
+          "title": "Professional Claims:",
+          "content": "Discontinued Procedures are reported by appending Modifier 53 (Discontinued Procedure). Modifier 53: indicates the physician elected to terminate a surgical or diagnostic procedure due to extenuating circumstances that threatened the well-being of the patient. It is not appropriate to use Modifier 53 if a portion of the intended procedure was completed and a code exists which represents the completed portion of the intended procedure. There are no industry standards for reimbursement of claims billed with Modifier 53 from the Centers for Medicare and Medicaid Services (CMS) or other professional organizations. UnitedHealthcare Medicare Advantage standard for reimbursement of Modifier 53 is 50% of the Allowable Amount for the unmodified procedure. Note: Modifier 53 is not applicable for facility billing and is not valid when billed with E&M or time-based codes."
+        },
+        {
+          "title": "Facility Claims:",
+          "content": "Discontinued Procedures in a facility setting are reported by appending either Modifier 73 or Modifier 74. If the procedure was discontinued prior to the administration of anesthesia, Modifier 73 should be appended and will be reimbursed at 50% of the Allowable Amount for the unmodified procedure. If the procedure was discontinued after the administration of anesthesia, Modifier 74 should be appended and will be reimbursed at 100% of the Allowable Amount for the unmodified procedure. Note: Modifiers 73 and 74 are only used to indicate Discontinued Procedures for which anesthesia is planned or provided and are not applicable in a professional setting."
+        }
+      ]
+    },
+    "Question_Answer_Rules": [
+      {
+        "Rule 1": {
+          "Q": "Is it appropriate to report Modifier 52 with radiologic studies or diagnostic services, e.g., post-reduction, post-intubation, post-catheter placement, angiogram, etc.?",
+          "A": "Yes, to communicate a reduced level of such a service it is appropriate to report the CPT or HCPCS code with Modifier 52 appended."
+        },
+        "Rule 2": {
+          "Q": "The surgery was discontinued after anesthesia; may I bill modifier 52?",
+          "A": "Modifier 52 is not appropriate for services with anesthesia."
+        }
+      }
+    ],
+    "linked_pdf_contents": null,
+    "resources": "www.cms.gov American Medical Association (AMA) Current Procedural Terminology (CPT) Medicare Claims Processing Manual - Chapter 04 - Part B Hospital (Including Inpatient Hospital Part B and OPPS): Section 20.6.4, 20.6.6 Medicare Claims Processing Manual - Chapter 12 - Physicians/Nonphysician Practitioners: Section 20.4.6, 30.1, 30.6.1, 40.2, 40.4A Medicare Claims Processing Manual - Chapter 13 - Radiology Services and Other Diagnostic Procedures: Section 80.1",
+    "mapping_eligibility": {
+      "eligible": true,
+      "route": "MAP_NEEDED",
+      "reason": "no explicit codes; 10 procedural terms",
+      "explicit_code_count": 0,
+      "procedure_terms": [
+        "anesthesia",
+        "catheter",
+        "diagnostic",
+        "evaluation and management",
+        "procedure",
+        "procedures",
+        "radiologic",
+        "radiology",
+        "surgery",
+        "surgical"
+      ],
+      "admin_terms": []
+    },
+    "mapping_status": "pending"
+  }
+]

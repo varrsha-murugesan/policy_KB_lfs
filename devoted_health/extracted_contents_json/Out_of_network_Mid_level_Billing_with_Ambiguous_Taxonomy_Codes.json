@@ -1,0 +1,1922 @@
+{
+  "policy_title": "Out of network Mid level Billing with Ambiguous Taxonomy Codes",
+  "policy_number": "CLMS.CP.0072",
+  "effective_date": "2026-07-28",
+  "version": "1.0",
+  "source_pdf": "Out_of_network_Mid_level_Billing_with_Ambiguous_Taxonomy_Codes.pdf",
+  "source_url": "https://assets.devoted.com/https://docs.google.com/document/d/1gKj0PXma8k3DcPox2qlxW1B4vgP5A7x8kLgq3lQP7fQ/edit%3Ftab=t.0%23heading=h.msqtnpqkx9yd/OON%20Mid-Levels%20Billing%20with%20Ambiguous%20Taxonomy%20Codes",
+  "line_of_business": "Medicare Advantage",
+  "billing_class": "Both",
+  "page_count": 6,
+  "revision_history": [
+    {
+      "date": "2026-07-28",
+      "document_num": "CLMS.CP.0072",
+      "version_num": "1.0"
+    }
+  ],
+  "table_count": 3,
+  "codes_found": {
+    "cpt_hcpcs": [],
+    "modifiers": [],
+    "revenue_codes": [],
+    "bill_types": [],
+    "icd_codes": []
+  },
+  "CPT_CODES_USED": [],
+  "sections_summary": [
+    "OVERVIEW",
+    "PURPOSE",
+    "APPLICABILITY",
+    "POLICY",
+    "ACRONYMS AND DEFINITIONS",
+    "RESPONSIBILITIES",
+    "N/A",
+    "REGULATORY REFERENCE",
+    "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+    "REVIEW AND VERSION HISTORY"
+  ],
+  "tables": [
+    {
+      "table_id": "tab_p3_1",
+      "title": "Table (Page 3)",
+      "page_number": 3,
+      "bbox": [
+        72.125,
+        252.77310180664062,
+        540.125,
+        682.6064249674479
+      ],
+      "columns": [
+        "Term",
+        "Definition"
+      ],
+      "row_count": 5,
+      "col_count": 2,
+      "rows": [
+        {
+          "Term": "Mid-Level Provider",
+          "Definition": "A licensed nurse practitioner (NP) or physician assistant (PA)\nbilling under their own NPI for services provided to a Devoted\nHealth member."
+        },
+        {
+          "Term": "Ambiguous Taxonomy\nCode",
+          "Definition": "A NUCC taxonomy code that, despite its formal classification\nlevel, fails to identify a definitive, non-primary clinical specialty\nor specific area of practice for the purpose of benefit\ndetermination. \nThis includes Level II generic classifications (e.g.,\n363L00000X-Nurse Practitioner, or 363A00000X-Physician\nAssistant, as well as broad Level III specifications (e.g.,\n363LF0000X- Family Nurse Practitioner) where the scope of\npractice can span both primary and sub-specialty clinics."
+        },
+        {
+          "Term": "Specialty Taxonomy\nCode",
+          "Definition": "A Level III NUCC taxonomy code that identifies a specific clinical\nspecialty or focus area within the NP or PA classification (e.g.,\n363LP0808X - Psychiatric-Mental Health NP)."
+        },
+        {
+          "Term": "Benefit Category",
+          "Definition": "The plan benefit tier - Primary Care or Specialty - that governs\nthe member cost-sharing applied to a given claim, as defined in\nthe applicable Evidence of Coverage (EOC)."
+        },
+        {
+          "Term": "Primary Care Signal",
+          "Definition": "Any claim-level or provider-level data element that affirmatively\nindicates the rendering provider was functioning in a primary\ncare capacity at the time of service. See Section 5 for qualifying\nsignals."
+        }
+      ],
+      "raw_grid": [
+        [
+          "Term",
+          "Definition"
+        ],
+        [
+          "Mid-Level Provider",
+          "A licensed nurse practitioner (NP) or physician assistant (PA)\nbilling under their own NPI for services provided to a Devoted\nHealth member."
+        ],
+        [
+          "Ambiguous Taxonomy\nCode",
+          "A NUCC taxonomy code that, despite its formal classification\nlevel, fails to identify a definitive, non-primary clinical specialty\nor specific area of practice for the purpose of benefit\ndetermination. \nThis includes Level II generic classifications (e.g.,\n363L00000X-Nurse Practitioner, or 363A00000X-Physician\nAssistant, as well as broad Level III specifications (e.g.,\n363LF0000X- Family Nurse Practitioner) where the scope of\npractice can span both primary and sub-specialty clinics."
+        ],
+        [
+          "Specialty Taxonomy\nCode",
+          "A Level III NUCC taxonomy code that identifies a specific clinical\nspecialty or focus area within the NP or PA classification (e.g.,\n363LP0808X - Psychiatric-Mental Health NP)."
+        ],
+        [
+          "Benefit Category",
+          "The plan benefit tier - Primary Care or Specialty - that governs\nthe member cost-sharing applied to a given claim, as defined in\nthe applicable Evidence of Coverage (EOC)."
+        ],
+        [
+          "Primary Care Signal",
+          "Any claim-level or provider-level data element that affirmatively\nindicates the rendering provider was functioning in a primary\ncare capacity at the time of service. See Section 5 for qualifying\nsignals."
+        ]
+      ],
+      "markdown": "| Term | Definition |\n| --- | --- |\n| Mid-Level Provider | A licensed nurse practitioner (NP) or physician assistant (PA)\nbilling under their own NPI for services provided to a Devoted\nHealth member. |\n| Ambiguous Taxonomy\nCode | A NUCC taxonomy code that, despite its formal classification\nlevel, fails to identify a definitive, non-primary clinical specialty\nor specific area of practice for the purpose of benefit\ndetermination. \nThis includes Level II generic classifications (e.g.,\n363L00000X-Nurse Practitioner, or 363A00000X-Physician\nAssistant, as well as broad Level III specifications (e.g.,\n363LF0000X- Family Nurse Practitioner) where the scope of\npractice can span both primary and sub-specialty clinics. |\n| Specialty Taxonomy\nCode | A Level III NUCC taxonomy code that identifies a specific clinical\nspecialty or focus area within the NP or PA classification (e.g.,\n363LP0808X - Psychiatric-Mental Health NP). |\n| Benefit Category | The plan benefit tier - Primary Care or Specialty - that governs\nthe member cost-sharing applied to a given claim, as defined in\nthe applicable Evidence of Coverage (EOC). |\n| Primary Care Signal | Any claim-level or provider-level data element that affirmatively\nindicates the rendering provider was functioning in a primary\ncare capacity at the time of service. See Section 5 for qualifying\nsignals. |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p4_1",
+      "title": "Table (Page 3) (Continued)",
+      "page_number": 4,
+      "bbox": [
+        72.25,
+        72.16666666666667,
+        540.25,
+        154.5
+      ],
+      "columns": [
+        "Term",
+        "Definition"
+      ],
+      "row_count": 2,
+      "col_count": 2,
+      "rows": [
+        {
+          "Term": "Term",
+          "Definition": "Definition"
+        },
+        {
+          "Term": "NPPES",
+          "Definition": "National Plan and Provider Enumeration System. The\nCMS-administered registry contains NPI enrollment data,\nincluding all taxonomy codes registered by a provider."
+        }
+      ],
+      "raw_grid": [
+        [
+          "Term",
+          "Definition"
+        ],
+        [
+          "NPPES",
+          "National Plan and Provider Enumeration System. The\nCMS-administered registry contains NPI enrollment data,\nincluding all taxonomy codes registered by a provider."
+        ]
+      ],
+      "markdown": "| Term | Definition |\n| --- | --- |\n| Term | Definition |\n| NPPES | National Plan and Provider Enumeration System. The\nCMS-administered registry contains NPI enrollment data,\nincluding all taxonomy codes registered by a provider. |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p6_1",
+      "title": "Table (Page 6)",
+      "page_number": 6,
+      "bbox": [
+        54.12000020345052,
+        106.42999267578125,
+        557.8800048828125,
+        139.80999755859375
+      ],
+      "columns": [
+        "Date",
+        "Document #",
+        "Version #"
+      ],
+      "row_count": 1,
+      "col_count": 3,
+      "rows": [
+        {
+          "Date": "2026-07-28",
+          "Document #": "CLMS.CP.0072",
+          "Version #": "1.0"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        [
+          "2026-07-28",
+          "CLMS.CP.0072",
+          "1.0"
+        ]
+      ],
+      "markdown": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-07-28 | CLMS.CP.0072 | 1.0 |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    }
+  ],
+  "extracted_content": [
+    {
+      "id": "item_0001",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "OON Mid-Levels Billing with",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0002",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Ambiguous Taxonomy Codes",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0003",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "[CLMS.CP.0072] 2026-07-28",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0004",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0072 - 2026-07-28 v1.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0005",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0006",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0007",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Page 1 of 6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0008",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "PURPOSE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0009",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy establishes Devoted Health's process for handling claims submitted by out of",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0010",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "network mid-level practitioners (nurse practitioners and physician assistants) who submit",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0011",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "claims with ambiguous, non-specialty-specific taxonomy codes.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0012",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy is intended to:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0013",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Ensure accurate member cost-sharing determinations and protect members from",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0014",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "inappropriate out-of-network cost-sharing inflation.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0015",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Enforce accurate, granular coding standards for out-of-network providers rendering",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0016",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "services to Devoted Health members.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0017",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Establish a clear path for providers to re-submit claims with the appropriate clinical",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0018",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "specialty taxonomy.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0019",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "APPLICABILITY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0020",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy applies to:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0021",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● All out-of-network (non-contracted) claims submitted to Devoted Health under any",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0022",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Medicare Advantage plan.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0023",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Claims where the rendering provider holds a Nurse Practitioner (NP) or Physician",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0024",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Assistant (PA) license type and has submitted an ambiguous, classification-level",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0025",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "taxonomy code.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0026",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Claims where a definitive benefit category (PCP vs. Specialty) cannot be determined",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0027",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "due to missing or ambiguous provider specialty data.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0028",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy does not apply to:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0029",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● In-network (contracted) providers, whose benefit categories are governed by provider",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0030",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "contract terms and standard network mapping.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0031",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Claims billed \"incident-to\" a supervising physician under the physician's NPI.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0032",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "POLICY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0033",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "When standard claim data is insufficient to definitively determine whether a Primary Care",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0034",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "(PCP) or Specialty cost share should apply, Devoted Health will deny the claim as provider",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0035",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "liable to protect the member. Devoted Health is required to accurately apply member benefits",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0036",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "based on the nature of the service provided. Ambiguous taxonomy codes from out-of-network",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0037",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "mid-level providers withhold the clinical context necessary to differentiate between primary",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0038",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "care and specialty visits.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0039",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0072 - 2026-07-28 v1.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0040",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0041",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0042",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Page 2 of 6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0043",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Conditions for Denial",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0044",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "The claim denies when all of the following are true:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0045",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "•",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0046",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "The rendering provider is identified as an NP (taxonomy group 363L) or PA (taxonomy",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0047",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "group 363A).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0048",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "•",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0049",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "The taxonomy code submitted on the claim is an ambiguous NP or PA taxonomy code",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0050",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "or no rendering provider taxonomy submitted on the claim.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0051",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "•",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0052",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "The billing/supervising provider taxonomy does not affirmatively indicate a Primary",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0053",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Care setting.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0054",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "ACRONYMS AND DEFINITIONS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0055",
+      "title": "Table (Page 3)",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "table",
+      "content": "| Term | Definition |\n| --- | --- |\n| Mid-Level Provider | A licensed nurse practitioner (NP) or physician assistant (PA)\nbilling under their own NPI for services provided to a Devoted\nHealth member. |\n| Ambiguous Taxonomy\nCode | A NUCC taxonomy code that, despite its formal classification\nlevel, fails to identify a definitive, non-primary clinical specialty\nor specific area of practice for the purpose of benefit\ndetermination. \nThis includes Level II generic classifications (e.g.,\n363L00000X-Nurse Practitioner, or 363A00000X-Physician\nAssistant, as well as broad Level III specifications (e.g.,\n363LF0000X- Family Nurse Practitioner) where the scope of\npractice can span both primary and sub-specialty clinics. |\n| Specialty Taxonomy\nCode | A Level III NUCC taxonomy code that identifies a specific clinical\nspecialty or focus area within the NP or PA classification (e.g.,\n363LP0808X - Psychiatric-Mental Health NP). |\n| Benefit Category | The plan benefit tier - Primary Care or Specialty - that governs\nthe member cost-sharing applied to a given claim, as defined in\nthe applicable Evidence of Coverage (EOC). |\n| Primary Care Signal | Any claim-level or provider-level data element that affirmatively\nindicates the rendering provider was functioning in a primary\ncare capacity at the time of service. See Section 5 for qualifying\nsignals. |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p3_1",
+        "title": "Table (Page 3)",
+        "columns": [
+          "Term",
+          "Definition"
+        ],
+        "row_count": 5,
+        "rows": [
+          {
+            "Term": "Mid-Level Provider",
+            "Definition": "A licensed nurse practitioner (NP) or physician assistant (PA)\nbilling under their own NPI for services provided to a Devoted\nHealth member."
+          },
+          {
+            "Term": "Ambiguous Taxonomy\nCode",
+            "Definition": "A NUCC taxonomy code that, despite its formal classification\nlevel, fails to identify a definitive, non-primary clinical specialty\nor specific area of practice for the purpose of benefit\ndetermination. \nThis includes Level II generic classifications (e.g.,\n363L00000X-Nurse Practitioner, or 363A00000X-Physician\nAssistant, as well as broad Level III specifications (e.g.,\n363LF0000X- Family Nurse Practitioner) where the scope of\npractice can span both primary and sub-specialty clinics."
+          },
+          {
+            "Term": "Specialty Taxonomy\nCode",
+            "Definition": "A Level III NUCC taxonomy code that identifies a specific clinical\nspecialty or focus area within the NP or PA classification (e.g.,\n363LP0808X - Psychiatric-Mental Health NP)."
+          },
+          {
+            "Term": "Benefit Category",
+            "Definition": "The plan benefit tier - Primary Care or Specialty - that governs\nthe member cost-sharing applied to a given claim, as defined in\nthe applicable Evidence of Coverage (EOC)."
+          },
+          {
+            "Term": "Primary Care Signal",
+            "Definition": "Any claim-level or provider-level data element that affirmatively\nindicates the rendering provider was functioning in a primary\ncare capacity at the time of service. See Section 5 for qualifying\nsignals."
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0056",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0072 - 2026-07-28 v1.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0057",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0058",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0059",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Page 3 of 6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0060",
+      "title": "Table (Page 3) (Continued)",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "table",
+      "content": "| Term | Definition |\n| --- | --- |\n| Term | Definition |\n| NPPES | National Plan and Provider Enumeration System. The\nCMS-administered registry contains NPI enrollment data,\nincluding all taxonomy codes registered by a provider. |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p4_1",
+        "title": "Table (Page 3) (Continued)",
+        "columns": [
+          "Term",
+          "Definition"
+        ],
+        "row_count": 2,
+        "rows": [
+          {
+            "Term": "Term",
+            "Definition": "Definition"
+          },
+          {
+            "Term": "NPPES",
+            "Definition": "National Plan and Provider Enumeration System. The\nCMS-administered registry contains NPI enrollment data,\nincluding all taxonomy codes registered by a provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0061",
+      "title": "RESPONSIBILITIES",
+      "section": "RESPONSIBILITIES",
+      "subsection": null,
+      "hierarchy_path": [
+        "RESPONSIBILITIES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "RESPONSIBILITIES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0062",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0063",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "REGULATORY REFERENCE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0064",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "42 CFR § 422.100(j) - Cost-Sharing Standards for Basic Benefits",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0065",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "MA plans must establish cost-sharing that does not exceed original Medicare cost-sharing for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0066",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "specified basic benefits, and must not establish cost-sharing that is discriminatory or exceeds",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0067",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "actuarial equivalence standards for out-of-network basic benefits. This policy establishes a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0068",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "consistent, non-discriminatory default assignment rule that applies uniformly when claim",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0069",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "data is insufficient to determine benefit category.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0070",
+      "title": "42 CFR § 422.111 - Disclosure Requirements",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "42 CFR § 422.111 - Disclosure Requirements",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "42 CFR § 422.111 - Disclosure Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "42 CFR § 422.111 - Disclosure Requirements",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0071",
+      "title": "42 CFR § 422.111 - Disclosure Requirements",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "42 CFR § 422.111 - Disclosure Requirements",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "42 CFR § 422.111 - Disclosure Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "MA organizations must disclose to enrollees the cost-sharing applicable to covered services,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0072",
+      "title": "42 CFR § 422.111 - Disclosure Requirements",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "42 CFR § 422.111 - Disclosure Requirements",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "42 CFR § 422.111 - Disclosure Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "including how provider type affects benefit tier assignment. Devoted Health's Evidence of",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0073",
+      "title": "42 CFR § 422.111 - Disclosure Requirements",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "42 CFR § 422.111 - Disclosure Requirements",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "42 CFR § 422.111 - Disclosure Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Coverage documentation will be updated to reflect this policy's methodology and the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0074",
+      "title": "42 CFR § 422.111 - Disclosure Requirements",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "42 CFR § 422.111 - Disclosure Requirements",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "42 CFR § 422.111 - Disclosure Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "member's right to request reconsideration.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0075",
+      "title": "CMS MA Payment Guide for Out-of-Network Payments",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS MA Payment Guide for Out-of-Network Payments",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS MA Payment Guide for Out-of-Network Payments"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "CMS MA Payment Guide for Out-of-Network Payments",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0076",
+      "title": "CMS MA Payment Guide for Out-of-Network Payments",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS MA Payment Guide for Out-of-Network Payments",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS MA Payment Guide for Out-of-Network Payments"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Non-contracted providers must be reimbursed at no less than the original Medicare rate. The",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0077",
+      "title": "CMS MA Payment Guide for Out-of-Network Payments",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS MA Payment Guide for Out-of-Network Payments",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS MA Payment Guide for Out-of-Network Payments"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "cost-sharing tier applied to a claim does not alter this floor; however, it does determine the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0078",
+      "title": "CMS MA Payment Guide for Out-of-Network Payments",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS MA Payment Guide for Out-of-Network Payments",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS MA Payment Guide for Out-of-Network Payments"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "member's liability. This policy ensures the specialty default does not result in a member",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0079",
+      "title": "CMS MA Payment Guide for Out-of-Network Payments",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS MA Payment Guide for Out-of-Network Payments",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS MA Payment Guide for Out-of-Network Payments"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "bearing cost-sharing that is inconsistent with the nature of the service rendered, by providing",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0080",
+      "title": "CMS MA Payment Guide for Out-of-Network Payments",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS MA Payment Guide for Out-of-Network Payments",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS MA Payment Guide for Out-of-Network Payments"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "a defined primary care signal override pathway.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0081",
+      "title": "CMS MA Payment Guide for Out-of-Network Payments",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS MA Payment Guide for Out-of-Network Payments",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS MA Payment Guide for Out-of-Network Payments"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "CMS Provider Payment Dispute Resolution (January 4, 2010 Memo)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0082",
+      "title": "CMS MA Payment Guide for Out-of-Network Payments",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS MA Payment Guide for Out-of-Network Payments",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS MA Payment Guide for Out-of-Network Payments"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "CMS has established an independent dispute resolution process for non-contracted providers",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0083",
+      "title": "CMS MA Payment Guide for Out-of-Network Payments",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS MA Payment Guide for Out-of-Network Payments",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS MA Payment Guide for Out-of-Network Payments"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "who contend that a payment amount is less than original Medicare, or that a service has been",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0084",
+      "title": "CMS MA Payment Guide for Out-of-Network Payments",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS MA Payment Guide for Out-of-Network Payments",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS MA Payment Guide for Out-of-Network Payments"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "inappropriately reclassified. This policy's reconsideration pathway (Section 7) is designed to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0085",
+      "title": "CMS MA Payment Guide for Out-of-Network Payments",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS MA Payment Guide for Out-of-Network Payments",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS MA Payment Guide for Out-of-Network Payments"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "resolve disputes internally before escalation to CMS.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0086",
+      "title": "CMS MA Payment Guide for Out-of-Network Payments",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS MA Payment Guide for Out-of-Network Payments",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS MA Payment Guide for Out-of-Network Payments"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0072 - 2026-07-28 v1.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0087",
+      "title": "CMS MA Payment Guide for Out-of-Network Payments",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS MA Payment Guide for Out-of-Network Payments",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS MA Payment Guide for Out-of-Network Payments"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0088",
+      "title": "CMS MA Payment Guide for Out-of-Network Payments",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS MA Payment Guide for Out-of-Network Payments",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS MA Payment Guide for Out-of-Network Payments"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0089",
+      "title": "CMS MA Payment Guide for Out-of-Network Payments",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS MA Payment Guide for Out-of-Network Payments",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS MA Payment Guide for Out-of-Network Payments"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Page 4 of 6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0090",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "header",
+      "content": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0091",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0092",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0072 - 2026-07-28 v1.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0093",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0094",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0095",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Page 5 of 6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0096",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "header",
+      "content": "REVIEW AND VERSION HISTORY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0097",
+      "title": "Table (Page 6)",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "table",
+      "content": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-07-28 | CLMS.CP.0072 | 1.0 |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p6_1",
+        "title": "Table (Page 6)",
+        "columns": [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        "row_count": 1,
+        "rows": [
+          {
+            "Date": "2026-07-28",
+            "Document #": "CLMS.CP.0072",
+            "Version #": "1.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0098",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Prior versions are available upon request",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0099",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0072 - 2026-07-28 v1.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0100",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0101",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0102",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Page 6 of 6",
+      "codes": [],
+      "table_data": null
+    }
+  ]
+}

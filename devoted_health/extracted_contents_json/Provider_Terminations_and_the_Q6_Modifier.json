@@ -1,0 +1,1430 @@
+{
+  "policy_title": "Provider Terminations and the Q6 Modifier",
+  "policy_number": "CLMS.CP.0052",
+  "effective_date": "2026-05-26",
+  "version": "1.1",
+  "source_pdf": "Provider_Terminations_and_the_Q6_Modifier.pdf",
+  "source_url": "https://assets.devoted.com/Provider/Provider_Terminations_%20Q6_Modifier_Final_V1.pdf",
+  "line_of_business": "Medicare Advantage",
+  "billing_class": "Both",
+  "page_count": 4,
+  "revision_history": [
+    {
+      "date": "2026-05-26",
+      "document_num": "CLMS.CP.0052",
+      "version_num": "1.1"
+    },
+    {
+      "date": "2025-05-20",
+      "document_num": "CLMS.CP.0052",
+      "version_num": "1.0"
+    }
+  ],
+  "table_count": 1,
+  "codes_found": {
+    "cpt_hcpcs": [],
+    "modifiers": [
+      "AT",
+      "Q6"
+    ],
+    "revenue_codes": [],
+    "bill_types": [],
+    "icd_codes": []
+  },
+  "CPT_CODES_USED": [],
+  "sections_summary": [
+    "OVERVIEW",
+    "PURPOSE",
+    "APPLICABILITY",
+    "POLICY",
+    "ACRONYMS AND DEFINITIONS",
+    "RESPONSIBILITIES",
+    "N/A",
+    "REGULATORY REFERENCE",
+    "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+    "REVIEW AND VERSION HISTORY"
+  ],
+  "tables": [
+    {
+      "table_id": "tab_p4_1",
+      "title": "Table (Page 4)",
+      "page_number": 4,
+      "bbox": [
+        54.12000020345052,
+        106.42999267578125,
+        557.8800048828125,
+        156.5
+      ],
+      "columns": [
+        "Date",
+        "Document #",
+        "Version #"
+      ],
+      "row_count": 2,
+      "col_count": 3,
+      "rows": [
+        {
+          "Date": "2026-05-26",
+          "Document #": "CLMS.CP.0052",
+          "Version #": "1.1"
+        },
+        {
+          "Date": "2025-05-20",
+          "Document #": "CLMS.CP.0052",
+          "Version #": "1.0"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        [
+          "2026-05-26",
+          "CLMS.CP.0052",
+          "1.1"
+        ],
+        [
+          "2025-05-20",
+          "CLMS.CP.0052",
+          "1.0"
+        ]
+      ],
+      "markdown": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-05-26 | CLMS.CP.0052 | 1.1 |\n| 2025-05-20 | CLMS.CP.0052 | 1.0 |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    }
+  ],
+  "extracted_content": [
+    {
+      "id": "item_0001",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Provider Terminations and the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0002",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Q6 Modifier",
+      "codes": [
+        "Q6"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0003",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "[CLMS.CP.0052] 2026-05-26",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0004",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0052 - 2026-05-26 v1.1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0005",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0006",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0007",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Page 1 of 4",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0008",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "PURPOSE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0009",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy outlines requirements for appropriate billing using the Q6 modifier when a provider",
+      "codes": [
+        "Q6"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0010",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "terminates from a practice. It ensures compliance with Medicare rules regarding substitute physician",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0011",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "arrangements under locum tenens billing when a provider has departed, and clarifies how claims must",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0012",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "be submitted during the allowable 60-day post-termination period.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0013",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "APPLICABILITY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0014",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy applies to all Devoted Health Plans.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0015",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "POLICY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0016",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "When a provider terminates from a group practice, the practice must submit the provider's",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0017",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "true and actual departure date for system termination. Practices may not defer the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0018",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "submission of a determination date to extend billing privileges using the Q6 modifier",
+      "codes": [
+        "Q6"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0019",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Following a provider's termination, substitute physicians may continue to render services,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0020",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "and the group may bill under the terminated provider's NPI with the Q6 modifier appended to",
+      "codes": [
+        "Q6"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0021",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "the claim, under a fee-for-time compensation arrangement, 3. This is permissible for a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0022",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "maximum of sixty (60) continuous calendar days from the effective termination date3. The",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0023",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "window begins on the provider's termination date, not on the first date of Q6 billing. Claims",
+      "codes": [
+        "Q6"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0024",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "utilizing the Q6 modifier beyond the 60-day period will be adjudicated according to standard",
+      "codes": [
+        "Q6"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0025",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "processing rules.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0026",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "How to bill your claims",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0027",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "When billing for services rendered after a provider's termination, the following requirements",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0028",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "must be met to ensure compliant claim submission:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0029",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "For services performed prior to a provider's termination date, groups should continue to bill",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0030",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "using the provider's NPI without any modifiers, as usual. No Q6 modifier is needed if the",
+      "codes": [
+        "Q6"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0031",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "regular provider personally rendered the services. For services rendered after a provider's",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0032",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "termination where a substitute physician was utilized, the group must bill under the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0033",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "terminated provider's NPI and append the Q6 modifier at the line level2, 3. The modifier signals",
+      "codes": [
+        "AT",
+        "Q6"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0034",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "that a locum tenens arrangement is in place and that billing is occurring under the fee-for-time",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0035",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "compensation rules allowed by CMS.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0036",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0052 - 2026-05-26 v1.1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0037",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0038",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0039",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Page 2 of 4",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0040",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "When submitting these claims:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0041",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● The claim must reflect the terminated provider's NPI as the rendering provider.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0042",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● The procedure code(s) must be accompanied by the Q6 modifier.",
+      "codes": [
+        "Q6"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0043",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Documentation supporting the use of the substitute physician must be maintained by",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0044",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "the group in the event of audit or claims review3.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0045",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Date of service for these claims must be within the 60-calendar-day window following",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0046",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "the provider's effective termination date.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0047",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "ACRONYMS AND DEFINITIONS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0048",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Locum Tenens: A substitute physician temporarily providing services for a regular",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0049",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "provider.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0050",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Q6 Modifier: Billing modifier indicating services performed by a locum tenens",
+      "codes": [
+        "Q6"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0051",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "physician under fee-for-time arrangement.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0052",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● 60-Day Window: The continuous period allowed for billing under the Q6 modifier",
+      "codes": [
+        "Q6"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0053",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "following provider absence or termination.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0054",
+      "title": "RESPONSIBILITIES",
+      "section": "RESPONSIBILITIES",
+      "subsection": null,
+      "hierarchy_path": [
+        "RESPONSIBILITIES"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "RESPONSIBILITIES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0055",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0056",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "REGULATORY REFERENCE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0057",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "●",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0058",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "1CMS Medicare Claims Processing Manual, Chapter 1, Section 40.1 - Termination of",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0059",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Provider Participation",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0060",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "●",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0061",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "2CMS Medicare Claims Processing Manual, Chapter 1, Section 30.2.1(H) - Payment",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0062",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Under Fee-For-Time Compensation Arrangements",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0063",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "●",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0064",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "3CMS Medicare Claims Processing Manual, Chapter 1, Section 30.2.11 - Payment Under",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0065",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Fee-For-Time Compensation Arrangements (Locum Tenens)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0066",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● 42 CFR 489.52 - Termination by Provider: Notice Requirements",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0067",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● 42 CFR 422.111 - Provider Directory Accuracy Requirements",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0068",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0069",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0070",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0052 - 2026-05-26 v1.1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0071",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0072",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0073",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Page 3 of 4",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0074",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "REVIEW AND VERSION HISTORY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0075",
+      "title": "Table (Page 4)",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "table",
+      "content": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-05-26 | CLMS.CP.0052 | 1.1 |\n| 2025-05-20 | CLMS.CP.0052 | 1.0 |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p4_1",
+        "title": "Table (Page 4)",
+        "columns": [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        "row_count": 2,
+        "rows": [
+          {
+            "Date": "2026-05-26",
+            "Document #": "CLMS.CP.0052",
+            "Version #": "1.1"
+          },
+          {
+            "Date": "2025-05-20",
+            "Document #": "CLMS.CP.0052",
+            "Version #": "1.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0076",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Prior versions are available upon request",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0077",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0052 - 2026-05-26 v1.1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0078",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0079",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0080",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Page 4 of 4",
+      "codes": [],
+      "table_data": null
+    }
+  ]
+}

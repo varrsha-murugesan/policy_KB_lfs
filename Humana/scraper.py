@@ -27,13 +27,9 @@ Target CPT Codes Analyzed:
 - 15271, 15274, 15275, 15278 (Exact matching and range expansion, e.g., 15271-15278)
 - Special detection for Rule SC174 (High-cost skin substitute application procedures).
 
-Output Artifacts:
-- PDFs: ./<out>/pdfs/
-- Audit CSV: ./<out>/audit_<run_id>.csv
-- Latest Policies: ./<out>/latest_policies.csv
-- Target CPT Matches: ./<out>/target_cpt_matches.json & .csv
-- Source Discovery Report: ./<out>/source_discovery_report.json
-- State File: ./<out>/state.json
+Output:
+- PDFs: ./<out>/ (default: humana_policies)
+No additional output files (audit CSVs, reports, state JSON, or logs) are written.
 """
 from __future__ import annotations
 
@@ -47,6 +43,7 @@ import random
 import re
 import shutil
 import sys
+import tempfile
 import time
 import uuid
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -767,7 +764,7 @@ def discover_browser_for_source(
     from playwright.sync_api import sync_playwright
 
     captured: list[dict] = []
-    debug_dir = out_dir / "debug"
+    debug_dir = Path(tempfile.gettempdir()) / "humana_debug"
     if args.debug:
         debug_dir.mkdir(exist_ok=True)
     ui_count = 0
@@ -1192,44 +1189,21 @@ def process(cand: Candidate, rec: Optional[dict], session, dirs: dict, args) -> 
             return Result("skipped_lob_filtered", lob_reason, note=f"Excluded from download: {lob_reason} (LOB: {cand.lob})")
 
     final = dirs["pdfs"] / safe_filename(cand.url, cand.title)
-    cond, reason = {}, "new" if not rec else ""
 
-    if rec and not args.force:
-        if not Path(rec.get("path", "")).exists():
-            reason = "file_missing"
-        elif (
-            cand.date
-            and rec.get("date")
-            and cand.date != rec["date"]
-            and rec.get("date_source", "").startswith(("json", "dom", "html", "listing"))
-        ):
-            reason = "listing_date_changed"
-        else:
-            if rec.get("etag"):
-                cond["If-None-Match"] = rec["etag"]
-            if rec.get("last_modified"):
-                cond["If-Modified-Since"] = rec["last_modified"]
-            if not cond and not args.verify_all:
-                try:
-                    h = get_with_retry(session, "HEAD", cand.url, retries=1, allow_redirects=True)
-                    cl = h.headers.get("Content-Length")
-                    if h.ok and cl and cl.isdigit() and int(cl) != rec.get("size"):
-                        reason = "size_changed"
-                    else:
-                        return Result("skipped_unchanged", "no_validators_metadata_unchanged", http_status=h.status_code)
-                except requests.RequestException:
-                    return Result("skipped_unchanged", "head_failed_metadata_unchanged")
-            reason = reason or "conditional_check"
-    elif args.force:
-        reason = "forced"
+    if final.exists() and not args.force:
+        try:
+            ok, pages, msg = validate_pdf(final)
+            if ok and pages > 0:
+                return Result("skipped_unchanged", "already_downloaded", http_status=200, record={"path": str(final)})
+        except Exception:
+            pass
 
     max_attempts = args.retries + 1
     last_err, last_status = "", None
     for attempt in range(1, max_attempts + 1):
         tmp = dirs["tmp"] / f"{uuid.uuid4().hex}.part"
         try:
-            hdrs = cond if attempt == 1 else {}
-            with session.get(cand.url, stream=True, timeout=(15, 60), headers=hdrs, allow_redirects=True) as r:
+            with session.get(cand.url, stream=True, timeout=(15, 60), allow_redirects=True) as r:
                 last_status = r.status_code
                 if r.status_code == 304:
                     return Result("skipped_unchanged", "not_modified_304", http_status=304, attempts=attempt)
@@ -1251,64 +1225,25 @@ def process(cand: Candidate, rec: Optional[dict], session, dirs: dict, args) -> 
                 expected = r.headers.get("Content-Length")
                 if expected and expected.isdigit() and not r.headers.get("Content-Encoding") and int(expected) != size:
                     raise Retryable(f"short read ({size}/{expected} bytes)")
-                etag, lastmod = r.headers.get("ETag", ""), r.headers.get("Last-Modified", "")
 
             ok, pages, msg = validate_pdf(tmp)
             if not ok:
                 raise Retryable(f"validation failed: {msg}")
 
-            digest = h.hexdigest()
-            if rec and rec.get("sha256") == digest and Path(rec.get("path", "")).exists() and not args.force:
-                tmp.unlink(missing_ok=True)
-                new = dict(rec, etag=etag or rec.get("etag", ""), last_modified=lastmod or rec.get("last_modified", ""))
-                return Result("skipped_unchanged", "content_identical", http_status=200, attempts=attempt, record=new)
-
-            status = "updated" if rec else "downloaded"
             if final.exists():
-                old = sha256_file(final)[:8]
-                shutil.move(str(final), str(dirs["archive"] / f"{final.stem}.{old}.pdf"))
+                final.unlink(missing_ok=True)
             os.replace(tmp, final)
-
-            dt, dsrc, drank = cand.date, cand.date_source, cand.date_rank
-            if not dt:
-                dt, dsrc = pdf_date(final)
-            if not dt and lastmod:
-                try:
-                    dt = datetime.strptime(lastmod, "%a, %d %b %Y %H:%M:%S %Z").date().isoformat()
-                    dsrc = "http_last_modified"
-                except ValueError:
-                    pass
-
-            now = datetime.now(timezone.utc).isoformat(timespec="seconds")
-            validity_status = (
-                "Historical / Informational - Requires Verification"
-                if "south_carolina" in cand.url.lower() or "sc" in cand.title.lower()
-                else "Active / Current"
-            )
 
             record = {
                 "payer": "Humana",
                 "url": cand.url,
                 "title": cand.title,
-                "source_url": cand.source_url,
-                "category": cand.category,
-                "subtype": cand.subtype,
-                "jurisdiction": cand.jurisdiction,
-                "line_of_business": cand.lob,
-                "date": dt or "",
-                "date_source": dsrc or "",
                 "path": str(final),
-                "sha256": digest,
+                "sha256": h.hexdigest(),
                 "size": size,
                 "pages": pages,
-                "etag": etag,
-                "last_modified": lastmod,
-                "first_seen": (rec or {}).get("first_seen", now),
-                "last_downloaded": now,
-                "last_checked": now,
-                "validity_status": validity_status,
             }
-            return Result(status, reason or "new", http_status=200, attempts=attempt, record=record, note=msg)
+            return Result("downloaded", "new", http_status=200, attempts=attempt, record=record, note=msg)
         except Permanent as e:
             tmp.unlink(missing_ok=True)
             return Result("failed", error=str(e), http_status=last_status, attempts=attempt)
@@ -1325,64 +1260,20 @@ def process(cand: Candidate, rec: Optional[dict], session, dirs: dict, args) -> 
     return Result("failed", error=last_err or "unknown error", http_status=last_status, attempts=max_attempts)
 
 
-# ----------------------------------------------------------------------------
-# State Persistence
-# ----------------------------------------------------------------------------
-def load_state(p: Path) -> dict:
-    if p.exists():
-        try:
-            return json.loads(p.read_text(encoding="utf-8"))
-        except ValueError:
-            shutil.copy(p, p.with_suffix(".corrupt.json"))
-            log.error("state.json was corrupt; backed up and starting fresh")
-    return {"version": 2, "files": {}, "last_discovery_count": 0, "runs": []}
-
-
-def save_state(p: Path, state: dict):
-    tmp = p.with_suffix(".tmp")
-    tmp.write_text(json.dumps(state, indent=1, sort_keys=True), encoding="utf-8")
-    os.replace(tmp, p)
-
-
-def clean_excluded_files(dirs: dict, state: dict, target_lob: str = "medicare") -> int:
-    """Move any previously downloaded PDFs that do not meet the target LOB to the archive directory."""
-    archive_dir = dirs["archive"]
-    archive_dir.mkdir(parents=True, exist_ok=True)
-    moved_count = 0
-
-    for key, rec in list(state.get("files", {}).items()):
-        path_str = rec.get("path")
-        if not path_str:
-            continue
-        p = Path(path_str)
-        lob = rec.get("line_of_business", "")
-        title = rec.get("title", "")
-        url = rec.get("url", "")
-        eligible, reason = is_lob_eligible(lob, title, url, target_lob=target_lob)
-        if not eligible and p.exists() and p.resolve().parent == dirs["pdfs"].resolve():
-            dest = archive_dir / p.name
-            log.info("Archiving excluded Medicaid PDF: %s -> %s", p.name, dest)
-            try:
-                shutil.move(str(p), str(dest))
-                rec["path"] = str(dest)
-                rec["validity_status"] = "Excluded - Medicaid Only (Archived)"
-                moved_count += 1
-            except Exception as e:
-                log.warning("Could not move %s: %s", p, e)
-
-    # Check for any stray Medicaid PDFs in pdfs directory
+def clean_excluded_files(dirs: dict, target_lob: str = "medicare") -> int:
+    """Remove any downloaded PDFs that do not meet the target LOB from the pdfs directory."""
+    removed_count = 0
     for pdf_file in dirs["pdfs"].glob("*.pdf"):
         fname_lower = pdf_file.name.lower()
         if any(k in fname_lower for k in ("south_carolina", "sc_prov", "pathways", "ratings", "consolidated_g", "epsdt")):
-            dest = archive_dir / pdf_file.name
-            log.info("Archiving stray Medicaid PDF: %s -> %s", pdf_file.name, dest)
+            log.info("Removing excluded Medicaid PDF: %s", pdf_file.name)
             try:
-                shutil.move(str(pdf_file), str(dest))
-                moved_count += 1
+                pdf_file.unlink()
+                removed_count += 1
             except Exception as e:
-                log.warning("Could not move %s: %s", pdf_file, e)
+                log.warning("Could not remove %s: %s", pdf_file, e)
 
-    return moved_count
+    return removed_count
 
 
 # ----------------------------------------------------------------------------
@@ -1392,7 +1283,8 @@ def main() -> int:
     ap = argparse.ArgumentParser(
         description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
     )
-    ap.add_argument("--out", default="humana_policies")
+    ap.add_argument("--out", default=str(Path(__file__).resolve().parent / "humana_policies"),
+                    help="Directory to save downloaded PDFs (default: humana_policies)")
     ap.add_argument("--workers", type=int, default=4)
     ap.add_argument("--retries", type=int, default=3)
     ap.add_argument("--crawl-depth", type=int, default=2, help="Recursive crawl depth for payment links")
@@ -1413,26 +1305,27 @@ def main() -> int:
     ap.add_argument(
         "--clean-excluded",
         action="store_true",
-        help="Move any existing downloaded PDFs that do not match target LOB to archive",
+        help="Remove any existing downloaded PDFs that do not match target LOB",
     )
     args = ap.parse_args()
 
     out = Path(args.out).resolve()
-    dirs = {"pdfs": out / "pdfs", "archive": out / "archive", "tmp": out / "tmp"}
-    for d in dirs.values():
-        d.mkdir(parents=True, exist_ok=True)
+    out.mkdir(parents=True, exist_ok=True)
+
+    tmp_dir = Path(tempfile.gettempdir()) / f"humana_scraper_{uuid.uuid4().hex[:8]}"
+    tmp_dir.mkdir(parents=True, exist_ok=True)
+    dirs = {"pdfs": out, "tmp": tmp_dir}
 
     logging.basicConfig(
         level=logging.DEBUG if args.debug else logging.INFO,
         format="%(asctime)s %(levelname)-7s %(message)s",
         handlers=[
             logging.StreamHandler(),
-            logging.FileHandler(out / "scraper.log", encoding="utf-8"),
         ],
     )
     logging.getLogger("pypdf").setLevel(logging.ERROR)
 
-    lock = out / ".lock"
+    lock = Path(tempfile.gettempdir()) / "humana_scraper.lock"
     try:
         os.close(os.open(lock, os.O_CREAT | os.O_EXCL | os.O_WRONLY))
     except FileExistsError:
@@ -1442,13 +1335,10 @@ def main() -> int:
         return run(args, out, dirs)
     finally:
         lock.unlink(missing_ok=True)
-        shutil.rmtree(dirs["tmp"], ignore_errors=True)
+        shutil.rmtree(tmp_dir, ignore_errors=True)
 
 
 def run(args, out: Path, dirs: dict) -> int:
-    run_id = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
-    state_path = out / "state.json"
-    state = load_state(state_path)
     reg = Registry()
     source_audit_report = []
 
@@ -1505,22 +1395,8 @@ def run(args, out: Path, dirs: dict) -> int:
         log.error("Discovery found %d PDFs (expected >= %d). Aborting.", n, max(args.min_expected, 1))
         return 2
 
-    # Save discovery provenance report
-    (out / "source_discovery_report.json").write_text(
-        json.dumps(
-            {
-                "run_id": run_id,
-                "timestamp_utc": datetime.now(timezone.utc).isoformat(),
-                "total_discovered_pdfs": n,
-                "sources_crawled": source_audit_report,
-            },
-            indent=2,
-        ),
-        encoding="utf-8",
-    )
-
     # =========================================================================
-    # Phase 2: Download / Skip & Metadata Recording
+    # Phase 2: Download / Skip
     # =========================================================================
     cands = sorted(reg.items.values(), key=lambda c: c.url)
     results: dict[str, Result] = {}
@@ -1547,12 +1423,11 @@ def run(args, out: Path, dirs: dict) -> int:
         excluded_count,
     )
 
-    # Clean existing excluded PDFs from pdfs directory if requested
+    # Clean existing excluded PDFs from directory if requested
     if getattr(args, "clean_excluded", False):
-        cleaned = clean_excluded_files(dirs, state, target_lob=args.lob)
+        cleaned = clean_excluded_files(dirs, target_lob=args.lob)
         if cleaned > 0:
-            log.info("Cleaned/archived %d existing excluded files from pdfs directory", cleaned)
-            save_state(state_path, state)
+            log.info("Cleaned/removed %d existing excluded files from %s", cleaned, out)
 
     if args.discover_only:
         for c in eligible_cands:
@@ -1561,7 +1436,7 @@ def run(args, out: Path, dirs: dict) -> int:
         done = 0
         with ThreadPoolExecutor(max_workers=max(1, args.workers)) as ex:
             fut = {
-                ex.submit(process, c, state["files"].get(c.key), session, dirs, args): c
+                ex.submit(process, c, None, session, dirs, args): c
                 for c in eligible_cands
             }
             for f in as_completed(fut):
@@ -1572,286 +1447,22 @@ def run(args, out: Path, dirs: dict) -> int:
                     log.exception("worker crashed for %s", c.url)
                     res = Result("failed", error=f"internal error: {e}")
                 results[c.key] = res
-                rec = state["files"].get(c.key)
-                now = datetime.now(timezone.utc).isoformat(timespec="seconds")
-                if res.record:
-                    state["files"][c.key] = res.record
-                elif rec and res.status == "skipped_unchanged":
-                    rec["last_checked"] = now
-                    if c.date and not rec.get("date"):
-                        rec["date"], rec["date_source"] = c.date, c.date_source
                 if res.status == "failed":
                     log.error("FAILED %s -> %s", c.url, res.error)
                 else:
                     log.info("%-17s %s", res.status, c.title[:70] or c.url[-70:])
                 done += 1
-                if done % 25 == 0:
-                    save_state(state_path, state)
-
-    # =========================================================================
-    # Phase 3: Group Versions & Identify Latest
-    # =========================================================================
-    groups: dict[str, list] = {}
-    info: dict[str, dict] = {}
-    for c in cands:
-        rec = state["files"].get(c.key, {})
-        title = rec.get("title") or c.title
-        d = c.date or rec.get("date", "")
-        dsrc = c.date_source if c.date else rec.get("date_source", "")
-        pk = policy_key(title, c.url)
-        info[c.key] = {
-            "title": title,
-            "date": d,
-            "date_source": dsrc,
-            "pk": pk,
-            "rec": rec,
-            "ver": version_tuple(title, c.url),
-        }
-        groups.setdefault(pk, []).append(c.key)
-
-    latest: dict[str, str] = {}
-    for pk, keys in groups.items():
-        latest[pk] = max(keys, key=lambda k: (info[k]["date"] or "", info[k]["ver"], k))
-        for k in keys:
-            state["files"].get(k, {})["policy_key"] = pk
-
-    by_hash: dict[str, str] = {}
-    dup_of: dict[str, str] = {}
-    for c in cands:
-        sh = info[c.key]["rec"].get("sha256")
-        if sh:
-            if sh in by_hash:
-                dup_of[c.key] = by_hash[sh]
-            else:
-                by_hash[sh] = c.url
-
-    # =========================================================================
-    # Phase 4: Target CPT Code & Rule SC174 Scanning
-    # =========================================================================
-    log.info("Scanning all downloaded PDFs for target CPT codes %s...", sorted(TARGET_CPT_CODES))
-    cpt_match_records = []
-    cpt_summary_rows = []
-
-    for c in cands:
-        rec = state["files"].get(c.key, {})
-        pdf_path_str = rec.get("path")
-        if not pdf_path_str or not Path(pdf_path_str).exists():
-            continue
-
-        pdf_path = Path(pdf_path_str)
-        matches = scan_pdf_for_target_codes(pdf_path, TARGET_CPT_CODES)
-        if matches:
-            matched_cpt_set = set()
-            matched_pages = []
-            detected_rules = []
-
-            for m in matches:
-                matched_cpt_set.update(m["target_codes"])
-                matched_pages.append(m["page"])
-                if m.get("detected_rule"):
-                    detected_rules.append(m["detected_rule"])
-
-                # Detailed match row
-                cpt_summary_rows.append(
-                    {
-                        "payer": "Humana",
-                        "policy_title": rec.get("title") or c.title,
-                        "document_url": c.url,
-                        "source_page_url": c.source_url,
-                        "local_file": pdf_path.name,
-                        "category": c.category,
-                        "jurisdiction": c.jurisdiction,
-                        "line_of_business": c.lob,
-                        "page_number": m["page"],
-                        "matched_cpt_codes": ",".join(m["target_codes"]),
-                        "match_type": m["match_type"],
-                        "rule_identifier": m.get("detected_rule", ""),
-                        "surrounding_rule_text": m["snippet"],
-                        "validity_status": rec.get(
-                            "validity_status", "Historical / Informational - Requires Verification"
-                        ),
-                    }
-                )
-
-            rec["target_cpt_codes"] = ",".join(sorted(matched_cpt_set))
-            rec["matched_pages"] = ",".join(str(p) for p in sorted(set(matched_pages)))
-            rec["detected_rules"] = ",".join(sorted(set(detected_rules)))
-
-            cpt_match_records.append(
-                {
-                    "title": rec.get("title") or c.title,
-                    "url": c.url,
-                    "source_url": c.source_url,
-                    "category": c.category,
-                    "jurisdiction": c.jurisdiction,
-                    "target_codes": sorted(matched_cpt_set),
-                    "matched_pages": sorted(set(matched_pages)),
-                    "detected_rules": sorted(set(detected_rules)),
-                    "findings": matches,
-                }
-            )
-
-    log.info("Found %d payment documents matching target CPT codes", len(cpt_match_records))
-
-    # Write target CPT match outputs
-    cpt_json_path = out / "target_cpt_matches.json"
-    cpt_json_path.write_text(json.dumps(cpt_match_records, indent=2), encoding="utf-8")
-    log.info("Wrote target CPT detailed matches to %s", cpt_json_path)
-
-    cpt_csv_path = out / "target_cpt_matches.csv"
-    if cpt_summary_rows:
-        fieldnames = list(cpt_summary_rows[0].keys())
-        with open(cpt_csv_path, "w", newline="", encoding="utf-8-sig") as f:
-            w = csv.DictWriter(f, fieldnames=fieldnames)
-            w.writeheader()
-            w.writerows(cpt_summary_rows)
-        log.info("Wrote target CPT CSV summary to %s", cpt_csv_path)
-
-    # =========================================================================
-    # Phase 5: Export Audit & Latest Policies Reports
-    # =========================================================================
-    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
-    cols = [
-        "run_id",
-        "timestamp_utc",
-        "payer",
-        "policy_key",
-        "title",
-        "url",
-        "source_page_url",
-        "category",
-        "subtype",
-        "jurisdiction",
-        "line_of_business",
-        "publication_date",
-        "effective_date",
-        "expiration_date",
-        "validity_status",
-        "target_cpt_codes",
-        "matched_pages",
-        "detected_rules",
-        "discovery_methods",
-        "times_seen",
-        "status",
-        "reason",
-        "error",
-        "http_status",
-        "attempts",
-        "local_path",
-        "size_bytes",
-        "pages",
-        "sha256",
-        "is_latest_version",
-        "latest_version_url",
-        "versions_in_group",
-        "duplicate_content_of",
-        "notes",
-    ]
 
     counts: dict[str, int] = {}
-    audit_path = out / f"audit_{run_id}.csv"
-    with open(audit_path, "w", newline="", encoding="utf-8-sig") as f:
-        w = csv.DictWriter(f, cols)
-        w.writeheader()
-        for c in cands:
-            i, res = info[c.key], results[c.key]
-            rec = i["rec"] or {}
-            counts[res.status] = counts.get(res.status, 0) + 1
-            lk = latest[i["pk"]]
-            w.writerow(
-                {
-                    "run_id": run_id,
-                    "timestamp_utc": now,
-                    "payer": "Humana",
-                    "policy_key": i["pk"],
-                    "title": i["title"],
-                    "url": c.url,
-                    "source_page_url": c.source_url,
-                    "category": c.category,
-                    "subtype": c.subtype,
-                    "jurisdiction": c.jurisdiction,
-                    "line_of_business": c.lob,
-                    "publication_date": i["date"],
-                    "effective_date": rec.get("effective_date", "Unknown"),
-                    "expiration_date": rec.get("expiration_date", "Unknown"),
-                    "validity_status": rec.get("validity_status", "Active / Current"),
-                    "target_cpt_codes": rec.get("target_cpt_codes", ""),
-                    "matched_pages": rec.get("matched_pages", ""),
-                    "detected_rules": rec.get("detected_rules", ""),
-                    "discovery_methods": "|".join(sorted(c.methods)),
-                    "times_seen": c.seen,
-                    "status": res.status,
-                    "reason": res.reason,
-                    "error": res.error,
-                    "http_status": res.http_status or "",
-                    "attempts": res.attempts,
-                    "local_path": rec.get("path", ""),
-                    "size_bytes": rec.get("size", ""),
-                    "pages": rec.get("pages", ""),
-                    "sha256": rec.get("sha256", ""),
-                    "is_latest_version": c.key == lk,
-                    "latest_version_url": reg.items[lk].url,
-                    "versions_in_group": len(groups[i["pk"]]),
-                    "duplicate_content_of": dup_of.get(c.key, ""),
-                    "notes": res.note,
-                }
-            )
+    for res in results.values():
+        counts[res.status] = counts.get(res.status, 0) + 1
 
-    with open(out / "latest_policies.csv", "w", newline="", encoding="utf-8-sig") as f:
-        w = csv.writer(f)
-        w.writerow(
-            [
-                "policy_key",
-                "title",
-                "category",
-                "jurisdiction",
-                "line_of_business",
-                "publication_date",
-                "target_cpt_codes",
-                "url",
-                "local_path",
-                "versions_found",
-            ]
-        )
-        for pk, k in sorted(latest.items()):
-            cand_obj = reg.items[k]
-            # When filtering by LOB, latest_policies.csv should reflect active pipeline policies
-            if args.lob == "medicare" and not is_lob_eligible(cand_obj.lob, cand_obj.title, cand_obj.url, target_lob="medicare")[0]:
-                continue
-            rec = info[k]["rec"] or {}
-            w.writerow(
-                [
-                    pk,
-                    info[k]["title"],
-                    cand_obj.category,
-                    cand_obj.jurisdiction,
-                    cand_obj.lob,
-                    info[k]["date"],
-                    rec.get("target_cpt_codes", ""),
-                    cand_obj.url,
-                    rec.get("path", ""),
-                    len(groups[pk]),
-                ]
-            )
-
-    if not args.discover_only:
-        state["last_discovery_count"] = n
-        state["runs"] = (
-            state.get("runs", []) + [{"run_id": run_id, "discovered": n, "counts": counts}]
-        )[-50:]
-        save_state(state_path, state)
-
-    multi = sum(1 for v in groups.values() if len(v) > 1)
     log.info("=" * 60)
     log.info(
-        "Discovered %d | policies %d (%d multi-version) | %s",
-        n,
-        len(groups),
-        multi,
+        "Downloaded PDFs summary: %s",
         ", ".join(f"{k}={v}" for k, v in sorted(counts.items())),
     )
-    log.info("Audit file: %s", audit_path)
-    log.info("Latest policies: %s", out / "latest_policies.csv")
+    log.info("All PDFs are located in: %s", out)
     if counts.get("failed"):
         return 1
     return 0

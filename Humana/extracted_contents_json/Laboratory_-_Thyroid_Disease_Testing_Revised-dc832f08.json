@@ -1,0 +1,1090 @@
+{
+  "policy_title": "Laboratory - Thyroid Disease Testing",
+  "policy_number": "LAB2023022",
+  "effective_date": "05/2023",
+  "published_date": "05/2023",
+  "revision_date": "11/2026",
+  "source_pdf": "Laboratory_-_Thyroid_Disease_Testing_Revised-dc832f08.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 5,
+  "table_count": 1,
+  "block_count": 41,
+  "CPT_CODES_USED": [
+    "86800",
+    "83519",
+    "83520",
+    "84445",
+    "86376",
+    "84432",
+    "84442",
+    "80438",
+    "80439",
+    "84482",
+    "84437",
+    "52232",
+    "18097",
+    "31128",
+    "12980",
+    "17079",
+    "13926",
+    "12846",
+    "10931",
+    "28038",
+    "13705",
+    "00007",
+    "14310",
+    "84443"
+  ],
+  "MODIFIERS_USED": [
+    "22",
+    "GA",
+    "AH",
+    "JA",
+    "GR",
+    "62",
+    "SA",
+    "50",
+    "PD",
+    "95",
+    "KD",
+    "GE",
+    "93",
+    "GJ",
+    "HY",
+    "54",
+    "AJ",
+    "24",
+    "SH",
+    "JK",
+    "PN",
+    "AM",
+    "RT",
+    "LS",
+    "SJ",
+    "LC",
+    "CF",
+    "TD",
+    "CC",
+    "AD",
+    "HB",
+    "26",
+    "JB",
+    "RD",
+    "FY"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "86800",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83519",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83520",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84445",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86376",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84432",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84442",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "80438",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "80439",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84482",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84437",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "52232",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "18097",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "31128",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "12980",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "17079",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "13926",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "12846",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "10931",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "28038",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "13705",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00007",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "14310",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84443",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "For a diagnosis of hyperthyroidism and a diagnosis of pregnancy or post-partum, testing for antithyroglobulin antibody (TgAb) (CPT code 86800) IS REIMBURSABLE.",
+      "codes": [
+        "86800"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "For a diagnosis of hypothyroidism or hyperthyroidism without a diagnosis of autoimmune thyroid disease, for example, Hashimoto disease, Graves' disease, testing for thyroid antibodies (CPT code 83519, CPT code 83520, CPT code 84445, CPT code 86376, CPT code 86800) IS REIMBURSABLE once every three years.",
+      "codes": [
+        "83519",
+        "83520",
+        "84445",
+        "86376",
+        "86800"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "For thyroid cancer, testing for serum thyroglobulin TgAb (CPT code 84432) and TgAb levels (CPT code 86800) IS REIMBURSABLE.",
+      "codes": [
+        "84432",
+        "86800"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "For all other situations not described above, testing for TgAb levels (CPT code 86800), thyroid-stimulating immunoglobulins (CPT code 84445) and serum thyroglobulin (CPT code 84432) IS NOT REIMBURSABLE.",
+      "codes": [
+        "86800",
+        "84445",
+        "84432"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Testing for thyroxine-binding globulin (TBG) (CPT code 84442), thyrotropin-releasing hormone (TRH) (CPT code 80438, CPT code 80439) or reverse triiodothyronine (T3) (CPT code 84482) IS NOT REIMBURSABLE.",
+      "codes": [
+        "84442",
+        "80438",
+        "80439",
+        "84482"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Testing for thyroxine (CPT code 84437) over the age of two IS NOT REIMBURSABLE.",
+      "codes": [
+        "84437"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "80438 Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:",
+      "codes": [
+        "80438"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Thyroid stimulating hormone (TSH) (84443 x 3)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Thyroid stimulating hormone (TSH) (84443 x 3)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Thyroid stimulating hormone (TSH) (84443 x 3)",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "80439 Thyrotropin releasing hormone (TRH) stimulation panel; 2 hour This panel must include the following:",
+      "codes": [
+        "80439"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Thyroid stimulating hormone (TSH) (84443 x 4)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Thyroid stimulating hormone (TSH) (84443 x 4)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Thyroid stimulating hormone (TSH) (84443 x 4)",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "83519 Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative, by radioimmunoassay (eg, RIA) 83520 Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative, not otherwise specified 84432",
+      "codes": [
+        "83519",
+        "83520",
+        "84432"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84437",
+      "codes": [
+        "84437"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Thyroxine; requiring elution (eg, neonatal)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Thyroxine; requiring elution (eg, neonatal)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Thyroxine; requiring elution (eg, neonatal)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84442",
+      "codes": [
+        "84442"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Thyroxine binding globulin (TBG)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Thyroxine binding globulin (TBG)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Thyroxine binding globulin (TBG)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84445",
+      "codes": [
+        "84445"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Thyroid stimulating immune globulins (TSI)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Thyroid stimulating immune globulins (TSI)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Thyroid stimulating immune globulins (TSI)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84482",
+      "codes": [
+        "84482"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Triiodothyronine T3; reverse",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Triiodothyronine T3; reverse",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Triiodothyronine T3; reverse",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "86376",
+      "codes": [
+        "86376"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Microsomal antibodies (eg, thyroid or liver-kidney), each",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Microsomal antibodies (eg, thyroid or liver-kidney), each",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Microsomal antibodies (eg, thyroid or liver-kidney), each",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "86800",
+      "codes": [
+        "86800"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Procedure code",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Procedure code",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Procedure code",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "N/A",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Thyroid Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Thyroid Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Thyroid Testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "NCD 190.22 N/A",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "AACE. All About the Thyroid. https://www.aace.com/disease-and-conditions/thyroid/all-about-thyroid AAFP. Thyroid Dysfunction Screening. https://www.aafp.org/family-physician/patient-care/clinical-recommendations/all-clinical- recommendations/thyroid-dysfunction.html AAFP. Thyroid Nodules: Advances in Evaluation and Management. 2020. https://www.aafp.org/pubs/afp/issues/2020/0901/p298.pdf ACOG. Thyroid Disease in Pregnancy: ACOG Practice Bulletin, Number 223. Obstet Gynecol. 2020;135(6):e261-e274. doi:10.1097/aog.0000000000003893 ADA. Children and Adolescents: Standards of Care in Diabetes-2026. https://diabetesjournals.org/care/article/49/Supplement_1/S297/163923/14-Children-and-Adolescents-Standards-of-Care-in Alexander EK, Pearce EN, Brent GA, et al. 2017 Guidelines of the American Thyroid Association for the Diagnosis and Management of Thyroid Disease During Pregnancy and the Postpartum. Thyroid : official journal of the American Thyroid Association. 2017;27(3):315-389. doi:10.1089/thy.2016.0457 AlSaedi AH, Almalki DS, ElKady RM. Approach to Thyroid Nodules: Diagnosis and Treatment. Cureus. 2024;16(1):e52232. doi:10.7759/cureus.52232 ASCP. Thirty Five Things Physicians and Patients Should Question. ABIM Foundation. https://www.ascp.org/content/docs/default- source/get-involved-pdfs/istp_choosingwisely/ascp-35-things-list_2020_final.pdf ASRM. Subclinical hypothyroidism in the infertile female population: a guideline. https://www.asrm.org/globalassets/_asrm/practice-guidance/practice- guidelines/pdf/subclinical_hypothyroidism_in_the_infertile_female_population.pdf",
+      "codes": [
+        "52232"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "ATA. Thyroiditis. 2025. https://www.thyroid.org/thyroiditis/",
+      "section": "References",
+      "subsection": "ATA. Thyroiditis. 2025. https://www.thyroid.org/thyroiditis/",
+      "hierarchy_path": "References > ATA. Thyroiditis. 2025. https://www.thyroid.org/thyroiditis/",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "BC Guidelines. Thyroid Function Testing in the Diagnosis and Monitoring of Thyroid Function Disorder. https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/thyroid-testing#tsh Bernstein JA, Lang DM, Khan DA, et al. The diagnosis and management of acute and chronic urticaria: 2014 update. The Journal of allergy and clinical immunology. 2014;133(5):1270-7. doi:10.1016/j.jaci.2014.02.036 Biktagirova EM, Sattarova LI, Vagapova GR, et al. [Biochemical and immunological markers of autoimmune thyroiditis]. Biomeditsinskaia khimiia. 2016;62(4):458-65. Biokhimicheskie i immunologicheskie markery khronicheskogo limfotsitarnogo tireoidita. doi:10.18097/pbmc20166204458 Bomeli SR, Lebeau SO, Ferris RL. Evaluation of a Thyroid Nodule. Otolaryngologic Clinics of North America. 2010;43(2):229-238. doi:10.1016/j.otc.2010.01.002 Brent GA. Thyroid hormone action. Updated May 28, 2024. https://www.uptodate.com/contents/thyroid-hormone-action Burmeister LA. Reverse T3 Does Not Reliably Differentiate Hypothyroid Sick Syndrome from Euthyroid Sick Syndrome. Thyroid : official journal of the American Thyroid Association. 1995;5(6):435-441. doi:10.1089/thy.1995.5.435 Croker EE, McGrath SA, Rowe CW. Thyroid disease: Using diagnostic tools effectively. Aust J Gen Pract. 2021;50(1-2):16-21. doi:10.31128/ajgp-10-20-5693 Degrandi R, Prodam F, Genoni G, et al. The Prevalence of Thyroid Autoimmunity in Children with Developmental Dyslexia. Biomed",
+      "codes": [
+        "18097",
+        "31128"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Res Int. 2021;2021:7656843. doi:10.1155/2021/7656843",
+      "section": "References",
+      "subsection": "Res Int. 2021;2021:7656843. doi:10.1155/2021/7656843",
+      "hierarchy_path": "References > Res Int. 2021;2021:7656843. doi:10.1155/2021/7656843",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Diana T, Krause J, Olivo PD, et al. Prevalence and clinical relevance of thyroid stimulating hormone receptor-blocking antibodies in autoimmune thyroid disease. Clinical and experimental immunology. 2017;189(3):304-309. doi:10.1111/cei.12980 Donangelo I, Suh SY. Subclinical Hyperthyroidism: When to Consider Treatment. American family physician. 2017;95(11):710-716. Durante C, Hegedüs L, Czarniecka A, et al. 2023 European Thyroid Association Clinical Practice Guidelines for thyroid nodule management. Eur Thyroid J. 2023;12(5)doi:10.1530/etj-23-0067 Endocrine Society of Australia. Recommendations. https://www.choosingwisely.org.au/recommendations/esa5 EverlyWell. Check your thyroid from the comfort of home. https://www.everlywell.com/products/thyroid-test/ Gaitonde DY, Rowley KD, Sweeney LB. Hypothyroidism: An Update. https://www.aafp.org/afp/2012/0801/p244.html Garber JR, Cobin RH, Gharib H, et al. Clinical practice guidelines for hypothyroidism in adults: cosponsored by the American Association of Clinical Endocrinologists and the American Thyroid Association. Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists. 2012;18(6):988-1028. doi:10.4158/ep12280.gl Gholve C, Kumarasamy J, Kulkarni S, Rajan MGR. In-House Solid-Phase Radioassay for the Detection of Anti-thyroglobulin Autoantibodies in Patients with Differentiated Thyroid Cancer. Indian journal of clinical biochemistry : IJCB. 2017;32(1):39-44. doi:10.1007/s12291-016-0568-7 Gomes-Lima C, Burman KD. Reverse T3 or perverse T3? Still puzzling after 40 years. Cleveland Clinic journal of medicine. 2018;85(6):450-455. doi:10.3949/ccjm.85a.17079 Haymart MR, Repplinger DJ, Leverson GE, et al. Higher serum thyroid stimulating hormone level in thyroid nodule patients is associated with greater risks of differentiated thyroid cancer and advanced tumor stage. J Clin Endocrinol Metab. 2008;93(3):809-14. doi:10.1210/jc.2007-2215 Hoang J. Thyroid nodules and evaluation of thyroid cancer risk. Australasian Journal of Ultrasound in Medicine. 2010;13(4):33-36. doi:10.1002/j.2205-0140.2010.tb00177.x Hogan MB, Shepherd MW. Common variable immunodeficiency in children. Updated November 5, 2025. https://www.uptodate.com/contents/common-variable-immunodeficiency-in-children Homan GJ. Failure to Thrive: A Practical Guide. American family physician. 2016;94(4):295-9 Jin HY. Prevalence of subclinical hypothyroidism in obese children or adolescents and association between thyroid hormone and the components of metabolic syndrome. Journal of paediatrics and child health. 2018;54(9):975-980. doi:10.1111/jpc.13926 Jonklaas J, Bianco AC, Bauer AJ, et al. Guidelines for the treatment of hypothyroidism: prepared by the american thyroid association task force on thyroid hormone replacement. Thyroid : official journal of the American Thyroid Association. 2014;24(12):1670-",
+      "codes": [
+        "12980",
+        "17079",
+        "13926"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Res Int. 2021;2021:7656843. doi:10.1155/2021/7656843",
+      "section": "References",
+      "subsection": "Res Int. 2021;2021:7656843. doi:10.1155/2021/7656843",
+      "hierarchy_path": "References > Res Int. 2021;2021:7656843. doi:10.1155/2021/7656843",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "751. doi:10.1089/thy.2014.0028",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Res Int. 2021;2021:7656843. doi:10.1155/2021/7656843",
+      "section": "References",
+      "subsection": "Res Int. 2021;2021:7656843. doi:10.1155/2021/7656843",
+      "hierarchy_path": "References > Res Int. 2021;2021:7656843. doi:10.1155/2021/7656843",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Kahaly GJ, Bartalena L, Hegedus L, Leenhardt L, Poppe K, Pearce SH. 2018 European Thyroid Association Guideline for the Management of Graves' Hyperthyroidism. Eur Thyroid J. 2018;7(4):167-186. doi:10.1159/000490384 Kazerouni F, Amirrasouli H. Performance characteristics of three automated immunoassays for thyroid hormones. Caspian journal of internal medicine. 2012;3(2):400-104 Kiel S, Ittermann T, Völzke H, Chenot J-F, Angelow A. Frequency of thyroid function tests and examinations in participants of a population-based study. BMC Health Services Research. 2020;20(1):70. doi:10.1186/s12913-020-4910-7 Kluesner JK, Beckman DJ, Tate JM, et al. Analysis of current thyroid function test ordering practices. Journal of evaluation in clinical practice. 2018;24(2):347-352. doi:10.1111/jep.12846 Koike E, Noguchi S, Yamashita H, et al. Ultrasonographic Characteristics of Thyroid Nodules: Prediction of Malignancy. Archives of",
+      "codes": [
+        "12846"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Surgery. 2001;136(3):334-337. doi:10.1001/archsurg.136.3.334",
+      "section": "References",
+      "subsection": "Surgery. 2001;136(3):334-337. doi:10.1001/archsurg.136.3.334",
+      "hierarchy_path": "References > Surgery. 2001;136(3):334-337. doi:10.1001/archsurg.136.3.334",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Korevaar TIM, Derakhshan A, Taylor PN, et al. Association of Thyroid Function Test Abnormalities and Thyroid Autoimmunity With Preterm Birth: A Systematic Review and Meta-analysis. Jama. 2019;322(7):632-641. doi:10.1001/jama.2019.10931 Kravets I. Hyperthyroidism: Diagnosis and Treatment. American family physician. 2016;93(5):363-70 LetsGetChecked. Home Thyroid Testing. https://www.letsgetchecked.com/home-thyroid-test/ Leung AM, Brent GA. The Influence of Thyroid Hormone on Growth Hormone Secretion and Action. Growth Hormone Deficiency: Physiology and Clinical Management. 2016:29-46. doi:10.1007/978-3-319-28038-7_4 Li D, Radulescu A, Shrestha RT, et al. Association of Biotin Ingestion With Performance of Hormone and Nonhormone Assays in Healthy Adults. Jama. 2017;318(12):1150-1160. doi:10.1001/jama.2017.13705 Li YH, Marren A. Recurrent pregnancy loss: A summary of international evidence-based guidelines and practice. Aust J Gen Pract. 2018;47(7):432-436. doi:10.31128/AJGP-01-18-4459",
+      "codes": [
+        "10931",
+        "28038",
+        "13705",
+        "31128"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Surgery. 2001;136(3):334-337. doi:10.1001/archsurg.136.3.334",
+      "section": "References",
+      "subsection": "Surgery. 2001;136(3):334-337. doi:10.1001/archsurg.136.3.334",
+      "hierarchy_path": "References > Surgery. 2001;136(3):334-337. doi:10.1001/archsurg.136.3.334",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Liu Y, Osinga JAJ, Maraka S, et al. Risk Factors for Thyroid Function Test Abnormalities During Pregnancy: A Systematic Review of the Literature to Validate Current Risk Factors and Identify Novel Ones. Thyroid : official journal of the American Thyroid",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Association. May 2025;35(5):553-575. doi:10.1089/thy.2024.0743",
+      "section": "References",
+      "subsection": "Association. May 2025;35(5):553-575. doi:10.1089/thy.2024.0743",
+      "hierarchy_path": "References > Association. May 2025;35(5):553-575. doi:10.1089/thy.2024.0743",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Livingston M, Birch K, Guy M, Kane J, Heald AH. No role for tri-iodothyronine (T3) testing in the assessment of levothyroxine (T4) over-replacement in hypothyroid patients. British journal of biomedical science. 2015;72(4):160-3 Luewan S, Chakkabut P, Tongsong T. Outcomes of pregnancy complicated with hyperthyroidism: a cohort study. Archives of gynecology and obstetrics. 2011;283(2):243-7. doi:10.1007/s00404-010-1362-z Masika LS, Zhao Z, Soldin SJ. Is measurement of TT3 by immunoassay reliable at low concentrations? A comparison of the Roche Cobas 6000 vs. LC-MSMS. Clinical biochemistry. 2016;49(12):846-9. doi:10.1016/j.clinbiochem.2016.02.004 Mooij CF, Cheetham TD, Verburg FA, et al. 2022 European Thyroid Association Guideline for the management of pediatric Graves' disease. Eur Thyroid J. 2022;11(1)doi:10.1530/ETJ-21-0073 Muller I, Moran C, Lecumberri B, et al. 2019 European Thyroid Association Guidelines on the Management of Thyroid Dysfunction following Immune Reconstitution Therapy. European Thyroid Journal. 2019;8(4):173-185. doi:10.1159/000500881 Muraresku CC, McCormick EM, Falk MJ. Mitochondrial Disease: Advances in clinical diagnosis, management, therapeutic development, and preventative strategies. Curr Genet Med Rep. 2018;6(2):62-72. doi:10.1007/s40142-018-0138-9 myLABBOX. At Home Thyroid Health Screening Test. https://www.mylabbox.com/product/at-home-thyroid-health-screening-test/ NICE. Thyroid disease: assessment and management. 2023. https://www.nice.org.uk/guidance/ng145 Paloma Health. Complete Thyroid Blood Test Kit. https://www.palomahealth.com/home-thyroid-blood-test-kit Parikh S, Goldstein A, Karaa A, et al. Patient care standards for primary mitochondrial disease: a consensus statement from the Mitochondrial Medicine Society. Genet Med. 2017;19(12)doi:10.1038/gim.2017.107 Poppe K, Bisschop P, Fugazzola L, Minziori G, Unuane D, Weghofer A. 2021 European Thyroid Association Guideline on Thyroid Disorders prior to and during Assisted Reproduction. European Thyroid Journal. 2021;9(6):281-295. doi:10.1159/000512790 Richmond Padilla EJ, Rogol AD. Causes of short stature. Updated December 31, 2025. https://www.uptodate.com/contents/causes- of-short-stature Ringel MD, Sosa JA, Baloch Z, et al. 2025 American Thyroid Association Management Guidelines for Adult Patients with Differentiated Thyroid Cancer. Thyroid : official journal of the American Thyroid Association. Aug 2025;35(8):841-985. doi:10.1177/10507256251363120 Ross DS, Burch HB, Cooper DS, et al. 2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis. Thyroid : official journal of the American Thyroid Association. 2016;26(10):1343-1421. doi:10.1089/thy.2016.0229 Ross DS. Diagnosis of and screening for hypothyroidism in nonpregnant adults. Updated July 15, 2024. https://www.uptodate.com/contents/diagnosis-of-and-screening-for-hypothyroidism-in-nonpregnant-adults Ross DS. Diagnosis of hyperthyroidism Updated November 20, 2025. https://www.uptodate.com/contents/diagnosis-of- hyperthyroidism Ross DS. Laboratory assessment of thyroid function. Updated August 26, 2025. https://www.uptodate.com/contents/laboratory- assessment-of-thyroid-function Ross DS. Overview of thryoid disease and pregnancy. Updated July 9, 2025. https://www.uptodate.com/contents/overview-of- thyroid-disease-and-pregnancy Ross DS. Thyroid hormone synthesis and physiology. Updated September 30, 2025. https://www.uptodate.com/contents/thyroid- hormone-synthesis-and-physiology Rugge JB, Bougatsos C, Chou R. Screening and treatment of thyroid dysfunction: an evidence review for the U.S. Preventive Services Task Force. Annals of internal medicine. 2015;162(1):35-45. doi:10.7326/m14-1456 Sarkar D. Recurrent pregnancy loss in patients with thyroid dysfunction. Indian J Endocrinol Metab. 2012;16(Suppl 2):S350-1. doi:10.4103/2230-8210.104088 Society for Maternal-Fetal Medicine. Choosing Wisely: Eighteen Things Physicians and Patients Should Question. 2022. https://publications.smfm.org/publications/460-choosing-wisely-eighteen-things-physicians-and-patients-should/ Stagnaro-Green A, Abalovich M, Alexander E, et al. Guidelines of the American Thyroid Association for the diagnosis and management of thyroid disease during pregnancy and postpartum. Thyroid : official journal of the American Thyroid",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Association. 2011;21(10):1081-125. doi:10.1089/thy.2011.0087",
+      "section": "References",
+      "subsection": "Association. 2011;21(10):1081-125. doi:10.1089/thy.2011.0087",
+      "hierarchy_path": "References > Association. 2011;21(10):1081-125. doi:10.1089/thy.2011.0087",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "TellmeGEN. Thyroid Function. https://www.tellmegen.com/en/results/dna-traits-test/thyroid-function-tsh-levels Thomas K. Thyroid Function Testing. https://www.testing.com/thyroid-function-testing/",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Association. 2011;21(10):1081-125. doi:10.1089/thy.2011.0087",
+      "section": "References",
+      "subsection": "Association. 2011;21(10):1081-125. doi:10.1089/thy.2011.0087",
+      "hierarchy_path": "References > Association. 2011;21(10):1081-125. doi:10.1089/thy.2011.0087",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Toloza FJK, Derakhshan A, Männistö T, et al. Association between maternal thyroid function and risk of gestational hypertension and pre-eclampsia: a systematic review and individual-participant data meta-analysis. Lancet Diabetes Endocrinol. 2022;10(4):243-",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Association. 2011;21(10):1081-125. doi:10.1089/thy.2011.0087",
+      "section": "References",
+      "subsection": "Association. 2011;21(10):1081-125. doi:10.1089/thy.2011.0087",
+      "hierarchy_path": "References > Association. 2011;21(10):1081-125. doi:10.1089/thy.2011.0087",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "252. doi:10.1016/s2213-8587(22)00007-9",
+      "codes": [
+        "00007"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Association. 2011;21(10):1081-125. doi:10.1089/thy.2011.0087",
+      "section": "References",
+      "subsection": "Association. 2011;21(10):1081-125. doi:10.1089/thy.2011.0087",
+      "hierarchy_path": "References > Association. 2011;21(10):1081-125. doi:10.1089/thy.2011.0087",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "USPSTF. Thyroid Cancer: Screening. https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/thyroid-cancer- screening Wang JJ, Zhuang ZH, Shao CL, et al. Assessment of causal association between thyroid function and lipid metabolism: a Mendelian randomization study. Chin Med J (Engl). 2021;134(9):1064-1069. doi:10.1097/CM9.0000000000001505 Wilson SA, Stem LA, Bruehlman RD. Hypothyroidism: Diagnosis and Treatment. American family physician. 2021;103(10):605-613 Yazici P, Mihmanli M, Bozkurt E, Ozturk FY, Uludag M. Which is the best predictor of thyroid cancer: thyrotropin, thyroglobulin or their ratio? Hormones (Athens, Greece). 2016;15(2):256-263. doi:10.14310/horm.2002.1677",
+      "codes": [
+        "14310"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 80438: 80439 | Procedure code:  | Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3): Thyrotropin releasing hormone (TRH) stimulation panel; 2 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 4) | Code description: ",
+      "codes": [
+        "80438",
+        "80439",
+        "84443"
+      ],
+      "table_data": {
+        "columns": [
+          "80438",
+          "Procedure code",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)",
+          "Code description"
+        ],
+        "row": {
+          "80438": "80439",
+          "Procedure code": "",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)": "Thyrotropin releasing hormone (TRH) stimulation panel; 2 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 4)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 80438: 83519 | Procedure code:  | Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3):  | Code description: Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative,",
+      "codes": [
+        "80438",
+        "83519",
+        "84443"
+      ],
+      "table_data": {
+        "columns": [
+          "80438",
+          "Procedure code",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)",
+          "Code description"
+        ],
+        "row": {
+          "80438": "83519",
+          "Procedure code": "",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)": "",
+          "Code description": "Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative,"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 80438:  | Procedure code:  | Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3):  | Code description: by radioimmunoassay (eg, RIA)",
+      "codes": [
+        "80438",
+        "84443"
+      ],
+      "table_data": {
+        "columns": [
+          "80438",
+          "Procedure code",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)",
+          "Code description"
+        ],
+        "row": {
+          "80438": "",
+          "Procedure code": "",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)": "",
+          "Code description": "by radioimmunoassay (eg, RIA)"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 80438: 83520 | Procedure code:  | Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3):  | Code description: Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative,",
+      "codes": [
+        "80438",
+        "83520",
+        "84443"
+      ],
+      "table_data": {
+        "columns": [
+          "80438",
+          "Procedure code",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)",
+          "Code description"
+        ],
+        "row": {
+          "80438": "83520",
+          "Procedure code": "",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)": "",
+          "Code description": "Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative,"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 80438:  | Procedure code:  | Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3):  | Code description: not otherwise specified",
+      "codes": [
+        "80438",
+        "84443"
+      ],
+      "table_data": {
+        "columns": [
+          "80438",
+          "Procedure code",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)",
+          "Code description"
+        ],
+        "row": {
+          "80438": "",
+          "Procedure code": "",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)": "",
+          "Code description": "not otherwise specified"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 80438: 84432 | Procedure code:  | Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3): Thyroglobulin | Code description: ",
+      "codes": [
+        "80438",
+        "84432",
+        "84443"
+      ],
+      "table_data": {
+        "columns": [
+          "80438",
+          "Procedure code",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)",
+          "Code description"
+        ],
+        "row": {
+          "80438": "84432",
+          "Procedure code": "",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)": "Thyroglobulin",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 80438: 84442 | Procedure code:  | Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3): Thyroxine binding globulin (TBG) | Code description: ",
+      "codes": [
+        "80438",
+        "84442",
+        "84443"
+      ],
+      "table_data": {
+        "columns": [
+          "80438",
+          "Procedure code",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)",
+          "Code description"
+        ],
+        "row": {
+          "80438": "84442",
+          "Procedure code": "",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)": "Thyroxine binding globulin (TBG)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 80438: 84445 | Procedure code:  | Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3): Thyroid stimulating immune globulins (TSI) | Code description: ",
+      "codes": [
+        "80438",
+        "84445",
+        "84443"
+      ],
+      "table_data": {
+        "columns": [
+          "80438",
+          "Procedure code",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)",
+          "Code description"
+        ],
+        "row": {
+          "80438": "84445",
+          "Procedure code": "",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)": "Thyroid stimulating immune globulins (TSI)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 80438: 84482 | Procedure code:  | Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3): Triiodothyronine T3; reverse | Code description: ",
+      "codes": [
+        "80438",
+        "84482",
+        "84443"
+      ],
+      "table_data": {
+        "columns": [
+          "80438",
+          "Procedure code",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)",
+          "Code description"
+        ],
+        "row": {
+          "80438": "84482",
+          "Procedure code": "",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)": "Triiodothyronine T3; reverse",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 80438: 86376 | Procedure code:  | Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3): Microsomal antibodies (eg, thyroid or liver-kidney), each | Code description: ",
+      "codes": [
+        "80438",
+        "86376",
+        "84443"
+      ],
+      "table_data": {
+        "columns": [
+          "80438",
+          "Procedure code",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)",
+          "Code description"
+        ],
+        "row": {
+          "80438": "86376",
+          "Procedure code": "",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)": "Microsomal antibodies (eg, thyroid or liver-kidney), each",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 80438: 86800 | Procedure code:  | Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3): Thyroglobulin antibody | Code description: ",
+      "codes": [
+        "80438",
+        "86800",
+        "84443"
+      ],
+      "table_data": {
+        "columns": [
+          "80438",
+          "Procedure code",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)",
+          "Code description"
+        ],
+        "row": {
+          "80438": "86800",
+          "Procedure code": "",
+          "Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\nThyroid stimulating hormone (TSH) (84443 x 3)": "Thyroglobulin antibody",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nFor a diagnosis of hyperthyroidism and a diagnosis of pregnancy or post-partum, testing for antithyroglobulin antibody (TgAb) (CPT code 86800) IS REIMBURSABLE.\n\nFor a diagnosis of hypothyroidism or hyperthyroidism without a diagnosis of autoimmune thyroid disease, for example, Hashimoto disease, Graves' disease, testing for thyroid antibodies (CPT code 83519, CPT code 83520, CPT code 84445, CPT code 86376, CPT code 86800) IS REIMBURSABLE once every three years.\n\nFor thyroid cancer, testing for serum thyroglobulin TgAb (CPT code 84432) and TgAb levels (CPT code 86800) IS REIMBURSABLE.\n\nFor all other situations not described above, testing for TgAb levels (CPT code 86800), thyroid-stimulating immunoglobulins (CPT code 84445) and serum thyroglobulin (CPT code 84432) IS NOT REIMBURSABLE.\n\nTesting for thyroxine-binding globulin (TBG) (CPT code 84442), thyrotropin-releasing hormone (TRH) (CPT code 80438, CPT code 80439) or reverse triiodothyronine (T3) (CPT code 84482) IS NOT REIMBURSABLE.\n\nTesting for thyroxine (CPT code 84437) over the age of two IS NOT REIMBURSABLE.\n\n80438 Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour This panel must include the following:\n\n80439 Thyrotropin releasing hormone (TRH) stimulation panel; 2 hour This panel must include the following:\n\n83519 Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative, by radioimmunoassay (eg, RIA) 83520 Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative, not otherwise specified 84432\n\n84437\n\n84442\n\n84445\n\n84482\n\n86376\n\n86800\n\nN/A\n\nNCD 190.22 N/A"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

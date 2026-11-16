@@ -1,0 +1,3027 @@
+{
+  "policy_title": "Vision Services",
+  "policy_number": "CLMS.CP.0023",
+  "effective_date": "2026-08-05",
+  "version": "1.2",
+  "source_pdf": "Vision_Services.pdf",
+  "source_url": "https://assets.devoted.com/Providers/Vision_Services",
+  "line_of_business": "Medicare Advantage",
+  "billing_class": "Both",
+  "page_count": 8,
+  "revision_history": [
+    {
+      "date": "2026-08-05",
+      "document_num": "CLMS.CP.0023",
+      "version_num": "1.2"
+    },
+    {
+      "date": "2025-07-28",
+      "document_num": "CLMS.CP.0023",
+      "version_num": "1.1"
+    },
+    {
+      "date": "2024-08-13",
+      "document_num": "CLMS.CP.0023",
+      "version_num": "1.0"
+    }
+  ],
+  "table_count": 5,
+  "codes_found": {
+    "cpt_hcpcs": [],
+    "modifiers": [],
+    "revenue_codes": [],
+    "bill_types": [],
+    "icd_codes": [
+      "H52.01",
+      "H52.02",
+      "H52.03",
+      "H52.10",
+      "H52.11",
+      "H52.13",
+      "H52.201",
+      "H52.202",
+      "H52.203",
+      "H52.209",
+      "H52.211",
+      "H52.212",
+      "H52.213",
+      "H52.219",
+      "H52.221",
+      "H52.222",
+      "H52.223",
+      "H52.229",
+      "H52.31",
+      "H52.32",
+      "H52.4",
+      "H52.511",
+      "H52.512",
+      "H52.513",
+      "H52.519",
+      "H52.522",
+      "H52.523",
+      "H52.529",
+      "H52.531",
+      "H52.532",
+      "H52.533",
+      "H52.539",
+      "H52.6",
+      "H52.7",
+      "H53.001",
+      "H53.002",
+      "H53.003",
+      "H53.009",
+      "H53.011",
+      "H53.012",
+      "H53.013",
+      "H53.021",
+      "H53.022",
+      "H53.023",
+      "H53.029",
+      "H53.031",
+      "H53.032",
+      "H53.033",
+      "H53.039",
+      "H53.041",
+      "H53.042",
+      "H53.043",
+      "H53.049",
+      "H53.10",
+      "H53.141",
+      "H53.142",
+      "H53.143",
+      "H53.149",
+      "X12",
+      "Z00.8",
+      "Z01.00",
+      "Z01.01",
+      "Z01.020",
+      "Z01.021",
+      "Z13.5",
+      "Z46.0"
+    ]
+  },
+  "CPT_CODES_USED": [],
+  "sections_summary": [
+    "OVERVIEW",
+    "PURPOSE",
+    "APPLICABILITY",
+    "POLICY",
+    "HOW TO BILL YOUR CLAIMS",
+    "ICD-10 CM",
+    "ACRONYMS AND DEFINITIONS",
+    "N/A",
+    "RESPONSIBILITIES",
+    "REGULATORY REFERENCE",
+    "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+    "REVIEW AND VERSION HISTORY"
+  ],
+  "tables": [
+    {
+      "table_id": "tab_p3_1",
+      "title": "Table (Page 3)",
+      "page_number": 3,
+      "bbox": [
+        72.0625,
+        533.2259521484375,
+        574.5,
+        713.6009521484375
+      ],
+      "columns": [
+        "H52.00",
+        "HYPERMETROPIA UNSPECIFIED EYE"
+      ],
+      "row_count": 5,
+      "col_count": 2,
+      "rows": [
+        {
+          "H52.00": "H52.01",
+          "HYPERMETROPIA UNSPECIFIED EYE": "HYPERMETROPIA RIGHT EYE"
+        },
+        {
+          "H52.00": "H52.02",
+          "HYPERMETROPIA UNSPECIFIED EYE": "HYPERMETROPIA LEFT EYE"
+        },
+        {
+          "H52.00": "H52.03",
+          "HYPERMETROPIA UNSPECIFIED EYE": "HYPERMETROPIA BILATERAL"
+        },
+        {
+          "H52.00": "H52.10",
+          "HYPERMETROPIA UNSPECIFIED EYE": "MYOPIA UNSPECIFIED EYE"
+        },
+        {
+          "H52.00": "H52.11",
+          "HYPERMETROPIA UNSPECIFIED EYE": "MYOPIA RIGHT EYE"
+        }
+      ],
+      "raw_grid": [
+        [
+          "H52.00",
+          "HYPERMETROPIA UNSPECIFIED EYE"
+        ],
+        [
+          "H52.01",
+          "HYPERMETROPIA RIGHT EYE"
+        ],
+        [
+          "H52.02",
+          "HYPERMETROPIA LEFT EYE"
+        ],
+        [
+          "H52.03",
+          "HYPERMETROPIA BILATERAL"
+        ],
+        [
+          "H52.10",
+          "MYOPIA UNSPECIFIED EYE"
+        ],
+        [
+          "H52.11",
+          "MYOPIA RIGHT EYE"
+        ]
+      ],
+      "markdown": "| H52.00 | HYPERMETROPIA UNSPECIFIED EYE |\n| --- | --- |\n| H52.01 | HYPERMETROPIA RIGHT EYE |\n| H52.02 | HYPERMETROPIA LEFT EYE |\n| H52.03 | HYPERMETROPIA BILATERAL |\n| H52.10 | MYOPIA UNSPECIFIED EYE |\n| H52.11 | MYOPIA RIGHT EYE |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": [
+          "H52.01",
+          "H52.02",
+          "H52.03",
+          "H52.10",
+          "H52.11"
+        ]
+      }
+    },
+    {
+      "table_id": "tab_p4_1",
+      "title": "Table (Page 4)",
+      "page_number": 4,
+      "bbox": [
+        72.02272727272727,
+        72.25,
+        574.5,
+        704.375
+      ],
+      "columns": [
+        "H52.12",
+        "MYOPIA LEFT EYE"
+      ],
+      "row_count": 20,
+      "col_count": 2,
+      "rows": [
+        {
+          "H52.12": "H52.13",
+          "MYOPIA LEFT EYE": "MYOPIA BILATERAL"
+        },
+        {
+          "H52.12": "H52.201",
+          "MYOPIA LEFT EYE": "UNSPECIFIED ASTIGMATISM RIGHT EYE"
+        },
+        {
+          "H52.12": "H52.202",
+          "MYOPIA LEFT EYE": "UNSPECIFIED ASTIGMATISM LEFT EYE"
+        },
+        {
+          "H52.12": "H52.203",
+          "MYOPIA LEFT EYE": "UNSPECIFIED ASTIGMATISM BILATERAL"
+        },
+        {
+          "H52.12": "H52.209",
+          "MYOPIA LEFT EYE": "UNSPECIFIED ASTIGMATISM UNSPECIFIED EYE"
+        },
+        {
+          "H52.12": "H52.211",
+          "MYOPIA LEFT EYE": "IRREGULAR ASTIGMATISM RIGHT EYE"
+        },
+        {
+          "H52.12": "H52.212",
+          "MYOPIA LEFT EYE": "IRREGULAR ASTIGMATISM LEFT EYE"
+        },
+        {
+          "H52.12": "H52.213",
+          "MYOPIA LEFT EYE": "IRREGULAR ASTIGMATISM BILATERAL"
+        },
+        {
+          "H52.12": "H52.219",
+          "MYOPIA LEFT EYE": "IRREGULAR ASTIGMATISM UNSPECIFIED EYE"
+        },
+        {
+          "H52.12": "H52.221",
+          "MYOPIA LEFT EYE": "REGULAR ASTIGMATISM RIGHT EYE"
+        },
+        {
+          "H52.12": "H52.222",
+          "MYOPIA LEFT EYE": "REGULAR ASTIGMATISM LEFT EYE"
+        },
+        {
+          "H52.12": "H52.223",
+          "MYOPIA LEFT EYE": "REGULAR ASTIGMATISM BILATERAL"
+        },
+        {
+          "H52.12": "H52.229",
+          "MYOPIA LEFT EYE": "REGULAR ASTIGMATISM UNSPECIFIED EYE"
+        },
+        {
+          "H52.12": "H52.31",
+          "MYOPIA LEFT EYE": "ANISOMETROPIA"
+        },
+        {
+          "H52.12": "H52.32",
+          "MYOPIA LEFT EYE": "ANISEIKONIA"
+        },
+        {
+          "H52.12": "H52.4",
+          "MYOPIA LEFT EYE": "PRESBYOPIA"
+        },
+        {
+          "H52.12": "H52.511",
+          "MYOPIA LEFT EYE": "INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL RT EYE"
+        },
+        {
+          "H52.12": "H52.512",
+          "MYOPIA LEFT EYE": "INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL LT EYE"
+        },
+        {
+          "H52.12": "H52.513",
+          "MYOPIA LEFT EYE": "INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL BILAT"
+        },
+        {
+          "H52.12": "H52.519",
+          "MYOPIA LEFT EYE": "INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL UNS EYE"
+        }
+      ],
+      "raw_grid": [
+        [
+          "H52.12",
+          "MYOPIA LEFT EYE"
+        ],
+        [
+          "H52.13",
+          "MYOPIA BILATERAL"
+        ],
+        [
+          "H52.201",
+          "UNSPECIFIED ASTIGMATISM RIGHT EYE"
+        ],
+        [
+          "H52.202",
+          "UNSPECIFIED ASTIGMATISM LEFT EYE"
+        ],
+        [
+          "H52.203",
+          "UNSPECIFIED ASTIGMATISM BILATERAL"
+        ],
+        [
+          "H52.209",
+          "UNSPECIFIED ASTIGMATISM UNSPECIFIED EYE"
+        ],
+        [
+          "H52.211",
+          "IRREGULAR ASTIGMATISM RIGHT EYE"
+        ],
+        [
+          "H52.212",
+          "IRREGULAR ASTIGMATISM LEFT EYE"
+        ],
+        [
+          "H52.213",
+          "IRREGULAR ASTIGMATISM BILATERAL"
+        ],
+        [
+          "H52.219",
+          "IRREGULAR ASTIGMATISM UNSPECIFIED EYE"
+        ],
+        [
+          "H52.221",
+          "REGULAR ASTIGMATISM RIGHT EYE"
+        ],
+        [
+          "H52.222",
+          "REGULAR ASTIGMATISM LEFT EYE"
+        ],
+        [
+          "H52.223",
+          "REGULAR ASTIGMATISM BILATERAL"
+        ],
+        [
+          "H52.229",
+          "REGULAR ASTIGMATISM UNSPECIFIED EYE"
+        ],
+        [
+          "H52.31",
+          "ANISOMETROPIA"
+        ],
+        [
+          "H52.32",
+          "ANISEIKONIA"
+        ],
+        [
+          "H52.4",
+          "PRESBYOPIA"
+        ],
+        [
+          "H52.511",
+          "INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL RT EYE"
+        ],
+        [
+          "H52.512",
+          "INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL LT EYE"
+        ],
+        [
+          "H52.513",
+          "INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL BILAT"
+        ],
+        [
+          "H52.519",
+          "INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL UNS EYE"
+        ]
+      ],
+      "markdown": "| H52.12 | MYOPIA LEFT EYE |\n| --- | --- |\n| H52.13 | MYOPIA BILATERAL |\n| H52.201 | UNSPECIFIED ASTIGMATISM RIGHT EYE |\n| H52.202 | UNSPECIFIED ASTIGMATISM LEFT EYE |\n| H52.203 | UNSPECIFIED ASTIGMATISM BILATERAL |\n| H52.209 | UNSPECIFIED ASTIGMATISM UNSPECIFIED EYE |\n| H52.211 | IRREGULAR ASTIGMATISM RIGHT EYE |\n| H52.212 | IRREGULAR ASTIGMATISM LEFT EYE |\n| H52.213 | IRREGULAR ASTIGMATISM BILATERAL |\n| H52.219 | IRREGULAR ASTIGMATISM UNSPECIFIED EYE |\n| H52.221 | REGULAR ASTIGMATISM RIGHT EYE |\n| H52.222 | REGULAR ASTIGMATISM LEFT EYE |\n| H52.223 | REGULAR ASTIGMATISM BILATERAL |\n| H52.229 | REGULAR ASTIGMATISM UNSPECIFIED EYE |\n| H52.31 | ANISOMETROPIA |\n| H52.32 | ANISEIKONIA |\n| H52.4 | PRESBYOPIA |\n| H52.511 | INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL RT EYE |\n| H52.512 | INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL LT EYE |\n| H52.513 | INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL BILAT |\n| H52.519 | INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL UNS EYE |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": [
+          "H52.13",
+          "H52.201",
+          "H52.202",
+          "H52.203",
+          "H52.209",
+          "H52.211",
+          "H52.212",
+          "H52.213",
+          "H52.219",
+          "H52.221",
+          "H52.222",
+          "H52.223",
+          "H52.229",
+          "H52.31",
+          "H52.32",
+          "H52.4",
+          "H52.511",
+          "H52.512",
+          "H52.513",
+          "H52.519"
+        ]
+      }
+    },
+    {
+      "table_id": "tab_p5_1",
+      "title": "Table (Page 5)",
+      "page_number": 5,
+      "bbox": [
+        72.02272727272727,
+        72.25,
+        574.5,
+        704.375
+      ],
+      "columns": [
+        "H52.521",
+        "PARESIS OF ACCOMMODATION RIGHT EYE"
+      ],
+      "row_count": 20,
+      "col_count": 2,
+      "rows": [
+        {
+          "H52.521": "H52.522",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "PARESIS OF ACCOMMODATION LEFT EYE"
+        },
+        {
+          "H52.521": "H52.523",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "PARESIS OF ACCOMMODATION BILATERAL"
+        },
+        {
+          "H52.521": "H52.529",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "PARESIS OF ACCOMMODATION UNSPECIFIED EYE"
+        },
+        {
+          "H52.521": "H52.531",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "SPASM OF ACCOMMODATION RIGHT EYE"
+        },
+        {
+          "H52.521": "H52.532",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "SPASM OF ACCOMMODATION LEFT EYE"
+        },
+        {
+          "H52.521": "H52.533",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "SPASM OF ACCOMMODATION BILATERAL"
+        },
+        {
+          "H52.521": "H52.539",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "SPASM OF ACCOMMODATION UNSPECIFIED EYE"
+        },
+        {
+          "H52.521": "H52.6",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "OTHER DISORDERS OF REFRACTION"
+        },
+        {
+          "H52.521": "H52.7",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "UNSPECIFIED DISORDER OF REFRACTION"
+        },
+        {
+          "H52.521": "Z00.8",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "ENCOUNTER FOR OTHER GENERAL EXAMINATION"
+        },
+        {
+          "H52.521": "Z01.00",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "ENCOUNTER EXAM EYES & VISION W/O ABNORMAL FIND"
+        },
+        {
+          "H52.521": "Z01.01",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "ENCOUNTER EXAM EYES & VISION W/ ABNORMAL FIND"
+        },
+        {
+          "H52.521": "Z13.5",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "ENCOUNTER FOR SCREENING FOR EYE & EAR DISORDERS"
+        },
+        {
+          "H52.521": "H53.001",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "UNSPECIFIED AMBLYOPIA RIGHT EYE"
+        },
+        {
+          "H52.521": "H53.002",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "UNSPECIFIED AMBLYOPIA LEFT EYE"
+        },
+        {
+          "H52.521": "H53.003",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "UNSPECIFIED AMBLYOPIA BILATERAL"
+        },
+        {
+          "H52.521": "H53.009",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "UNSPECIFIED AMBLYOPIA UNSPECIFIED EYE"
+        },
+        {
+          "H52.521": "H53.011",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "DEPRIVATION AMBLYOPIA RIGHT EYE"
+        },
+        {
+          "H52.521": "H53.012",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "DEPRIVATION AMBLYOPIA LEFT EYE"
+        },
+        {
+          "H52.521": "H53.013",
+          "PARESIS OF ACCOMMODATION RIGHT EYE": "DEPRIVATION AMBLYOPIA BILATERAL"
+        }
+      ],
+      "raw_grid": [
+        [
+          "H52.521",
+          "PARESIS OF ACCOMMODATION RIGHT EYE"
+        ],
+        [
+          "H52.522",
+          "PARESIS OF ACCOMMODATION LEFT EYE"
+        ],
+        [
+          "H52.523",
+          "PARESIS OF ACCOMMODATION BILATERAL"
+        ],
+        [
+          "H52.529",
+          "PARESIS OF ACCOMMODATION UNSPECIFIED EYE"
+        ],
+        [
+          "H52.531",
+          "SPASM OF ACCOMMODATION RIGHT EYE"
+        ],
+        [
+          "H52.532",
+          "SPASM OF ACCOMMODATION LEFT EYE"
+        ],
+        [
+          "H52.533",
+          "SPASM OF ACCOMMODATION BILATERAL"
+        ],
+        [
+          "H52.539",
+          "SPASM OF ACCOMMODATION UNSPECIFIED EYE"
+        ],
+        [
+          "H52.6",
+          "OTHER DISORDERS OF REFRACTION"
+        ],
+        [
+          "H52.7",
+          "UNSPECIFIED DISORDER OF REFRACTION"
+        ],
+        [
+          "Z00.8",
+          "ENCOUNTER FOR OTHER GENERAL EXAMINATION"
+        ],
+        [
+          "Z01.00",
+          "ENCOUNTER EXAM EYES & VISION W/O ABNORMAL FIND"
+        ],
+        [
+          "Z01.01",
+          "ENCOUNTER EXAM EYES & VISION W/ ABNORMAL FIND"
+        ],
+        [
+          "Z13.5",
+          "ENCOUNTER FOR SCREENING FOR EYE & EAR DISORDERS"
+        ],
+        [
+          "H53.001",
+          "UNSPECIFIED AMBLYOPIA RIGHT EYE"
+        ],
+        [
+          "H53.002",
+          "UNSPECIFIED AMBLYOPIA LEFT EYE"
+        ],
+        [
+          "H53.003",
+          "UNSPECIFIED AMBLYOPIA BILATERAL"
+        ],
+        [
+          "H53.009",
+          "UNSPECIFIED AMBLYOPIA UNSPECIFIED EYE"
+        ],
+        [
+          "H53.011",
+          "DEPRIVATION AMBLYOPIA RIGHT EYE"
+        ],
+        [
+          "H53.012",
+          "DEPRIVATION AMBLYOPIA LEFT EYE"
+        ],
+        [
+          "H53.013",
+          "DEPRIVATION AMBLYOPIA BILATERAL"
+        ]
+      ],
+      "markdown": "| H52.521 | PARESIS OF ACCOMMODATION RIGHT EYE |\n| --- | --- |\n| H52.522 | PARESIS OF ACCOMMODATION LEFT EYE |\n| H52.523 | PARESIS OF ACCOMMODATION BILATERAL |\n| H52.529 | PARESIS OF ACCOMMODATION UNSPECIFIED EYE |\n| H52.531 | SPASM OF ACCOMMODATION RIGHT EYE |\n| H52.532 | SPASM OF ACCOMMODATION LEFT EYE |\n| H52.533 | SPASM OF ACCOMMODATION BILATERAL |\n| H52.539 | SPASM OF ACCOMMODATION UNSPECIFIED EYE |\n| H52.6 | OTHER DISORDERS OF REFRACTION |\n| H52.7 | UNSPECIFIED DISORDER OF REFRACTION |\n| Z00.8 | ENCOUNTER FOR OTHER GENERAL EXAMINATION |\n| Z01.00 | ENCOUNTER EXAM EYES & VISION W/O ABNORMAL FIND |\n| Z01.01 | ENCOUNTER EXAM EYES & VISION W/ ABNORMAL FIND |\n| Z13.5 | ENCOUNTER FOR SCREENING FOR EYE & EAR DISORDERS |\n| H53.001 | UNSPECIFIED AMBLYOPIA RIGHT EYE |\n| H53.002 | UNSPECIFIED AMBLYOPIA LEFT EYE |\n| H53.003 | UNSPECIFIED AMBLYOPIA BILATERAL |\n| H53.009 | UNSPECIFIED AMBLYOPIA UNSPECIFIED EYE |\n| H53.011 | DEPRIVATION AMBLYOPIA RIGHT EYE |\n| H53.012 | DEPRIVATION AMBLYOPIA LEFT EYE |\n| H53.013 | DEPRIVATION AMBLYOPIA BILATERAL |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": [
+          "H52.522",
+          "H52.523",
+          "H52.529",
+          "H52.531",
+          "H52.532",
+          "H52.533",
+          "H52.539",
+          "H52.6",
+          "H52.7",
+          "H53.001",
+          "H53.002",
+          "H53.003",
+          "H53.009",
+          "H53.011",
+          "H53.012",
+          "H53.013",
+          "Z00.8",
+          "Z01.00",
+          "Z01.01",
+          "Z13.5"
+        ]
+      }
+    },
+    {
+      "table_id": "tab_p6_1",
+      "title": "Table (Page 6)",
+      "page_number": 6,
+      "bbox": [
+        72.02272727272727,
+        72.25,
+        574.5,
+        704.375
+      ],
+      "columns": [
+        "H53.019",
+        "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE"
+      ],
+      "row_count": 20,
+      "col_count": 2,
+      "rows": [
+        {
+          "H53.019": "H53.021",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "REFRACTIVE AMBLYOPIA RIGHT EYE"
+        },
+        {
+          "H53.019": "H53.022",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "REFRACTIVE AMBLYOPIA LEFT EYE"
+        },
+        {
+          "H53.019": "H53.023",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "REFRACTIVE AMBLYOPIA BILATERAL"
+        },
+        {
+          "H53.019": "H53.029",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "REFRACTIVE AMBLYOPIA UNSPECIFIED EYE"
+        },
+        {
+          "H53.019": "H53.031",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "STRABISMIC AMBLYOPIA RIGHT EYE"
+        },
+        {
+          "H53.019": "H53.032",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "STRABISMIC AMBLYOPIA LEFT EYE"
+        },
+        {
+          "H53.019": "H53.033",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "STRABISMIC AMLYOPIA BILATERAL"
+        },
+        {
+          "H53.019": "H53.039",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "STRABISMIC AMBLYOPIA UNSPECIFIED EYE"
+        },
+        {
+          "H53.019": "H53.041",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "AMBLYOPIA SUSPECT RIGHT EYE"
+        },
+        {
+          "H53.019": "H53.042",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "AMBLYOPIA SUSPECT LEFT EYE"
+        },
+        {
+          "H53.019": "H53.043",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "AMBLYOPIA SUSPECT BILATERAL"
+        },
+        {
+          "H53.019": "H53.049",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "AMBLYOPIA SUSPECT UNSPECIFIED EYE"
+        },
+        {
+          "H53.019": "H53.10",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "UNSPECIFIED SUBJECTIVE VISUAL DISTURBANCES"
+        },
+        {
+          "H53.019": "H53.141",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "VISUAL DISCOMFORT RIGHT EYE"
+        },
+        {
+          "H53.019": "H53.142",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "VISUAL DISCOMFORT LEFT EYE"
+        },
+        {
+          "H53.019": "H53.143",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "VISUAL DISCOMFORT BILATERAL"
+        },
+        {
+          "H53.019": "H53.149",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "VISUAL DISCOMFORT UNSPECIFIED"
+        },
+        {
+          "H53.019": "Z46.0",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "ENCOUNTER FIT & ADJUST SPECTACLES & CONTACT LENSES"
+        },
+        {
+          "H53.019": "Z01.020",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "ENCOUNTER EXAM EYES/VS FAIL VS SCR WO AB FND"
+        },
+        {
+          "H53.019": "Z01.021",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "ENCOUNTER EXAM EYES/VS FAIL VS SCR W AB FND"
+        }
+      ],
+      "raw_grid": [
+        [
+          "H53.019",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE"
+        ],
+        [
+          "H53.021",
+          "REFRACTIVE AMBLYOPIA RIGHT EYE"
+        ],
+        [
+          "H53.022",
+          "REFRACTIVE AMBLYOPIA LEFT EYE"
+        ],
+        [
+          "H53.023",
+          "REFRACTIVE AMBLYOPIA BILATERAL"
+        ],
+        [
+          "H53.029",
+          "REFRACTIVE AMBLYOPIA UNSPECIFIED EYE"
+        ],
+        [
+          "H53.031",
+          "STRABISMIC AMBLYOPIA RIGHT EYE"
+        ],
+        [
+          "H53.032",
+          "STRABISMIC AMBLYOPIA LEFT EYE"
+        ],
+        [
+          "H53.033",
+          "STRABISMIC AMLYOPIA BILATERAL"
+        ],
+        [
+          "H53.039",
+          "STRABISMIC AMBLYOPIA UNSPECIFIED EYE"
+        ],
+        [
+          "H53.041",
+          "AMBLYOPIA SUSPECT RIGHT EYE"
+        ],
+        [
+          "H53.042",
+          "AMBLYOPIA SUSPECT LEFT EYE"
+        ],
+        [
+          "H53.043",
+          "AMBLYOPIA SUSPECT BILATERAL"
+        ],
+        [
+          "H53.049",
+          "AMBLYOPIA SUSPECT UNSPECIFIED EYE"
+        ],
+        [
+          "H53.10",
+          "UNSPECIFIED SUBJECTIVE VISUAL DISTURBANCES"
+        ],
+        [
+          "H53.141",
+          "VISUAL DISCOMFORT RIGHT EYE"
+        ],
+        [
+          "H53.142",
+          "VISUAL DISCOMFORT LEFT EYE"
+        ],
+        [
+          "H53.143",
+          "VISUAL DISCOMFORT BILATERAL"
+        ],
+        [
+          "H53.149",
+          "VISUAL DISCOMFORT UNSPECIFIED"
+        ],
+        [
+          "Z46.0",
+          "ENCOUNTER FIT & ADJUST SPECTACLES & CONTACT LENSES"
+        ],
+        [
+          "Z01.020",
+          "ENCOUNTER EXAM EYES/VS FAIL VS SCR WO AB FND"
+        ],
+        [
+          "Z01.021",
+          "ENCOUNTER EXAM EYES/VS FAIL VS SCR W AB FND"
+        ]
+      ],
+      "markdown": "| H53.019 | DEPRIVATION AMBLYOPIA UNSPECIFIED EYE |\n| --- | --- |\n| H53.021 | REFRACTIVE AMBLYOPIA RIGHT EYE |\n| H53.022 | REFRACTIVE AMBLYOPIA LEFT EYE |\n| H53.023 | REFRACTIVE AMBLYOPIA BILATERAL |\n| H53.029 | REFRACTIVE AMBLYOPIA UNSPECIFIED EYE |\n| H53.031 | STRABISMIC AMBLYOPIA RIGHT EYE |\n| H53.032 | STRABISMIC AMBLYOPIA LEFT EYE |\n| H53.033 | STRABISMIC AMLYOPIA BILATERAL |\n| H53.039 | STRABISMIC AMBLYOPIA UNSPECIFIED EYE |\n| H53.041 | AMBLYOPIA SUSPECT RIGHT EYE |\n| H53.042 | AMBLYOPIA SUSPECT LEFT EYE |\n| H53.043 | AMBLYOPIA SUSPECT BILATERAL |\n| H53.049 | AMBLYOPIA SUSPECT UNSPECIFIED EYE |\n| H53.10 | UNSPECIFIED SUBJECTIVE VISUAL DISTURBANCES |\n| H53.141 | VISUAL DISCOMFORT RIGHT EYE |\n| H53.142 | VISUAL DISCOMFORT LEFT EYE |\n| H53.143 | VISUAL DISCOMFORT BILATERAL |\n| H53.149 | VISUAL DISCOMFORT UNSPECIFIED |\n| Z46.0 | ENCOUNTER FIT & ADJUST SPECTACLES & CONTACT LENSES |\n| Z01.020 | ENCOUNTER EXAM EYES/VS FAIL VS SCR WO AB FND |\n| Z01.021 | ENCOUNTER EXAM EYES/VS FAIL VS SCR W AB FND |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": [
+          "H53.021",
+          "H53.022",
+          "H53.023",
+          "H53.029",
+          "H53.031",
+          "H53.032",
+          "H53.033",
+          "H53.039",
+          "H53.041",
+          "H53.042",
+          "H53.043",
+          "H53.049",
+          "H53.10",
+          "H53.141",
+          "H53.142",
+          "H53.143",
+          "H53.149",
+          "Z01.020",
+          "Z01.021",
+          "Z46.0"
+        ]
+      }
+    },
+    {
+      "table_id": "tab_p8_1",
+      "title": "Table (Page 8)",
+      "page_number": 8,
+      "bbox": [
+        54.12000020345052,
+        106.42999267578125,
+        557.8800048828125,
+        173.20001220703125
+      ],
+      "columns": [
+        "Date",
+        "Document #",
+        "Version #"
+      ],
+      "row_count": 3,
+      "col_count": 3,
+      "rows": [
+        {
+          "Date": "2026-08-05",
+          "Document #": "CLMS.CP.0023",
+          "Version #": "1.2"
+        },
+        {
+          "Date": "2025-07-28",
+          "Document #": "CLMS.CP.0023",
+          "Version #": "1.1"
+        },
+        {
+          "Date": "2024-08-13",
+          "Document #": "CLMS.CP.0023",
+          "Version #": "1.0"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        [
+          "2026-08-05",
+          "CLMS.CP.0023",
+          "1.2"
+        ],
+        [
+          "2025-07-28",
+          "CLMS.CP.0023",
+          "1.1"
+        ],
+        [
+          "2024-08-13",
+          "CLMS.CP.0023",
+          "1.0"
+        ]
+      ],
+      "markdown": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-08-05 | CLMS.CP.0023 | 1.2 |\n| 2025-07-28 | CLMS.CP.0023 | 1.1 |\n| 2024-08-13 | CLMS.CP.0023 | 1.0 |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    }
+  ],
+  "extracted_content": [
+    {
+      "id": "item_0001",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Vision Care & Ophthalmologic",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0002",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0003",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "[CLMS.CP.0023] 2026-08-05",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0004",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0023 - 2026-08-05 v1.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0005",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0006",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0007",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Page 1 of 8",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0008",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "PURPOSE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0009",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy outlines how Devoted Health covers and reimburses vision-related services,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0010",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "including both Medicare-covered ophthalmologic services and supplemental routine vision",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0011",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "benefits available to our members. It details the types of services covered, applicable",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0012",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "diagnosis codes, and billing requirements.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0013",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "APPLICABILITY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0014",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy applies to all Devoted Health plans.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0015",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "POLICY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0016",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "We cover all Medicare-covered vision services, in addition to supplemental benefits not",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0017",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "available through Medicare. This includes:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0018",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Medicare-Covered",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0019",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Diabetic retinopathy screenings;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0020",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Glaucoma screenings;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0021",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Surgical eye procedures;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0022",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Specialist and/or physician services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0023",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Supplemental",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0024",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Routine eye exams;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0025",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Routine or minor eye procedures;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0026",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Routine vision hardware",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0027",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Screening and routine eye exams are covered once every year at no cost to our members.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0028",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Members must have a diagnosis of diabetes to be eligible for retinopathy screenings.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0029",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Routine prescription vision hardware is covered with an annual allowance that can be applied",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0030",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "toward frames, lenses, contacts (excluding contact lens fittings), repairs, and other related",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0031",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "costs. Please see the \"Vision Care\" section of our EOC for plan specific allowances listed under",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0032",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "\"Eyewear,\" as the allowance amount and how members access their benefit may vary",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0033",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "depending on the member's plan.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0034",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Post-cataract eyewear is a Medicare covered service and is a separate benefit from members'",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0035",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "annual routine eyewear allowance.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0036",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0023 - 2026-08-05 v1.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0037",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0038",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0039",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Page 2 of 8",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0040",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "definition",
+      "content": "Please note: Annual benefit limitations are applied based on the calendar year (1/1 - 12/31)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0041",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "and are not based on time passed since the last date of service.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0042",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Minor and surgical procedures are covered as medically necessary and may be subject to prior",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0043",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "authorization. Cost-shares may vary based on our member's plan and site of service, but will",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0044",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "not exceed the plan specific amount listed in the EOC under \"Outpatient Procedures/Surgery",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0045",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "at an Outpatient Hospital.\"",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0046",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "HOW TO BILL YOUR CLAIMS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0047",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Depending on your state and contract details, your claims will be sent directly to us or to one",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0048",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "of our delegated partners, EyeMed or Premier Eye Care. We strongly encourage you to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0049",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "participate in these networks to ensure the most seamless experience for our members.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0050",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Please refer to our Partner Guide for more information on where to send claims based on",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0051",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "state.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0052",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "We reimburse claims according to the Medicare Physician Services or OPPS payment",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0053",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "methodology, depending on the provider type and/or site of service. Please see your contract",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0054",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "for specific details.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0055",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Bill your claims on a professional (CMS-1500) or an institutional (UB-04) claim form or their",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0056",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "X12 837 electronic equivalents, based on the appropriate site of service. We consider claims",
+      "codes": [
+        "X12"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0057",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "medical in nature, except for those that are billed with one of the diagnosis codes listed",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0058",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "below. Use these codes for preventive or routine services to ensure our members are not",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0059",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "charged a cost share:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0060",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "ICD-10 CM",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0061",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "CODE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0062",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "DESCRIPTION",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0063",
+      "title": "Table (Page 3)",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "table",
+      "content": "| H52.00 | HYPERMETROPIA UNSPECIFIED EYE |\n| --- | --- |\n| H52.01 | HYPERMETROPIA RIGHT EYE |\n| H52.02 | HYPERMETROPIA LEFT EYE |\n| H52.03 | HYPERMETROPIA BILATERAL |\n| H52.10 | MYOPIA UNSPECIFIED EYE |\n| H52.11 | MYOPIA RIGHT EYE |",
+      "codes": [
+        "H52.01",
+        "H52.02",
+        "H52.03",
+        "H52.10",
+        "H52.11"
+      ],
+      "table_data": {
+        "table_id": "tab_p3_1",
+        "title": "Table (Page 3)",
+        "columns": [
+          "H52.00",
+          "HYPERMETROPIA UNSPECIFIED EYE"
+        ],
+        "row_count": 5,
+        "rows": [
+          {
+            "H52.00": "H52.01",
+            "HYPERMETROPIA UNSPECIFIED EYE": "HYPERMETROPIA RIGHT EYE"
+          },
+          {
+            "H52.00": "H52.02",
+            "HYPERMETROPIA UNSPECIFIED EYE": "HYPERMETROPIA LEFT EYE"
+          },
+          {
+            "H52.00": "H52.03",
+            "HYPERMETROPIA UNSPECIFIED EYE": "HYPERMETROPIA BILATERAL"
+          },
+          {
+            "H52.00": "H52.10",
+            "HYPERMETROPIA UNSPECIFIED EYE": "MYOPIA UNSPECIFIED EYE"
+          },
+          {
+            "H52.00": "H52.11",
+            "HYPERMETROPIA UNSPECIFIED EYE": "MYOPIA RIGHT EYE"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0064",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0023 - 2026-08-05 v1.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0065",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0066",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0067",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Page 3 of 8",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0068",
+      "title": "Table (Page 4)",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "table",
+      "content": "| H52.12 | MYOPIA LEFT EYE |\n| --- | --- |\n| H52.13 | MYOPIA BILATERAL |\n| H52.201 | UNSPECIFIED ASTIGMATISM RIGHT EYE |\n| H52.202 | UNSPECIFIED ASTIGMATISM LEFT EYE |\n| H52.203 | UNSPECIFIED ASTIGMATISM BILATERAL |\n| H52.209 | UNSPECIFIED ASTIGMATISM UNSPECIFIED EYE |\n| H52.211 | IRREGULAR ASTIGMATISM RIGHT EYE |\n| H52.212 | IRREGULAR ASTIGMATISM LEFT EYE |\n| H52.213 | IRREGULAR ASTIGMATISM BILATERAL |\n| H52.219 | IRREGULAR ASTIGMATISM UNSPECIFIED EYE |\n| H52.221 | REGULAR ASTIGMATISM RIGHT EYE |\n| H52.222 | REGULAR ASTIGMATISM LEFT EYE |\n| H52.223 | REGULAR ASTIGMATISM BILATERAL |\n| H52.229 | REGULAR ASTIGMATISM UNSPECIFIED EYE |\n| H52.31 | ANISOMETROPIA |\n| H52.32 | ANISEIKONIA |\n| H52.4 | PRESBYOPIA |\n| H52.511 | INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL RT EYE |\n| H52.512 | INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL LT EYE |\n| H52.513 | INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL BILAT |\n| H52.519 | INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL UNS EYE |",
+      "codes": [
+        "H52.13",
+        "H52.201",
+        "H52.202",
+        "H52.203",
+        "H52.209",
+        "H52.211",
+        "H52.212",
+        "H52.213",
+        "H52.219",
+        "H52.221",
+        "H52.222",
+        "H52.223",
+        "H52.229",
+        "H52.31",
+        "H52.32",
+        "H52.4",
+        "H52.511",
+        "H52.512",
+        "H52.513",
+        "H52.519"
+      ],
+      "table_data": {
+        "table_id": "tab_p4_1",
+        "title": "Table (Page 4)",
+        "columns": [
+          "H52.12",
+          "MYOPIA LEFT EYE"
+        ],
+        "row_count": 20,
+        "rows": [
+          {
+            "H52.12": "H52.13",
+            "MYOPIA LEFT EYE": "MYOPIA BILATERAL"
+          },
+          {
+            "H52.12": "H52.201",
+            "MYOPIA LEFT EYE": "UNSPECIFIED ASTIGMATISM RIGHT EYE"
+          },
+          {
+            "H52.12": "H52.202",
+            "MYOPIA LEFT EYE": "UNSPECIFIED ASTIGMATISM LEFT EYE"
+          },
+          {
+            "H52.12": "H52.203",
+            "MYOPIA LEFT EYE": "UNSPECIFIED ASTIGMATISM BILATERAL"
+          },
+          {
+            "H52.12": "H52.209",
+            "MYOPIA LEFT EYE": "UNSPECIFIED ASTIGMATISM UNSPECIFIED EYE"
+          },
+          {
+            "H52.12": "H52.211",
+            "MYOPIA LEFT EYE": "IRREGULAR ASTIGMATISM RIGHT EYE"
+          },
+          {
+            "H52.12": "H52.212",
+            "MYOPIA LEFT EYE": "IRREGULAR ASTIGMATISM LEFT EYE"
+          },
+          {
+            "H52.12": "H52.213",
+            "MYOPIA LEFT EYE": "IRREGULAR ASTIGMATISM BILATERAL"
+          },
+          {
+            "H52.12": "H52.219",
+            "MYOPIA LEFT EYE": "IRREGULAR ASTIGMATISM UNSPECIFIED EYE"
+          },
+          {
+            "H52.12": "H52.221",
+            "MYOPIA LEFT EYE": "REGULAR ASTIGMATISM RIGHT EYE"
+          },
+          {
+            "H52.12": "H52.222",
+            "MYOPIA LEFT EYE": "REGULAR ASTIGMATISM LEFT EYE"
+          },
+          {
+            "H52.12": "H52.223",
+            "MYOPIA LEFT EYE": "REGULAR ASTIGMATISM BILATERAL"
+          },
+          {
+            "H52.12": "H52.229",
+            "MYOPIA LEFT EYE": "REGULAR ASTIGMATISM UNSPECIFIED EYE"
+          },
+          {
+            "H52.12": "H52.31",
+            "MYOPIA LEFT EYE": "ANISOMETROPIA"
+          },
+          {
+            "H52.12": "H52.32",
+            "MYOPIA LEFT EYE": "ANISEIKONIA"
+          },
+          {
+            "H52.12": "H52.4",
+            "MYOPIA LEFT EYE": "PRESBYOPIA"
+          },
+          {
+            "H52.12": "H52.511",
+            "MYOPIA LEFT EYE": "INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL RT EYE"
+          },
+          {
+            "H52.12": "H52.512",
+            "MYOPIA LEFT EYE": "INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL LT EYE"
+          },
+          {
+            "H52.12": "H52.513",
+            "MYOPIA LEFT EYE": "INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL BILAT"
+          },
+          {
+            "H52.12": "H52.519",
+            "MYOPIA LEFT EYE": "INTERNAL OPHTHALMOPLEGIA COMPLETE TOTAL UNS EYE"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0069",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0023 - 2026-08-05 v1.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0070",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0071",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0072",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Page 4 of 8",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0073",
+      "title": "Table (Page 5)",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "table",
+      "content": "| H52.521 | PARESIS OF ACCOMMODATION RIGHT EYE |\n| --- | --- |\n| H52.522 | PARESIS OF ACCOMMODATION LEFT EYE |\n| H52.523 | PARESIS OF ACCOMMODATION BILATERAL |\n| H52.529 | PARESIS OF ACCOMMODATION UNSPECIFIED EYE |\n| H52.531 | SPASM OF ACCOMMODATION RIGHT EYE |\n| H52.532 | SPASM OF ACCOMMODATION LEFT EYE |\n| H52.533 | SPASM OF ACCOMMODATION BILATERAL |\n| H52.539 | SPASM OF ACCOMMODATION UNSPECIFIED EYE |\n| H52.6 | OTHER DISORDERS OF REFRACTION |\n| H52.7 | UNSPECIFIED DISORDER OF REFRACTION |\n| Z00.8 | ENCOUNTER FOR OTHER GENERAL EXAMINATION |\n| Z01.00 | ENCOUNTER EXAM EYES & VISION W/O ABNORMAL FIND |\n| Z01.01 | ENCOUNTER EXAM EYES & VISION W/ ABNORMAL FIND |\n| Z13.5 | ENCOUNTER FOR SCREENING FOR EYE & EAR DISORDERS |\n| H53.001 | UNSPECIFIED AMBLYOPIA RIGHT EYE |\n| H53.002 | UNSPECIFIED AMBLYOPIA LEFT EYE |\n| H53.003 | UNSPECIFIED AMBLYOPIA BILATERAL |\n| H53.009 | UNSPECIFIED AMBLYOPIA UNSPECIFIED EYE |\n| H53.011 | DEPRIVATION AMBLYOPIA RIGHT EYE |\n| H53.012 | DEPRIVATION AMBLYOPIA LEFT EYE |\n| H53.013 | DEPRIVATION AMBLYOPIA BILATERAL |",
+      "codes": [
+        "H52.522",
+        "H52.523",
+        "H52.529",
+        "H52.531",
+        "H52.532",
+        "H52.533",
+        "H52.539",
+        "H52.6",
+        "H52.7",
+        "H53.001",
+        "H53.002",
+        "H53.003",
+        "H53.009",
+        "H53.011",
+        "H53.012",
+        "H53.013",
+        "Z00.8",
+        "Z01.00",
+        "Z01.01",
+        "Z13.5"
+      ],
+      "table_data": {
+        "table_id": "tab_p5_1",
+        "title": "Table (Page 5)",
+        "columns": [
+          "H52.521",
+          "PARESIS OF ACCOMMODATION RIGHT EYE"
+        ],
+        "row_count": 20,
+        "rows": [
+          {
+            "H52.521": "H52.522",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "PARESIS OF ACCOMMODATION LEFT EYE"
+          },
+          {
+            "H52.521": "H52.523",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "PARESIS OF ACCOMMODATION BILATERAL"
+          },
+          {
+            "H52.521": "H52.529",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "PARESIS OF ACCOMMODATION UNSPECIFIED EYE"
+          },
+          {
+            "H52.521": "H52.531",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "SPASM OF ACCOMMODATION RIGHT EYE"
+          },
+          {
+            "H52.521": "H52.532",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "SPASM OF ACCOMMODATION LEFT EYE"
+          },
+          {
+            "H52.521": "H52.533",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "SPASM OF ACCOMMODATION BILATERAL"
+          },
+          {
+            "H52.521": "H52.539",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "SPASM OF ACCOMMODATION UNSPECIFIED EYE"
+          },
+          {
+            "H52.521": "H52.6",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "OTHER DISORDERS OF REFRACTION"
+          },
+          {
+            "H52.521": "H52.7",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "UNSPECIFIED DISORDER OF REFRACTION"
+          },
+          {
+            "H52.521": "Z00.8",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "ENCOUNTER FOR OTHER GENERAL EXAMINATION"
+          },
+          {
+            "H52.521": "Z01.00",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "ENCOUNTER EXAM EYES & VISION W/O ABNORMAL FIND"
+          },
+          {
+            "H52.521": "Z01.01",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "ENCOUNTER EXAM EYES & VISION W/ ABNORMAL FIND"
+          },
+          {
+            "H52.521": "Z13.5",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "ENCOUNTER FOR SCREENING FOR EYE & EAR DISORDERS"
+          },
+          {
+            "H52.521": "H53.001",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "UNSPECIFIED AMBLYOPIA RIGHT EYE"
+          },
+          {
+            "H52.521": "H53.002",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "UNSPECIFIED AMBLYOPIA LEFT EYE"
+          },
+          {
+            "H52.521": "H53.003",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "UNSPECIFIED AMBLYOPIA BILATERAL"
+          },
+          {
+            "H52.521": "H53.009",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "UNSPECIFIED AMBLYOPIA UNSPECIFIED EYE"
+          },
+          {
+            "H52.521": "H53.011",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "DEPRIVATION AMBLYOPIA RIGHT EYE"
+          },
+          {
+            "H52.521": "H53.012",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "DEPRIVATION AMBLYOPIA LEFT EYE"
+          },
+          {
+            "H52.521": "H53.013",
+            "PARESIS OF ACCOMMODATION RIGHT EYE": "DEPRIVATION AMBLYOPIA BILATERAL"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0074",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0023 - 2026-08-05 v1.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0075",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0076",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0077",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Page 5 of 8",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0078",
+      "title": "Table (Page 6)",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "table",
+      "content": "| H53.019 | DEPRIVATION AMBLYOPIA UNSPECIFIED EYE |\n| --- | --- |\n| H53.021 | REFRACTIVE AMBLYOPIA RIGHT EYE |\n| H53.022 | REFRACTIVE AMBLYOPIA LEFT EYE |\n| H53.023 | REFRACTIVE AMBLYOPIA BILATERAL |\n| H53.029 | REFRACTIVE AMBLYOPIA UNSPECIFIED EYE |\n| H53.031 | STRABISMIC AMBLYOPIA RIGHT EYE |\n| H53.032 | STRABISMIC AMBLYOPIA LEFT EYE |\n| H53.033 | STRABISMIC AMLYOPIA BILATERAL |\n| H53.039 | STRABISMIC AMBLYOPIA UNSPECIFIED EYE |\n| H53.041 | AMBLYOPIA SUSPECT RIGHT EYE |\n| H53.042 | AMBLYOPIA SUSPECT LEFT EYE |\n| H53.043 | AMBLYOPIA SUSPECT BILATERAL |\n| H53.049 | AMBLYOPIA SUSPECT UNSPECIFIED EYE |\n| H53.10 | UNSPECIFIED SUBJECTIVE VISUAL DISTURBANCES |\n| H53.141 | VISUAL DISCOMFORT RIGHT EYE |\n| H53.142 | VISUAL DISCOMFORT LEFT EYE |\n| H53.143 | VISUAL DISCOMFORT BILATERAL |\n| H53.149 | VISUAL DISCOMFORT UNSPECIFIED |\n| Z46.0 | ENCOUNTER FIT & ADJUST SPECTACLES & CONTACT LENSES |\n| Z01.020 | ENCOUNTER EXAM EYES/VS FAIL VS SCR WO AB FND |\n| Z01.021 | ENCOUNTER EXAM EYES/VS FAIL VS SCR W AB FND |",
+      "codes": [
+        "H53.021",
+        "H53.022",
+        "H53.023",
+        "H53.029",
+        "H53.031",
+        "H53.032",
+        "H53.033",
+        "H53.039",
+        "H53.041",
+        "H53.042",
+        "H53.043",
+        "H53.049",
+        "H53.10",
+        "H53.141",
+        "H53.142",
+        "H53.143",
+        "H53.149",
+        "Z01.020",
+        "Z01.021",
+        "Z46.0"
+      ],
+      "table_data": {
+        "table_id": "tab_p6_1",
+        "title": "Table (Page 6)",
+        "columns": [
+          "H53.019",
+          "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE"
+        ],
+        "row_count": 20,
+        "rows": [
+          {
+            "H53.019": "H53.021",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "REFRACTIVE AMBLYOPIA RIGHT EYE"
+          },
+          {
+            "H53.019": "H53.022",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "REFRACTIVE AMBLYOPIA LEFT EYE"
+          },
+          {
+            "H53.019": "H53.023",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "REFRACTIVE AMBLYOPIA BILATERAL"
+          },
+          {
+            "H53.019": "H53.029",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "REFRACTIVE AMBLYOPIA UNSPECIFIED EYE"
+          },
+          {
+            "H53.019": "H53.031",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "STRABISMIC AMBLYOPIA RIGHT EYE"
+          },
+          {
+            "H53.019": "H53.032",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "STRABISMIC AMBLYOPIA LEFT EYE"
+          },
+          {
+            "H53.019": "H53.033",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "STRABISMIC AMLYOPIA BILATERAL"
+          },
+          {
+            "H53.019": "H53.039",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "STRABISMIC AMBLYOPIA UNSPECIFIED EYE"
+          },
+          {
+            "H53.019": "H53.041",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "AMBLYOPIA SUSPECT RIGHT EYE"
+          },
+          {
+            "H53.019": "H53.042",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "AMBLYOPIA SUSPECT LEFT EYE"
+          },
+          {
+            "H53.019": "H53.043",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "AMBLYOPIA SUSPECT BILATERAL"
+          },
+          {
+            "H53.019": "H53.049",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "AMBLYOPIA SUSPECT UNSPECIFIED EYE"
+          },
+          {
+            "H53.019": "H53.10",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "UNSPECIFIED SUBJECTIVE VISUAL DISTURBANCES"
+          },
+          {
+            "H53.019": "H53.141",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "VISUAL DISCOMFORT RIGHT EYE"
+          },
+          {
+            "H53.019": "H53.142",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "VISUAL DISCOMFORT LEFT EYE"
+          },
+          {
+            "H53.019": "H53.143",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "VISUAL DISCOMFORT BILATERAL"
+          },
+          {
+            "H53.019": "H53.149",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "VISUAL DISCOMFORT UNSPECIFIED"
+          },
+          {
+            "H53.019": "Z46.0",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "ENCOUNTER FIT & ADJUST SPECTACLES & CONTACT LENSES"
+          },
+          {
+            "H53.019": "Z01.020",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "ENCOUNTER EXAM EYES/VS FAIL VS SCR WO AB FND"
+          },
+          {
+            "H53.019": "Z01.021",
+            "DEPRIVATION AMBLYOPIA UNSPECIFIED EYE": "ENCOUNTER EXAM EYES/VS FAIL VS SCR W AB FND"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0079",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0023 - 2026-08-05 v1.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0080",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0081",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0082",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Page 6 of 8",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0083",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "While Original Medicare does not cover refractions, we encourage providers to review the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0084",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "member's Evidence of Coverage (EOC). Many of our plans include supplemental coverage for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0085",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "one routine refraction per year under either medical or vision benefits. If a member does not",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0086",
+      "title": "ICD-10 CM",
+      "section": "ICD-10 CM",
+      "subsection": null,
+      "hierarchy_path": [
+        "ICD-10 CM"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "have this supplemental benefit, the refraction claim will be denied as non-covered.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0087",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "ACRONYMS AND DEFINITIONS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0088",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0089",
+      "title": "RESPONSIBILITIES",
+      "section": "RESPONSIBILITIES",
+      "subsection": null,
+      "hierarchy_path": [
+        "RESPONSIBILITIES"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "RESPONSIBILITIES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0090",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0091",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "REGULATORY REFERENCE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0092",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0093",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0094",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Eyer-wear following Cataract Surgery",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0095",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0023 - 2026-08-05 v1.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0096",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0097",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0098",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Page 7 of 8",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0099",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "header",
+      "content": "REVIEW AND VERSION HISTORY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0100",
+      "title": "Table (Page 8)",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "table",
+      "content": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-08-05 | CLMS.CP.0023 | 1.2 |\n| 2025-07-28 | CLMS.CP.0023 | 1.1 |\n| 2024-08-13 | CLMS.CP.0023 | 1.0 |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p8_1",
+        "title": "Table (Page 8)",
+        "columns": [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        "row_count": 3,
+        "rows": [
+          {
+            "Date": "2026-08-05",
+            "Document #": "CLMS.CP.0023",
+            "Version #": "1.2"
+          },
+          {
+            "Date": "2025-07-28",
+            "Document #": "CLMS.CP.0023",
+            "Version #": "1.1"
+          },
+          {
+            "Date": "2024-08-13",
+            "Document #": "CLMS.CP.0023",
+            "Version #": "1.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0101",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Prior versions are available upon request",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0102",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0023 - 2026-08-05 v1.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0103",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0104",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0105",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Page 8 of 8",
+      "codes": [],
+      "table_data": null
+    }
+  ],
+  "mapping_eligibility": {
+    "eligible": true,
+    "route": "MAP_NEEDED",
+    "reason": "no explicit codes; 5 procedural terms",
+    "explicit_code_count": 0,
+    "procedure_terms": [
+      "examination",
+      "procedures",
+      "screening",
+      "surgery",
+      "surgical"
+    ],
+    "admin_terms": [
+      "cost share",
+      "cost-shares"
+    ]
+  },
+  "mapping_status": "mapped",
+  "mapped_cpt_codes": [
+    {
+      "code": "0464T",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "D",
+      "score": 35.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "66985",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "D",
+      "score": 35.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    }
+  ],
+  "mapping_source": "KB PIPELINE MARKED",
+  "kb_pipeline_marked": true
+}

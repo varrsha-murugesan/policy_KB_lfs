@@ -1,0 +1,759 @@
+{
+  "policy_title": "Laboratory - Diagnostic Testing for Influenza",
+  "policy_number": "LAB2023031",
+  "effective_date": "06/2023",
+  "published_date": "06/2023",
+  "revision_date": "04/2026",
+  "source_pdf": "Laboratory_-_Diagnostic_Testing_for_Influenza-8a7d3b6d.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 5,
+  "table_count": 1,
+  "block_count": 24,
+  "CPT_CODES_USED": [
+    "87804",
+    "87400",
+    "87501",
+    "87502",
+    "87275",
+    "87276",
+    "87254",
+    "86710",
+    "00367",
+    "70029",
+    "00403",
+    "01241",
+    "62449",
+    "12303",
+    "01611",
+    "00199",
+    "01691",
+    "24796",
+    "02288",
+    "22234",
+    "00182"
+  ],
+  "MODIFIERS_USED": [
+    "GM",
+    "50",
+    "56",
+    "SA",
+    "CA",
+    "24",
+    "AJ",
+    "KR",
+    "82",
+    "AS",
+    "RT",
+    "53",
+    "JA",
+    "AD",
+    "25",
+    "80",
+    "VM",
+    "62",
+    "22",
+    "58",
+    "FR",
+    "CR",
+    "SE",
+    "JC",
+    "79",
+    "FY",
+    "26",
+    "SM",
+    "GL",
+    "TM",
+    "HH",
+    "SG",
+    "SH",
+    "CS",
+    "90",
+    "KC"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "87804",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87400",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87501",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87502",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87275",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87276",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87254",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86710",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00367",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "70029",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00403",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01241",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "62449",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "12303",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01611",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00199",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01691",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "24796",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "02288",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "22234",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00182",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Testing for influenza (CPT code 87804, CPT code 87400, CPT code 87501, CPT code 87502, CPT code 87275, CPT code 87276) IS REIMBURSABLE for diagnosis of patients who present with one or more of the following:",
+      "codes": [
+        "87804",
+        "87400",
+        "87501",
+        "87502",
+        "87275",
+        "87276"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Whooping cough",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Whooping cough",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Whooping cough",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Testing with infectious agent antigen detection by immunoassay with direct optical observation (CPT code 87804) IS NOT REIMBURSABLE with another influenza test (CPT code 87400, CPT code 87501, CPT code 87502, CPT code 87275, CPT code 87276).",
+      "codes": [
+        "87804",
+        "87400",
+        "87501",
+        "87502",
+        "87275",
+        "87276"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Whooping cough",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Whooping cough",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Whooping cough",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "For all other situations not described above, testing for influenza (CPT code 87804, CPT code 87400, CPT code 87501, CPT code 87502, CPT code 87275, CPT code 87276) IS NOT REIMBURSABLE.",
+      "codes": [
+        "87804",
+        "87400",
+        "87501",
+        "87502",
+        "87275",
+        "87276"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Whooping cough",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Whooping cough",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Whooping cough",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Viral culture testing for influenza (CPT code 87254) with a diagnosis of influenza IS NOT REIMBURSABLE.",
+      "codes": [
+        "87254"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Whooping cough",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Whooping cough",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Whooping cough",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Serology testing for influenza (CPT code 86710) IS NOT REIMBURSABLE.",
+      "codes": [
+        "86710"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "86710",
+      "codes": [
+        "86710"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Antibody; influenza virus",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Antibody; influenza virus",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Antibody; influenza virus",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "87254 Virus isolation; centrifuge enhanced (shell vial) technique, includes identification with immunofluorescence stain, each virus 87275 Infectious agent antigen detection by immunofluorescent technique; influenza B virus 87276 Infectious agent antigen detection by immunofluorescent technique; influenza A virus 87400 Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme- linked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay [IMCA]) qualitative or semiquantitative, Influenza, A or B, each 87501 Infectious agent detection by nucleic acid (DNA or RNA); influenza virus, includes reverse transcription, when performed, and amplified probe technique, each type or subtype 87502 Infectious agent detection by nucleic acid (DNA or RNA); influenza virus, for multiple types or sub-types, includes multiplex reverse transcription, when performed, and multiplex amplified probe technique, first 2 types or sub-types 87804 Infectious agent antigen detection by immunoassay with direct optical (i.e. visual) observation; influenza",
+      "codes": [
+        "87254",
+        "87275",
+        "87276",
+        "87400",
+        "87501",
+        "87502",
+        "87804"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "AAP. Red Book® 2024-2027: Report of the Committee on Infectious Diseases, 33rd Edition. 2024;doi:10.1542/9781610027373 Abraham MK, Perkins J, Vilke GM, Coyne CJ. Influenza in the Emergency Department: Vaccination, Diagnosis, and Treatment: Clinical Practice Paper Approved by American Academy of Emergency Medicine Clinical Guidelines Committee. The Journal of emergency medicine. Mar 2016;50(3):536-42. doi:10.1016/j.jemermed.2015.10.013 ACOG. Influenza in Pregnancy: Prevention and Treatment. Updated February 2024. https://www.acog.org/clinical/clinical- guidance/committee-statement/articles/2024/02/influenza-in-pregnancy-prevention-and-treatment Antoniol S, Fidouh N, Ghazali A, et al. Diagnostic performances of the Xpert(®) Flu PCR test and the OSOM(®) immunochromatographic rapid test for influenza A and B virus among adult patients in the Emergency Department. Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology. Feb-Mar 2018;99-100:5-9. doi:10.1016/j.jcv.2017.12.005 Azar MM, Landry ML. Detection of Influenza A and B Viruses and Respiratory Syncytial Virus by Use of Clinical Laboratory Improvement Amendments of 1988 (CLIA)-Waived Point-of-Care Assays: a Paradigm Shift to Molecular Tests. Journal of clinical microbiology. Jul 2018;56(7)doi:10.1128/jcm.00367-18 Brankston G, Gitterman L, Hirji Z, Lemieux C, Gardam M. Transmission of influenza A in human beings. The Lancet Infectious diseases. Apr 2007;7(4):257-65. doi:10.1016/s1473-3099(07)70029-4 Call SA, Vollenweider MA, Hornung CA, Simel DL, McKinney WP. Does this patient have influenza? Jama. Feb 23 2005;293(8):987-97. doi:10.1001/jama.293.8.987 CDC. Guide for considering influenza testing when influenza viruses are circulating in the community. Updated November 24, 2023. https://www.cdc.gov/flu/hcp/testing-methods/consider-influenza-testing.html",
+      "codes": [
+        "00367",
+        "70029"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "CDC. Influenza virus testing in investigational outbreaks in institutional or other closed settings. Updated March 4, 2019. https://www.cdc.gov/flu/hcp/testing-methods/guide-virus-diagnostic-tests.html CDC. Rapid Influenza Diagnostic Tests. Updated September 17, 2024. https://www.cdc.gov/flu/hcp/testing- methods/clinician_guidance_ridt.html CDC. Signs and Symptoms of Flu. Updated August 24, 2024. https://www.cdc.gov/flu/signs-symptoms/index.html Chartrand C, Leeflang MM, Minion J, Brewer T, Pai M. Accuracy of rapid influenza diagnostic tests: a meta-analysis. Annals of internal medicine. Apr 03 2012;156(7):500-11. doi:10.7326/0003-4819-156-7-201204030-00403 CMS. Tests Granted Waived Status Under CLIA. https://www.cdc.gov/clia/docs/tests-granted-waived-status-under-clia.pdf Committee On Infectious Diseases. Recommendations for Prevention and Control of Influenza in Children, 2023-2024. Pediatrics.",
+      "codes": [
+        "00403"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Oct 1 2023;152(4)doi:10.1542/peds.2023-063772",
+      "section": "References",
+      "subsection": "Oct 1 2023;152(4)doi:10.1542/peds.2023-063772",
+      "hierarchy_path": "References > Oct 1 2023;152(4)doi:10.1542/peds.2023-063772",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Cooper NJ, Sutton AJ, Abrams KR, Wailoo A, Turner D, Nicholson KG. Effectiveness of neuraminidase inhibitors in treatment and prevention of influenza A and B: systematic review and meta-analyses of randomised controlled trials. BMJ (Clinical research ed). Jun 07 2003;326(7401):1235. doi:10.1136/bmj.326.7401.1235 Cowling BJ, Chan KH, Fang VJ, et al. Comparative epidemiology of pandemic and seasonal influenza A in households. The New England journal of medicine. Jun 10 2010;362(23):2175-84. doi:10.1056/NEJMoa0911530 Cox NJ, Subbarao K. Influenza. Lancet (London, England). Oct 09 1999;354(9186):1277-82. doi:10.1016/s0140-6736(99)01241-6 Dobson J, Whitley RJ, Pocock S, Monto AS. Oseltamivir treatment for influenza in adults: a meta-analysis of randomised controlled trials. Lancet (London, England). May 02 2015;385(9979):1729-37. doi:10.1016/s0140-6736(14)62449-1 Dolin R. Influenza: current concepts. American family physician. 1976;14(3):72-7. https://pubmed.ncbi.nlm.nih.gov/961563/ Dolin R. Seasonal influenza in adults: Clinical manifestations and diagnosis. Updated April 2, 2025. https://www.uptodate.com/contents/seasonal-influenza-in-adults-clinical-manifestations-and-diagnosis Ferrani S, Prazuck T, Béchet S, Lesne F, Cohen R, Levy C. Diagnostic accuracy of a rapid antigen triple test (SARS-CoV-2, respiratory syncytial virus, and influenza) using anterior nasal swabs versus multiplex RT-PCR in children in an emergency department. Infect Dis Now. Oct 2023;53(7):104769. doi:10.1016/j.idnow.2023.104769 Harper SA, Bradley JS, Englund JA, et al. Seasonal influenza in adults and children--diagnosis, treatment, chemoprophylaxis, and institutional outbreak management: clinical practice guidelines of the Infectious Diseases Society of America. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America. Apr 15 2009;48(8):1003-32. doi:10.1086/598513 Hayden FG, Osterhaus AD, Treanor JJ, et al. Efficacy and safety of the neuraminidase inhibitor zanamivir in the treatment of influenzavirus infections. GG167 Influenza Study Group. The New England journal of medicine. Sep 25 1997;337(13):874-80. doi:10.1056/nejm199709253371302 Hazelton B, Gray T, Ho J, Ratnamohan VM, Dwyer DE, Kok J. Detection of influenza A and B with the Alere i Influenza A & B: a novel isothermal nucleic acid amplification assay. Influenza and other respiratory viruses. May 2015;9(3):151-4. doi:10.1111/irv.12303 Heneghan CJ, Onakpoya I, Thompson M, Spencer EA, Jones M, Jefferson T. Zanamivir for influenza in adults and children: systematic review of clinical study reports and summary of regulatory comments. BMJ (Clinical research ed). Apr 09 2014;348:g2547. doi:10.1136/bmj.g2547 Hurt AC, Alexander R, Hibbert J, Deed N, Barr IG. Performance of six influenza rapid tests in detecting human influenza in clinical specimens. Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology. Jun 2007;39(2):132-5. doi:10.1016/j.jcv.2007.03.002 Ikenaga M, Kosowska-Shick K, Gotoh K, et al. Genotypes of macrolide-resistant pneumococci from children in southwestern Japan: raised incidence of strains that have both erm(B) and mef(A) with serotype 6B clones. Diagnostic microbiology and infectious disease. Sep 2008;62(1):16-22. doi:10.1016/j.diagmicrobio.2007.10.013 Jefferson T, Jones M, Doshi P, Spencer EA, Onakpoya I, Heneghan CJ. Oseltamivir for influenza in adults and children: systematic review of clinical study reports and summary of regulatory comments. BMJ (Clinical research ed). Apr 09 2014;348:g2545. doi:10.1136/bmj.g2545 Kanwar N, Michael J, Doran K, Montgomery E, Selvarangan R. Comparison of the ID Now Influenza A & B 2, Cobas Influenza A/B, and Xpert Xpress Flu Point-of-Care Nucleic Acid Amplification Tests for Influenza A/B Virus Detection in Children. Journal of clinical microbiology. Feb 24 2020;58(3)doi:10.1128/jcm.01611-19 Kilbourne ED, Loge JP. Influenza A prime: a clinical study of an epidemic caused by a new strain of virus. Annals of internal medicine.",
+      "codes": [
+        "01241",
+        "62449",
+        "12303",
+        "01611"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Aug 1950;33(2):371-9. doi:10.7326/0003-4819-33-2-371",
+      "section": "References",
+      "subsection": "Aug 1950;33(2):371-9. doi:10.7326/0003-4819-33-2-371",
+      "hierarchy_path": "References > Aug 1950;33(2):371-9. doi:10.7326/0003-4819-33-2-371",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Kux L. Microbiology Devices; Reclassification of Influenza Virus Antigen Detection Test Systems Intended for Use Directly With Clinical Specimens. Federal Register; 2017;82(8):3609-19. https://www.gpo.gov/fdsys/pkg/FR-2017-01-12/pdf/2017-00199.pdf",
+      "codes": [
+        "00199"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Aug 1950;33(2):371-9. doi:10.7326/0003-4819-33-2-371",
+      "section": "References",
+      "subsection": "Aug 1950;33(2):371-9. doi:10.7326/0003-4819-33-2-371",
+      "hierarchy_path": "References > Aug 1950;33(2):371-9. doi:10.7326/0003-4819-33-2-371",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Lee JJ, Verbakel JY, Goyder CR, et al. The Clinical Utility of Point-of-Care Tests for Influenza in Ambulatory Care: A Systematic Review and Meta-analysis. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America. Jun 18 2019;69(1):24-33. doi:10.1093/cid/ciy837 Ling L, Kaplan SE, Lopez JC, Stiles J, Lu X, Tang YW. Parallel Validation of Three Molecular Devices for Simultaneous Detection and Identification of Influenza A and B and Respiratory Syncytial Viruses. Journal of clinical microbiology. Mar 2018;56(3)doi:10.1128/jcm.01691-17 Loeb M, Singh PK, Fox J, et al. Longitudinal study of influenza molecular viral shedding in Hutterite communities. The Journal of infectious diseases. Oct 01 2012;206(7):1078-84. doi:10.1093/infdis/jis450 Lopez Roa P, Catalan P, Giannella M, Garcia de Viedma D, Sandonis V, Bouza E. Comparison of real-time RT-PCR, shell vial culture, and conventional cell culture for the detection of the pandemic influenza A (H1N1) in hospitalized patients. Diagnostic microbiology and infectious disease. Apr 2011;69(4):428-31. doi:10.1016/j.diagmicrobio.2010.11.007 Melchers WJG, Kuijpers J, Sickler JJ, Rahamat-Langendoen J. Lab-in-a-tube: Real-time molecular point-of-care diagnostics for influenza A and B using the cobas(R) Liat(R) system. Journal of medical virology. Aug 2017;89(8):1382-1386. doi:10.1002/jmv.24796 Miller JM, Binnicker MJ, Campbell S, et al. A Guide to Utilization of the Microbiology Laboratory for Diagnosis of Infectious Diseases: 2018 Update by the Infectious Diseases Society of America and the American Society for Microbiologya. Clinical Infectious",
+      "codes": [
+        "01691",
+        "24796"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Diseases. 2018:ciy381-ciy381. doi:10.1093/cid/ciy381",
+      "section": "References",
+      "subsection": "Diseases. 2018:ciy381-ciy381. doi:10.1093/cid/ciy381",
+      "hierarchy_path": "References > Diseases. 2018:ciy381-ciy381. doi:10.1093/cid/ciy381",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Miller JM, Binnicker MJ, Campbell S, et al. Guide to Utilization of the Microbiology Laboratory for Diagnosis of Infectious Diseases: 2024 Update by the Infectious Diseases Society of America (IDSA) and the American Society for Microbiology (ASM). Clinical infectious diseases : an official publication of the Infectious Diseases Society of America. Mar 5 2024;doi:10.1093/cid/ciae104 Moesker FM, van Kampen JJA, Aron G, et al. Diagnostic performance of influenza viruses and RSV rapid antigen detection tests in children in tertiary care. Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology. Jun 2016;79:12-17. doi:10.1016/j.jcv.2016.03.022 Mubareka S, Lowen AC, Steel J, Coates AL, Garcia-Sastre A, Palese P. Transmission of influenza virus via aerosols and fomites in the guinea pig model. The Journal of infectious diseases. Mar 15 2009;199(6):858-65. doi:10.1086/597073 Nicholson KG, Aoki FY, Osterhaus AD, et al. Efficacy and safety of oseltamivir in treatment of acute influenza: a randomised controlled trial. Neuraminidase Inhibitor Flu Treatment Investigator Group. Lancet (London, England). May 27 2000;355(9218):1845-50. doi:10.1016/s0140-6736(00)02288-1 Nicholson KG. Clinical features of influenza. Seminars in respiratory infections. 1992;7(1):26-37. Accessed Mar. https://pubmed.ncbi.nlm.nih.gov/1609165/ NIH. Influenza Diagnosis. Updated April 10, 2017. https://www.niaid.nih.gov/diseases-conditions/influenza-diagnosis Ryu SW, Lee JH, Kim J, et al. Comparison of two new generation influenza rapid diagnostic tests with instrument-based digital readout systems for influenza virus detection. British journal of biomedical science. Jul 2016;73(3):115-120. doi:10.1080/09674845.2016.1189026 Ryu SW, Suh IB, Ryu SM, et al. Comparison of three rapid influenza diagnostic tests with digital readout systems and one conventional rapid influenza diagnostic test. Journal of clinical laboratory analysis. Feb 2018;32(2)doi:10.1002/jcla.22234 Sato Y, Nirasawa S, Saeki M, et al. Comparative study of rapid antigen testing and two nucleic acid amplification tests for influenza virus detection. J Infect Chemother. Jul 2022;28(7):1033-1036. doi:10.1016/j.jiac.2022.04.009 Sintchenko V, Gilbert GL, Coiera E, Dwyer D. Treat or test first? Decision analysis of empirical antiviral treatment of influenza virus infection versus treatment based on rapid test results. Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology. Jul 2002;25(1):15-21. doi:10.1016/s1386-6532(00)00182-7 Uyeki TM, Bernstein HH, Bradley JS, et al. Clinical Practice Guidelines by the Infectious Diseases Society of America: 2018 Update on Diagnosis, Treatment, Chemoprophylaxis, and Institutional Outbreak Management of Seasonal Influenzaa. Clinical Infectious",
+      "codes": [
+        "02288",
+        "22234",
+        "00182"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Diseases. 2018;68(6):e1-e47. doi:10.1093/cid/ciy866",
+      "section": "References",
+      "subsection": "Diseases. 2018;68(6):e1-e47. doi:10.1093/cid/ciy866",
+      "hierarchy_path": "References > Diseases. 2018;68(6):e1-e47. doi:10.1093/cid/ciy866",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Yoon J, Yun SG, Nam J, Choi SH, Lim CS. The use of saliva specimens for detection of influenza A and B viruses by rapid influenza diagnostic tests. Journal of virological methods. May 2017;243:15-19. doi:10.1016/j.jviromet.2017.01.013 Young S, Illescas P, Nicasio J, Sickler JJ. Diagnostic accuracy of the real-time PCR cobas((R)) Liat((R)) Influenza A/B assay and the Alere i Influenza A&B NEAR isothermal nucleic acid amplification assay for the detection of influenza using adult nasopharyngeal specimens. Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology. Sep 2017;94:86-",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Diseases. 2018;68(6):e1-e47. doi:10.1093/cid/ciy866",
+      "section": "References",
+      "subsection": "Diseases. 2018;68(6):e1-e47. doi:10.1093/cid/ciy866",
+      "hierarchy_path": "References > Diseases. 2018;68(6):e1-e47. doi:10.1093/cid/ciy866",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "90. doi:10.1016/j.jcv.2017.07.012",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Diseases. 2018;68(6):e1-e47. doi:10.1093/cid/ciy866",
+      "section": "References",
+      "subsection": "Diseases. 2018;68(6):e1-e47. doi:10.1093/cid/ciy866",
+      "hierarchy_path": "References > Diseases. 2018;68(6):e1-e47. doi:10.1093/cid/ciy866",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Zachary KC. Seasonal influenza in nonpregnant adults: Treatment. Updated May 6, 2025. https://www.uptodate.com/contents/seasonal-influenza-in-nonpregnant-adults-treatment",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 86710: 87254 | Procedure code:  | Antibody; influenza virus: Virus isolation; centrifuge enhanced (shell vial) technique, includes identification with\nimmunofluorescence stain, each virus | Code description: ",
+      "codes": [
+        "86710",
+        "87254"
+      ],
+      "table_data": {
+        "columns": [
+          "86710",
+          "Procedure code",
+          "Antibody; influenza virus",
+          "Code description"
+        ],
+        "row": {
+          "86710": "87254",
+          "Procedure code": "",
+          "Antibody; influenza virus": "Virus isolation; centrifuge enhanced (shell vial) technique, includes identification with\nimmunofluorescence stain, each virus",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 86710: 87275 | Procedure code:  | Antibody; influenza virus: Infectious agent antigen detection by immunofluorescent technique; influenza B virus | Code description: ",
+      "codes": [
+        "86710",
+        "87275"
+      ],
+      "table_data": {
+        "columns": [
+          "86710",
+          "Procedure code",
+          "Antibody; influenza virus",
+          "Code description"
+        ],
+        "row": {
+          "86710": "87275",
+          "Procedure code": "",
+          "Antibody; influenza virus": "Infectious agent antigen detection by immunofluorescent technique; influenza B virus",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 86710: 87276 | Procedure code:  | Antibody; influenza virus: Infectious agent antigen detection by immunofluorescent technique; influenza A virus | Code description: ",
+      "codes": [
+        "86710",
+        "87276"
+      ],
+      "table_data": {
+        "columns": [
+          "86710",
+          "Procedure code",
+          "Antibody; influenza virus",
+          "Code description"
+        ],
+        "row": {
+          "86710": "87276",
+          "Procedure code": "",
+          "Antibody; influenza virus": "Infectious agent antigen detection by immunofluorescent technique; influenza A virus",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 86710: 87400 | Procedure code:  | Antibody; influenza virus: Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative, Influenza, A or B, each | Code description: ",
+      "codes": [
+        "86710",
+        "87400"
+      ],
+      "table_data": {
+        "columns": [
+          "86710",
+          "Procedure code",
+          "Antibody; influenza virus",
+          "Code description"
+        ],
+        "row": {
+          "86710": "87400",
+          "Procedure code": "",
+          "Antibody; influenza virus": "Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative, Influenza, A or B, each",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 86710: 87501 | Procedure code:  | Antibody; influenza virus: Infectious agent detection by nucleic acid (DNA or RNA); influenza virus, includes reverse transcription,\nwhen performed, and amplified probe technique, each type or subtype | Code description: ",
+      "codes": [
+        "86710",
+        "87501"
+      ],
+      "table_data": {
+        "columns": [
+          "86710",
+          "Procedure code",
+          "Antibody; influenza virus",
+          "Code description"
+        ],
+        "row": {
+          "86710": "87501",
+          "Procedure code": "",
+          "Antibody; influenza virus": "Infectious agent detection by nucleic acid (DNA or RNA); influenza virus, includes reverse transcription,\nwhen performed, and amplified probe technique, each type or subtype",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 86710: 87502 | Procedure code:  | Antibody; influenza virus: Infectious agent detection by nucleic acid (DNA or RNA); influenza virus, for multiple types or sub-types,\nincludes multiplex reverse transcription, when performed, and multiplex amplified probe technique, first\n2 types or sub-types | Code description: ",
+      "codes": [
+        "86710",
+        "87502"
+      ],
+      "table_data": {
+        "columns": [
+          "86710",
+          "Procedure code",
+          "Antibody; influenza virus",
+          "Code description"
+        ],
+        "row": {
+          "86710": "87502",
+          "Procedure code": "",
+          "Antibody; influenza virus": "Infectious agent detection by nucleic acid (DNA or RNA); influenza virus, for multiple types or sub-types,\nincludes multiplex reverse transcription, when performed, and multiplex amplified probe technique, first\n2 types or sub-types",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 86710: 87804 | Procedure code:  | Antibody; influenza virus: Infectious agent antigen detection by immunoassay with direct optical (i.e. visual) observation; influenza | Code description: ",
+      "codes": [
+        "86710",
+        "87804"
+      ],
+      "table_data": {
+        "columns": [
+          "86710",
+          "Procedure code",
+          "Antibody; influenza virus",
+          "Code description"
+        ],
+        "row": {
+          "86710": "87804",
+          "Procedure code": "",
+          "Antibody; influenza virus": "Infectious agent antigen detection by immunoassay with direct optical (i.e. visual) observation; influenza",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nTesting for influenza (CPT code 87804, CPT code 87400, CPT code 87501, CPT code 87502, CPT code 87275, CPT code 87276) IS REIMBURSABLE for diagnosis of patients who present with one or more of the following:\n\nTesting with infectious agent antigen detection by immunoassay with direct optical observation (CPT code 87804) IS NOT REIMBURSABLE with another influenza test (CPT code 87400, CPT code 87501, CPT code 87502, CPT code 87275, CPT code 87276).\n\nFor all other situations not described above, testing for influenza (CPT code 87804, CPT code 87400, CPT code 87501, CPT code 87502, CPT code 87275, CPT code 87276) IS NOT REIMBURSABLE.\n\nViral culture testing for influenza (CPT code 87254) with a diagnosis of influenza IS NOT REIMBURSABLE.\n\nSerology testing for influenza (CPT code 86710) IS NOT REIMBURSABLE.\n\n86710\n\n87254 Virus isolation; centrifuge enhanced (shell vial) technique, includes identification with immunofluorescence stain, each virus 87275 Infectious agent antigen detection by immunofluorescent technique; influenza B virus 87276 Infectious agent antigen detection by immunofluorescent technique; influenza A virus 87400 Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme- linked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay [IMCA]) qualitative or semiquantitative, Influenza, A or B, each 87501 Infectious agent detection by nucleic acid (DNA or RNA); influenza virus, includes reverse transcription, when performed, and amplified probe technique, each type or subtype 87502 Infectious agent detection by nucleic acid (DNA or RNA); influenza virus, for multiple types or sub-types, includes multiplex reverse transcription, when performed, and multiplex amplified probe technique, first 2 types or sub-types 87804 Infectious agent antigen detection by immunoassay with direct optical (i.e. visual) observation; influenza"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

@@ -1,0 +1,1175 @@
+{
+  "policy_title": "Laboratory - Diagnosis of Vaginitis",
+  "policy_number": "LAB2023030",
+  "effective_date": "06/2023",
+  "published_date": "06/2023",
+  "revision_date": "11/2026",
+  "source_pdf": "Laboratory_-_Diagnosis_of_Vaginitis_Revised-5d248a01.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 6,
+  "table_count": 1,
+  "block_count": 36,
+  "CPT_CODES_USED": [
+    "87511",
+    "87512",
+    "87661",
+    "87481",
+    "87482",
+    "82120",
+    "87480",
+    "87510",
+    "87660",
+    "87808",
+    "0330U",
+    "0505U",
+    "0557U",
+    "70168",
+    "91112",
+    "00506",
+    "S1473",
+    "00749",
+    "00112",
+    "01272",
+    "00577",
+    "03104",
+    "90339",
+    "02840",
+    "00300",
+    "01168",
+    "00204",
+    "10016",
+    "10120",
+    "10119",
+    "01264",
+    "00252",
+    "01643",
+    "80003",
+    "01312",
+    "30316"
+  ],
+  "MODIFIERS_USED": [
+    "25",
+    "91",
+    "95",
+    "JF",
+    "JE",
+    "PA",
+    "CA",
+    "KC",
+    "22",
+    "SA",
+    "GA",
+    "79",
+    "57",
+    "CS",
+    "SM",
+    "AM",
+    "SL",
+    "VP",
+    "52",
+    "50",
+    "AJ",
+    "MS",
+    "92",
+    "24",
+    "53",
+    "TJ",
+    "77",
+    "SE",
+    "TV",
+    "TL",
+    "SG",
+    "54",
+    "93",
+    "JA",
+    "JL",
+    "JD",
+    "RA",
+    "HC",
+    "SC",
+    "AH",
+    "US",
+    "HL",
+    "UA",
+    "58",
+    "56",
+    "SN",
+    "UK"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "87511",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87512",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87661",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87481",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87482",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82120",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87480",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87510",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87660",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87808",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0330U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0505U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0557U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "70168",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "91112",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00506",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "S1473",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00749",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00112",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01272",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00577",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "03104",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "90339",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "02840",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00300",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01168",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00204",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "10016",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "10120",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "10119",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01264",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00252",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01643",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "80003",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01312",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "30316",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "The tests listed below ARE REIMBURSABLE for any of the following conditions:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Vaginitis",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Vaginitis",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Vaginitis",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Nucleic acid amplification (NAAT) or polymerase chain reaction (PCR)-based identification of Gardnerella vaginalis (CPT code 87511, CPT code 87512)",
+      "codes": [
+        "87511",
+        "87512"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Vaginitis",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Vaginitis",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Vaginitis",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "NAAT or PCR-based identification (CPT code 87661) of Trichomonas vaginalis",
+      "codes": [
+        "87661"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Vaginitis",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Vaginitis",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Vaginitis",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "PCR based identification of Candida (CPT code 87481, CPT code 87482)",
+      "codes": [
+        "87481",
+        "87482"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing for the presence of amines (CPT code 82120)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing for the presence of amines (CPT code 82120)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing for the presence of amines (CPT code 82120)",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Screening for Trichomonas (CPT code 87661) IS REIMBURSABLE for any of the following risk factors:",
+      "codes": [
+        "87661"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "New or multiple partners",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "New or multiple partners",
+      "hierarchy_path": "Medicare Advantage Payment Policy > New or multiple partners",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "For all other situations not discussed above^, the following tests (CPT code 82120, CPT code 87481, CPT code 87511, CPT code 87512, CPT code 87661) ARE NOT REIMBURSABLE.",
+      "codes": [
+        "82120",
+        "87481",
+        "87511",
+        "87512",
+        "87661"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "New or multiple partners",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "New or multiple partners",
+      "hierarchy_path": "Medicare Advantage Payment Policy > New or multiple partners",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Direct probe deoxyribonucleic acid (DNA)-based identification of Candida (CPT code 87480), Gardnerella (CPT code 87510) and Trichomonas (CPT code 87660) IS NOT REIMBURSABLE.",
+      "codes": [
+        "87480",
+        "87510",
+        "87660"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "New or multiple partners",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "New or multiple partners",
+      "hierarchy_path": "Medicare Advantage Payment Policy > New or multiple partners",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Rapid identification of Trichomonas by enzyme immunoassay (CPT code 87808) IS NOT REIMBURSABLE.",
+      "codes": [
+        "87808"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "New or multiple partners",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "New or multiple partners",
+      "hierarchy_path": "Medicare Advantage Payment Policy > New or multiple partners",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Broad molecular panels designed to concurrently test for vaginitis and various other STIs (CPT code 0330U, CPT code 0505U, CPT code 0557U) IS NOT REIMBURSABLE. ^For additional allowed situations in which CPT code 87481 will approve, please see Laboratory - Onychomycosis Testing",
+      "codes": [
+        "0330U",
+        "0505U",
+        "0557U",
+        "87481"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82120",
+      "codes": [
+        "82120"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Amines, vaginal fluid, qualitative",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Amines, vaginal fluid, qualitative",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Amines, vaginal fluid, qualitative",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "87480 Infectious agent detection by nucleic acid (DNA or RNA); candida species, direct probe technique 87481 Infectious agent detection by nucleic acid (DNA or RNA); candida species, amplified probe technique 87482 Infectious agent detection by nucleic acid (DNA or RNA); candida species, quantification technique 87510 Infectious agent detection by nucleic acid (DNA or RNA); Gardnerella vaginalis, direct probe technique 87511 Infectious agent detection by nucleic acid (DNA or RNA); Gardnerella vaginalis, amplified probe technique 87512 Infectious agent detection by nucleic acid (DNA or RNA); Gardnerella vaginalis, quantification 87660 Infectious agent detection by nucleic acid (DNA or RNA); Trichomonas vaginalis, direct probe technique 87661 Infectious agent detection by nucleic acid (DNA or RNA); Trichomonas vaginalis, amplified probe technique 87808 Infectious agent antigen detection by immunoassay with direct optical observation; Trichomonas vaginalis 0330U Infectious agent detection by nucleic acid (DNA or RNA), vaginal pathogen panel, identification of 27 organisms, amplified probe technique, vaginal swab ProprietaryTest: Bridge Women's Health Infectious Disease Detection Test Lab/Manufacturer: Bridge Diagnostics, ThermoFisher and Hologic Test Kit on Panther Instrument 0505U Infectious disease (vaginal infection), identification of 32 pathogenic organisms, swab, real-time PCR, reported as positive or negative for each organism",
+      "codes": [
+        "87480",
+        "87481",
+        "87482",
+        "87510",
+        "87511",
+        "87512",
+        "87660",
+        "87661",
+        "87808",
+        "0330U",
+        "0505U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: NxGen MDx LLC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: NxGen MDx LLC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: NxGen MDx LLC",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0557U Infectious disease (bacterial vaginosis and vaginitis), real-time amplification of DNA markers for Atopobium vaginae, Gardnerella vaginalis, Megasphaera types 1 and 2, bacterial vaginosis associated bacteria-2 and -3 (BVAB-2, BVAB-3), Mobiluncus species, Trichomonas vaginalis, Neisseria gonorrhoeae, Candida species (C. albicans, C. tropicalis, C. parapsilosis, C. glabrata, C. krusei), Herpes simplex viruses 1 and 2, vaginal fluid, reported as detected or not detected for each organism",
+      "codes": [
+        "0557U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Abbott J. Clinical and microscopic diagnosis of vaginal yeast infection: a prospective analysis. Annals of emergency medicine. May 1995;25(5):587-91. doi:10.1016/s0196-0644(95)70168-0 ACOG. Vaginitis in Nonpregnant Patients: ACOG Practice Bulletin, Number 215. Obstetrics and gynecology. Jan 2020;135(1):e1-e17. doi:10.1097/AOG.0000000000003604 Amegashie CP, Gilbert NM, Peipert JF, Allsworth JE, Lewis WG, Lewis AL. Relationship between nugent score and vaginal epithelial exfoliation. PLoS One. 2017;12(5):e0177797. doi:10.1371/journal.pone.0177797 Amsel R, Totten PA, Spiegel CA, Chen KC, Eschenbach D, Holmes KK. Nonspecific vaginitis. Diagnostic criteria and microbial and epidemiologic associations. The American journal of medicine. Jan 1983;74(1):14-22. doi:10.1016/0002-9343(83)91112-9 Anand KV, Pimple SA, Mishra GA, et al. Reliability of conventional Papanicolaou smear in diagnosing bacterial vaginosis among women with clinical genital infection. South Asian J Cancer. Jan-Mar 2020;9(1):13-16. doi:10.4103/sajc.sajc_421_18 Anderson MR, Klink K, Cohrssen A. Evaluation of vaginal complaints. Jama. Mar 17 2004;291(11):1368-79. doi:10.1001/jama.291.11.1368 Australian STI Management Guidelines for Use in Primary Care. Bacterial vaginosis. 2024. https://sti.guidelines.org.au/sexually- transmissible-infections/bacterial-vaginosis/",
+      "codes": [
+        "70168",
+        "91112"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Baron EJ, Miller JM, Weinstein MP, et al. A guide to utilization of the microbiology laboratory for diagnosis of infectious diseases: 2013 recommendations by the Infectious Diseases Society of America (IDSA) and the American Society for Microbiology (ASM)(a). Clinical infectious diseases : an official publication of the Infectious Diseases Society of America. Aug 2013;57(4):e22- e121. doi:10.1093/cid/cit278 Bradshaw CS, Morton AN, Garland SM, Horvath LB, Kuzevska I, Fairley CK. Evaluation of a point-of-care test, BVBlue, and clinical and laboratory criteria for diagnosis of bacterial vaginosis. Journal of clinical microbiology. Mar 2005;43(3):1304-8. doi:10.1128/jcm.43.3.1304-1308.2005 Briselden AM, Hillier SL. Evaluation of affirm VP Microbial Identification Test for Gardnerella vaginalis and Trichomonas vaginalis. Journal of clinical microbiology. Jan 1994;32(1):148-52. doi:10.1128/jcm.32.1.148-152.1994 Brown H, Drexler M. Improving the Diagnosis of Vulvovaginitis: Perspectives to Align Practice, Guidelines, and Awareness. Popul",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Health Manag. Oct 2020;23(S1):S3-s12. doi:10.1089/pop.2020.0265",
+      "section": "References",
+      "subsection": "Health Manag. Oct 2020;23(S1):S3-s12. doi:10.1089/pop.2020.0265",
+      "hierarchy_path": "References > Health Manag. Oct 2020;23(S1):S3-s12. doi:10.1089/pop.2020.0265",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Cartwright CP, Lembke BD, Ramachandran K, et al. Development and validation of a semiquantitative, multitarget PCR assay for diagnosis of bacterial vaginosis. Journal of clinical microbiology. Jul 2012;50(7):2321-9. doi:10.1128/jcm.00506-12 Cartwright CP, Pherson AJ, Harris AB, Clancey MS, Nye MB. Multicenter study establishing the clinical validity of a nucleic-acid amplification-based assay for the diagnosis of bacterial vaginosis. Diagnostic microbiology and infectious disease. Nov 2018;92(3):173-178. doi:10.1016/j.diagmicrobio.2018.05.022 CDC. Bacterial Vaginosis. Updated July 22, 2021. https://www.cdc.gov/std/treatment-guidelines/bv.htm CDC. Diseases Characterized by Vulvovaginal Itching, Burning, Irritation, Odor or Discharge. Updated July 22, 2021. https://www.cdc.gov/std/treatment-guidelines/vaginal-discharge.htm CDC. Trichomoniasis. Updated September 21, 2022. https://www.cdc.gov/std/treatment-guidelines/trichomoniasis.htm CDC. Vulvovaginal Candidiasis (VVC). Updated July 22, 2021. https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm Chatwani AJ, Mehta R, Hassan S, Rahimi S, Jeronis S, Dandolu V. Rapid testing for vaginal yeast detection: a prospective study. American journal of obstetrics and gynecology. Apr 2007;196(4):309.e1-4. doi:10.1016/j.ajog.2006.11.025 Cornely OA, Sprute R, Bassetti M, et al. Global guideline for the diagnosis and management of candidiasis: an initiative of the ECMM in cooperation with ISHAM and ASM. The Lancet Infectious Diseases. 2025;25(5):e280-e293. doi:10.1016/S1473- 3099(24)00749-7 Dan M, Leshem Y, Yeshaya A. Performance of a rapid yeast test in detecting Candida spp. in the vagina. Diagnostic microbiology and infectious disease. May 2010;67(1):52-5. doi:10.1016/j.diagmicrobio.2009.12.010 Diba K, Namaki A, Ayatolahi H, Hanifian H. Rapid identification of drug resistant Candida species causing recurrent vulvovaginal candidiasis. Medical mycology journal. 2012;53(3):193-8. doi:10.3314/mmj.53.193 Dumonceaux TJ, Schellenberg J, Goleski V, et al. Multiplex detection of bacteria associated with normal microbiota and with bacterial vaginosis in vaginal swabs by use of oligonucleotide-coupled fluorescent microspheres. Journal of clinical microbiology. Dec 2009;47(12):4067-77. doi:10.1128/jcm.00112-09 Ellis I, Lerch MM, Whitcomb DC. Genetic testing for hereditary pancreatitis: guidelines for indications, counselling, consent and privacy issues. Pancreatology : official journal of the International Association of Pancreatology (IAP) [et al]. 2001;1(5):405-15. doi:10.1159/000055840 Eschenbach DA, Davick PR, Williams BL, et al. Prevalence of hydrogen peroxide-producing Lactobacillus species in normal women and women with bacterial vaginosis. Journal of clinical microbiology. Feb 1989;27(2):251-6. doi:10.1128/jcm.27.2.251-256.1989 Evans A, Fragala MS, Upadhyay P, French A, Goldberg SE, Reddy J. Utilization of Syndromic Vaginitis Diagnostic Testing Reduces 6- Month Follow-Up Outpatient Service Healthcare Costs-A Real-World Data Analysis. Healthcare (Basel). Nov 5 2024;12(22)doi:10.3390/healthcare12222204 FDA Clearance of Aptima BV and Aptima CV/TV Molecular Assays Ushers in New Era of Comprehensive and Objective Diagnostic Testing for Vaginitis. 2019. https://investors.hologic.com/press-releases/press-release-details/2019/FDA-Clearance-of-Aptima- BV-and-Aptima-CVTV-Molecular-Assays-Ushers-in-New-Era-of-Comprehensive-and-Objective-Diagnostic-Testing-for-",
+      "codes": [
+        "00506",
+        "S1473",
+        "00749",
+        "00112"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Vaginitis/default.aspx",
+      "section": "References",
+      "subsection": "Vaginitis/default.aspx",
+      "hierarchy_path": "References > Vaginitis/default.aspx",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "FDA. 510(k) Substantial Equivalence Determination Decision Memorandum: Aptima BV Assay. https://www.accessdata.fda.gov/cdrh_docs/reviews/K190452.pdf FDA. 510(k) Substantial Equivalence Determination Decision Summary: BD MAX Vaginal Panel, BD MAX System. https://www.accessdata.fda.gov/cdrh_docs/reviews/K191957.pdf FDA. Evaluation of Automatic Class III Designation for BD MAX Vaginal Panel. https://www.accessdata.fda.gov/cdrh_docs/reviews/DEN160001.pdf",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Vaginitis/default.aspx",
+      "section": "References",
+      "subsection": "Vaginitis/default.aspx",
+      "hierarchy_path": "References > Vaginitis/default.aspx",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Fredricks DN, Fiedler TL, Thomas KK, Oakley BB, Marrazzo JM. Targeted PCR for detection of vaginal bacteria associated with bacterial vaginosis. Journal of clinical microbiology. Oct 2007;45(10):3270-6. doi:10.1128/JCM.01272-07 Gaydos CA, Beqaj S, Schwebke JR, et al. Clinical Validation of a Test for the Diagnosis of Vaginitis. Obstetrics and gynecology. Jul 2017;130(1):181-189. doi:10.1097/aog.0000000000002090 Geer K Md MPH, Klega AM. Vaginitis: Diagnosis and Treatment. Am Fam Physician. 2025;112(5):504-512. Accessed Nov. https://www.aafp.org/pubs/afp/issues/2025/1100/vaginitis.html#abstract-aafp_pin Giraldo P, von Nowaskonski A, Gomes FA, Linhares I, Neves NA, Witkin SS. Vaginal colonization by Candida in asymptomatic women with and without a history of recurrent vulvovaginal candidiasis. Obstetrics and gynecology. Mar 2000;95(3):413-6. doi:10.1016/s0029-7844(99)00577-3 Hainer BL, Gibson MV. Vaginitis: Diagnosis and Treatment. American Family Physician. 2011;83(7):807-815. https://www.aafp.org/pubs/afp/issues/2011/0401/p807.pdf Hilbert DW, Smith WL, Chadwick SG, et al. Development and Validation of a Highly Accurate Quantitative Real-Time PCR Assay for Diagnosis of Bacterial Vaginosis. Journal of clinical microbiology. Apr 2016;54(4):1017-24. doi:10.1128/jcm.03104-15 Hill GB. The microbiology of bacterial vaginosis. American journal of obstetrics and gynecology. Aug 1993;169(2 Pt 2):450-4. doi:10.1016/0002-9378(93)90339-k Hologic. Accurate Testing for Vaginitis. https://hologicwomenshealth.com/vaginitis/ Hologic. Aptima® BV and CV/TV Assay. https://hologicwomenshealth.com/products/aptimabvandcvtvassay/ Hopwood V, Evans EG, Carney JA. Rapid diagnosis of vaginal candidosis by latex particle agglutination. Journal of clinical pathology.",
+      "codes": [
+        "01272",
+        "00577",
+        "03104",
+        "90339"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Apr 1985;38(4):455-8. doi:10.1136/jcp.38.4.455",
+      "section": "References",
+      "subsection": "Apr 1985;38(4):455-8. doi:10.1136/jcp.38.4.455",
+      "hierarchy_path": "References > Apr 1985;38(4):455-8. doi:10.1136/jcp.38.4.455",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Huppert JS, Mortensen JE, Reed JL, et al. Rapid antigen testing compares favorably with transcription-mediated amplification assay for the detection of Trichomonas vaginalis in young women. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America. Jul 15 2007;45(2):194-8. doi:10.1086/518851 Jones A. Bacterial Vaginosis: A Review of Treatment, Recurrence, and Disparities. The Journal for Nurse Practitioners. 2019/06/01/ 2019;15(6):420-423. doi:10.1016/j.nurpra.2019.03.010 Kairys N, Garg M. Bacterial Vaginosis. StatPearls [Internet]. StatPearls Publishing; 2024. https://www.ncbi.nlm.nih.gov/books/NBK459216/ Kissinger P. Epidemiology and treatment of trichomoniasis. Current infectious disease reports. Jun 2015;17(6):484. doi:10.1007/s11908-015-0484-7 Kong AM, Jenkins D, Troeger KA, Kim G, London RS. Diagnostic Testing of Vaginitis: Improving the Value of Care. Population Health Management. 2021/08/01 2021;24(4):515-524. doi:10.1089/pop.2021.0143 Lamont RF, Sobel JD, Akins RA, et al. The vaginal microbiome: new information about genital tract flora using molecular based techniques. BJOG : an international journal of obstetrics and gynaecology. Apr 2011;118(5):533-49. doi:10.1111/j.1471- 0528.2010.02840.x Landers DV, Wiesenfeld HC, Heine RP, Krohn MA, Hillier SL. Predictive value of the clinical diagnosis of lower genital tract infection in women. American journal of obstetrics and gynecology. Apr 2004;190(4):1004-10. doi:10.1016/j.ajog.2004.02.015 Ling Z, Kong J, Liu F, et al. Molecular analysis of the diversity of vaginal microbiota associated with bacterial vaginosis. BMC genomics. Sep 07 2010;11:488. doi:10.1186/1471-2164-11-488 Lynch T, Peirano G, Lloyd T, et al. Molecular Diagnosis of Vaginitis: Comparing Quantitative PCR and Microbiome Profiling Approaches to Current Microscopy Scoring. Journal of clinical microbiology. Sep 2019;57(9)doi:10.1128/jcm.00300-19 Mahmoudi Rad M, Zafarghandi A, Amel Zabihi M, Tavallaee M, Mirdamadi Y. Identification of Candida species associated with vulvovaginal candidiasis by multiplex PCR. Infectious diseases in obstetrics and gynecology. 2012;2012:872169. doi:10.1155/2012/872169 Marot-Leblond A, Nail-Billaud S, Pilon F, Beucher B, Poulain D, Robert R. Efficient diagnosis of vulvovaginal candidiasis by use of a new rapid immunochromatography test. Journal of clinical microbiology. Dec 2009;47(12):3821-5. doi:10.1128/jcm.01168-09 Matsui H, Hanaki H, Takahashi K, et al. Rapid detection of vaginal Candida species by newly developed immunochromatography. Clinical and vaccine immunology : CVI. Sep 2009;16(9):1366-8. doi:10.1128/cvi.00204-09 MDLabs. 166 Bacterial Vaginosis Panel by Real-Time PCR (with Lactobacillus Profiling by qPCR). https://www.mdlab.com/resources/testing-menu/?code=166 Menard JP, Fenollar F, Henry M, Bretelle F, Raoult D. Molecular quantification of Gardnerella vaginalis and Atopobium vaginae loads to predict bacterial vaginosis. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America. Jul 01 2008;47(1):33-43. doi:10.1086/588661",
+      "codes": [
+        "02840",
+        "00300",
+        "01168",
+        "00204"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Apr 1985;38(4):455-8. doi:10.1136/jcp.38.4.455",
+      "section": "References",
+      "subsection": "Apr 1985;38(4):455-8. doi:10.1136/jcp.38.4.455",
+      "hierarchy_path": "References > Apr 1985;38(4):455-8. doi:10.1136/jcp.38.4.455",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Menard JP, Mazouni C, Fenollar F, Raoult D, Boubli L, Bretelle F. Diagnostic accuracy of quantitative real-time PCR assay versus clinical and Gram stain identification of bacterial vaginosis. European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology. Dec 2010;29(12):1547-52. doi:10.1007/s10096-010-1039-3 Miller JM, Binnicker MJ, Campbell S, et al. Guide to Utilization of the Microbiology Laboratory for Diagnosis of Infectious Diseases: 2024 Update by the Infectious Diseases Society of America (IDSA) and the American Society for Microbiology (ASM) ∗. Clinical",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Infectious Diseases. 2024;doi:10.1093/cid/ciae104",
+      "section": "References",
+      "subsection": "Infectious Diseases. 2024;doi:10.1093/cid/ciae104",
+      "hierarchy_path": "References > Infectious Diseases. 2024;doi:10.1093/cid/ciae104",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Myziuk L, Romanowski B, Johnson SC. BVBlue test for diagnosis of bacterial vaginosis. Journal of clinical microbiology. May 2003;41(5):1925-8. doi:10.1128/JCM.41.5.1925-1928.2003 Owens DK, Davidson KW, Krist AH, et al. Screening for Bacterial Vaginosis in Pregnant Persons to Prevent Preterm Delivery: US Preventive Services Task Force Recommendation Statement. Jama. Apr 7 2020;323(13):1286-1292. doi:10.1001/jama.2020.2684 Page S. Bacterial Vaginosis and Symptomatic Vaginitis Test. https://www.ruclear.co.uk/testing/bacterial-vaginosis/ Paladine HL, Desai UA. Vaginitis: Diagnosis and Treatment. Am Fam Physician. 2018;97(5):321-329. https://www.aafp.org/afp/2018/0301/p321.html Pappas PG, Kauffman CA, Andes DR, et al. Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America. Clinical infectious diseases : an official publication of the Infectious Diseases Society of",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "America. Feb 15 2016;62(4):e1-50. doi:10.1093/cid/civ933",
+      "section": "References",
+      "subsection": "America. Feb 15 2016;62(4):e1-50. doi:10.1093/cid/civ933",
+      "hierarchy_path": "References > America. Feb 15 2016;62(4):e1-50. doi:10.1093/cid/civ933",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Quest. SureSwab® Advanced Bacterial Vaginosis (BV), TMA. https://testdirectory.questdiagnostics.com/test/test- detail/10016/sureswab-advanced-bacterial-vaginosis-bv-tma?q=sureswab&cc=MASTER Quest. SureSwab® Advanced Vaginitis Plus, TMA. https://testdirectory.questdiagnostics.com/test/test-detail/10120/sureswab- advanced-vaginitis-plus-tma?q=sureswab&cc=MASTER Quest. SureSwab® Advanced Vaginitis, TMA. https://testdirectory.questdiagnostics.com/test/test-detail/10119/sureswab- advanced-vaginitis-tma?p=r&q=sureswab&cc=MASTER Richter SS, Otiso J, Goje OJ, et al. Prospective Evaluation of Molecular Assays for Diagnosis of Vaginitis. Journal of clinical microbiology. Dec 23 2019;58(1)doi:10.1128/jcm.01264-19 Schwebke JR, Gaydos CA, Nyirjesy P, Paradis S, Kodsi S, Cooper CK. Diagnostic Performance of a Molecular Test versus Clinician Assessment of Vaginitis. Journal of clinical microbiology. Jun 2018;56(6)doi:10.1128/jcm.00252-18 Schwebke JR, Taylor SN, Ackerman R, et al. Clinical Validation of the Aptima Bacterial Vaginosis and Aptima Candida/Trichomonas Vaginitis Assays: Results from a Prospective Multicenter Clinical Study. Journal of clinical microbiology. Jan 28 2020;58(2)doi:10.1128/jcm.01643-19 Sekisui Diagnostics. OSOM® BVBLUE® Test. https://sekisuidiagnostics.com/products-all/osom-bvblue-test/ Sherrard J. Evaluation of the BD MAX Vaginal Panel for the detection of vaginal infections in a sexual health service in the UK. Int J",
+      "codes": [
+        "10016",
+        "10120",
+        "10119",
+        "01264",
+        "00252",
+        "01643"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "STD AIDS. Mar 2019;30(4):411-414. doi:10.1177/0956462418815284",
+      "section": "References",
+      "subsection": "STD AIDS. Mar 2019;30(4):411-414. doi:10.1177/0956462418815284",
+      "hierarchy_path": "References > STD AIDS. Mar 2019;30(4):411-414. doi:10.1177/0956462418815284",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Sobel JD, Mitchell C. Bacterial vaginosis: Clinical manifestations and diagnoses. Updated January 8, 2026. https://www.uptodate.com/contents/bacterial-vaginosis-clinical-manifestations-and-diagnosis Sobel JD, Mitchell C. Candida vulvovaginitis: Clinical manifestations and diagnosis. Updated April 10, 2024. https://www.uptodate.com/contents/candida-vulvovaginitis-clinical-manifestations-and-diagnosis Sobel JD, Mitchell C. Trichomoniasis: Clinical manifestations and diagnosis. Updated January 12, 2026. https://www.uptodate.com/contents/trichomoniasis-clinical-manifestations-and-diagnosis Sobel JD, Subramanian C, Foxman B, Fairfax M, Gygax SE. Mixed vaginitis-more than coinfection and with therapeutic implications. Current infectious disease reports. Apr 2013;15(2):104-8. doi:10.1007/s11908-013-0325-5 Sobel JD. Epidemiology and pathogenesis of recurrent vulvovaginal candidiasis. American journal of obstetrics and gynecology. Aug 01 1985;152(7 Pt 2):924-35. doi:10.1016/s0002-9378(85)80003-x Sobel JD. Vaginitis in adults: Initial evaluation. Updated February 18, 2026. https://www.uptodate.com/contents/vaginitis-in-adults- and-adolescents-initial-evaluation Sobel JD. Vulvovaginitis in healthy women. Comprehensive therapy. Jun-Jul 1999;25(6-7):335-46. doi:10.1007/BF02944280 Spiegel CA. Bacterial vaginosis. Clinical microbiology reviews. Oct 1991;4(4):485-502. doi:10.1128/CMR.4.4.485 Sumeksri P, Koprasert C, Panichkul S. BVBLUE test for diagnosis of bacterial vaginosis in pregnant women attending antenatal care at Phramongkutklao Hospital. J Med Assoc Thai. Nov 2005;88 Suppl 3:S7-13 Tabrizi SN, Pirotta MV, Rudland E, Garland SM. Detection of Candida species by PCR in self-collected vaginal swabs of women after taking antibiotics. Mycoses. 2006;49(6):523-4. doi:10.1111/j.1439-0507.2006.01312.x",
+      "codes": [
+        "80003",
+        "01312"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "STD AIDS. Mar 2019;30(4):411-414. doi:10.1177/0956462418815284",
+      "section": "References",
+      "subsection": "STD AIDS. Mar 2019;30(4):411-414. doi:10.1177/0956462418815284",
+      "hierarchy_path": "References > STD AIDS. Mar 2019;30(4):411-414. doi:10.1177/0956462418815284",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "USPSTF. Bacterial Vaginosis in Pregnant Persons to Prevent Preterm Delivery: Screening. Updated April 7, 2020. https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/bacterial-vaginosis-in-pregnancy-to-prevent-preterm- delivery-screening van Schalkwyk J, Yudin MH. Vulvovaginitis: screening for and management of trichomoniasis, vulvovaginal candidiasis, and bacterial vaginosis. J Obstet Gynaecol Can. Mar 2015;37(3):266-274. doi:10.1016/s1701-2163(15)30316-9 Weissenbacher T, Witkin SS, Ledger WJ, et al. Relationship between clinical diagnosis of recurrent vulvovaginal candidiasis and detection of Candida species by culture and polymerase chain reaction. Archives of gynecology and obstetrics. Feb 2009;279(2):125-9. doi:10.1007/s00404-008-0681-9 Workowski KA, Bolan GA. Sexually transmitted diseases treatment guidelines, 2015. MMWR Recommendations and reports: Morbidity and mortality weekly report Recommendations and reports. 2015;64(Rr-03):1-137 Yudin MH, Money DM. No. 211-Screening and Management of Bacterial Vaginosis in Pregnancy. J Obstet Gynaecol Can. Aug 2017;39(8):e184-e191. doi:10.1016/j.jogc.2017.04.018",
+      "codes": [
+        "30316"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82120: 87480 | Procedure code:  | Amines, vaginal fluid, qualitative: Infectious agent detection by nucleic acid (DNA or RNA); candida species, direct probe technique | Code description: ",
+      "codes": [
+        "82120",
+        "87480"
+      ],
+      "table_data": {
+        "columns": [
+          "82120",
+          "Procedure code",
+          "Amines, vaginal fluid, qualitative",
+          "Code description"
+        ],
+        "row": {
+          "82120": "87480",
+          "Procedure code": "",
+          "Amines, vaginal fluid, qualitative": "Infectious agent detection by nucleic acid (DNA or RNA); candida species, direct probe technique",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82120: 87481 | Procedure code:  | Amines, vaginal fluid, qualitative: Infectious agent detection by nucleic acid (DNA or RNA); candida species, amplified probe technique | Code description: ",
+      "codes": [
+        "82120",
+        "87481"
+      ],
+      "table_data": {
+        "columns": [
+          "82120",
+          "Procedure code",
+          "Amines, vaginal fluid, qualitative",
+          "Code description"
+        ],
+        "row": {
+          "82120": "87481",
+          "Procedure code": "",
+          "Amines, vaginal fluid, qualitative": "Infectious agent detection by nucleic acid (DNA or RNA); candida species, amplified probe technique",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82120: 87482 | Procedure code:  | Amines, vaginal fluid, qualitative: Infectious agent detection by nucleic acid (DNA or RNA); candida species, quantification technique | Code description: ",
+      "codes": [
+        "82120",
+        "87482"
+      ],
+      "table_data": {
+        "columns": [
+          "82120",
+          "Procedure code",
+          "Amines, vaginal fluid, qualitative",
+          "Code description"
+        ],
+        "row": {
+          "82120": "87482",
+          "Procedure code": "",
+          "Amines, vaginal fluid, qualitative": "Infectious agent detection by nucleic acid (DNA or RNA); candida species, quantification technique",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82120: 87510 | Procedure code:  | Amines, vaginal fluid, qualitative: Infectious agent detection by nucleic acid (DNA or RNA); Gardnerella vaginalis, direct probe technique | Code description: ",
+      "codes": [
+        "82120",
+        "87510"
+      ],
+      "table_data": {
+        "columns": [
+          "82120",
+          "Procedure code",
+          "Amines, vaginal fluid, qualitative",
+          "Code description"
+        ],
+        "row": {
+          "82120": "87510",
+          "Procedure code": "",
+          "Amines, vaginal fluid, qualitative": "Infectious agent detection by nucleic acid (DNA or RNA); Gardnerella vaginalis, direct probe technique",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82120: 87511 | Procedure code:  | Amines, vaginal fluid, qualitative: Infectious agent detection by nucleic acid (DNA or RNA); Gardnerella vaginalis, amplified probe technique | Code description: ",
+      "codes": [
+        "82120",
+        "87511"
+      ],
+      "table_data": {
+        "columns": [
+          "82120",
+          "Procedure code",
+          "Amines, vaginal fluid, qualitative",
+          "Code description"
+        ],
+        "row": {
+          "82120": "87511",
+          "Procedure code": "",
+          "Amines, vaginal fluid, qualitative": "Infectious agent detection by nucleic acid (DNA or RNA); Gardnerella vaginalis, amplified probe technique",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82120: 87512 | Procedure code:  | Amines, vaginal fluid, qualitative: Infectious agent detection by nucleic acid (DNA or RNA); Gardnerella vaginalis, quantification | Code description: ",
+      "codes": [
+        "82120",
+        "87512"
+      ],
+      "table_data": {
+        "columns": [
+          "82120",
+          "Procedure code",
+          "Amines, vaginal fluid, qualitative",
+          "Code description"
+        ],
+        "row": {
+          "82120": "87512",
+          "Procedure code": "",
+          "Amines, vaginal fluid, qualitative": "Infectious agent detection by nucleic acid (DNA or RNA); Gardnerella vaginalis, quantification",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82120: 87660 | Procedure code:  | Amines, vaginal fluid, qualitative: Infectious agent detection by nucleic acid (DNA or RNA); Trichomonas vaginalis, direct probe technique | Code description: ",
+      "codes": [
+        "82120",
+        "87660"
+      ],
+      "table_data": {
+        "columns": [
+          "82120",
+          "Procedure code",
+          "Amines, vaginal fluid, qualitative",
+          "Code description"
+        ],
+        "row": {
+          "82120": "87660",
+          "Procedure code": "",
+          "Amines, vaginal fluid, qualitative": "Infectious agent detection by nucleic acid (DNA or RNA); Trichomonas vaginalis, direct probe technique",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82120: 87661 | Procedure code:  | Amines, vaginal fluid, qualitative: Infectious agent detection by nucleic acid (DNA or RNA); Trichomonas vaginalis, amplified probe\ntechnique | Code description: ",
+      "codes": [
+        "82120",
+        "87661"
+      ],
+      "table_data": {
+        "columns": [
+          "82120",
+          "Procedure code",
+          "Amines, vaginal fluid, qualitative",
+          "Code description"
+        ],
+        "row": {
+          "82120": "87661",
+          "Procedure code": "",
+          "Amines, vaginal fluid, qualitative": "Infectious agent detection by nucleic acid (DNA or RNA); Trichomonas vaginalis, amplified probe\ntechnique",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82120: 87808 | Procedure code:  | Amines, vaginal fluid, qualitative: Infectious agent antigen detection by immunoassay with direct optical observation; Trichomonas\nvaginalis | Code description: ",
+      "codes": [
+        "82120",
+        "87808"
+      ],
+      "table_data": {
+        "columns": [
+          "82120",
+          "Procedure code",
+          "Amines, vaginal fluid, qualitative",
+          "Code description"
+        ],
+        "row": {
+          "82120": "87808",
+          "Procedure code": "",
+          "Amines, vaginal fluid, qualitative": "Infectious agent antigen detection by immunoassay with direct optical observation; Trichomonas\nvaginalis",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82120: 0330U | Procedure code:  | Amines, vaginal fluid, qualitative: Infectious agent detection by nucleic acid (DNA or RNA), vaginal pathogen panel, identification of 27\norganisms, amplified probe technique, vaginal swab\nProprietaryTest: Bridge Women's Health Infectious Disease Detection Test\nLab/Manufacturer: Bridge Diagnostics, ThermoFisher and Hologic Test Kit on Panther Instrument | Code description: ",
+      "codes": [
+        "82120",
+        "0330U"
+      ],
+      "table_data": {
+        "columns": [
+          "82120",
+          "Procedure code",
+          "Amines, vaginal fluid, qualitative",
+          "Code description"
+        ],
+        "row": {
+          "82120": "0330U",
+          "Procedure code": "",
+          "Amines, vaginal fluid, qualitative": "Infectious agent detection by nucleic acid (DNA or RNA), vaginal pathogen panel, identification of 27\norganisms, amplified probe technique, vaginal swab\nProprietaryTest: Bridge Women's Health Infectious Disease Detection Test\nLab/Manufacturer: Bridge Diagnostics, ThermoFisher and Hologic Test Kit on Panther Instrument",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82120: 0505U | Procedure code:  | Amines, vaginal fluid, qualitative: Infectious disease (vaginal infection), identification of 32 pathogenic organisms, swab, real-time PCR,\nreported as positive or negative for each organism\nProprietary Test: Vaginal Infection Testing\nLab/Manufacturer: NxGen MDx LLC | Code description: ",
+      "codes": [
+        "82120",
+        "0505U"
+      ],
+      "table_data": {
+        "columns": [
+          "82120",
+          "Procedure code",
+          "Amines, vaginal fluid, qualitative",
+          "Code description"
+        ],
+        "row": {
+          "82120": "0505U",
+          "Procedure code": "",
+          "Amines, vaginal fluid, qualitative": "Infectious disease (vaginal infection), identification of 32 pathogenic organisms, swab, real-time PCR,\nreported as positive or negative for each organism\nProprietary Test: Vaginal Infection Testing\nLab/Manufacturer: NxGen MDx LLC",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82120: 0557U | Procedure code:  | Amines, vaginal fluid, qualitative: Infectious disease (bacterial vaginosis and vaginitis), real-time amplification of DNA markers for\nAtopobium vaginae, Gardnerella vaginalis, Megasphaera types 1 and 2, bacterial vaginosis associated\nbacteria-2 and -3 (BVAB-2, BVAB-3), Mobiluncus species, Trichomonas vaginalis, Neisseria gonorrhoeae,\nCandida species (C. albicans, C. tropicalis, C. parapsilosis, C. glabrata, C. krusei), Herpes simplex viruses 1\nand 2, vaginal fluid, reported as detected or not detected for each organism\nProprietary Test: HealthTrackRx Vaginitis\nLab/Manufacturer: Health TrackRX, Thermo Fisher Scientific | Code description: ",
+      "codes": [
+        "82120",
+        "0557U"
+      ],
+      "table_data": {
+        "columns": [
+          "82120",
+          "Procedure code",
+          "Amines, vaginal fluid, qualitative",
+          "Code description"
+        ],
+        "row": {
+          "82120": "0557U",
+          "Procedure code": "",
+          "Amines, vaginal fluid, qualitative": "Infectious disease (bacterial vaginosis and vaginitis), real-time amplification of DNA markers for\nAtopobium vaginae, Gardnerella vaginalis, Megasphaera types 1 and 2, bacterial vaginosis associated\nbacteria-2 and -3 (BVAB-2, BVAB-3), Mobiluncus species, Trichomonas vaginalis, Neisseria gonorrhoeae,\nCandida species (C. albicans, C. tropicalis, C. parapsilosis, C. glabrata, C. krusei), Herpes simplex viruses 1\nand 2, vaginal fluid, reported as detected or not detected for each organism\nProprietary Test: HealthTrackRx Vaginitis\nLab/Manufacturer: Health TrackRX, Thermo Fisher Scientific",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nThe tests listed below ARE REIMBURSABLE for any of the following conditions:\n\nNucleic acid amplification (NAAT) or polymerase chain reaction (PCR)-based identification of Gardnerella vaginalis (CPT code 87511, CPT code 87512)\n\nNAAT or PCR-based identification (CPT code 87661) of Trichomonas vaginalis\n\nPCR based identification of Candida (CPT code 87481, CPT code 87482)\n\nScreening for Trichomonas (CPT code 87661) IS REIMBURSABLE for any of the following risk factors:\n\nFor all other situations not discussed above^, the following tests (CPT code 82120, CPT code 87481, CPT code 87511, CPT code 87512, CPT code 87661) ARE NOT REIMBURSABLE.\n\nDirect probe deoxyribonucleic acid (DNA)-based identification of Candida (CPT code 87480), Gardnerella (CPT code 87510) and Trichomonas (CPT code 87660) IS NOT REIMBURSABLE.\n\nRapid identification of Trichomonas by enzyme immunoassay (CPT code 87808) IS NOT REIMBURSABLE.\n\nBroad molecular panels designed to concurrently test for vaginitis and various other STIs (CPT code 0330U, CPT code 0505U, CPT code 0557U) IS NOT REIMBURSABLE. ^For additional allowed situations in which CPT code 87481 will approve, please see Laboratory - Onychomycosis Testing\n\n82120\n\n87480 Infectious agent detection by nucleic acid (DNA or RNA); candida species, direct probe technique 87481 Infectious agent detection by nucleic acid (DNA or RNA); candida species, amplified probe technique 87482 Infectious agent detection by nucleic acid (DNA or RNA); candida species, quantification technique 87510 Infectious agent detection by nucleic acid (DNA or RNA); Gardnerella vaginalis, direct probe technique 87511 Infectious agent detection by nucleic acid (DNA or RNA); Gardnerella vaginalis, amplified probe technique 87512 Infectious agent detection by nucleic acid (DNA or RNA); Gardnerella vaginalis, quantification 87660 Infectious agent detection by nucleic acid (DNA or RNA); Trichomonas vaginalis, direct probe technique 87661 Infectious agent detection by nucleic acid (DNA or RNA); Trichomonas vaginalis, amplified probe technique 87808 Infectious agent antigen detection by immunoassay with direct optical observation; Trichomonas vaginalis 0330U Infectious agent detection by nucleic acid (DNA or RNA), vaginal pathogen panel, identification of 27 organisms, amplified probe technique, vaginal swab ProprietaryTest: Bridge Women's Health Infectious Disease Detection Test Lab/Manufacturer: Bridge Diagnostics, ThermoFisher and Hologic Test Kit on Panther Instrument 0505U Infectious disease (vaginal infection), identification of 32 pathogenic organisms, swab, real-time PCR, reported as positive or negative for each organism\n\n0557U Infectious disease (bacterial vaginosis and vaginitis), real-time amplification of DNA markers for Atopobium vaginae, Gardnerella vaginalis, Megasphaera types 1 and 2, bacterial vaginosis associated bacteria-2 and -3 (BVAB-2, BVAB-3), Mobiluncus species, Trichomonas vaginalis, Neisseria gonorrhoeae, Candida species (C. albicans, C. tropicalis, C. parapsilosis, C. glabrata, C. krusei), Herpes simplex viruses 1 and 2, vaginal fluid, reported as detected or not detected for each organism"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

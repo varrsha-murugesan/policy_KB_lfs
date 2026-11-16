@@ -1,0 +1,1438 @@
+{
+  "policy_title": "Billing and Cost Sharing for Dual Eligible Members",
+  "policy_number": "DH-PP-DUAL-2025",
+  "effective_date": "3/31/26",
+  "version": "1.0",
+  "source_pdf": "Billing_and_Cost_Sharing_for_Dual_Eligible_Members.pdf",
+  "source_url": "https://assets.devoted.com/Providers/Billing_Cost-Sharing_Dual_Eligible_Members_Final-NOV-2025",
+  "line_of_business": "Medicare Advantage",
+  "billing_class": "Both",
+  "page_count": 4,
+  "revision_history": [
+    {
+      "date": "3/31/26",
+      "revision_num": "2",
+      "reason_for_change": "Removed contracted providers",
+      "approved_by": "Payment Policy Management"
+    },
+    {
+      "date": "11/14/25",
+      "revision_num": "1",
+      "reason_for_change": "Policy published.",
+      "approved_by": "Payment Policy Management"
+    }
+  ],
+  "table_count": 1,
+  "codes_found": {
+    "cpt_hcpcs": [],
+    "modifiers": [
+      "25"
+    ],
+    "revenue_codes": [],
+    "bill_types": [],
+    "icd_codes": []
+  },
+  "CPT_CODES_USED": [],
+  "sections_summary": [
+    "OVERVIEW",
+    "PAYMENT POLICY",
+    "SCOPE",
+    "ACRONYMS AND DEFINITIONS",
+    "POLICY",
+    "RELATED POLICIES",
+    "REGULATORY REFERENCES",
+    "DISCLAIMER",
+    "REVIEW",
+    "POLICY APPROVAL AND HISTORY"
+  ],
+  "tables": [
+    {
+      "table_id": "tab_p4_1",
+      "title": "Table (Page 4)",
+      "page_number": 4,
+      "bbox": [
+        72.33333333333333,
+        469.7586242675781,
+        540.3333333333334,
+        545.5001220703125
+      ],
+      "columns": [
+        "Date",
+        "Revision #",
+        "Reason for Change",
+        "Approved By"
+      ],
+      "row_count": 2,
+      "col_count": 4,
+      "rows": [
+        {
+          "Date": "3/31/26",
+          "Revision #": "2",
+          "Reason for Change": "Removed contracted providers",
+          "Approved By": "Payment Policy Management"
+        },
+        {
+          "Date": "11/14/25",
+          "Revision #": "1",
+          "Reason for Change": "Policy published.",
+          "Approved By": "Payment Policy Management"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Date",
+          "Revision #",
+          "Reason for Change",
+          "Approved By"
+        ],
+        [
+          "3/31/26",
+          "2",
+          "Removed contracted providers",
+          "Payment Policy Management"
+        ],
+        [
+          "11/14/25",
+          "1",
+          "Policy published.",
+          "Payment Policy Management"
+        ]
+      ],
+      "markdown": "| Date | Revision # | Reason for Change | Approved By |\n| --- | --- | --- | --- |\n| 3/31/26 | 2 | Removed contracted providers | Payment Policy Management |\n| 11/14/25 | 1 | Policy published. | Payment Policy Management |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [
+          "25"
+        ],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    }
+  ],
+  "extracted_content": [
+    {
+      "id": "item_0001",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Billing and Cost-Sharing",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0002",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "for Dual Eligible",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0003",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Members",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0004",
+      "title": "PAYMENT POLICY",
+      "section": "PAYMENT POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "PAYMENT POLICY"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "header",
+      "content": "PAYMENT POLICY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0005",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "OVERVIEW",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0006",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Federal law prohibits all Original Medicare and Medicare Advantage providers and suppliers",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0007",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "from billing Qualified Medicare Beneficiaries (QMBs) for Medicare Part A and Part B",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0008",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "cost-sharing (including deductibles, coinsurance, and copayments) (Sections 1902(n)(3)(B)1,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0009",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "1902(n)(3)(C)2, 1905(p)(3)3, 1866(a)(1)(A)4, and 1848(g)(3)(A)5 of the Social Security Act).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0010",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Additionally, Devoted Health's Provider Manual and Provider Agreements prohibit providers",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0011",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "from billing dual-eligible members for Medicare cost share when Medicaid is liable.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0012",
+      "title": "SCOPE",
+      "section": "SCOPE",
+      "subsection": null,
+      "hierarchy_path": [
+        "SCOPE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "SCOPE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0013",
+      "title": "SCOPE",
+      "section": "SCOPE",
+      "subsection": null,
+      "hierarchy_path": [
+        "SCOPE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy applies to all providers, facilities, and suppliers that furnish Medicare Part A or Part",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0014",
+      "title": "SCOPE",
+      "section": "SCOPE",
+      "subsection": null,
+      "hierarchy_path": [
+        "SCOPE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "B services to dual-eligible members (those with both Medicare and Medicaid coverage),",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0015",
+      "title": "SCOPE",
+      "section": "SCOPE",
+      "subsection": null,
+      "hierarchy_path": [
+        "SCOPE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "including D-SNP enrollees.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0016",
+      "title": "SCOPE",
+      "section": "SCOPE",
+      "subsection": null,
+      "hierarchy_path": [
+        "SCOPE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Applies in Alabama, Florida, and Texas-where Devoted Health covers Medicare cost share on",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0017",
+      "title": "SCOPE",
+      "section": "SCOPE",
+      "subsection": null,
+      "hierarchy_path": [
+        "SCOPE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "behalf of Medicaid-and in all other states where federal dual-eligible protections apply.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0018",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "ACRONYMS AND DEFINITIONS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0019",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Cost Share / Cost Sharing: Any deductible, coinsurance, or copayment amount under",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0020",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Medicare Part A or Part B.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0021",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "definition",
+      "content": "Cost-Share Protected Member: Any Devoted Health member identified as QMB, QMB+,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0022",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "SLMB+, or FBDE, for whom federal law prohibits balance billing for cost sharing.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0023",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Dual Eligible Special Needs Plan (D-SNP): A Medicare Advantage plan designed for members",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0024",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "eligible for both Medicare and Medicaid benefits.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0025",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "definition",
+      "content": "Payment in Full: The total payment amount made by Devoted Health (and, if applicable, by",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0026",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Medicaid) that satisfies provider reimbursement obligations under the terms of participation",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0027",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "and federal law.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0028",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "POLICY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0029",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Cost share protections for dual-eligible members",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0030",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Devoted Health members who have limited income and resources may receive help paying",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0031",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "out-of-pocket medical expenses from Medicaid. If a member is identified as having additional",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0032",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "or secondary insurance coverage through Medicaid (Full Dual (FBDE, SLMB+, QMB+) or QMB),",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0033",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "the provider should obtain a copy of the member's Medicaid card to bill Medicaid after",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0034",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "receiving the Remittance Advice from Devoted Health. No cost shares (copayments,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0035",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "coinsurance, or deductibles) should be collected or billed at the time of the visit from a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0036",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "member with Medicaid coverage.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0037",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Providers can check members' Medicaid levels via our eligibility check function in Availity.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0038",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Additionally, Devoted Health uses remittance advice remark codes (RARCs) to indicate when a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0039",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "member receives cost share assistance (e.g., \"Alert: Patient is a Medicaid/Qualified Medicare",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0040",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Beneficiary. Review your records for any wrongfully collected deductible. This amount may be",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0041",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "billed to a subsequent payer.\"). When receiving an electronic remittance advice (ERA) that",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0042",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "includes such a RARC, providers must follow these instructions and ensure members are not",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0043",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "inappropriately billed.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0044",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "With respect to any members who are eligible for both Medicare and Medicaid, such members",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0045",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "must not be held liable for Medicare Part A and Medicare Part B cost sharing when the State is",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0046",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "responsible for paying such amounts. Further, with respect to such members, providers must",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0047",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "either (a) accept the payment amount from Devoted Health as payment in full, or (b) bill the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0048",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "appropriate State source. The payment by Devoted Health and the payment, if any, by the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0049",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "applicable state Medicaid payer shall constitute payment in full for all Medicare services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0050",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "rendered to such dual eligible members.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0051",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Providers should have a timely process to refund members any difference between the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0052",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "copayment collected and the allowable amount for the office visit (when the allowable",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0053",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "amount is less than the copay) after the claim is processed by Devoted Health. For assistance",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0054",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "with these questions, please contact Devoted Health Provider Services.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0055",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Devoted Health covering cost share on behalf of Medicaid",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0056",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "In Alabama and Florida, for FBDE, SLMB+, QMB+, and QMB members enrolled in D-SNP plans,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0057",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "as well as for SLMB+, QMB+, and QMB members in Texas, Devoted Health covers the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0058",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "cost-sharing for Medicare services on behalf of Medicaid.6 Providers must accept the payment",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0059",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "amount from Devoted Health as payment in full for Medicare services covered under the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0060",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "member's Devoted Health plan, and must not seek additional payment from Medicaid or the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0061",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "member. For these members, providers should not submit duplicate claims to Medicaid for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0062",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Medicare cost share.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0063",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "_______________________",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0064",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "definition",
+      "content": "6Note: FBDE members are not covered under Devoted Health's agreement with Texas Medicaid for Medicare cost sharing. For FBDE members",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0065",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "in Texas, providers should bill the appropriate state source for any applicable member cost sharing.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0066",
+      "title": "RELATED POLICIES",
+      "section": "RELATED POLICIES",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "RELATED POLICIES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0067",
+      "title": "Devoted Health Provider Manual",
+      "section": "RELATED POLICIES",
+      "subsection": "Devoted Health Provider Manual",
+      "hierarchy_path": [
+        "RELATED POLICIES",
+        "Devoted Health Provider Manual"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "Devoted Health Provider Manual",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0068",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "REGULATORY REFERENCES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0069",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "1Social Security Act § 1902(n)(3)(B): Prohibition on Billing QMBs",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0070",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "2Social Security Act § 1902(n)(3)(C): State Liability for QMB Cost Sharing",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0071",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "3Social Security Act § 1905(p)(3): Definition of Qualified Medicare Beneficiary",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0072",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "4Social Security Act § 1866(a)(1)(A): Provider Agreement and Conditions of Participation",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0073",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "5Social Security Act § 1848(g)(3)(A): Limitation on Actual Charges",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0074",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "DISCLAIMER",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0075",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "This payment policy is informational only and is not a guarantee of reimbursement. Claim",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0076",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "payments are subject to benefit coverage, member eligibility, claims payment edit rules,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0077",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "coding and documentation guidelines, authorization policies, provider contractual",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0078",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "agreements, and state and federal regulations.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0079",
+      "title": "REVIEW",
+      "section": "REVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "REVIEW",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0080",
+      "title": "POLICY APPROVAL AND HISTORY",
+      "section": "POLICY APPROVAL AND HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY APPROVAL AND HISTORY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "POLICY APPROVAL AND HISTORY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0081",
+      "title": "Table (Page 4)",
+      "section": "POLICY APPROVAL AND HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY APPROVAL AND HISTORY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "table",
+      "content": "| Date | Revision # | Reason for Change | Approved By |\n| --- | --- | --- | --- |\n| 3/31/26 | 2 | Removed contracted providers | Payment Policy Management |\n| 11/14/25 | 1 | Policy published. | Payment Policy Management |",
+      "codes": [
+        "25"
+      ],
+      "table_data": {
+        "table_id": "tab_p4_1",
+        "title": "Table (Page 4)",
+        "columns": [
+          "Date",
+          "Revision #",
+          "Reason for Change",
+          "Approved By"
+        ],
+        "row_count": 2,
+        "rows": [
+          {
+            "Date": "3/31/26",
+            "Revision #": "2",
+            "Reason for Change": "Removed contracted providers",
+            "Approved By": "Payment Policy Management"
+          },
+          {
+            "Date": "11/14/25",
+            "Revision #": "1",
+            "Reason for Change": "Policy published.",
+            "Approved By": "Payment Policy Management"
+          }
+        ]
+      }
+    }
+  ]
+}

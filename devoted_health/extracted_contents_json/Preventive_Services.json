@@ -1,0 +1,1733 @@
+{
+  "policy_title": "Preventive Services",
+  "policy_number": "EP-PREVENTIVE",
+  "effective_date": "11/26/25",
+  "version": "1.0",
+  "source_pdf": "Preventive_Services.pdf",
+  "source_url": "https://assets.devoted.com/Providers/EP_Preventive_Services",
+  "line_of_business": "Medicare Advantage",
+  "billing_class": "Both",
+  "page_count": 4,
+  "revision_history": [
+    {
+      "date": "11/26/25",
+      "revision_num": "1.3",
+      "reason_for_change": "Annual review, no content changes.",
+      "approved_by": "Payment Policy\nManagement"
+    },
+    {
+      "date": "10/30/24",
+      "revision_num": "1.2",
+      "reason_for_change": "Content review, updated Devoted to \"Devoted\nHealth\"",
+      "approved_by": "Payment Policy\nManagement"
+    },
+    {
+      "date": "2/26/24",
+      "revision_num": "1.1",
+      "reason_for_change": "Updated modifier for E&M services from 59 to 25.",
+      "approved_by": "Payment Policy\nManagement"
+    },
+    {
+      "date": "4/1/23",
+      "revision_num": "1",
+      "reason_for_change": "Policy efefctive.",
+      "approved_by": "Payment Policy\nManagement"
+    }
+  ],
+  "table_count": 1,
+  "codes_found": {
+    "cpt_hcpcs": [
+      "99385",
+      "99386",
+      "99387",
+      "99395",
+      "99396",
+      "99397",
+      "G0463"
+    ],
+    "modifiers": [
+      "25",
+      "59"
+    ],
+    "revenue_codes": [],
+    "bill_types": [],
+    "icd_codes": [
+      "X12"
+    ]
+  },
+  "CPT_CODES_USED": [
+    "99385",
+    "99386",
+    "99387",
+    "99395",
+    "99396",
+    "99397",
+    "G0463"
+  ],
+  "sections_summary": [
+    "OVERVIEW",
+    "PAYMENT POLICY",
+    "SCOPE",
+    "WHAT WE COVER",
+    "HOW TO BILL YOUR CLAIMS",
+    "RELATED POLICIES",
+    "N/A",
+    "REGULATORY REFERENCES",
+    "DISCLAIMER",
+    "REVIEW",
+    "POLICY APPROVAL AND HISTORY"
+  ],
+  "tables": [
+    {
+      "table_id": "tab_p4_1",
+      "title": "Table (Page 4)",
+      "page_number": 4,
+      "bbox": [
+        54.333333333333336,
+        503.2269592285156,
+        545.4166666666666,
+        689.5
+      ],
+      "columns": [
+        "Date",
+        "Revision #",
+        "Reason for Change",
+        "Approved By"
+      ],
+      "row_count": 4,
+      "col_count": 4,
+      "rows": [
+        {
+          "Date": "11/26/25",
+          "Revision #": "1.3",
+          "Reason for Change": "Annual review, no content changes.",
+          "Approved By": "Payment Policy\nManagement"
+        },
+        {
+          "Date": "10/30/24",
+          "Revision #": "1.2",
+          "Reason for Change": "Content review, updated Devoted to \"Devoted\nHealth\"",
+          "Approved By": "Payment Policy\nManagement"
+        },
+        {
+          "Date": "2/26/24",
+          "Revision #": "1.1",
+          "Reason for Change": "Updated modifier for E&M services from 59 to 25.",
+          "Approved By": "Payment Policy\nManagement"
+        },
+        {
+          "Date": "4/1/23",
+          "Revision #": "1",
+          "Reason for Change": "Policy efefctive.",
+          "Approved By": "Payment Policy\nManagement"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Date",
+          "Revision #",
+          "Reason for Change",
+          "Approved By"
+        ],
+        [
+          "11/26/25",
+          "1.3",
+          "Annual review, no content changes.",
+          "Payment Policy\nManagement"
+        ],
+        [
+          "10/30/24",
+          "1.2",
+          "Content review, updated Devoted to \"Devoted\nHealth\"",
+          "Payment Policy\nManagement"
+        ],
+        [
+          "2/26/24",
+          "1.1",
+          "Updated modifier for E&M services from 59 to 25.",
+          "Payment Policy\nManagement"
+        ],
+        [
+          "4/1/23",
+          "1",
+          "Policy efefctive.",
+          "Payment Policy\nManagement"
+        ]
+      ],
+      "markdown": "| Date | Revision # | Reason for Change | Approved By |\n| --- | --- | --- | --- |\n| 11/26/25 | 1.3 | Annual review, no content changes. | Payment Policy\nManagement |\n| 10/30/24 | 1.2 | Content review, updated Devoted to \"Devoted\nHealth\" | Payment Policy\nManagement |\n| 2/26/24 | 1.1 | Updated modifier for E&M services from 59 to 25. | Payment Policy\nManagement |\n| 4/1/23 | 1 | Policy efefctive. | Payment Policy\nManagement |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [
+          "25",
+          "59"
+        ],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    }
+  ],
+  "extracted_content": [
+    {
+      "id": "item_0001",
+      "title": "Preventive",
+      "section": "OVERVIEW",
+      "subsection": "Preventive",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "Preventive"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "header",
+      "content": "Preventive",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0002",
+      "title": "Services",
+      "section": "OVERVIEW",
+      "subsection": "Services",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "Services"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "header",
+      "content": "Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0003",
+      "title": "PAYMENT POLICY",
+      "section": "PAYMENT POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "PAYMENT POLICY"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "header",
+      "content": "PAYMENT POLICY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0004",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "OVERVIEW",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0005",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "In accordance with the Affordable Care Act (ACA), the U.S. Preventive Services Task Force",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0006",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "(USPSTF) has identified several services as preventive medicine that must be covered by health",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0007",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "plans at no cost to the member.1,2 This policy outlines our coverage and billing requirements for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0008",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "preventive benefits under this mandate.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0009",
+      "title": "SCOPE",
+      "section": "SCOPE",
+      "subsection": null,
+      "hierarchy_path": [
+        "SCOPE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "SCOPE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0010",
+      "title": "SCOPE",
+      "section": "SCOPE",
+      "subsection": null,
+      "hierarchy_path": [
+        "SCOPE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy applies to all Devoted Health plans.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0011",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "WHAT WE COVER",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0012",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "We cover all services that Medicare considers preventive, in addition to supplemental services that",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0013",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "aren't covered by Medicare. In accordance with CMS guidelines, all preventive services are covered",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0014",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "at no cost to our members.1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0015",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Medicare-covered services include:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0016",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Initial Preventive Physical Examination (IPPE)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0017",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Annual Wellness Visit (AWV)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0018",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Diabetes Self Management Training (DSMT)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0019",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● High Intensity Behavioral Counseling to Prevent Sexually Transmitted Infections (HIBC)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0020",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Intense Behavioral Therapy for Cardiovascular Disease (IBT-CD)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0021",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Intense Behavioral Therapy for Obesity (IBT-O)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0022",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Medical Nutrition Services (MNT)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0023",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Tobacco Use Cessation Counseling",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0024",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Vaccinations",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0025",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Preventive Screenings, which include:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0026",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Alcohol Misuse Screening and Counseling",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0027",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Cardiovascular Disease Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0028",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Cervical Cancer Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0029",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Colorectal Cancer Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0030",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Depression Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0031",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Diabetes Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0032",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Glaucoma Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0033",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Hepatitis B and C Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0034",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ HIV Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0035",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Lung Cancer Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0036",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Mammography Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0037",
+      "title": "WHAT WE COVER",
+      "section": "WHAT WE COVER",
+      "subsection": null,
+      "hierarchy_path": [
+        "WHAT WE COVER"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Screening Pelvic Exam",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0038",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "2 | Preventive Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0039",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "■ Pap Tests Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0040",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "■ Prostate Cancer Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0041",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "■ Sexually Transmitted Infection Screenings",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0042",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Supplemental Preventive Services are covered once per year and include:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0043",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Comprehensive Physical Exam",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0044",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Routine dental exam",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0045",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Routine hearing exam",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0046",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Routine vision exam",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0047",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Some benefits are subject to frequency limitations and members must meet medical necessity",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0048",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "requirements to be eligible for some screenings. We apply CMS coverage criteria and benefit limits",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0049",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "to these services, except where noted in this policy.3",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0050",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "AWVs, comprehensive physical exams, routine vision and hearing, and the other preventive",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0051",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "services identified in this policy are considered separately covered when provided on the same",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0052",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "date of service.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0053",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Benefit limitations are applied based on the calendar year (1/1 - 12/31) and not a rolling year based",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0054",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "on the date of service. Additional visits may be covered within the same benefit year when",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0055",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "provided by a different PCP group.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0056",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Evaluation and Management (E&M) services are typically not separately covered in conjunction with",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0057",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "AWVs or comprehensive physical exams, however, we may cover medically necessary E&M services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0058",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "for a completely distinct and significant issue or an abnormality that is identified during the visit",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0059",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "that requires additional work and is not considered incident-to or a component of the preventive",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0060",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "exam.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0061",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Members will be responsible for the cost share listed in the EOC under \"Physicians' Services\"",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0062",
+      "title": "2 | Preventive Services",
+      "section": "WHAT WE COVER",
+      "subsection": "2 | Preventive Services",
+      "hierarchy_path": [
+        "WHAT WE COVER",
+        "2 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "for distinct E&M services provided on the same date as preventive services.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0063",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "HOW TO BILL YOUR CLAIMS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0064",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Your claims may be submitted on a professional (CMS-1500) or institutional (UB-04) claim form or",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0065",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "their X12 837 electronic equivalent and must be coded according to the Medicare Preventive",
+      "codes": [
+        "X12"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0066",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Services requirements.4",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0067",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Bill your comprehensive physical exams on a professional claim using CPT® code range 99385-99387",
+      "codes": [
+        "99385",
+        "99386",
+        "99387"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0068",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "for new patients and CPT® code range 99395-99397 for established patients. If you see our member in",
+      "codes": [
+        "99395",
+        "99396",
+        "99397"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0069",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "a hospital provider-based clinic, bill the facility charges with revenue code 051X or 052X using G0463.",
+      "codes": [
+        "G0463"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0070",
+      "title": "3 | Preventive Services",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "3 | Preventive Services",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "3 | Preventive Services"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "3 | Preventive Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0071",
+      "title": "3 | Preventive Services",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "3 | Preventive Services",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "3 | Preventive Services"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "AWVs and comprehensive physical exams may be billed on the same claim when provided on the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0072",
+      "title": "3 | Preventive Services",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "3 | Preventive Services",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "3 | Preventive Services"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "same date of service, in addition to other preventive services that are considered separately",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0073",
+      "title": "3 | Preventive Services",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "3 | Preventive Services",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "3 | Preventive Services"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "payable under the Medicare Physician Fee Schedule. If E&M services are billed on the same claim,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0074",
+      "title": "3 | Preventive Services",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "3 | Preventive Services",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "3 | Preventive Services"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "you must include modifier 25 on the line with the E&M code.",
+      "codes": [
+        "25"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0075",
+      "title": "3 | Preventive Services",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "3 | Preventive Services",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "3 | Preventive Services"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "We reimburse claims according to Medicare Physician Services or OPPS payment rules, depending on",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0076",
+      "title": "3 | Preventive Services",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "3 | Preventive Services",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "3 | Preventive Services"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "the provider type and/or site of service. Please see your contract for specific details.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0077",
+      "title": "RELATED POLICIES",
+      "section": "RELATED POLICIES",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "RELATED POLICIES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0078",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0079",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "REGULATORY REFERENCES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0080",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "definition",
+      "content": "145 CFR 147.130: Coverage of preventive health services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0081",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "2USPSTF A and B recommendations",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0082",
+      "title": "3,4Medicare Preventive Services Chart",
+      "section": "REGULATORY REFERENCES",
+      "subsection": "3,4Medicare Preventive Services Chart",
+      "hierarchy_path": [
+        "REGULATORY REFERENCES",
+        "3,4Medicare Preventive Services Chart"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "3,4Medicare Preventive Services Chart",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0083",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "DISCLAIMER",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0084",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "This payment policy is informational only and is not a guarantee of reimbursement. Claim payments",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0085",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "are subject to benefit coverage, member eligibility, claims payment edit rules, coding and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0086",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "documentation guidelines, authorization policies, provider contractual agreements, and state and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0087",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "federal regulations.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0088",
+      "title": "REVIEW",
+      "section": "REVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "REVIEW",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0089",
+      "title": "POLICY APPROVAL AND HISTORY",
+      "section": "POLICY APPROVAL AND HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY APPROVAL AND HISTORY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "POLICY APPROVAL AND HISTORY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0090",
+      "title": "Table (Page 4)",
+      "section": "POLICY APPROVAL AND HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY APPROVAL AND HISTORY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "table",
+      "content": "| Date | Revision # | Reason for Change | Approved By |\n| --- | --- | --- | --- |\n| 11/26/25 | 1.3 | Annual review, no content changes. | Payment Policy\nManagement |\n| 10/30/24 | 1.2 | Content review, updated Devoted to \"Devoted\nHealth\" | Payment Policy\nManagement |\n| 2/26/24 | 1.1 | Updated modifier for E&M services from 59 to 25. | Payment Policy\nManagement |\n| 4/1/23 | 1 | Policy efefctive. | Payment Policy\nManagement |",
+      "codes": [
+        "25",
+        "59"
+      ],
+      "table_data": {
+        "table_id": "tab_p4_1",
+        "title": "Table (Page 4)",
+        "columns": [
+          "Date",
+          "Revision #",
+          "Reason for Change",
+          "Approved By"
+        ],
+        "row_count": 4,
+        "rows": [
+          {
+            "Date": "11/26/25",
+            "Revision #": "1.3",
+            "Reason for Change": "Annual review, no content changes.",
+            "Approved By": "Payment Policy\nManagement"
+          },
+          {
+            "Date": "10/30/24",
+            "Revision #": "1.2",
+            "Reason for Change": "Content review, updated Devoted to \"Devoted\nHealth\"",
+            "Approved By": "Payment Policy\nManagement"
+          },
+          {
+            "Date": "2/26/24",
+            "Revision #": "1.1",
+            "Reason for Change": "Updated modifier for E&M services from 59 to 25.",
+            "Approved By": "Payment Policy\nManagement"
+          },
+          {
+            "Date": "4/1/23",
+            "Revision #": "1",
+            "Reason for Change": "Policy efefctive.",
+            "Approved By": "Payment Policy\nManagement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0091",
+      "title": "POLICY APPROVAL AND HISTORY",
+      "section": "POLICY APPROVAL AND HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY APPROVAL AND HISTORY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Policy effective.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0092",
+      "title": "4 | Preventive Services",
+      "section": "POLICY APPROVAL AND HISTORY",
+      "subsection": "4 | Preventive Services",
+      "hierarchy_path": [
+        "POLICY APPROVAL AND HISTORY",
+        "4 | Preventive Services"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "4 | Preventive Services",
+      "codes": [],
+      "table_data": null
+    }
+  ]
+}

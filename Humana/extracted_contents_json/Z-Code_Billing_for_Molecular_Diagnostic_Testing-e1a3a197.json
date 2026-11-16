@@ -1,0 +1,201 @@
+{
+  "policy_title": "Z-Code® Billing for Molecular Diagnostic Testing",
+  "policy_number": "CP2024005",
+  "effective_date": "05/2024",
+  "published_date": "05/2024",
+  "revision_date": null,
+  "source_pdf": "Z-Code_Billing_for_Molecular_Diagnostic_Testing-e1a3a197.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 2,
+  "table_count": 0,
+  "block_count": 10,
+  "CPT_CODES_USED": [],
+  "MODIFIERS_USED": [],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "97810",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 29.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "97811",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 29.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Overview",
+      "section": "Overview",
+      "subsection": null,
+      "hierarchy_path": "Overview",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "The Molecular Diagnostic Services (MolDX) program maintains a coding system of Diagnostics Exchange (DEX®) Z-Codes® that identifies a specific molecular diagnostic test. This policy establishes Humana's requirements for Z-Code billing for molecular diagnostic testing.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana requires a provider to report a molecular diagnostic test with a unique DEX Z-Code, as assigned by MolDX, and the applicable Current Procedural Terminology (CPT®) or Healthcare Common Procedure Coding System (HCPCS) Level II code. Humana denies a molecular diagnostic test CPT or HCPCS code when it is not reported with the applicable DEX Z-Code. Providers should contact the MolDX program to register molecular diagnostic tests.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Palmetto GBA website. MolDX® Program (Administered by Palmetto GBA). palmettogba.com.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Palmetto GBA website. Welcome to DEX® Diagnostics Exchange Registry. app.dexzcodes.com.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Availity - Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Claims processing edit notifications - Alerts of upcoming claims payment changes are posted on the first Friday of each month.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Claims resources - Providers can find information on referrals, authorizations, electronic claim submissions and more.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Education and news - This page can help you find clinical guidelines, educational tools, Medicare and Medicaid resources, our provider magazine and other resources to help you do business with us.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Making it easier - This page contains an educational series for providers and healthcare professionals.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Medical and pharmacy coverage policies - Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. Note: Links to sources outside of Humana's control are verified at the time of publication. Please report broken links.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana requires a provider to report a molecular diagnostic test with a unique DEX Z-Code, as assigned by MolDX, and the applicable Current Procedural Terminology (CPT®) or Healthcare Common Procedure Coding System (HCPCS) Level II code. Humana denies a molecular diagnostic test CPT or HCPCS code when it is not reported with the applicable DEX Z-Code. Providers should contact the MolDX program to register molecular diagnostic tests."
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  },
+  "mapping_eligibility": {
+    "eligible": true,
+    "route": "MAP_NEEDED",
+    "reason": "no explicit codes; 4 procedural terms",
+    "explicit_code_count": 0,
+    "procedure_terms": [
+      "diagnostic",
+      "procedure",
+      "procedures",
+      "testing"
+    ],
+    "admin_terms": [
+      "eligibility"
+    ]
+  },
+  "mapping_status": "mapped",
+  "mapping_source": "KB PIPELINE MARKED",
+  "kb_pipeline_marked": true
+}

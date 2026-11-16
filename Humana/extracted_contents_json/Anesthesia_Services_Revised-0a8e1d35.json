@@ -1,0 +1,967 @@
+{
+  "policy_title": "Anesthesia Services",
+  "policy_number": "CP2017001",
+  "effective_date": "08/2021",
+  "published_date": "08/2021",
+  "revision_date": "07/2026",
+  "source_pdf": "Anesthesia_Services_Revised-0a8e1d35.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": "Common CPT and HCPCS Modifiers",
+  "total_pages": 4,
+  "table_count": 1,
+  "block_count": 60,
+  "CPT_CODES_USED": [
+    "00100",
+    "01999",
+    "99100",
+    "99116",
+    "99135",
+    "99140",
+    "00000"
+  ],
+  "MODIFIERS_USED": [
+    "AA",
+    "AD",
+    "QK",
+    "QX",
+    "QY",
+    "QZ",
+    "50",
+    "G8",
+    "G9",
+    "QS",
+    "59",
+    "XE",
+    "XU"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "00100",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01999",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "99100",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "99116",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "99135",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "99140",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00000",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Overview",
+      "section": "Overview",
+      "subsection": null,
+      "hierarchy_path": "Overview",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "This policy establishes Humana's billing requirements and reimbursement for anesthesia services.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. The following policy applies to professional services only.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Reporting Anesthesia Services",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Reporting Anesthesia Services",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Reporting Anesthesia Services",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Humana requires anesthesia services to be reported using a Current Procedural Terminology (CPT®) code in the 00100 - 01999 range.",
+      "codes": [
+        "00100",
+        "01999"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Anesthesia Reimbursement Calculation",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Anesthesia Reimbursement Calculation",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Anesthesia Reimbursement Calculation",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Humana plans calculate the reimbursement of anesthesia services with consideration to the base value units for the procedure, time units, modifiers and the conversion factor. The formula is as follows: (CMS Base Value Unit + Time Units + Anesthesia Physical Status Modifier Unit, if applicable) x Conversion Factor = Anesthesia Allowable. Note: Some anesthesia services are not time-based; therefore, this calculation does not apply to such services.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Reporting Anesthesia Time",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Reporting Anesthesia Time",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Reporting Anesthesia Time",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Humana requires actual anesthesia time to be reported in one-minute increments in the anesthesia minutes field. Note: Some anesthesia services are not time-based and are excluded from this requirement.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Common Modifiers for Anesthesia Claims",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Common Modifiers for Anesthesia Claims",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Common Modifiers for Anesthesia Claims",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Humana requires the anesthesia service code to be appended, as appropriate, with modifier AA, AD, QK, QX, QY or QZ. For an allowed anesthesia charge submitted with modifiers AA, QK, QX, QY or QZ, Humana plans allow the following percentage of the provider's contracted rate or base maximum amount payable under the member's plan:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Medicare Advantage",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Medicare Advantage",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "reimbursement AA 100% QK 50% QX 50% QY 50% QZ 100% Note: Reimbursement of an anesthesia charge shall not exceed 100 percent of the total amount allowed for a single service reported on multiple providers' claims, such as when an anesthesiologist directs a nonphysician anesthetist. Additionally, for any coverable single anesthesia service, Humana plans allow no more than one anesthesiologist charge and allow no more than one nonphysician anesthetist charge. Humana calculates the reimbursement of an allowed anesthesia charge submitted with modifier AD with three base units, regardless of the base value units of the procedure code, multiplied by the conversion factor. One additional unit is considered when documentation confirms the supervising physician was present at induction. Additional units for length of time, qualifying circumstances codes or physical status modifiers are not allowed. Monitored anesthesia care must be indicated using modifier G8, G9 or QS, with the monitored anesthesia care modifier reported after modifier AA, AD, QK, QX, QY or QZ.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Anesthesia Physical Status Modifiers",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Anesthesia Physical Status Modifiers",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Anesthesia Physical Status Modifiers",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Humana plans do not allow additional units for physical status modifiers P1 - P6. Physical status modifiers should be reported after modifier AA, AD, QK, QX, QY or QZ.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Qualifying Circumstance Codes",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Qualifying Circumstance Codes",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Qualifying Circumstance Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Humana plans do not allow additional units for qualifying circumstance codes CPT codes 99100, 99116, 99135 and 99140.",
+      "codes": [
+        "99100",
+        "99116",
+        "99135",
+        "99140"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Reimbursement for Post-Operative Pain Management Procedures",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Reimbursement for Post-Operative Pain Management Procedures",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Reimbursement for Post-Operative Pain Management Procedures",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "A medically necessary anesthesia procedure, such as an epidural injection or nerve block, administered with the intent to manage post-operative pain, may be reimbursed separately when the adequacy of the intra-operative anesthesia is not dependent on the epidural injection or nerve block. All the following requirements must be satisfied to qualify for separate reimbursement from the intra-operative anesthesia:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Reimbursement for Post-Operative Pain Management Procedures",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Reimbursement for Post-Operative Pain Management Procedures",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Reimbursement for Post-Operative Pain Management Procedures",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Medical record documentation of the post-operative pain management procedure must:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Be separate from the anesthesia record",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Be separate from the anesthesia record",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Be separate from the anesthesia record",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Confirm the procedure was for post-operative pain management and the adequacy of the intra-operative anesthesia is not dependent on the epidural injection or nerve block",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Include details about the procedure itself",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Include details about the procedure itself",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Include details about the procedure itself",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Confirm the surgeon requested the anesthetist administer the procedure",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Include details about the procedure itself",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Include details about the procedure itself",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Include details about the procedure itself",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Confirm the patient consented to the post-operative pain management plan and procedure",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Include details about the procedure itself",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Include details about the procedure itself",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Include details about the procedure itself",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "The time spent placing or administering a post-operative pain management procedure cannot be included in the intra-operative anesthesia time.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Include details about the procedure itself",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Include details about the procedure itself",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Include details about the procedure itself",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Modifier 59, XE or XU must be appended to the post-operative pain management procedure code to indicate a distinct procedural service was performed.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Include details about the procedure itself",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Include details about the procedure itself",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Include details about the procedure itself",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Post-operative pain management procedures may be administered pre-operatively, intra-operatively or post-operatively. Post-operative pain management procedures are not separately reimbursed when reported by the same physician reporting the procedure or surgical charge.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Additional Reporting and Reimbursement Considerations",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Additional Reporting and Reimbursement Considerations",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Additional Reporting and Reimbursement Considerations",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "In certain circumstances additional payment rules may apply, including but not limited to the following:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Additional Reporting and Reimbursement Considerations",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Additional Reporting and Reimbursement Considerations",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Additional Reporting and Reimbursement Considerations",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "When multiple procedures are performed on the same patient during a single anesthesia session, only the anesthesia service code with the highest base unit value should be reported. The combined time for all procedures should be reported with that code.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Additional Reporting and Reimbursement Considerations",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Additional Reporting and Reimbursement Considerations",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Additional Reporting and Reimbursement Considerations",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Humana plans do not reimburse for anesthesia services reported by the attending surgeon.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Base maximum amount payable under the member's plan: The maximum amount of reimbursement for a covered expense, determined by the member's plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Conversion factor: The conversion factor is the multiplier that transforms relative values into payment amounts as shown in the CONV FACTOR field in the Medicare Physician Fee Schedule Relative Value File for the appropriate year.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "CPT code 99100: Anesthesia for patient of extreme age, younger than 1 year and older than 70 (List separately in addition to code for primary anesthesia procedure).",
+      "codes": [
+        "99100"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "CPT code 99116: Anesthesia complicated by utilization of total body hypothermia (List separately in addition to code for primary anesthesia procedure).",
+      "codes": [
+        "99116"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "CPT code 99135: Anesthesia complicated by utilization of controlled hypotension (List separately in addition to code for primary anesthesia procedure).",
+      "codes": [
+        "99135"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "CPT code 99140: Anesthesia complicated by emergency conditions (specify) (List separately in addition to code for primary anesthesia procedure).",
+      "codes": [
+        "99140"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Medicare Physician Fee Schedule (MPFS) Relative Value File: A file published by the Centers for Medicare & Medicaid Services that includes, among other information, multiple procedure indicator, relative value units and conversion factors for physician services. This file is commonly referred to as the relative value unit (RVU) table.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Modifier AA: Anesthesia services performed personally by anesthesiologist.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Modifier AD: Medical supervision by physician: more than four concurrent anesthesia procedures.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Modifier G8: Monitored anesthesia care (MAC) for deep complex, complicated, or markedly invasive surgical procedures.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Modifier G9: Monitored anesthesia care for patient who has history of severe cardio-pulmonary condition.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Modifier P1: A normal healthy patient.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Modifier P2: A patient with mild systemic disease.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Modifier P3: A patient with severe systemic disease.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Modifier P4: A patient with severe systemic disease that is a constant threat to life.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Modifier P5: A moribund patient who is not expected to survive without the operation.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Modifier P6: A declared brain-dead patient whose organs are being removed for donor purposes.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Modifier QK: Medical direction of two, three, or four concurrent anesthesia procedures involving qualified individuals.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Modifier QS: Monitored anesthesia care service.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Modifier QX: CRNA service: with medical direction by a physician.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Modifier QY: Medical direction of one certified registered nurse anesthetist (CRNA) by an anesthesiologist.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Modifier QZ: CRNA service: without medical direction by a physician.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 12 - Physicians/Nonphysician Practitioners. Sections 50 and 140. www.cms.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Centers for Medicare & Medicaid Services website. Anesthesiologists Information Center. www.cms.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Centers for Medicare & Medicaid Services website. Medicare Physician Fee Schedule (MPFS) Relative Value Files. www.cms.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Centers for Medicare & Medicaid Services website. NCCI Policy Manual for Medicare. Chapter II - Anesthesia Services CPT Codes 00000-01999. Section B - Standard Anesthesia Coding. www.cms.gov.",
+      "codes": [
+        "00000",
+        "01999"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "American Medical Association's CPT® and associated publications and services.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "American Society of Anesthesiologists' Relative Value Guide® and associated publications and services.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Availity - Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Claims processing edit notifications - Alerts of upcoming claims payment changes are posted on the first Friday of each month.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Claims resources - Providers can find information on referrals, authorizations, electronic claim submissions and more.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Making it easier - This page contains an educational series for providers and healthcare professionals.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Medical and pharmacy coverage policies - Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Publications - This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note: Links to sources outside of Humana's control are verified at the time of publication. Please report broken links.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Modifier Reimbursement and Guidelines Table",
+      "section": "References",
+      "subsection": "Modifier Reimbursement and Guidelines Table",
+      "hierarchy_path": "References > Modifier Reimbursement and Guidelines Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Modifier Reimbursement and Guidelines Table] Modifier: AA | 100% | Medicare Advantage reimbursement: ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Modifier",
+          "",
+          "Medicare Advantage reimbursement"
+        ],
+        "row": {
+          "Modifier": "AA",
+          "Medicare Advantage reimbursement": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Modifier Reimbursement and Guidelines Table",
+      "section": "References",
+      "subsection": "Modifier Reimbursement and Guidelines Table",
+      "hierarchy_path": "References > Modifier Reimbursement and Guidelines Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Modifier Reimbursement and Guidelines Table] Modifier: QK | 50% | Medicare Advantage reimbursement: ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Modifier",
+          "",
+          "Medicare Advantage reimbursement"
+        ],
+        "row": {
+          "Modifier": "QK",
+          "Medicare Advantage reimbursement": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Modifier Reimbursement and Guidelines Table",
+      "section": "References",
+      "subsection": "Modifier Reimbursement and Guidelines Table",
+      "hierarchy_path": "References > Modifier Reimbursement and Guidelines Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Modifier Reimbursement and Guidelines Table] Modifier: QX | 50% | Medicare Advantage reimbursement: ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Modifier",
+          "",
+          "Medicare Advantage reimbursement"
+        ],
+        "row": {
+          "Modifier": "QX",
+          "Medicare Advantage reimbursement": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Modifier Reimbursement and Guidelines Table",
+      "section": "References",
+      "subsection": "Modifier Reimbursement and Guidelines Table",
+      "hierarchy_path": "References > Modifier Reimbursement and Guidelines Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Modifier Reimbursement and Guidelines Table] Modifier: QY | 50% | Medicare Advantage reimbursement: ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Modifier",
+          "",
+          "Medicare Advantage reimbursement"
+        ],
+        "row": {
+          "Modifier": "QY",
+          "Medicare Advantage reimbursement": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Modifier Reimbursement and Guidelines Table",
+      "section": "References",
+      "subsection": "Modifier Reimbursement and Guidelines Table",
+      "hierarchy_path": "References > Modifier Reimbursement and Guidelines Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Modifier Reimbursement and Guidelines Table] Modifier: QZ | 100% | Medicare Advantage reimbursement: ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Modifier",
+          "",
+          "Medicare Advantage reimbursement"
+        ],
+        "row": {
+          "Modifier": "QZ",
+          "Medicare Advantage reimbursement": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "Humana plans calculate the reimbursement of anesthesia services with consideration to the base value units for the procedure, time units, modifiers and the conversion factor. The formula is as follows: (CMS Base Value Unit + Time Units + Anesthesia Physical Status Modifier Unit, if applicable) x Conversion Factor = Anesthesia Allowable. Note: Some anesthesia services are not time-based; therefore, this calculation does not apply to such services.\n\nA medically necessary anesthesia procedure, such as an epidural injection or nerve block, administered with the intent to manage post-operative pain, may be reimbursed separately when the adequacy of the intra-operative anesthesia is not dependent on the epidural injection or nerve block. All the following requirements must be satisfied to qualify for separate reimbursement from the intra-operative anesthesia:\n\nMedical record documentation of the post-operative pain management procedure must:\n\nIn certain circumstances additional payment rules may apply, including but not limited to the following:\n\nWhen multiple procedures are performed on the same patient during a single anesthesia session, only the anesthesia service code with the highest base unit value should be reported. The combined time for all procedures should be reported with that code.\n\nHumana plans do not reimburse for anesthesia services reported by the attending surgeon.\n\n[Modifier Reimbursement and Guidelines Table] Modifier: AA | 100% | Medicare Advantage reimbursement: \n\n[Modifier Reimbursement and Guidelines Table] Modifier: QK | 50% | Medicare Advantage reimbursement: \n\n[Modifier Reimbursement and Guidelines Table] Modifier: QX | 50% | Medicare Advantage reimbursement: \n\n[Modifier Reimbursement and Guidelines Table] Modifier: QY | 50% | Medicare Advantage reimbursement: \n\n[Modifier Reimbursement and Guidelines Table] Modifier: QZ | 100% | Medicare Advantage reimbursement: "
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": "Base maximum amount payable under the member's plan: The maximum amount of reimbursement for a covered expense, determined by the member's plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments.\n\nConversion factor: The conversion factor is the multiplier that transforms relative values into payment amounts as shown in the CONV FACTOR field in the Medicare Physician Fee Schedule Relative Value File for the appropriate year.\n\nCPT code 99100: Anesthesia for patient of extreme age, younger than 1 year and older than 70 (List separately in addition to code for primary anesthesia procedure).\n\nCPT code 99116: Anesthesia complicated by utilization of total body hypothermia (List separately in addition to code for primary anesthesia procedure).\n\nCPT code 99135: Anesthesia complicated by utilization of controlled hypotension (List separately in addition to code for primary anesthesia procedure).\n\nCPT code 99140: Anesthesia complicated by emergency conditions (specify) (List separately in addition to code for primary anesthesia procedure).\n\nMedicare Physician Fee Schedule (MPFS) Relative Value File: A file published by the Centers for Medicare & Medicaid Services that includes, among other information, multiple procedure indicator, relative value units and conversion factors for physician services. This file is commonly referred to as the relative value unit (RVU) table.\n\nModifier AA: Anesthesia services performed personally by anesthesiologist.\n\nModifier AD: Medical supervision by physician: more than four concurrent anesthesia procedures.\n\nModifier G8: Monitored anesthesia care (MAC) for deep complex, complicated, or markedly invasive surgical procedures.\n\nModifier G9: Monitored anesthesia care for patient who has history of severe cardio-pulmonary condition.\n\nModifier P1: A normal healthy patient.\n\nModifier P2: A patient with mild systemic disease.\n\nModifier P3: A patient with severe systemic disease.\n\nModifier P4: A patient with severe systemic disease that is a constant threat to life.\n\nModifier P5: A moribund patient who is not expected to survive without the operation.\n\nModifier P6: A declared brain-dead patient whose organs are being removed for donor purposes.\n\nModifier QK: Medical direction of two, three, or four concurrent anesthesia procedures involving qualified individuals.\n\nModifier QS: Monitored anesthesia care service.\n\nModifier QX: CRNA service: with medical direction by a physician.\n\nModifier QY: Medical direction of one certified registered nurse anesthetist (CRNA) by an anesthesiologist.\n\nModifier QZ: CRNA service: without medical direction by a physician."
+  }
+}

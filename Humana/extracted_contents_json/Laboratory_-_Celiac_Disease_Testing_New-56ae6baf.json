@@ -1,0 +1,409 @@
+{
+  "policy_title": "Laboratory - Celiac Disease Testing",
+  "policy_number": "LAB2026006",
+  "effective_date": "10/2026",
+  "published_date": "10/2026",
+  "revision_date": null,
+  "source_pdf": "Laboratory_-_Celiac_Disease_Testing_New-56ae6baf.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 3,
+  "table_count": 1,
+  "block_count": 17,
+  "CPT_CODES_USED": [
+    "86231",
+    "86258",
+    "86364",
+    "82784",
+    "14309",
+    "17305"
+  ],
+  "MODIFIERS_USED": [
+    "90",
+    "JC",
+    "51",
+    "SJ",
+    "US",
+    "53",
+    "JA",
+    "MS",
+    "JF",
+    "56",
+    "AH",
+    "55",
+    "62",
+    "25",
+    "TD",
+    "AJ",
+    "81",
+    "59",
+    "76",
+    "LM",
+    "FC",
+    "CB",
+    "82",
+    "HJ"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "86231",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86258",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86364",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82784",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "14309",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "17305",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "For celiac disease, testing for immunoglobulin G (lgG) endomysial antibodies (CPT code 86231), lgG deamidated gliadin peptide (CPT code 86258) and immuglobulin A (IgA) anti-tissue transgluaminase (CPT code 86364) IS REIMBURSABLE no more than once every 90 days.",
+      "codes": [
+        "86231",
+        "86258",
+        "86364"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "More than two units of gammaglobulin (CPT code 82784) per date of service for the evaluation of celiac disease IS NOT REIMBURSABLE.",
+      "codes": [
+        "82784"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "82784",
+      "codes": [
+        "82784"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "86231",
+      "codes": [
+        "86231"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Endomysial antibody (EMA), each immunoglobulin (Ig) class",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Endomysial antibody (EMA), each immunoglobulin (Ig) class",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Endomysial antibody (EMA), each immunoglobulin (Ig) class",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "86258 Gliadin (deamidated) (DGP) antibody, each immunoglobulin (Ig) class 86364",
+      "codes": [
+        "86258",
+        "86364"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "AAFP Screening for Celiac Disease: Recommendation Statement. Am Fam Physician. Sep 15 2017;96(6):Online Al-Toma A, Volta U, Auricchio R, et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. United European gastroenterology journal. Jun 2019;7(5):583-613. doi:10.1177/2050640619844125 Bai JC, Ciacci C. World Gastroenterology Organisation Global Guidelines: Celiac Disease February 2017. Journal of clinical gastroenterology. Oct 2017;51(9):755-768. doi:10.1097/mcg.0000000000000919 Bajor J, Szakács Z, Farkas N, et al. Classical celiac disease is more frequent with a double dose of HLA-DQB1*02: A systematic review with meta-analysis. PloS one. 2019;14(2):e0212329. doi:10.1371/journal.pone.0212329 Bibbins-Domingo K, Grossman DC, Curry SJ, et al. Screening for Celiac Disease: US Preventive Services Task Force Recommendation Statement. Jama. Mar 28 2017;317(12):1252-1257. doi:10.1001/jama.2017.1462 Brown NK, Guandalini S, Semrad C, Kupfer SS. A Clinician's Guide to Celiac Disease HLA Genetics. Am J Gastroenterol. Oct 2019;114(10):1587-1592. doi:10.14309/ajg.0000000000000310 Bufler P, Heilig G, Ossiander G, Freudenberg F, Grote V, Koletzko S. Diagnostic performance of three serologic tests in childhood celiac disease. Zeitschrift fur Gastroenterologie. Feb 2015;53(2):108-14. doi:10.1055/s-0034-1385704 Caio G, Volta U, Sapone A, et al. Celiac disease: a comprehensive current review. BMC Med. Jul 23 2019;17(1):142. doi:10.1186/s12916-019-1380-z",
+      "codes": [
+        "14309"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "CDF. What is Celiac disease? Celiac Disease Foundation. https://celiac.org/celiac-disease/understanding-celiac-disease-2/what-is- celiac-disease/ FDA. Aptiva Celiac Disease IgA Reagent. https://www.accessdata.fda.gov/cdrh_docs/reviews/K193604.pdf FDA. Decision Summary. https://www.accessdata.fda.gov/cdrh_docs/reviews/DEN160026.pdf FDA. Ig_Plex Celiac DGP Panel. https://www.accessdata.fda.gov/scripts/cdrh/devicesatfda/index.cfm?db=pmn&id=K140691 Gould MJ, Mahmud FH, Clarke ABM, et al. Accuracy of Screening Tests for Celiac Disease in Asymptomatic Patients With Type 1 Diabetes. Am J Gastroenterol. Jul 1 2021;116(7):1545-1549. doi:10.14309/ajg.0000000000001193 Green PHR, Paski S, Ko CW, Rubio-Tapia A. AGA Clinical Practice Update on Management of Refractory Celiac Disease: Expert Review. Gastroenterology. Nov 2022;163(5):1461-1469. doi:10.1053/j.gastro.2022.07.086 Hill ID, Fasano A, Guandalini S, et al. NASPGHAN Clinical Report on the Diagnosis and Treatment of Gluten-related Disorders. J Pediatr Gastroenterol Nutr. Jul 2016;63(1):156-65. doi:10.1097/mpg.0000000000001216 Husby S, Koletzko S, Korponay-Szabó I, et al. European Society Paediatric Gastroenterology, Hepatology and Nutrition Guidelines for Diagnosing Coeliac Disease 2020. J Pediatr Gastroenterol Nutr. Jan 2020;70(1):141-156. doi:10.1097/mpg.0000000000002497 Husby S, Murray JA, Katzka DA. AGA Clinical Practice Update on Diagnosis and Monitoring of Celiac Disease - Changing Utility of Serology and Histologic Measures: Expert Review. Gastroenterology. 2019;156(4):885-889. doi:10.1053/j.gastro.2018.12.010 Kelly CP. Diagnosis of celiac disease in adults. Updated March 14, 2025. https://www.uptodate.com/contents/diagnosis-of-celiac- disease-in-adults Lau MS, Mooney P, White W, et al. Pre-endoscopy point of care test (Simtomax- IgA/IgG-Deamidated Gliadin Peptide) for coeliac disease in iron deficiency anaemia: diagnostic accuracy and a cost saving economic model. BMC Gastroenterol. Sep 15 2016;16:115. doi:10.1186/s12876-016-0521-5 Ludvigsson JF, Bai JC, Biagi F, et al. Diagnosis and management of adult coeliac disease: guidelines from the British Society of Gastroenterology. Gut. Aug 2014;63(8):1210-28. doi:10.1136/gutjnl-2013-306578 Mearin ML, Agardh D, Antunes H, et al. ESPGHAN Position Paper on Management and Follow-up of Children and Adolescents With Celiac Disease. J Pediatr Gastroenterol Nutr. Sep 1 2022;75(3):369-386. doi:10.1097/mpg.0000000000003540 Mubarak A, Spierings E, Wolters V, van Hoogstraten I, Kneepkens CM, Houwen R. Human leukocyte antigen DQ2.2 and celiac disease. J Pediatr Gastroenterol Nutr. Apr 2013;56(4):428-30. doi:10.1097/MPG.0b013e31827913f9 Nellikkal SS, Hafed Y, Larson JJ, Murray JA, Absah I. High Prevalence of Celiac Disease Among Screened First-Degree Relatives. Mayo Clin Proc. Sep 2019;94(9):1807-1813. doi:10.1016/j.mayocp.2019.03.027 NICE. Coeliac disease overview. https://pathways.nice.org.uk/pathways/coeliac-disease NICE. Coeliac disease. National Institute for Health and Care Excellence. https://www.nice.org.uk/guidance/qs134/resources/coeliac-disease-pdf-75545419042501 NICE. Coeliac disease: recognition, assessment and management. National Institute for Health and Care Excellence. https://www.nice.org.uk/guidance/ng20/resources/coeliac-disease-recognition-assessment-and-management-pdf- 1837325178565 NIDDK. Definition & Facts for Celiac Disease. National Institute of Diabetes and Digestive and Kidney Diseases. Updated October",
+      "codes": [
+        "14309"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "2020. https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease/definition-facts",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "NIDDK. Symptoms & Causes of Celiac Disease. U.S. Department of Health and Human Services. Updated October 2020. https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease/symptoms-causes Olen O, Gudjonsdottir AH, Browaldh L, et al. Antibodies against deamidated gliadin peptides and tissue transglutaminase for diagnosis of pediatric celiac disease. J Pediatr Gastroenterol Nutr. Dec 2012;55(6):695-700. doi:10.1097/MPG.0b013e3182645c54 Paul SP, Hoghton M, Sandhu B. Limited role of HLA DQ2/8 genotyping in diagnosing coeliac disease. Scottish medical journal. Feb 2017;62(1):25-27. doi:10.1177/0036933016689008 Pelkowski TD, Viera AJ. Celiac disease: diagnosis and management. Am Fam Physician. Jan 15 2014;89(2):99-105 Profaizer T, Pole A, Monds C, Delgado JC, Lázár-Molnár E. Clinical utility of next generation sequencing based HLA typing for disease association and pharmacogenetic testing. Hum Immunol. Jul 2020;81(7):354-360. doi:10.1016/j.humimm.2020.05.001 Rubio-Tapia A, Hill ID, Semrad C, et al. American College of Gastroenterology Guidelines Update: Diagnosis and Management of Celiac Disease. Am J Gastroenterol. Jan 1 2023;118(1):59-76. doi:10.14309/ajg.0000000000002075 Sakly W, Mankai A, Ghdess A, Achour A, Thabet Y, Ghedira I. Performance of anti-deamidated gliadin peptides antibodies in celiac disease diagnosis. Clinics and research in hepatology and gastroenterology. Dec 2012;36(6):598-603. doi:10.1016/j.clinre.2012.01.008",
+      "codes": [
+        "14309"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Sarna VK, Lundin KEA, Morkrid L, Qiao SW, Sollid LM, Christophersen A. HLA-DQ-Gluten Tetramer Blood Test Accurately Identifies Patients With and Without Celiac Disease in Absence of Gluten Consumption. Gastroenterology. Mar 2018;154(4):886-896.e6. doi:10.1053/j.gastro.2017.11.006 Selleski N, Almeida LM, Almeida FC, Pratesi CB, Nobrega YKM, Gandolfi L. PREVALENCE OF CELIAC DISEASE PREDISPOSING GENOTYPES, INCLUDING HLA-DQ2.2 VARIANT, IN BRAZILIAN CHILDREN. Arquivos de gastroenterologia. Jan-Mar 2018;55(1):82-",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "85. doi:10.1590/s0004-2803.201800000-16",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Silvester JA, Kurada S, Szwajcer A, Kelly CP, Leffler DA, Duerksen DR. Tests for Serum Transglutaminase and Endomysial Antibodies Do Not Detect Most Patients With Celiac Disease and Persistent Villous Atrophy on Gluten-free Diets: a Meta-analysis. Gastroenterology. Sep 2017;153(3):689-701.e1. doi:10.1053/j.gastro.2017.05.015 Stankovic B, Radlovic N, Lekovic Z, et al. HLA genotyping in pediatric celiac disease patients. Bosnian journal of basic medical sciences. Aug 16 2014;14(3):171-6. doi:10.17305/bjbms.2014.3.28 Tangermann P, Branchi F, Itzlinger A, et al. Low Sensitivity of Simtomax Point of Care Test in Detection of Celiac Disease in a Prospective Multicenter Study. Clin Gastroenterol Hepatol. Aug 2019;17(9):1780-1787.e5. doi:10.1016/j.cgh.2018.09.032 Tye-Din JA, Galipeau HJ, Agardh D. Celiac Disease: A Review of Current Concepts in Pathogenesis, Prevention, and Novel Therapies.",
+      "codes": [
+        "17305"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Frontiers in pediatrics. 2018;6:350. doi:10.3389/fped.2018.00350",
+      "section": "References",
+      "subsection": "Frontiers in pediatrics. 2018;6:350. doi:10.3389/fped.2018.00350",
+      "hierarchy_path": "References > Frontiers in pediatrics. 2018;6:350. doi:10.3389/fped.2018.00350",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Vijzelaar R, van der Zwan E, van Gammeren A, et al. Rapid Detection of the Three Celiac Disease Risk Genotypes HLA-DQ2.2, HLA- DQ2.5, and HLA-DQ8 by Multiplex Ligation-Dependent Probe Amplification. Genetic testing and molecular biomarkers. Mar 2016;20(3):158-61. doi:10.1089/gtmb.2015.0233",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 82784: 86231 | Procedure code:  | Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each: Endomysial antibody (EMA), each immunoglobulin (Ig) class | Code description: ",
+      "codes": [
+        "82784",
+        "86231"
+      ],
+      "table_data": {
+        "columns": [
+          "82784",
+          "Procedure code",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+          "Code description"
+        ],
+        "row": {
+          "82784": "86231",
+          "Procedure code": "",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each": "Endomysial antibody (EMA), each immunoglobulin (Ig) class",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 82784: 86258 | Procedure code:  | Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each: Gliadin (deamidated) (DGP) antibody, each immunoglobulin (Ig) class | Code description: ",
+      "codes": [
+        "82784",
+        "86258"
+      ],
+      "table_data": {
+        "columns": [
+          "82784",
+          "Procedure code",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+          "Code description"
+        ],
+        "row": {
+          "82784": "86258",
+          "Procedure code": "",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each": "Gliadin (deamidated) (DGP) antibody, each immunoglobulin (Ig) class",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 82784: 86364 | Procedure code:  | Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each: Tissue transglutaminase, each immunoglobulin (Ig) class | Code description: ",
+      "codes": [
+        "82784",
+        "86364"
+      ],
+      "table_data": {
+        "columns": [
+          "82784",
+          "Procedure code",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+          "Code description"
+        ],
+        "row": {
+          "82784": "86364",
+          "Procedure code": "",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each": "Tissue transglutaminase, each immunoglobulin (Ig) class",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nFor celiac disease, testing for immunoglobulin G (lgG) endomysial antibodies (CPT code 86231), lgG deamidated gliadin peptide (CPT code 86258) and immuglobulin A (IgA) anti-tissue transgluaminase (CPT code 86364) IS REIMBURSABLE no more than once every 90 days.\n\nMore than two units of gammaglobulin (CPT code 82784) per date of service for the evaluation of celiac disease IS NOT REIMBURSABLE.\n\n82784\n\n86231\n\n86258 Gliadin (deamidated) (DGP) antibody, each immunoglobulin (Ig) class 86364"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

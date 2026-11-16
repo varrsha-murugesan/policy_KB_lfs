@@ -1,0 +1,765 @@
+{
+  "policy_title": "Assistant at Surgery Reimbursement",
+  "policy_number": "CP2013100",
+  "effective_date": "12/2013",
+  "published_date": "12/2013",
+  "revision_date": "04/2026",
+  "source_pdf": "Assistant_at_Surgery_Reimbursement-934263d0.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 4,
+  "table_count": 1,
+  "block_count": 43,
+  "CPT_CODES_USED": [
+    "59514",
+    "59620"
+  ],
+  "MODIFIERS_USED": [
+    "AS",
+    "80",
+    "81",
+    "82"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "59514",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "59620",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Overview",
+      "section": "Overview",
+      "subsection": null,
+      "hierarchy_path": "Overview",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "According to the Centers for Medicare & Medicaid Services (CMS), assistant at surgery services are those services rendered by physicians or nonphysician practitioners (NPPs) who actively assist the physician in charge of performing a surgical procedure.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Coverage",
+      "section": "Coverage",
+      "subsection": null,
+      "hierarchy_path": "Coverage",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Original Medicare (OM) covers an assistant at surgery service provided by a physician, with some exclusions, or an NPP. A charge for an assistant at surgery service provided by another individual is not payable. Therefore, a Humana Medicare Advantage (MA) plan denies, to provider liability, a charge for an assistant at surgery service submitted by an individual whose service would not be coverable for an enrollee of OM. Humana uses the Medicare Physician Fee Schedule (MPFS) Relative Value File assistant at surgery indicator to determine if an assistant at surgery is medically necessary and, therefore, covered. When the MPFS Relative Value File is not definitive, then Humana's internal criteria are used.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Assistant at Surgery in a Teaching Hospital",
+      "section": "Coverage",
+      "subsection": "Assistant at Surgery in a Teaching Hospital",
+      "hierarchy_path": "Coverage > Assistant at Surgery in a Teaching Hospital",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Humana determines coverage of a charge submitted by an assistant at surgery in a teaching hospital consistent with the qualifications required by CMS for an OM enrollee.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Billing",
+      "section": "Coverage",
+      "subsection": "Billing",
+      "hierarchy_path": "Coverage > Billing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Only one of the following modifiers should be billed per charge: AS, 80, 81 or 82. An assistant at surgery should bill the same procedure code as the primary surgeon and the appropriate assistant at surgery modifier, except when billing for assistance during a cesarean delivery. When billing for assistance only during a cesarean delivery, the assistant at surgery should bill Current Procedural Terminology (CPT®) code 59514 (cesarean delivery only) or CPT code 59620 (cesarean delivery only, following attempted vaginal delivery after previous cesarean delivery) and the appropriate assistant at surgery modifier. Humana will not reimburse a practitioner who acts as an assistant at surgery in a cesarean delivery any more than the assistant at surgery rate that would apply for the CPT code appropriate for delivery only.",
+      "codes": [
+        "59514",
+        "59620"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Reimbursement",
+      "section": "Coverage",
+      "subsection": "Reimbursement",
+      "hierarchy_path": "Coverage > Reimbursement",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "A Humana MA plan allows an assistant at surgery physician charge, indicated by modifier 80, 81 or 82, at 16 percent of the contracted rate or base maximum amount payable under the member's plan, subject to any other applicable reductions, for a service considered medically necessary. A Humana MA plan allows an assistant at surgery NPP charge, indicated by modifier AS, at 16 percent of the contracted rate or base maximum amount payable under the member's plan appropriate for the NPP, subject to any other applicable reductions, for a service considered medically necessary.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Contracted Providers",
+      "section": "Coverage",
+      "subsection": "Contracted Providers",
+      "hierarchy_path": "Coverage > Contracted Providers",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Physician: The amount allowed is 16 percent of the provider's contracted rate, subject to other applicable adjustments.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Amount Allowed",
+      "section": "Coverage",
+      "subsection": "Amount Allowed",
+      "hierarchy_path": "Coverage > Amount Allowed",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "XXXXX $1,000 $750 $750 x 16% = $120 NPP: The amount allowed is 16 percent of the provider's contracted rate, subject to other applicable adjustments.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Amount Allowed",
+      "section": "Coverage",
+      "subsection": "Amount Allowed",
+      "hierarchy_path": "Coverage > Amount Allowed",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "XXXXX $1,500 $1,000 $1,000 x 16% = $160",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Noncontracted Providers",
+      "section": "Coverage",
+      "subsection": "Noncontracted Providers",
+      "hierarchy_path": "Coverage > Noncontracted Providers",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Physician: The amount allowed is 16 percent of 100 percent of the MPFS amount for the service, subject to other applicable adjustments.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Amount Allowed",
+      "section": "Coverage",
+      "subsection": "Amount Allowed",
+      "hierarchy_path": "Coverage > Amount Allowed",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "XXXXX $1,000 $750 $750 x 100% x 16% = $120 NPP: The amount allowed is 16 percent of 85 percent (13.6 percent) of the MPFS amount for the service, subject to other applicable adjustments.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Amount Allowed",
+      "section": "Coverage",
+      "subsection": "Amount Allowed",
+      "hierarchy_path": "Coverage > Amount Allowed",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "XXXXX $1,500 $1,000 $1,000 x 85% x 16% = $136",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Coverage",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Coverage > Definitions of Italicized Terms",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Base maximum amount payable under the member's plan: The maximum amount of reimbursement for a covered expense, determined by the member's plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Coverage",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Coverage > Definitions of Italicized Terms",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "CPT code 59514: Cesarean delivery only.",
+      "codes": [
+        "59514"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Coverage",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Coverage > Definitions of Italicized Terms",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "CPT code 59620: Cesarean delivery only, following attempted vaginal delivery after previous cesarean delivery.",
+      "codes": [
+        "59620"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Coverage",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Coverage > Definitions of Italicized Terms",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Maximum allowable fee (MAF): The maximum amount of reimbursement for a covered expense, determined by the member's plan provisions. Actual plan payment may be less than MAF, because of applicable adjustments.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Coverage",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Coverage > Definitions of Italicized Terms",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Medicare Physician Fee Schedule (MPFS) Relative Value File: A file published by the Centers for Medicare & Medicaid Services that includes, among other information, assistant at surgery indicator, relative value units and conversion factors for physician services. This file is commonly referred to as the relative value unit (RVU) table.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Coverage",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Coverage > Definitions of Italicized Terms",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Modifier 80: Assistant surgeon.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Coverage",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Coverage > Definitions of Italicized Terms",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Modifier 81: Minimum assistant surgeon.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Coverage",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Coverage > Definitions of Italicized Terms",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Modifier 82: Assistant surgeon (when qualified resident surgeon not available).",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Coverage",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Coverage > Definitions of Italicized Terms",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Modifier AS: Physician assistant, nurse practitioner, or clinical nurse specialist services for assistant at surgery.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Centers for Medicare & Medicaid Services. HCPCS and associated publications and services.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 12 - Physicians/Nonphysician Practitioners. Sections 20.4.3, 100.1.7, 110 and 120.1. www.cms.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 23 - Fee Schedule Administration and Coding. Addendum - MPFSDB Record Layouts. www.cms.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Centers for Medicare & Medicaid Services website. Medicare Physician Fee Schedule (MPFS) Relative Value Files. www.cms.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "American Medical Association's CPT® and associated publications and services.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "American College of Surgeons. Physicians as Assistant at Surgery Consensus.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Availity - Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Claims processing edit notifications - Alerts of upcoming claims payment changes are posted on the first Friday of each month.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Claims resources - Providers can find information on referrals, authorizations, electronic claim submissions and more.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Making it easier - This page contains an educational series for providers and healthcare professionals.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Medical and pharmacy coverage policies - Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Publications - This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note: Links to sources outside of Humana's control are verified at the time of publication. Please report broken links.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "References",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "References > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table]  | Service XXXXX:  | Billed Charge $1,000:  | Contracted Rate $750:  | Amount Allowed $750 x 16% = $120: ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Service XXXXX",
+          "Billed Charge $1,000",
+          "Contracted Rate $750",
+          "Amount Allowed $750 x 16% = $120"
+        ],
+        "row": {
+          "Service XXXXX": "",
+          "Billed Charge $1,000": "",
+          "Contracted Rate $750": "",
+          "Amount Allowed $750 x 16% = $120": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "References",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "References > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] NPP: The amount allowed is 16 percent of the provider's contracted rate, subject to other applicable adjustments. | Service XXXXX:  | Billed Charge $1,000:  | Contracted Rate $750:  | Amount Allowed $750 x 16% = $120: ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Service XXXXX",
+          "Billed Charge $1,000",
+          "Contracted Rate $750",
+          "Amount Allowed $750 x 16% = $120"
+        ],
+        "row": {
+          "Service XXXXX": "",
+          "Billed Charge $1,000": "",
+          "Contracted Rate $750": "",
+          "Amount Allowed $750 x 16% = $120": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "References",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "References > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table]  | Service XXXXX: Service | Billed Charge $1,000: Billed Charge | Contracted Rate $750: Contracted Rate | Amount Allowed $750 x 16% = $120: Amount Allowed",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Service XXXXX",
+          "Billed Charge $1,000",
+          "Contracted Rate $750",
+          "Amount Allowed $750 x 16% = $120"
+        ],
+        "row": {
+          "Service XXXXX": "Service",
+          "Billed Charge $1,000": "Billed Charge",
+          "Contracted Rate $750": "Contracted Rate",
+          "Amount Allowed $750 x 16% = $120": "Amount Allowed"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "References",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "References > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table]  | Service XXXXX: XXXXX | Billed Charge $1,000: $1,500 | Contracted Rate $750: $1,000 | Amount Allowed $750 x 16% = $120: $1,000 x 16% = $160",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Service XXXXX",
+          "Billed Charge $1,000",
+          "Contracted Rate $750",
+          "Amount Allowed $750 x 16% = $120"
+        ],
+        "row": {
+          "Service XXXXX": "XXXXX",
+          "Billed Charge $1,000": "$1,500",
+          "Contracted Rate $750": "$1,000",
+          "Amount Allowed $750 x 16% = $120": "$1,000 x 16% = $160"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "References",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "References > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table]  | Service XXXXX:  | Billed Charge $1,000:  | Contracted Rate $750:  | Amount Allowed $750 x 16% = $120: ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Service XXXXX",
+          "Billed Charge $1,000",
+          "Contracted Rate $750",
+          "Amount Allowed $750 x 16% = $120"
+        ],
+        "row": {
+          "Service XXXXX": "",
+          "Billed Charge $1,000": "",
+          "Contracted Rate $750": "",
+          "Amount Allowed $750 x 16% = $120": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "References",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "References > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table]  | Service XXXXX:  | Billed Charge $1,000:  | Contracted Rate $750:  | Amount Allowed $750 x 16% = $120: ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Service XXXXX",
+          "Billed Charge $1,000",
+          "Contracted Rate $750",
+          "Amount Allowed $750 x 16% = $120"
+        ],
+        "row": {
+          "Service XXXXX": "",
+          "Billed Charge $1,000": "",
+          "Contracted Rate $750": "",
+          "Amount Allowed $750 x 16% = $120": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "References",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "References > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] NPP: The amount allowed is 16 percent of 85 percent (13.6 percent) of the MPFS amount for the service, subject to other applicable | Service XXXXX:  | Billed Charge $1,000:  | Contracted Rate $750:  | Amount Allowed $750 x 16% = $120: ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Service XXXXX",
+          "Billed Charge $1,000",
+          "Contracted Rate $750",
+          "Amount Allowed $750 x 16% = $120"
+        ],
+        "row": {
+          "Service XXXXX": "",
+          "Billed Charge $1,000": "",
+          "Contracted Rate $750": "",
+          "Amount Allowed $750 x 16% = $120": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "References",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "References > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] adjustments. | Service XXXXX:  | Billed Charge $1,000:  | Contracted Rate $750:  | Amount Allowed $750 x 16% = $120: ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Service XXXXX",
+          "Billed Charge $1,000",
+          "Contracted Rate $750",
+          "Amount Allowed $750 x 16% = $120"
+        ],
+        "row": {
+          "Service XXXXX": "",
+          "Billed Charge $1,000": "",
+          "Contracted Rate $750": "",
+          "Amount Allowed $750 x 16% = $120": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "References",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "References > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table]  | Service XXXXX: Service | Billed Charge $1,000: Billed Charge | Contracted Rate $750: Medicare Physician Fee Schedule | Amount Allowed $750 x 16% = $120: Amount Allowed",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Service XXXXX",
+          "Billed Charge $1,000",
+          "Contracted Rate $750",
+          "Amount Allowed $750 x 16% = $120"
+        ],
+        "row": {
+          "Service XXXXX": "Service",
+          "Billed Charge $1,000": "Billed Charge",
+          "Contracted Rate $750": "Medicare Physician Fee Schedule",
+          "Amount Allowed $750 x 16% = $120": "Amount Allowed"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "References",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "References > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table]  | Service XXXXX: XXXXX | Billed Charge $1,000: $1,500 | Contracted Rate $750: $1,000 | Amount Allowed $750 x 16% = $120: $1,000 x 85% x 16% = $136",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "",
+          "Service XXXXX",
+          "Billed Charge $1,000",
+          "Contracted Rate $750",
+          "Amount Allowed $750 x 16% = $120"
+        ],
+        "row": {
+          "Service XXXXX": "XXXXX",
+          "Billed Charge $1,000": "$1,500",
+          "Contracted Rate $750": "$1,000",
+          "Amount Allowed $750 x 16% = $120": "$1,000 x 85% x 16% = $136"
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "A Humana MA plan allows an assistant at surgery physician charge, indicated by modifier 80, 81 or 82, at 16 percent of the contracted rate or base maximum amount payable under the member's plan, subject to any other applicable reductions, for a service considered medically necessary. A Humana MA plan allows an assistant at surgery NPP charge, indicated by modifier AS, at 16 percent of the contracted rate or base maximum amount payable under the member's plan appropriate for the NPP, subject to any other applicable reductions, for a service considered medically necessary."
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": "Original Medicare (OM) covers an assistant at surgery service provided by a physician, with some exclusions, or an NPP. A charge for an assistant at surgery service provided by another individual is not payable. Therefore, a Humana Medicare Advantage (MA) plan denies, to provider liability, a charge for an assistant at surgery service submitted by an individual whose service would not be coverable for an enrollee of OM. Humana uses the Medicare Physician Fee Schedule (MPFS) Relative Value File assistant at surgery indicator to determine if an assistant at surgery is medically necessary and, therefore, covered. When the MPFS Relative Value File is not definitive, then Humana's internal criteria are used.\n\nHumana determines coverage of a charge submitted by an assistant at surgery in a teaching hospital consistent with the qualifications required by CMS for an OM enrollee.\n\nOnly one of the following modifiers should be billed per charge: AS, 80, 81 or 82. An assistant at surgery should bill the same procedure code as the primary surgeon and the appropriate assistant at surgery modifier, except when billing for assistance during a cesarean delivery. When billing for assistance only during a cesarean delivery, the assistant at surgery should bill Current Procedural Terminology (CPT®) code 59514 (cesarean delivery only) or CPT code 59620 (cesarean delivery only, following attempted vaginal delivery after previous cesarean delivery) and the appropriate assistant at surgery modifier. Humana will not reimburse a practitioner who acts as an assistant at surgery in a cesarean delivery any more than the assistant at surgery rate that would apply for the CPT code appropriate for delivery only.\n\nA Humana MA plan allows an assistant at surgery physician charge, indicated by modifier 80, 81 or 82, at 16 percent of the contracted rate or base maximum amount payable under the member's plan, subject to any other applicable reductions, for a service considered medically necessary. A Humana MA plan allows an assistant at surgery NPP charge, indicated by modifier AS, at 16 percent of the contracted rate or base maximum amount payable under the member's plan appropriate for the NPP, subject to any other applicable reductions, for a service considered medically necessary.\n\nPhysician: The amount allowed is 16 percent of the provider's contracted rate, subject to other applicable adjustments.\n\nXXXXX $1,000 $750 $750 x 16% = $120 NPP: The amount allowed is 16 percent of the provider's contracted rate, subject to other applicable adjustments.\n\nXXXXX $1,500 $1,000 $1,000 x 16% = $160\n\nPhysician: The amount allowed is 16 percent of 100 percent of the MPFS amount for the service, subject to other applicable adjustments.\n\nXXXXX $1,000 $750 $750 x 100% x 16% = $120 NPP: The amount allowed is 16 percent of 85 percent (13.6 percent) of the MPFS amount for the service, subject to other applicable adjustments.\n\nXXXXX $1,500 $1,000 $1,000 x 85% x 16% = $136\n\nBase maximum amount payable under the member's plan: The maximum amount of reimbursement for a covered expense, determined by the member's plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments.\n\nCPT code 59514: Cesarean delivery only.\n\nCPT code 59620: Cesarean delivery only, following attempted vaginal delivery after previous cesarean delivery.\n\nMaximum allowable fee (MAF): The maximum amount of reimbursement for a covered expense, determined by the member's plan provisions. Actual plan payment may be less than MAF, because of applicable adjustments.\n\nMedicare Physician Fee Schedule (MPFS) Relative Value File: A file published by the Centers for Medicare & Medicaid Services that includes, among other information, assistant at surgery indicator, relative value units and conversion factors for physician services. This file is commonly referred to as the relative value unit (RVU) table.\n\nModifier 80: Assistant surgeon.\n\nModifier 81: Minimum assistant surgeon.\n\nModifier 82: Assistant surgeon (when qualified resident surgeon not available).\n\nModifier AS: Physician assistant, nurse practitioner, or clinical nurse specialist services for assistant at surgery."
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": "Base maximum amount payable under the member's plan: The maximum amount of reimbursement for a covered expense, determined by the member's plan. Depending on the plan, this may be the maximum allowable fee, the appropriate Medicare fee schedule rate or an amount derived from another payment model. Actual plan reimbursement may be less than this base maximum amount, because of applicable adjustments.\n\nCPT code 59514: Cesarean delivery only.\n\nCPT code 59620: Cesarean delivery only, following attempted vaginal delivery after previous cesarean delivery.\n\nMaximum allowable fee (MAF): The maximum amount of reimbursement for a covered expense, determined by the member's plan provisions. Actual plan payment may be less than MAF, because of applicable adjustments.\n\nMedicare Physician Fee Schedule (MPFS) Relative Value File: A file published by the Centers for Medicare & Medicaid Services that includes, among other information, assistant at surgery indicator, relative value units and conversion factors for physician services. This file is commonly referred to as the relative value unit (RVU) table.\n\nModifier 80: Assistant surgeon.\n\nModifier 81: Minimum assistant surgeon.\n\nModifier 82: Assistant surgeon (when qualified resident surgeon not available).\n\nModifier AS: Physician assistant, nurse practitioner, or clinical nurse specialist services for assistant at surgery."
+  }
+}

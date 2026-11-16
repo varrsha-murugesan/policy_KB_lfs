@@ -1,0 +1,9 @@
+{
+  "payer": "Devoted",
+  "adapter": "sectioned_list",
+  "detection_patterns": ["\\bDevoted\\s?Health\\b", "\\bDevoted\\b"],
+  "id_fields": ["source_pdf", "policy_number"],
+  "generic_title_patterns": [],
+  "section_role_patterns": {}
+}
+

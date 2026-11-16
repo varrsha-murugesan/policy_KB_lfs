@@ -126,8 +126,15 @@ class ClaimTester:
             return {"success": False, "error": "Empty SQL query."}
 
         # Handle multiple statements or leading comment blocks
-        # Extract the SELECT statement
-        select_match = re.search(r'(SELECT\s+[\s\S]+)', clean_sql, re.IGNORECASE)
+        # If multiple statements are provided (e.g. clubbed rules), evaluate the first SELECT statement
+        raw_statements = [s.strip() for s in clean_sql.split(';') if s.strip()]
+        target_stmt = clean_sql
+        for s in raw_statements:
+            if re.search(r'\bSELECT\b', s, re.IGNORECASE):
+                target_stmt = s
+                break
+
+        select_match = re.search(r'(SELECT\s+[\s\S]+)', target_stmt, re.IGNORECASE)
         if not select_match:
             return {"success": False, "error": "No SELECT statement found in SQL query."}
 

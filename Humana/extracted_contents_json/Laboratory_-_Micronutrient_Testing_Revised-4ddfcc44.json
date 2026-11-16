@@ -1,0 +1,1465 @@
+{
+  "policy_title": "Laboratory - Micronutrient Testing",
+  "policy_number": "LAB2023036",
+  "effective_date": "06/2023",
+  "published_date": "06/2023",
+  "revision_date": "10/2026",
+  "source_pdf": "Laboratory_-_Micronutrient_Testing_Revised-4ddfcc44.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 3,
+  "table_count": 2,
+  "block_count": 59,
+  "CPT_CODES_USED": [
+    "82180",
+    "84207",
+    "84252",
+    "84425",
+    "84446",
+    "84590",
+    "82128",
+    "82136",
+    "82310",
+    "82379",
+    "82495",
+    "82525",
+    "82978",
+    "83735",
+    "83785",
+    "84255",
+    "84591",
+    "84597",
+    "84630",
+    "11124",
+    "31989"
+  ],
+  "MODIFIERS_USED": [
+    "22",
+    "62",
+    "JC",
+    "AR",
+    "KS"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "82180",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84207",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84252",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84425",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84446",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84590",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82128",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82136",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82310",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82379",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82495",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82525",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82978",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83735",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83785",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84255",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84591",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84597",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84630",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "11124",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "31989",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "For diagnosing a nutritional disorder or as part of a general wellness exam, testing for any of the following IS NOT REIMBURSABLE:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Selenium (CPT code 84255**)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Selenium (CPT code 84255**)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Selenium (CPT code 84255**)",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Vitamins (CPT code 82180*, CPT code 84207*, CPT code 84252*, CPT code 84425*, CPT code 84446*, CPT code 84590*,",
+      "codes": [
+        "82180",
+        "84207",
+        "84252",
+        "84425",
+        "84446",
+        "84590"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "82128",
+      "codes": [
+        "82128"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Amino acids; multiple, qualitative, each specimen",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Amino acids; multiple, qualitative, each specimen",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Amino acids; multiple, qualitative, each specimen",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "82136",
+      "codes": [
+        "82136"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Amino acids, 2 to 5 amino acids, quantitative, each specimen",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Amino acids, 2 to 5 amino acids, quantitative, each specimen",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Amino acids, 2 to 5 amino acids, quantitative, each specimen",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "82180*",
+      "codes": [
+        "82180"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Ascorbic acid (Vitamin C), blood",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Ascorbic acid (Vitamin C), blood",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Ascorbic acid (Vitamin C), blood",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "82310",
+      "codes": [
+        "82310"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Calcium; total",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Calcium; total",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Calcium; total",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "82379*",
+      "codes": [
+        "82379"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Carnitine (total and free), quantitative each specimen",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Carnitine (total and free), quantitative each specimen",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Carnitine (total and free), quantitative each specimen",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "82495**",
+      "codes": [
+        "82495"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Chromium",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Chromium",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Chromium",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "82525**",
+      "codes": [
+        "82525"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Copper",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Copper",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Copper",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "82978",
+      "codes": [
+        "82978"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Glutathione",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Glutathione",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Glutathione",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "83735****",
+      "codes": [
+        "83735"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Magnesium",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Magnesium",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Magnesium",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "83785**",
+      "codes": [
+        "83785"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Manganese",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Manganese",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Manganese",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "84207*",
+      "codes": [
+        "84207"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Pyridoxal phosphate (Vitamin B-6)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Pyridoxal phosphate (Vitamin B-6)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Pyridoxal phosphate (Vitamin B-6)",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "84252*",
+      "codes": [
+        "84252"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Riboflavin (Vitamin B-2)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Riboflavin (Vitamin B-2)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Riboflavin (Vitamin B-2)",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "84255**",
+      "codes": [
+        "84255"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84425*",
+      "codes": [
+        "84425"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Thiamine (Vitamin B-1)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Thiamine (Vitamin B-1)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Thiamine (Vitamin B-1)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84446*",
+      "codes": [
+        "84446"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tocopherol alpha (Vitamin E)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tocopherol alpha (Vitamin E)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tocopherol alpha (Vitamin E)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84590*",
+      "codes": [
+        "84590"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Vitamin A",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Vitamin A",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Vitamin A",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84591",
+      "codes": [
+        "84591"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Vitamin, not otherwise specified",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Vitamin, not otherwise specified",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Vitamin, not otherwise specified",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84597*",
+      "codes": [
+        "84597"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Vitamin K",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Vitamin K",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Vitamin K",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84630**",
+      "codes": [
+        "84630"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Zinc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Zinc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Zinc",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "*The payment criteria for 82180, 82379, 84207, 84252, 84425, 84446, 84590 and 84597 applies to all Medicare jurisdictions, except those states awarded to Novitas",
+      "codes": [
+        "82180",
+        "82379",
+        "84207",
+        "84252",
+        "84425",
+        "84446",
+        "84590",
+        "84597"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Zinc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Zinc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Zinc",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Solutions, Inc.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Zinc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Zinc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Zinc",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "**The payment criteria for 82495, 82525, 83785, 84255, and 84630 applies to all Medicare jurisdictions, except those states awarded to National Government",
+      "codes": [
+        "82495",
+        "82525",
+        "83785",
+        "84255",
+        "84630"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Zinc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Zinc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Zinc",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Services, Inc.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Zinc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Zinc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Zinc",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "****The payment criteria for 83735 applies to all Medicare jurisdictions, except those states awarded to Noridian Healthcare Solutions, LLC and Palmetto GBA.",
+      "codes": [
+        "83735"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "National Government",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "National Government",
+      "hierarchy_path": "Medicare Advantage Payment Policy > National Government",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Services, Inc.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Heavy Metal Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Heavy Metal Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Heavy Metal Testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L35074 82495 82525 83785 84255 84630",
+      "codes": [
+        "82495",
+        "82525",
+        "83785",
+        "84255",
+        "84630"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Serum Magnesium",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Serum Magnesium",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Serum Magnesium",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L36702 83735 Novitas Solutions, Inc.",
+      "codes": [
+        "83735"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Metabolic Function",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Metabolic Function",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Metabolic Function",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L34914 82180 82379 84207 84252 84425 84446 84590 84597",
+      "codes": [
+        "82180",
+        "82379",
+        "84207",
+        "84252",
+        "84425",
+        "84446",
+        "84590",
+        "84597"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Magnesium",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Magnesium",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Magnesium",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L39400 83735",
+      "codes": [
+        "83735"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "CDC. About Micronutrients. Updated December 22, 2023. https://www.cdc.gov/nutrition/php/micronutrients/index.html Cell Science Systems. Understanding Your Cellular Nutrition Assays. https://cellsciencesystems.com/pdfs/Understanding-Your-Alcat-",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Functional-Cellular-Assays.pdf",
+      "section": "References",
+      "subsection": "Functional-Cellular-Assays.pdf",
+      "hierarchy_path": "References > Functional-Cellular-Assays.pdf",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Coelho JM, Cansanção K, Perez RM, et al. Association between serum and dietary antioxidant micronutrients and advanced liver fibrosis in non-alcoholic fatty liver disease: an observational study. PeerJ. 2020;8:e9838. doi:10.7717/peerj.9838 Elmadfa I, Meyer AL. Developing Suitable Methods of Nutritional Status Assessment: A Continuous Challenge123. Adv Nutr. 2014;5(5):590S-8S. doi:10.3945/an.113.005330 Exatest. EXA Test Managing Heart Disease and Quality of Life full spectrum mineral analysis: Technical Process http://www.exatest.com/Technical%20Process.htm Fairfield K. Vitamin intake and disease prevention. Updated September 11, 2025. https://www.uptodate.com/contents/vitamin- intake-and-disease-prevention Frieden E. New perspectives on the essential trace elements. Journal of Chemical Education. 1985/11/01 1985;62(11):917. doi:10.1021/ed062p917 Frye DL. Micronutrient Optimization Storage Trial Using Customized Vitamin & Mineral Replacement Therapy Most 2010.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Translational Biomedicine. 2010;1(3)",
+      "section": "References",
+      "subsection": "Translational Biomedicine. 2010;1(3)",
+      "hierarchy_path": "References > Translational Biomedicine. 2010;1(3)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Genova Diagnostics. NutrEval® FMV. https://www.gdx.net/products/nutreval",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Translational Biomedicine. 2010;1(3)",
+      "section": "References",
+      "subsection": "Translational Biomedicine. 2010;1(3)",
+      "hierarchy_path": "References > Translational Biomedicine. 2010;1(3)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Gidden F, Shenkin A. Laboratory support of the clinical nutrition service. Clinical chemistry and laboratory medicine. Aug 2000;38(8):693-714. doi:10.1515/cclm.2000.100 Houston MC. The role of cellular micronutrient analysis, nutraceuticals, vitamins, antioxidants and minerals in the prevention and treatment of hypertension and cardiovascular disease. Therapeutic advances in cardiovascular disease. Jun 2010;4(3):165-83. doi:10.1177/1753944710368205 Life Sa. Micronutrients, Macro Impact. Sight and Life; 2012. https://sightandlife.org/resource-hub/other-publication/micronutrients- macro-impact-the-story-of-vitamins-and-a-hungry-world McCabe D, Lisy K, Lockwood C, Colbeck M. The impact of essential fatty acid, B vitamins, vitamin C, magnesium and zinc supplementation on stress levels in women: a systematic review. JBI Database System Rev Implement Rep. Feb 2017;15(2):402-",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Translational Biomedicine. 2010;1(3)",
+      "section": "References",
+      "subsection": "Translational Biomedicine. 2010;1(3)",
+      "hierarchy_path": "References > Translational Biomedicine. 2010;1(3)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "453. doi:10.11124/jbisrir-2016-002965",
+      "codes": [
+        "11124"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Translational Biomedicine. 2010;1(3)",
+      "section": "References",
+      "subsection": "Translational Biomedicine. 2010;1(3)",
+      "hierarchy_path": "References > Translational Biomedicine. 2010;1(3)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Pazirandeh S, Burns, David, Griffin, Ian. Overview of dietary trace elements. Updated February 6, 2025. https://www.uptodate.com/contents/overview-of-dietary-trace-elements Pearce EN, Lazarus JH, Moreno-Reyes R, Zimmermann MB. Consequences of iodine deficiency and excess in pregnant women: an overview of current knowns and unknowns. The American Journal of Clinical Nutrition. 2016;104(suppl_3):918S-923S. doi:10.3945/ajcn.115.110429 Preiser JC, van Zanten AR, Berger MM, et al. Metabolic and nutritional support of critically ill patients: consensus and controversies. Critical care (London, England). Jan 29 2015;19:35. doi:10.1186/s13054-015-0737-8 Raghavan R, Ashour FS, Bailey R. A Review of Cutoffs for Nutritional Biomarkers12. Adv Nutr. 2016;7(1):112-20. doi:10.3945/an.115.009951 Shive W, Pinkerton F, Humphreys J, Johnson MM, Hamilton WG, Matthews KS. Development of a chemically defined serum- and protein-free medium for growth of human peripheral lymphocytes. Proceedings of the National Academy of Sciences of the United States of America. Jan 1986;83(1):9-13. doi:10.1073/pnas.83.1.9 SpectraCell. Clinical Research Library. https://spectracell.sitewrench.com/research-library SpectraCell. Sample Laboratory Report. https://assets.speakcdn.com/assets/2606/300_micronutrient_sample_report_8_19.pdf Steele I, Allright D, Deutsch R. A randomized observational analysis examining the correlation between patients' food sensitivities, micronutrient deficiencies, oxidative stress response and immune redox status. Functional Foods in Health and Disease. 03/30 2020;10:143-154. doi:10.31989/ffhd.v10i3.695 Vibrant. Micronutrient: Your guide to customized optimal nutrition. https://labtestshop.com/wp-content/uploads/2020/07/Vibrant-",
+      "codes": [
+        "31989"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Micronutrient-Sample-Report.pdf",
+      "section": "References",
+      "subsection": "Micronutrient-Sample-Report.pdf",
+      "hierarchy_path": "References > Micronutrient-Sample-Report.pdf",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "WHO. Trace elements in human nutrition. Report of a WHO expert committee. World Health Organ Tech Rep Ser. 1973;532:1-65. Yamada H, Yamada K, Waki M, Umegaki K. Lymphocyte and plasma vitamin C levels in type 2 diabetic patients with and without diabetes complications. Diabetes Care. Oct 2004;27(10):2491-2. doi:10.2337/diacare.27.10.2491 Ye AL, Sudek EW, Magdaleno D, Roldan CJ. Diagnostic and Therapeutic Value of Intracellular Biomarker Testing in Chronic Pain. Pain Management. 2024/01/01 2024;14(1):21-27. doi:10.2217/pmt-2023-0080",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82128: 82136 | Procedure code:  | Amino acids; multiple, qualitative, each specimen: Amino acids, 2 to 5 amino acids, quantitative, each specimen | Code description: ",
+      "codes": [
+        "82128",
+        "82136"
+      ],
+      "table_data": {
+        "columns": [
+          "82128",
+          "Procedure code",
+          "Amino acids; multiple, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82128": "82136",
+          "Procedure code": "",
+          "Amino acids; multiple, qualitative, each specimen": "Amino acids, 2 to 5 amino acids, quantitative, each specimen",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82128: 82180* | Procedure code:  | Amino acids; multiple, qualitative, each specimen: Ascorbic acid (Vitamin C), blood | Code description: ",
+      "codes": [
+        "82128",
+        "82180"
+      ],
+      "table_data": {
+        "columns": [
+          "82128",
+          "Procedure code",
+          "Amino acids; multiple, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82128": "82180*",
+          "Procedure code": "",
+          "Amino acids; multiple, qualitative, each specimen": "Ascorbic acid (Vitamin C), blood",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82128: 82310 | Procedure code:  | Amino acids; multiple, qualitative, each specimen: Calcium; total | Code description: ",
+      "codes": [
+        "82128",
+        "82310"
+      ],
+      "table_data": {
+        "columns": [
+          "82128",
+          "Procedure code",
+          "Amino acids; multiple, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82128": "82310",
+          "Procedure code": "",
+          "Amino acids; multiple, qualitative, each specimen": "Calcium; total",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82128: 82379* | Procedure code:  | Amino acids; multiple, qualitative, each specimen: Carnitine (total and free), quantitative each specimen | Code description: ",
+      "codes": [
+        "82128",
+        "82379"
+      ],
+      "table_data": {
+        "columns": [
+          "82128",
+          "Procedure code",
+          "Amino acids; multiple, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82128": "82379*",
+          "Procedure code": "",
+          "Amino acids; multiple, qualitative, each specimen": "Carnitine (total and free), quantitative each specimen",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82128: 82495** | Procedure code:  | Amino acids; multiple, qualitative, each specimen: Chromium | Code description: ",
+      "codes": [
+        "82128",
+        "82495"
+      ],
+      "table_data": {
+        "columns": [
+          "82128",
+          "Procedure code",
+          "Amino acids; multiple, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82128": "82495**",
+          "Procedure code": "",
+          "Amino acids; multiple, qualitative, each specimen": "Chromium",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82128: 82525** | Procedure code:  | Amino acids; multiple, qualitative, each specimen: Copper | Code description: ",
+      "codes": [
+        "82128",
+        "82525"
+      ],
+      "table_data": {
+        "columns": [
+          "82128",
+          "Procedure code",
+          "Amino acids; multiple, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82128": "82525**",
+          "Procedure code": "",
+          "Amino acids; multiple, qualitative, each specimen": "Copper",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82128: 82978 | Procedure code:  | Amino acids; multiple, qualitative, each specimen: Glutathione | Code description: ",
+      "codes": [
+        "82128",
+        "82978"
+      ],
+      "table_data": {
+        "columns": [
+          "82128",
+          "Procedure code",
+          "Amino acids; multiple, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82128": "82978",
+          "Procedure code": "",
+          "Amino acids; multiple, qualitative, each specimen": "Glutathione",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82128: 83735**** | Procedure code:  | Amino acids; multiple, qualitative, each specimen: Magnesium | Code description: ",
+      "codes": [
+        "82128",
+        "83735"
+      ],
+      "table_data": {
+        "columns": [
+          "82128",
+          "Procedure code",
+          "Amino acids; multiple, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82128": "83735****",
+          "Procedure code": "",
+          "Amino acids; multiple, qualitative, each specimen": "Magnesium",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82128: 83785** | Procedure code:  | Amino acids; multiple, qualitative, each specimen: Manganese | Code description: ",
+      "codes": [
+        "82128",
+        "83785"
+      ],
+      "table_data": {
+        "columns": [
+          "82128",
+          "Procedure code",
+          "Amino acids; multiple, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82128": "83785**",
+          "Procedure code": "",
+          "Amino acids; multiple, qualitative, each specimen": "Manganese",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82128: 84207* | Procedure code:  | Amino acids; multiple, qualitative, each specimen: Pyridoxal phosphate (Vitamin B-6) | Code description: ",
+      "codes": [
+        "82128",
+        "84207"
+      ],
+      "table_data": {
+        "columns": [
+          "82128",
+          "Procedure code",
+          "Amino acids; multiple, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82128": "84207*",
+          "Procedure code": "",
+          "Amino acids; multiple, qualitative, each specimen": "Pyridoxal phosphate (Vitamin B-6)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82128: 84252* | Procedure code:  | Amino acids; multiple, qualitative, each specimen: Riboflavin (Vitamin B-2) | Code description: ",
+      "codes": [
+        "82128",
+        "84252"
+      ],
+      "table_data": {
+        "columns": [
+          "82128",
+          "Procedure code",
+          "Amino acids; multiple, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82128": "84252*",
+          "Procedure code": "",
+          "Amino acids; multiple, qualitative, each specimen": "Riboflavin (Vitamin B-2)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82128: 84255** | Procedure code:  | Amino acids; multiple, qualitative, each specimen: Selenium | Code description: ",
+      "codes": [
+        "82128",
+        "84255"
+      ],
+      "table_data": {
+        "columns": [
+          "82128",
+          "Procedure code",
+          "Amino acids; multiple, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82128": "84255**",
+          "Procedure code": "",
+          "Amino acids; multiple, qualitative, each specimen": "Selenium",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82128: 84446* | Procedure code:  | Amino acids; multiple, qualitative, each specimen: Tocopherol alpha (Vitamin E) | Code description: ",
+      "codes": [
+        "82128",
+        "84446"
+      ],
+      "table_data": {
+        "columns": [
+          "82128",
+          "Procedure code",
+          "Amino acids; multiple, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82128": "84446*",
+          "Procedure code": "",
+          "Amino acids; multiple, qualitative, each specimen": "Tocopherol alpha (Vitamin E)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82128: 84590* | Procedure code:  | Amino acids; multiple, qualitative, each specimen: Vitamin A | Code description: ",
+      "codes": [
+        "82128",
+        "84590"
+      ],
+      "table_data": {
+        "columns": [
+          "82128",
+          "Procedure code",
+          "Amino acids; multiple, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82128": "84590*",
+          "Procedure code": "",
+          "Amino acids; multiple, qualitative, each specimen": "Vitamin A",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82128: 84591 | Procedure code:  | Amino acids; multiple, qualitative, each specimen: Vitamin, not otherwise specified | Code description: ",
+      "codes": [
+        "82128",
+        "84591"
+      ],
+      "table_data": {
+        "columns": [
+          "82128",
+          "Procedure code",
+          "Amino acids; multiple, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82128": "84591",
+          "Procedure code": "",
+          "Amino acids; multiple, qualitative, each specimen": "Vitamin, not otherwise specified",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82128: 84597* | Procedure code:  | Amino acids; multiple, qualitative, each specimen: Vitamin K | Code description: ",
+      "codes": [
+        "82128",
+        "84597"
+      ],
+      "table_data": {
+        "columns": [
+          "82128",
+          "Procedure code",
+          "Amino acids; multiple, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82128": "84597*",
+          "Procedure code": "",
+          "Amino acids; multiple, qualitative, each specimen": "Vitamin K",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82128: 84630** | Procedure code:  | Amino acids; multiple, qualitative, each specimen: Zinc | Code description: ",
+      "codes": [
+        "82128",
+        "84630"
+      ],
+      "table_data": {
+        "columns": [
+          "82128",
+          "Procedure code",
+          "Amino acids; multiple, qualitative, each specimen",
+          "Code description"
+        ],
+        "row": {
+          "82128": "84630**",
+          "Procedure code": "",
+          "Amino acids; multiple, qualitative, each specimen": "Zinc",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] National Government\nServices, Inc.: Noridian Healthcare\nSolutions, LLC | Contractor name:  | Heavy Metal Testing: Serum Magnesium | Policy title:  | L35074: L36702 | Policy number:  | 82495\n82525\n83785\n84255\n84630: 83735 | Procedure code: ",
+      "codes": [
+        "82495",
+        "82525",
+        "83785",
+        "84255",
+        "84630",
+        "83735"
+      ],
+      "table_data": {
+        "columns": [
+          "National Government\nServices, Inc.",
+          "Contractor name",
+          "Heavy Metal Testing",
+          "Policy title",
+          "L35074",
+          "Policy number",
+          "82495\n82525\n83785\n84255\n84630",
+          "Procedure code"
+        ],
+        "row": {
+          "National Government\nServices, Inc.": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "Heavy Metal Testing": "Serum Magnesium",
+          "Policy title": "",
+          "L35074": "L36702",
+          "Policy number": "",
+          "82495\n82525\n83785\n84255\n84630": "83735",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] National Government\nServices, Inc.: Novitas Solutions, Inc. | Contractor name:  | Heavy Metal Testing: Assays for Vitamins and\nMetabolic Function | Policy title:  | L35074: L34914 | Policy number:  | 82495\n82525\n83785\n84255\n84630: 82180\n82379\n84207\n84252\n84425\n84446\n84590\n84597 | Procedure code: ",
+      "codes": [
+        "82495",
+        "82525",
+        "83785",
+        "84255",
+        "84630",
+        "82180",
+        "82379",
+        "84207",
+        "84252",
+        "84425",
+        "84446",
+        "84590",
+        "84597"
+      ],
+      "table_data": {
+        "columns": [
+          "National Government\nServices, Inc.",
+          "Contractor name",
+          "Heavy Metal Testing",
+          "Policy title",
+          "L35074",
+          "Policy number",
+          "82495\n82525\n83785\n84255\n84630",
+          "Procedure code"
+        ],
+        "row": {
+          "National Government\nServices, Inc.": "Novitas Solutions, Inc.",
+          "Contractor name": "",
+          "Heavy Metal Testing": "Assays for Vitamins and\nMetabolic Function",
+          "Policy title": "",
+          "L35074": "L34914",
+          "Policy number": "",
+          "82495\n82525\n83785\n84255\n84630": "82180\n82379\n84207\n84252\n84425\n84446\n84590\n84597",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] National Government\nServices, Inc.: Palmetto GBA | Contractor name:  | Heavy Metal Testing: Magnesium | Policy title:  | L35074: L39400 | Policy number:  | 82495\n82525\n83785\n84255\n84630: 83735 | Procedure code: ",
+      "codes": [
+        "82495",
+        "82525",
+        "83785",
+        "84255",
+        "84630",
+        "83735"
+      ],
+      "table_data": {
+        "columns": [
+          "National Government\nServices, Inc.",
+          "Contractor name",
+          "Heavy Metal Testing",
+          "Policy title",
+          "L35074",
+          "Policy number",
+          "82495\n82525\n83785\n84255\n84630",
+          "Procedure code"
+        ],
+        "row": {
+          "National Government\nServices, Inc.": "Palmetto GBA",
+          "Contractor name": "",
+          "Heavy Metal Testing": "Magnesium",
+          "Policy title": "",
+          "L35074": "L39400",
+          "Policy number": "",
+          "82495\n82525\n83785\n84255\n84630": "83735",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nFor diagnosing a nutritional disorder or as part of a general wellness exam, testing for any of the following IS NOT REIMBURSABLE:\n\nVitamins (CPT code 82180*, CPT code 84207*, CPT code 84252*, CPT code 84425*, CPT code 84446*, CPT code 84590*,\n\n82128\n\n82136\n\n82180*\n\n82310\n\n82379*\n\n82495**\n\n82525**\n\n82978\n\n83735****\n\n83785**\n\n84207*\n\n84252*\n\n84255**\n\n84425*\n\n84446*\n\n84590*\n\n84591\n\n84597*\n\n84630**\n\n*The payment criteria for 82180, 82379, 84207, 84252, 84425, 84446, 84590 and 84597 applies to all Medicare jurisdictions, except those states awarded to Novitas\n\nSolutions, Inc.\n\n**The payment criteria for 82495, 82525, 83785, 84255, and 84630 applies to all Medicare jurisdictions, except those states awarded to National Government\n\nServices, Inc.\n\n****The payment criteria for 83735 applies to all Medicare jurisdictions, except those states awarded to Noridian Healthcare Solutions, LLC and Palmetto GBA.\n\nServices, Inc.\n\nL35074 82495 82525 83785 84255 84630\n\nL36702 83735 Novitas Solutions, Inc.\n\nL34914 82180 82379 84207 84252 84425 84446 84590 84597\n\nL39400 83735"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

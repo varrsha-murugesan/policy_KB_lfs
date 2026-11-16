@@ -38,8 +38,8 @@ NON_SUBSECTION_PARENT_TITLES = {
 import os
 import re
 import sys
-import json
 import csv
+import json
 import unicodedata
 from collections import Counter
 import pymupdf
@@ -47,34 +47,375 @@ import requests
 from tqdm import tqdm
 
 # ============================================================
+# CPT MAPPING ELIGIBILITY GATE
+# ------------------------------------------------------------
+# The KB mapping (cpt_mapping_bridge) must run for a policy ONLY when
+#   1. it has no explicit CPT/HCPCS codes (own text, tables, linked PDFs),
+#   2. it genuinely discusses procedures / services that carry codes, and
+#   3. it is not an administrative / operational policy.
+# The decision is taken here, per policy, BEFORE the bridge is called;
+# the bridge only ever receives eligible policies (as deep copies) and
+# its result is merged back without touching existing extracted data.
+# ============================================================
+
+import copy as _copy
+
+KB_MARK = "KB PIPELINE MARKED"   # written on every policy whose codes came from the KB pipeline
+import inspect as _inspect
+import traceback as _traceback
+
+CPT_CODE_RANGES = (
+    (100, 1999), (10004, 69999), (70010, 79999), (80047, 89999), (90281, 99607),
+)
+_ALNUM_CODE_RE = re.compile(r"(?<![A-Za-z0-9])(?:[A-V]\d{4}|\d{4}[FT])(?![A-Za-z0-9])")
+_NUM_CODE_RE = re.compile(r"(?<![\w$.,/-])(\d{5})(?![\w]|-\d{4}|\.\d)")
+_CODE_CONTEXT_RE = re.compile(r"\b(?:cpt|hcpcs|codes?|procedures?|billed|reported|reporting)\b", re.I)
+_STATE_BEFORE_RE = re.compile(r"\b[A-Z]{2}\s*$")
+
+PROCEDURE_TERMS_RE = re.compile(
+    r"\b(surg(?:ery|ical)|procedures?|biops(?:y|ies)|endoscop\w*|colonoscop\w*|injections?|infusions?|"
+    r"imaging|radiolog\w*|x-rays?|mri|ct scan|ultrasound|anesthesia|laborator(?:y|ies)|assays?|"
+    r"screening|therap(?:y|ies|eutic)|dialysis|transplant\w*|implant\w*|catheter\w*|diagnostic|"
+    r"chemotherapy|radiation|vaccin\w*|immuniz\w*|rehabilitation|evaluation and management|"
+    r"testing|excision|repair|reconstruct\w*|ablation|stent\w*|angiograph\w*|echocardiogra\w*|"
+    r"electrocardiogra\w*|specimen|patholog\w*|supplies|equipment|device|visit|examination)\b", re.I)
+ADMIN_TERMS_RE = re.compile(
+    r"\b(disputes?|appeals?|grievances?|enrol+ment|credentialing|timely filing|claim submission|"
+    r"clean claims?|coordination of benefits|third[- ]party liability|cost[- ]shar\w*|assignment|"
+    r"attribution|notification|remittance|overpayments?|recoup\w*|audits?|network participation|"
+    r"provider directory|eligibility|member id|nomnc|readmissions?)\b", re.I)
+ADMIN_TITLE_RE = re.compile(
+    r"dispute|appeal|grievance|enrol+ment|credential|timely filing|claims? (?:submission|reporting)|"
+    r"reporting standards|coordination of benefits|cost[- ]shar|assignment|attribution|nomnc|"
+    r"readmission|directory|eligibility|overpayment|notification|disclaimer", re.I)
+MIN_PROCEDURE_TERMS = 4          # distinct procedural terms needed to call a policy procedural
+MIN_NUMERIC_CODES = 3            # bare 5-digit numbers need this many (or a code keyword nearby)
+
+
+# ------------------------------------------------------------
+# LINE OF BUSINESS FILTER: only Medicare Advantage policies are extracted.
+# Commercial, Medicaid and any other / unknown LOB are skipped.
+# ------------------------------------------------------------
+TARGET_LOB = "medicare advantage"
+ALLOW_MIXED_LOB = True     # "Medicare Advantage and Commercial Products" still applies to MA members;
+                           # set False to keep strictly MA-only policies
+_OTHER_LOB_RE = re.compile(r"commercial|medicaid|marketplace|exchange|individual and family|dual", re.I)
+
+
+def is_target_lob(lob):
+    """True only for Medicare Advantage policies; None / unknown / other LOBs are skipped."""
+    if not isinstance(lob, str) or TARGET_LOB not in lob.lower():
+        return False
+    if not ALLOW_MIXED_LOB and _OTHER_LOB_RE.search(lob.lower().replace(TARGET_LOB, "")):
+        return False
+    return True
+
+
+def _flatten_strings(obj, out=None, limit=400000):
+    """Collect every text value of a nested JSON-like object (urls excluded)."""
+    if out is None:
+        out = []
+    if sum(len(x) for x in out) > limit:
+        return out
+    if isinstance(obj, str):
+        out.append(obj)
+    elif isinstance(obj, dict):
+        for k, v in obj.items():
+            if k in ("url", "bbox", "raw_grid"):
+                continue
+            _flatten_strings(v, out, limit)
+    elif isinstance(obj, (list, tuple)):
+        for v in obj:
+            _flatten_strings(v, out, limit)
+    return out
+
+
+def _in_cpt_range(token):
+    n = int(token)
+    return any(lo <= n <= hi for lo, hi in CPT_CODE_RANGES)
+
+
+def strict_explicit_codes(text, listed_codes=None):
+    """Real CPT / HCPCS codes only.
+    - HCPCS (A1234) and CPT category II/III (1234F / 1234T) always count;
+    - bare 5-digit numbers must fall in a CPT range, must not look like a zip code
+      and need a code keyword nearby, or at least MIN_NUMERIC_CODES distinct values."""
+    text = text or ""
+    found = set(_ALNUM_CODE_RE.findall(text))
+    numeric, with_context = set(), set()
+    for m in _NUM_CODE_RE.finditer(text):
+        tok = m.group(1)
+        if not _in_cpt_range(tok) or _STATE_BEFORE_RE.search(text[max(0, m.start() - 4):m.start()]):
+            continue
+        numeric.add(tok)
+        window = text[max(0, m.start() - 80): m.end() + 80]
+        if _CODE_CONTEXT_RE.search(window):
+            with_context.add(tok)
+    if len(numeric) >= MIN_NUMERIC_CODES:
+        found |= numeric
+    else:
+        found |= with_context
+    # codes the extractor listed (UHC / Humana CPT_CODES_USED): same validation, no blind trust
+    listed = [str(c).strip().upper() for c in (listed_codes or []) if c]
+    alnum = {c for c in listed if _ALNUM_CODE_RE.fullmatch(c)}
+    nums = {c for c in listed if re.fullmatch(r"\d{5}", c) and _in_cpt_range(c)}
+    found |= alnum
+    if len(nums) >= MIN_NUMERIC_CODES:
+        found |= nums
+    return sorted(found)
+
+
+def decide_cpt_mapping(titles, text, listed_codes=None, existing_mapping=False, linked_failed=None):
+    """Return the per-policy mapping decision. eligible is True only for route MAP_NEEDED."""
+    titles = [t for t in (titles or []) if isinstance(t, str) and t.strip()]
+    text = text if isinstance(text, str) else ""
+    explicit = strict_explicit_codes(text, listed_codes)
+    proc_terms = sorted({m.lower() for m in PROCEDURE_TERMS_RE.findall(text)})
+    admin_terms = sorted({m.lower() for m in ADMIN_TERMS_RE.findall(text)})
+    title_admin = any(ADMIN_TITLE_RE.search(t) for t in titles)
+
+    if explicit:
+        route, reason = "HAS_CODES", f"{len(explicit)} explicit CPT/HCPCS code(s) already in the policy"
+    elif linked_failed:
+        route, reason = "LINKED_PDF_UNAVAILABLE", f"{len(linked_failed)} linked PDF(s) could not be read; cannot rule out codes"
+    elif existing_mapping:
+        route, reason = "ALREADY_MAPPED", "mapped codes from an earlier run are already stored"
+    elif title_admin or len(admin_terms) >= len(proc_terms) + 2:
+        route, reason = "ADMIN", "administrative / operational policy (title or content)"
+    elif len(proc_terms) < MIN_PROCEDURE_TERMS:
+        route, reason = "NO_PROCEDURES", f"only {len(proc_terms)} procedural term(s); policy does not discuss procedures"
+    else:
+        route, reason = "MAP_NEEDED", f"no explicit codes; {len(proc_terms)} procedural terms"
+    return {
+        "eligible": route == "MAP_NEEDED", "route": route, "reason": reason,
+        "explicit_code_count": len(explicit),
+        "procedure_terms": proc_terms[:12], "admin_terms": admin_terms[:8],
+    }
+
+
+def _policy_key(p):
+    return (str(p.get("policy_number") or ""), str(p.get("policy_title") or ""), str(p.get("effective_date") or ""))
+
+
+def _find_kb_root():
+    """Folder holding scripts/map_policy_cpt_codes.py ('KB creation v1')."""
+    here = os.path.dirname(os.path.abspath(__file__))
+    root = os.path.dirname(here)
+    for cand in (os.path.join(root, "KB creation v1"), os.path.join(here, "KB creation v1"),
+                 os.path.join(os.path.dirname(root), "KB creation v1"), root):
+        if os.path.isfile(os.path.join(cand, "scripts", "map_policy_cpt_codes.py")):
+            return cand
+    return None
+
+
+def _kb_cli_integrate(policies, payer_profile=None, log=None):
+    """Adapter for the KB pipeline's map_policy_cpt_codes.py (a command-line script).
+    The eligible policies are written to KB/data/input/, the script is run on that file, and the
+    resulting rows of policy_cpt_mappings are read back from the KB DuckDB and attached to each policy
+    as mapped_cpt_codes."""
+    import subprocess as _sp
+    kb = _find_kb_root()
+    if not kb:
+        raise RuntimeError("KB creation v1/scripts/map_policy_cpt_codes.py not found")
+    in_dir = os.path.join(kb, "data", "input")
+    os.makedirs(in_dir, exist_ok=True)
+    in_file = os.path.join(in_dir, f"{payer_profile}_auto_mapping_input.json")
+    with open(in_file, "w", encoding="utf-8") as fh:
+        json.dump(policies, fh, indent=2, ensure_ascii=False)
+    cmd = [sys.executable, os.path.join(kb, "scripts", "map_policy_cpt_codes.py"),
+           "--input", in_file, "--payer-profile", str(payer_profile)]
+    proc = _sp.run(cmd, cwd=kb, capture_output=True, text=True)
+    if proc.returncode != 0:
+        raise RuntimeError(f"map_policy_cpt_codes.py exited {proc.returncode}: {(proc.stderr or proc.stdout)[-1500:]}")
+    import duckdb
+    db_path = os.path.join(kb, "database", "payer_policy_kb.duckdb")
+    con = duckdb.connect(db_path, read_only=True)
+    try:
+        rows = con.execute(
+            "SELECT p.policy_title, m.code_system, m.code, m.confidence_tier, m.score "
+            "FROM policy_cpt_mappings m JOIN policies p ON p.policy_uid = m.policy_uid").fetchall()
+    finally:
+        con.close()
+    by_title = {}
+    for title, system, code, tier, score in rows:
+        by_title.setdefault(str(title).strip().lower(), []).append(
+            {"code": code, "code_system": system or "CPT/HCPCS", "description": "",
+             "confidence_tier": tier, "score": score,
+             "mapping_origin": "inferred", "best_method": "kb_pipeline"})
+    mapped = 0
+    for p in policies:
+        hits = by_title.get(str(p.get("policy_title") or "").strip().lower(), [])
+        if hits:
+            p["mapped_cpt_codes"] = hits
+            mapped += 1
+    return policies, mapped
+
+
+def _load_mapping_function():
+    """Locate the pipeline's CPT mapping entry point.
+    Looks in cpt_mapping_bridge.py and map_policy_cpt_codes.py, searching the project root
+    and 'KB creation v1/scripts' (the folder this script's client folder sits in)."""
+    import importlib
+    here = os.path.dirname(os.path.abspath(__file__))
+    root = os.path.dirname(here)
+    for extra in (root, os.path.join(root, "KB creation v1", "scripts"),
+                  os.path.join(root, "KB creation v1"), os.path.dirname(root)):
+        if os.path.isdir(extra) and extra not in sys.path:
+            sys.path.insert(0, extra)
+    errors = []
+    for modname in ("cpt_mapping_bridge", "map_policy_cpt_codes"):
+        try:
+            mod = importlib.import_module(modname)
+        except Exception as exc:
+            errors.append(f"{modname}: {type(exc).__name__}: {exc}")
+            continue
+        fn = getattr(mod, "integrate_cpt_mapping", None)
+        if callable(fn):
+            return fn
+        errors.append(f"{modname}: no integrate_cpt_mapping function")
+    if _find_kb_root():
+        return _kb_cli_integrate
+    raise ImportError("; ".join(errors))
+
+
+def apply_cpt_mapping(policies, payer_profile, log=print):
+    """Run the KB bridge ONLY on policies whose p["mapping_eligibility"]["eligible"] is True.
+    Results are merged back into the original policy objects without overwriting anything:
+    explicit codes and all other fields stay as extracted, mapped codes go to mapped_cpt_codes."""
+    def say(msg):
+        try:
+            (log.info if hasattr(log, "info") else log)(msg)
+        except Exception:
+            print(msg)
+
+    todo = [i for i, p in enumerate(policies)
+            if isinstance(p, dict) and (p.get("mapping_eligibility") or {}).get("eligible")]
+    for p in policies:
+        if isinstance(p, dict):
+            route = (p.get("mapping_eligibility") or {}).get("route", "UNCHECKED")
+            p.setdefault("mapping_status", f"skipped:{route}" if route != "MAP_NEEDED" else "pending")
+    say(f"CPT mapping gate [{payer_profile}]: {len(todo)} of {len(policies)} policies eligible")
+    if not todo:
+        return policies, 0
+
+    try:
+        integrate_cpt_mapping = _load_mapping_function()
+    except Exception as exc:
+        say(f"CPT mapping bridge unavailable ({type(exc).__name__}: {exc}); eligible policies left unmapped")
+        for i in todo:
+            policies[i]["mapping_status"] = "bridge_unavailable"
+        return policies, 0
+
+    batch = _copy.deepcopy([policies[i] for i in todo])      # the bridge can never half-edit the originals
+    kwargs = {"payer_profile": payer_profile}
+    try:
+        if "log" in _inspect.signature(integrate_cpt_mapping).parameters and hasattr(log, "info"):
+            kwargs["log"] = log
+        returned, _ = integrate_cpt_mapping(batch, **kwargs)
+    except Exception as exc:
+        say(f"CPT mapping failed for {payer_profile}: {type(exc).__name__}: {exc}\n{_traceback.format_exc()}")
+        for i in todo:
+            policies[i]["mapping_status"] = "mapping_error"
+        return policies, 0
+
+    by_key = {_policy_key(r): r for r in (returned or []) if isinstance(r, dict)}
+    mapped_count = 0
+    for pos, i in enumerate(todo):
+        orig = policies[i]
+        new = by_key.get(_policy_key(orig)) or (returned[pos] if isinstance(returned, list) and len(returned) == len(todo)
+                                                and isinstance(returned[pos], dict) else None)
+        if new is None:
+            orig["mapping_status"] = "no_result"
+            continue
+        have = {str(m.get("code")) for m in (orig.get("mapped_cpt_codes") or []) if isinstance(m, dict)}
+        add = []
+        for m in (new.get("mapped_cpt_codes") or []):
+            if isinstance(m, dict) and m.get("code") and str(m["code"]) not in have:
+                have.add(str(m["code"]))
+                add.append(m)
+        explicit_before = set(orig.get("CPT_CODES_USED") or [])
+        for code in (new.get("CPT_CODES_USED") or []):          # a bridge that wrote into CPT_CODES_USED
+            if code not in explicit_before and str(code) not in have:
+                have.add(str(code))
+                add.append({"code": code, "code_system": "CPT/HCPCS", "description": "",
+                            "mapping_origin": "inferred", "best_method": "bridge_cpt_codes_used"})
+        if add:
+            for m in add:
+                m["kb_marker"] = KB_MARK
+            orig["mapped_cpt_codes"] = list(orig.get("mapped_cpt_codes") or []) + add
+            orig["mapping_source"] = KB_MARK
+            orig["kb_pipeline_marked"] = True
+            orig["mapping_status"] = "mapped"
+            mapped_count += 1
+        else:
+            orig["mapping_status"] = "none_found"
+        for k, v in new.items():                                 # keep any extra bridge keys, never overwrite
+            if k not in orig and k not in ("CPT_CODES_USED", "mapped_cpt_codes"):
+                orig[k] = v
+    say(f"CPT mapping: {mapped_count} of {len(todo)} eligible policies received mapped codes")
+    return policies, mapped_count
+
+
+# UHC: linked-PDF download failures are tracked so a policy whose linked codes
+# could not be read is never treated as "has no codes".
+LINKED_PDF_FAILED_URIS = []
+
+
+def _uhc_prepare_mapping(rules, previous_path):
+    """Annotate every UHC policy with its mapping decision (reusing earlier mapping results)."""
+    prior = {}
+    try:
+        if os.path.exists(previous_path):
+            with open(previous_path, "r", encoding="utf-8") as fh:
+                for old in json.load(fh):
+                    if isinstance(old, dict) and old.get("mapping_status") == "mapped":
+                        prior[_policy_key(old)] = old
+    except Exception as exc:
+        print(f"Could not read previous mapping results ({exc}); mapping will be recomputed")
+    for p in rules:
+        old = prior.get(_policy_key(p))
+        if old:
+            for k in ("mapped_cpt_codes", "mapping_source", "mapping_status", "kb_pipeline_marked"):
+                if k in old:
+                    p[k] = old[k]
+        parts = _flatten_strings(p.get("reimbursement_guidelines")) + _flatten_strings(p.get("Question_Answer_Rules")) \
+            + _flatten_strings(p.get("resources")) + _flatten_strings(p.get("linked_pdf_contents"))
+        p["mapping_eligibility"] = decide_cpt_mapping(
+            [p.get("policy_title")], " ".join(parts), p.get("CPT_CODES_USED"),
+            existing_mapping=bool(old), linked_failed=p.get("linked_pdf_failures"))
+        p.pop("linked_pdf_failures", None)
+        if old:
+            p["mapping_status"] = "mapped"
+    return rules
+
+# ============================================================
 # CONFIGURATION
 # ============================================================
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 # Input structure:
-#   medicare_advantage_plans/
-#       Medical_and_Drug/
+#   Medicare_advantage/
+#       medical and drug policy/
 #       Reimbursement/
-#   commercial_plans/
-#       Medical_and_Drug/
+#   Commercial/
+#       medical and drug policy/
 #       Reimbursement/
 #
 # All extracted JSON files are written into ONE output folder.
 MEDICARE_ADVANTAGE_DIR = os.path.join(
-    SCRIPT_DIR, "medicare_advantage_plans/Reimbursement"
+    SCRIPT_DIR, "Medicare_advantage", "Reimbursement policy"
 )
-COMMERCIAL_DIR = os.path.join(SCRIPT_DIR, "commercial_plans/Reimbursement")
+COMMERCIAL_DIR = os.path.join(SCRIPT_DIR, "Commercial", "Reimbursement policy")
 
+# Commercial plans are intentionally not scanned: only Medicare Advantage is extracted.
 INPUT_DIRS = [
     MEDICARE_ADVANTAGE_DIR,
-    COMMERCIAL_DIR,
 ]
 
 TOTAL_NO_OF_FILES = 242
 
-OUTPUT_DIR = os.path.join(SCRIPT_DIR, "extracted_contents_reimbursement")
-OUTPUT_RULES_FILE = os.path.join(SCRIPT_DIR, "extraction_rules.json")
-OUTPUT_TITLES_CSV = os.path.join(SCRIPT_DIR, "policy_titles.csv")
+OUTPUT_DIR = os.path.join(SCRIPT_DIR, "extracted_contents_json")
+OUTPUT_RULES_FILE = os.path.join(SCRIPT_DIR, "extraction_rules_uhc.json")
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CSV_PATH = os.path.join(BASE_DIR, "policy_title_uhc.csv")
@@ -2935,6 +3276,7 @@ def extract_linked_pdf_contents(doc):
                 response = requests.get(uri, timeout=10)
 
                 if response.status_code != 200:
+                    LINKED_PDF_FAILED_URIS.append(uri)
                     continue
 
                 content_type = response.headers.get("Content-Type", "").lower()
@@ -3055,6 +3397,7 @@ def extract_linked_pdf_contents(doc):
             except Exception as exc:
 
                 print(f"Could not process linked PDF: {uri}")
+                LINKED_PDF_FAILED_URIS.append(uri)
 
                 print(f"Reason: {exc}")
 
@@ -3099,7 +3442,9 @@ def process_pdf(pdf_path):
                 if mod_upper not in modifiers_used_here:
                     modifiers_used_here.append(mod_upper)
 
+    del LINKED_PDF_FAILED_URIS[:]
     linked_pdf_contents = extract_linked_pdf_contents(doc)
+    linked_pdf_failures = list(LINKED_PDF_FAILED_URIS)
 
     # 2. Metadata.
     base_name = os.path.splitext(os.path.basename(pdf_path))[0]
@@ -3266,6 +3611,7 @@ def process_pdf(pdf_path):
     export_dict["ICD_CODES_USED"] = icd_codes_used
     export_dict["modifiers_used_here"] = modifiers_used_here
     export_dict["linked_pdf_contents"] = linked_pdf_contents
+    export_dict["linked_pdf_failures"] = linked_pdf_failures
 
     json_path = write_json_export(export_dict, pdf_path)
 
@@ -3284,13 +3630,13 @@ def find_pdf_files(input_dirs):
     Recursively find PDFs under both plan directories.
 
     Expected structure:
-        medicare_advantage_plans/
-            Medical_and_Drug/*.pdf
-            Reimbursement/*.pdf
+        Medicare_advantage/
+            medical and drug policy/*.pdf
+            Reimbursement policy/*.pdf
 
-        commercial_plans/
-            Medical_and_Drug/*.pdf
-            Reimbursement/*.pdf
+        Commercial/
+            medical and drug policy/*.pdf
+            Reimbursement policy/*.pdf
 
     All PDFs are returned as one flat list. Their original paths are
     retained so Line_of_Business can be determined from the directory.
@@ -3797,6 +4143,9 @@ def generate_extracted_rules(
         ) as f:
             data = json.load(f)
 
+        if not is_target_lob(data.get("Line_of_Business")):
+            continue          # stale commercial / other-LOB JSON: not a Medicare Advantage policy
+
         dates = data.get(
             "policy_dates",
             {},
@@ -4055,9 +4404,23 @@ def generate_extracted_rules(
             "Question_Answer_Rules": (rule_add or None),
             "linked_pdf_contents": (linked_pdf_contents or None),
             "resources": resources_content,
+            "linked_pdf_failures": (data.get("linked_pdf_failures") or None),
         }
 
         extracted_rules.append(policy_rule)
+
+    # ------------------------------------------------------------------------
+    # Conditional CPT mapping: only policies with no explicit codes that discuss
+    # procedures and are not administrative are sent to the KB pipeline.
+    # ------------------------------------------------------------------------
+    try:
+        extracted_rules = _uhc_prepare_mapping(extracted_rules, OUTPUT_RULES_FILE)
+        extracted_rules, mapped_count = apply_cpt_mapping(extracted_rules, "unitedhealthcare", log=print)
+        if mapped_count > 0:
+            print(f"Successfully updated {mapped_count} UHC policies with KB CPT mappings")
+    except Exception as e:
+        print(f"Automated CPT code mapping encountered an error: {e}")
+        print(_traceback.format_exc())
 
     with open(
         OUTPUT_RULES_FILE,
@@ -4073,32 +4436,6 @@ def generate_extracted_rules(
 
     return OUTPUT_RULES_FILE
 
-
-def export_policy_titles_csv():
-    if not os.path.isdir(OUTPUT_DIR):
-        return None
-
-    json_files = sorted(f for f in os.listdir(OUTPUT_DIR) if f.endswith(".json"))
-
-    titles = []
-
-    for jfname in json_files:
-        with open(os.path.join(OUTPUT_DIR, jfname), "r", encoding="utf-8") as f:
-            data = json.load(f)
-
-        title = data.get("policy_title")
-
-        if title:
-            titles.append(title)
-
-    with open(OUTPUT_TITLES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerow(["policy_title"])
-
-        for title in titles:
-            writer.writerow([title])
-
-    return OUTPUT_TITLES_CSV
 
 
 # ============================================================
@@ -4201,6 +4538,8 @@ def main():
 
     except Exception as exc:
         print("\nERROR generating extraction rules:")
+        print(f"{type(exc).__name__}: {exc}")
+        print(_traceback.format_exc())
 
     # --------------------------------------------------------
     # 7. Final summary

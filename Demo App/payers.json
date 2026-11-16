@@ -8,7 +8,7 @@
     "folder": "Uhc",
     "extraction_script": "Uhc/extraction_script.py",
     "extraction_json": "Uhc/extraction_rules_uhc.json",
-    "generator_script": "Uhc/generate_billing_rules.py",
+    "generator_script": "Uhc/generate_billing_rules_uhc.py",
     "output_workbook": "Uhc/billing_rules_uhc.xlsx",
     "sql_file": "Uhc/billing_rules_uhc.sql",
     "comparison_client_name": "UnitedHealthcare",
@@ -21,9 +21,9 @@
     "status": "connected",
     "badge": null,
     "folder": "Humana",
-    "extraction_script": null,
-    "extraction_json": "Humana/extracted_rules.json",
-    "generator_script": "Humana/generate_billing_rules.py",
+    "extraction_script": "Humana/extraction_script.py",
+    "extraction_json": "Humana/Extraction_rules_humana.json",
+    "generator_script": "Humana/generate_billing_rules_humana.py",
     "output_workbook": "Humana/billing_rules_humana.xlsx",
     "sql_file": "Humana/billing_rules_humana.sql",
     "comparison_client_name": "Humana",
@@ -45,4 +45,3 @@
     "description": "Devoted Health Medicare Advantage payment policies (39 extracted policies available for review)."
   }
 ]
-

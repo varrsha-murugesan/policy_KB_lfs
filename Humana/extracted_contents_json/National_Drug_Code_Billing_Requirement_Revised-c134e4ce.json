@@ -1,0 +1,446 @@
+{
+  "policy_title": "National Drug Code Billing Requirement",
+  "policy_number": "CP2015102",
+  "effective_date": "01/2015",
+  "published_date": null,
+  "revision_date": "07/2026",
+  "source_pdf": "National_Drug_Code_Billing_Requirement_Revised-c134e4ce.pdf",
+  "line_of_business": "Medicare Advantage and Medicaid Products",
+  "billing_class": "Both",
+  "related_policies": "Modifiers JW and JZ",
+  "total_pages": 3,
+  "table_count": 1,
+  "block_count": 26,
+  "CPT_CODES_USED": [
+    "03333",
+    "33333"
+  ],
+  "MODIFIERS_USED": [
+    "24",
+    "UB",
+    "55"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "03333",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "33333",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Overview",
+      "section": "Overview",
+      "subsection": null,
+      "hierarchy_path": "Overview",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "This policy outlines Humana's national drug code (NDC) billing requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. The following policy applies to professional and facility claims, except inpatient facility claims. The NDC is the industry standard for identifying the specific drug administered. Reporting the NDC enables accurate and timely claims adjudication. Other than the exceptions outlined in this policy, Humana requires a provider to report an accurate, valid NDC with a Healthcare Common Procedure Coding System (HCPCS) drug code. Humana denies a HCPCS drug code submitted without an NDC. A denied HCPCS drug code that requires an NDC can be resubmitted with an NDC, within timely filing guidelines, for reconsideration of payment. To eliminate the need to try to determine whether an NDC would be required in a specific scenario, Humana strongly encourages providers to submit each HCPCS drug code with the accurate, valid corresponding NDC.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Exceptions",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Exceptions",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Exceptions",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "An NDC is not required with the following:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Exceptions",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Exceptions",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Exceptions",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Child and adult immunization drug codes;",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Exceptions",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Exceptions",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Exceptions",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Gene therapy drug codes;",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Hemophilia drug codes; and",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Hemophilia drug codes; and",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Hemophilia drug codes; and",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Radiopharmaceutical drug codes.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Reporting an NDC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Reporting an NDC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Reporting an NDC",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Humana requires the following when reporting an NDC:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Reporting an NDC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Reporting an NDC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Reporting an NDC",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "For CMS-1500 paper claims: Report the NDC qualifier N4 followed by the 11-digit NDC in box 24.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Reporting an NDC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Reporting an NDC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Reporting an NDC",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "For UB-04 paper claims: Report the NDC qualifier N4 followed by the 11-digit NDC in box 43.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Reporting an NDC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Reporting an NDC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Reporting an NDC",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "For electronic claims: Report the NDC in loop 2410. Report NDC qualifier N4 in segment LIN 02 and the NDC in segment LIN 03.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Reporting an NDC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Reporting an NDC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Reporting an NDC",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "When using different vial sizes that share the same HCPCS drug code but have different NDCs, for the same patient, bill multiple lines in order to report each unique NDC.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Reporting an NDC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Reporting an NDC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Reporting an NDC",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Report the NDC in a 5-4-2 digit format. If necessary, add a zero, as indicated in the examples below.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Reporting an NDC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Reporting an NDC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Reporting an NDC",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Do not report dashes, as indicated in the examples below.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Example 1",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Example 1",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Example 1",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "3333-4444-55 03333-4444-55 03333444455",
+      "codes": [
+        "03333"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Example 2",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Example 2",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Example 2",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "33333-444-55 33333-0444-55 33333044455",
+      "codes": [
+        "33333"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Example 3",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Example 3",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Example 3",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "33333-4444-5 33333-4444-05 33333444405",
+      "codes": [
+        "33333"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicaid Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Medicaid Payment Policy",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Medicaid Payment Policy",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana Medicaid plans require a provider to submit a HCPCS drug code charge with an accurate, valid corresponding NDC according to applicable state Medicaid agency requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "U.S. Food and Drug Administration website. National Drug Code Directory. www.fda.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Availity - Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Claims processing edit notifications - Alerts of upcoming claims payment changes are posted on the first Friday of each month.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Claims resources - Providers can find information on referrals, authorizations, electronic claim submissions and more.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Making it easier - This page contains an educational series for providers and healthcare professionals.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Medical and pharmacy coverage policies - Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Publications - This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note: Links to sources outside of Humana's control are verified at the time of publication. Please report broken links.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "References",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "References > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Policy Schedule and Criteria Table] Example 1: Example 2 | 3333-4444-55: 33333-444-55 | NDC on package:  | 03333-4444-55: 33333-0444-55 | Add zero to create a 5-4-2 digit format:  | 03333444455: 33333044455 | NDC reported on claim: ",
+      "codes": [
+        "33333",
+        "03333"
+      ],
+      "table_data": {
+        "columns": [
+          "Example 1",
+          "3333-4444-55",
+          "NDC on package",
+          "03333-4444-55",
+          "Add zero to create a 5-4-2 digit format",
+          "03333444455",
+          "NDC reported on claim"
+        ],
+        "row": {
+          "Example 1": "Example 2",
+          "3333-4444-55": "33333-444-55",
+          "NDC on package": "",
+          "03333-4444-55": "33333-0444-55",
+          "Add zero to create a 5-4-2 digit format": "",
+          "03333444455": "33333044455",
+          "NDC reported on claim": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "References",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "References > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Policy Schedule and Criteria Table] Example 1: Example 3 | 3333-4444-55: 33333-4444-5 | NDC on package:  | 03333-4444-55: 33333-4444-05 | Add zero to create a 5-4-2 digit format:  | 03333444455: 33333444405 | NDC reported on claim: ",
+      "codes": [
+        "33333",
+        "03333"
+      ],
+      "table_data": {
+        "columns": [
+          "Example 1",
+          "3333-4444-55",
+          "NDC on package",
+          "03333-4444-55",
+          "Add zero to create a 5-4-2 digit format",
+          "03333444455",
+          "NDC reported on claim"
+        ],
+        "row": {
+          "Example 1": "Example 3",
+          "3333-4444-55": "33333-4444-5",
+          "NDC on package": "",
+          "03333-4444-55": "33333-4444-05",
+          "Add zero to create a 5-4-2 digit format": "",
+          "03333444455": "33333444405",
+          "NDC reported on claim": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. The following policy applies to professional and facility claims, except inpatient facility claims. The NDC is the industry standard for identifying the specific drug administered. Reporting the NDC enables accurate and timely claims adjudication. Other than the exceptions outlined in this policy, Humana requires a provider to report an accurate, valid NDC with a Healthcare Common Procedure Coding System (HCPCS) drug code. Humana denies a HCPCS drug code submitted without an NDC. A denied HCPCS drug code that requires an NDC can be resubmitted with an NDC, within timely filing guidelines, for reconsideration of payment. To eliminate the need to try to determine whether an NDC would be required in a specific scenario, Humana strongly encourages providers to submit each HCPCS drug code with the accurate, valid corresponding NDC.\n\nAn NDC is not required with the following:\n\nChild and adult immunization drug codes;\n\nGene therapy drug codes;\n\nRadiopharmaceutical drug codes.\n\nHumana requires the following when reporting an NDC:\n\nFor CMS-1500 paper claims: Report the NDC qualifier N4 followed by the 11-digit NDC in box 24.\n\nFor UB-04 paper claims: Report the NDC qualifier N4 followed by the 11-digit NDC in box 43.\n\nFor electronic claims: Report the NDC in loop 2410. Report NDC qualifier N4 in segment LIN 02 and the NDC in segment LIN 03.\n\nWhen using different vial sizes that share the same HCPCS drug code but have different NDCs, for the same patient, bill multiple lines in order to report each unique NDC.\n\nReport the NDC in a 5-4-2 digit format. If necessary, add a zero, as indicated in the examples below.\n\nDo not report dashes, as indicated in the examples below.\n\n3333-4444-55 03333-4444-55 03333444455\n\n33333-444-55 33333-0444-55 33333044455\n\n33333-4444-5 33333-4444-05 33333444405\n\nIn addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana Medicaid plans require a provider to submit a HCPCS drug code charge with an accurate, valid corresponding NDC according to applicable state Medicaid agency requirements."
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

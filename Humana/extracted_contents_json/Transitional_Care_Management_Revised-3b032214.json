@@ -1,0 +1,376 @@
+{
+  "policy_title": "Transitional Care Management",
+  "policy_number": "CP2013101",
+  "effective_date": "01/2013",
+  "published_date": null,
+  "revision_date": "08/2026",
+  "source_pdf": "Transitional_Care_Management_Revised-3b032214.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Both",
+  "related_policies": "Telehealth and Other Virtual Services",
+  "total_pages": 3,
+  "table_count": 0,
+  "block_count": 24,
+  "CPT_CODES_USED": [
+    "99496",
+    "99495"
+  ],
+  "MODIFIERS_USED": [
+    "26",
+    "90"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "99496",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "99495",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Overview",
+      "section": "Overview",
+      "subsection": null,
+      "hierarchy_path": "Overview",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "This policy outlines Humana's billing requirements and reimbursement for transitional care management (TCM) services.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana may reimburse one charge for professional TCM services per discharge if a patient requires case management when transferring from a facility setting to the community or home setting. Humana requires a provider to follow all TCM requirements as outlined in relevant Centers for Medicare & Medicaid Services (CMS) guidance. That includes, but is not limited to, the criteria outlined in this policy. Humana reimburses the first TCM charge received for the 30-day service period that meets all of the requirements outlined in this policy. A claim showing discharge from one of the following facility settings must be received to substantiate the necessity of the professional claim for TCM services:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Skilled nursing facility",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Skilled nursing facility",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Skilled nursing facility",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "The services associated with the face-to-face portion of the professional TCM service must be rendered by a physician, which is limited to a medical doctor (MD) or doctor of osteopathic medicine (DO), or one of the following nonphysician practitioners (NPPs): nurse practitioner, physician assistant, clinical nurse specialist or certified nurse midwife. This includes behavioral health practitioners such as psychiatrists and psychiatric nurse practitioners. Any portions of the TCM service rendered by clinical staff must be provided under the general supervision of the billing physician or NPP and are subject to applicable state law, scope of practice requirements, and conditions for services and supplies furnished incident to the professional service of a physician or NPP. Clinical staff must meet the requirements of auxiliary personnel as defined by 42 CFR 410.26(a)(1). A qualified health care provider may render TCM services for new or established patients; the reimbursement rate for TCM codes is the same regardless of new or established patient status. Note: Humana plans may reimburse a charge for reasonable and necessary evaluation and management (E/M) services for managing clinical issues, other than E/M services provided on the date of the required TCM face-to-face visit, in addition to a TCM charge, during the 30-day service period. Humana plans do not reimburse:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Skilled nursing facility",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Skilled nursing facility",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Skilled nursing facility",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "TCM services rendered by the surgeon during the postoperative period of a 10- or 90-day global surgery.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Skilled nursing facility",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Skilled nursing facility",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Skilled nursing facility",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "TCM services when discharge management services are provided by the same provider on the same day.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Skilled nursing facility",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Skilled nursing facility",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Skilled nursing facility",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "A TCM charge received after the first allowable TCM, whether from the same or different provider.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Skilled nursing facility",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Skilled nursing facility",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Skilled nursing facility",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "A TCM charge related to a discharge that occurs during the 29-day period after the date of an earlier discharge.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Skilled nursing facility",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Skilled nursing facility",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Skilled nursing facility",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "E/M services on the same date as the required TCM face-to-face visit when rendered by the same provider or group practice, regardless if an E/M modifier is reported.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Billing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Billing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Billing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "A qualified health care provider must render a face-to-face visit within seven days of discharge to report CPT code 99496, or within 14 days of discharge to report CPT code 99495.",
+      "codes": [
+        "99496",
+        "99495"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Billing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Billing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Billing",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "A qualified health care provider must report the place of service (POS) where the face-to-face visit was furnished. The POS must be an office, outpatient setting or the patient's place of residence. The face-to-face visit may be furnished via telehealth; in such cases, the POS code billing requirements and other provisions outlined in Humana's Telehealth and Other Virtual Services claims payment policy must be followed.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Billing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Billing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Billing",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "A qualified health care provider must report the date of service using the date of the face-to-face visit.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "CPT code 99495: Transitional care management services with the following required elements: Communication (direct contact, telephone, electronic) with the patient and/or caregiver within 2 business days of discharge At least moderate level of medical decision making during the service period Face-to-face visit, within 14 calendar days of discharge",
+      "codes": [
+        "99495"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "CPT code 99496: Transitional care management services with the following required elements: Communication (direct contact, telephone, electronic) with the patient and/or caregiver within 2 business days of discharge High level of medical decision making during the service period Face-to-face visit, within 7 calendar days of discharge",
+      "codes": [
+        "99496"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Incident to: Requirements outlined by the Centers for Medicare & Medicaid Services (CMS) that must be met for a physician or nonphysician practitioner (NPP) to bill for a service or supply provided by clinical staff.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "U.S. Government Publishing Office website. Code of Federal Regulations. Title 42, Section 410.26 - Services and supplies incident to a physician's professional services: Conditions. www.ecfr.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Centers for Medicare & Medicaid Services website. Care Management. www.cms.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Centers for Medicare & Medicaid Services website. Medicare Learning Network. MLN Booklet: Transitional Care Management Services. www.cms.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "American Medical Association's CPT and associated publications and services.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Availity - Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Claims processing edit notifications - Alerts of upcoming claims payment changes are posted on the first Friday of each month.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Claims resources - Providers can find information on referrals, authorizations, electronic claim submissions and more.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Making it easier - This page contains an educational series for providers and healthcare professionals.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Medical and pharmacy coverage policies - Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Publications - This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note: Links to sources outside of Humana's control are verified at the time of publication. Please report broken links.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana may reimburse one charge for professional TCM services per discharge if a patient requires case management when transferring from a facility setting to the community or home setting. Humana requires a provider to follow all TCM requirements as outlined in relevant Centers for Medicare & Medicaid Services (CMS) guidance. That includes, but is not limited to, the criteria outlined in this policy. Humana reimburses the first TCM charge received for the 30-day service period that meets all of the requirements outlined in this policy. A claim showing discharge from one of the following facility settings must be received to substantiate the necessity of the professional claim for TCM services:\n\nThe services associated with the face-to-face portion of the professional TCM service must be rendered by a physician, which is limited to a medical doctor (MD) or doctor of osteopathic medicine (DO), or one of the following nonphysician practitioners (NPPs): nurse practitioner, physician assistant, clinical nurse specialist or certified nurse midwife. This includes behavioral health practitioners such as psychiatrists and psychiatric nurse practitioners. Any portions of the TCM service rendered by clinical staff must be provided under the general supervision of the billing physician or NPP and are subject to applicable state law, scope of practice requirements, and conditions for services and supplies furnished incident to the professional service of a physician or NPP. Clinical staff must meet the requirements of auxiliary personnel as defined by 42 CFR 410.26(a)(1). A qualified health care provider may render TCM services for new or established patients; the reimbursement rate for TCM codes is the same regardless of new or established patient status. Note: Humana plans may reimburse a charge for reasonable and necessary evaluation and management (E/M) services for managing clinical issues, other than E/M services provided on the date of the required TCM face-to-face visit, in addition to a TCM charge, during the 30-day service period. Humana plans do not reimburse:\n\nTCM services rendered by the surgeon during the postoperative period of a 10- or 90-day global surgery.\n\nTCM services when discharge management services are provided by the same provider on the same day.\n\nA TCM charge received after the first allowable TCM, whether from the same or different provider.\n\nA TCM charge related to a discharge that occurs during the 29-day period after the date of an earlier discharge.\n\nE/M services on the same date as the required TCM face-to-face visit when rendered by the same provider or group practice, regardless if an E/M modifier is reported.\n\nA qualified health care provider must render a face-to-face visit within seven days of discharge to report CPT code 99496, or within 14 days of discharge to report CPT code 99495.\n\nA qualified health care provider must report the place of service (POS) where the face-to-face visit was furnished. The POS must be an office, outpatient setting or the patient's place of residence. The face-to-face visit may be furnished via telehealth; in such cases, the POS code billing requirements and other provisions outlined in Humana's Telehealth and Other Virtual Services claims payment policy must be followed.\n\nA qualified health care provider must report the date of service using the date of the face-to-face visit.\n\nCPT code 99495: Transitional care management services with the following required elements: Communication (direct contact, telephone, electronic) with the patient and/or caregiver within 2 business days of discharge At least moderate level of medical decision making during the service period Face-to-face visit, within 14 calendar days of discharge\n\nCPT code 99496: Transitional care management services with the following required elements: Communication (direct contact, telephone, electronic) with the patient and/or caregiver within 2 business days of discharge High level of medical decision making during the service period Face-to-face visit, within 7 calendar days of discharge\n\nIncident to: Requirements outlined by the Centers for Medicare & Medicaid Services (CMS) that must be met for a physician or nonphysician practitioner (NPP) to bill for a service or supply provided by clinical staff."
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": "CPT code 99495: Transitional care management services with the following required elements: Communication (direct contact, telephone, electronic) with the patient and/or caregiver within 2 business days of discharge At least moderate level of medical decision making during the service period Face-to-face visit, within 14 calendar days of discharge\n\nCPT code 99496: Transitional care management services with the following required elements: Communication (direct contact, telephone, electronic) with the patient and/or caregiver within 2 business days of discharge High level of medical decision making during the service period Face-to-face visit, within 7 calendar days of discharge\n\nIncident to: Requirements outlined by the Centers for Medicare & Medicaid Services (CMS) that must be met for a physician or nonphysician practitioner (NPP) to bill for a service or supply provided by clinical staff."
+  }
+}

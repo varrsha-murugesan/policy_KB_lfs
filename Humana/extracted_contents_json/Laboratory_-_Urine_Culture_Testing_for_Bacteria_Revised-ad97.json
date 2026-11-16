@@ -1,0 +1,629 @@
+{
+  "policy_title": "Laboratory - Urine Culture Testing for Bacteria",
+  "policy_number": "LAB2023056",
+  "effective_date": "07/2023",
+  "published_date": "07/2023",
+  "revision_date": "05/2026",
+  "source_pdf": "Laboratory_-_Urine_Culture_Testing_for_Bacteria_Revised-ad97d997.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 4,
+  "table_count": 3,
+  "block_count": 21,
+  "CPT_CODES_USED": [
+    "87076",
+    "87077",
+    "87140",
+    "87147",
+    "87149",
+    "87181",
+    "87186",
+    "00045",
+    "11214",
+    "13507",
+    "00044",
+    "13069",
+    "10665"
+  ],
+  "MODIFIERS_USED": [
+    "53",
+    "92",
+    "55",
+    "54",
+    "24",
+    "US"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "87076",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87077",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87140",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87147",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87149",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87181",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87186",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00045",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "11214",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "13507",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00044",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "13069",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "10665",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Urine culture testing (CPT code 87076, CPT code 87077, CPT code 87140, CPT code 87147, CPT code 87149*, CPT code 87181, CPT code 87186) IS NOT REIMBURSABLE for individuals with a primary diagnosis representing a general encounter without abnormal findings or similar examination.",
+      "codes": [
+        "87076",
+        "87077",
+        "87140",
+        "87147",
+        "87149",
+        "87181",
+        "87186"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "87076 Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each isolate 87077 Culture, bacterial; aerobic isolate, additional methods required for definitive identification, each isolate 87140",
+      "codes": [
+        "87076",
+        "87077",
+        "87140"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Culture, typing; immunofluorescent method, each antiserum",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Culture, typing; immunofluorescent method, each antiserum",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Culture, typing; immunofluorescent method, each antiserum",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "87147 Culture, typing; immunologic method, other than immunofluorescence (eg, agglutination grouping), per antiserum 87149* Culture, typing; identification by nucleic acid (DNA or RNA) probe, direct probe technique, per culture or isolate, each organism probed 87181 Susceptibility studies, antimicrobial agent; agar dilution method, per agent (eg, antibiotic gradient strip) 87186 Susceptibility studies, antimicrobial agent; microdilution or agar dilution (minimum inhibitory concentration [MIC] or breakpoint), each multi-antimicrobial, per plate",
+      "codes": [
+        "87147",
+        "87149",
+        "87181",
+        "87186"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Culture, typing; immunofluorescent method, each antiserum",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Culture, typing; immunofluorescent method, each antiserum",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Culture, typing; immunofluorescent method, each antiserum",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "*The payment criterion for 87149 apply to all Medicare jurisdictions, except for CGS Administrators, LLC, Noridian Healthcare Solutions, LLC, Palmetto GBA, Wisconsin",
+      "codes": [
+        "87149"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "L39038 87149",
+      "codes": [
+        "87149"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "L39001 87149",
+      "codes": [
+        "87149"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L38988 87149",
+      "codes": [
+        "87149"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L39044 87149",
+      "codes": [
+        "87149"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "AAP, & ASPN. (2018, July 16). Avoid ordering follow-up urine cultures after treatment for an uncomplicated urinary tract infection (UTI) in patients that show evidence of clinical resolution of infection. ABIM. Retrieved 04/19/2019 from http://www.choosingwisely.org/clinician-lists/aap-aspn-follow-up-urine-cultures-after-treatment-for-uncomplicated-uti/ AAP. (2016, July 13). Avoid the use of surveillance cultures for the screening and treatment of asymptomatic bacteriuria. ABIM. Retrieved 06/20/2018 from http://www.choosingwisely.org/clinician-lists/american-academy-pediatrics-surveillance-cultures- to-screen-and-treat-asymptomatic-bacteruria/ AMDA. (2019). Don't obtain urine tests until clinical criteria are met. ABIM. http://www.choosingwisely.org/clinician-lists/amda- urine-cultures/ Anger, J., Lee, U., Ackerman, L., Chou, R., Chughtai, B., Quentin Clemens, J., Hickling, D., Kapoor, A., Kenton, K. S., Kaufman, M. R., Rondanina, M. A., Stapleton, A., Stothers, L., & Chai, T. C. (2019, April). Recurrent Uncomplicated Urinary Tract Infections in Women: AUA/CUA/SUFU Guideline. American Urological Association. Retrieved 04/03 from https://www.cua.org/system/files/Guidelines/rUTI-guideline.pdf Aroutcheva, A., Gariti, D., Simon, M., Shott, S., Faro, J., Simoes, J. A., Gurguis, A., & Faro, S. (2001). Defense factors of vaginal lactobacilli. Am J Obstet Gynecol, 185(2), 375-379. https://doi.org/10.1067/mob.2001.115867 Association of Medical Microbiology and Infectious Diseases Canada. (2021). Five Tests and Treatments to Question in Medical Microbiology and Infectious Diseases. https://choosingwiselycanada.org/recommendation/medical-microbiology/ AUA. (2017). Management and Screening of Primary Vesicoureteral Reflux in Children. https://www.auanet.org/guidelines/vesicoureteral-reflux-(2010-amended-2017) Averch, T. D., Stoffel, J., Goldman, H. B., Griebling, T. L., Lerner, L., Newman, D. K., Peterson, A. C., Bertsch, J., Hoogland, M., Hubbard, H., Pope, S., Shertz Wall, C., & Yoffe, M. (2014, 2014). Catheter-Associated Urinary Tract Infections: Definitions and Significance in the Urologic Patient. American Urological Association. Retrieved 06/21/2018 from http://www.auanet.org/guidelines/catheter-associated-urinary-tract-infections Birnie, K., Hay, A. D., Wootton, M., Howe, R., MacGowan, A., Whiting, P., Lawton, M., Delaney, B., Downing, H., Dudley, J., Hollingworth, W., Lisles, C., Little, P., O'Brien, K., Pickles, T., Rumsby, K., Thomas-Jones, E., Van der Voort, J., Waldron, C. A., . . . Sterne, J. A. (2017). Comparison of microbiological diagnosis of urinary tract infection in young children by routine health service laboratories and a research laboratory: Diagnostic cohort study. (1932-6203 (Electronic)). Bonkat, G., Bartoletti, R., Bruyère, R., Cai, T., Geerlings, S. E., Koves, B., Schubert, S., Pilatz, A., Veeratterapillay, R., & Wagenlehner, F. M. E. (2022, 2018). European Association of Urology (EAU) Guidelines on Urological Infections Uroweb. Retrieved 06/20/2018 from https://uroweb.org/guidelines/urological-infections Brubaker, L., & Wolfe, A. (2016). The urinary microbiota: a paradigm shift for bladder disorders? Curr Opin Obstet Gynecol, 28(5), 407-412. https://doi.org/10.1097/gco.0000000000000298 Bruyere, F., d'Arcier, B. F., Boutin, J. M., & Haillot, O. (2010). Is urine culture routinely necessary before prostate biopsy? Prostate Cancer Prostatic Dis, 13(3), 260-262. https://doi.org/10.1038/pcan.2010.8 Cantey, J. B., Gaviria-Agudelo, C., McElvania TeKippe, E., & Doern, C. D. (2015). Lack of clinical utility of urine gram stain for suspected urinary tract infection in pediatric patients. Journal of Clinical Microbiology, 53(4), 1282-1285. https://doi.org/10.1128/JCM.00045-15 CDC. (2019). Urinary Tract Infection. https://www.cdc.gov/antibiotic-use/community/for-patients/common-illnesses/uti.html Cooper, J., Raeburn, A., Hamilton-Miller, J. M., & Brumfitt, W. (1992). Nitrite test for bacteriuria detection. Br J Gen Pract, 42. Cope, M., Cevallos, M. E., Cadle, R. M., Darouiche, R. O., Musher, D. M., & Trautner, B. W. (2009). Inappropriate treatment of catheter-associated asymptomatic bacteriuria in a tertiary care hospital. Clin Infect Dis, 48(9), 1182-1188. https://doi.org/10.1086/597403",
+      "codes": [
+        "00045"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Coussement, J., Scemla, A., Hougardy, J. M., Sberro-Soussan, R., Amrouche, L., Catalano, C., Johnson, J. R., & Abramowicz, D. (2019). Prevalence of asymptomatic bacteriuria among kidney transplant recipients beyond two months post-transplant: A multicenter, prospective, cross-sectional study. PLoS One, 14(9), e0221820. https://doi.org/10.1371/journal.pone.0221820 Dason, S., Dason, J. T., & Kapoor, A. (2011). Guidelines for the diagnosis and management of recurrent urinary tract infection in women. Can Urol Assoc J, 5(5), 316-322. https://doi.org/10.5489/cuaj.11214 Devillé, W. L. J. M., Yzermans, J. C., van Duijn, N. P., Bezemer, P. D., van der Windt, D. A. W. M., & Bouter, L. M. (2004). The urine dipstick test useful to rule out infections. A meta-analysis of the accuracy. BMC Urology, 4(1), 4. https://doi.org/10.1186/1471- 2490-4-4 Ducharme, J., Neilson, S., & Ginn, J. L. (2007). Can urine cultures and reagent test strips be used to diagnose urinary tract infection in elderly emergency department patients without focal urinary symptoms? Cjem, 9(2), 87-92. Eliacik, K., Kanik, A., Yavascan, O., Alparslan, C., Kocyigit, C., Aksu, N., & Bakiler, A. R. (2016). A Comparison of Bladder Catheterization and Suprapubic Aspiration Methods for Urine Sample Collection From Infants With a Suspected Urinary Tract Infection. Clin Pediatr (Phila), 55(9), 819-824. Fontserè, S., Infante-Domínguez, C., Suárez-Benjumea, A., Suñer-Poblet, M., González-Corvillo, C., Martín-Gutiérrez, G., Bernal, G., Pachón, J., Pachón-Ibáñez, M. E., & Cordero, E. (2021). Impact of Treating Asymptomatic Bacteriuria in Kidney Transplant Recipients: A Prospective Cohort Study. Antibiotics (Basel, Switzerland), 10(2), 218. https://doi.org/10.3390/antibiotics10020218 Goldman, J. D., & Julian, K. (2019). Urinary tract infections in solid organ transplant recipients: Guidelines from the American Society of Transplantation Infectious Diseases Community of Practice. Clin Transplant, 33(9), e13507. https://doi.org/10.1111/ctr.13507 Graham, J., & Galloway, A. (2001). ACP Best Practice No 167. Journal of Clinical Pathology, 54(12), 911-919. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1731340/ Harding, G. K., Zhanel, G. G., Nicolle, L. E., & Cheang, M. (2002). Antimicrobial treatment in diabetic women with asymptomatic bacteriuria. N Engl J Med, 347(20), 1576-1583. https://doi.org/10.1056/NEJMoa021042 Hooton, T. M., & Gupta, K. (2021, March 19). Acute complicated urinary tract infection (including pyelonephritis) in adults. Wolters Kluwer. https://www.uptodate.com/contents/acute-complicated-urinary-tract-infection-including-pyelonephritis-in-adults Lightner, D. J., Wymer, K., Sanchez, J., & Kavoussi, L. (2020). Best Practice Statement on Urologic Procedures and Antimicrobial Prophylaxis. J Urol, 203(2), 351-356. https://doi.org/10.1097/ju.0000000000000509 Meyrier, A. (2021, July 12). Sampling and evaluation of voided urine in the diagnosis of urinary tract infection in adults. Wolters Kluwer. https://www.uptodate.com/contents/sampling-and-evaluation-of-voided-urine-in-the-diagnosis-of-urinary-tract- infection-in-adults Moore, A., Doull, M., Grad, R., Groulx, S., Pottie, K., Tonelli, M., Courage, S., Garcia, A. J., & Thombs, B. D. (2018). Recommendations on screening for asymptomatic bacteriuria in pregnancy. Cmaj, 190(27), E823-e830. https://doi.org/10.1503/cmaj.171325 NICE. (2015, June 11). Urinary tract infections in adults. https://www.nice.org.uk/guidance/qs90/chapter/List-of-quality-statements NICE. (2018, October 31). Urinary tract infection in under 16s: diagnosis and management. https://www.nice.org.uk/guidance/cg54/resources/urinary-tract-infection-in-under-16s-diagnosis-and-management-pdf- 975507490501 Nicolle, L. E., Gupta, K., Bradley, S. F., Colgan, R., DeMuri, G. P., Drekonja, D., Eckert, L. O., Geerlings, S. E., Koves, B., Hooton, T. M., Juthani-Mehta, M., Knight, S. L., Saint, S., Schaeffer, A. J., Trautner, B., Wullt, B., & Siemieniuk, R. (2019). Clinical Practice Guideline for the Management of Asymptomatic Bacteriuria: 2019 Update by the Infectious Diseases Society of America. Clin Infect Dis, 68(10), e83-e110. https://doi.org/10.1093/cid/ciy1121 Petty, L. A., Vaughn, V. M., Flanders, S. A., Malani, A. N., Conlon, A., Kaye, K. S., Thyagarajan, R., Osterholzer, D., Nielsen, D., Eschenauer, G. A., Bloemers, S., McLaughlin, E., & Gandhi, T. N. (2019). Risk Factors and Outcomes Associated With Treatment of Asymptomatic Bacteriuria in Hospitalized Patients. JAMA Intern Med. https://doi.org/10.1001/jamainternmed.2019.2871 Price, T. K., Dune, T., Hilt, E. E., Thomas-White, K. J., Kliethermes, S., Brincat, C., Brubaker, L., Wolfe, A. J., Mueller, E. R., & Schreckenberger, P. C. (2016). The Clinical Urine Culture: Enhanced Techniques Improve Detection of Clinically Relevant Microorganisms. Journal of Clinical Microbiology, 54(5), 1216-1222. https://doi.org/10.1128/JCM.00044-16 Roberts, K. B. (2011). Urinary tract infection: clinical practice guideline for the diagnosis and management of the initial UTI in febrile infants and children 2 to 24 months. Pediatrics, 128(3), 595-610. https://doi.org/10.1542/peds.2011-1330",
+      "codes": [
+        "11214",
+        "13507",
+        "00044"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Robinson, J. L., Finlay, J. C., Lang, M. E., Bortolussi, R., CPS, CPC, & IDIC. (2020). Urinary tract infections in infants and children: Diagnosis and management. Canadian Paediatric Society. https://www.cps.ca/en/documents/position/urinary-tract-infections- in-children Schito, G. C., Naber Kg Fau - Botto, H., Botto H Fau - Palou, J., Palou J Fau - Mazzei, T., Mazzei T Fau - Gualco, L., Gualco L Fau - Marchese, A., & Marchese, A. (2009). The ARESC study: an international survey on the antimicrobial resistance of pathogens involved in uncomplicated urinary tract infections. Int J Antimicrob Agents, 34(5), 407-413. Schmiemann, G., Kniehl, E., Gebhardt, K., Matejczyk, M. M., & Hummers-Pradier, E. (2010). The Diagnosis of Urinary Tract Infection: A Systematic Review. Deutsches Ärzteblatt International, 107(21), 361-367. https://doi.org/10.3238/arztebl.2010.0361 SHEA. (2019, December 2). Don't perform urinalysis, urine culture, blood culture or C. difficile testing unless patients have signs or symptoms of infection. ABIM. http://www.choosingwisely.org/clinician-lists/shea-urinalysis-urine-culture-blood-culture-or-c- difficile-testing/ USPSTF. (2019). Screening for Asymptomatic Bacteriuria in Adults: US Preventive Services Task Force Recommendation Statement. JAMA, 322(12), 1188-1194. https://doi.org/10.1001/jama.2019.13069 WHO. (2016). WHO Guidelines Approved by the Guidelines Review Committee. In WHO Recommendations on Antenatal Care for a Positive Pregnancy Experience. World Health Organization Copyright (c) World Health Organization 2016. https://apps.who.int/iris/bitstream/handle/10665/250796/9789241549912-eng.pdf?sequence=1 Wojno, K. J., Baunoch, D., Luke, N., Opel, M., Korman, H., Kelly, C., Jafri, S. M. A., Keating, P., Hazelton, D., Hindu, S., Makhloouf, B., Wenzler, D., Sabry, M., Burks, F., Penaranda, M., Smith, D. E., Korman, A., & Sirls, L. (2020). Multiplex PCR Based Urinary Tract Infection (UTI) Analysis Compared to Traditional Urine Culture in Identifying Significant Pathogens in Symptomatic Patients. Urology, 136, 119-126. https://doi.org/10.1016/j.urology.2019.10.018",
+      "codes": [
+        "13069",
+        "10665"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 87076: 87077 | Procedure code:  | Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate: Culture, bacterial; aerobic isolate, additional methods required for definitive identification, each isolate | Code description: ",
+      "codes": [
+        "87076",
+        "87077"
+      ],
+      "table_data": {
+        "columns": [
+          "87076",
+          "Procedure code",
+          "Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate",
+          "Code description"
+        ],
+        "row": {
+          "87076": "87077",
+          "Procedure code": "",
+          "Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate": "Culture, bacterial; aerobic isolate, additional methods required for definitive identification, each isolate",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 87076: 87140 | Procedure code:  | Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate: Culture, typing; immunofluorescent method, each antiserum | Code description: ",
+      "codes": [
+        "87076",
+        "87140"
+      ],
+      "table_data": {
+        "columns": [
+          "87076",
+          "Procedure code",
+          "Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate",
+          "Code description"
+        ],
+        "row": {
+          "87076": "87140",
+          "Procedure code": "",
+          "Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate": "Culture, typing; immunofluorescent method, each antiserum",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 87076: 87147 | Procedure code:  | Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate:  | Code description: Culture, typing; immunologic method, other than immunofluorescence (eg, agglutination grouping), per",
+      "codes": [
+        "87076",
+        "87147"
+      ],
+      "table_data": {
+        "columns": [
+          "87076",
+          "Procedure code",
+          "Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate",
+          "Code description"
+        ],
+        "row": {
+          "87076": "87147",
+          "Procedure code": "",
+          "Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate": "",
+          "Code description": "Culture, typing; immunologic method, other than immunofluorescence (eg, agglutination grouping), per"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 87076:  | Procedure code:  | Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate:  | Code description: antiserum",
+      "codes": [
+        "87076"
+      ],
+      "table_data": {
+        "columns": [
+          "87076",
+          "Procedure code",
+          "Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate",
+          "Code description"
+        ],
+        "row": {
+          "87076": "",
+          "Procedure code": "",
+          "Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate": "",
+          "Code description": "antiserum"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 87076: 87149* | Procedure code:  | Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate: Culture, typing; identification by nucleic acid (DNA or RNA) probe, direct probe technique, per culture or\nisolate, each organism probed | Code description: ",
+      "codes": [
+        "87076",
+        "87149"
+      ],
+      "table_data": {
+        "columns": [
+          "87076",
+          "Procedure code",
+          "Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate",
+          "Code description"
+        ],
+        "row": {
+          "87076": "87149*",
+          "Procedure code": "",
+          "Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate": "Culture, typing; identification by nucleic acid (DNA or RNA) probe, direct probe technique, per culture or\nisolate, each organism probed",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 87076: 87181 | Procedure code:  | Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate: Susceptibility studies, antimicrobial agent; agar dilution method, per agent (eg, antibiotic gradient strip) | Code description: ",
+      "codes": [
+        "87076",
+        "87181"
+      ],
+      "table_data": {
+        "columns": [
+          "87076",
+          "Procedure code",
+          "Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate",
+          "Code description"
+        ],
+        "row": {
+          "87076": "87181",
+          "Procedure code": "",
+          "Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate": "Susceptibility studies, antimicrobial agent; agar dilution method, per agent (eg, antibiotic gradient strip)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 87076: 87186 | Procedure code:  | Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate: Susceptibility studies, antimicrobial agent; microdilution or agar dilution (minimum inhibitory\nconcentration [MIC] or breakpoint), each multi-antimicrobial, per plate | Code description: ",
+      "codes": [
+        "87076",
+        "87186"
+      ],
+      "table_data": {
+        "columns": [
+          "87076",
+          "Procedure code",
+          "Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate",
+          "Code description"
+        ],
+        "row": {
+          "87076": "87186",
+          "Procedure code": "",
+          "Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each\nisolate": "Susceptibility studies, antimicrobial agent; microdilution or agar dilution (minimum inhibitory\nconcentration [MIC] or breakpoint), each multi-antimicrobial, per plate",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, LLC | Contractor name:  | MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting: MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting | Policy title:  | L39038: L39001 | Policy number:  | 87149: 87149 | Procedure code: ",
+      "codes": [
+        "87149"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+          "Policy title",
+          "L39038",
+          "Policy number",
+          "87149",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting": "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+          "Policy title": "",
+          "L39038": "L39001",
+          "Policy number": "",
+          "87149": "87149",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "References",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "References > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Policy Schedule and Criteria Table] Palmetto GBA: Wisconsin Physicians Service\nInsurance Corporation | MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting: MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting | L38988: L39044 | 87149: 87149",
+      "codes": [
+        "87149"
+      ],
+      "table_data": {
+        "columns": [
+          "Palmetto GBA",
+          "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+          "L38988",
+          "87149"
+        ],
+        "row": {
+          "Palmetto GBA": "Wisconsin Physicians Service\nInsurance Corporation",
+          "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting": "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+          "L38988": "L39044",
+          "87149": "87149"
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nUrine culture testing (CPT code 87076, CPT code 87077, CPT code 87140, CPT code 87147, CPT code 87149*, CPT code 87181, CPT code 87186) IS NOT REIMBURSABLE for individuals with a primary diagnosis representing a general encounter without abnormal findings or similar examination.\n\n87076 Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each isolate 87077 Culture, bacterial; aerobic isolate, additional methods required for definitive identification, each isolate 87140\n\n87147 Culture, typing; immunologic method, other than immunofluorescence (eg, agglutination grouping), per antiserum 87149* Culture, typing; identification by nucleic acid (DNA or RNA) probe, direct probe technique, per culture or isolate, each organism probed 87181 Susceptibility studies, antimicrobial agent; agar dilution method, per agent (eg, antibiotic gradient strip) 87186 Susceptibility studies, antimicrobial agent; microdilution or agar dilution (minimum inhibitory concentration [MIC] or breakpoint), each multi-antimicrobial, per plate\n\n*The payment criterion for 87149 apply to all Medicare jurisdictions, except for CGS Administrators, LLC, Noridian Healthcare Solutions, LLC, Palmetto GBA, Wisconsin\n\nL39038 87149\n\nL39001 87149\n\nL38988 87149\n\nL39044 87149"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

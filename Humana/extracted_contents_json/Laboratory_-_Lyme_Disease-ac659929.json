@@ -1,0 +1,874 @@
+{
+  "policy_title": "Laboratory - Lyme Disease",
+  "policy_number": "LAB2023037",
+  "effective_date": "06/2023",
+  "published_date": "06/2023",
+  "revision_date": "12/2025",
+  "source_pdf": "Laboratory_-_Lyme_Disease-ac659929.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 4,
+  "table_count": 2,
+  "block_count": 32,
+  "CPT_CODES_USED": [
+    "86618",
+    "0041U",
+    "0042U",
+    "86617",
+    "87475",
+    "87476",
+    "0316U",
+    "00464",
+    "00114",
+    "19029",
+    "01841",
+    "14745",
+    "51067",
+    "01655",
+    "13393",
+    "01142"
+  ],
+  "MODIFIERS_USED": [
+    "PS",
+    "JA",
+    "57",
+    "AR",
+    "TM",
+    "AJ",
+    "SA",
+    "58",
+    "GP",
+    "HH",
+    "HC",
+    "HA",
+    "SM",
+    "CR",
+    "SD",
+    "GW",
+    "PM"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "86618",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0041U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0042U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86617",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87475",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87476",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0316U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00464",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00114",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "19029",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01841",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "14745",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "51067",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01655",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "13393",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01142",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Serologic testing, 2-tier testing strategy using a sensitive enzyme immunoassay (EIA) or immunofluorescence assay (CPT code 86618), followed by a western immunoblot assay (CPT code 0041U, CPT code 0042U) or FDA-cleared second EIA assay (CPT code 86617), IS REIMBURSABLE for any of the following conditions:",
+      "codes": [
+        "86618",
+        "0041U",
+        "0042U",
+        "86617"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Urticaria",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Urticaria",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Urticaria",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Nucleic acid testing to detect Borrelia burgdorferi (CPT code 87475*, CPT code 87476*) IS NOT REIMBURSABLE.",
+      "codes": [
+        "87475",
+        "87476"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Urticaria",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Urticaria",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Urticaria",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Other testing for Borrelia burgdorferi (CPT code 0316U) IS NOT REIMBURSABLE.",
+      "codes": [
+        "0316U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code Description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code Description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code Description",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "86617 Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or immunoblot) 86618",
+      "codes": [
+        "86617",
+        "86618"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Antibody; Borrelia burgdorferi (Lyme disease)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Antibody; Borrelia burgdorferi (Lyme disease)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Antibody; Borrelia burgdorferi (Lyme disease)",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "87475* Infectious agent detection by nucleic acid (DNA or RNA); Borrelia burgdorferi, direct probe technique 87476* Infectious agent detection by nucleic acid (DNA or RNA); Borrelia burgdorferi, amplified probe technique 0041U Borrelia burgdorferi, antibody detection of 5 recombinant protein groups, by immunoblot,",
+      "codes": [
+        "87475",
+        "87476",
+        "0041U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: IGeneX Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: IGeneX Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: IGeneX Inc",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0042U Borrelia burgdorferi, antibody detection of 12 recombinant protein groups, by immunoblot, IgG",
+      "codes": [
+        "0042U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: IGeneX Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: IGeneX Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: IGeneX Inc",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0316U Borrelia burgdorferi (Lyme disease), OspA protein evaluation, urine",
+      "codes": [
+        "0316U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L39038 87475 87476",
+      "codes": [
+        "87475",
+        "87476"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L39001 87475 87476",
+      "codes": [
+        "87475",
+        "87476"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L39003 87475 87476",
+      "codes": [
+        "87475",
+        "87476"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L38988 87475 87476",
+      "codes": [
+        "87475",
+        "87476"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L39044 87475 87476",
+      "codes": [
+        "87475",
+        "87476"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "*The payment criterion for CPT Code 87475 and CPT Code 87476 applies to all Medicare jurisdictions, except those states awarded to CGS Administrators, LLC; Noridian",
+      "codes": [
+        "87475",
+        "87476"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Healthcare Solutions, LLC; Palmetto GBA; and WPS Insurance Corporation.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Barbour A. Microbiology of Lyme disease - UpToDate. In: Mitty J, Steere AC, eds. UpToDate. 2023. https://www.uptodate.com/contents/microbiology-of-lyme-disease Hu L. Diagnosis of Lyme disease - UpToDate. In: Mitty J, ed. UpToDate. 2023. Accessed 1/8/21. https://www.uptodate.com/contents/diagnosis-of-lyme-disease Mead P, Schwartz A. Epidemiology of Lyme disease In: Steere AC, Hall KK, eds. UpToDate. 2024. https://www.uptodate.com/contents/epidemiology-of-lyme-disease Pritt BS, Mead PS, Johnson DKH, et al. Identification of a novel pathogenic Borrelia species causing Lyme borreliosis with unusually high spirochaetaemia: a descriptive study. The Lancet Infectious diseases. May 2016;16(5):556-564. doi:10.1016/s1473- 3099(15)00464-8 Adeolu M, Gupta RS. A phylogenomic and molecular marker based proposal for the division of the genus Borrelia into two genera: the emended genus Borrelia containing only the members of the relapsing fever Borrelia, and the genus Borreliella gen. nov.",
+      "codes": [
+        "00464"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Please see the disclaimer on the first page. Page 3 of 4",
+      "section": "References",
+      "subsection": "Please see the disclaimer on the first page. Page 3 of 4",
+      "hierarchy_path": "References > Please see the disclaimer on the first page. Page 3 of 4",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "containing the members of the Lyme disease Borrelia (Borrelia burgdorferi sensu lato complex). Antonie van Leeuwenhoek. Jun 2014;105(6):1049-72. doi:10.1007/s10482-014-0164-x Margos G, Marosevic D, Cutler S, et al. There is inadequate evidence to support the division of the genus Borrelia. International journal of systematic and evolutionary microbiology. Apr 2017;67(4):1081-1084. doi:10.1099/ijsem.0.001717 Hyde JA. Borrelia burgdorferi Keeps Moving and Carries on: A Review of Borrelial Dissemination and Invasion. Front Immunol. 2017;8doi:10.3389/fimmu.2017.00114 Bacon RM, Kugeler KJ, Mead PS. Surveillance for Lyme disease--United States, 1992-2006. Morbidity and mortality weekly report Surveillance summaries (Washington, DC : 2002). Oct 3 2008;57(10):1-9. Cook MJ. Lyme borreliosis: a review of data on transmission time after tick attachment. Int J Gen Med. 2015;8:1-8. doi:10.2147/ijgm.s73791 CDC. Lyme Disease Surveillance and Data. Updated May 15, 2024. https://www.cdc.gov/lyme/data-research/facts-stats/index.html Weitzner E, McKenna D, Nowakowski J, et al. Long-term Assessment of Post-Treatment Symptoms in Patients With Culture- Confirmed Early Lyme Disease. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America.",
+      "codes": [
+        "00114"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Dec 15 2015;61(12):1800-6. doi:10.1093/cid/civ735",
+      "section": "References",
+      "subsection": "Dec 15 2015;61(12):1800-6. doi:10.1093/cid/civ735",
+      "hierarchy_path": "References > Dec 15 2015;61(12):1800-6. doi:10.1093/cid/civ735",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Marques AR. Laboratory diagnosis of Lyme disease: advances and challenges. Infectious disease clinics of North America. Jun 2015;29(2):295-307. doi:10.1016/j.idc.2015.02.005 Schriefer ME. Lyme Disease Diagnosis: Serology. Clinics in laboratory medicine. Dec 2015;35(4):797-814. doi:10.1016/j.cll.2015.08.001 Bunikis J, Barbour AG. Laboratory testing for suspected Lyme disease. The Medical clinics of North America. Mar 2002;86(2):311-40. John TM, Taege AJ. Appropriate laboratory testing in Lyme disease. Cleve Clin J Med. Nov 2019;86(11):751-759. doi:10.3949/ccjm.86a.19029 CDC. Clinical Testing and Diagnosis for Lyme Disease. Updated May 15, 2024. https://www.cdc.gov/lyme/hcp/diagnosis- testing/index.html Halperin JJ. Chronic Lyme disease: misconceptions and challenges for patient management. Infection and drug resistance. 2015;8:119-28. doi:10.2147/idr.s66739 Waddell LA, Greig J, Mascarenhas M, Harding S, Lindsay R, Ogden N. The Accuracy of Diagnostic Tests for Lyme Disease in Humans, A Systematic Review and Meta-Analysis of North American Research. PloS one. 2016;11(12):e0168613. doi:10.1371/journal.pone.0168613 CDC. Updated CDC Recommendation for Serologic Diagnosis of Lyme Disease. https://www.cdc.gov/mmwr/volumes/68/wr/mm6832a4.htm ZEUS Scientific. ZEUS Borrelia MTTTTM: A paradigm shift in testing for Lyme disease. https://www.zeusscientific.com/what-is-mttt Davis IRC, McNeil SA, Allen W, et al. Performance of a Modified Two-Tiered Testing Enzyme Immunoassay Algorithm for Serologic Diagnosis of Lyme Disease in Nova Scotia. Journal of Clinical Microbiology. 2020;58(7):e01841-19. doi:10.1128/jcm.01841-19 CCDR. Modified two-tiered testing algorithm for Lyme disease serology: the Canadian context. Can Commun Dis Rep. May 7 2020;46(5):125-131. doi:10.14745/ccdr.v46i05a05 Wormser GP, Schriefer M, Aguero-Rosenfeld ME, et al. Single-tier testing with the C6 peptide ELISA kit compared with two-tier testing for Lyme disease. Diagnostic microbiology and infectious disease. Jan 2013;75(1):9-15. doi:10.1016/j.diagmicrobio.2012.09.003 Igenex. Lyme ImmunoBlot. https://igenex.com/wp-content/uploads/LymeImmunoBlot-DataSheet.pdf AAP. Lyme Disease. In: Kimberlin DW, Bernstein HH, Meissner HC, eds. Red Book: 2021-2024 Report of the Committee on Infectious Diseases 32nd Edition. American Academy of Pediatrics; 2021:482-489. Igenex. Development of a sensitive PCR-dot blot assay to supplement serological tests for diagnosing Lyme disease. https://igenex.com/wp-content/uploads/Publication_Development_ofa_Sensitive_PCR- dot_Blot_Assay_to_Supplement_Serological_Tests_for_Diagnosing_Lyme_Disease.png.pdf Ghosh R, Joung H-A, Goncharov A, et al. Rapid single-tier serodiagnosis of Lyme disease. Nature Communications. 2024/08/20 2024;15(1):7124. doi:10.1038/s41467-024-51067-5 Joung HA, Ballard ZS, Wu J, et al. Point-of-Care Serodiagnostic Test for Early-Stage Lyme Disease Using a Multiplexed Paper-Based Immunoassay and Machine Learning. ACS Nano. Dec 18 2019;doi:10.1021/acsnano.9b08151",
+      "codes": [
+        "19029",
+        "01841",
+        "14745",
+        "51067"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Please see the disclaimer on the first page. Page 4 of 4",
+      "section": "References",
+      "subsection": "Please see the disclaimer on the first page. Page 4 of 4",
+      "hierarchy_path": "References > Please see the disclaimer on the first page. Page 4 of 4",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Shakir SM, Mansfield CR, Hays ED, Couturier MR, Hillyard DR. Evaluation of a Novel High-Definition PCR Multiplex Assay for the Simultaneous Detection of Tick-Borne Pathogens in Human Clinical Specimens. J Clin Microbiol. Dec 18 2019;doi:10.1128/jcm.01655-19 Nigrovic LE, Lewander DP, Balamuth F, et al. The Lyme Disease Polymerase Chain Reaction Test Has Low Sensitivity. Vector Borne",
+      "codes": [
+        "01655"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Zoonotic Dis. Dec 10 2019;doi:10.1089/vbz.2019.2547",
+      "section": "References",
+      "subsection": "Zoonotic Dis. Dec 10 2019;doi:10.1089/vbz.2019.2547",
+      "hierarchy_path": "References > Zoonotic Dis. Dec 10 2019;doi:10.1089/vbz.2019.2547",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "van Gorkom T, Voet W, Sankatsing SUC, et al. Prospective comparison of two enzyme-linked immunosorbent spot assays for the diagnosis of Lyme neuroborreliosis. Clin Exp Immunol. Mar 2020;199(3):337-356. doi:10.1111/cei.13393 Sabin AP, Scholze BP, Lovrich SD, Callister SM. Clinical evaluation of a Borrelia modified two-tiered testing (MTTT) shows increased early sensitivity for Borrelia burgdorferi but not other endemic Borrelia species in a high incidence region for Lyme disease in Wisconsin. Diagnostic microbiology and infectious disease. Jan 2023;105(1):115837. doi:10.1016/j.diagmicrobio.2022.115837 Pratt GW, Platt M, Velez A, Rao LV. Utility of Whole Blood Real-Time PCR Testing for the Diagnosis of Early Lyme Disease. Am J Clin",
+      "codes": [
+        "13393"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Pathol. Sep 2 2022;158(3):327-330. doi:10.1093/ajcp/aqac068",
+      "section": "References",
+      "subsection": "Pathol. Sep 2 2022;158(3):327-330. doi:10.1093/ajcp/aqac068",
+      "hierarchy_path": "References > Pathol. Sep 2 2022;158(3):327-330. doi:10.1093/ajcp/aqac068",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Arumugam S, Nayak S, Williams T, et al. A Multiplexed Serologic Test for Diagnosis of Lyme Disease for Point-of-Care Use. Journal of Clinical Microbiology. 2019;57(12):10.1128/jcm.01142-19. doi:doi:10.1128/jcm.01142-19 Mead P, Petersen J, Hinckley A. Updated CDC Recommendation for Serologic Diagnosis of Lyme Disease. MMWR Morb Mortal Wkly",
+      "codes": [
+        "01142"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Rep. Aug 16 2019;68(32):703. doi:10.15585/mmwr.mm6832a4",
+      "section": "References",
+      "subsection": "Rep. Aug 16 2019;68(32):703. doi:10.15585/mmwr.mm6832a4",
+      "hierarchy_path": "References > Rep. Aug 16 2019;68(32):703. doi:10.15585/mmwr.mm6832a4",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Lantos PM, Rumbaugh J, Bockenstedt LK, et al. Clinical Practice Guidelines by the Infectious Diseases Society of America (IDSA), American Academy of Neurology (AAN), and American College of Rheumatology (ACR): 2020 Guidelines for the Prevention, Diagnosis and Treatment of Lyme Disease. Clinical Infectious Diseases. 2021;doi:10.1093/cid/ciaa1215 ACR. Choosing wisely: The American College of Rheumatology's top 5 list of things physicians and patients should question. https://escholarship.org/content/qt1kj5v9z2/qt1kj5v9z2.pdf?t=rs2emz&v=lg NICE. Lyme disease. https://www.nice.org.uk/guidance/ng95/chapter/Recommendations NICE. Lyme disease. Quality standard [QS186]. Updated July 10, 2019. https://www.nice.org.uk/guidance/qs186/chapter/Quality- statements",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 86617: 86618 | Procedure Code:  | Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or\nimmunoblot): Antibody; Borrelia burgdorferi (Lyme disease) | Code Description: ",
+      "codes": [
+        "86617",
+        "86618"
+      ],
+      "table_data": {
+        "columns": [
+          "86617",
+          "Procedure Code",
+          "Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or\nimmunoblot)",
+          "Code Description"
+        ],
+        "row": {
+          "86617": "86618",
+          "Procedure Code": "",
+          "Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or\nimmunoblot)": "Antibody; Borrelia burgdorferi (Lyme disease)",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 86617: 87475* | Procedure Code:  | Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or\nimmunoblot): Infectious agent detection by nucleic acid (DNA or RNA); Borrelia burgdorferi, direct probe\ntechnique | Code Description: ",
+      "codes": [
+        "86617",
+        "87475"
+      ],
+      "table_data": {
+        "columns": [
+          "86617",
+          "Procedure Code",
+          "Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or\nimmunoblot)",
+          "Code Description"
+        ],
+        "row": {
+          "86617": "87475*",
+          "Procedure Code": "",
+          "Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or\nimmunoblot)": "Infectious agent detection by nucleic acid (DNA or RNA); Borrelia burgdorferi, direct probe\ntechnique",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 86617: 87476* | Procedure Code:  | Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or\nimmunoblot): Infectious agent detection by nucleic acid (DNA or RNA); Borrelia burgdorferi, amplified\nprobe technique | Code Description: ",
+      "codes": [
+        "86617",
+        "87476"
+      ],
+      "table_data": {
+        "columns": [
+          "86617",
+          "Procedure Code",
+          "Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or\nimmunoblot)",
+          "Code Description"
+        ],
+        "row": {
+          "86617": "87476*",
+          "Procedure Code": "",
+          "Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or\nimmunoblot)": "Infectious agent detection by nucleic acid (DNA or RNA); Borrelia burgdorferi, amplified\nprobe technique",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 86617: 0041U | Procedure Code:  | Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or\nimmunoblot): Borrelia burgdorferi, antibody detection of 5 recombinant protein groups, by immunoblot,\nIgM\nProprietary test: Lyme ImmunoBlot IgM | Code Description: ",
+      "codes": [
+        "86617",
+        "0041U"
+      ],
+      "table_data": {
+        "columns": [
+          "86617",
+          "Procedure Code",
+          "Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or\nimmunoblot)",
+          "Code Description"
+        ],
+        "row": {
+          "86617": "0041U",
+          "Procedure Code": "",
+          "Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or\nimmunoblot)": "Borrelia burgdorferi, antibody detection of 5 recombinant protein groups, by immunoblot,\nIgM\nProprietary test: Lyme ImmunoBlot IgM",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 86617: 0042U | Procedure Code:  | Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or\nimmunoblot): Borrelia burgdorferi, antibody detection of 12 recombinant protein groups, by\nimmunoblot, IgG\nProprietary test: Lyme ImmunoBlot IgM\nLab/Manufacturer: IGeneX Inc | Code Description: ",
+      "codes": [
+        "86617",
+        "0042U"
+      ],
+      "table_data": {
+        "columns": [
+          "86617",
+          "Procedure Code",
+          "Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or\nimmunoblot)",
+          "Code Description"
+        ],
+        "row": {
+          "86617": "0042U",
+          "Procedure Code": "",
+          "Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or\nimmunoblot)": "Borrelia burgdorferi, antibody detection of 12 recombinant protein groups, by\nimmunoblot, IgG\nProprietary test: Lyme ImmunoBlot IgM\nLab/Manufacturer: IGeneX Inc",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 86617: 0316U | Procedure Code:  | Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or\nimmunoblot): Borrelia burgdorferi (Lyme disease), OspA protein evaluation, urine\nProprietary test: Lyme Borrelia Nanotrap® Urine Antigen Test\nLab/Manufacturer: Galaxy Diagnostics Inc | Code Description: ",
+      "codes": [
+        "86617",
+        "0316U"
+      ],
+      "table_data": {
+        "columns": [
+          "86617",
+          "Procedure Code",
+          "Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or\nimmunoblot)",
+          "Code Description"
+        ],
+        "row": {
+          "86617": "0316U",
+          "Procedure Code": "",
+          "Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or\nimmunoblot)": "Borrelia burgdorferi (Lyme disease), OspA protein evaluation, urine\nProprietary test: Lyme Borrelia Nanotrap® Urine Antigen Test\nLab/Manufacturer: Galaxy Diagnostics Inc",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, LLC | Contractor Name:  | MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting: MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting | Policy Title:  | L39038: L39001 | Policy Number:  | 87475\n87476: 87475\n87476 | Procedure Code: ",
+      "codes": [
+        "87475",
+        "87476"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor Name",
+          "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+          "Policy Title",
+          "L39038",
+          "Policy Number",
+          "87475\n87476",
+          "Procedure Code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor Name": "",
+          "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting": "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+          "Policy Title": "",
+          "L39038": "L39001",
+          "Policy Number": "",
+          "87475\n87476": "87475\n87476",
+          "Procedure Code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, LLC | Contractor Name:  | MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting: MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting | Policy Title:  | L39038: L39003 | Policy Number:  | 87475\n87476: 87475\n87476 | Procedure Code: ",
+      "codes": [
+        "87475",
+        "87476"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor Name",
+          "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+          "Policy Title",
+          "L39038",
+          "Policy Number",
+          "87475\n87476",
+          "Procedure Code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor Name": "",
+          "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting": "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+          "Policy Title": "",
+          "L39038": "L39003",
+          "Policy Number": "",
+          "87475\n87476": "87475\n87476",
+          "Procedure Code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Palmetto GBA | Contractor Name:  | MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting: MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting | Policy Title:  | L39038: L38988 | Policy Number:  | 87475\n87476: 87475\n87476 | Procedure Code: ",
+      "codes": [
+        "87475",
+        "87476"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor Name",
+          "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+          "Policy Title",
+          "L39038",
+          "Policy Number",
+          "87475\n87476",
+          "Procedure Code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Palmetto GBA",
+          "Contractor Name": "",
+          "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting": "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+          "Policy Title": "",
+          "L39038": "L38988",
+          "Policy Number": "",
+          "87475\n87476": "87475\n87476",
+          "Procedure Code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: WPS Insurance Corporation | Contractor Name:  | MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting: MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting | Policy Title:  | L39038: L39044 | Policy Number:  | 87475\n87476: 87475\n87476 | Procedure Code: ",
+      "codes": [
+        "87475",
+        "87476"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor Name",
+          "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+          "Policy Title",
+          "L39038",
+          "Policy Number",
+          "87475\n87476",
+          "Procedure Code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "WPS Insurance Corporation",
+          "Contractor Name": "",
+          "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting": "MolDX: Molecular Syndromic\nPanels for Infectious Disease\nPathogen Identification\nTesting",
+          "Policy Title": "",
+          "L39038": "L39044",
+          "Policy Number": "",
+          "87475\n87476": "87475\n87476",
+          "Procedure Code": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nSerologic testing, 2-tier testing strategy using a sensitive enzyme immunoassay (EIA) or immunofluorescence assay (CPT code 86618), followed by a western immunoblot assay (CPT code 0041U, CPT code 0042U) or FDA-cleared second EIA assay (CPT code 86617), IS REIMBURSABLE for any of the following conditions:\n\nNucleic acid testing to detect Borrelia burgdorferi (CPT code 87475*, CPT code 87476*) IS NOT REIMBURSABLE.\n\nOther testing for Borrelia burgdorferi (CPT code 0316U) IS NOT REIMBURSABLE.\n\n86617 Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (e.g., Western Blot or immunoblot) 86618\n\n87475* Infectious agent detection by nucleic acid (DNA or RNA); Borrelia burgdorferi, direct probe technique 87476* Infectious agent detection by nucleic acid (DNA or RNA); Borrelia burgdorferi, amplified probe technique 0041U Borrelia burgdorferi, antibody detection of 5 recombinant protein groups, by immunoblot,\n\n0042U Borrelia burgdorferi, antibody detection of 12 recombinant protein groups, by immunoblot, IgG\n\n0316U Borrelia burgdorferi (Lyme disease), OspA protein evaluation, urine\n\nL39038 87475 87476\n\nL39001 87475 87476\n\nL39003 87475 87476\n\nL38988 87475 87476\n\nL39044 87475 87476\n\n*The payment criterion for CPT Code 87475 and CPT Code 87476 applies to all Medicare jurisdictions, except those states awarded to CGS Administrators, LLC; Noridian\n\nHealthcare Solutions, LLC; Palmetto GBA; and WPS Insurance Corporation."
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

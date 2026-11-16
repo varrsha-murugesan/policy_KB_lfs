@@ -1,0 +1,1215 @@
+{
+  "policy_title": "Laboratory - Helicobacter Pylori Testing",
+  "policy_number": "LAB2023010",
+  "effective_date": "04/2023",
+  "published_date": "04/2023",
+  "revision_date": "11/2026",
+  "source_pdf": "Laboratory_-_Helicobacter_Pylori_Testing_Revised-3eed6825.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 4,
+  "table_count": 2,
+  "block_count": 43,
+  "CPT_CODES_USED": [
+    "83013",
+    "83014",
+    "87338",
+    "87513",
+    "0008U",
+    "83009",
+    "86677",
+    "87339",
+    "86318",
+    "88305",
+    "14309",
+    "00668",
+    "04137",
+    "12314",
+    "14388",
+    "12099",
+    "03040",
+    "01834",
+    "12847",
+    "00573",
+    "23736",
+    "05942",
+    "12576"
+  ],
+  "MODIFIERS_USED": [
+    "SF",
+    "FX",
+    "HB",
+    "AM",
+    "HF",
+    "79",
+    "RA",
+    "57",
+    "62",
+    "SM",
+    "CT",
+    "LM",
+    "91",
+    "CA",
+    "66",
+    "SA",
+    "RT",
+    "59",
+    "FB",
+    "AR",
+    "CB",
+    "PM",
+    "25",
+    "SC",
+    "GR",
+    "HJ",
+    "24"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "83013",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83014",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87338",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87513",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0008U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83009",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86677",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87339",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86318",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "88305",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "14309",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00668",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "04137",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "12314",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "14388",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "12099",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "03040",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01834",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "12847",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00573",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "23736",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "05942",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "12576",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Urea breath testing (CPT code 83013, CPT code 83014) or stool antigen testing (CPT code 87338) for Helicobacter pylori (H. pylori) infection IS REIMBURSABLE, no more than one test every four weeks, for following situations:",
+      "codes": [
+        "83013",
+        "83014",
+        "87338"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Iron deficiency anemia",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Iron deficiency anemia",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Iron deficiency anemia",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Long term usage of a non-steroidal anti-inflammatory drug (NSAID) or aspirin",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Iron deficiency anemia",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Iron deficiency anemia",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Iron deficiency anemia",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Low-grade gastric mucosa-associated lymphoid tissue (MALT) lymphoma",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "To measure the success of eradication of H. pylori infection",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "To measure the success of eradication of H. pylori infection",
+      "hierarchy_path": "Medicare Advantage Payment Policy > To measure the success of eradication of H. pylori infection",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "For a refractory H. pylori infection, nucleic acid-based susceptibility testing (CPT code 87513, CPT code 0008U*) IS REIMBURSABLE.",
+      "codes": [
+        "87513",
+        "0008U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "To measure the success of eradication of H. pylori infection",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "To measure the success of eradication of H. pylori infection",
+      "hierarchy_path": "Medicare Advantage Payment Policy > To measure the success of eradication of H. pylori infection",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Serologic testing for H. pylori infection (CPT code 83009, CPT code 86677, CPT code 87339) IS NOT REIMBURSABLE.",
+      "codes": [
+        "83009",
+        "86677",
+        "87339"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "To measure the success of eradication of H. pylori infection",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "To measure the success of eradication of H. pylori infection",
+      "hierarchy_path": "Medicare Advantage Payment Policy > To measure the success of eradication of H. pylori infection",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "For H. pylori infection, single-step serologic testing for H. pylori (CPT code 86318) IS NOT REIMBURSABLE.",
+      "codes": [
+        "86318"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "To measure the success of eradication of H. pylori infection",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "To measure the success of eradication of H. pylori infection",
+      "hierarchy_path": "Medicare Advantage Payment Policy > To measure the success of eradication of H. pylori infection",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "For all other situations not addressed above, urea breath testing (CPT code 83013, CPT code 83014), stool antigen testing (CPT code 87338) or nucleic acid-based susceptibility testing (CPT code 87513, CPT code 0008U*) IS NOT REIMBURSABLE.",
+      "codes": [
+        "83013",
+        "83014",
+        "87338",
+        "87513",
+        "0008U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "To measure the success of eradication of H. pylori infection",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "To measure the success of eradication of H. pylori infection",
+      "hierarchy_path": "Medicare Advantage Payment Policy > To measure the success of eradication of H. pylori infection",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Stool antigen testing (CPT code 87338) IS NOT REIMBURSABLE when performed simultaneously with the urea breath test (CPT code 83013).",
+      "codes": [
+        "87338",
+        "83013"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "To measure the success of eradication of H. pylori infection",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "To measure the success of eradication of H. pylori infection",
+      "hierarchy_path": "Medicare Advantage Payment Policy > To measure the success of eradication of H. pylori infection",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Urea breath testing (CPT code 83013, CPT code 83014) or stool antigen testing (CPT code 87338) IS NOT REIMBURSABLE when performed simultaneously with biopsy-based testing (CPT code 88305)",
+      "codes": [
+        "83013",
+        "83014",
+        "87338",
+        "88305"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83009 Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope (eg, C-13) 83013 Helicobacter pylori; breath test analysis for urease activity, non-radioactive isotope (e.g. C-13) 83014",
+      "codes": [
+        "83009",
+        "83013",
+        "83014"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Helicobacter pylori; drug administration",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Helicobacter pylori; drug administration",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Helicobacter pylori; drug administration",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "86318 Immunoassay for infectious agent antibody(ies), qualitative or semiquantitative, single step-method (eg, reagent strip) 86677",
+      "codes": [
+        "86318",
+        "86677"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Antibody; Helicobacter pylori",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Antibody; Helicobacter pylori",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Antibody; Helicobacter pylori",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "87338 Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme- linked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay [IMCA]) qualitative or semiquantitative; Helicobacter pylori, stool 87339 Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme- linked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay [IMCA]) qualitative or semiquantitative; Helicobacter pylori 87513 Infectious agent detection by nucleic acid (DNA or RNA); Helicobacter pylori (H. pylori), clarithromycin resistance, amplified probe technique 88305 Level IV - Surgical pathology, gross and microscopic examination Abortion - spontaneous/missed Artery, biopsy Bone marrow, biopsy Bone exostosis Brain/meninges, other than for tumor resection Breast, biopsy, not requiring microscopic evaluation of surgical margins Breast, reduction mammoplasty Bronchus, biopsy Cell block, any source Cervix, biopsy Colon, biopsy Duodenum, biopsy Endocervix, curettings/biopsy Endometrium, curettings/biopsy Esophagus, biopsy Extremity, amputation, traumatic Fallopian tube, biopsy Fallopian tube, ectopic pregnancy Femoral head, fracture Fingers/toes, amputation, non-traumatic Gingiva/oral mucosa, biopsy Heart valve Joint, resection Kidney, biopsy Larynx, biopsy Leiomyoma(s), uterine myomectomy - without uterus Lip, biopsy/wedge resection Lung, transbronchial biopsy Lymph node, biopsy Muscle, biopsy Nasal mucosa, biopsy Nasopharynx/oropharynx, biopsy Nerve, biopsy Odontogenic/dental cyst Omentum, biopsy Ovary with or without tube, non-neoplastic Ovary, biopsy/wedge resection Parathyroid gland Peritoneum, biopsy Pituitary tumor Placenta, other than third trimester Pleura/pericardium - biopsy/tissue Polyp, cervical/endometrial Polyp, colorectal Polyp, stomach/small intestine Prostate, needle biopsy Prostate, TUR Salivary gland, biopsy Sinus, paranasal biopsy Skin, other than cyst/tag/debridement/plastic repair Small intestine, biopsy Soft tissue, other than tumor/mass/lipoma/debridement Spleen Stomach, biopsy Synovium Testis, other than tumor/biopsy/castration Thyroglossal duct/brachial cleft cyst Tongue, biopsy Tonsil, biopsy Trachea, biopsy Ureter, biopsy Urethra, biopsy Urinary bladder, biopsy Uterus, with or without tubes and ovaries, for prolapse Vagina, biopsy Vulva/labia, biopsy 0008U* Helicobacter pylori detection and antibiotic resistance, DNA, 16S and 23S rRNA, gyrA, pbp1, rdxA and rpoB, next-generation sequencing, formalin-fixed paraffin-embedded or fresh tissue or fecal sample, predictive, reported as positive or negative for resistance to clarithromycin, fluoroquinolones, metronidazole, amoxicillin, tetracycline, and rifabutin",
+      "codes": [
+        "87338",
+        "87339",
+        "87513",
+        "88305",
+        "0008U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: American Molecular Laboratories, Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: American Molecular Laboratories, Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: American Molecular Laboratories, Inc",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "*The payment criterion for 0008U applies to all Medicare jurisdictions, except those states awarded to CGS Administrators, LLC, Noridian Healthcare Solutions, LLC",
+      "codes": [
+        "0008U"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab/Manufacturer: American Molecular Laboratories, Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: American Molecular Laboratories, Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: American Molecular Laboratories, Inc",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "and Palmetto GBA, First Coast Service Options, Inc, Novitas Solutions, Inc., Wisconsin Physicians Service Insurance Corporation",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L36021 0008U",
+      "codes": [
+        "0008U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L35160 0008U",
+      "codes": [
+        "0008U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L35025 0008U First Coast Service Options, Inc.",
+      "codes": [
+        "0008U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Pathology and Genetic Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Pathology and Genetic Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Pathology and Genetic Testing",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "A58918 0008U Novitas Solutions, Inc.",
+      "codes": [
+        "0008U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Biomarkers Overview",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Biomarkers Overview",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Biomarkers Overview",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L35062 0008U Novitas Solutions, Inc.",
+      "codes": [
+        "0008U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Pathology and Genetic Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Pathology and Genetic Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Pathology and Genetic Testing",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "A58917 0008U",
+      "codes": [
+        "0008U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L36807 0008U",
+      "codes": [
+        "0008U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Abdelmalek S, Hamed W, Nagy N, Shokry K, Abdelrahman H. Evaluation of the Diagnostic Values and Utility of Helicobacter Pylori",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Stool Antigen Lateral Immunochromatography Assay. 2022",
+      "section": "References",
+      "subsection": "Stool Antigen Lateral Immunochromatography Assay. 2022",
+      "hierarchy_path": "References > Stool Antigen Lateral Immunochromatography Assay. 2022",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Allen JI, Katzka D, Robert M, Leontiadis GI. American Gastroenterological Association Institute Technical Review on the Role of Upper Gastrointestinal Biopsy to Evaluate Dyspepsia in the Adult Patient in the Absence of Visible Mucosal Lesions. Gastroenterology. Oct 2015;149(4):1088‐118. doi:10.1053/j.gastro.2015.07.040 Bhatt DL, Scheiman J, Abraham NS, et al. ACCF/ACG/AHA 2008 expert consensus document on reducing the gastrointestinal risks of antiplatelet therapy and NSAID use. Circulation. Oct 28 2008;118(18):1894‐909. doi:10.1161/circulationaha.108.191087 Biosciences M. BreathTek® UBT for H. pylori. Updated July 1, 2024 https://www.meridianbioscience.com/diagnostics/diseaseareas/gastrointestinal/h-pylori/breathtek-ubt-for-h-pylori Chey WD, Howden CW, Moss SF, et al. ACG Clinical Guideline: Treatment of Helicobacter pylori Infection. Am J Gastroenterol. 2024;119(9):1730‐1753. doi:10.14309/ajg.0000000000002968 Chey WD, Leontiadis GI, Howden CW, Moss SF. ACG Clinical Guideline: Treatment of Helicobacter pylori Infection. Am J",
+      "codes": [
+        "14309"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Gastroenterol. Feb 2017;112(2):212‐239. doi:10.1038/ajg.2016.563",
+      "section": "References",
+      "subsection": "Gastroenterol. Feb 2017;112(2):212‐239. doi:10.1038/ajg.2016.563",
+      "hierarchy_path": "References > Gastroenterol. Feb 2017;112(2):212‐239. doi:10.1038/ajg.2016.563",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Dechant FX, Dechant R, Kandulski A, et al. Accuracy of Different Rapid Urease Tests in Comparison with Histopathology. Digestion. 2020;101(2):184‐190. doi:10.1159/000497810 El‐Serag HB, Kao JY, Kanwal F, et al. Houston Consensus Conference on Testing for Helicobacter pylori Infection in the United States.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Clin Gastroenterol Hepatol. 2018;16(7):992‐1002.e6",
+      "section": "References",
+      "subsection": "Clin Gastroenterol Hepatol. 2018;16(7):992‐1002.e6",
+      "hierarchy_path": "References > Clin Gastroenterol Hepatol. 2018;16(7):992‐1002.e6",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "FDA. Summary of Safety and Effectiveness. https://www.accessdata.fda.gov/cdrh_docs/pdf10/P100025B.pdf FDA. 510k summary. https://www.accessdata.fda.gov/cdrh_docs/pdf/K014225.pdf FDA. PyloPlus UBT System - P170022/S003. Updated January 11, 2024. https://www.fda.gov/medical-devices/recently approveddevices/pyloplus-ubt-system-p170022s003 Ferwana M, Abdulmajeed I, Alhajiahmed A, et al. Accuracy of urea breath test in Helicobacter pylori infection: meta‐analysis. World J Gastroenterol. Jan 28 2015;21(4):1305‐14. doi:10.3748/wjg.v21.i4.1305 Gisbert JP, de la Morena F, Abraira V. Accuracy of monoclonal stool antigen test: systematic review and meta‐analysis. Am J Gastroenterol. Aug 2006;101(8):1921‐30. doi:10.1111/j.1572‐0241.2006.00668.x Gupta S, Li D, El Serag HB, et al. AGA Clinical Practice Guidelines on Management of Gastric Intestinal Metaplasia. Gastroenterology. 2020;158(3):693‐702. doi:10.1053/j.gastro.2019.12.003 Halland M, Haque R, Langhorst J, et al. Clinical performance of the H. PYLORI QUIK CHEKTM and CHEKTM assays. Eur J Clin Microbiol Infect Dis. May 2021;40:1023‐1028. doi:10.1007/s10096‐020‐04137‐7 Hassan AM, Faraj HHA, Mohammad HF. Comparison between stool antigen test and urea breath test among children. Mustansiriya",
+      "codes": [
+        "00668",
+        "04137"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Med J. 2021;20(1):6",
+      "section": "References",
+      "subsection": "Med J. 2021;20(1):6",
+      "hierarchy_path": "References > Med J. 2021;20(1):6",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Homan M, Jones NL, Bontems P, et al. Updated ESPGHAN/NASPGHAN guidelines for Helicobacter pylori infection in children (2023) J Pediatr Gastroenterol Nutr. Sep 2024;79(3):758‐785. doi:10.1002/jpn3.12314",
+      "codes": [
+        "12314"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Med J. 2021;20(1):6",
+      "section": "References",
+      "subsection": "Med J. 2021;20(1):6",
+      "hierarchy_path": "References > Med J. 2021;20(1):6",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Hussein RA, Al‐Ouqaili MTS, Majeed YH. Detection of Helicobacter pylori by invasive and non‐invasive techniques in Iraq. PLoS One. 2021;16(8):e0256393. doi:10.1371/journal.pone.0256393 Jensen P, Feldman M. Acute and chronic gastritis due to H. pylori. Updated September 5, 2023. https://www.uptodate.com/contents/acute-and-chronic-gastritis-due-to-helicobacter-pylori Katelaris P, Hunt R, Bazzoli F, et al. WGO Global Guideline: H. pylori. J Clin Gastroenterol. Feb 1 2023;57(2):111‐126. doi:10.1097/mcg.0000000000001719 Kato S, Shimizu T, Toyoda S, et al. Updated JSPGHAN guidelines for H. pylori infection in childhood. Pediatr Int. Dec 2020;62(12):1315‐1331. doi:10.1111/ped.14388 Keller J, Hammer HF, Afolabi PR, et al. European guideline on 13C‐breath tests. UEG Journal. 2021; doi:10.1002/ueg2.12099 Ko CW, Siddique SM, Patel A, et al. AGA Clinical Practice Guidelines on GI evaluation of iron deficiency anemia. Gastroenterology. 2020;159(3):1085‐1094. doi:10.1053/j.gastro.2020.06.046 Korkmaz H, Findik D, Ugurluoglu C, Terzi Y. Reliability of stool antigen tests in dyspeptic patients. APJCP. 2015;16(2):657‐60. Lamont JT. Indications and diagnostic tests for H. pylori. July 13, 2023. https://www.uptodate.com/contents/indications-and diagnostic-tests-for-helicobacter-pylori-infection Longstreth G, Lacy B. Approach to the adult with dyspepsia. Updated January 16, 2025. https://www.uptodate.com/contents/approach-to-the-adult-with-dyspepsia Loy CT, Irwig LM, Katelaris PH, Talley NJ. Serological kits accuracy meta‐analysis. Am J Gastroenterol. Jun 1996;91(6):1138‐44. Malfertheiner P, Megraud F, Morain CA, et al. Maastricht IV/Florence Consensus Report. Gut. 2012;61(5):646. doi:10.1136/gutjnl 2012-302084 Malfertheiner P, Megraud F, Morain CA, et al. Maastricht V/Florence Consensus Report. Gut. 2017;66(1):6. doi:10.1136/gutjnl-2016 312288 Marrero Rolon R, Cunningham SA, Mandrekar JN, et al. Clinical evaluation of RT‐PCR from stool. J Clin Microbiol. Apr 20 2022;59(5). doi:10.1128/jcm.03040‐20 Neunert C, Terrell DR, Arnold DM, et al. ASH 2019 guidelines for immune thrombocytopenia. Blood Advances. 2020;3(23):3829‐3866. doi:10.1182/bloodadvances.2019000966 Nezami BG, Jani M, Alouani D, et al. H. pylori mutations by NGS and treatment failure. J Clin Microbiol. Jul 2019;57(7). doi:10.1128/jcm.01834‐18 Nguyen Wenker T, Peng FB, Emelogu I, et al. Predictive performance of guideline recommendations. Clin Gastroenterol Hepatol. Jul 2023;21(7):1771‐1780. doi:10.1016/j.cgh.2022.10.009 NICE. Gastro‐oesophageal reflux disease and dyspepsia in adults: investigation and management. https://www.nice.org.uk/guidance/cg184 NICE. Dyspepsia and gastro‐oesophageal reflux disease in adults. https://www.nice.org.uk/guidance/qs96/resources/dyspepsia andgastrooesophageal-reflux-disease-in-adults-investigation-and-management-2098972399813 Opekun AR, Zierold C, Rode A, et al. LIAISON® Meridian H. pylori SA test. Biomed Res Int. 2020:7189519. doi:10.1155/2020/7189519 Patel SK, Pratap CB, Jain AK, et al. Diagnosis of H. pylori: gold standard? World J Gastroenterol. Sep 28 2014;20(36):12847‐59. doi:10.3748/wjg.v20.i36.12847 Pohl D, Keller PM, Bordier V, Wagner K. Review of diagnostic methods in the NGS era. World J Gastroenterol. Aug 28 2019;25(32):4629‐4660. doi:10.3748/wjg.v25.i32.4629 Shah SC, Iyer PG, Moss SF. AGA Update on management of refractory H. pylori. Gastroenterology. Apr 2021;160(5):1831‐1841. doi:10.1053/j.gastro.2020.11.059 Siao D, Somsouk M. H. pylori review with focus on immigrants. J Gen Intern Med. Mar 2014;29:520‐8. doi:10.1007/s11606‐013‐2630‐y Singh V, Mishra S, Rao GR, et al. Nested PCR detection targeting HSP60. Helicobacter. Feb 2008;13(1):30‐4. doi:10.1111/j.1523‐5378.2008.00573.x Talley NJ. AGA position statement: evaluation of dyspepsia. Gastroenterology. Nov 2005;129(5):1753‐5. doi:10.1053/j.gastro.2005.09.019 Wang T, Li X, Zhang Q, et al. H. pylori and osteoporosis: meta‐analysis. BMJ Open. Jun 27 2019;9(6):e027356. doi:10.1136/bmjopen‐2018‐027356 Yang F, Xu YL, Zhu RF. H. pylori and colorectal carcinoma risk. Minerva Medica. Oct 2019;110(5):464‐470. doi:10.23736/s0026‐4806.19.05942‐1 Zhou BG, Yang HJ, Xu W, et al. H. pylori and NAFLD: meta‐analysis. Helicobacter. Jun 2019;24(3):e12576. doi:10.1111/hel.12576",
+      "codes": [
+        "14388",
+        "12099",
+        "03040",
+        "01834",
+        "12847",
+        "00573",
+        "23736",
+        "05942",
+        "12576"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 83009: 83013 | Procedure code:  | Helicobacter pylori; breath test analysis for urease activity, non-radioactive isotope (e.g. C-13) | Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope:  | (eg, C-13): ",
+      "codes": [
+        "83009",
+        "83013"
+      ],
+      "table_data": {
+        "columns": [
+          "83009",
+          "Procedure code",
+          "",
+          "Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope",
+          "(eg, C-13)"
+        ],
+        "row": {
+          "83009": "83013",
+          "Procedure code": "",
+          "Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope": "",
+          "(eg, C-13)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 83009: 83014 | Procedure code:  | Helicobacter pylori; drug administration | Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope:  | (eg, C-13): ",
+      "codes": [
+        "83009",
+        "83014"
+      ],
+      "table_data": {
+        "columns": [
+          "83009",
+          "Procedure code",
+          "",
+          "Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope",
+          "(eg, C-13)"
+        ],
+        "row": {
+          "83009": "83014",
+          "Procedure code": "",
+          "Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope": "",
+          "(eg, C-13)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 83009: 86318 | Procedure code:  | Immunoassay for infectious agent antibody(ies), qualitative or semiquantitative, single step-method (eg,\nreagent strip) | Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope:  | (eg, C-13): ",
+      "codes": [
+        "83009",
+        "86318"
+      ],
+      "table_data": {
+        "columns": [
+          "83009",
+          "Procedure code",
+          "",
+          "Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope",
+          "(eg, C-13)"
+        ],
+        "row": {
+          "83009": "86318",
+          "Procedure code": "",
+          "Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope": "",
+          "(eg, C-13)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 83009: 86677 | Procedure code:  | Antibody; Helicobacter pylori | Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope:  | (eg, C-13): ",
+      "codes": [
+        "83009",
+        "86677"
+      ],
+      "table_data": {
+        "columns": [
+          "83009",
+          "Procedure code",
+          "",
+          "Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope",
+          "(eg, C-13)"
+        ],
+        "row": {
+          "83009": "86677",
+          "Procedure code": "",
+          "Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope": "",
+          "(eg, C-13)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 83009: 87338 | Procedure code:  | Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; Helicobacter pylori, stool | Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope:  | (eg, C-13): ",
+      "codes": [
+        "83009",
+        "87338"
+      ],
+      "table_data": {
+        "columns": [
+          "83009",
+          "Procedure code",
+          "",
+          "Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope",
+          "(eg, C-13)"
+        ],
+        "row": {
+          "83009": "87338",
+          "Procedure code": "",
+          "Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope": "",
+          "(eg, C-13)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 83009: 87339 | Procedure code:  | Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-\nlinked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay\n[IMCA]) qualitative or semiquantitative; Helicobacter pylori | Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope:  | (eg, C-13): ",
+      "codes": [
+        "83009",
+        "87339"
+      ],
+      "table_data": {
+        "columns": [
+          "83009",
+          "Procedure code",
+          "",
+          "Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope",
+          "(eg, C-13)"
+        ],
+        "row": {
+          "83009": "87339",
+          "Procedure code": "",
+          "Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope": "",
+          "(eg, C-13)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 83009: 87513 | Procedure code:  | Infectious agent detection by nucleic acid (DNA or RNA); Helicobacter pylori (H. pylori), clarithromycin\nresistance, amplified probe technique | Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope:  | (eg, C-13): ",
+      "codes": [
+        "83009",
+        "87513"
+      ],
+      "table_data": {
+        "columns": [
+          "83009",
+          "Procedure code",
+          "",
+          "Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope",
+          "(eg, C-13)"
+        ],
+        "row": {
+          "83009": "87513",
+          "Procedure code": "",
+          "Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope": "",
+          "(eg, C-13)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 83009: 88305 | Procedure code:  | Level IV - Surgical pathology, gross and microscopic examination Abortion - spontaneous/missed Artery,\nbiopsy Bone marrow, biopsy Bone exostosis Brain/meninges, other than for tumor resection Breast,\nbiopsy, not requiring microscopic evaluation of surgical margins Breast, reduction mammoplasty\nBronchus, biopsy Cell block, any source Cervix, biopsy Colon, biopsy Duodenum, biopsy Endocervix,\ncurettings/biopsy Endometrium, curettings/biopsy Esophagus, biopsy Extremity, amputation, traumatic\nFallopian tube, biopsy Fallopian tube, ectopic pregnancy Femoral head, fracture Fingers/toes,\namputation, non-traumatic Gingiva/oral mucosa, biopsy Heart valve Joint, resection Kidney, biopsy\nLarynx, biopsy Leiomyoma(s), uterine myomectomy - without uterus Lip, biopsy/wedge resection Lung,\ntransbronchial biopsy Lymph node, biopsy Muscle, biopsy Nasal mucosa, biopsy\nNasopharynx/oropharynx, biopsy Nerve, biopsy Odontogenic/dental cyst Omentum, biopsy Ovary with or\nwithout tube, non-neoplastic Ovary, biopsy/wedge resection Parathyroid gland Peritoneum, biopsy\nPituitary tumor Placenta, other than third trimester Pleura/pericardium - biopsy/tissue Polyp,\ncervical/endometrial Polyp, colorectal Polyp, stomach/small intestine Prostate, needle biopsy Prostate,\nTUR Salivary gland, biopsy Sinus, paranasal biopsy Skin, other than cyst/tag/debridement/plastic repair\nSmall intestine, biopsy Soft tissue, other than tumor/mass/lipoma/debridement Spleen Stomach, biopsy\nSynovium Testis, other than tumor/biopsy/castration Thyroglossal duct/brachial cleft cyst Tongue, biopsy\nTonsil, biopsy Trachea, biopsy Ureter, biopsy Urethra, biopsy Urinary bladder, biopsy Uterus, with or\nwithout tubes and ovaries, for prolapse Vagina, biopsy Vulva/labia, biopsy | Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope:  | (eg, C-13): ",
+      "codes": [
+        "83009",
+        "88305"
+      ],
+      "table_data": {
+        "columns": [
+          "83009",
+          "Procedure code",
+          "",
+          "Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope",
+          "(eg, C-13)"
+        ],
+        "row": {
+          "83009": "88305",
+          "Procedure code": "",
+          "Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope": "",
+          "(eg, C-13)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 83009: 0008U* | Procedure code:  | Helicobacter pylori detection and antibiotic resistance, DNA, 16S and 23S rRNA, gyrA, pbp1, rdxA and\nrpoB, next-generation sequencing, formalin-fixed paraffin-embedded or fresh tissue or fecal sample,\npredictive, reported as positive or negative for resistance to clarithromycin, fluoroquinolones,\nmetronidazole, amoxicillin, tetracycline, and rifabutin\nProprietary test: AmHPR H. pylori Antibiotic Resistance Panel\nLab/Manufacturer: American Molecular Laboratories, Inc | Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope:  | (eg, C-13): ",
+      "codes": [
+        "83009",
+        "0008U"
+      ],
+      "table_data": {
+        "columns": [
+          "83009",
+          "Procedure code",
+          "",
+          "Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope",
+          "(eg, C-13)"
+        ],
+        "row": {
+          "83009": "0008U*",
+          "Procedure code": "",
+          "Code description Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope": "",
+          "(eg, C-13)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, LLC | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | L36021: L35160 | Policy number:  | 0008U: 0008U | Procedure code: ",
+      "codes": [
+        "0008U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0008U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "L36021": "L35160",
+          "Policy number": "",
+          "0008U": "0008U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Palmetto GBA | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | L36021: L35025 | Policy number:  | 0008U: 0008U | Procedure code: ",
+      "codes": [
+        "0008U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0008U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Palmetto GBA",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "L36021": "L35025",
+          "Policy number": "",
+          "0008U": "0008U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: First Coast Service Options,\nInc. | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): Billing and Coding: Molecular\nPathology and Genetic Testing | Policy title:  | L36021: A58918 | Policy number:  | 0008U: 0008U | Procedure code: ",
+      "codes": [
+        "0008U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0008U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "First Coast Service Options,\nInc.",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title": "",
+          "L36021": "A58918",
+          "Policy number": "",
+          "0008U": "0008U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Novitas Solutions, Inc. | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): Biomarkers Overview | Policy title:  | L36021: L35062 | Policy number:  | 0008U: 0008U | Procedure code: ",
+      "codes": [
+        "0008U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0008U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Novitas Solutions, Inc.",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "Biomarkers Overview",
+          "Policy title": "",
+          "L36021": "L35062",
+          "Policy number": "",
+          "0008U": "0008U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Novitas Solutions, Inc. | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): Billing and Coding: Molecular\nPathology and Genetic Testing | Policy title:  | L36021: A58917 | Policy number:  | 0008U: 0008U | Procedure code: ",
+      "codes": [
+        "0008U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0008U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Novitas Solutions, Inc.",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title": "",
+          "L36021": "A58917",
+          "Policy number": "",
+          "0008U": "0008U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Wisconsin Physicians Service\nInsurance Corporation | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | L36021: L36807 | Policy number:  | 0008U: 0008U | Procedure code: ",
+      "codes": [
+        "0008U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0008U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Wisconsin Physicians Service\nInsurance Corporation",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "L36021": "L36807",
+          "Policy number": "",
+          "0008U": "0008U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nUrea breath testing (CPT code 83013, CPT code 83014) or stool antigen testing (CPT code 87338) for Helicobacter pylori (H. pylori) infection IS REIMBURSABLE, no more than one test every four weeks, for following situations:\n\nLong term usage of a non-steroidal anti-inflammatory drug (NSAID) or aspirin\n\nLow-grade gastric mucosa-associated lymphoid tissue (MALT) lymphoma\n\nFor a refractory H. pylori infection, nucleic acid-based susceptibility testing (CPT code 87513, CPT code 0008U*) IS REIMBURSABLE.\n\nSerologic testing for H. pylori infection (CPT code 83009, CPT code 86677, CPT code 87339) IS NOT REIMBURSABLE.\n\nFor H. pylori infection, single-step serologic testing for H. pylori (CPT code 86318) IS NOT REIMBURSABLE.\n\nFor all other situations not addressed above, urea breath testing (CPT code 83013, CPT code 83014), stool antigen testing (CPT code 87338) or nucleic acid-based susceptibility testing (CPT code 87513, CPT code 0008U*) IS NOT REIMBURSABLE.\n\nStool antigen testing (CPT code 87338) IS NOT REIMBURSABLE when performed simultaneously with the urea breath test (CPT code 83013).\n\nUrea breath testing (CPT code 83013, CPT code 83014) or stool antigen testing (CPT code 87338) IS NOT REIMBURSABLE when performed simultaneously with biopsy-based testing (CPT code 88305)\n\n83009 Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope (eg, C-13) 83013 Helicobacter pylori; breath test analysis for urease activity, non-radioactive isotope (e.g. C-13) 83014\n\n86318 Immunoassay for infectious agent antibody(ies), qualitative or semiquantitative, single step-method (eg, reagent strip) 86677\n\n87338 Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme- linked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay [IMCA]) qualitative or semiquantitative; Helicobacter pylori, stool 87339 Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme- linked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay [IMCA]) qualitative or semiquantitative; Helicobacter pylori 87513 Infectious agent detection by nucleic acid (DNA or RNA); Helicobacter pylori (H. pylori), clarithromycin resistance, amplified probe technique 88305 Level IV - Surgical pathology, gross and microscopic examination Abortion - spontaneous/missed Artery, biopsy Bone marrow, biopsy Bone exostosis Brain/meninges, other than for tumor resection Breast, biopsy, not requiring microscopic evaluation of surgical margins Breast, reduction mammoplasty Bronchus, biopsy Cell block, any source Cervix, biopsy Colon, biopsy Duodenum, biopsy Endocervix, curettings/biopsy Endometrium, curettings/biopsy Esophagus, biopsy Extremity, amputation, traumatic Fallopian tube, biopsy Fallopian tube, ectopic pregnancy Femoral head, fracture Fingers/toes, amputation, non-traumatic Gingiva/oral mucosa, biopsy Heart valve Joint, resection Kidney, biopsy Larynx, biopsy Leiomyoma(s), uterine myomectomy - without uterus Lip, biopsy/wedge resection Lung, transbronchial biopsy Lymph node, biopsy Muscle, biopsy Nasal mucosa, biopsy Nasopharynx/oropharynx, biopsy Nerve, biopsy Odontogenic/dental cyst Omentum, biopsy Ovary with or without tube, non-neoplastic Ovary, biopsy/wedge resection Parathyroid gland Peritoneum, biopsy Pituitary tumor Placenta, other than third trimester Pleura/pericardium - biopsy/tissue Polyp, cervical/endometrial Polyp, colorectal Polyp, stomach/small intestine Prostate, needle biopsy Prostate, TUR Salivary gland, biopsy Sinus, paranasal biopsy Skin, other than cyst/tag/debridement/plastic repair Small intestine, biopsy Soft tissue, other than tumor/mass/lipoma/debridement Spleen Stomach, biopsy Synovium Testis, other than tumor/biopsy/castration Thyroglossal duct/brachial cleft cyst Tongue, biopsy Tonsil, biopsy Trachea, biopsy Ureter, biopsy Urethra, biopsy Urinary bladder, biopsy Uterus, with or without tubes and ovaries, for prolapse Vagina, biopsy Vulva/labia, biopsy 0008U* Helicobacter pylori detection and antibiotic resistance, DNA, 16S and 23S rRNA, gyrA, pbp1, rdxA and rpoB, next-generation sequencing, formalin-fixed paraffin-embedded or fresh tissue or fecal sample, predictive, reported as positive or negative for resistance to clarithromycin, fluoroquinolones, metronidazole, amoxicillin, tetracycline, and rifabutin\n\n*The payment criterion for 0008U applies to all Medicare jurisdictions, except those states awarded to CGS Administrators, LLC, Noridian Healthcare Solutions, LLC\n\nand Palmetto GBA, First Coast Service Options, Inc, Novitas Solutions, Inc., Wisconsin Physicians Service Insurance Corporation\n\nL36021 0008U\n\nL35160 0008U\n\nL35025 0008U First Coast Service Options, Inc.\n\nA58918 0008U Novitas Solutions, Inc.\n\nL35062 0008U Novitas Solutions, Inc.\n\nA58917 0008U\n\nL36807 0008U"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

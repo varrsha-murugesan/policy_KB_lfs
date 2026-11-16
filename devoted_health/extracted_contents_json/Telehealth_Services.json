@@ -1,0 +1,4743 @@
+{
+  "policy_title": "Telehealth Services",
+  "policy_number": "CLMS.CP.0045",
+  "effective_date": "2026-09-28",
+  "version": "2.0",
+  "source_pdf": "Telehealth_Services.pdf",
+  "source_url": "https://assets.devoted.com/Providers/DH_policy_telehealth_2025",
+  "line_of_business": "Medicare Advantage",
+  "billing_class": "Both",
+  "page_count": 10,
+  "revision_history": [
+    {
+      "date": "2026-09-28",
+      "document_num": "CLMS.CP.0045",
+      "version_num": "2.0"
+    },
+    {
+      "date": "2026-06-30",
+      "document_num": "CLMS.CP.0045",
+      "version_num": "1.2"
+    },
+    {
+      "date": "2025-06-17",
+      "document_num": "CLMS.CP.0045",
+      "version_num": "1.1"
+    },
+    {
+      "date": "2025-02-24",
+      "document_num": "CLMS.CP.0045",
+      "version_num": "1.0"
+    }
+  ],
+  "table_count": 5,
+  "codes_found": {
+    "cpt_hcpcs": [
+      "90791",
+      "90792",
+      "90832",
+      "90833",
+      "90834",
+      "90835",
+      "90836",
+      "90837",
+      "90838",
+      "98000",
+      "98001",
+      "98002",
+      "98003",
+      "98004",
+      "98005",
+      "98006",
+      "98007",
+      "98008",
+      "98009",
+      "98010",
+      "98011",
+      "98012",
+      "98013",
+      "98014",
+      "98015",
+      "98016",
+      "98975",
+      "98980",
+      "99202",
+      "99203",
+      "99204",
+      "99205",
+      "99206",
+      "99207",
+      "99208",
+      "99209",
+      "99210",
+      "99211",
+      "99212",
+      "99213",
+      "99214",
+      "99215",
+      "99421",
+      "99422",
+      "99423",
+      "99441",
+      "99442",
+      "99443",
+      "99453",
+      "99454",
+      "99455",
+      "99456",
+      "99457",
+      "99458",
+      "99495",
+      "99496",
+      "G0425",
+      "G0427",
+      "G0438",
+      "G0439",
+      "G2010",
+      "G2252",
+      "Q3014"
+    ],
+    "modifiers": [
+      "93",
+      "95",
+      "FQ",
+      "G0",
+      "GQ",
+      "GT",
+      "US"
+    ],
+    "revenue_codes": [],
+    "bill_types": [],
+    "icd_codes": []
+  },
+  "CPT_CODES_USED": [
+    "90791",
+    "90792",
+    "90832",
+    "90833",
+    "90834",
+    "90835",
+    "90836",
+    "90837",
+    "90838",
+    "98000",
+    "98001",
+    "98002",
+    "98003",
+    "98004",
+    "98005",
+    "98006",
+    "98007",
+    "98008",
+    "98009",
+    "98010",
+    "98011",
+    "98012",
+    "98013",
+    "98014",
+    "98015",
+    "98016",
+    "98975",
+    "98980",
+    "99202",
+    "99203",
+    "99204",
+    "99205",
+    "99206",
+    "99207",
+    "99208",
+    "99209",
+    "99210",
+    "99211",
+    "99212",
+    "99213",
+    "99214",
+    "99215",
+    "99421",
+    "99422",
+    "99423",
+    "99441",
+    "99442",
+    "99443",
+    "99453",
+    "99454",
+    "99455",
+    "99456",
+    "99457",
+    "99458",
+    "99495",
+    "99496",
+    "G0425",
+    "G0427",
+    "G0438",
+    "G0439",
+    "G2010",
+    "G2252",
+    "Q3014"
+  ],
+  "sections_summary": [
+    "OVERVIEW",
+    "PURPOSE",
+    "APPLICABILITY",
+    "POLICY",
+    "ACRONYMS AND DEFINITIONS",
+    "RESPONSIBILITIES",
+    "N/A",
+    "REGULATORY REFERENCE",
+    "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+    "REVIEW AND VERSION HISTORY"
+  ],
+  "tables": [
+    {
+      "table_id": "tab_p3_1",
+      "title": "Table (Page 3)",
+      "page_number": 3,
+      "bbox": [
+        72.625,
+        592.4183471679687,
+        575.375,
+        705.4999389648438
+      ],
+      "columns": [
+        "Service",
+        "Physician Location",
+        "Submission POS",
+        "Common CPT and HCPCS\nCodes"
+      ],
+      "row_count": 1,
+      "col_count": 4,
+      "rows": [
+        {
+          "Service": "Telehealth\n(Interactive\naudio-visual session\npermitting real-time",
+          "Physician Location": "Office/Facility/Home",
+          "Submission POS": "Use CPT telehealth\nmodifier \"95\" with\nany POS",
+          "Common CPT and HCPCS\nCodes": "● 99202-99215 (office\nor OP visit)\n● G0425 - G0427\n(telehealth"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Service",
+          "Physician Location",
+          "Submission POS",
+          "Common CPT and HCPCS\nCodes"
+        ],
+        [
+          "Telehealth\n(Interactive\naudio-visual session\npermitting real-time",
+          "Office/Facility/Home",
+          "Use CPT telehealth\nmodifier \"95\" with\nany POS",
+          "● 99202-99215 (office\nor OP visit)\n● G0425 - G0427\n(telehealth"
+        ]
+      ],
+      "markdown": "| Service | Physician Location | Submission POS | Common CPT and HCPCS\nCodes |\n| --- | --- | --- | --- |\n| Telehealth\n(Interactive\naudio-visual session\npermitting real-time | Office/Facility/Home | Use CPT telehealth\nmodifier \"95\" with\nany POS | ● 99202-99215 (office\nor OP visit)\n● G0425 - G0427\n(telehealth |",
+      "codes": {
+        "cpt_hcpcs": [
+          "99202",
+          "99203",
+          "99204",
+          "99205",
+          "99206",
+          "99207",
+          "99208",
+          "99209",
+          "99210",
+          "99211",
+          "99212",
+          "99213",
+          "99214",
+          "99215",
+          "G0425",
+          "G0427"
+        ],
+        "modifiers": [
+          "95"
+        ],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p4_1",
+      "title": "Table (Page 3) (Continued)",
+      "page_number": 4,
+      "bbox": [
+        72.5,
+        72.5,
+        575.5,
+        298.5
+      ],
+      "columns": [
+        "Service",
+        "Physician Location",
+        "Submission POS",
+        "Common CPT and HCPCS\nCodes"
+      ],
+      "row_count": 4,
+      "col_count": 4,
+      "rows": [
+        {
+          "Service": "interactive\ncommunication)",
+          "Physician Location": "",
+          "Submission POS": "",
+          "Common CPT and HCPCS\nCodes": "consultations,\nemergency\ndepartment, or\ninitial inpatient)\n● 98000-98007"
+        },
+        {
+          "Service": "Telephone Services\n(audio only)",
+          "Physician Location": "Office/Facility/Home",
+          "Submission POS": "Use CPT telehealth\nmodifier \"93\" with\nany POS",
+          "Common CPT and HCPCS\nCodes": "● 99202 - 99215\n(office or OP visit)\n● 98008-98015"
+        },
+        {
+          "Service": "Virtual Check-in (5\nto 20 mins)",
+          "Physician Location": "Office/Facility/Home",
+          "Submission POS": "Any POS",
+          "Common CPT and HCPCS\nCodes": "● G2010, G2252,\n98016"
+        },
+        {
+          "Service": "E-visit (use of\npatient portal)",
+          "Physician Location": "Office/Facility/Home",
+          "Submission POS": "Any POS",
+          "Common CPT and HCPCS\nCodes": "● 99421, 99422,\n99423"
+        }
+      ],
+      "raw_grid": [
+        [
+          "interactive\ncommunication)",
+          "",
+          "",
+          "consultations,\nemergency\ndepartment, or\ninitial inpatient)\n● 98000-98007"
+        ],
+        [
+          "Telephone Services\n(audio only)",
+          "Office/Facility/Home",
+          "Use CPT telehealth\nmodifier \"93\" with\nany POS",
+          "● 99202 - 99215\n(office or OP visit)\n● 98008-98015"
+        ],
+        [
+          "Virtual Check-in (5\nto 20 mins)",
+          "Office/Facility/Home",
+          "Any POS",
+          "● G2010, G2252,\n98016"
+        ],
+        [
+          "E-visit (use of\npatient portal)",
+          "Office/Facility/Home",
+          "Any POS",
+          "● 99421, 99422,\n99423"
+        ]
+      ],
+      "markdown": "| Service | Physician Location | Submission POS | Common CPT and HCPCS\nCodes |\n| --- | --- | --- | --- |\n| interactive\ncommunication) |  |  | consultations,\nemergency\ndepartment, or\ninitial inpatient)\n● 98000-98007 |\n| Telephone Services\n(audio only) | Office/Facility/Home | Use CPT telehealth\nmodifier \"93\" with\nany POS | ● 99202 - 99215\n(office or OP visit)\n● 98008-98015 |\n| Virtual Check-in (5\nto 20 mins) | Office/Facility/Home | Any POS | ● G2010, G2252,\n98016 |\n| E-visit (use of\npatient portal) | Office/Facility/Home | Any POS | ● 99421, 99422,\n99423 |",
+      "codes": {
+        "cpt_hcpcs": [
+          "98000",
+          "98001",
+          "98002",
+          "98003",
+          "98004",
+          "98005",
+          "98006",
+          "98007",
+          "98008",
+          "98009",
+          "98010",
+          "98011",
+          "98012",
+          "98013",
+          "98014",
+          "98015",
+          "98016",
+          "99202",
+          "99203",
+          "99204",
+          "99205",
+          "99206",
+          "99207",
+          "99208",
+          "99209",
+          "99210",
+          "99211",
+          "99212",
+          "99213",
+          "99214",
+          "99215",
+          "99421",
+          "99422",
+          "99423",
+          "G2010",
+          "G2252"
+        ],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p5_1",
+      "title": "Table (Page 3) (Continued) (Continued)",
+      "page_number": 5,
+      "bbox": [
+        72.25,
+        401.56837158203126,
+        528.25,
+        717.5
+      ],
+      "columns": [
+        "Service",
+        "Physician Location",
+        "Submission POS",
+        "Common CPT and HCPCS\nCodes"
+      ],
+      "row_count": 12,
+      "col_count": 4,
+      "rows": [
+        {
+          "Service": "Code",
+          "Physician Location": "Technology",
+          "Submission POS": "Patient Type",
+          "Common CPT and HCPCS\nCodes": "Time Spent"
+        },
+        {
+          "Service": "98000",
+          "Physician Location": "Audio-Video",
+          "Submission POS": "New",
+          "Common CPT and HCPCS\nCodes": "15+ minutes"
+        },
+        {
+          "Service": "98001",
+          "Physician Location": "Audio-Video",
+          "Submission POS": "New",
+          "Common CPT and HCPCS\nCodes": "30+ minutes"
+        },
+        {
+          "Service": "98002",
+          "Physician Location": "Audio-Video",
+          "Submission POS": "New",
+          "Common CPT and HCPCS\nCodes": "45+ minutes"
+        },
+        {
+          "Service": "98003",
+          "Physician Location": "Audio-Video",
+          "Submission POS": "New",
+          "Common CPT and HCPCS\nCodes": "60+ minutes"
+        },
+        {
+          "Service": "98004",
+          "Physician Location": "Audio-Video",
+          "Submission POS": "Established",
+          "Common CPT and HCPCS\nCodes": "10+ minutes"
+        },
+        {
+          "Service": "98005",
+          "Physician Location": "Audio-Video",
+          "Submission POS": "Established",
+          "Common CPT and HCPCS\nCodes": "20+ minutes"
+        },
+        {
+          "Service": "98006",
+          "Physician Location": "Audio-Video",
+          "Submission POS": "Established",
+          "Common CPT and HCPCS\nCodes": "30+ minutes"
+        },
+        {
+          "Service": "98007",
+          "Physician Location": "Audio-Video",
+          "Submission POS": "Established",
+          "Common CPT and HCPCS\nCodes": "40+ minutes"
+        },
+        {
+          "Service": "98008",
+          "Physician Location": "Audio-Only",
+          "Submission POS": "New",
+          "Common CPT and HCPCS\nCodes": "15+ minutes"
+        },
+        {
+          "Service": "98009",
+          "Physician Location": "Audio-Only",
+          "Submission POS": "New",
+          "Common CPT and HCPCS\nCodes": "30+ minutes"
+        },
+        {
+          "Service": "98010",
+          "Physician Location": "Audio-Only",
+          "Submission POS": "New",
+          "Common CPT and HCPCS\nCodes": "45+ minutes"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Code",
+          "Technology",
+          "Patient Type",
+          "Time Spent"
+        ],
+        [
+          "98000",
+          "Audio-Video",
+          "New",
+          "15+ minutes"
+        ],
+        [
+          "98001",
+          "Audio-Video",
+          "New",
+          "30+ minutes"
+        ],
+        [
+          "98002",
+          "Audio-Video",
+          "New",
+          "45+ minutes"
+        ],
+        [
+          "98003",
+          "Audio-Video",
+          "New",
+          "60+ minutes"
+        ],
+        [
+          "98004",
+          "Audio-Video",
+          "Established",
+          "10+ minutes"
+        ],
+        [
+          "98005",
+          "Audio-Video",
+          "Established",
+          "20+ minutes"
+        ],
+        [
+          "98006",
+          "Audio-Video",
+          "Established",
+          "30+ minutes"
+        ],
+        [
+          "98007",
+          "Audio-Video",
+          "Established",
+          "40+ minutes"
+        ],
+        [
+          "98008",
+          "Audio-Only",
+          "New",
+          "15+ minutes"
+        ],
+        [
+          "98009",
+          "Audio-Only",
+          "New",
+          "30+ minutes"
+        ],
+        [
+          "98010",
+          "Audio-Only",
+          "New",
+          "45+ minutes"
+        ]
+      ],
+      "markdown": "| Service | Physician Location | Submission POS | Common CPT and HCPCS\nCodes |\n| --- | --- | --- | --- |\n| Code | Technology | Patient Type | Time Spent |\n| 98000 | Audio-Video | New | 15+ minutes |\n| 98001 | Audio-Video | New | 30+ minutes |\n| 98002 | Audio-Video | New | 45+ minutes |\n| 98003 | Audio-Video | New | 60+ minutes |\n| 98004 | Audio-Video | Established | 10+ minutes |\n| 98005 | Audio-Video | Established | 20+ minutes |\n| 98006 | Audio-Video | Established | 30+ minutes |\n| 98007 | Audio-Video | Established | 40+ minutes |\n| 98008 | Audio-Only | New | 15+ minutes |\n| 98009 | Audio-Only | New | 30+ minutes |\n| 98010 | Audio-Only | New | 45+ minutes |",
+      "codes": {
+        "cpt_hcpcs": [
+          "98000",
+          "98001",
+          "98002",
+          "98003",
+          "98004",
+          "98005",
+          "98006",
+          "98007",
+          "98008",
+          "98009",
+          "98010"
+        ],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p6_1",
+      "title": "Table (Page 3) (Continued) (Continued) (Continued)",
+      "page_number": 6,
+      "bbox": [
+        72.33333333333333,
+        72.1,
+        528.3333333333334,
+        271.5
+      ],
+      "columns": [
+        "Service",
+        "Physician Location",
+        "Submission POS",
+        "Common CPT and HCPCS\nCodes"
+      ],
+      "row_count": 7,
+      "col_count": 4,
+      "rows": [
+        {
+          "Service": "Code",
+          "Physician Location": "Technology",
+          "Submission POS": "Patient Type",
+          "Common CPT and HCPCS\nCodes": "Time Spent"
+        },
+        {
+          "Service": "98011",
+          "Physician Location": "Audio-Only",
+          "Submission POS": "New",
+          "Common CPT and HCPCS\nCodes": "60+ minutes"
+        },
+        {
+          "Service": "98012",
+          "Physician Location": "Audio-Only",
+          "Submission POS": "Established",
+          "Common CPT and HCPCS\nCodes": "10+ minutes"
+        },
+        {
+          "Service": "98013",
+          "Physician Location": "Audio-Only",
+          "Submission POS": "Established",
+          "Common CPT and HCPCS\nCodes": "20+ minutes"
+        },
+        {
+          "Service": "98014",
+          "Physician Location": "Audio-Only",
+          "Submission POS": "Established",
+          "Common CPT and HCPCS\nCodes": "30+ minutes"
+        },
+        {
+          "Service": "98015",
+          "Physician Location": "Audio-Only",
+          "Submission POS": "Established",
+          "Common CPT and HCPCS\nCodes": "40+ minutes"
+        },
+        {
+          "Service": "98016",
+          "Physician Location": "Communication\nTech",
+          "Submission POS": "Established",
+          "Common CPT and HCPCS\nCodes": "5-10 minutes"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Code",
+          "Technology",
+          "Patient Type",
+          "Time Spent"
+        ],
+        [
+          "98011",
+          "Audio-Only",
+          "New",
+          "60+ minutes"
+        ],
+        [
+          "98012",
+          "Audio-Only",
+          "Established",
+          "10+ minutes"
+        ],
+        [
+          "98013",
+          "Audio-Only",
+          "Established",
+          "20+ minutes"
+        ],
+        [
+          "98014",
+          "Audio-Only",
+          "Established",
+          "30+ minutes"
+        ],
+        [
+          "98015",
+          "Audio-Only",
+          "Established",
+          "40+ minutes"
+        ],
+        [
+          "98016",
+          "Communication\nTech",
+          "Established",
+          "5-10 minutes"
+        ]
+      ],
+      "markdown": "| Service | Physician Location | Submission POS | Common CPT and HCPCS\nCodes |\n| --- | --- | --- | --- |\n| Code | Technology | Patient Type | Time Spent |\n| 98011 | Audio-Only | New | 60+ minutes |\n| 98012 | Audio-Only | Established | 10+ minutes |\n| 98013 | Audio-Only | Established | 20+ minutes |\n| 98014 | Audio-Only | Established | 30+ minutes |\n| 98015 | Audio-Only | Established | 40+ minutes |\n| 98016 | Communication\nTech | Established | 5-10 minutes |",
+      "codes": {
+        "cpt_hcpcs": [
+          "98011",
+          "98012",
+          "98013",
+          "98014",
+          "98015",
+          "98016"
+        ],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p10_1",
+      "title": "Table (Page 10)",
+      "page_number": 10,
+      "bbox": [
+        54.12000020345052,
+        106.42999267578125,
+        557.8800048828125,
+        189.8900146484375
+      ],
+      "columns": [
+        "Date",
+        "Document #",
+        "Version #"
+      ],
+      "row_count": 4,
+      "col_count": 3,
+      "rows": [
+        {
+          "Date": "2026-09-28",
+          "Document #": "CLMS.CP.0045",
+          "Version #": "2.0"
+        },
+        {
+          "Date": "2026-06-30",
+          "Document #": "CLMS.CP.0045",
+          "Version #": "1.2"
+        },
+        {
+          "Date": "2025-06-17",
+          "Document #": "CLMS.CP.0045",
+          "Version #": "1.1"
+        },
+        {
+          "Date": "2025-02-24",
+          "Document #": "CLMS.CP.0045",
+          "Version #": "1.0"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        [
+          "2026-09-28",
+          "CLMS.CP.0045",
+          "2.0"
+        ],
+        [
+          "2026-06-30",
+          "CLMS.CP.0045",
+          "1.2"
+        ],
+        [
+          "2025-06-17",
+          "CLMS.CP.0045",
+          "1.1"
+        ],
+        [
+          "2025-02-24",
+          "CLMS.CP.0045",
+          "1.0"
+        ]
+      ],
+      "markdown": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-09-28 | CLMS.CP.0045 | 2.0 |\n| 2026-06-30 | CLMS.CP.0045 | 1.2 |\n| 2025-06-17 | CLMS.CP.0045 | 1.1 |\n| 2025-02-24 | CLMS.CP.0045 | 1.0 |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    }
+  ],
+  "extracted_content": [
+    {
+      "id": "item_0001",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Telehealth Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0002",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "[CLMS.CP.0045] 2026-09-28",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0003",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0045 - 2026-09-28 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0004",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0005",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0006",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Page 1 of 10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0007",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "PURPOSE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0008",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "The purpose of this policy is to ensure access to high-quality care for Devoted Health",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0009",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "members through the provision of telehealth services. It establishes the framework for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0010",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "reimbursement of telehealth services, including telephone services, virtual check-ins, and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0011",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "e-visits. Telehealth services are defined as healthcare delivered remotely via",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0012",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "telecommunications technologies, and occur when the healthcare provider and the patient",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0013",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "are in separate locations, employing technology to bridge healthcare delivery.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0014",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "APPLICABILITY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0015",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy applies to all Devoted Health Plans.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0016",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "POLICY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0017",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Outlined below are the telehealth services covered under this policy, including, but not",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0018",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "limited to, specific codes, place of service (POS) designations, and common modifiers. For the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0019",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "purposes of this policy, telehealth encompasses synchronous and asynchronous",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0020",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "communication between providers and our members. This includes live, interactive audio or",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0021",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "audio-visual sessions, and asynchronous exchanges.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0022",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Providers must ensure that claims clearly indicate when services are delivered via telehealth.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0023",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Whether identified through place of service (POS) codes, telehealth modifiers, or other",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0024",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "documentation, we will process claims as long as telehealth delivery is evident.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0025",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Additionally, providers must meet all CMS requirements for rendering telehealth services,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0026",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "including licensure, scope of practice, and professional standards in the state(s) of both the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0027",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "practitioner and patient.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0028",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Note on Telehealth Waivers",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0029",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Devoted Health has been applying Congressionally-authorized telehealth coverage waivers,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0030",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "which are set to expire on September 30, 2025. Effective October 1, 2025, claims for telehealth",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0031",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "services will be subject to applicable CMS limitations unless the services qualify under an",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0032",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "additional telehealth services benefit. For further details on these limitations, refer to CMS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0033",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "guidance provided in the References section of this policy.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0034",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0045 - 2026-09-28 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0035",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0036",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0037",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Page 2 of 10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0038",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Additional Telehealth Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0039",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Telehealth services covered under an additional telehealth benefit in the member's",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0040",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "applicable Evidence of Coverage (EOC) are eligible for reimbursement. Unless restricted by",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0041",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "federal statute or regulation, Devoted Health will allow additional telehealth services if the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0042",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "following conditions are met:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0043",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● The service is clinically appropriate for delivery via telecommunications-based",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0044",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "technology.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0045",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● The service is covered under the plan's benefit structure.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0046",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● All applicable coding and billing requirements are satisfied.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0047",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Other Virtual Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0048",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Devoted Health also covers other virtual services that are reimbursable under Original",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0049",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Medicare but are not classified as telehealth services, including:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0050",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● E-visits",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0051",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Virtual check-ins",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0052",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Remote monitoring",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0053",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Below is a detailed breakdown to clarify the scope of reimbursement and compliance",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0054",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "requirements.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0055",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Telehealth Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0056",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Coverage includes original Medicare telehealth services, as well as other virtual services, such",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0057",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "as telephone services, e-visits, and virtual check-ins. Telehealth services must meet CMS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0058",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "guidelines, including applicable CPT/HCPCS codes and modifiers. Services may include",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0059",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "synchronous audio-visual sessions, asynchronous exchanges, and audio-only services where",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0060",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "applicable.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0061",
+      "title": "Table (Page 3)",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "table",
+      "content": "| Service | Physician Location | Submission POS | Common CPT and HCPCS\nCodes |\n| --- | --- | --- | --- |\n| Telehealth\n(Interactive\naudio-visual session\npermitting real-time | Office/Facility/Home | Use CPT telehealth\nmodifier \"95\" with\nany POS | ● 99202-99215 (office\nor OP visit)\n● G0425 - G0427\n(telehealth |",
+      "codes": [
+        "95",
+        "99202",
+        "99203",
+        "99204",
+        "99205",
+        "99206",
+        "99207",
+        "99208",
+        "99209",
+        "99210",
+        "99211",
+        "99212",
+        "99213",
+        "99214",
+        "99215",
+        "G0425",
+        "G0427"
+      ],
+      "table_data": {
+        "table_id": "tab_p3_1",
+        "title": "Table (Page 3)",
+        "columns": [
+          "Service",
+          "Physician Location",
+          "Submission POS",
+          "Common CPT and HCPCS\nCodes"
+        ],
+        "row_count": 1,
+        "rows": [
+          {
+            "Service": "Telehealth\n(Interactive\naudio-visual session\npermitting real-time",
+            "Physician Location": "Office/Facility/Home",
+            "Submission POS": "Use CPT telehealth\nmodifier \"95\" with\nany POS",
+            "Common CPT and HCPCS\nCodes": "● 99202-99215 (office\nor OP visit)\n● G0425 - G0427\n(telehealth"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0062",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0045 - 2026-09-28 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0063",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0064",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0065",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Page 3 of 10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0066",
+      "title": "Table (Page 3) (Continued)",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "table",
+      "content": "| Service | Physician Location | Submission POS | Common CPT and HCPCS\nCodes |\n| --- | --- | --- | --- |\n| interactive\ncommunication) |  |  | consultations,\nemergency\ndepartment, or\ninitial inpatient)\n● 98000-98007 |\n| Telephone Services\n(audio only) | Office/Facility/Home | Use CPT telehealth\nmodifier \"93\" with\nany POS | ● 99202 - 99215\n(office or OP visit)\n● 98008-98015 |\n| Virtual Check-in (5\nto 20 mins) | Office/Facility/Home | Any POS | ● G2010, G2252,\n98016 |\n| E-visit (use of\npatient portal) | Office/Facility/Home | Any POS | ● 99421, 99422,\n99423 |",
+      "codes": [
+        "98000",
+        "98001",
+        "98002",
+        "98003",
+        "98004",
+        "98005",
+        "98006",
+        "98007",
+        "98008",
+        "98009",
+        "98010",
+        "98011",
+        "98012",
+        "98013",
+        "98014",
+        "98015",
+        "98016",
+        "99202",
+        "99203",
+        "99204",
+        "99205",
+        "99206",
+        "99207",
+        "99208",
+        "99209",
+        "99210",
+        "99211",
+        "99212",
+        "99213",
+        "99214",
+        "99215",
+        "99421",
+        "99422",
+        "99423",
+        "G2010",
+        "G2252"
+      ],
+      "table_data": {
+        "table_id": "tab_p4_1",
+        "title": "Table (Page 3) (Continued)",
+        "columns": [
+          "Service",
+          "Physician Location",
+          "Submission POS",
+          "Common CPT and HCPCS\nCodes"
+        ],
+        "row_count": 4,
+        "rows": [
+          {
+            "Service": "interactive\ncommunication)",
+            "Physician Location": "",
+            "Submission POS": "",
+            "Common CPT and HCPCS\nCodes": "consultations,\nemergency\ndepartment, or\ninitial inpatient)\n● 98000-98007"
+          },
+          {
+            "Service": "Telephone Services\n(audio only)",
+            "Physician Location": "Office/Facility/Home",
+            "Submission POS": "Use CPT telehealth\nmodifier \"93\" with\nany POS",
+            "Common CPT and HCPCS\nCodes": "● 99202 - 99215\n(office or OP visit)\n● 98008-98015"
+          },
+          {
+            "Service": "Virtual Check-in (5\nto 20 mins)",
+            "Physician Location": "Office/Facility/Home",
+            "Submission POS": "Any POS",
+            "Common CPT and HCPCS\nCodes": "● G2010, G2252,\n98016"
+          },
+          {
+            "Service": "E-visit (use of\npatient portal)",
+            "Physician Location": "Office/Facility/Home",
+            "Submission POS": "Any POS",
+            "Common CPT and HCPCS\nCodes": "● 99421, 99422,\n99423"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0067",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Additional Covered Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0068",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "In addition to the Medicare-covered and additional telehealth services, the following services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0069",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "are covered under this policy. These services may be provided via telehealth and are intended",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0070",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "to support the care and management of patients with various healthcare needs. The list",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0071",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "below includes, but is not limited to, the following services:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0072",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "○ Annual Wellness Visits HCPCS codes G0438 and G0439.",
+      "codes": [
+        "G0438",
+        "G0439"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0073",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "○ Behavioral health integration and advanced care planning.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0074",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "○ Chronic Care Management (CCM) and Transitional Care Management (TCM) Services:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0075",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "CPT codes 99495 and 99496.",
+      "codes": [
+        "99495",
+        "99496"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0076",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "○ End-stage renal disease (ESRD) and nutrition therapy services.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0077",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "○ Psychiatric Services CPT 90791, 90792, and psychiatric codes 90832-90838.",
+      "codes": [
+        "90791",
+        "90792",
+        "90832",
+        "90833",
+        "90834",
+        "90835",
+        "90836",
+        "90837",
+        "90838"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0078",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "○ Remote Physiologic Monitoring: CPT codes 99453-99458.",
+      "codes": [
+        "99453",
+        "99454",
+        "99455",
+        "99456",
+        "99457",
+        "99458"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0079",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "○ Remote Therapeutic Monitoring: CPT 98975 and CPT 98980",
+      "codes": [
+        "98975",
+        "98980"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0080",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Modifiers",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0081",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "The following modifiers should be used when submitting claims for telehealth services to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0082",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "indicate the type of telehealth service provided and the mode of communication used.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0083",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Properly using these modifiers ensures accurate billing and compliance with payer",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0084",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "requirements for telehealth services.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0085",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "○ Modifier 93: Audio-only telehealth services (not required for 98000 - 98015 series).2",
+      "codes": [
+        "93",
+        "98000",
+        "98001",
+        "98002",
+        "98003",
+        "98004",
+        "98005",
+        "98006",
+        "98007",
+        "98008",
+        "98009",
+        "98010",
+        "98011",
+        "98012",
+        "98013",
+        "98014",
+        "98015"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0086",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "○ Modifier 95: Audio-visual telehealth services (not required for 98000 - 98015 series).3",
+      "codes": [
+        "95",
+        "98000",
+        "98001",
+        "98002",
+        "98003",
+        "98004",
+        "98005",
+        "98006",
+        "98007",
+        "98008",
+        "98009",
+        "98010",
+        "98011",
+        "98012",
+        "98013",
+        "98014",
+        "98015"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0087",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0045 - 2026-09-28 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0088",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0089",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0090",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Page 4 of 10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0091",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "○ Modifier FQ: For RHCs and FQHCs only. Report modifier for mental health visits using",
+      "codes": [
+        "FQ"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0092",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "audio-only technology.4",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0093",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "○ Modifier G0: Telehealth service provided for purposes of diagnosis, evaluation, or",
+      "codes": [
+        "G0"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0094",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "treatment of symptoms of an acute stroke",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0095",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "○ Modifier GQ: Telehealth service rendered via an asynchronous telecommunications",
+      "codes": [
+        "GQ"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0096",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "system.3",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0097",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "○ Modifier GT: For distant site practitioners billing telehealth under the CAH Optional",
+      "codes": [
+        "GT"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0098",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Payment Method II. Institutional claims must be submitted using the GT modifier.3",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0099",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "CPT Code Updates",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0100",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Please note, the following updates to the CPT code set will apply to telehealth claims. These",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0101",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "changes reflect the removal of outdated codes and the addition of new codes that will be",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0102",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "accepted for telehealth services. Please review the details below to ensure proper billing and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0103",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "avoid delays in payment:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0104",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "○ Removals: Codes 99441-99443 will be retired, and no longer accepted on claims.",
+      "codes": [
+        "99441",
+        "99442",
+        "99443"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0105",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Claims submitted with these codes will be denied for payment or subject to delays.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0106",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "○ Additions: The 98000 - 98016 code series were introduced in CY24 to represent",
+      "codes": [
+        "98000",
+        "98001",
+        "98002",
+        "98003",
+        "98004",
+        "98005",
+        "98006",
+        "98007",
+        "98008",
+        "98009",
+        "98010",
+        "98011",
+        "98012",
+        "98013",
+        "98014",
+        "98015",
+        "98016"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0107",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "different forms of telehealth. Devoted Health will be accepting them on claims.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0108",
+      "title": "Table (Page 3) (Continued) (Continued)",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "table",
+      "content": "| Service | Physician Location | Submission POS | Common CPT and HCPCS\nCodes |\n| --- | --- | --- | --- |\n| Code | Technology | Patient Type | Time Spent |\n| 98000 | Audio-Video | New | 15+ minutes |\n| 98001 | Audio-Video | New | 30+ minutes |\n| 98002 | Audio-Video | New | 45+ minutes |\n| 98003 | Audio-Video | New | 60+ minutes |\n| 98004 | Audio-Video | Established | 10+ minutes |\n| 98005 | Audio-Video | Established | 20+ minutes |\n| 98006 | Audio-Video | Established | 30+ minutes |\n| 98007 | Audio-Video | Established | 40+ minutes |\n| 98008 | Audio-Only | New | 15+ minutes |\n| 98009 | Audio-Only | New | 30+ minutes |\n| 98010 | Audio-Only | New | 45+ minutes |",
+      "codes": [
+        "98000",
+        "98001",
+        "98002",
+        "98003",
+        "98004",
+        "98005",
+        "98006",
+        "98007",
+        "98008",
+        "98009",
+        "98010"
+      ],
+      "table_data": {
+        "table_id": "tab_p5_1",
+        "title": "Table (Page 3) (Continued) (Continued)",
+        "columns": [
+          "Service",
+          "Physician Location",
+          "Submission POS",
+          "Common CPT and HCPCS\nCodes"
+        ],
+        "row_count": 12,
+        "rows": [
+          {
+            "Service": "Code",
+            "Physician Location": "Technology",
+            "Submission POS": "Patient Type",
+            "Common CPT and HCPCS\nCodes": "Time Spent"
+          },
+          {
+            "Service": "98000",
+            "Physician Location": "Audio-Video",
+            "Submission POS": "New",
+            "Common CPT and HCPCS\nCodes": "15+ minutes"
+          },
+          {
+            "Service": "98001",
+            "Physician Location": "Audio-Video",
+            "Submission POS": "New",
+            "Common CPT and HCPCS\nCodes": "30+ minutes"
+          },
+          {
+            "Service": "98002",
+            "Physician Location": "Audio-Video",
+            "Submission POS": "New",
+            "Common CPT and HCPCS\nCodes": "45+ minutes"
+          },
+          {
+            "Service": "98003",
+            "Physician Location": "Audio-Video",
+            "Submission POS": "New",
+            "Common CPT and HCPCS\nCodes": "60+ minutes"
+          },
+          {
+            "Service": "98004",
+            "Physician Location": "Audio-Video",
+            "Submission POS": "Established",
+            "Common CPT and HCPCS\nCodes": "10+ minutes"
+          },
+          {
+            "Service": "98005",
+            "Physician Location": "Audio-Video",
+            "Submission POS": "Established",
+            "Common CPT and HCPCS\nCodes": "20+ minutes"
+          },
+          {
+            "Service": "98006",
+            "Physician Location": "Audio-Video",
+            "Submission POS": "Established",
+            "Common CPT and HCPCS\nCodes": "30+ minutes"
+          },
+          {
+            "Service": "98007",
+            "Physician Location": "Audio-Video",
+            "Submission POS": "Established",
+            "Common CPT and HCPCS\nCodes": "40+ minutes"
+          },
+          {
+            "Service": "98008",
+            "Physician Location": "Audio-Only",
+            "Submission POS": "New",
+            "Common CPT and HCPCS\nCodes": "15+ minutes"
+          },
+          {
+            "Service": "98009",
+            "Physician Location": "Audio-Only",
+            "Submission POS": "New",
+            "Common CPT and HCPCS\nCodes": "30+ minutes"
+          },
+          {
+            "Service": "98010",
+            "Physician Location": "Audio-Only",
+            "Submission POS": "New",
+            "Common CPT and HCPCS\nCodes": "45+ minutes"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0109",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0045 - 2026-09-28 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0110",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0111",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0112",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Page 5 of 10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0113",
+      "title": "Table (Page 3) (Continued) (Continued) (Continued)",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "table",
+      "content": "| Service | Physician Location | Submission POS | Common CPT and HCPCS\nCodes |\n| --- | --- | --- | --- |\n| Code | Technology | Patient Type | Time Spent |\n| 98011 | Audio-Only | New | 60+ minutes |\n| 98012 | Audio-Only | Established | 10+ minutes |\n| 98013 | Audio-Only | Established | 20+ minutes |\n| 98014 | Audio-Only | Established | 30+ minutes |\n| 98015 | Audio-Only | Established | 40+ minutes |\n| 98016 | Communication\nTech | Established | 5-10 minutes |",
+      "codes": [
+        "98011",
+        "98012",
+        "98013",
+        "98014",
+        "98015",
+        "98016"
+      ],
+      "table_data": {
+        "table_id": "tab_p6_1",
+        "title": "Table (Page 3) (Continued) (Continued) (Continued)",
+        "columns": [
+          "Service",
+          "Physician Location",
+          "Submission POS",
+          "Common CPT and HCPCS\nCodes"
+        ],
+        "row_count": 7,
+        "rows": [
+          {
+            "Service": "Code",
+            "Physician Location": "Technology",
+            "Submission POS": "Patient Type",
+            "Common CPT and HCPCS\nCodes": "Time Spent"
+          },
+          {
+            "Service": "98011",
+            "Physician Location": "Audio-Only",
+            "Submission POS": "New",
+            "Common CPT and HCPCS\nCodes": "60+ minutes"
+          },
+          {
+            "Service": "98012",
+            "Physician Location": "Audio-Only",
+            "Submission POS": "Established",
+            "Common CPT and HCPCS\nCodes": "10+ minutes"
+          },
+          {
+            "Service": "98013",
+            "Physician Location": "Audio-Only",
+            "Submission POS": "Established",
+            "Common CPT and HCPCS\nCodes": "20+ minutes"
+          },
+          {
+            "Service": "98014",
+            "Physician Location": "Audio-Only",
+            "Submission POS": "Established",
+            "Common CPT and HCPCS\nCodes": "30+ minutes"
+          },
+          {
+            "Service": "98015",
+            "Physician Location": "Audio-Only",
+            "Submission POS": "Established",
+            "Common CPT and HCPCS\nCodes": "40+ minutes"
+          },
+          {
+            "Service": "98016",
+            "Physician Location": "Communication\nTech",
+            "Submission POS": "Established",
+            "Common CPT and HCPCS\nCodes": "5-10 minutes"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0114",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "header",
+      "content": "Key Notes",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0115",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● Audio-Video Visits",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0116",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "○ Include codes 98000 to 98007.",
+      "codes": [
+        "98000",
+        "98001",
+        "98002",
+        "98003",
+        "98004",
+        "98005",
+        "98006",
+        "98007"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0117",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "○ Cover both new and established patients with varying levels of",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0118",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "decision-making complexity and time spent.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0119",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "○ Use these codes for synchronous telehealth visits where video interaction",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0120",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "occurs.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0121",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● Audio-Only Visits",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0122",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "○ Include codes 98008 to 98015.",
+      "codes": [
+        "98008",
+        "98009",
+        "98010",
+        "98011",
+        "98012",
+        "98013",
+        "98014",
+        "98015"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0123",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "○ Address scenarios where the interaction is via phone or other audio-only",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0124",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "technology.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0125",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "○ Applicable for new and established patients, with time thresholds aligning with",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0126",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "the complexity of decision-making.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0127",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● Virtual Check-ins:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0128",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "○ Code 98016 is specific to brief communication technology-based services.",
+      "codes": [
+        "98016"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0129",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "○ Typically involves 5 to 10 minutes of medical discussion with an established",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0130",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "patient.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0131",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "How to submit claims",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0132",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "When submitting claims for telehealth services, providers must adhere to the following billing",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0133",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "guidelines to ensure compliance with telehealth policy and avoid delays in processing:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0134",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "1. Professional Claims:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0135",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● Use the CMS-1500 claim form or electronic equivalent (837P).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0136",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0045 - 2026-09-28 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0137",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0138",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0139",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Page 6 of 10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0140",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● Include appropriate POS code to designate telehealth service location.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0141",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "○ POS Code 02: Telehealth provided outside the patient's home. Intended only",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0142",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "for professional claims. Should not be billed on institutional claims.1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0143",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "○ POS Code 10: Telehealth provided in the patient's home. Intended only for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0144",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "professional claims. Should not be billed on institutional claims.1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0145",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● Append the relevant telehealth modifier to the CPT/HCPCS code based on the service",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0146",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "type (audio-only, audio-visual, etc.). These are not required for the 98000-98015 series",
+      "codes": [
+        "98000",
+        "98001",
+        "98002",
+        "98003",
+        "98004",
+        "98005",
+        "98006",
+        "98007",
+        "98008",
+        "98009",
+        "98010",
+        "98011",
+        "98012",
+        "98013",
+        "98014",
+        "98015"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0147",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "as type included in description:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0148",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● Modifier 93: For audio-only telehealth services.",
+      "codes": [
+        "93"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0149",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● Modifier 95: For audio-visual telehealth services.",
+      "codes": [
+        "95"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0150",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "2. Institutional Claims:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0151",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● Use the UB-04 claim form or electronic equivalent (837i).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0152",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● Confirm the service location and documentation meet CMS requirements for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0153",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "reimbursement of telehealth facility fees.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0154",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● The Q3014 code (telehealth originating site facility fee) should only be billed on",
+      "codes": [
+        "Q3014"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0155",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "institutional claims, as it is not applicable to professional claims.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0156",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "3. Modifiers",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0157",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● Use the correct modifier to accurately reflect the type of telehealth service provided.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0158",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Modifiers help distinguish the delivery method (e.g., audio-only, audio-visual) and the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0159",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "service type.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0160",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● The list of relevant modifiers is provided in the Modifiers section above. Ensure the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0161",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "correct modifier is appended to claims based on the type of telehealth service",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0162",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "rendered.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0163",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "4. Documentation",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0164",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● Providers must ensure that all necessary documentation is submitted with claims,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0165",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "including evidence that the service was delivered via telehealth. This includes",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0166",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "documentation of the telehealth service, whether it was synchronous or",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0167",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "asynchronous, and the use of the appropriate technology (audio-only, video, etc.).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0168",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Providers are encouraged to regularly review CMS guidance and telehealth services lists to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0169",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "ensure compliance with all billing requirements.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0170",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0045 - 2026-09-28 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0171",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0172",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0173",
+      "title": "Key Notes",
+      "section": "POLICY",
+      "subsection": "Key Notes",
+      "hierarchy_path": [
+        "POLICY",
+        "Key Notes"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Page 7 of 10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0174",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "header",
+      "content": "ACRONYMS AND DEFINITIONS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0175",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "definition",
+      "content": "E-visits: Non face-to-face, patient-initiated communication through secure patient portals.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0176",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Applicable to both new and established patients.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0177",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "definition",
+      "content": "Telehealth Services: Medical services provided remotely via telecommunications technology,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0178",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "encompassing both synchronous (real-time) and asynchronous communications.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0179",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "definition",
+      "content": "Telephone Services: Evaluation and management (E&M) furnished via telephone or online by",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0180",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "a physician or qualified healthcare professional. Applicable for established patients only.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0181",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "definition",
+      "content": "Virtual Check-ins: Brief (5-10 minutes) communication with a patient via telephone, video, or",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0182",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "image exchange. Applicable for both new and established patients.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0183",
+      "title": "RESPONSIBILITIES",
+      "section": "RESPONSIBILITIES",
+      "subsection": null,
+      "hierarchy_path": [
+        "RESPONSIBILITIES"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "header",
+      "content": "RESPONSIBILITIES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0184",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0185",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "header",
+      "content": "REGULATORY REFERENCE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0186",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "1Centers for Medicare & Medicaid Services. (2023, December). R12671CP: Medicare program;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0187",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "changes to the Medicare Advantage and Part D payment policies and rates for 2024. Centers for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0188",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Medicare & Medicaid Services.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0189",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "2Centers for Medicare & Medicaid Services. (2023, December). R11792CP: Medicare program;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0190",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "changes to the Medicare Advantage and Part D payment policies and rates for 2024. Centers for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0191",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Medicare & Medicaid Services.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0192",
+      "title": "3CMS MLN Fact Sheet - Telehealth Services",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "3CMS MLN Fact Sheet - Telehealth Services",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "3CMS MLN Fact Sheet - Telehealth Services"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "header",
+      "content": "3CMS MLN Fact Sheet - Telehealth Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0193",
+      "title": "3CMS MLN Fact Sheet - Telehealth Services",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "3CMS MLN Fact Sheet - Telehealth Services",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "3CMS MLN Fact Sheet - Telehealth Services"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "4Centers for Medicare & Medicaid Services. Policy Update on Medicare Services- CY2022",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0194",
+      "title": "3CMS MLN Fact Sheet - Telehealth Services",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "3CMS MLN Fact Sheet - Telehealth Services",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "3CMS MLN Fact Sheet - Telehealth Services"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Telehealth Update Medicare Physician Fee Schedule. Centers for Medicare & Medicaid Services,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0195",
+      "title": "3CMS MLN Fact Sheet - Telehealth Services",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "3CMS MLN Fact Sheet - Telehealth Services",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "3CMS MLN Fact Sheet - Telehealth Services"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "2024,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0196",
+      "title": "3CMS MLN Fact Sheet - Telehealth Services",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "3CMS MLN Fact Sheet - Telehealth Services",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "3CMS MLN Fact Sheet - Telehealth Services"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "CMS List of Telehealth Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0197",
+      "title": "3CMS MLN Fact Sheet - Telehealth Services",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "3CMS MLN Fact Sheet - Telehealth Services",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "3CMS MLN Fact Sheet - Telehealth Services"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "CMS Place of Service Code Set",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0198",
+      "title": "3CMS MLN Fact Sheet - Telehealth Services",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "3CMS MLN Fact Sheet - Telehealth Services",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "3CMS MLN Fact Sheet - Telehealth Services"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "CMS - Telehealth",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0199",
+      "title": "3CMS MLN Fact Sheet - Telehealth Services",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "3CMS MLN Fact Sheet - Telehealth Services",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "3CMS MLN Fact Sheet - Telehealth Services"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "definition",
+      "content": "US CFR Title 42: Section 410.78 - Telehealth Services",
+      "codes": [
+        "US"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0200",
+      "title": "3CMS MLN Fact Sheet - Telehealth Services",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "3CMS MLN Fact Sheet - Telehealth Services",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "3CMS MLN Fact Sheet - Telehealth Services"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "definition",
+      "content": "US CFR Title 42: Section 414.65 - Payment for Telehealth Services",
+      "codes": [
+        "US"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0201",
+      "title": "3CMS MLN Fact Sheet - Telehealth Services",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "3CMS MLN Fact Sheet - Telehealth Services",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "3CMS MLN Fact Sheet - Telehealth Services"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0045 - 2026-09-28 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0202",
+      "title": "3CMS MLN Fact Sheet - Telehealth Services",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "3CMS MLN Fact Sheet - Telehealth Services",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "3CMS MLN Fact Sheet - Telehealth Services"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0203",
+      "title": "3CMS MLN Fact Sheet - Telehealth Services",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "3CMS MLN Fact Sheet - Telehealth Services",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "3CMS MLN Fact Sheet - Telehealth Services"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0204",
+      "title": "3CMS MLN Fact Sheet - Telehealth Services",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "3CMS MLN Fact Sheet - Telehealth Services",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "3CMS MLN Fact Sheet - Telehealth Services"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Page 8 of 10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0205",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "header",
+      "content": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0206",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0207",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0045 - 2026-09-28 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0208",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0209",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0210",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "Page 9 of 10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0211",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "content_type": "header",
+      "content": "REVIEW AND VERSION HISTORY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0212",
+      "title": "Table (Page 10)",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "content_type": "table",
+      "content": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-09-28 | CLMS.CP.0045 | 2.0 |\n| 2026-06-30 | CLMS.CP.0045 | 1.2 |\n| 2025-06-17 | CLMS.CP.0045 | 1.1 |\n| 2025-02-24 | CLMS.CP.0045 | 1.0 |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p10_1",
+        "title": "Table (Page 10)",
+        "columns": [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        "row_count": 4,
+        "rows": [
+          {
+            "Date": "2026-09-28",
+            "Document #": "CLMS.CP.0045",
+            "Version #": "2.0"
+          },
+          {
+            "Date": "2026-06-30",
+            "Document #": "CLMS.CP.0045",
+            "Version #": "1.2"
+          },
+          {
+            "Date": "2025-06-17",
+            "Document #": "CLMS.CP.0045",
+            "Version #": "1.1"
+          },
+          {
+            "Date": "2025-02-24",
+            "Document #": "CLMS.CP.0045",
+            "Version #": "1.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0213",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "content_type": "paragraph",
+      "content": "Prior versions are available upon request",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0214",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0045 - 2026-09-28 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0215",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0216",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0217",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "content_type": "paragraph",
+      "content": "Page 10 of 10",
+      "codes": [],
+      "table_data": null
+    }
+  ]
+}

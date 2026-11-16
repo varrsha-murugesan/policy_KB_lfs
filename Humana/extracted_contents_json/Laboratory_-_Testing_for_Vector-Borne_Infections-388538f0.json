@@ -1,0 +1,1543 @@
+{
+  "policy_title": "Laboratory - Testing for Vector-Borne Infections",
+  "policy_number": "LAB2023053",
+  "effective_date": "07/2023",
+  "published_date": "07/2023",
+  "revision_date": "07/2025",
+  "source_pdf": "Laboratory_-_Testing_for_Vector-Borne_Infections-388538f0.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 8,
+  "table_count": 2,
+  "block_count": 68,
+  "CPT_CODES_USED": [
+    "87469",
+    "86753",
+    "87478",
+    "86619",
+    "0043U",
+    "0044U",
+    "86280",
+    "87468",
+    "87484",
+    "86666",
+    "86750",
+    "86757",
+    "87040",
+    "86788",
+    "86789",
+    "87662",
+    "86794",
+    "15585",
+    "01013",
+    "01723",
+    "03163",
+    "02562",
+    "00293",
+    "87860",
+    "03842"
+  ],
+  "MODIFIERS_USED": [
+    "26",
+    "24",
+    "59",
+    "50",
+    "51",
+    "55",
+    "91",
+    "57"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "87469",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86753",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87478",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86619",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0043U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0044U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86280",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87468",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87484",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86666",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86750",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86757",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87040",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86788",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86789",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87662",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86794",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "15585",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01013",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01723",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "03163",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "02562",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00293",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87860",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "03842",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare Local Coverage Determinations (LCD's) as outlined below. In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Babesiosis",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Babesiosis",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Babesiosis",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "1. To detect Babesia microti, Nucleic Acid Amplification Tests (NAAT) testing, including Polymerase Chain Reaction (PCR) testing,",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Babesiosis",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Babesiosis",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Babesiosis",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "(CPT code 87469) IS REIMBURSABLE for individuals with one of the following symptoms:",
+      "codes": [
+        "87469"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Weakness",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Weakness",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Weakness",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "2. For individuals with a diagnosis of Babesiosis, the use of either an Immunoglobulin G (IgG) or Immunoglobulin M (IgM) indirect",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Weakness",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Weakness",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Weakness",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "immunofluorescence antibody (IFA) assay (CPT code 86753) for Babesia IS NOT REIMBURSABLE.",
+      "codes": [
+        "86753"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Borrelia",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Borrelia",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Borrelia",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "1. To detect Borrelia spp., NAAT testing, including PCR testing, (CPT code 87478), an IFA assay for Immunoglobulin G (IgG)",
+      "codes": [
+        "87478"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Borrelia",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Borrelia",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Borrelia",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "antibodies (CPT code 86619) or detection by immunoblot of Immunoglobulin G (IgG) or Immunoglobulin M (IgM) antibody (CPT code 0043U, CPT code 0044U) IS REIMBURSABLE for individuals with one of the following symptoms:",
+      "codes": [
+        "86619",
+        "0043U",
+        "0044U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Dengue Virus",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Dengue Virus",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Dengue Virus",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "1. For individuals with a diagnosis of classical or hemorrhagic dengue fever, the hemagglutination inhibition test (CPT code 86280)",
+      "codes": [
+        "86280"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Dengue Virus",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Dengue Virus",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Dengue Virus",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "IS NOT REIMBURSABLE.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Ehrlichiosis and Anaplasmosis",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Ehrlichiosis and Anaplasmosis",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Ehrlichiosis and Anaplasmosis",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "1. To detect Anaplamsa phagocytophilum or Ehrlichia chaffeensis, NAAT testing, including PCR testing, of whole blood (CPT code",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Ehrlichiosis and Anaplasmosis",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Ehrlichiosis and Anaplasmosis",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Ehrlichiosis and Anaplasmosis",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "87468, CPT code 87484) or an IFA assay for Immunoglobulin G (IgG) antibodies (CPT code 86666) IS REIMBURSABLE for individuals with one of the following symptoms:",
+      "codes": [
+        "87468",
+        "87484",
+        "86666"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Plasmodium (Malaria)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Plasmodium (Malaria)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Plasmodium (Malaria)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "1. The use of an IFA assay for Plasmodium antibodies (CPT code 86750) IS NOT REIMBURSABLE.",
+      "codes": [
+        "86750"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Rickettsiosis",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Rickettsiosis",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Rickettsiosis",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "1. The use of an IFA assay for Immunoglobulin G (IgG) antibodies to Rickettsia (CPT code 86757) IS REIMBURSABLE twice when at",
+      "codes": [
+        "86757"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Rickettsiosis",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Rickettsiosis",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Rickettsiosis",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "least two weeks has passed between tests and IS ONLY REIMBURSABLE for individuals with any of the following symptoms:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Skin rash",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Skin rash",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Skin rash",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Ulcerative lesion with regional lymphadenopathy for Rickettsia species 364D rickettsiosis",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Vomiting",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Vomiting",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Vomiting",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "2. For individuals with a diagnosis of typhus fever or Rickettsiosis, blood culture testing (CPT code 87040) IS NOT REIMBURSABLE.",
+      "codes": [
+        "87040"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "West Nile Virus",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "West Nile Virus",
+      "hierarchy_path": "Medicare Advantage Payment Policy > West Nile Virus",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "1. The use of an IFA assay for Immunoglobulin M (IgM) antibodies specific to West Nile virus (CPT code 86788, CPT code 86789) IS",
+      "codes": [
+        "86788",
+        "86789"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "West Nile Virus",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "West Nile Virus",
+      "hierarchy_path": "Medicare Advantage Payment Policy > West Nile Virus",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "REIMBURSABLE for individuals with any of the following symptoms:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Weakness",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Weakness",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Weakness",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "2. For individuals with a diagnosis of West Nile virus infection, the use of an IFA assay for Immunoglobulin G (IgG) antibodies",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Weakness",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Weakness",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Weakness",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "specific to West Nile virus (CPT code 86789) IS NOT REIMBURSABLE.",
+      "codes": [
+        "86789"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Zika Virus",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Zika Virus",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Zika Virus",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "1. NAAT testing including, PCR testing, (CPT code 87662*) or Immunoglobulin M (IgM) testing (CPT code 86794*) for Zika virus IS",
+      "codes": [
+        "87662",
+        "86794"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Zika Virus",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Zika Virus",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Zika Virus",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "REIMBURSABLE for individuals with any of the following symptoms:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "General",
+      "hierarchy_path": "Medicare Advantage Payment Policy > General",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "1. For asymptomatic individuals, testing for Babesiosis, Borrelia, Dengue virus, Ehrlichiosis and Anaplasmosis, Plasmodium,",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "General",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "General",
+      "hierarchy_path": "Medicare Advantage Payment Policy > General",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Rickettsiosis, West Nile virus or Zika virus with the tests discussed above IS NOT REIMBURSABLE.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code Description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code Description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code Description",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "86280",
+      "codes": [
+        "86280"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Hemagglutination inhibition test (HAI)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Hemagglutination inhibition test (HAI)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Hemagglutination inhibition test (HAI)",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "86619",
+      "codes": [
+        "86619"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Antibody; Borrelia (relapsing fever)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Antibody; Borrelia (relapsing fever)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Antibody; Borrelia (relapsing fever)",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "86666",
+      "codes": [
+        "86666"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Antibody; Ehrlichia",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Antibody; Ehrlichia",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Antibody; Ehrlichia",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "86750",
+      "codes": [
+        "86750"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Antibody; Plasmodium (malaria)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Antibody; Plasmodium (malaria)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Antibody; Plasmodium (malaria)",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "86753",
+      "codes": [
+        "86753"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Antibody; protozoa, not elsewhere specified",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Antibody; protozoa, not elsewhere specified",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Antibody; protozoa, not elsewhere specified",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "86757",
+      "codes": [
+        "86757"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Antibody; Rickettsia",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Antibody; Rickettsia",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Antibody; Rickettsia",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "86788",
+      "codes": [
+        "86788"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Antibody; West Nile virus, IgM",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Antibody; West Nile virus, IgM",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Antibody; West Nile virus, IgM",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "86789",
+      "codes": [
+        "86789"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Antibody; West Nile virus",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Antibody; West Nile virus",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Antibody; West Nile virus",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "86794*",
+      "codes": [
+        "86794"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Antibody; Zika virus, IgM",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Antibody; Zika virus, IgM",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Antibody; Zika virus, IgM",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "87040 Culture, bacterial; blood, aerobic, with isolation and presumptive identification of isolates (includes anaerobic culture, if appropriate) 87468 Infectious agent detection by nucleic acid (DNA or RNA); Anaplasma phagocytophilum, amplified probe technique 87469 Infectious agent detection by nucleic acid (DNA or RNA); Babesia microti, amplified probe technique 87478 Infectious agent detection by nucleic acid (DNA or RNA); Borrelia miyamotoi, amplified probe technique 87484 Infectious agent detection by nucleic acid (DNA or RNA); Ehrlichia chaffeensis, amplified probe technique 87662* Infectious agent detection by nucleic acid (DNA or RNA); Zika virus, amplified probe technique 0043U Tick-borne relapsing fever Borrelia group, antibody detection to 4 recombinant protein groups, by immunoblot, IgM Proprietary test: Tick-Borne Relapsing Fever Borrelia (TBRF) ImmunoBlots IgM Test",
+      "codes": [
+        "87040",
+        "87468",
+        "87469",
+        "87478",
+        "87484",
+        "87662",
+        "0043U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: IGeneX Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: IGeneX Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: IGeneX Inc",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "0044U Tick-borne relapsing fever Borrelia group, antibody detection to 4 recombinant protein groups, by immunoblot, IgG Proprietary test: Tick-Borne Relapsing Fever Borrelia (TBRF) ImmunoBlots IgG Test",
+      "codes": [
+        "0044U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: IGeneX Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: IGeneX Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: IGeneX Inc",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "*The payment criterion for CPT code 86794, CPT code 87662 apply to all Medicare jurisdictions, except those states awarded to",
+      "codes": [
+        "86794",
+        "87662"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab/Manufacturer: IGeneX Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: IGeneX Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: IGeneX Inc",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Noridian Healthcare Solutions, LLC.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Methods",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Methods",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Methods",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "A55326 86794 87662",
+      "codes": [
+        "86794",
+        "87662"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Methods",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Methods",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Methods",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "A55327 86794 87662",
+      "codes": [
+        "86794",
+        "87662"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "AAP, A. A. o. P. (2021a). Babesiosis. In D. Kimberlin, M. Brady, M. Jackson, & S. Long (Eds.), Red Book: 2021- 2024 Report of the Committee on Infectious Diseases (pp. 235-237). American Academy of Pediatrics. https://redbook.solutions.aap.org/chapter.aspx?sectionid=189640045&bookid=2205 AAP, A. A. o. P. (2021b). Borrelia Infections Other Than Lyme Disease. In D. Kimberlin, M. Brady, M. Jackson, & S. Long (Eds.), Red Book: 2021- 2021 Report of the Committee on Infectious Diseases (pp. 252-255). American Academy of Pediatrics. https://redbook.solutions.aap.org/chapter.aspx?sectionid=189640055&bookid=2205",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "AAP, A. A. o. P. (2021c). Chikungunya. In D. Kimberlin, M. Brady, M. Jackson, & S. Long (Eds.), Red Book: 2021-2024 Report of the Committee on Infectious Diseases (pp. 271-272). American Academy of Pediatrics. https://redbook.solutions.aap.org/chapter.aspx?sectionId=189640062&bookId=2205 AAP, A. A. o. P. (2021d). Dengue. In D. Kimberlin, M. Brady, M. Jackson, & S. Long (Eds.), Red Book: 2021-2024 Report of the Committee on Infectious Diseases (pp. 317-319). American Academy of Pediatrics. https://redbook.solutions.aap.org/chapter.aspx?sectionId=189640081&bookId=2205 AAP, A. A. o. P. (2021e). Ehrlichia, Anaplasma, and Related Infections. In D. Kimberlin, M. Brady, M. Jackson, & S. Long (Eds.), Red Book: 2021-2024 Report of the Committee on Infectious Diseases (pp. 323-328). American Academy of Pediatrics. https://redbook.solutions.aap.org/chapter.aspx?sectionid=189640084&bookid=2205 AAP, A. A. o. P. (2021f). Malaria. In D. Kimberlin, M. Brady, M. Jackson, & S. Long (Eds.), Red Book: 2021-2024 Report of the Committee on Infectious Diseases (pp. 527-537). American Academy of Pediatrics. https://redbook.solutions.aap.org/chapter.aspx?sectionId=189640129&bookId=2205 AAP, A. A. o. P. (2021g). Rickettsialpox. In D. Kimberlin, M. Brady, M. Jackson, & S. Long (Eds.), Red Book: 2021-2024 Report of the Committee on Infectious Diseases (pp. 696-697). American Academy of Pediatrics. https://redbook.solutions.aap.org/chapter.aspx?sectionId=189640173&bookId=2205 AAP, A. A. o. P. (2021h). Rocky Mountain Spotted Fever. In D. Kimberlin, M. Brady, M. Jackson, & S. Long (Eds.), Red Book: 2021- 2024 Report of the Committee on Infectious Diseases (pp. 697-700). American Academy of Pediatrics. https://redbook.solutions.aap.org/chapter.aspx?sectionid=189640174&bookid=2205 AAP, A. A. o. P. (2021i). West Nile Virus. In D. Kimberlin, M. Brady, M. Jackson, & S. Long (Eds.), Red Book: 2021 - 2024 Report of the Committee on Infectious Diseases (pp. 888-891). American Academy of Pediatrics. https://redbook.solutions.aap.org/chapter.aspx?sectionId=189640220&bookId=2205 Akoolo, L., Schlachter, S., Khan, R., Alter, L., Rojtman, A. D., Gedroic, K., Bhanot, P., & Parveen, N. (2017). A novel quantitative PCR detects Babesia infection in patients not identified by currently available non-nucleic acid amplification tests. BMC Microbiol, 17(1), 16. https://doi.org/10.1186/s12866-017-0929-2 Arguin, P., & Tan, K. (2017). Chapter 3 Infectious Diseases Related to Travel: Malaria. In G. Brunette (Ed.), CDC Yellow Book 2018: Health Information for International Travel. Oxford University Press. https://wwwnc.cdc.gov/travel/yellowbook/2018/infectious-diseases-related-to-travel/malaria Arguin, P., & Tan, K. (2019). Chapter 3 Infectious Diseases Related to Travel: Malaria. In G. Brunette (Ed.), CDC Yellow Book 2018: Health Information for International Travel. Oxford University Press. https://wwwnc.cdc.gov/travel/yellowbook/2018/infectious-diseases-related-to-travel/malaria Barbour, A. G. (2020a). Clinical features, diagnosis, and management of relapsing fever. Wolters Kluwer. Retrieved 06/01/2021 from https://www.uptodate.com/contents/clinical-features-diagnosis-and-management-of-relapsing-fever Barbour, A. G. (2020b, 04/29/2020). Clinical features, diagnosis, and management of relapsing fever. Wolters Kluwer. Retrieved 08/10/2018 from https://www.uptodate.com/contents/clinical-features-diagnosis-and-management-of-relapsing-fever Biggs, H. M., Behravesh, C. B., Bradley, K. K., Dahlgren, F. S., Drexler, N. A., Dumler, J. S., Folk, S. M., Kato, C. Y., Lash, R. R., Levin, M. L., Massung, R. F., Nadelman, R. B., Nicholson, W. L., Paddock, C. D., Pritt, B. S., & Traeger, M. S. (2016). Diagnosis and Management of Tickborne Rickettsial Diseases: Rocky Mountain Spotted Fever and Other Spotted Fever Group Rickettsioses, Ehrlichioses, and Anaplasmosis - United States. MMWR Recomm Rep, 65(2), 1-44. https://doi.org/10.15585/mmwr.rr6502a1 Burakoff, A., Lehman, J., Fischer, M., Staples, J. E., & Lindsey, N. P. (2018). West Nile Virus and Other Nationally Notifiable Arboviral Diseases - United States, 2016. MMWR Morb Mortal Wkly Rep, 67(1), 13-17. https://doi.org/10.15585/mmwr.mm6701a3 Calisher, C. H. (1994). Medically important arboviruses of the United States and Canada. Clin Microbiol Rev, 7(1), 89-116. CDC. (2018a). Malaria Diagnosis and Treatment. Centers for Disease Control and Prevention. Retrieved 07/20/2021 from https://www.cdc.gov/malaria/diagnosis_treatment/diagnosis.html CDC. (2018b). Relapsing Fever. https://www.cdc.gov/relapsing-fever/clinicians/index.html CDC. (2018c, 11/26/2018). Tick-borne Relapsing Fever (TBRF): Information for Clinicians. Centers for Disease Control and Prevention. https://www.cdc.gov/relapsing-fever/clinicians/ CDC. (2019, 10/30/2019). Babesiosis: Resources for Health Professionals. Centers for Disease Control and Prevention. https://www.cdc.gov/parasites/babesiosis/health_professionals/index.html",
+      "codes": [
+        "15585"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "CDC. (2020a, 01/24/2020). Dengue: Testing Guidance. Centers for Disease Control and Prevention. https://www.cdc.gov/dengue/healthcare-providers/testing/testing-guidance.html CDC. (2020b, April 7, 2020). Rocky Mountain Spotted Fever. Centers for Disease Control and Prevention. https://www.cdc.gov/rmsf/stats/index.html CDC. (2021a, 03/12/2021). About the Division of Vector-Borne Diseases. CDC. Retrieved 07/20/2021 from https://www.cdc.gov/ncezid/dvbd/index.html CDC. (2021b, 03/20/2021). Colorado Tick Fever Health Care Providers: Clinical & Laboratory Evaluation. Centers for Disease Control and Prevention. Retrieved 07/20/2021 from https://www.cdc.gov/coloradotickfever/clinicallabeval.html CDC. (2021c, 03/03/2021). Colorado Tick Fever Health Care Providers: Diagnostic Testing. Centers for Disease Control and Prevention. https://www.cdc.gov/coloradotickfever/diagnostic-testing.html CDC. (2021d, 06/28/2021). Dengue. Centers for Disease Control and Prevention. Retrieved 07/20/2021 from https://www.cdc.gov/dengue/about/inpuerto.html CDC. (2021e, 05/03/2019). Dengue: Clinical Guidance. Centers for Disease Control and Prevention. Retrieved 07/20/2021 from https://www.cdc.gov/dengue/clinicallab/clinical.html Cohee, L., & Seydel, K. (2022). Clinical manifestations of malaria in nonpregnant adults and children. Wolters Kluwer. https://www.uptodate.com/contents/clinical-manifestations-of-malaria-in-nonpregnant-adults-and-children Denison, A. M., Amin, B. D., Nicholson, W. L., & Paddock, C. D. (2014). Detection of Rickettsia rickettsii, Rickettsia parkeri, and Rickettsia akari in skin biopsy specimens using a multiplex real-time polymerase chain reaction assay. Clin Infect Dis, 59(5), 635-",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "642. https://doi.org/10.1093/cid/ciu358",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "Dimaio, M. A., Pereira, I. T., George, T. I., & Banaei, N. (2012). Performance of BinaxNOW for diagnosis of malaria in a U.S. hospital. J Clin Microbiol, 50(9), 2877-2880. https://doi.org/10.1128/jcm.01013-12 FDA. (2018). Devices@FDA. U.S. Department of Health & Human Services. Retrieved 08/06/2018 from https://www.accessdata.fda.gov/scripts/cdrh/devicesatfda/index.cfm Gershman, M., & Staples, J. (2019). Chapter 3 Infectious Diseases Related to Travel: Yellow Fever. In G. Brunette (Ed.), CDC Yellow Book 2018: Health Information for International Travel. Oxford University Press. https://wwwnc.cdc.gov/travel/yellowbook/2018/infectious-diseases-related-to-travel/yellow-fever Hopkins, H. (2022, 04/26/2022). Laboratory tools for the diagnosis of malaria. Wolters Kluwer. https://www.uptodate.com/contents/diagnosis-of-malaria Johnson, A. J., Martin, D. A., Karabatsos, N., & Roehrig, J. T. (2000). Detection of anti-arboviral immunoglobulin G by using a monoclonal antibody-based capture enzyme-linked immunosorbent assay. J Clin Microbiol, 38(5), 1827-1831. Kalish, R. A., McHugh, G., Granquist, J., Shea, B., Ruthazer, R., & Steere, A. C. (2001). Persistence of immunoglobulin M or immunoglobulin G antibody responses to Borrelia burgdorferi 10-20 years after active Lyme disease. Clin Infect Dis, 33(6), 780-",
+      "codes": [
+        "01013"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "785. https://doi.org/10.1086/322669",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "Kato, C. Y., Chung, I. H., Robinson, L. K., Austin, A. L., Dasch, G. A., & Massung, R. F. (2013). Assessment of real-time PCR assay for detection of Rickettsia spp. and Rickettsia rickettsii in banked clinical samples. J Clin Microbiol, 51(1), 314-317. https://doi.org/10.1128/jcm.01723-12 Krause, P. J., & Vannier, E. G. (2021, 03/16/2021). Babesiosis: Clinical manifestations and diagnosis. Wolters Kluwer. https://www.uptodate.com/contents/babesiosis-clinical-manifestations-and-diagnosis Leski, T. A., Taitt, C. R., Swaray, A. G., Bangura, U., Reynolds, N. D., Holtz, A., Yasuda, C., Lahai, J., Lamin, J. M., Baio, V., Jacobsen, K. H., Ansumana, R., & Stenger, D. A. (2020). Use of real-time multiplex PCR, malaria rapid diagnostic test and microscopy to investigate the prevalence of Plasmodium species among febrile hospital patients in Sierra Leone. Malaria Journal, 19(1), 84. https://doi.org/10.1186/s12936-020-03163-2 Mathison, B. A., & Pritt, B. S. (2017). Update on Malaria Diagnostics and Test Utilization. J Clin Microbiol, 55(7), 2009-2017. https://doi.org/10.1128/jcm.02562-16 McQuiston, J. H., Wiedeman, C., Singleton, J., Carpenter, L. R., McElroy, K., Mosites, E., Chung, I., Kato, C., Morris, K., Moncayo, A. C., Porter, S., & Dunn, J. (2014). Inadequacy of IgM antibody tests for diagnosis of Rocky Mountain Spotted Fever. The American journal of tropical medicine and hygiene, 91(4), 767-770. https://doi.org/10.4269/ajtmh.14-0123 Meatherall, B., Preston, K., & Pillai, D. R. (2014). False positive malaria rapid diagnostic test in returning traveler with typhoid fever. BMC Infect Dis, 14, 377. https://doi.org/10.1186/1471-2334-14-377",
+      "codes": [
+        "01723",
+        "03163",
+        "02562"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content": "Miller, J. M., Binnicker, M. J., Campbell, S., Carroll, K. C., Chapin, K. C., Gilligan, P. H., Gonzalez, M. D., Jerris, R. C., Kehl, S. C., Patel, R., Pritt, B. S., Richter, S. S., Robinson-Dunn, B., Schwartzman, J. D., Snyder, J. W., Telford, I. I. I. S., Theel, E. S., Thomson, J. R. B., Weinstein, M. P., & Yao, J. D. (2018). A Guide to Utilization of the Microbiology Laboratory for Diagnosis of Infectious Diseases: 2018 Update by the Infectious Diseases Society of America and the American Society for Microbiologya. Clinical Infectious",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Diseases, ciy381-ciy381. https://doi.org/10.1093/cid/ciy381",
+      "section": "References",
+      "subsection": "Diseases, ciy381-ciy381. https://doi.org/10.1093/cid/ciy381",
+      "hierarchy_path": "References > Diseases, ciy381-ciy381. https://doi.org/10.1093/cid/ciy381",
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content": "Nasci, R., Fischer, M., Lindsey, N., Lanciotti, R., Savage, H., Komar, N., McAllister, J., Mutebi, J.-P., Lavelle, J., Zielinski-Gutierrez, E., & Petersen, L. (2013). West Nile Virus in the United States: Guidelines for Surveillance, Prevention, and Control. https://www.cdc.gov/westnile/resources/pdfs/wnvguidelines.pdf Ota-Sullivan, K., & Blecker-Shelly, D. L. (2013). Use of the rapid BinaxNOW malaria test in a 24-hour laboratory associated with accurate detection and decreased malaria testing turnaround times in a pediatric setting where malaria is not endemic. J Clin Microbiol, 51(5), 1567-1569. https://doi.org/10.1128/jcm.00293-13 Petersen, L. R. (2022, 09/13/2021). Arthropod-borne encephalitides. Wolters Kluwer. https://www.uptodate.com/contents/arthropod-borne-encephalitides Petersen, L. R. (2022, 08/04/2022). Clinical manifestations and diagnosis of West Nile virus infection. Wolters Kluwer. https://www.uptodate.com/contents/clinical-manifestations-and-diagnosis-of-west-nile-virus-infection Rosenberg, R., Lindsey, N. P., Fischer, M., Gregory, C. J., Hinckley, A. F., Mead, P. S., Paz-Bailey, G., Waterman, S. H., Drexler, N. A., Kersh, G. J., Hooks, H., Partridge, S. K., Visser, S. N., Beard, C. B., & Petersen, L. R. (2018). Vital Signs: Trends in Reported Vectorborne Disease Cases - United States and Territories, 2004-2016. MMWR Morb Mortal Wkly Rep, 67(17), 496-501. https://doi.org/10.15585/mmwr.mm6717e1 Sexton, D. J., & McClain, M. T. (2020, 05/29/2018). Clinical manifestations and diagnosis of Rocky Mountain spotted fever. Wolters Kluwer. Retrieved 08/10/2018 from https://www.uptodate.com/contents/clinical-manifestations-and-diagnosis-of-rocky- mountain-spotted-fever Sexton, D. J., & McClain, M. T. (2021, 10/01/2021). Other spotted fever group rickettsial infections. Wolters Kluwer. https://www.uptodate.com/contents/other-spotted-fever-group-rickettsial-infections Sexton, D. J., & McClain, M. T. (2022a, 03/21/2022). Human ehrlichiosis and anaplasmosis. Wolters Kluwer. https://www.uptodate.com/contents/human-ehrlichiosis-and-anaplasmosis Sexton, D. J., & McClain, M. T. (2022b, 03/21/2022). Human ehrlichiosis and anaplasmosis. Wolters Kluwer. Retrieved 03/21/2022 from https://www.uptodate.com/contents/human-ehrlichiosis-and-anaplasmosis Staples, J., Hills, S., & Powers, A. (2017). Chapter 3 Infectious Diseases Related to Travel: Chikungunya. In G. Brunette (Ed.), CDC Yellow Book 2018: Health Information for International Travel. Oxford University Press. https://wwwnc.cdc.gov/travel/yellowbook/2018/infectious-diseases-related-to-travel/chikungunya Staples, J., Hills, S., & Powers, A. (2020). Chapter 3 Infectious Diseases Related to Travel: Chikungunya. In G. Brunette (Ed.), CDC Yellow Book 2018: Health Information for International Travel. Oxford University Press. https://wwwnc.cdc.gov/travel/yellowbook/2018/infectious-diseases-related-to-travel/chikungunya Test ID: LCMAL Malaria, Molecular Detection, PCR, Varies. (2021). https://www.mayocliniclabs.com/test- catalog/Clinical+and+Interpretive/87860 Thomas, S., Rothman, A., Srikiatkhachorn, A., & Kalayanarooj, S. (2021, 02/23/2021). Dengue virus infection: Clinical manifestations and diagnosis. Wolters Kluwer. https://www.uptodate.com/contents/dengue-virus-infection-clinical-manifestations-and- diagnosis van Bergen, K., Stuitje, T., Akkers, R., Vermeer, E., Castel, R., & Mank, T. (2021). Evaluation of a novel real-time PCR assay for the detection, identification and quantification of Plasmodium species causing malaria in humans. Malar J, 20(1), 314. https://doi.org/10.1186/s12936-021-03842-8 Venkatesan, A., Tunkel, A. R., Bloch, K. C., Lauring, A. S., Sejvar, J., Bitnun, A., Stahl, J. P., Mailles, A., Drebot, M., Rupprecht, C. E., Yoder, J., Cope, J. R., Wilson, M. R., Whitley, R. J., Sullivan, J., Granerod, J., Jones, C., Eastwood, K., Ward, K. N., . . . International Encephalitis, C. (2013). Case definitions, diagnostic algorithms, and priorities in encephalitis: consensus statement of the international encephalitis consortium. Clin Infect Dis, 57(8), 1114-1128. https://doi.org/10.1093/cid/cit458 WHO. (2017, 10/31/2017). Plague. World Health Organization. Retrieved 08/10/2018 from http://www.who.int/news-room/fact- sheets/detail/plague",
+      "codes": [
+        "00293",
+        "15585",
+        "87860",
+        "03842"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Diseases, ciy381-ciy381. https://doi.org/10.1093/cid/ciy381",
+      "section": "References",
+      "subsection": "Diseases, ciy381-ciy381. https://doi.org/10.1093/cid/ciy381",
+      "hierarchy_path": "References > Diseases, ciy381-ciy381. https://doi.org/10.1093/cid/ciy381",
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content": "Wilder-Smith, A. (2022, 04/01/2022). Yellow fever: Epidemiology, clinical manifestations, and diagnosis. Wolters Kluwer. https://www.uptodate.com/contents/yellow-fever-epidemiology-clinical-manifestations-and-diagnosis Wilson, M. E., & Lenschow, D. J. (2020). Chikungunya fever. Wolters Kluwer. https://www.uptodate.com/contents/chikungunya- fever-epidemiology-clinical-manifestations-and-diagnosis",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] 86280: 86619 | Procedure Code:  | Antibody; Borrelia (relapsing fever) | Code Description Hemagglutination inhibition test (HAI): ",
+      "codes": [
+        "86280",
+        "86619"
+      ],
+      "table_data": {
+        "columns": [
+          "86280",
+          "Procedure Code",
+          "",
+          "Code Description Hemagglutination inhibition test (HAI)"
+        ],
+        "row": {
+          "86280": "86619",
+          "Procedure Code": "",
+          "Code Description Hemagglutination inhibition test (HAI)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] 86280: 86666 | Procedure Code:  |  | Code Description Hemagglutination inhibition test (HAI): Antibody; Ehrlichia",
+      "codes": [
+        "86280",
+        "86666"
+      ],
+      "table_data": {
+        "columns": [
+          "86280",
+          "Procedure Code",
+          "",
+          "Code Description Hemagglutination inhibition test (HAI)"
+        ],
+        "row": {
+          "86280": "86666",
+          "Procedure Code": "",
+          "Code Description Hemagglutination inhibition test (HAI)": "Antibody; Ehrlichia"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] 86280: 86750 | Procedure Code:  | Antibody; Plasmodium (malaria) | Code Description Hemagglutination inhibition test (HAI): ",
+      "codes": [
+        "86280",
+        "86750"
+      ],
+      "table_data": {
+        "columns": [
+          "86280",
+          "Procedure Code",
+          "",
+          "Code Description Hemagglutination inhibition test (HAI)"
+        ],
+        "row": {
+          "86280": "86750",
+          "Procedure Code": "",
+          "Code Description Hemagglutination inhibition test (HAI)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] 86280: 86753 | Procedure Code:  | Antibody; protozoa, not elsewhere specified | Code Description Hemagglutination inhibition test (HAI): ",
+      "codes": [
+        "86280",
+        "86753"
+      ],
+      "table_data": {
+        "columns": [
+          "86280",
+          "Procedure Code",
+          "",
+          "Code Description Hemagglutination inhibition test (HAI)"
+        ],
+        "row": {
+          "86280": "86753",
+          "Procedure Code": "",
+          "Code Description Hemagglutination inhibition test (HAI)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] 86280: 86757 | Procedure Code:  | Antibody; Rickettsia | Code Description Hemagglutination inhibition test (HAI): ",
+      "codes": [
+        "86280",
+        "86757"
+      ],
+      "table_data": {
+        "columns": [
+          "86280",
+          "Procedure Code",
+          "",
+          "Code Description Hemagglutination inhibition test (HAI)"
+        ],
+        "row": {
+          "86280": "86757",
+          "Procedure Code": "",
+          "Code Description Hemagglutination inhibition test (HAI)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] 86280: 86788 | Procedure Code:  |  | Code Description Hemagglutination inhibition test (HAI): Antibody; West Nile virus, IgM",
+      "codes": [
+        "86280",
+        "86788"
+      ],
+      "table_data": {
+        "columns": [
+          "86280",
+          "Procedure Code",
+          "",
+          "Code Description Hemagglutination inhibition test (HAI)"
+        ],
+        "row": {
+          "86280": "86788",
+          "Procedure Code": "",
+          "Code Description Hemagglutination inhibition test (HAI)": "Antibody; West Nile virus, IgM"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] 86280: 86789 | Procedure Code:  |  | Code Description Hemagglutination inhibition test (HAI): Antibody; West Nile virus",
+      "codes": [
+        "86280",
+        "86789"
+      ],
+      "table_data": {
+        "columns": [
+          "86280",
+          "Procedure Code",
+          "",
+          "Code Description Hemagglutination inhibition test (HAI)"
+        ],
+        "row": {
+          "86280": "86789",
+          "Procedure Code": "",
+          "Code Description Hemagglutination inhibition test (HAI)": "Antibody; West Nile virus"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] 86280: 86794* | Procedure Code:  |  | Code Description Hemagglutination inhibition test (HAI): Antibody; Zika virus, IgM",
+      "codes": [
+        "86280",
+        "86794"
+      ],
+      "table_data": {
+        "columns": [
+          "86280",
+          "Procedure Code",
+          "",
+          "Code Description Hemagglutination inhibition test (HAI)"
+        ],
+        "row": {
+          "86280": "86794*",
+          "Procedure Code": "",
+          "Code Description Hemagglutination inhibition test (HAI)": "Antibody; Zika virus, IgM"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] 86280: 87040 | Procedure Code:  |  | Code Description Hemagglutination inhibition test (HAI): Culture, bacterial; blood, aerobic, with isolation and presumptive identification of isolates (includes",
+      "codes": [
+        "86280",
+        "87040"
+      ],
+      "table_data": {
+        "columns": [
+          "86280",
+          "Procedure Code",
+          "",
+          "Code Description Hemagglutination inhibition test (HAI)"
+        ],
+        "row": {
+          "86280": "87040",
+          "Procedure Code": "",
+          "Code Description Hemagglutination inhibition test (HAI)": "Culture, bacterial; blood, aerobic, with isolation and presumptive identification of isolates (includes"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] 86280:  | Procedure Code:  |  | Code Description Hemagglutination inhibition test (HAI): anaerobic culture, if appropriate)",
+      "codes": [
+        "86280"
+      ],
+      "table_data": {
+        "columns": [
+          "86280",
+          "Procedure Code",
+          "",
+          "Code Description Hemagglutination inhibition test (HAI)"
+        ],
+        "row": {
+          "86280": "",
+          "Procedure Code": "",
+          "Code Description Hemagglutination inhibition test (HAI)": "anaerobic culture, if appropriate)"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] 86280: 87468 | Procedure Code:  | Infectious agent detection by nucleic acid (DNA or RNA); Anaplasma phagocytophilum, amplified probe\ntechnique | Code Description Hemagglutination inhibition test (HAI): ",
+      "codes": [
+        "86280",
+        "87468"
+      ],
+      "table_data": {
+        "columns": [
+          "86280",
+          "Procedure Code",
+          "",
+          "Code Description Hemagglutination inhibition test (HAI)"
+        ],
+        "row": {
+          "86280": "87468",
+          "Procedure Code": "",
+          "Code Description Hemagglutination inhibition test (HAI)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] 86280: 87469 | Procedure Code:  | Infectious agent detection by nucleic acid (DNA or RNA); Babesia microti, amplified probe technique | Code Description Hemagglutination inhibition test (HAI): ",
+      "codes": [
+        "86280",
+        "87469"
+      ],
+      "table_data": {
+        "columns": [
+          "86280",
+          "Procedure Code",
+          "",
+          "Code Description Hemagglutination inhibition test (HAI)"
+        ],
+        "row": {
+          "86280": "87469",
+          "Procedure Code": "",
+          "Code Description Hemagglutination inhibition test (HAI)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] 86280: 87478 | Procedure Code:  | Infectious agent detection by nucleic acid (DNA or RNA); Borrelia miyamotoi, amplified probe technique | Code Description Hemagglutination inhibition test (HAI): ",
+      "codes": [
+        "86280",
+        "87478"
+      ],
+      "table_data": {
+        "columns": [
+          "86280",
+          "Procedure Code",
+          "",
+          "Code Description Hemagglutination inhibition test (HAI)"
+        ],
+        "row": {
+          "86280": "87478",
+          "Procedure Code": "",
+          "Code Description Hemagglutination inhibition test (HAI)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] 86280: 87484 | Procedure Code:  | Infectious agent detection by nucleic acid (DNA or RNA); Ehrlichia chaffeensis, amplified probe technique | Code Description Hemagglutination inhibition test (HAI): ",
+      "codes": [
+        "86280",
+        "87484"
+      ],
+      "table_data": {
+        "columns": [
+          "86280",
+          "Procedure Code",
+          "",
+          "Code Description Hemagglutination inhibition test (HAI)"
+        ],
+        "row": {
+          "86280": "87484",
+          "Procedure Code": "",
+          "Code Description Hemagglutination inhibition test (HAI)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] 86280: 87662* | Procedure Code:  |  | Code Description Hemagglutination inhibition test (HAI): Infectious agent detection by nucleic acid (DNA or RNA); Zika virus, amplified probe technique",
+      "codes": [
+        "86280",
+        "87662"
+      ],
+      "table_data": {
+        "columns": [
+          "86280",
+          "Procedure Code",
+          "",
+          "Code Description Hemagglutination inhibition test (HAI)"
+        ],
+        "row": {
+          "86280": "87662*",
+          "Procedure Code": "",
+          "Code Description Hemagglutination inhibition test (HAI)": "Infectious agent detection by nucleic acid (DNA or RNA); Zika virus, amplified probe technique"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] 86280: 0043U | Procedure Code:  | Tick-borne relapsing fever Borrelia group, antibody detection to 4 recombinant protein groups, by\nimmunoblot, IgM\nProprietary test: Tick-Borne Relapsing Fever Borrelia (TBRF) ImmunoBlots IgM Test\nLab/Manufacturer: IGeneX Inc | Code Description Hemagglutination inhibition test (HAI): ",
+      "codes": [
+        "86280",
+        "0043U"
+      ],
+      "table_data": {
+        "columns": [
+          "86280",
+          "Procedure Code",
+          "",
+          "Code Description Hemagglutination inhibition test (HAI)"
+        ],
+        "row": {
+          "86280": "0043U",
+          "Procedure Code": "",
+          "Code Description Hemagglutination inhibition test (HAI)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] 86280: 0044U | Procedure Code:  | Tick-borne relapsing fever Borrelia group, antibody detection to 4 recombinant protein groups, by\nimmunoblot, IgG\nProprietary test: Tick-Borne Relapsing Fever Borrelia (TBRF) ImmunoBlots IgG Test\nLab/Manufacturer: IGeneX Inc | Code Description Hemagglutination inhibition test (HAI): ",
+      "codes": [
+        "86280",
+        "0044U"
+      ],
+      "table_data": {
+        "columns": [
+          "86280",
+          "Procedure Code",
+          "",
+          "Code Description Hemagglutination inhibition test (HAI)"
+        ],
+        "row": {
+          "86280": "0044U",
+          "Procedure Code": "",
+          "Code Description Hemagglutination inhibition test (HAI)": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] Contractor Name: Noridian Healthcare\nSolutions, LLC | Policy Title: Billing and Coding: Zika Virus\nTesting by PCR and ELISA\nMethods | Policy Number: A55326 | Procedure Code: 86794\n87662",
+      "codes": [
+        "86794",
+        "87662"
+      ],
+      "table_data": {
+        "columns": [
+          "Contractor Name",
+          "Policy Title",
+          "Policy Number",
+          "Procedure Code"
+        ],
+        "row": {
+          "Contractor Name": "Noridian Healthcare\nSolutions, LLC",
+          "Policy Title": "Billing and Coding: Zika Virus\nTesting by PCR and ELISA\nMethods",
+          "Policy Number": "A55326",
+          "Procedure Code": "86794\n87662"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] Contractor Name: Noridian Healthcare\nSolutions, LLC | Policy Title: Billing and Coding: Zika Virus\nTesting by PCR and ELISA\nMethods | Policy Number: A55327 | Procedure Code: 86794\n87662",
+      "codes": [
+        "86794",
+        "87662"
+      ],
+      "table_data": {
+        "columns": [
+          "Contractor Name",
+          "Policy Title",
+          "Policy Number",
+          "Procedure Code"
+        ],
+        "row": {
+          "Contractor Name": "Noridian Healthcare\nSolutions, LLC",
+          "Policy Title": "Billing and Coding: Zika Virus\nTesting by PCR and ELISA\nMethods",
+          "Policy Number": "A55327",
+          "Procedure Code": "86794\n87662"
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare Local Coverage Determinations (LCD's) as outlined below. In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\n1. To detect Babesia microti, Nucleic Acid Amplification Tests (NAAT) testing, including Polymerase Chain Reaction (PCR) testing,\n\n(CPT code 87469) IS REIMBURSABLE for individuals with one of the following symptoms:\n\n2. For individuals with a diagnosis of Babesiosis, the use of either an Immunoglobulin G (IgG) or Immunoglobulin M (IgM) indirect\n\nimmunofluorescence antibody (IFA) assay (CPT code 86753) for Babesia IS NOT REIMBURSABLE.\n\n1. To detect Borrelia spp., NAAT testing, including PCR testing, (CPT code 87478), an IFA assay for Immunoglobulin G (IgG)\n\nantibodies (CPT code 86619) or detection by immunoblot of Immunoglobulin G (IgG) or Immunoglobulin M (IgM) antibody (CPT code 0043U, CPT code 0044U) IS REIMBURSABLE for individuals with one of the following symptoms:\n\n1. For individuals with a diagnosis of classical or hemorrhagic dengue fever, the hemagglutination inhibition test (CPT code 86280)\n\nIS NOT REIMBURSABLE.\n\n1. To detect Anaplamsa phagocytophilum or Ehrlichia chaffeensis, NAAT testing, including PCR testing, of whole blood (CPT code\n\n87468, CPT code 87484) or an IFA assay for Immunoglobulin G (IgG) antibodies (CPT code 86666) IS REIMBURSABLE for individuals with one of the following symptoms:\n\n1. The use of an IFA assay for Plasmodium antibodies (CPT code 86750) IS NOT REIMBURSABLE.\n\n1. The use of an IFA assay for Immunoglobulin G (IgG) antibodies to Rickettsia (CPT code 86757) IS REIMBURSABLE twice when at\n\nleast two weeks has passed between tests and IS ONLY REIMBURSABLE for individuals with any of the following symptoms:\n\nUlcerative lesion with regional lymphadenopathy for Rickettsia species 364D rickettsiosis\n\n2. For individuals with a diagnosis of typhus fever or Rickettsiosis, blood culture testing (CPT code 87040) IS NOT REIMBURSABLE.\n\n1. The use of an IFA assay for Immunoglobulin M (IgM) antibodies specific to West Nile virus (CPT code 86788, CPT code 86789) IS\n\nREIMBURSABLE for individuals with any of the following symptoms:\n\n2. For individuals with a diagnosis of West Nile virus infection, the use of an IFA assay for Immunoglobulin G (IgG) antibodies\n\nspecific to West Nile virus (CPT code 86789) IS NOT REIMBURSABLE.\n\n1. NAAT testing including, PCR testing, (CPT code 87662*) or Immunoglobulin M (IgM) testing (CPT code 86794*) for Zika virus IS\n\nREIMBURSABLE for individuals with any of the following symptoms:\n\n1. For asymptomatic individuals, testing for Babesiosis, Borrelia, Dengue virus, Ehrlichiosis and Anaplasmosis, Plasmodium,\n\nRickettsiosis, West Nile virus or Zika virus with the tests discussed above IS NOT REIMBURSABLE.\n\n86280\n\n86619\n\n86666\n\n86750\n\n86753\n\n86757\n\n86788\n\n86789\n\n86794*\n\n87040 Culture, bacterial; blood, aerobic, with isolation and presumptive identification of isolates (includes anaerobic culture, if appropriate) 87468 Infectious agent detection by nucleic acid (DNA or RNA); Anaplasma phagocytophilum, amplified probe technique 87469 Infectious agent detection by nucleic acid (DNA or RNA); Babesia microti, amplified probe technique 87478 Infectious agent detection by nucleic acid (DNA or RNA); Borrelia miyamotoi, amplified probe technique 87484 Infectious agent detection by nucleic acid (DNA or RNA); Ehrlichia chaffeensis, amplified probe technique 87662* Infectious agent detection by nucleic acid (DNA or RNA); Zika virus, amplified probe technique 0043U Tick-borne relapsing fever Borrelia group, antibody detection to 4 recombinant protein groups, by immunoblot, IgM Proprietary test: Tick-Borne Relapsing Fever Borrelia (TBRF) ImmunoBlots IgM Test\n\n0044U Tick-borne relapsing fever Borrelia group, antibody detection to 4 recombinant protein groups, by immunoblot, IgG Proprietary test: Tick-Borne Relapsing Fever Borrelia (TBRF) ImmunoBlots IgG Test\n\n*The payment criterion for CPT code 86794, CPT code 87662 apply to all Medicare jurisdictions, except those states awarded to\n\nNoridian Healthcare Solutions, LLC.\n\nA55326 86794 87662\n\nA55327 86794 87662"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

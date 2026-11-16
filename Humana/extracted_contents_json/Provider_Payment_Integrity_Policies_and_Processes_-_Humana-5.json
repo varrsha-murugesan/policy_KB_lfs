@@ -1,0 +1,589 @@
+{
+  "policy_title": "Injury Report and File Status Request",
+  "policy_number": null,
+  "effective_date": null,
+  "published_date": null,
+  "revision_date": null,
+  "source_pdf": "Provider_Payment_Integrity_Policies_and_Processes_-_Humana-548f12c2.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Both",
+  "related_policies": null,
+  "total_pages": 3,
+  "table_count": 3,
+  "block_count": 32,
+  "CPT_CODES_USED": [
+    "48120"
+  ],
+  "MODIFIERS_USED": [],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "48120",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Injury Report and File Status Request",
+      "section": "Overview",
+      "subsection": "Injury Report and File Status Request",
+      "hierarchy_path": "Overview > Injury Report and File Status Request",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Please use this form to:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Report accidents",
+      "section": "Overview",
+      "subsection": "Report accidents",
+      "hierarchy_path": "Overview > Report accidents",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Confirm if Humana provided benefits for an accident-related injury or illness",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Report accidents",
+      "section": "Overview",
+      "subsection": "Report accidents",
+      "hierarchy_path": "Overview > Report accidents",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Request final payment information needed to settle claims made against other insurance carriers and individuals If you are contacting Humana on behalf of an enrollee/member, please submit an authorization signed by the enrollee/member or proof of representation with your request. Once we receive your inquiry, we will contact you for additional information and, if necessary, to confirm your authorization to receive information from Humana. Please note that an injury report is not complete until Humana finishes its review and confirms that we have enough information to make benefit processing decisions. Note: Humana authorized Optum, EXL and Claritev to investigate paid claims and verify proper benefit processing whenever accident insurance coverage, workers' compensation or other individuals may be responsible for an accident-related injury or illness. If one of these companies has contacted you, you may wish to respond to them directly for faster service.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Report accidents",
+      "section": "Overview",
+      "subsection": "Report accidents",
+      "hierarchy_path": "Overview > Report accidents",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "* Denotes required field",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Phone number*",
+      "section": "Overview",
+      "subsection": "Phone number*",
+      "hierarchy_path": "Overview > Phone number*",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "LC11184MUL0421 (HUMP11184) FLHL5W6EN0321",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Please select one",
+      "section": "Overview",
+      "subsection": "Please select one",
+      "hierarchy_path": "Overview > Please select one",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "* Denotes required field",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "State*",
+      "section": "Overview",
+      "subsection": "State*",
+      "hierarchy_path": "Overview > State*",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "ZIP*",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Date of injury/onset of illness (mm/dd/yyyy)*",
+      "section": "Overview",
+      "subsection": "Date of injury/onset of illness (mm/dd/yyyy)*",
+      "hierarchy_path": "Overview > Date of injury/onset of illness (mm/dd/yyyy)*",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "(If you do not know, please provide an approximate date) Accident type: Other illness: Briefly describe the cause of the accident-related injury or illness (For example, \"patient slipped on wet floor\" or \"other driver ran red light\")",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "What kinds of injuries/illnesses resulted from the accident?*",
+      "section": "Overview",
+      "subsection": "What kinds of injuries/illnesses resulted from the accident?*",
+      "hierarchy_path": "Overview > What kinds of injuries/illnesses resulted from the accident?*",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "(For example, \"broken arm,\" \"sprained neck,\" etc.)",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Please select one",
+      "section": "Overview",
+      "subsection": "Please select one",
+      "hierarchy_path": "Overview > Please select one",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "* Denotes required field",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "No",
+      "section": "Overview",
+      "subsection": "No",
+      "hierarchy_path": "Overview > No",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "If you answered yes to the above, please fill in the following information:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tell us about the injured Humana enrollee's/member's attorney",
+      "section": "Overview",
+      "subsection": "Tell us about the injured Humana enrollee's/member's attorney",
+      "hierarchy_path": "Overview > Tell us about the injured Humana enrollee's/member's attorney",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "(If there is no attorney, please enter \"N/A\" in the required fields)",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "State",
+      "section": "Overview",
+      "subsection": "State",
+      "hierarchy_path": "Overview > State",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "ZIP",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Is there anything else we should know or that you want to ask?",
+      "section": "Overview",
+      "subsection": "Is there anything else we should know or that you want to ask?",
+      "hierarchy_path": "Overview > Is there anything else we should know or that you want to ask?",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Please include authorization (e.g., letter of representation, signed authorization, court document, etc.) with your submission.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Questions?",
+      "section": "Overview",
+      "subsection": "Questions?",
+      "hierarchy_path": "Overview > Questions?",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "If you have additional questions or need to supply additional information, please contact us:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Humana Subrogation and Other Payer Liability",
+      "section": "Overview",
+      "subsection": "Humana Subrogation and Other Payer Liability",
+      "hierarchy_path": "Overview > Humana Subrogation and Other Payer Liability",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "004/48120",
+      "codes": [
+        "48120"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Louisville, KY 40201-2257",
+      "section": "Overview",
+      "subsection": "Louisville, KY 40201-2257",
+      "hierarchy_path": "Overview > Louisville, KY 40201-2257",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "866-444-1771",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "Overview",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "Overview > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Policy Schedule and Criteria Table] Date of injury/onset of illness (mm/dd/yyyy)*\n(If you do not know, please provide an approximate date) Accident type:: Other illness: | Please select one: ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Date of injury/onset of illness (mm/dd/yyyy)*\n(If you do not know, please provide an approximate date) Accident type:",
+          "Please select one"
+        ],
+        "row": {
+          "Date of injury/onset of illness (mm/dd/yyyy)*\n(If you do not know, please provide an approximate date) Accident type:": "Other illness:",
+          "Please select one": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "Overview",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "Overview > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Policy Schedule and Criteria Table] Date of injury/onset of illness (mm/dd/yyyy)*\n(If you do not know, please provide an approximate date) Accident type:: Briefly describe the cause of the accident-related injury or illness\n(For example, \"patient slipped on wet floor\" or \"other driver ran red light\") | Please select one: ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Date of injury/onset of illness (mm/dd/yyyy)*\n(If you do not know, please provide an approximate date) Accident type:",
+          "Please select one"
+        ],
+        "row": {
+          "Date of injury/onset of illness (mm/dd/yyyy)*\n(If you do not know, please provide an approximate date) Accident type:": "Briefly describe the cause of the accident-related injury or illness\n(For example, \"patient slipped on wet floor\" or \"other driver ran red light\")",
+          "Please select one": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "Overview",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "Overview > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Policy Schedule and Criteria Table] Date of injury/onset of illness (mm/dd/yyyy)*\n(If you do not know, please provide an approximate date) Accident type:: What kinds of injuries/illnesses resulted from the accident?*\n(For example, \"broken arm,\" \"sprained neck,\" etc.) | Please select one: ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Date of injury/onset of illness (mm/dd/yyyy)*\n(If you do not know, please provide an approximate date) Accident type:",
+          "Please select one"
+        ],
+        "row": {
+          "Date of injury/onset of illness (mm/dd/yyyy)*\n(If you do not know, please provide an approximate date) Accident type:": "What kinds of injuries/illnesses resulted from the accident?*\n(For example, \"broken arm,\" \"sprained neck,\" etc.)",
+          "Please select one": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "Overview",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "Overview > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] Carrier name* Has this carrier offered to make payment?* Yes No: Type of insurance coverage | Please select one",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Carrier name* Has this carrier offered to make payment?* Yes No",
+          ""
+        ],
+        "row": {
+          "Carrier name* Has this carrier offered to make payment?* Yes No": "Type of insurance coverage"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "Overview",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "Overview > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] Carrier name* Has this carrier offered to make payment?* Yes No: If other, please specify | ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Carrier name* Has this carrier offered to make payment?* Yes No",
+          ""
+        ],
+        "row": {
+          "Carrier name* Has this carrier offered to make payment?* Yes No": "If other, please specify"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "Overview",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "Overview > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] Carrier name* Has this carrier offered to make payment?* Yes No: Adjuster name Phone number | ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Carrier name* Has this carrier offered to make payment?* Yes No",
+          ""
+        ],
+        "row": {
+          "Carrier name* Has this carrier offered to make payment?* Yes No": "Adjuster name Phone number"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "Overview",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "Overview > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] Carrier name* Has this carrier offered to make payment?* Yes No: Carrier name 2 Has this carrier offered to make payment? Yes No | ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Carrier name* Has this carrier offered to make payment?* Yes No",
+          ""
+        ],
+        "row": {
+          "Carrier name* Has this carrier offered to make payment?* Yes No": "Carrier name 2 Has this carrier offered to make payment? Yes No"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "Overview",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "Overview > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] Carrier name* Has this carrier offered to make payment?* Yes No: Type of insurance coverage | Please select one",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Carrier name* Has this carrier offered to make payment?* Yes No",
+          ""
+        ],
+        "row": {
+          "Carrier name* Has this carrier offered to make payment?* Yes No": "Type of insurance coverage"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "Overview",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "Overview > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] Carrier name* Has this carrier offered to make payment?* Yes No: If other, please specify | ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Carrier name* Has this carrier offered to make payment?* Yes No",
+          ""
+        ],
+        "row": {
+          "Carrier name* Has this carrier offered to make payment?* Yes No": "If other, please specify"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "Overview",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "Overview > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] Carrier name* Has this carrier offered to make payment?* Yes No: Adjuster name Phone number | ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Carrier name* Has this carrier offered to make payment?* Yes No",
+          ""
+        ],
+        "row": {
+          "Carrier name* Has this carrier offered to make payment?* Yes No": "Adjuster name Phone number"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "Overview",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "Overview > Policy Schedule and Criteria Table",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] Carrier name* Has this carrier offered to make payment?* Yes No: Name of policyholder Claim number | ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Carrier name* Has this carrier offered to make payment?* Yes No",
+          ""
+        ],
+        "row": {
+          "Carrier name* Has this carrier offered to make payment?* Yes No": "Name of policyholder Claim number"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "Overview",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "Overview > Policy Schedule and Criteria Table",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] Attorney's name*: Firm street address | Law firm name*: ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Attorney's name*",
+          "Law firm name*"
+        ],
+        "row": {
+          "Attorney's name*": "Firm street address",
+          "Law firm name*": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "Overview",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "Overview > Policy Schedule and Criteria Table",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] Attorney's name*: City State ZIP | Law firm name*: ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Attorney's name*",
+          "Law firm name*"
+        ],
+        "row": {
+          "Attorney's name*": "City State ZIP",
+          "Law firm name*": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "Overview",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "Overview > Policy Schedule and Criteria Table",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] Attorney's name*: Phone number | Law firm name*: ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Attorney's name*",
+          "Law firm name*"
+        ],
+        "row": {
+          "Attorney's name*": "Phone number",
+          "Law firm name*": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Policy Schedule and Criteria Table",
+      "section": "Overview",
+      "subsection": "Policy Schedule and Criteria Table",
+      "hierarchy_path": "Overview > Policy Schedule and Criteria Table",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Policy Schedule and Criteria Table] Attorney's name*: Email | Law firm name*: ",
+      "codes": [],
+      "table_data": {
+        "columns": [
+          "Attorney's name*",
+          "Law firm name*"
+        ],
+        "row": {
+          "Attorney's name*": "Email",
+          "Law firm name*": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "Please use this form to: Confirm if Humana provided benefits for an accident-related injury or illness Request final payment information needed to settle claims made against other insurance carriers and individuals If you are contacting Humana on behalf of an enrollee/member, please submit an authorization signed by the enrollee/member or proof of representation with your request. Once we receive your inquiry, we will contact you for additional information and, if necessary, to confirm your authorization to receive information from Humana. Please note that an injury report is not complete until Humana finishes its review and confirms that we have enough information to make benefit processing decisions. Note: Humana authorized Optum, EXL and Claritev to investigate paid claims and verify proper benefit processing whenever accident insurance coverage, workers' compensation or other individuals may be responsible for an accident-related injury or illness. If one of these companies has contacted you, you may wish to respond to them directly for faster service. * Denotes required field LC11184MUL0421 (HUMP11184) FLHL5W6EN0321 * Denotes required field ZIP* (If you do not know, please provide an approximate date) Accident type: Other illness: Briefly describe the cause of the accident-related injury or illness (For example, \"patient slipped on wet floor\" or \"other driver ran red light\") (For example, \"broken arm,\" \"sprained neck,\" etc.) * Denotes required field If you answered yes to the above, please fill in the following information: (If there is no attorney, please enter \"N/A\" in the required fields) ZIP Please include authorization (e.g., letter of representation, signed authorization, court document, etc.) with your submission. If you have additional questions or need to supply additional information, please contact us: 004/48120 866-444-1771 [Policy Schedule and Criteria Table] Date of injury/onset of illness (mm/dd/yyyy)*\n(If you do not know, please provide an appro"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

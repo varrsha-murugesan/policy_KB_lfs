@@ -1,0 +1,2195 @@
+{
+  "policy_title": "Hospital Readmissions",
+  "policy_number": "DH-PP-READM-2025",
+  "effective_date": "12/18/25",
+  "version": "1.0",
+  "source_pdf": "Hospital_Readmissions.pdf",
+  "source_url": "https://assets.devoted.com/Providers/Hospital_Readmissions_Final(DEC-2025)",
+  "line_of_business": "Medicare Advantage",
+  "billing_class": "Both",
+  "page_count": 6,
+  "revision_history": [
+    {
+      "date": "12/18/25",
+      "revision_num": "1.2",
+      "reason_for_change": "To ensure compliance with CMS\nguidance in respect to fraud, waste, and\nabuse the efefctive date of this policy\nrevision is retroactive to 1/1/2025.",
+      "approved_by": "Payment Policy Management"
+    },
+    {
+      "date": "6/23/25",
+      "revision_num": "1.1",
+      "reason_for_change": "Minor language updates.",
+      "approved_by": "Payment Policy Management"
+    },
+    {
+      "date": "11/7/24",
+      "revision_num": "1",
+      "reason_for_change": "Updated exclusion list and expanded on\nreadmission types.",
+      "approved_by": "Payment Policy Management"
+    },
+    {
+      "date": "6/1/23",
+      "revision_num": "0",
+      "reason_for_change": "Policy published.",
+      "approved_by": "Payment Policy Management"
+    }
+  ],
+  "table_count": 1,
+  "codes_found": {
+    "cpt_hcpcs": [],
+    "modifiers": [
+      "25"
+    ],
+    "revenue_codes": [],
+    "bill_types": [],
+    "icd_codes": []
+  },
+  "CPT_CODES_USED": [],
+  "sections_summary": [
+    "OVERVIEW",
+    "PAYMENT POLICY",
+    "POLICY APPROVAL AND HISTORY"
+  ],
+  "tables": [
+    {
+      "table_id": "tab_p6_1",
+      "title": "Table (Page 6)",
+      "page_number": 6,
+      "bbox": [
+        54.333333333333336,
+        121.85274810791016,
+        522.3333333333334,
+        321.50006103515625
+      ],
+      "columns": [
+        "Date",
+        "Revision #",
+        "Reason for Change",
+        "Approved By"
+      ],
+      "row_count": 4,
+      "col_count": 4,
+      "rows": [
+        {
+          "Date": "12/18/25",
+          "Revision #": "1.2",
+          "Reason for Change": "To ensure compliance with CMS\nguidance in respect to fraud, waste, and\nabuse the efefctive date of this policy\nrevision is retroactive to 1/1/2025.",
+          "Approved By": "Payment Policy Management"
+        },
+        {
+          "Date": "6/23/25",
+          "Revision #": "1.1",
+          "Reason for Change": "Minor language updates.",
+          "Approved By": "Payment Policy Management"
+        },
+        {
+          "Date": "11/7/24",
+          "Revision #": "1",
+          "Reason for Change": "Updated exclusion list and expanded on\nreadmission types.",
+          "Approved By": "Payment Policy Management"
+        },
+        {
+          "Date": "6/1/23",
+          "Revision #": "0",
+          "Reason for Change": "Policy published.",
+          "Approved By": "Payment Policy Management"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Date",
+          "Revision #",
+          "Reason for Change",
+          "Approved By"
+        ],
+        [
+          "12/18/25",
+          "1.2",
+          "To ensure compliance with CMS\nguidance in respect to fraud, waste, and\nabuse the efefctive date of this policy\nrevision is retroactive to 1/1/2025.",
+          "Payment Policy Management"
+        ],
+        [
+          "6/23/25",
+          "1.1",
+          "Minor language updates.",
+          "Payment Policy Management"
+        ],
+        [
+          "11/7/24",
+          "1",
+          "Updated exclusion list and expanded on\nreadmission types.",
+          "Payment Policy Management"
+        ],
+        [
+          "6/1/23",
+          "0",
+          "Policy published.",
+          "Payment Policy Management"
+        ]
+      ],
+      "markdown": "| Date | Revision # | Reason for Change | Approved By |\n| --- | --- | --- | --- |\n| 12/18/25 | 1.2 | To ensure compliance with CMS\nguidance in respect to fraud, waste, and\nabuse the efefctive date of this policy\nrevision is retroactive to 1/1/2025. | Payment Policy Management |\n| 6/23/25 | 1.1 | Minor language updates. | Payment Policy Management |\n| 11/7/24 | 1 | Updated exclusion list and expanded on\nreadmission types. | Payment Policy Management |\n| 6/1/23 | 0 | Policy published. | Payment Policy Management |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [
+          "25"
+        ],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    }
+  ],
+  "extracted_content": [
+    {
+      "id": "item_0001",
+      "title": "Hospital",
+      "section": "OVERVIEW",
+      "subsection": "Hospital",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "Hospital"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "header",
+      "content": "Hospital",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0002",
+      "title": "Readmissions",
+      "section": "OVERVIEW",
+      "subsection": "Readmissions",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "Readmissions"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "header",
+      "content": "Readmissions",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0003",
+      "title": "PAYMENT POLICY",
+      "section": "PAYMENT POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "PAYMENT POLICY"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "header",
+      "content": "PAYMENT POLICY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0004",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "OVERVIEW",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0005",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "To uphold the highest standards of care for our members, we conduct claim and/or clinical reviews of",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0006",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "hospital admissions. These reviews assess the completeness, adequacy, and quality of hospital care",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0007",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "provided. Reviews are conducted in accordance with 42 CFR §476.71(a)(8)(ii) and other relevant CMS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0008",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "guidelines.1, 2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0009",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Scope",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0010",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy applies to all Devoted Health plans.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0011",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Acronyms and definitions",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0012",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "definition",
+      "content": "Initial Admission: An admission to the same or related hospital that is used to determine if a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0013",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "subsequent admission meets the criteria for a readmission.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0014",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "definition",
+      "content": "Quality Improvement Organization (QIO): An entity contracted by CMS to perform case review and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0015",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "quality improvement functions.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0016",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "definition",
+      "content": "Same or Related Hospital: Any hospital system or hospital that is part of a hospital system that",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0017",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "shares the same contractual hospital agreement and/or tax identification number with any other",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0018",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "hospital or system.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0019",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "definition",
+      "content": "Same-day Readmission: Defined as readmission occurring between midnight and midnight of a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0020",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "single day.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0021",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Policy statement",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0022",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "We may review readmission (re-hospitalization within a specified time interval) claims when a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0023",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "member returns to the same or related hospital within thirty (30) days of the discharge date of a prior",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0024",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "admission. Consistent with CMS guidelines, we do not separately cover readmissions when they are",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0025",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "for a leave of absence, for the same or plausibly related condition as the prior stay, or considered",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0026",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "otherwise preventable.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0027",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "For the purposes of this policy, criteria for \"same or plausibly related, or otherwise preventable\"",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0028",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "include but are not limited to the following:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0029",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● The same or plausibly related procedure and/or diagnosis as the prior discharge;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0030",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Procedures and/or diagnoses related to infections or other complications of care;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0031",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Acute decompensation of a coexisting chronic condition;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0032",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Medical decision making inconsistent with professionally recognized standards of care;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0033",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Insufficient discharge planning and/or post-discharge follow up, such as lack of coordination",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0034",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "between inpatient and outpatient services;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0035",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Premature discharge resulting in readmission, such as signs of post-operative infection or",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0036",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "abnormal test results at the time of discharge.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0037",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Care that could have been provided during first admission (i.e., if the two confinements could",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0038",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "be related).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0039",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Readmission was medically unnecessary.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0040",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Readmission was a result of circumvention of the Prospective Payment System.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0041",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "We will review claims and/or medical records for both admissions to determine if they are clinically",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0042",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "related and/or preventable. For additional guidance on readmission review criteria, please refer to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0043",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "the Medicare QIO Case Review Manual and State Operations Manual.3, 4",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0044",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Exemptions from This Policy:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0045",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Readmissions that are unrelated to the prior discharge are covered as two separate admissions.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0046",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "We recognize that there are times when readmissions are required as part of regular treatment or",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0047",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "due to extenuating circumstances and are exempt from this policy. Examples include, but are not",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0048",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "limited to, the following:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0049",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Behavioral/mental health and substance abuse admissions;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0050",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Planned chemotherapy treatments;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0051",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Planned infusion treatments;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0052",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Neonatal or obstetrical admissions;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0053",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Transfers from Out-of-Network to In-Network facilities;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0054",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Transplant and transplant-related admissions.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0055",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Leave of Absence/Planned Readmission:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0056",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "If a patient is readmitted to a facility as part of a planned readmission or leave of absence, the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0057",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "admissions are not considered two separate admissions. CMS requires the facility to submit one",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0058",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "claim and receive one combined MS-DRG payment for both admissions because both are for the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0059",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "treatment of the same episode of illness. Examples based on CMS guidelines include:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0060",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "\"Hospitals may place a patient on a leave of absence when readmission is expected and the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0061",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "patient does not require a hospital level of care during the interim period. Examples could",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0062",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "include, but are not limited to, situations where surgery could not be scheduled immediately, a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0063",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "specific surgical team was not available, bilateral surgery was planned, or when further",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0064",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "treatment is indicated following diagnostic tests but cannot begin immediately.\"5",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0065",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Medical records for a leave of absence must clearly show that the readmission was planned and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0066",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "related to the same episode of care. Leave of absence days are not covered by the plan and cannot be",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0067",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "charged to the member.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0068",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Same-day Readmission for Related Condition:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0069",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "If a patient is readmitted to a facility on the same day as a prior discharge for the same or a plausibly",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0070",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "related condition, CMS requires the facility to combine the two admissions on one claim. Consistent",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0071",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "with CMS billing requirements, Devoted Health, may review same-day readmissions and request",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0072",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "medical records to determine if the readmission was related. If a patient was readmitted during the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0073",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "same day for a same or plausibly related condition, Devoted Health will deny the subsequent",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0074",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "admission. The provider must adjust the original admissions claim to combine both stays on the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0075",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "same claim to be eligible.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0076",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "If a patient leaves against medical advice (AMA) and then returns same-day to the same hospital, this",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0077",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "scenario will be considered a same-day readmission and should be billed as one claim.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0078",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Same-day Readmission for Unrelated Condition:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0079",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "If a patient is readmitted to a facility on the same day as a prior discharge for symptoms unrelated to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0080",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "the prior stay's medical condition, CMS requires the facility to follow different billing requirements. In",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0081",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "this situation, two claims are submitted, but the claim for the subsequent admission must contain",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0082",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "the condition code \"B4\". Consistent with CMS billing requirements, if a patient is readmitted on the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0083",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "same day for an unrelated condition, two properly coded claims must be submitted to Devoted",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0084",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Health.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0085",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Transfer:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0086",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "A discharge of a hospital inpatient is considered to be a transfer if the patient is admitted on the same",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0087",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "day to another hospital. A transfer between acute inpatient hospitals occurs when a patient is",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0088",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "admitted to a hospital and is subsequently transferred from the hospital where the patient was",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0089",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "admitted to another hospital for additional treatment once the patient's condition has stabilized or a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0090",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "diagnosis established.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0091",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Effective for discharges on or after October 1, 2003, patients who leave AMA but are admitted to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0092",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "another inpatient prospective payment system (IPPS) hospital on the same day as they left will be",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0093",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "treated as transfers, and the transfer payment policy will apply.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0094",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Claim submission and reimbursement",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0095",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "We process claims according to Medicare PPS payment rules unless otherwise specified by your",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0096",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "contract. Claims for readmissions that are billed separately but are not separately payable will be",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0097",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "denied and may be submitted as outlined below:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0098",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Readmission for the Same or Related Condition Within Thirty (30) Days",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0099",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "○ Submit a corrected claim (TOB 117) that references the original claim number;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0100",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "○ Consolidate both admissions into one claim.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0101",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Planned Readmission/Leave of Absence",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0102",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "○ Submit all admissions related to the episode of care on one claim;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0103",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "○ Report leave of absence date span with Occurrence Span Code 74 (FL 35-36);",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0104",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "○ Report non-covered charges using revenue code 018X in FL 42.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0105",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Same-Day Readmissions for Unrelated Conditions",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0106",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "○ Same-day readmissions for conditions unrelated to the prior discharge are reimbursed",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0107",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "as two separate MS-DRG payments. Billing should follow standard IPPS requirements",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0108",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "and include condition code B4 in FL 18-28.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0109",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Related policies",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0110",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0111",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Regulatory references",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0112",
+      "title": "1Title 42, CFR 476.71: QIO review requirements",
+      "section": "OVERVIEW",
+      "subsection": "1Title 42, CFR 476.71: QIO review requirements",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "1Title 42, CFR 476.71: QIO review requirements"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "header",
+      "content": "1Title 42, CFR 476.71: QIO review requirements",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0113",
+      "title": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "section": "OVERVIEW",
+      "subsection": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "2Medicare Claims Processing Manual, Chapter 3, §40.2.5"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "header",
+      "content": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0114",
+      "title": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "section": "OVERVIEW",
+      "subsection": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "2Medicare Claims Processing Manual, Chapter 3, §40.2.5"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "3Medicare QIO Manual, Chapter 4, Section 4240: Readmission Review",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0115",
+      "title": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "section": "OVERVIEW",
+      "subsection": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "2Medicare Claims Processing Manual, Chapter 3, §40.2.5"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "4Medicare State Operations Manual, Appendix A: Survey Protocol, Regulations and Interpretive",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0116",
+      "title": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "section": "OVERVIEW",
+      "subsection": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "2Medicare Claims Processing Manual, Chapter 3, §40.2.5"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Guidelines for Hospitals",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0117",
+      "title": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "section": "OVERVIEW",
+      "subsection": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "2Medicare Claims Processing Manual, Chapter 3, §40.2.5"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "5Medicare Claims Processing Manual, Chapter 3, §40.2.6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0118",
+      "title": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "section": "OVERVIEW",
+      "subsection": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "2Medicare Claims Processing Manual, Chapter 3, §40.2.5"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Disclaimer",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0119",
+      "title": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "section": "OVERVIEW",
+      "subsection": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "2Medicare Claims Processing Manual, Chapter 3, §40.2.5"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "This payment policy is informational only and is not a guarantee of reimbursement. Claim payments",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0120",
+      "title": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "section": "OVERVIEW",
+      "subsection": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "2Medicare Claims Processing Manual, Chapter 3, §40.2.5"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "are subject to benefit coverage, member eligibility, claims payment edit rules, coding and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0121",
+      "title": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "section": "OVERVIEW",
+      "subsection": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "2Medicare Claims Processing Manual, Chapter 3, §40.2.5"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "documentation guidelines, authorization policies, provider contractual agreements, and state and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0122",
+      "title": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "section": "OVERVIEW",
+      "subsection": "2Medicare Claims Processing Manual, Chapter 3, §40.2.5",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "2Medicare Claims Processing Manual, Chapter 3, §40.2.5"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "federal regulations.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0123",
+      "title": "POLICY APPROVAL AND HISTORY",
+      "section": "POLICY APPROVAL AND HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY APPROVAL AND HISTORY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "header",
+      "content": "POLICY APPROVAL AND HISTORY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0124",
+      "title": "Table (Page 6)",
+      "section": "POLICY APPROVAL AND HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY APPROVAL AND HISTORY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "table",
+      "content": "| Date | Revision # | Reason for Change | Approved By |\n| --- | --- | --- | --- |\n| 12/18/25 | 1.2 | To ensure compliance with CMS\nguidance in respect to fraud, waste, and\nabuse the efefctive date of this policy\nrevision is retroactive to 1/1/2025. | Payment Policy Management |\n| 6/23/25 | 1.1 | Minor language updates. | Payment Policy Management |\n| 11/7/24 | 1 | Updated exclusion list and expanded on\nreadmission types. | Payment Policy Management |\n| 6/1/23 | 0 | Policy published. | Payment Policy Management |",
+      "codes": [
+        "25"
+      ],
+      "table_data": {
+        "table_id": "tab_p6_1",
+        "title": "Table (Page 6)",
+        "columns": [
+          "Date",
+          "Revision #",
+          "Reason for Change",
+          "Approved By"
+        ],
+        "row_count": 4,
+        "rows": [
+          {
+            "Date": "12/18/25",
+            "Revision #": "1.2",
+            "Reason for Change": "To ensure compliance with CMS\nguidance in respect to fraud, waste, and\nabuse the efefctive date of this policy\nrevision is retroactive to 1/1/2025.",
+            "Approved By": "Payment Policy Management"
+          },
+          {
+            "Date": "6/23/25",
+            "Revision #": "1.1",
+            "Reason for Change": "Minor language updates.",
+            "Approved By": "Payment Policy Management"
+          },
+          {
+            "Date": "11/7/24",
+            "Revision #": "1",
+            "Reason for Change": "Updated exclusion list and expanded on\nreadmission types.",
+            "Approved By": "Payment Policy Management"
+          },
+          {
+            "Date": "6/1/23",
+            "Revision #": "0",
+            "Reason for Change": "Policy published.",
+            "Approved By": "Payment Policy Management"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0125",
+      "title": "POLICY APPROVAL AND HISTORY",
+      "section": "POLICY APPROVAL AND HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY APPROVAL AND HISTORY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "abuse the effective date of this policy",
+      "codes": [],
+      "table_data": null
+    }
+  ]
+}

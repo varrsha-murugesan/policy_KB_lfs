@@ -1,0 +1,2286 @@
+{
+  "policy_title": "Medicare Part B and D Vaccines and Vaccine Administration",
+  "policy_number": "CLMS.CP.0073",
+  "effective_date": "2026-08-10",
+  "version": "1.0",
+  "source_pdf": "Medicare_Part_B_and_D_Vaccines_and_Vaccine_Administration.pdf",
+  "source_url": "https://assets.devoted.com/Providers/Medicare_Part_B_&_D_Vaccines_&_Vaccine_Administration",
+  "line_of_business": "Medicare Advantage",
+  "billing_class": "Professional",
+  "page_count": 6,
+  "revision_history": [
+    {
+      "date": "2026-08-10",
+      "document_num": "CLMS.CP.0073",
+      "version_num": "1.0"
+    }
+  ],
+  "table_count": 5,
+  "codes_found": {
+    "cpt_hcpcs": [
+      "11401"
+    ],
+    "modifiers": [],
+    "revenue_codes": [],
+    "bill_types": [],
+    "icd_codes": []
+  },
+  "CPT_CODES_USED": [
+    "11401"
+  ],
+  "sections_summary": [
+    "OVERVIEW",
+    "PURPOSE",
+    "APPLICABILITY",
+    "POLICY",
+    "ACRONYMS AND DEFINITIONS",
+    "RESPONSIBILITIES",
+    "N/A",
+    "REGULATORY REFERENCE",
+    "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+    "REVIEW AND VERSION HISTORY"
+  ],
+  "tables": [
+    {
+      "table_id": "tab_p2_1",
+      "title": "Table (Page 2)",
+      "page_number": 2,
+      "bbox": [
+        72.5,
+        414.4999694824219,
+        524.5,
+        647.5
+      ],
+      "columns": [
+        "Benefit",
+        "Coverage Rules & Criteria",
+        "Examples"
+      ],
+      "row_count": 1,
+      "col_count": 3,
+      "rows": [
+        {
+          "Benefit": "Medicare\nPart B",
+          "Coverage Rules & Criteria": "Covers specific vaccines and vaccines\nadministered for treatment or direct\nexposure/injury.",
+          "Examples": "• Annual Influenza\n• Pneumococcal\n• COVID-19\n• Hepatitis B\n(intermediate/high risk)\n• Tetanus given for an acute\ninjury/puncture wound"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Benefit",
+          "Coverage Rules & Criteria",
+          "Examples"
+        ],
+        [
+          "Medicare\nPart B",
+          "Covers specific vaccines and vaccines\nadministered for treatment or direct\nexposure/injury.",
+          "• Annual Influenza\n• Pneumococcal\n• COVID-19\n• Hepatitis B\n(intermediate/high risk)\n• Tetanus given for an acute\ninjury/puncture wound"
+        ]
+      ],
+      "markdown": "| Benefit | Coverage Rules & Criteria | Examples |\n| --- | --- | --- |\n| Medicare\nPart B | Covers specific vaccines and vaccines\nadministered for treatment or direct\nexposure/injury. | • Annual Influenza\n• Pneumococcal\n• COVID-19\n• Hepatitis B\n(intermediate/high risk)\n• Tetanus given for an acute\ninjury/puncture wound |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p3_1",
+      "title": "Table (Page 2) (Continued)",
+      "page_number": 3,
+      "bbox": [
+        72.5,
+        72.5,
+        524.5,
+        237.5
+      ],
+      "columns": [
+        "Benefit",
+        "Coverage Rules & Criteria",
+        "Examples"
+      ],
+      "row_count": 1,
+      "col_count": 3,
+      "rows": [
+        {
+          "Benefit": "Medicare\nPart D",
+          "Coverage Rules & Criteria": "Covers all other preventive vaccines\ngiven for prevention and not related to\nimmediate injury or exposure.",
+          "Examples": "• Shingles (Shingrix)\n• Respiratory Syncytial\nVirus (RSV)\n•Tetanus-Diphtheria-Pertus\nsis (Tdap) routine booster\n• Hepatitis A/B (low-risk\nroutine)"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Medicare\nPart D",
+          "Covers all other preventive vaccines\ngiven for prevention and not related to\nimmediate injury or exposure.",
+          "• Shingles (Shingrix)\n• Respiratory Syncytial\nVirus (RSV)\n•Tetanus-Diphtheria-Pertus\nsis (Tdap) routine booster\n• Hepatitis A/B (low-risk\nroutine)"
+        ]
+      ],
+      "markdown": "| Benefit | Coverage Rules & Criteria | Examples |\n| --- | --- | --- |\n| Medicare\nPart D | Covers all other preventive vaccines\ngiven for prevention and not related to\nimmediate injury or exposure. | • Shingles (Shingrix)\n• Respiratory Syncytial\nVirus (RSV)\n•Tetanus-Diphtheria-Pertus\nsis (Tdap) routine booster\n• Hepatitis A/B (low-risk\nroutine) |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p4_1",
+      "title": "Table (Page 4)",
+      "page_number": 4,
+      "bbox": [
+        72.5,
+        367.5000305175781,
+        525.5,
+        695.5
+      ],
+      "columns": [
+        "ACIP",
+        "Advisory Committee on Immunization Practices: A committee within\nthe CDC that provides recommendations on vaccine administration."
+      ],
+      "row_count": 6,
+      "col_count": 2,
+      "rows": [
+        {
+          "ACIP": "CDC",
+          "Advisory Committee on Immunization Practices: A committee within\nthe CDC that provides recommendations on vaccine administration.": "Centers for Disease Control and Prevention: Federal agency under the\nU.S. Department of Health and Human Services."
+        },
+        {
+          "ACIP": "CMS",
+          "Advisory Committee on Immunization Practices: A committee within\nthe CDC that provides recommendations on vaccine administration.": "Centers for Medicare & Medicaid Services: The federal agency\nadministering Medicare programs."
+        },
+        {
+          "ACIP": "IRA",
+          "Advisory Committee on Immunization Practices: A committee within\nthe CDC that provides recommendations on vaccine administration.": "Inflation Reduction Act of 2022: Federal legislation mandating $0\ncost-sharing for ACIP-recommended Part D adult vaccines beginning\nJanuary 1, 2023."
+        },
+        {
+          "ACIP": "MA-PD",
+          "Advisory Committee on Immunization Practices: A committee within\nthe CDC that provides recommendations on vaccine administration.": "Medicare Advantage Prescription Drug Plan: Integrated health plan\nofefring Medicare Parts A, B, and D coverage."
+        },
+        {
+          "ACIP": "MLN",
+          "Advisory Committee on Immunization Practices: A committee within\nthe CDC that provides recommendations on vaccine administration.": "Medicare Learning Network: Official CMS provider educational\nchannel."
+        },
+        {
+          "ACIP": "PBM",
+          "Advisory Committee on Immunization Practices: A committee within\nthe CDC that provides recommendations on vaccine administration.": "Pharmacy Benefit Manager: An entity contracted by Devoted Health to\nprocess and adjudicate prescription drug claims."
+        }
+      ],
+      "raw_grid": [
+        [
+          "ACIP",
+          "Advisory Committee on Immunization Practices: A committee within\nthe CDC that provides recommendations on vaccine administration."
+        ],
+        [
+          "CDC",
+          "Centers for Disease Control and Prevention: Federal agency under the\nU.S. Department of Health and Human Services."
+        ],
+        [
+          "CMS",
+          "Centers for Medicare & Medicaid Services: The federal agency\nadministering Medicare programs."
+        ],
+        [
+          "IRA",
+          "Inflation Reduction Act of 2022: Federal legislation mandating $0\ncost-sharing for ACIP-recommended Part D adult vaccines beginning\nJanuary 1, 2023."
+        ],
+        [
+          "MA-PD",
+          "Medicare Advantage Prescription Drug Plan: Integrated health plan\nofefring Medicare Parts A, B, and D coverage."
+        ],
+        [
+          "MLN",
+          "Medicare Learning Network: Official CMS provider educational\nchannel."
+        ],
+        [
+          "PBM",
+          "Pharmacy Benefit Manager: An entity contracted by Devoted Health to\nprocess and adjudicate prescription drug claims."
+        ]
+      ],
+      "markdown": "| ACIP | Advisory Committee on Immunization Practices: A committee within\nthe CDC that provides recommendations on vaccine administration. |\n| --- | --- |\n| CDC | Centers for Disease Control and Prevention: Federal agency under the\nU.S. Department of Health and Human Services. |\n| CMS | Centers for Medicare & Medicaid Services: The federal agency\nadministering Medicare programs. |\n| IRA | Inflation Reduction Act of 2022: Federal legislation mandating $0\ncost-sharing for ACIP-recommended Part D adult vaccines beginning\nJanuary 1, 2023. |\n| MA-PD | Medicare Advantage Prescription Drug Plan: Integrated health plan\nofefring Medicare Parts A, B, and D coverage. |\n| MLN | Medicare Learning Network: Official CMS provider educational\nchannel. |\n| PBM | Pharmacy Benefit Manager: An entity contracted by Devoted Health to\nprocess and adjudicate prescription drug claims. |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p5_1",
+      "title": "Table (Page 5)",
+      "page_number": 5,
+      "bbox": [
+        72.5,
+        72.5,
+        525.5,
+        142.5
+      ],
+      "columns": [
+        "PDP",
+        "Prescription Drug Plan: Standalone Part D drug coverage."
+      ],
+      "row_count": 1,
+      "col_count": 2,
+      "rows": [
+        {
+          "PDP": "Tdap",
+          "Prescription Drug Plan: Standalone Part D drug coverage.": "Tetanus, Diphtheria, Pertussis Vaccine: A common Part D preventive\nvaccine booster."
+        }
+      ],
+      "raw_grid": [
+        [
+          "PDP",
+          "Prescription Drug Plan: Standalone Part D drug coverage."
+        ],
+        [
+          "Tdap",
+          "Tetanus, Diphtheria, Pertussis Vaccine: A common Part D preventive\nvaccine booster."
+        ]
+      ],
+      "markdown": "| PDP | Prescription Drug Plan: Standalone Part D drug coverage. |\n| --- | --- |\n| Tdap | Tetanus, Diphtheria, Pertussis Vaccine: A common Part D preventive\nvaccine booster. |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p6_1",
+      "title": "Table (Page 6)",
+      "page_number": 6,
+      "bbox": [
+        54.12000020345052,
+        106.42999267578125,
+        557.8800048828125,
+        139.80999755859375
+      ],
+      "columns": [
+        "Date",
+        "Document #",
+        "Version #"
+      ],
+      "row_count": 1,
+      "col_count": 3,
+      "rows": [
+        {
+          "Date": "2026-08-10",
+          "Document #": "CLMS.CP.0073",
+          "Version #": "1.0"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        [
+          "2026-08-10",
+          "CLMS.CP.0073",
+          "1.0"
+        ]
+      ],
+      "markdown": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-08-10 | CLMS.CP.0073 | 1.0 |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    }
+  ],
+  "extracted_content": [
+    {
+      "id": "item_0001",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Medicare Part B & D Vaccines &",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0002",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Vaccine Administration",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0003",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "[CLMS.CP.0073] 2026-08-10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0004",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0073 - 2026-08-10 v1.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0005",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0006",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0007",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Page 1 of 6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0008",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "PURPOSE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0009",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This payment policy outlines the coverage, reimbursement rules, claim submission",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0010",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "procedures, and cost-sharing guidelines for Medicare Part D covered vaccines and their",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0011",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "associated administration fees. The purpose of this policy is to ensure compliance with",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0012",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Centers for Medicare & Medicaid Services (CMS) regulations and the Inflation Reduction Act",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0013",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "(IRA) of 2022, which mandate zero-dollar ($0) member cost-sharing for adult vaccines",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0014",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "recommended by the Advisory Committee on Immunization Practices (ACIP).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0015",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "APPLICABILITY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0016",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy applies to all Devoted Health plans.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0017",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "POLICY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0018",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Devoted Health covers all commercially available, preventive vaccines under Medicare Part D",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0019",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "when reasonable and necessary to prevent illness, provided they are not covered under",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0020",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Medicare Part B.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0021",
+      "title": "Table (Page 2)",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "table",
+      "content": "| Benefit | Coverage Rules & Criteria | Examples |\n| --- | --- | --- |\n| Medicare\nPart B | Covers specific vaccines and vaccines\nadministered for treatment or direct\nexposure/injury. | • Annual Influenza\n• Pneumococcal\n• COVID-19\n• Hepatitis B\n(intermediate/high risk)\n• Tetanus given for an acute\ninjury/puncture wound |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p2_1",
+        "title": "Table (Page 2)",
+        "columns": [
+          "Benefit",
+          "Coverage Rules & Criteria",
+          "Examples"
+        ],
+        "row_count": 1,
+        "rows": [
+          {
+            "Benefit": "Medicare\nPart B",
+            "Coverage Rules & Criteria": "Covers specific vaccines and vaccines\nadministered for treatment or direct\nexposure/injury.",
+            "Examples": "• Annual Influenza\n• Pneumococcal\n• COVID-19\n• Hepatitis B\n(intermediate/high risk)\n• Tetanus given for an acute\ninjury/puncture wound"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0022",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0073 - 2026-08-10 v1.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0023",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0024",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0025",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Page 2 of 6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0026",
+      "title": "Table (Page 2) (Continued)",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "table",
+      "content": "| Benefit | Coverage Rules & Criteria | Examples |\n| --- | --- | --- |\n| Medicare\nPart D | Covers all other preventive vaccines\ngiven for prevention and not related to\nimmediate injury or exposure. | • Shingles (Shingrix)\n• Respiratory Syncytial\nVirus (RSV)\n•Tetanus-Diphtheria-Pertus\nsis (Tdap) routine booster\n• Hepatitis A/B (low-risk\nroutine) |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p3_1",
+        "title": "Table (Page 2) (Continued)",
+        "columns": [
+          "Benefit",
+          "Coverage Rules & Criteria",
+          "Examples"
+        ],
+        "row_count": 1,
+        "rows": [
+          {
+            "Benefit": "Medicare\nPart D",
+            "Coverage Rules & Criteria": "Covers all other preventive vaccines\ngiven for prevention and not related to\nimmediate injury or exposure.",
+            "Examples": "• Shingles (Shingrix)\n• Respiratory Syncytial\nVirus (RSV)\n•Tetanus-Diphtheria-Pertus\nsis (Tdap) routine booster\n• Hepatitis A/B (low-risk\nroutine)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0027",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "Member Cost-Sharing Rules",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0028",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "definition",
+      "content": "ACIP-Recommended Vaccines: Pursuant to Section 11401 of the Inflation Reduction Act of",
+      "codes": [
+        "11401"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0029",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "2022, Devoted Health members pay $0 out-of-pocket (no deductible, copay, or coinsurance)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0030",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "for adult vaccines recommended by the Advisory Committee on Immunization Practices",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0031",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "(ACIP).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0032",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "definition",
+      "content": "Non-ACIP Recommended Vaccines: If a prescriber orders a Part D vaccine that is not",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0033",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "ACIP-recommended, standard Part D plan formulary cost-sharing (copayment or coinsurance)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0034",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "may apply.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0035",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "definition",
+      "content": "Deductibles: The Part D deductible does not apply to ACIP-recommended adult Part D",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0036",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "vaccines.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0037",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Reimbursement and Administration Fees",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0038",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Single-Claim Billing Requirement: When the same provider or entity dispenses and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0039",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "administers the vaccine (e.g., a retail pharmacy or in-office web portal), the vaccine",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0040",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "ingredient cost, dispensing fee (if applicable), sales tax, and administration fee must",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0041",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "be billed together on one claim.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0042",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Administration Fee Structures: Devoted Health or its delegated PBM may reimburse",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0043",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "single or differential vaccine administration fees based on:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0044",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "1. Product administration complexity.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0045",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "2. Provider type (e.g., pharmacy vs. physician office).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0046",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "3. Vaccine type.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0047",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "definition",
+      "content": "Pharmacy Network Definition: In accordance with CMS guidelines, Part D networks are",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0048",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "defined as pharmacy networks. Administration in a physician's office or prescriber setting is",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0049",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "classified as Out-of-Network (OON) for Part D.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0050",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0073 - 2026-08-10 v1.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0051",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0052",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0053",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Page 3 of 6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0054",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Out-of-Network Reimbursement & Direct Member Reimbursement:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0055",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● If an out-of-network provider or physician office administers an ACIP-recommended",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0056",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Part D vaccine and charges the member upfront, the member is entitled to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0057",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "reimbursement from Devoted Health.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0058",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● Out-of-network prescribers may assist members by submitting claims on their behalf",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0059",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "using standard physician claim forms (CMS-1500 / ASC X12N 837P format) or web",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0060",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "portal e-claims to receive direct payment or facilitate member reimbursement.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0061",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● Please see MLN908764 Medicare Part D Vaccines dated July 2026 for Part D",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0062",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Out-of-Network Prescriber Billing Options",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0063",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "definition",
+      "content": "(https://www.cms.gov/files/document/mln908764-medicare-part-d-vaccines.pdf).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0064",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "definition",
+      "content": "Preclusion List Restriction: Part D vaccines and administration fees prescribed or provided",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0065",
+      "title": "Member Cost-Sharing Rules",
+      "section": "POLICY",
+      "subsection": "Member Cost-Sharing Rules",
+      "hierarchy_path": [
+        "POLICY",
+        "Member Cost-Sharing Rules"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "by individuals on the CMS Preclusion List are not covered.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0066",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "ACRONYMS AND DEFINITIONS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0067",
+      "title": "Table (Page 4)",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "table",
+      "content": "| ACIP | Advisory Committee on Immunization Practices: A committee within\nthe CDC that provides recommendations on vaccine administration. |\n| --- | --- |\n| CDC | Centers for Disease Control and Prevention: Federal agency under the\nU.S. Department of Health and Human Services. |\n| CMS | Centers for Medicare & Medicaid Services: The federal agency\nadministering Medicare programs. |\n| IRA | Inflation Reduction Act of 2022: Federal legislation mandating $0\ncost-sharing for ACIP-recommended Part D adult vaccines beginning\nJanuary 1, 2023. |\n| MA-PD | Medicare Advantage Prescription Drug Plan: Integrated health plan\nofefring Medicare Parts A, B, and D coverage. |\n| MLN | Medicare Learning Network: Official CMS provider educational\nchannel. |\n| PBM | Pharmacy Benefit Manager: An entity contracted by Devoted Health to\nprocess and adjudicate prescription drug claims. |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p4_1",
+        "title": "Table (Page 4)",
+        "columns": [
+          "ACIP",
+          "Advisory Committee on Immunization Practices: A committee within\nthe CDC that provides recommendations on vaccine administration."
+        ],
+        "row_count": 6,
+        "rows": [
+          {
+            "ACIP": "CDC",
+            "Advisory Committee on Immunization Practices: A committee within\nthe CDC that provides recommendations on vaccine administration.": "Centers for Disease Control and Prevention: Federal agency under the\nU.S. Department of Health and Human Services."
+          },
+          {
+            "ACIP": "CMS",
+            "Advisory Committee on Immunization Practices: A committee within\nthe CDC that provides recommendations on vaccine administration.": "Centers for Medicare & Medicaid Services: The federal agency\nadministering Medicare programs."
+          },
+          {
+            "ACIP": "IRA",
+            "Advisory Committee on Immunization Practices: A committee within\nthe CDC that provides recommendations on vaccine administration.": "Inflation Reduction Act of 2022: Federal legislation mandating $0\ncost-sharing for ACIP-recommended Part D adult vaccines beginning\nJanuary 1, 2023."
+          },
+          {
+            "ACIP": "MA-PD",
+            "Advisory Committee on Immunization Practices: A committee within\nthe CDC that provides recommendations on vaccine administration.": "Medicare Advantage Prescription Drug Plan: Integrated health plan\nofefring Medicare Parts A, B, and D coverage."
+          },
+          {
+            "ACIP": "MLN",
+            "Advisory Committee on Immunization Practices: A committee within\nthe CDC that provides recommendations on vaccine administration.": "Medicare Learning Network: Official CMS provider educational\nchannel."
+          },
+          {
+            "ACIP": "PBM",
+            "Advisory Committee on Immunization Practices: A committee within\nthe CDC that provides recommendations on vaccine administration.": "Pharmacy Benefit Manager: An entity contracted by Devoted Health to\nprocess and adjudicate prescription drug claims."
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0068",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "offering Medicare Parts A, B, and D coverage.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0069",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0073 - 2026-08-10 v1.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0070",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0071",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0072",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Page 4 of 6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0073",
+      "title": "Table (Page 5)",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "table",
+      "content": "| PDP | Prescription Drug Plan: Standalone Part D drug coverage. |\n| --- | --- |\n| Tdap | Tetanus, Diphtheria, Pertussis Vaccine: A common Part D preventive\nvaccine booster. |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p5_1",
+        "title": "Table (Page 5)",
+        "columns": [
+          "PDP",
+          "Prescription Drug Plan: Standalone Part D drug coverage."
+        ],
+        "row_count": 1,
+        "rows": [
+          {
+            "PDP": "Tdap",
+            "Prescription Drug Plan: Standalone Part D drug coverage.": "Tetanus, Diphtheria, Pertussis Vaccine: A common Part D preventive\nvaccine booster."
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0074",
+      "title": "RESPONSIBILITIES",
+      "section": "RESPONSIBILITIES",
+      "subsection": null,
+      "hierarchy_path": [
+        "RESPONSIBILITIES"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "header",
+      "content": "RESPONSIBILITIES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0075",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0076",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "header",
+      "content": "REGULATORY REFERENCE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0077",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "definition",
+      "content": "CMS Subregulatory Guidance: MLN Fact Sheet MLN908764 - Medicare Part D Vaccines",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0078",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "(Centers for Medicare & Medicaid Services).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0079",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "definition",
+      "content": "Statutory Requirement: Inflation Reduction Act (IRA) of 2022, Public Law 117-169, Section",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0080",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "11401 (Coverage of Adult Vaccines Under Medicare Part D Without Cost Sharing).",
+      "codes": [
+        "11401"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0081",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "definition",
+      "content": "CMS Manual System: Medicare Prescription Drug Benefit Manual, Chapter 5 (Benefits and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0082",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Beneficiary Protections), Sections 60.2-60.3.4.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0083",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "definition",
+      "content": "CMS Manual System: Medicare Prescription Drug Benefit Manual, Chapter 6 (Part D Drugs",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0084",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "and Formulary Requirements), Section 10.14.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0085",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "definition",
+      "content": "CDC Clinical Guidance: Advisory Committee on Immunization Practices (ACIP)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0086",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "definition",
+      "content": "Recommendations (https://www.cdc.gov/vaccines/hcp/acip-recs/).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0087",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "definition",
+      "content": "Social Security Act: Section 1860D-2(e)(1) (Definition of Covered Part D Drugs and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0088",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Vaccines).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0089",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "header",
+      "content": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0090",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0091",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0073 - 2026-08-10 v1.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0092",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0093",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0094",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Page 5 of 6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0095",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "header",
+      "content": "REVIEW AND VERSION HISTORY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0096",
+      "title": "Table (Page 6)",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "table",
+      "content": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-08-10 | CLMS.CP.0073 | 1.0 |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p6_1",
+        "title": "Table (Page 6)",
+        "columns": [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        "row_count": 1,
+        "rows": [
+          {
+            "Date": "2026-08-10",
+            "Document #": "CLMS.CP.0073",
+            "Version #": "1.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0097",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Prior versions are available upon request",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0098",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0073 - 2026-08-10 v1.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0099",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0100",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0101",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Page 6 of 6",
+      "codes": [],
+      "table_data": null
+    }
+  ],
+  "mapping_eligibility": {
+    "eligible": true,
+    "route": "MAP_NEEDED",
+    "reason": "no explicit codes; 4 procedural terms",
+    "explicit_code_count": 0,
+    "procedure_terms": [
+      "immunization",
+      "procedures",
+      "vaccine",
+      "vaccines"
+    ],
+    "admin_terms": [
+      "claim submission",
+      "cost sharing",
+      "cost-sharing"
+    ]
+  },
+  "mapping_status": "mapped",
+  "mapped_cpt_codes": [
+    {
+      "code": "11401",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "V5090",
+      "code_system": "HCPCS_L2",
+      "description": "",
+      "confidence_tier": "D",
+      "score": 42.49,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "V5110",
+      "code_system": "HCPCS_L2",
+      "description": "",
+      "confidence_tier": "D",
+      "score": 42.49,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "V5160",
+      "code_system": "HCPCS_L2",
+      "description": "",
+      "confidence_tier": "D",
+      "score": 42.49,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "J8499",
+      "code_system": "HCPCS_L2",
+      "description": "",
+      "confidence_tier": "D",
+      "score": 41.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "J8999",
+      "code_system": "HCPCS_L2",
+      "description": "",
+      "confidence_tier": "D",
+      "score": 41.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "S5000",
+      "code_system": "HCPCS_L2",
+      "description": "",
+      "confidence_tier": "D",
+      "score": 41.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "S5001",
+      "code_system": "HCPCS_L2",
+      "description": "",
+      "confidence_tier": "D",
+      "score": 41.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "90471",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "87516",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "87517",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "90739",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "90740",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "90743",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "90744",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "90746",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "90747",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "S9999",
+      "code_system": "HCPCS_L2",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "V5200",
+      "code_system": "HCPCS_L2",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "V5240",
+      "code_system": "HCPCS_L2",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "V5241",
+      "code_system": "HCPCS_L2",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    }
+  ],
+  "mapping_source": "KB PIPELINE MARKED",
+  "kb_pipeline_marked": true
+}

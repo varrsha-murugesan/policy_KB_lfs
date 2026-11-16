@@ -1,0 +1,1597 @@
+{
+  "policy_title": "Acute Admissions and Level of Care",
+  "policy_number": "DH-PP-ACUTE-25",
+  "effective_date": "10/31/25",
+  "version": "1.0",
+  "source_pdf": "Acute_Admissions_and_Level_of_Care.pdf",
+  "source_url": "https://assets.devoted.com/Providers/Payment_Acute_Admission_LevelofCare_Policy_25",
+  "line_of_business": "Medicare Advantage",
+  "billing_class": "Both",
+  "page_count": 4,
+  "revision_history": [
+    {
+      "date": "10/31/25",
+      "revision_num": "1",
+      "reason_for_change": "Policy published",
+      "approved_by": "Payment Policy\nManagement"
+    }
+  ],
+  "table_count": 1,
+  "codes_found": {
+    "cpt_hcpcs": [
+      "50942",
+      "50953"
+    ],
+    "modifiers": [
+      "25"
+    ],
+    "revenue_codes": [],
+    "bill_types": [],
+    "icd_codes": []
+  },
+  "CPT_CODES_USED": [
+    "50942",
+    "50953"
+  ],
+  "sections_summary": [
+    "OVERVIEW",
+    "PAYMENT POLICY",
+    "SCOPE",
+    "ACRONYMS AND DEFINITIONS",
+    "POLICY STATEMENT",
+    "RELATED POLICIES",
+    "N/A",
+    "REGULATORY REFERENCES",
+    "DISCLAIMER",
+    "REVIEW",
+    "POLICY APPROVAL AND HISTORY"
+  ],
+  "tables": [
+    {
+      "table_id": "tab_p4_1",
+      "title": "Table (Page 4)",
+      "page_number": 4,
+      "bbox": [
+        54.333333333333336,
+        512.3073974609375,
+        559.5,
+        577.4998779296875
+      ],
+      "columns": [
+        "Date",
+        "Revision #",
+        "Reason for Change",
+        "Approved By"
+      ],
+      "row_count": 1,
+      "col_count": 4,
+      "rows": [
+        {
+          "Date": "10/31/25",
+          "Revision #": "1",
+          "Reason for Change": "Policy published",
+          "Approved By": "Payment Policy\nManagement"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Date",
+          "Revision #",
+          "Reason for Change",
+          "Approved By"
+        ],
+        [
+          "10/31/25",
+          "1",
+          "Policy published",
+          "Payment Policy\nManagement"
+        ]
+      ],
+      "markdown": "| Date | Revision # | Reason for Change | Approved By |\n| --- | --- | --- | --- |\n| 10/31/25 | 1 | Policy published | Payment Policy\nManagement |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [
+          "25"
+        ],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    }
+  ],
+  "extracted_content": [
+    {
+      "id": "item_0001",
+      "title": "Acute Admissions",
+      "section": "OVERVIEW",
+      "subsection": "Acute Admissions",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "Acute Admissions"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "header",
+      "content": "Acute Admissions",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0002",
+      "title": "Acute Admissions",
+      "section": "OVERVIEW",
+      "subsection": "Acute Admissions",
+      "hierarchy_path": [
+        "OVERVIEW",
+        "Acute Admissions"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "and Level of Care",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0003",
+      "title": "PAYMENT POLICY",
+      "section": "PAYMENT POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "PAYMENT POLICY"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "header",
+      "content": "PAYMENT POLICY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0004",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "OVERVIEW",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0005",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy establishes fair and consistent reimbursement for acute (including urgent and emergent)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0006",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "admissions. It aligns the level of payment with clinical severity while minimizing unnecessary",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0007",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "reclassification or resubmission of claims and providing clear expectations for documentation and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0008",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "review.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0009",
+      "title": "SCOPE",
+      "section": "SCOPE",
+      "subsection": null,
+      "hierarchy_path": [
+        "SCOPE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "SCOPE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0010",
+      "title": "SCOPE",
+      "section": "SCOPE",
+      "subsection": null,
+      "hierarchy_path": [
+        "SCOPE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy applies to acute admissions at participating Medicare facilities providing services to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0011",
+      "title": "SCOPE",
+      "section": "SCOPE",
+      "subsection": null,
+      "hierarchy_path": [
+        "SCOPE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Devoted Health's Medicare Advantage members.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0012",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "ACRONYMS AND DEFINITIONS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0013",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "definition",
+      "content": "InterQual®: Optum's proprietary clinical decision support criteria for medical necessity",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0014",
+      "title": "OPPS: CMS' Outpatient Prospective Payment System",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "OPPS: CMS' Outpatient Prospective Payment System",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "OPPS: CMS' Outpatient Prospective Payment System"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "OPPS: CMS' Outpatient Prospective Payment System",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0015",
+      "title": "OPPS: CMS' Outpatient Prospective Payment System",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "OPPS: CMS' Outpatient Prospective Payment System",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "OPPS: CMS' Outpatient Prospective Payment System"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "definition",
+      "content": "Two-Midnight Rule: An inpatient admission is generally appropriate for payment under",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0016",
+      "title": "OPPS: CMS' Outpatient Prospective Payment System",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "OPPS: CMS' Outpatient Prospective Payment System",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "OPPS: CMS' Outpatient Prospective Payment System"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Medicare Part A when the admitting physician expects the patient to require hospital care that",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0017",
+      "title": "OPPS: CMS' Outpatient Prospective Payment System",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "OPPS: CMS' Outpatient Prospective Payment System",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "OPPS: CMS' Outpatient Prospective Payment System"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "crosses at least two midnights and the medical record supports that expectation. Hospital",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0018",
+      "title": "OPPS: CMS' Outpatient Prospective Payment System",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "OPPS: CMS' Outpatient Prospective Payment System",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "OPPS: CMS' Outpatient Prospective Payment System"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "stays expected to last less than two midnights should generally be billed as outpatient",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0019",
+      "title": "OPPS: CMS' Outpatient Prospective Payment System",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "OPPS: CMS' Outpatient Prospective Payment System",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "OPPS: CMS' Outpatient Prospective Payment System"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "(typically under observation).1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0020",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "POLICY STATEMENT",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0021",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Coverage & Payment Rationale",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0022",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Devoted Health uses CMS national coverage determinations and applicable mandatory local",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0023",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "coverage determinations where possible. Devoted Health also uses InterQual® criteria as a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0024",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "clinical-evidence tool to help guide level-of-care and payment determinations. InterQual® is applied",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0025",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "in conjunction with physician review of all relevant clinical information to make medical-necessity",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0026",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "determinations.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0027",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "All determinations for acute admission coverages are made in accordance with Medicare coverage",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0028",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "standards, including the Two-Midnight Benchmark (42 CFR § 412.3) and Devoted Health's obligation",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0029",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "under 42 CFR § 422.101(c) to follow original Medicare coverage criteria.1, 2, 3",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0030",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Acute Admission Criteria & Documentation Requirements",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0031",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Baseline Criteria",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0032",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Clinical documentation supporting acute admission payment must demonstrate all of the following4:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0033",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Severity of illness and intensity of services that cannot be safely managed in an outpatient or",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0034",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "observation setting.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0035",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Predictability of adverse events or risk of clinical deterioration.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0036",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Need for diagnostic or therapeutic interventions requiring hospital admission.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0037",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Relevant co-morbidities or medical history that increase risk or complexity.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0038",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Admitting physician's reasonable expectation that the hospital care will cross at least two",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0039",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "midnights, as documented in the medical record, unless documentation supports a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0040",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "case-by-case exception.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0041",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Devoted Health may request additional documentation (e.g., progress notes, imaging reports, labs,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0042",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "ED records, etc.) when the initial submission is incomplete or ambiguous as to whether the clinical",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0043",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "severity meets these requirements.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0044",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Concurrent and Retrospective Review",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0045",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "All acute admissions are subject to concurrent review against the criteria above. If the review results",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0046",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "in the determination that documentation does not support inpatient- or observation-level care,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0047",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "payment may be appropriately classified to a lower payment rate.5",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0048",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Lower Severity Level of Care",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0049",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Lower severity-level services are appropriate for conditions requiring short-term monitoring,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0050",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "reassessment, or treatment expected to resolve within a limited timeframe.6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0051",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Examples include (but are not limited to): abdominal pain, allergic reaction, altered mental status,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0052",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "anemia, asthma, atrial fibrillation, back pain, bronchitis/bronchiolitis, cellulitis, chest pain, COPD,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0053",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "croup, dehydration, diabetes mellitus, epistaxis, febrile illness, gastroenteritis, heart failure,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0054",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "hemoptysis, migraine, pneumonia, poisoning/toxic ingestion, renal colic, seizures, syncope/collapse,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0055",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "TIA, urinary tract infection, vaginal bleeding (non-obstetrical), and weakness.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0056",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "If after 48 hours the patient's condition has not improved sufficiently for discharge, the facility must",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0057",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "submit updated clinical documentation supporting conversion to inpatient care.7",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0058",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Conversion / Reclassification Requests",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0059",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Hospitals may request conversion of a lower-acuity stay payment to higher-acuity inpatient payment",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0060",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "when new documentation supports higher-acuity inpatient-level of care.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0061",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Requests must be accompanied with additional clinical documentation and reviews will follow a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0062",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "process consistent with Medicare standards and this policy (see Section 3 above).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0063",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Exceptions & Inpatient-Only Procedures",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0064",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "This policy does not supersede applicable CMS regulations or contractual terms.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0065",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Inpatient payment applies as directed by CMS, including for procedures listed on CMS Addendum E",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0066",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "(Inpatient-Only Procedures List), published annually under the Hospital Outpatient Prospective",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0067",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Payment System (OPPS) Final Rule in accordance with 42 CFR § 419.22(n), and for other",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0068",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "circumstances defined in federal regulation.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0069",
+      "title": "RELATED POLICIES",
+      "section": "RELATED POLICIES",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "RELATED POLICIES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0070",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0071",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "REGULATORY REFERENCES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0072",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "142 CFR § 412.3 (Two-Midnight Rule; case-by-case exception)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0073",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "242 CFR § 422.101(c) (Application of Original Medicare Coverage Criteria to MA Plans)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0074",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "378 Fed. Reg. 50942, 50953 (Aug. 19, 2013) (Two-Midnight Presumption Applicability)",
+      "codes": [
+        "50942",
+        "50953"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0075",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "4Medicare Benefit Policy Manual, Ch. 1 § 10 (Inpatient Hospital Services)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0076",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "5Medicare Program Integrity Manual, Ch. 6 § 6.5 (Hospital Claim Reviews)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0077",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "6Medicare Benefit Policy Manual, Ch. 6 § 20.6 (Observation Services)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0078",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "7Medicare Claims Processing Manual, Ch. 4 § 290 (Observation Services Billing)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0079",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Devoted Health 2025 Provider Manual",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0080",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "DISCLAIMER",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0081",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "This payment policy is informational only and is not a guarantee of reimbursement. Claim payments",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0082",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "are subject to benefit coverage, member eligibility, claims payment edit rules, coding and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0083",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "documentation guidelines, authorization policies, provider contractual agreements, and state and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0084",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "federal regulations.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0085",
+      "title": "REVIEW",
+      "section": "REVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "REVIEW",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0086",
+      "title": "POLICY APPROVAL AND HISTORY",
+      "section": "POLICY APPROVAL AND HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY APPROVAL AND HISTORY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "POLICY APPROVAL AND HISTORY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0087",
+      "title": "Table (Page 4)",
+      "section": "POLICY APPROVAL AND HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY APPROVAL AND HISTORY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "table",
+      "content": "| Date | Revision # | Reason for Change | Approved By |\n| --- | --- | --- | --- |\n| 10/31/25 | 1 | Policy published | Payment Policy\nManagement |",
+      "codes": [
+        "25"
+      ],
+      "table_data": {
+        "table_id": "tab_p4_1",
+        "title": "Table (Page 4)",
+        "columns": [
+          "Date",
+          "Revision #",
+          "Reason for Change",
+          "Approved By"
+        ],
+        "row_count": 1,
+        "rows": [
+          {
+            "Date": "10/31/25",
+            "Revision #": "1",
+            "Reason for Change": "Policy published",
+            "Approved By": "Payment Policy\nManagement"
+          }
+        ]
+      }
+    }
+  ],
+  "mapping_eligibility": {
+    "eligible": true,
+    "route": "MAP_NEEDED",
+    "reason": "no explicit codes; 4 procedural terms",
+    "explicit_code_count": 0,
+    "procedure_terms": [
+      "diagnostic",
+      "imaging",
+      "procedures",
+      "therapeutic"
+    ],
+    "admin_terms": [
+      "eligibility"
+    ]
+  },
+  "mapping_status": "mapped",
+  "mapped_cpt_codes": [
+    {
+      "code": "50942",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "C",
+      "score": 100.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "50953",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "G0250",
+      "code_system": "HCPCS_L2",
+      "description": "",
+      "confidence_tier": "D",
+      "score": 48.49,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "0606T",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "94777",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 20.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    }
+  ],
+  "mapping_source": "KB PIPELINE MARKED",
+  "kb_pipeline_marked": true
+}

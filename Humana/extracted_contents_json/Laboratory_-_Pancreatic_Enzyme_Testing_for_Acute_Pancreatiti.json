@@ -1,0 +1,928 @@
+{
+  "policy_title": "Laboratory - Pancreatic Enzyme Testing for Acute",
+  "policy_number": "LAB2023014",
+  "effective_date": "04/2023",
+  "published_date": "04/2023",
+  "revision_date": "03/2026",
+  "source_pdf": "Laboratory_-_Pancreatic_Enzyme_Testing_for_Acute_Pancreatitis-f993e66b.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 5,
+  "table_count": 1,
+  "block_count": 28,
+  "CPT_CODES_USED": [
+    "83690",
+    "82150",
+    "83519",
+    "83520",
+    "83529",
+    "84145",
+    "86140",
+    "86141",
+    "00856",
+    "18773",
+    "00008",
+    "13409",
+    "90089",
+    "15276",
+    "15479",
+    "18203",
+    "17038",
+    "26222",
+    "12659",
+    "70809",
+    "S0140",
+    "02327",
+    "11604",
+    "13854",
+    "00009",
+    "22360",
+    "57886",
+    "14309",
+    "00003",
+    "13741",
+    "05766",
+    "00087",
+    "00004"
+  ],
+  "MODIFIERS_USED": [
+    "SM",
+    "CA",
+    "PA",
+    "TL",
+    "62",
+    "90",
+    "56",
+    "SD",
+    "CE",
+    "77",
+    "54",
+    "PB",
+    "91",
+    "76",
+    "81",
+    "25",
+    "50",
+    "93",
+    "PL",
+    "22",
+    "RC",
+    "LC",
+    "AM",
+    "JD",
+    "AA",
+    "SG",
+    "CS"
+  ],
+  "ICD_CODES_USED": [
+    "S15",
+    "S12"
+  ],
+  "mapped_cpt_codes": [
+    {
+      "code": "83690",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82150",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83519",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83520",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83529",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84145",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86140",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86141",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00856",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "18773",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00008",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "13409",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "90089",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "15276",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "15479",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "18203",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "17038",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "26222",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "12659",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "70809",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "S0140",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "02327",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "11604",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "13854",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00009",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "22360",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "57886",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "14309",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00003",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "13741",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "05766",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00087",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00004",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Measurement of either serum lipase (CPT code 83690) or amylase (CPT code 82150) concentration for the initial diagnosis of acute pancreatitis IS REIMBURSABLE for individuals presenting with any of the following signs and symptoms:",
+      "codes": [
+        "83690",
+        "82150"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tachypnea",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tachypnea",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tachypnea",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Measurement of either serum lipase (CPT code 83690) or amylase (CPT code 82150) concentration IS NOT REIMBURSABLE more than once per week.",
+      "codes": [
+        "83690",
+        "82150"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tachypnea",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tachypnea",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tachypnea",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Measurement of serum amylase (CPT code 82150) concentration IS NOT REIMBURSABLE when billed in conjunction with serum lipase concentration (CPT code 83690).",
+      "codes": [
+        "82150",
+        "83690"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Please see the disclaimer on the first page. Page 2 of 5",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Please see the disclaimer on the first page. Page 2 of 5",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Please see the disclaimer on the first page. Page 2 of 5",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Measurement of either serum lipase (CPT code 83690) or amylase (CPT code 82150) concentration IS NOT REIMBURSABLE in any of the following situations:",
+      "codes": [
+        "83690",
+        "82150"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "For all other situations or conditions not described above",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "For all other situations or conditions not described above",
+      "hierarchy_path": "Medicare Advantage Payment Policy > For all other situations or conditions not described above",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "For asymptomatic individuals during a general exam without abnormal findings",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "For individuals with a diagnosis of chronic pancreatitis",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "For individuals with a diagnosis of chronic pancreatitis",
+      "hierarchy_path": "Medicare Advantage Payment Policy > For individuals with a diagnosis of chronic pancreatitis",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Measurement of serum or urine trypsin, trypsinogen or trypsinogen activation peptide (TAP) (CPT code 83519) IS NOT REIMBURSABLE in any of the following situations:",
+      "codes": [
+        "83519"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "For individuals with a diagnosis of chronic pancreatitis",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "For individuals with a diagnosis of chronic pancreatitis",
+      "hierarchy_path": "Medicare Advantage Payment Policy > For individuals with a diagnosis of chronic pancreatitis",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "For asymptomatic individuals during a general exam without abnormal findings",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "For individuals with a diagnosis of acute pancreatitis",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "For individuals with a diagnosis of acute pancreatitis",
+      "hierarchy_path": "Medicare Advantage Payment Policy > For individuals with a diagnosis of acute pancreatitis",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Measurement of the following biomarkers with a diagnosis of acute pancreatitis IS NOT REIMBURSABLE:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code Description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code Description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code Description",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82150",
+      "codes": [
+        "82150"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Amylase",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Amylase",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Amylase",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83519 Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative, by radioimmunoassay (eg, RIA) 83520 Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative, not otherwise specified 83529",
+      "codes": [
+        "83519",
+        "83520",
+        "83529"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Interleukin-6 (IL-6)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Interleukin-6 (IL-6)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Interleukin-6 (IL-6)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83690",
+      "codes": [
+        "83690"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lipase",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lipase",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lipase",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84145",
+      "codes": [
+        "84145"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Procalcitonin (PCT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Procalcitonin (PCT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Procalcitonin (PCT)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "86140",
+      "codes": [
+        "86140"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "C-reactive protein",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "C-reactive protein",
+      "hierarchy_path": "Medicare Advantage Payment Policy > C-reactive protein",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "86141",
+      "codes": [
+        "86141"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "AACC. AACC's Guide to Lab Test Utilization https://www.aacc.org/advocacy-and-outreach/optimal-testing-guide-to-lab-test utilization/a-f/amylase AED. Eating Disorders A Guide To Medical Care. https://higherlogicdownload.s3.amazonaws.com/AEDWEB/27a3b69a-8aae-45b2 a04c-2a078d02145d/UploadedImages/Publications_Slider/2120_AED_Medical_Care_4th_Ed_FINAL.pdf Allemann A, Staubli SM, Nebiker CA. Trypsin and Trypsinogen Activation Peptide in the Prediction of Severity of Acute Pancreatitis.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Life (Basel). Aug 23 2024;14(9)doi:10.3390/life14091055",
+      "section": "References",
+      "subsection": "Life (Basel). Aug 23 2024;14(9)doi:10.3390/life14091055",
+      "hierarchy_path": "References > Life (Basel). Aug 23 2024;14(9)doi:10.3390/life14091055",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "APA. The American Psychiatric Association Practice Guideline for the Treatment of Patients With Eating Disorders.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Please see the disclaimer on the first page. Page 3 of 5",
+      "section": "References",
+      "subsection": "Please see the disclaimer on the first page. Page 3 of 5",
+      "hierarchy_path": "References > Please see the disclaimer on the first page. Page 3 of 5",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "https://psychiatryonline.org/doi/abs/10.1176/appi.books.9780890424865 ASCP. Thirty Things Physicians and Patients Should Question. https://www.ascp.org/content/docs/default-source/get-involved pdfs/istp_choosingwisely/2019_ascp-30-things-list.pdf Baillie J. AGA Institute Medical Position Statement on Acute Pancreatitis. Gastroenterology. 2007;132(5):2019-2021 doi:10.1053/j.gastro.2007.03.066 Banks P, Freeman M. Practice Guidelines in Acute Pancreatitis. Practice Guideline. The American Journal Of Gastroenterology. 2006;101:2379. doi:10.1111/j.1572-0241.2006.00856.x Banks PA, Bollen TL, Dervenis C, et al. Classification of acute pancreatitis-2012: revision of the Atlanta classification and definitions by international consensus. Gut. 2013;62:102-111. doi:10.1136/gutjnl-2012-302779 Barry K. Chronic Pancreatitis: Diagnosis and Treatment. American Academy of Family Physician. 2018;Volume 97(Number 6) Basnayake C, Ratnam D. Blood tests for acute pancreatitis. Australian Prescriber. 2015;38(4):128-130. doi:10.18773/austprescr.2015.043 Bollen TL, Hazewinkel M, Smithuis R. Acute Pancreatitis 2012 Revised Atlanta Classification of Acute Pancreatitis. Radiology Society of the Netherlands. https://radiologyassistant.nl/abdomen/pancreas/acute-pancreatitis Borowitz D, Grant R, Durie P. Pancreatic Enzymes Clinical Care Guidelines. Cystic Fibrosis Foundation. https://www.cff.org/Care/Clinical-Care-Guidelines/Nutrition-and-GI-Clinical-Care-Guidelines/Pancreatic-Enzymes-Clinical-Care-",
+      "codes": [
+        "00856",
+        "18773"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Guidelines/",
+      "section": "References",
+      "subsection": "Guidelines/",
+      "hierarchy_path": "References > Guidelines/",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Bradley E. A clinically based classification system for acute pancreatitis. Archives of Surgery. 1993;128(5):586-590. doi:10.1001/archsurg.1993.01420170122019 Burkart J, Haigler S, Caruana R, Hylander B. Usefulness of peritoneal fluid amylase levels... JASN. 1991;1(10):1186-90. doi:10.1681/asn.v1101186 CADTH. Advisory Panel Guidance on Minimum Retesting Intervals for Lab Tests: Appropriate Use Recommendation. 2024. CADTH Health Technology Review. Ceylan ME, Evrensel A, Önen Ünsalver B. Hyperamylasemia Related to Sertraline. Korean Journal of Family Medicine. 2016;37(4):259-259. doi:10.4082/kjfm.2016.37.4.259 Clavien PA, Robert J, Meyer P, et al. Acute pancreatitis and normoamylasemia. Annals of surgery. 1989;210(5):614-20. doi:10.1097/00000658-198911000-00008 Coffey MJ, Nightingale S, Ooi CY. Serum Lipase as an Early Predictor of Severity in Pediatric Acute Pancreatitis. JPGN. 2013;56(6):602-608. doi:10.1097/mpg.0b013e31828b36d8 Crockett SD, Wani S, Gardner TB, Falck‐Ytter Y, Barkun AN. AGA Guideline on Initial Management of Acute Pancreatitis. Gastroenterology. 2018;154(4):1096-1101. doi:10.1053/j.gastro.2018.01.032 Eastler J. Urine Trypsinogen 2 Dipstick... https://clinicaltrials.gov/study/NCT03098082 El Halabi M, Bou Daher H, Rustom LBO, et al. Clinical utility and economic burden... IJCP. 2019;73(12):e13409. doi:10.1111/ijcp.13409 Freedman SD, Forsmark CE. Chronic pancreatitis: Clinical manifestations and diagnosis in adults. Updated March 3, 2025. https://www.uptodate.com/contents/chronic-pancreatitis-clinical-manifestations-and-diagnosis-in-adults Furey C, Buxbaum J, Chambliss AB. A review of biomarker utilization... Clin Biochem. 2020;77:54-56. doi:10.1016/j.clinbiochem.2019.12.014 Gapp J, Tariq A, Chandra S. Acute Pancreatitis. StatPearls. 2023. https://www.ncbi.nlm.nih.gov/books/NBK482468/ Gumaste VV, Dave PB, Weissman D, Messer J. Lipase/amylase ratio... Gastroenterology. 1991;101(5):1361‐6. doi:10.1016/0016 5085(91)90089-4 Hagjer S, Kumar N. Evaluation of the BISAP scoring system... IJS. 2018;54(Pt A):76‐81. doi:10.1016/j.ijsu.2018.04.026 Herrmann‐Storck C, Saint Louis M, Foucand T, et al. Severe Leptospirosis... EID. 2010;16(2):331-334. doi:10.3201/eid1602.090139 IAP/APA Working Group. IAP/APA evidence‐based guidelines... Pancreatology. 2013;13(4):e1‐e15. doi:10.1016/j.pan.2013.07.063 informedhealth.org. Acute pancreatitis: Learn More - How is acute pancreatitis treated? Updated May 25, 2021. https://www.informedhealth.org/acute-pancreatitis.html",
+      "codes": [
+        "00008",
+        "13409",
+        "90089"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Please see the disclaimer on the first page. Page 4 of 5",
+      "section": "References",
+      "subsection": "Please see the disclaimer on the first page. Page 4 of 5",
+      "hierarchy_path": "References > Please see the disclaimer on the first page. Page 4 of 5",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Ismail OZ, Bhayana V. Lipase or amylase for the diagnosis of acute pancreatitis? Clin Biochem. 2017;50(18):1275‐1280. doi:10.1016/j.clinbiochem.2017.07.003 Jakkampudi A, Jangala R, Reddy R, et al. Acinar injury and early cytokine response... Sci Reports. 2017;7(1):15276. doi:10.1038/s41598-017-15479-2 Judal H, Ganatra V, Choudhary PR. Urinary amylase levels... International Surgery Journal. 2022;9(2):432‐437. doi:10.18203/2349 2902.isj20220337 Kemppainen EA, Hedstrom JI, Puolakkainen PA, et al. Rapid measurement... NEJM. 1997;336(25):1788‐93. doi:10.1056/nejm199706193362504 Kenneth N. Acute Pancreatitis (AP). https://d1pij0k2lbf86p.cloudfront.net/wp-content/uploads/2024/11/Acute-Pancreatitis-flash card-final.pdf Khanna AK, Meher S, Prakash S, et al. Comparison of Ranson... HPB Surgery. 2013:367581. doi:10.1155/2013/367581 Klochkov AK, Pujuitha, Lim Y, Sun Y. Alcoholic Pancreatitis. StatPearls. 2023. https://www.ncbi.nlm.nih.gov/books/NBK537191/ Kumar P, Ghosh A, Tandon V, Sahoo R. Gullo's Syndrome: A Case Report. JCDR. 2016;10(2):OD21‐OD22. doi:10.7860/jcdr/2016/17038.7285 Lempinen M, Kylänpää‐Bäck M‐L, Stenman U‐H, et al. Predicting severity... Clinical Chemistry. 2001;47(12):2103. doi:10.1093/clinchem/47.12.2103 Levy P, Boruchowicz A, Hastier P, et al. Diagnostic criteria predicting biliary origin... Pancreatology. 2005;5(4‐5):450‐6. doi:10.1159/000086547 Li N, Wang BM, Cai S, Liu PL. Role of HMGB1 and IL‐6... J Cell Biochem. 2018;119(1):616‐624. doi:10.1002/jcb.26222 Lippi G, Valentino M, Cervellin G. Laboratory diagnosis of acute pancreatitis... Crit Rev Clin Lab Sci. 2012;49(1):18‐31. doi:10.3109/10408363.2012.658354 Liu P, Xiao Z, Yan H, et al. Serum amylase/lipase predicting pancreatic injury... PCCM. 2021;22(1):e10‐e18. doi:10.1097/pcc.0000000000002525 Liu S, Wang Q, Zhou R, et al. Hyperamylasemia... Medical Science Monitor. 2016;22:1342‐1348. doi:10.12659/msm.897930 Mogekar S, Jayakar S, Sri Sai Teja Sampath K, Badangi V. A Study on Urinary Amylase... Cureus. 2024;16(10):e70809. doi:10.7759/cureus.70809 NASPGHAN. Management of Acute Pancreatitis in the Pediatric Population. 2018. Neoptolemos JP, Kemppainen EA, Mayer JM, et al. Early prediction... Lancet. 2000;355(9219):1955‐60. doi:10.1016/S0140‐6736(00)02327‐8 NIDDK. Symptoms & Causes of Pancreatitis. Updated 2017. https://www.niddk.nih.gov/health-information/digestive diseases/pancreatitis/symptoms-causes Pacheco RC, Oliveira LC. Lipase/amylase ratio... Arq Gastroenterol. 2007;44(1):35‐8. doi:10.1590/s0004-28032007000100008 Patel J, Madan A, Gammon A, Sossenheimer M, Samadder NJ. SPINK1 mutation... Pan African Med J. 2017;28:110. doi:10.11604/pamj.2017.28.110.13854 Pezzilli R, Venturi M, Morselli‐Labate AM, et al. Serum Trypsinogen Activation Peptide... Pancreas. 2004;29(4):298‐305. doi:10.1097/00006676-200411000-00009 Quinlan JD. Acute pancreatitis. American Family Physician. 2014;90(9):632‐9. Rau BM, Kemppainen EA, Gumbs AA, et al. Early assessment... Ann Surg. 2007;245(5):745‐54. doi:10.1097/01.sla.0000252443.22360.46 Ritter J, Ghirimoldi F, Manuel L, et al. Cost of Unnecessary Amylase and Lipase Testing... 2019;doi:10.1093/ajcp/aqz170 Rompianesi G, Hann A, Komolafe O, et al. Serum amylase/lipase... Cochrane Review. 2017;doi:10.1002/14651858.cd012010.pub2 Ryholt V, Soder J, Enderle J, Rajendran R. Assessment of appropriate use... Lab Med. 2024;doi:10.1093/labmed/lmae008 Sendler M, Lerch MM. The Complex Role of Trypsin in Pancreatitis. Gastroenterology. 2020;158(4):822‐826. doi:10.1053/j.gastro.2019.12.025 Simha A, Saroch A, Pannu AK, et al. Utility of point‐of‐care urine trypsinogen... Biomarkers Med. 2021;15(14):1271‐1276. doi:10.2217/bmm-2021-0067",
+      "codes": [
+        "15276",
+        "15479",
+        "18203",
+        "17038",
+        "26222",
+        "12659",
+        "70809",
+        "S0140",
+        "02327",
+        "11604",
+        "13854",
+        "00009",
+        "22360"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Please see the disclaimer on the first page. Page 5 of 5",
+      "section": "References",
+      "subsection": "Please see the disclaimer on the first page. Page 5 of 5",
+      "hierarchy_path": "References > Please see the disclaimer on the first page. Page 5 of 5",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Simsek O, Kocael A, Kocael P, et al. Inflammatory mediators... Arch Med Sci. 2018;14(2):288‐296. doi:10.5114/aoms.2016.57886 Stevens T, Conwell DL. Exocrine pancreatic insufficiency. Updated 2023. https://www.uptodate.com/contents/exocrine-pancreatic insufficiency Tenner S, Baillie J, DeWitt J, Vege SS. ACG guideline: management of acute pancreatitis. Am J Gastroenterol. 2013;108(9):1400‐15. doi:10.1038/ajg.2013.218 Tenner S, Vege SS, Sheth SG, et al. ACG Guidelines: Management of Acute Pancreatitis. AJG. 2024;119(3):419‐437. doi:10.14309/ajg.0000000000002645 Tenner SM, Steinberg W. Lipase/amylase ratio differentiates alcoholic vs nonalcoholic AP. AJG. 1992;87(12):1755‐8 Terui K, Hishiki T, Saito T, et al. Urinary amylase/creatinine ratio... BMC Pediatrics. 2013;13:205. doi:10.1186/1471-2431-13-205 Tian F, Li H, Wang L, et al. Diagnostic value of CRP, PCT, IL‐6... Clin Chim Acta. 2020;510:665‐670. doi:10.1016/j.cca.2020.08.029 Toouli J, Brooke‐Smith M, Bassi C, et al. Guidelines for AP management. JGH. 2002;17 Suppl:S15‐39. doi:10.1046/j.1440 1746.17.s1.2.x Vege SS. Approach to the patient with elevated serum amylase/lipase. Updated 2024. https://www.uptodate.com/contents/approach-to-the-patient-with-elevated-serum-amylase-or-lipase Vege SS. Pathogenesis of acute pancreatitis. Updated 2024. https://www.uptodate.com/contents/pathogenesis-of-acute pancreatitis Vege SS. Clinical manifestations and diagnosis of acute pancreatitis. Updated 2024. https://www.uptodate.com/contents/clinical manifestations-and-diagnosis-of-acute-pancreatitis Ventrucci M, Pezzilli R, Naldoni P, et al. Serum pancreatic enzyme behavior... Pancreas. 1987;2(5):506‐9. doi:10.1097/00006676 198709000-00003 Wei M, Xie X, Yu X, et al. Predictive value of serum cholinesterase... EJCI. 2022:e13741. doi:10.1111/eci.13741 Whitcomb DC, Buchner AM, Forsmark CE. AGA Update on Exocrine Pancreatic Insufficiency. Gastroenterology. 2023;165(5):1292‐1301. doi:10.1053/j.gastro.2023.07.007 Witt H, Apte MV, Keim V, Wilson JS. Chronic pancreatitis: challenges and advances... Gastroenterology. 2007;132(4):1557‐73. doi:10.1053/j.gastro.2007.03.001 Wolfe BE, Jimerson DC, Smith A, Keel PK. Serum Amylase in Bulimia Nervosa... Physiology & Behavior. 2011;104(5):684‐686. doi:10.1016/j.physbeh.2011.06.025 Wu H, Liao B, Ji T, et al. Diagnostic value of CRP... Biomarkers. 2024;29(7):494‐503. doi:10.1080/1354750x.2024.2415463 Yadav D, Agarwal N, Pitchumoni CS. Evaluation of lab tests... AJG. 2002;97(6):1309‐18. doi:10.1111/j.1572-0241.2002.05766.x Yang H, Wang H, Chavan SS, Andersson U. HMGB1... Mol Med. 2015;21(S1):S6‐S12. doi:10.2119/molmed.2015.00087 Yasuda H, Kataoka K, Takeyama Y, et al. Usefulness of urinary trypsinogen‐2... WJG. 2019;25(1):107‐117. doi:10.3748/wjg.v25.i1.107 Zhan X, Wan J, Zhang G, et al. Elevated intracellular trypsin... AJPGI Liver Physiol. 2019;316(6):G816‐G825. doi:10.1152/ajpgi.00004.2019",
+      "codes": [
+        "57886",
+        "14309",
+        "00003",
+        "13741",
+        "05766",
+        "00087",
+        "00004"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82150: 83519 | Procedure Code:  | Amylase: Immunoassay for analyte other than infectious agent antibody or infectious agent antigen;\nquantitative, by radioimmunoassay (eg, RIA) | Code Description: ",
+      "codes": [
+        "82150",
+        "83519"
+      ],
+      "table_data": {
+        "columns": [
+          "82150",
+          "Procedure Code",
+          "Amylase",
+          "Code Description"
+        ],
+        "row": {
+          "82150": "83519",
+          "Procedure Code": "",
+          "Amylase": "Immunoassay for analyte other than infectious agent antibody or infectious agent antigen;\nquantitative, by radioimmunoassay (eg, RIA)",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82150: 83520 | Procedure Code:  | Amylase: Immunoassay for analyte other than infectious agent antibody or infectious agent antigen;\nquantitative, not otherwise specified | Code Description: ",
+      "codes": [
+        "82150",
+        "83520"
+      ],
+      "table_data": {
+        "columns": [
+          "82150",
+          "Procedure Code",
+          "Amylase",
+          "Code Description"
+        ],
+        "row": {
+          "82150": "83520",
+          "Procedure Code": "",
+          "Amylase": "Immunoassay for analyte other than infectious agent antibody or infectious agent antigen;\nquantitative, not otherwise specified",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82150: 83529 | Procedure Code:  | Amylase: Interleukin-6 (IL-6) | Code Description: ",
+      "codes": [
+        "82150",
+        "83529"
+      ],
+      "table_data": {
+        "columns": [
+          "82150",
+          "Procedure Code",
+          "Amylase",
+          "Code Description"
+        ],
+        "row": {
+          "82150": "83529",
+          "Procedure Code": "",
+          "Amylase": "Interleukin-6 (IL-6)",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82150: 83690 | Procedure Code:  | Amylase: Lipase | Code Description: ",
+      "codes": [
+        "82150",
+        "83690"
+      ],
+      "table_data": {
+        "columns": [
+          "82150",
+          "Procedure Code",
+          "Amylase",
+          "Code Description"
+        ],
+        "row": {
+          "82150": "83690",
+          "Procedure Code": "",
+          "Amylase": "Lipase",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82150: 84145 | Procedure Code:  | Amylase: Procalcitonin (PCT) | Code Description: ",
+      "codes": [
+        "82150",
+        "84145"
+      ],
+      "table_data": {
+        "columns": [
+          "82150",
+          "Procedure Code",
+          "Amylase",
+          "Code Description"
+        ],
+        "row": {
+          "82150": "84145",
+          "Procedure Code": "",
+          "Amylase": "Procalcitonin (PCT)",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82150: 86140 | Procedure Code:  | Amylase: C-reactive protein | Code Description: ",
+      "codes": [
+        "82150",
+        "86140"
+      ],
+      "table_data": {
+        "columns": [
+          "82150",
+          "Procedure Code",
+          "Amylase",
+          "Code Description"
+        ],
+        "row": {
+          "82150": "86140",
+          "Procedure Code": "",
+          "Amylase": "C-reactive protein",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82150: 86141 | Procedure Code:  | Amylase: C-reactive protein; high sensitivity (hsCRP) | Code Description: ",
+      "codes": [
+        "82150",
+        "86141"
+      ],
+      "table_data": {
+        "columns": [
+          "82150",
+          "Procedure Code",
+          "Amylase",
+          "Code Description"
+        ],
+        "row": {
+          "82150": "86141",
+          "Procedure Code": "",
+          "Amylase": "C-reactive protein; high sensitivity (hsCRP)",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nMeasurement of either serum lipase (CPT code 83690) or amylase (CPT code 82150) concentration for the initial diagnosis of acute pancreatitis IS REIMBURSABLE for individuals presenting with any of the following signs and symptoms:\n\nMeasurement of either serum lipase (CPT code 83690) or amylase (CPT code 82150) concentration IS NOT REIMBURSABLE more than once per week.\n\nMeasurement of serum amylase (CPT code 82150) concentration IS NOT REIMBURSABLE when billed in conjunction with serum lipase concentration (CPT code 83690).\n\nMeasurement of either serum lipase (CPT code 83690) or amylase (CPT code 82150) concentration IS NOT REIMBURSABLE in any of the following situations:\n\nFor asymptomatic individuals during a general exam without abnormal findings\n\nMeasurement of serum or urine trypsin, trypsinogen or trypsinogen activation peptide (TAP) (CPT code 83519) IS NOT REIMBURSABLE in any of the following situations:\n\nFor asymptomatic individuals during a general exam without abnormal findings\n\nMeasurement of the following biomarkers with a diagnosis of acute pancreatitis IS NOT REIMBURSABLE:\n\n82150\n\n83519 Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative, by radioimmunoassay (eg, RIA) 83520 Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative, not otherwise specified 83529\n\n83690\n\n84145\n\n86140\n\n86141"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

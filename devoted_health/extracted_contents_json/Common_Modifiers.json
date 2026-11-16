@@ -1,0 +1,6315 @@
+{
+  "policy_title": "Common Modifiers",
+  "policy_number": "CLMS.CP.0037",
+  "effective_date": "2026-09-22",
+  "version": "1.2",
+  "source_pdf": "Common_Modifiers.pdf",
+  "source_url": "https://assets.devoted.com/Providers/DH_Policy_Common_Modifiers",
+  "line_of_business": "Medicare Advantage",
+  "billing_class": "Professional",
+  "page_count": 10,
+  "revision_history": [
+    {
+      "date": "2026-09-22",
+      "document_num": "CLMS.CP.0037",
+      "version_num": "1.2"
+    },
+    {
+      "date": "2025-09-30",
+      "document_num": "CLMS.CP.0037",
+      "version_num": "1.1"
+    },
+    {
+      "date": "2024-09-20",
+      "document_num": "CLMS.CP.0037",
+      "version_num": "1.0"
+    }
+  ],
+  "table_count": 4,
+  "codes_found": {
+    "cpt_hcpcs": [
+      "59514",
+      "59620"
+    ],
+    "modifiers": [
+      "22",
+      "24",
+      "25",
+      "26",
+      "50",
+      "52",
+      "53",
+      "59",
+      "62",
+      "76",
+      "77",
+      "79",
+      "80",
+      "81",
+      "91",
+      "JW",
+      "JZ",
+      "LT",
+      "NU",
+      "RR",
+      "RT",
+      "TC",
+      "XE",
+      "XP",
+      "XS",
+      "XU"
+    ],
+    "revenue_codes": [],
+    "bill_types": [],
+    "icd_codes": []
+  },
+  "CPT_CODES_USED": [
+    "59514",
+    "59620"
+  ],
+  "sections_summary": [
+    "OVERVIEW",
+    "PURPOSE",
+    "APPLICABILITY",
+    "POLICY",
+    "ACRONYMS AND DEFINITIONS",
+    "RESPONSIBILITIES",
+    "N/A",
+    "REGULATORY REFERENCE",
+    "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+    "REVIEW AND VERSION HISTORY"
+  ],
+  "tables": [
+    {
+      "table_id": "tab_p2_1",
+      "title": "Table (Page 2)",
+      "page_number": 2,
+      "bbox": [
+        72.16666666666667,
+        557.5,
+        573.6666666666666,
+        715.7963104248047
+      ],
+      "columns": [
+        "MODIFIER",
+        "DESCRIPTION",
+        "ADDITIONAL INFORMATION"
+      ],
+      "row_count": 2,
+      "col_count": 3,
+      "rows": [
+        {
+          "MODIFIER": "22",
+          "DESCRIPTION": "Increased procedural\nservices",
+          "ADDITIONAL INFORMATION": "Report modifier 22 on professional claims only\n(not facility claims).\nDo not use with evaluation and management\n(E/M) service, specialist service, or anesthesia."
+        },
+        {
+          "MODIFIER": "24",
+          "DESCRIPTION": "Unrelated evaluation and\nmanagement service by the",
+          "ADDITIONAL INFORMATION": "Report modifier 24 when the unrelated E/M was\nperformed the day afetr, and during, the"
+        }
+      ],
+      "raw_grid": [
+        [
+          "MODIFIER",
+          "DESCRIPTION",
+          "ADDITIONAL INFORMATION"
+        ],
+        [
+          "22",
+          "Increased procedural\nservices",
+          "Report modifier 22 on professional claims only\n(not facility claims).\nDo not use with evaluation and management\n(E/M) service, specialist service, or anesthesia."
+        ],
+        [
+          "24",
+          "Unrelated evaluation and\nmanagement service by the",
+          "Report modifier 24 when the unrelated E/M was\nperformed the day afetr, and during, the"
+        ]
+      ],
+      "markdown": "| MODIFIER | DESCRIPTION | ADDITIONAL INFORMATION |\n| --- | --- | --- |\n| 22 | Increased procedural\nservices | Report modifier 22 on professional claims only\n(not facility claims).\nDo not use with evaluation and management\n(E/M) service, specialist service, or anesthesia. |\n| 24 | Unrelated evaluation and\nmanagement service by the | Report modifier 24 when the unrelated E/M was\nperformed the day afetr, and during, the |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [
+          "22",
+          "24"
+        ],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p3_1",
+      "title": "Table (Page 2) (Continued)",
+      "page_number": 3,
+      "bbox": [
+        72.0,
+        72.125,
+        573.75,
+        705.25
+      ],
+      "columns": [
+        "MODIFIER",
+        "DESCRIPTION",
+        "ADDITIONAL INFORMATION"
+      ],
+      "row_count": 4,
+      "col_count": 3,
+      "rows": [
+        {
+          "MODIFIER": "",
+          "DESCRIPTION": "same physician or other\nqualified health care\nprofessional during a\npostoperative period",
+          "ADDITIONAL INFORMATION": "postoperative period of an unrelated 10-day or\n90-day global procedure.\nReport modifier 24 on professional or facility\nclaims.\nDiagnosis code(s) billed and medical record\ndocumentation must support the use of modifier\n24.\nDo not report modifier 24 on a service other than\nan E/M service.\nWhen an E/M is performed that is related to the\n10- or 90- day global procedure and within its\npostoperative period, the E/M should not be\nbilled, even with modifier 24."
+        },
+        {
+          "MODIFIER": "25",
+          "DESCRIPTION": "Significant, separately\nidentifiable evaluation and\nmanagement service by the\nsame physician or other\nqualified health care\nprofessional on the same\nday of the procedure or\nother service",
+          "ADDITIONAL INFORMATION": "Documentation in the medical record and on the\nclaim must support the use of modifier 25.\nReport modifier 25 on professional claims only\n(not facility claims).\nDo not report modifier 25 on a service other than\nan E/M service."
+        },
+        {
+          "MODIFIER": "26",
+          "DESCRIPTION": "Professional component",
+          "ADDITIONAL INFORMATION": "Report modifier 26 with a global service code to\nbill only the professional component.\nDo not report modifier 26 when the procedure\ncode describes only the professional component.\nThe place of service (POS) code generally should\nreflect the actual setting in which a face-to-face\nservice was rendered."
+        },
+        {
+          "MODIFIER": "50",
+          "DESCRIPTION": "",
+          "ADDITIONAL INFORMATION": ""
+        }
+      ],
+      "raw_grid": [
+        [
+          "",
+          "same physician or other\nqualified health care\nprofessional during a\npostoperative period",
+          "postoperative period of an unrelated 10-day or\n90-day global procedure.\nReport modifier 24 on professional or facility\nclaims.\nDiagnosis code(s) billed and medical record\ndocumentation must support the use of modifier\n24.\nDo not report modifier 24 on a service other than\nan E/M service.\nWhen an E/M is performed that is related to the\n10- or 90- day global procedure and within its\npostoperative period, the E/M should not be\nbilled, even with modifier 24."
+        ],
+        [
+          "25",
+          "Significant, separately\nidentifiable evaluation and\nmanagement service by the\nsame physician or other\nqualified health care\nprofessional on the same\nday of the procedure or\nother service",
+          "Documentation in the medical record and on the\nclaim must support the use of modifier 25.\nReport modifier 25 on professional claims only\n(not facility claims).\nDo not report modifier 25 on a service other than\nan E/M service."
+        ],
+        [
+          "26",
+          "Professional component",
+          "Report modifier 26 with a global service code to\nbill only the professional component.\nDo not report modifier 26 when the procedure\ncode describes only the professional component.\nThe place of service (POS) code generally should\nreflect the actual setting in which a face-to-face\nservice was rendered."
+        ],
+        [
+          "50",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| MODIFIER | DESCRIPTION | ADDITIONAL INFORMATION |\n| --- | --- | --- |\n|  | same physician or other\nqualified health care\nprofessional during a\npostoperative period | postoperative period of an unrelated 10-day or\n90-day global procedure.\nReport modifier 24 on professional or facility\nclaims.\nDiagnosis code(s) billed and medical record\ndocumentation must support the use of modifier\n24.\nDo not report modifier 24 on a service other than\nan E/M service.\nWhen an E/M is performed that is related to the\n10- or 90- day global procedure and within its\npostoperative period, the E/M should not be\nbilled, even with modifier 24. |\n| 25 | Significant, separately\nidentifiable evaluation and\nmanagement service by the\nsame physician or other\nqualified health care\nprofessional on the same\nday of the procedure or\nother service | Documentation in the medical record and on the\nclaim must support the use of modifier 25.\nReport modifier 25 on professional claims only\n(not facility claims).\nDo not report modifier 25 on a service other than\nan E/M service. |\n| 26 | Professional component | Report modifier 26 with a global service code to\nbill only the professional component.\nDo not report modifier 26 when the procedure\ncode describes only the professional component.\nThe place of service (POS) code generally should\nreflect the actual setting in which a face-to-face\nservice was rendered. |\n| 50 |  |  |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [
+          "24",
+          "25",
+          "26"
+        ],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p7_1",
+      "title": "NU",
+      "page_number": 7,
+      "bbox": [
+        72.0,
+        72.25,
+        316.5,
+        705.625
+      ],
+      "columns": [
+        "RR",
+        "RR (Detail)"
+      ],
+      "row_count": 2,
+      "col_count": 2,
+      "rows": [
+        {
+          "RR": "RT",
+          "RR (Detail)": "Right side (used to identify\nprocedures performed on the\nright side of the body)"
+        },
+        {
+          "RR": "TC",
+          "RR (Detail)": ""
+        }
+      ],
+      "raw_grid": [
+        [
+          "NU",
+          ""
+        ],
+        [
+          "RR",
+          ""
+        ],
+        [
+          "RT",
+          "Right side (used to identify\nprocedures performed on the\nright side of the body)"
+        ],
+        [
+          "TC",
+          ""
+        ]
+      ],
+      "markdown": "| RR | RR (Detail) |\n| --- | --- |\n| RT | Right side (used to identify\nprocedures performed on the\nright side of the body) |\n| TC |  |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [
+          "RT"
+        ],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p10_1",
+      "title": "Table (Page 10)",
+      "page_number": 10,
+      "bbox": [
+        54.12000020345052,
+        106.42999267578125,
+        557.8800048828125,
+        173.20001220703125
+      ],
+      "columns": [
+        "Date",
+        "Document #",
+        "Version #"
+      ],
+      "row_count": 3,
+      "col_count": 3,
+      "rows": [
+        {
+          "Date": "2026-09-22",
+          "Document #": "CLMS.CP.0037",
+          "Version #": "1.2"
+        },
+        {
+          "Date": "2025-09-30",
+          "Document #": "CLMS.CP.0037",
+          "Version #": "1.1"
+        },
+        {
+          "Date": "2024-09-20",
+          "Document #": "CLMS.CP.0037",
+          "Version #": "1.0"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        [
+          "2026-09-22",
+          "CLMS.CP.0037",
+          "1.2"
+        ],
+        [
+          "2025-09-30",
+          "CLMS.CP.0037",
+          "1.1"
+        ],
+        [
+          "2024-09-20",
+          "CLMS.CP.0037",
+          "1.0"
+        ]
+      ],
+      "markdown": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-09-22 | CLMS.CP.0037 | 1.2 |\n| 2025-09-30 | CLMS.CP.0037 | 1.1 |\n| 2024-09-20 | CLMS.CP.0037 | 1.0 |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    }
+  ],
+  "extracted_content": [
+    {
+      "id": "item_0001",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Common Modifiers",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0002",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "[CLMS.CP.0037] 2026-09-22",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0003",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0037 - 2026-09-22 v1.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0004",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0005",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0006",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Page 1 of 10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0007",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "PURPOSE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0008",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Healthcare Common Procedure Coding System (HCPCS)/Current Procedural Terminology",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0009",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "(CPT©) modifiers are two-digit codes added to procedure codes to enhance the clarity and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0010",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "specificity of medical billing by providing additional details about the services or procedures",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0011",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "performed. Modifiers adjust reimbursement rates, specify whether only certain components",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0012",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "of a procedure were billed, and report multiple or special circumstances. The purpose of this",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0013",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "policy is to establish clear guidelines on the application of common modifiers, including when",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0014",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "and how to use them when submitting claims.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0015",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "APPLICABILITY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0016",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy applies to all Devoted Health plans.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0017",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "POLICY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0018",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Devoted requires the correct use of CPT© and HCPCS modifiers in accordance with CMS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0019",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "guidelines. When a claim includes a modifier, it will be reviewed to ensure the combination of",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0020",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "the procedure code and modifier is accurate and that the modifier is necessary. Incorrect use",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0021",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "of modifiers or claims that require modifiers are submitted without such will result in claim",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0022",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "denial or payment recovery.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0023",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Below is a table of common modifiers, along with a brief description of how they are typically",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0024",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "applied for reimbursement and reporting. These guidelines are intended to address common",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0025",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "claim situations but may not apply in all cases, as modifier use can vary. For more detailed",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0026",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "information, refer to the CMS Medicare Claims Processing Manual Chapter 43 and Chapter 234,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0027",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "or the National Correct Coding Initiative (NCCI) guidelines.4",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0028",
+      "title": "Table (Page 2)",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "table",
+      "content": "| MODIFIER | DESCRIPTION | ADDITIONAL INFORMATION |\n| --- | --- | --- |\n| 22 | Increased procedural\nservices | Report modifier 22 on professional claims only\n(not facility claims).\nDo not use with evaluation and management\n(E/M) service, specialist service, or anesthesia. |\n| 24 | Unrelated evaluation and\nmanagement service by the | Report modifier 24 when the unrelated E/M was\nperformed the day afetr, and during, the |",
+      "codes": [
+        "22",
+        "24"
+      ],
+      "table_data": {
+        "table_id": "tab_p2_1",
+        "title": "Table (Page 2)",
+        "columns": [
+          "MODIFIER",
+          "DESCRIPTION",
+          "ADDITIONAL INFORMATION"
+        ],
+        "row_count": 2,
+        "rows": [
+          {
+            "MODIFIER": "22",
+            "DESCRIPTION": "Increased procedural\nservices",
+            "ADDITIONAL INFORMATION": "Report modifier 22 on professional claims only\n(not facility claims).\nDo not use with evaluation and management\n(E/M) service, specialist service, or anesthesia."
+          },
+          {
+            "MODIFIER": "24",
+            "DESCRIPTION": "Unrelated evaluation and\nmanagement service by the",
+            "ADDITIONAL INFORMATION": "Report modifier 24 when the unrelated E/M was\nperformed the day afetr, and during, the"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0029",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "performed the day after, and during, the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0030",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0037 - 2026-09-22 v1.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0031",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0032",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0033",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Page 2 of 10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0034",
+      "title": "Table (Page 2) (Continued)",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "table",
+      "content": "| MODIFIER | DESCRIPTION | ADDITIONAL INFORMATION |\n| --- | --- | --- |\n|  | same physician or other\nqualified health care\nprofessional during a\npostoperative period | postoperative period of an unrelated 10-day or\n90-day global procedure.\nReport modifier 24 on professional or facility\nclaims.\nDiagnosis code(s) billed and medical record\ndocumentation must support the use of modifier\n24.\nDo not report modifier 24 on a service other than\nan E/M service.\nWhen an E/M is performed that is related to the\n10- or 90- day global procedure and within its\npostoperative period, the E/M should not be\nbilled, even with modifier 24. |\n| 25 | Significant, separately\nidentifiable evaluation and\nmanagement service by the\nsame physician or other\nqualified health care\nprofessional on the same\nday of the procedure or\nother service | Documentation in the medical record and on the\nclaim must support the use of modifier 25.\nReport modifier 25 on professional claims only\n(not facility claims).\nDo not report modifier 25 on a service other than\nan E/M service. |\n| 26 | Professional component | Report modifier 26 with a global service code to\nbill only the professional component.\nDo not report modifier 26 when the procedure\ncode describes only the professional component.\nThe place of service (POS) code generally should\nreflect the actual setting in which a face-to-face\nservice was rendered. |\n| 50 |  |  |",
+      "codes": [
+        "24",
+        "25",
+        "26"
+      ],
+      "table_data": {
+        "table_id": "tab_p3_1",
+        "title": "Table (Page 2) (Continued)",
+        "columns": [
+          "MODIFIER",
+          "DESCRIPTION",
+          "ADDITIONAL INFORMATION"
+        ],
+        "row_count": 4,
+        "rows": [
+          {
+            "MODIFIER": "",
+            "DESCRIPTION": "same physician or other\nqualified health care\nprofessional during a\npostoperative period",
+            "ADDITIONAL INFORMATION": "postoperative period of an unrelated 10-day or\n90-day global procedure.\nReport modifier 24 on professional or facility\nclaims.\nDiagnosis code(s) billed and medical record\ndocumentation must support the use of modifier\n24.\nDo not report modifier 24 on a service other than\nan E/M service.\nWhen an E/M is performed that is related to the\n10- or 90- day global procedure and within its\npostoperative period, the E/M should not be\nbilled, even with modifier 24."
+          },
+          {
+            "MODIFIER": "25",
+            "DESCRIPTION": "Significant, separately\nidentifiable evaluation and\nmanagement service by the\nsame physician or other\nqualified health care\nprofessional on the same\nday of the procedure or\nother service",
+            "ADDITIONAL INFORMATION": "Documentation in the medical record and on the\nclaim must support the use of modifier 25.\nReport modifier 25 on professional claims only\n(not facility claims).\nDo not report modifier 25 on a service other than\nan E/M service."
+          },
+          {
+            "MODIFIER": "26",
+            "DESCRIPTION": "Professional component",
+            "ADDITIONAL INFORMATION": "Report modifier 26 with a global service code to\nbill only the professional component.\nDo not report modifier 26 when the procedure\ncode describes only the professional component.\nThe place of service (POS) code generally should\nreflect the actual setting in which a face-to-face\nservice was rendered."
+          },
+          {
+            "MODIFIER": "50",
+            "DESCRIPTION": "",
+            "ADDITIONAL INFORMATION": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0035",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Bilateral procedure",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0036",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Report modifier 50 when an MPFS bilateral",
+      "codes": [
+        "50"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0037",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "indicator 1 code is performed bilaterally.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0038",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Report modifier 50 on one claim line with a unit of",
+      "codes": [
+        "50"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0039",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "1.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0040",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Adjust units of service if multiple bilateral",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0041",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "procedures were performed.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0042",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0037 - 2026-09-22 v1.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0043",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0044",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0045",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Page 3 of 10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0046",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Report modifier 50 when the procedure is",
+      "codes": [
+        "50"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0047",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "performed on similar but opposite sites.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0048",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Report modifier 50 in addition to eyelid, toe and",
+      "codes": [
+        "50"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0049",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "finger modifiers on one claim line with a unit of 1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0050",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "for procedures performed bilaterally on similar but",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0051",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "opposite sites.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0052",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Do not report modifier 50 with a unilateral code",
+      "codes": [
+        "50"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0053",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "when a bilateral code exists.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0054",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Do not report modifier 50 for a code whose MPFS",
+      "codes": [
+        "50"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0055",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "bilateral indicator is anything other than 1.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0056",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Do not report with modifiers LT/RT when modifier",
+      "codes": [
+        "LT"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0057",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "50 applies.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0058",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "52",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0059",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Reduced services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0060",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Do not report modifier 52 with an E/M service.",
+      "codes": [
+        "52"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0061",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Report modifier 52 on professional or facility",
+      "codes": [
+        "52"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0062",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "claims.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0063",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Indicate the percentage of the procedure that was",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0064",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "performed.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0065",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Do not use modifier 52 to indicate termination of a",
+      "codes": [
+        "52"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0066",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "procedure.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0067",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "53",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0068",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Discontinued procedure",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0069",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Report modifier 53 on professional claims only (not",
+      "codes": [
+        "53"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0070",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "facility claims).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0071",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Do not report modifier 53 on an E/M service.",
+      "codes": [
+        "53"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0072",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Do not report modifier 53 on laparoscopic and",
+      "codes": [
+        "53"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0073",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "endoscopic procedures converted to open",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0074",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "procedures.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0075",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Do not use for outpatient hospital services or",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0076",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "ambulatory surgical centers.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0077",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Do not use modifier 53 if anesthesia was not",
+      "codes": [
+        "53"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0078",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "induced.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0079",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "59",
+      "codes": [
+        "59"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0080",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Distinct procedural service",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0081",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Report modifier 59 when requesting separate",
+      "codes": [
+        "59"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0082",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "reimbursement of a procedure or service that is",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0083",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "distinct or separate from another performed on the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0084",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "same day.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0085",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Use modifier X{EPSU} when appropriate as it",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0086",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "provides a higher level of specificity than modifier",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0087",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "59.",
+      "codes": [
+        "59"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0088",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0037 - 2026-09-22 v1.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0089",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0090",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0091",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Page 4 of 10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0092",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Do not report both modifier 59 and an X{EPSU}",
+      "codes": [
+        "59"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0093",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "modifier on the same claim line.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0094",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Do not report modifier 59 with an E/M service.",
+      "codes": [
+        "59"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0095",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "62",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0096",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Two surgeons",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0097",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Report modifier 62 on professional claims only.",
+      "codes": [
+        "62"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0098",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Both surgeons must report modifier 62.",
+      "codes": [
+        "62"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0099",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "76",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0100",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Repeat procedure or service",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0101",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "by same physician or other",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0102",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "qualified health care",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0103",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "professional",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0104",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Do not report modifier 76 if procedure description",
+      "codes": [
+        "76"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0105",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "already indicates multiple occurrences.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0106",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Do not report modifier 76 with a laboratory",
+      "codes": [
+        "76"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0107",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "procedure when modifier 91 should be appended.",
+      "codes": [
+        "91"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0108",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Do not report modifier 76 with an E/M service.",
+      "codes": [
+        "76"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0109",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "77",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0110",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Repeat procedure by another",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0111",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "physician or other qualified",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0112",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "health care professional",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0113",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Do not report modifier 77 if procedure description",
+      "codes": [
+        "77"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0114",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "already indicates multiple occurrences.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0115",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Do not report modifier 77 with a laboratory",
+      "codes": [
+        "77"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0116",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "procedure when modifier 91 should be appended.",
+      "codes": [
+        "91"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0117",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Do not report modifier 77 with an E/M service.",
+      "codes": [
+        "77"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0118",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "79",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0119",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Unrelated procedure or",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0120",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "service by the same physician",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0121",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "or other qualified health care",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0122",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "professional during the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0123",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "postoperative period",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0124",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Report modifier 79 on professional claims only (not",
+      "codes": [
+        "79"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0125",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "facility claims).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0126",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Do not report modifier 79 if the procedure is related",
+      "codes": [
+        "79"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0127",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "to the original surgery or performed in an ASC.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0128",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "80",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0129",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Assistant surgeon",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0130",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Do not report modifiers 81, 82 or AS with modifier",
+      "codes": [
+        "81"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0131",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "80.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0132",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "An assistant at surgery should bill the same",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0133",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "procedure code as the primary surgeon and the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0134",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "appropriate assistant at surgery modifier, except",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0135",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "when billing for assistance during a cesarean",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0136",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "delivery. When billing for assistance only during a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0137",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "cesarean delivery, the assistant at surgery should",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0138",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "bill CPT code 59514 (cesarean delivery only) or CPT",
+      "codes": [
+        "59514"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0139",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "code 59620 (cesarean delivery only, following",
+      "codes": [
+        "59620"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0140",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "attempted vaginal delivery after previous cesarean",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0141",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "delivery) and the appropriate assistant at surgery",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0142",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "modifier.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0143",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "81",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0144",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Minimum assistant surgeon",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0145",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Do not report modifiers 80, 82 or AS with modifier",
+      "codes": [
+        "80"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0146",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "81. Follow the same billing considerations as for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0147",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0037 - 2026-09-22 v1.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0148",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0149",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0150",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Page 5 of 10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0151",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "modifier 80.",
+      "codes": [
+        "80"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0152",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "82",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0153",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Assistant surgeon (when",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0154",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "qualified resident surgeon",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0155",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "not available)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0156",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Do not report modifiers 80, 81 or AS with modifier",
+      "codes": [
+        "80"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0157",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "82. Follow the same billing consideration as for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0158",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "modifier 80.",
+      "codes": [
+        "80"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0159",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "91",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0160",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Repeat clinical diagnostic",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0161",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "laboratory test",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0162",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Report modifier 91 when the same lab test is",
+      "codes": [
+        "91"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0163",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "performed more than once on the same day on a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0164",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "different specimen.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0165",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Do not use modifier 91 when tests are rerun to",
+      "codes": [
+        "91"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0166",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "confirm initial results due to equipment or",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0167",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "specimen issues.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0168",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Do not report modifier 91 if a code exists that more",
+      "codes": [
+        "91"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0169",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "accurately describes a series of tests.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0170",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "AS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0171",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Physician assistant, nurse",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0172",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "practitioner, or clinical nurse",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0173",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "specialist services for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0174",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "assistant at surgery",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0175",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Do not report modifiers 80, 81 or 82 with modifier",
+      "codes": [
+        "80"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0176",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "AS. Follow the same billing considerations as for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0177",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "modifier 80.",
+      "codes": [
+        "80"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0178",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "JK",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0179",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "One month supply or less of",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0180",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "drug or biological",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0181",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Include modifier for insulin administered through",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0182",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "DME on a one-month supply.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0183",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "JL",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0184",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Three-month supply of drug",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0185",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "or biological",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0186",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Include modifier for insulin administered through",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0187",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "DME on a three-month supply.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0188",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "JW",
+      "codes": [
+        "JW"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0189",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Drug amount discarded/not",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0190",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "administered to any patient",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0191",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "definition",
+      "content": "Report two lines: one with the drug code and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0192",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "modifier JW for the discarded amount and one with",
+      "codes": [
+        "JW"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0193",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "the same drug code without modifier JW for the",
+      "codes": [
+        "JW"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0194",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "administered amount.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0195",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Do not report modifier JW to report a multi-dose",
+      "codes": [
+        "JW"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0196",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "vial or package.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0197",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Do not report modifier JW with modifier JZ.",
+      "codes": [
+        "JW",
+        "JZ"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0198",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "JZ",
+      "codes": [
+        "JZ"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0199",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Zero drug amount",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0200",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "discarded/not administered",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0201",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "to any patient",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0202",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Report modifier JZ to attest no amount of drug was",
+      "codes": [
+        "JZ"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0203",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "discarded.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0204",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Do not report modifier JZ to report a multi-dose",
+      "codes": [
+        "JZ"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0205",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "vial or package.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0206",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Do not report modifier JZ with modifier JW.",
+      "codes": [
+        "JW",
+        "JZ"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0207",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "LT",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0208",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Left side (used to identify",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0209",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "procedures performed on the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0210",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Report modifier LT to indicate a procedure",
+      "codes": [
+        "LT"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0211",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "performed on the left side of the body, an item",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0212",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0037 - 2026-09-22 v1.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0213",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0214",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0215",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Page 6 of 10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0216",
+      "title": "NU",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "table",
+      "content": "| RR | RR (Detail) |\n| --- | --- |\n| RT | Right side (used to identify\nprocedures performed on the\nright side of the body) |\n| TC |  |",
+      "codes": [
+        "RT"
+      ],
+      "table_data": {
+        "table_id": "tab_p7_1",
+        "title": "NU",
+        "columns": [
+          "RR",
+          "RR (Detail)"
+        ],
+        "row_count": 2,
+        "rows": [
+          {
+            "RR": "RT",
+            "RR (Detail)": "Right side (used to identify\nprocedures performed on the\nright side of the body)"
+          },
+          {
+            "RR": "TC",
+            "RR (Detail)": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0217",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Report modifier RT to indicate a procedure",
+      "codes": [
+        "RT"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0218",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "performed on the right side of the body, an item",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0219",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "provided for the right side of the body or an item",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0220",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "provided for the right side of another item such as",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0221",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "a part for the right side of a wheelchair.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0222",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "When an MPFS bilateral indicator 1 code is",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0223",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "performed bilaterally, it is strongly encouraged to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0224",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "use modifier 50, not modifiers LT and RT, but will",
+      "codes": [
+        "50",
+        "LT"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0225",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "accept both methods; see modifier 50.",
+      "codes": [
+        "50"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0226",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Report modifier RT with modifier 52 when only a",
+      "codes": [
+        "52",
+        "RT"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0227",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "bilateral code is available and a unilateral service",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0228",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "was performed on the right side.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0229",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Do not report modifier RT if another anatomical",
+      "codes": [
+        "RT"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0230",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "modifier is more descriptive such as a finger",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0231",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "modifier.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0232",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "left side of the body)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0233",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "provided for the left side of the body or an item",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0234",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "provided for the left side of another item such as a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0235",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "part for the left side of a wheelchair.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0236",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "When an MPFS bilateral indicator 1 code is",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0237",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "performed bilaterally, it is strongly encouraged to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0238",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "use modifier 50, not modifiers LT and RT, but will",
+      "codes": [
+        "50",
+        "LT"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0239",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "accept both methods; see modifier 50.",
+      "codes": [
+        "50"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0240",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Report modifier LT with modifier 52 when only a",
+      "codes": [
+        "52",
+        "LT"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0241",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "bilateral code is available and a unilateral service",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0242",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "was performed on the left side.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0243",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Do not report modifier LT if another anatomical",
+      "codes": [
+        "LT"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0244",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "modifier is more descriptive such as a finger",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0245",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "modifier.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0246",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "New equipment",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0247",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Do not report modifier NU with DMEPOS items that",
+      "codes": [
+        "NU"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0248",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "cannot be purchased (e.g., oxygen equipment).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0249",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Rental (use the RR modifier",
+      "codes": [
+        "RR"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0250",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "when DME is to be rented)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0251",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Do not report modifier RR with DMEPOS items that",
+      "codes": [
+        "RR"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0252",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "must always be purchased (e.g. disposable",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0253",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "supplies).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0254",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Technical component; under",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0255",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "certain circumstances, a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0256",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Technical component charges are institutional",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0257",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "charges and not billed separately by physicians;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0258",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0037 - 2026-09-22 v1.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0259",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0260",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0261",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Page 7 of 10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0262",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "charge may be made for the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0263",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "technical component alone;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0264",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "under those circumstances",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0265",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "the technical component",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0266",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "charge is identified by adding",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0267",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "modifier TC to the usual",
+      "codes": [
+        "TC"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0268",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "procedure number;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0269",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "however, portable x-ray suppliers only bill for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0270",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "technical component and should utilize modifier",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0271",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "TC. The charge data from portable x-ray suppliers",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0272",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "will then be used to build customary and prevailing",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0273",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "profiles.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0274",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Report modifier TC when the physician performs",
+      "codes": [
+        "TC"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0275",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "the test but does not do the interpretation.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0276",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Report modifier TC with a global service code to bill",
+      "codes": [
+        "TC"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0277",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "only the technical component.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0278",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Do not report modifier TC when the procedure code",
+      "codes": [
+        "TC"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0279",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "describes only the technical component.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0280",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "XE",
+      "codes": [
+        "XE"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0281",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Separate encounter, a service",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0282",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "that is distinct because it",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0283",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "occurred during a separate",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0284",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "encounter",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0285",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Modifier XE should be used instead of modifier 59",
+      "codes": [
+        "59",
+        "XE"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0286",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "when XE appropriately describes the service.",
+      "codes": [
+        "XE"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0287",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Do not report both modifiers 59 and XE on the",
+      "codes": [
+        "59",
+        "XE"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0288",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "same claim line.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0289",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Do not report modifier XE with an E/M service.",
+      "codes": [
+        "XE"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0290",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "XP",
+      "codes": [
+        "XP"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0291",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Separate practitioner, a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0292",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "service that is distinct",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0293",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "because it was performed by",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0294",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "a different practitioner",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0295",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Modifier XP should be used instead of modifier 59",
+      "codes": [
+        "59",
+        "XP"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0296",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "when XP appropriately describes the service.",
+      "codes": [
+        "XP"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0297",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Do not report both modifiers 59 and XP on the",
+      "codes": [
+        "59",
+        "XP"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0298",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "same claim line.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0299",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Do not report modifier XP with an E/M service.",
+      "codes": [
+        "XP"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0300",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "XS",
+      "codes": [
+        "XS"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0301",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Separate structure, a service",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0302",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "that is distinct because it was",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0303",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "performed on a separate",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0304",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "organ/structure",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0305",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Modifier XS should be used instead of modifier 59",
+      "codes": [
+        "59",
+        "XS"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0306",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "when XS appropriately describes the service.",
+      "codes": [
+        "XS"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0307",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Do not report both modifiers 59 and XS on the",
+      "codes": [
+        "59",
+        "XS"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0308",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "same claim line.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0309",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Do not report modifier XS with an E/M service.",
+      "codes": [
+        "XS"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0310",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "XU",
+      "codes": [
+        "XU"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0311",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Unusual non-overlapping",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0312",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "service, the use of a service",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0313",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "that is distinct because it",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0314",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "does not overlap usual",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0315",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "components of the main",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0316",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "service",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0317",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Modifier XU should be used instead of modifier 59",
+      "codes": [
+        "59",
+        "XU"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0318",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "when XU appropriately describes the service.",
+      "codes": [
+        "XU"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0319",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Do not report both modifiers 59 and XU on the",
+      "codes": [
+        "59",
+        "XU"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0320",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "same claim line.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0321",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Do not report modifier XU with an E/M service.",
+      "codes": [
+        "XU"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0322",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0037 - 2026-09-22 v1.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0323",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0324",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0325",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Page 8 of 10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0326",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "header",
+      "content": "ACRONYMS AND DEFINITIONS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0327",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "DMEPOS - Durable Medical Equipment, Prosthetics, Orthotics, and Supplies: Purchased or",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0328",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "rented items such as hospital beds, ventilators, oxygen equipment, seat lift equipment,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0329",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "wheelchairs, and other medically necessary equipment prescribed by a health care provider",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0330",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "to be used in a patient's home which are covered by Medicare.1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0331",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "E/M - Evaluation and Management: Services by a physician (or other health care",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0332",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "professional) in which the provider is either evaluating or managing a patient's health.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0333",
+      "title": "RESPONSIBILITIES",
+      "section": "RESPONSIBILITIES",
+      "subsection": null,
+      "hierarchy_path": [
+        "RESPONSIBILITIES"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "header",
+      "content": "RESPONSIBILITIES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0334",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0335",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "header",
+      "content": "REGULATORY REFERENCE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0336",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "CMS Glossary",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0337",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "American Medical Association",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0338",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "Medicare Claims Processing Manual Chapter 4, Section 20",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0339",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "Medicare Claims Processing Manual Chapter 23",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0340",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "NCCI Guidelines",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0341",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "header",
+      "content": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0342",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "FQHC Billing",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0343",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "Preventive Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0344",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "RHC Billing",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0345",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0037 - 2026-09-22 v1.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0346",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0347",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0348",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "Page 9 of 10",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0349",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "content_type": "header",
+      "content": "REVIEW AND VERSION HISTORY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0350",
+      "title": "Table (Page 10)",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "content_type": "table",
+      "content": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-09-22 | CLMS.CP.0037 | 1.2 |\n| 2025-09-30 | CLMS.CP.0037 | 1.1 |\n| 2024-09-20 | CLMS.CP.0037 | 1.0 |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p10_1",
+        "title": "Table (Page 10)",
+        "columns": [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        "row_count": 3,
+        "rows": [
+          {
+            "Date": "2026-09-22",
+            "Document #": "CLMS.CP.0037",
+            "Version #": "1.2"
+          },
+          {
+            "Date": "2025-09-30",
+            "Document #": "CLMS.CP.0037",
+            "Version #": "1.1"
+          },
+          {
+            "Date": "2024-09-20",
+            "Document #": "CLMS.CP.0037",
+            "Version #": "1.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0351",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "content_type": "paragraph",
+      "content": "Prior versions are available upon request",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0352",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0037 - 2026-09-22 v1.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0353",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0354",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0355",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "content_type": "paragraph",
+      "content": "Page 10 of 10",
+      "codes": [],
+      "table_data": null
+    }
+  ]
+}

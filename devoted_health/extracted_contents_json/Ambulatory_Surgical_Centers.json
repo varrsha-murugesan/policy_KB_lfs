@@ -1,0 +1,3507 @@
+{
+  "policy_title": "Ambulatory Surgical Centers",
+  "policy_number": "CLMS.CP.0026",
+  "effective_date": "2026-08-25",
+  "version": "1.3",
+  "source_pdf": "Ambulatory_Surgical_Centers.pdf",
+  "source_url": "https://assets.devoted.com/Providers/PP_30_ASC",
+  "line_of_business": "Medicare Advantage",
+  "billing_class": "Both",
+  "page_count": 8,
+  "revision_history": [
+    {
+      "date": "2026-08-25",
+      "document_num": "CLMS.CP.0026",
+      "version_num": "1.3"
+    },
+    {
+      "date": "2025-08-28",
+      "document_num": "CLMS.CP.0026",
+      "version_num": "1.2"
+    },
+    {
+      "date": "2024-08-13",
+      "document_num": "CLMS.CP.0026",
+      "version_num": "1.1"
+    },
+    {
+      "date": "2023-10-18",
+      "document_num": "IPP-30",
+      "version_num": "1.0"
+    }
+  ],
+  "table_count": 5,
+  "codes_found": {
+    "cpt_hcpcs": [],
+    "modifiers": [
+      "25"
+    ],
+    "revenue_codes": [
+      "0360",
+      "0361",
+      "0490",
+      "0831",
+      "0839"
+    ],
+    "bill_types": [],
+    "icd_codes": []
+  },
+  "CPT_CODES_USED": [],
+  "sections_summary": [
+    "OVERVIEW",
+    "PURPOSE",
+    "APPLICABILITY",
+    "POLICY",
+    "HOW TO BILL YOUR CLAIMS",
+    "FACILITY CHARGES",
+    "PROFESSIONAL (PHYSICIAN) SERVICES",
+    "ACRONYMS AND DEFINITIONS",
+    "RESPONSIBILITIES",
+    "N/A",
+    "REGULATORY REFERENCE",
+    "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+    "REVIEW AND VERSION HISTORY"
+  ],
+  "tables": [
+    {
+      "table_id": "tab_p3_1",
+      "title": "Facility Charges (INSTITUTIONAL FORMS)",
+      "page_number": 3,
+      "bbox": [
+        72.08333333333333,
+        370.5,
+        574.5,
+        634.321044921875
+      ],
+      "columns": [
+        "Form Type",
+        "837I (Electronic)",
+        "837I (Electronic) (Detail)",
+        "UB-04 (Paper)",
+        "UB-04 (Paper) (Detail)"
+      ],
+      "row_count": 5,
+      "col_count": 5,
+      "rows": [
+        {
+          "Form Type": "Bill Type",
+          "837I (Electronic)": "Loop 2300",
+          "837I (Electronic) (Detail)": "0831-0839",
+          "UB-04 (Paper)": "FL 4",
+          "UB-04 (Paper) (Detail)": "0831-0839"
+        },
+        {
+          "Form Type": "Revenue Code",
+          "837I (Electronic)": "Loop 2400",
+          "837I (Electronic) (Detail)": "0490 (primary);\n0360/0361 (alt)",
+          "UB-04 (Paper)": "FL 42",
+          "UB-04 (Paper) (Detail)": "0490 (primary);\n0360/0361 (alt)"
+        },
+        {
+          "Form Type": "Billing\nProvider",
+          "837I (Electronic)": "Loop 2010AA",
+          "837I (Electronic) (Detail)": "Type 2 NPI",
+          "UB-04 (Paper)": "FL 56",
+          "UB-04 (Paper) (Detail)": "Type 2 NPI"
+        },
+        {
+          "Form Type": "Attending\nProvider",
+          "837I (Electronic)": "Loop 2310A",
+          "837I (Electronic) (Detail)": "Type 1 NPI",
+          "UB-04 (Paper)": "FL 76",
+          "UB-04 (Paper) (Detail)": "Type 1 NPI"
+        },
+        {
+          "Form Type": "Bundling Note",
+          "837I (Electronic)": "ASC facility services are packaged with the surgical procedure per ASC\nmethodology; ancillary services may be separately payable (see policy list).",
+          "837I (Electronic) (Detail)": "",
+          "UB-04 (Paper)": "",
+          "UB-04 (Paper) (Detail)": ""
+        }
+      ],
+      "raw_grid": [
+        [
+          "Facility Charges (INSTITUTIONAL FORMS)",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Form Type",
+          "837I (Electronic)",
+          "",
+          "UB-04 (Paper)",
+          ""
+        ],
+        [
+          "Bill Type",
+          "Loop 2300",
+          "0831-0839",
+          "FL 4",
+          "0831-0839"
+        ],
+        [
+          "Revenue Code",
+          "Loop 2400",
+          "0490 (primary);\n0360/0361 (alt)",
+          "FL 42",
+          "0490 (primary);\n0360/0361 (alt)"
+        ],
+        [
+          "Billing\nProvider",
+          "Loop 2010AA",
+          "Type 2 NPI",
+          "FL 56",
+          "Type 2 NPI"
+        ],
+        [
+          "Attending\nProvider",
+          "Loop 2310A",
+          "Type 1 NPI",
+          "FL 76",
+          "Type 1 NPI"
+        ],
+        [
+          "Bundling Note",
+          "ASC facility services are packaged with the surgical procedure per ASC\nmethodology; ancillary services may be separately payable (see policy list).",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| Form Type | 837I (Electronic) | 837I (Electronic) (Detail) | UB-04 (Paper) | UB-04 (Paper) (Detail) |\n| --- | --- | --- | --- | --- |\n| Bill Type | Loop 2300 | 0831-0839 | FL 4 | 0831-0839 |\n| Revenue Code | Loop 2400 | 0490 (primary);\n0360/0361 (alt) | FL 42 | 0490 (primary);\n0360/0361 (alt) |\n| Billing\nProvider | Loop 2010AA | Type 2 NPI | FL 56 | Type 2 NPI |\n| Attending\nProvider | Loop 2310A | Type 1 NPI | FL 76 | Type 1 NPI |\n| Bundling Note | ASC facility services are packaged with the surgical procedure per ASC\nmethodology; ancillary services may be separately payable (see policy list). |  |  |  |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [
+          "0360",
+          "0361",
+          "0490",
+          "0831",
+          "0839"
+        ],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p4_1",
+      "title": "Facility Charges (INSTITUTIONAL FORMS) (Continued)",
+      "page_number": 4,
+      "bbox": [
+        72.16666666666667,
+        140.50010681152344,
+        574.5,
+        526.3380940755209
+      ],
+      "columns": [
+        "Form Type",
+        "837I (Electronic)",
+        "837I (Electronic) (Detail)",
+        "UB-04 (Paper)",
+        "UB-04 (Paper) (Detail)"
+      ],
+      "row_count": 9,
+      "col_count": 5,
+      "rows": [
+        {
+          "Form Type": "Facility Charges (PROFESSIONAL FORMS)",
+          "837I (Electronic)": "",
+          "837I (Electronic) (Detail)": "",
+          "UB-04 (Paper)": "",
+          "UB-04 (Paper) (Detail)": ""
+        },
+        {
+          "Form Type": "Form Type",
+          "837I (Electronic)": "837P (Electronic)",
+          "837I (Electronic) (Detail)": "",
+          "UB-04 (Paper)": "CMS-1500 (Paper)",
+          "UB-04 (Paper) (Detail)": ""
+        },
+        {
+          "Form Type": "Billing\nProvider",
+          "837I (Electronic)": "Loop 2010AA",
+          "837I (Electronic) (Detail)": "Type 2 NPI\n(Organization)",
+          "UB-04 (Paper)": "Box 33A",
+          "UB-04 (Paper) (Detail)": "Type 2 NPI\n(Organization)"
+        },
+        {
+          "Form Type": "Rendering\nProvider",
+          "837I (Electronic)": "Loop 2310B,\nNM1",
+          "837I (Electronic) (Detail)": "Type 2 NPI or Leave\nEntire Section\nBlank",
+          "UB-04 (Paper)": "Box 24J",
+          "UB-04 (Paper) (Detail)": "Type 2 NPI or\nLeave Entire\nSection Blank"
+        },
+        {
+          "Form Type": "",
+          "837I (Electronic)": "NM101",
+          "837I (Electronic) (Detail)": "82 (Rendering\nProvider) or blank",
+          "UB-04 (Paper)": "",
+          "UB-04 (Paper) (Detail)": ""
+        },
+        {
+          "Form Type": "",
+          "837I (Electronic)": "NM102",
+          "837I (Electronic) (Detail)": "2 (Organization) for\na Type 2 NPI, or\nblank",
+          "UB-04 (Paper)": "",
+          "UB-04 (Paper) (Detail)": ""
+        },
+        {
+          "Form Type": "",
+          "837I (Electronic)": "NM109",
+          "837I (Electronic) (Detail)": "10-digit NPI for ASC\nFacility, or blank",
+          "UB-04 (Paper)": "",
+          "UB-04 (Paper) (Detail)": ""
+        },
+        {
+          "Form Type": "Place of\nService",
+          "837I (Electronic)": "Loop 2400",
+          "837I (Electronic) (Detail)": "24 (Ambulatory\nSurgical Center)",
+          "UB-04 (Paper)": "Box 24B",
+          "UB-04 (Paper) (Detail)": "24 (Ambulatory\nSurgical Center)"
+        },
+        {
+          "Form Type": "Bundling Note",
+          "837I (Electronic)": "ASC facility services are packaged with the surgical procedure per ASC\nmethodology; ancillary services may be separately payable (see policy list).",
+          "837I (Electronic) (Detail)": "",
+          "UB-04 (Paper)": "",
+          "UB-04 (Paper) (Detail)": ""
+        }
+      ],
+      "raw_grid": [
+        [
+          "Facility Charges (PROFESSIONAL FORMS)",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Form Type",
+          "837P (Electronic)",
+          "",
+          "CMS-1500 (Paper)",
+          ""
+        ],
+        [
+          "Billing\nProvider",
+          "Loop 2010AA",
+          "Type 2 NPI\n(Organization)",
+          "Box 33A",
+          "Type 2 NPI\n(Organization)"
+        ],
+        [
+          "Rendering\nProvider",
+          "Loop 2310B,\nNM1",
+          "Type 2 NPI or Leave\nEntire Section\nBlank",
+          "Box 24J",
+          "Type 2 NPI or\nLeave Entire\nSection Blank"
+        ],
+        [
+          "",
+          "NM101",
+          "82 (Rendering\nProvider) or blank",
+          "",
+          ""
+        ],
+        [
+          "",
+          "NM102",
+          "2 (Organization) for\na Type 2 NPI, or\nblank",
+          "",
+          ""
+        ],
+        [
+          "",
+          "NM109",
+          "10-digit NPI for ASC\nFacility, or blank",
+          "",
+          ""
+        ],
+        [
+          "Place of\nService",
+          "Loop 2400",
+          "24 (Ambulatory\nSurgical Center)",
+          "Box 24B",
+          "24 (Ambulatory\nSurgical Center)"
+        ],
+        [
+          "Bundling Note",
+          "ASC facility services are packaged with the surgical procedure per ASC\nmethodology; ancillary services may be separately payable (see policy list).",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| Form Type | 837I (Electronic) | 837I (Electronic) (Detail) | UB-04 (Paper) | UB-04 (Paper) (Detail) |\n| --- | --- | --- | --- | --- |\n| Facility Charges (PROFESSIONAL FORMS) |  |  |  |  |\n| Form Type | 837P (Electronic) |  | CMS-1500 (Paper) |  |\n| Billing\nProvider | Loop 2010AA | Type 2 NPI\n(Organization) | Box 33A | Type 2 NPI\n(Organization) |\n| Rendering\nProvider | Loop 2310B,\nNM1 | Type 2 NPI or Leave\nEntire Section\nBlank | Box 24J | Type 2 NPI or\nLeave Entire\nSection Blank |\n|  | NM101 | 82 (Rendering\nProvider) or blank |  |  |\n|  | NM102 | 2 (Organization) for\na Type 2 NPI, or\nblank |  |  |\n|  | NM109 | 10-digit NPI for ASC\nFacility, or blank |  |  |\n| Place of\nService | Loop 2400 | 24 (Ambulatory\nSurgical Center) | Box 24B | 24 (Ambulatory\nSurgical Center) |\n| Bundling Note | ASC facility services are packaged with the surgical procedure per ASC\nmethodology; ancillary services may be separately payable (see policy list). |  |  |  |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p4_2",
+      "title": "Professional (Physician) Charges (PROFESSIONAL FORMS)",
+      "page_number": 4,
+      "bbox": [
+        72.16666666666667,
+        641.5,
+        574.5,
+        698.5
+      ],
+      "columns": [
+        "Form Type",
+        "837P (Electronic)",
+        "CMS-1500 (Paper)"
+      ],
+      "row_count": 0,
+      "col_count": 3,
+      "rows": [],
+      "raw_grid": [
+        [
+          "Professional (Physician) Charges (PROFESSIONAL FORMS)",
+          "",
+          ""
+        ],
+        [
+          "Form Type",
+          "837P (Electronic)",
+          "CMS-1500 (Paper)"
+        ]
+      ],
+      "markdown": "| Form Type | 837P (Electronic) | CMS-1500 (Paper) |\n| --- | --- | --- |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p5_1",
+      "title": "Table (Page 5)",
+      "page_number": 5,
+      "bbox": [
+        72.0,
+        72.08333333333333,
+        574.5,
+        356.9166666666667
+      ],
+      "columns": [
+        "Billing\nProvider",
+        "Loop 2010AA",
+        "Type 2 NPI\n(Organization)",
+        "Box 33A",
+        "Type 2 NPI\n(Organization)_2"
+      ],
+      "row_count": 5,
+      "col_count": 5,
+      "rows": [
+        {
+          "Billing\nProvider": "Rendering\nProvider",
+          "Loop 2010AA": "Loop 2310B,\nNM1",
+          "Type 2 NPI\n(Organization)": "Type 1 NPI\n(Individual)",
+          "Box 33A": "Box 24J",
+          "Type 2 NPI\n(Organization)_2": "Type 1 NPI\n(Individual)"
+        },
+        {
+          "Billing\nProvider": "",
+          "Loop 2010AA": "NM101",
+          "Type 2 NPI\n(Organization)": "82 (Rendering\nProvider) or blank",
+          "Box 33A": "",
+          "Type 2 NPI\n(Organization)_2": ""
+        },
+        {
+          "Billing\nProvider": "",
+          "Loop 2010AA": "NM102",
+          "Type 2 NPI\n(Organization)": "1 (Individual) for a\nType 1 NPI",
+          "Box 33A": "",
+          "Type 2 NPI\n(Organization)_2": ""
+        },
+        {
+          "Billing\nProvider": "",
+          "Loop 2010AA": "NM109",
+          "Type 2 NPI\n(Organization)": "10-digit NPI for\nIndividual",
+          "Box 33A": "",
+          "Type 2 NPI\n(Organization)_2": ""
+        },
+        {
+          "Billing\nProvider": "Place of\nService",
+          "Loop 2010AA": "Loop 2400,\nSV105",
+          "Type 2 NPI\n(Organization)": "24 (Ambulatory\nSurgical Center)",
+          "Box 33A": "Box 24B",
+          "Type 2 NPI\n(Organization)_2": "24 (Ambulatory\nSurgical Center)"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Billing\nProvider",
+          "Loop 2010AA",
+          "Type 2 NPI\n(Organization)",
+          "Box 33A",
+          "Type 2 NPI\n(Organization)"
+        ],
+        [
+          "Rendering\nProvider",
+          "Loop 2310B,\nNM1",
+          "Type 1 NPI\n(Individual)",
+          "Box 24J",
+          "Type 1 NPI\n(Individual)"
+        ],
+        [
+          "",
+          "NM101",
+          "82 (Rendering\nProvider) or blank",
+          "",
+          ""
+        ],
+        [
+          "",
+          "NM102",
+          "1 (Individual) for a\nType 1 NPI",
+          "",
+          ""
+        ],
+        [
+          "",
+          "NM109",
+          "10-digit NPI for\nIndividual",
+          "",
+          ""
+        ],
+        [
+          "Place of\nService",
+          "Loop 2400,\nSV105",
+          "24 (Ambulatory\nSurgical Center)",
+          "Box 24B",
+          "24 (Ambulatory\nSurgical Center)"
+        ]
+      ],
+      "markdown": "| Billing\nProvider | Loop 2010AA | Type 2 NPI\n(Organization) | Box 33A | Type 2 NPI\n(Organization)_2 |\n| --- | --- | --- | --- | --- |\n| Rendering\nProvider | Loop 2310B,\nNM1 | Type 1 NPI\n(Individual) | Box 24J | Type 1 NPI\n(Individual) |\n|  | NM101 | 82 (Rendering\nProvider) or blank |  |  |\n|  | NM102 | 1 (Individual) for a\nType 1 NPI |  |  |\n|  | NM109 | 10-digit NPI for\nIndividual |  |  |\n| Place of\nService | Loop 2400,\nSV105 | 24 (Ambulatory\nSurgical Center) | Box 24B | 24 (Ambulatory\nSurgical Center) |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p8_1",
+      "title": "Table (Page 8)",
+      "page_number": 8,
+      "bbox": [
+        54.12000020345052,
+        106.42999267578125,
+        557.8800048828125,
+        189.8900146484375
+      ],
+      "columns": [
+        "Date",
+        "Document #",
+        "Version #"
+      ],
+      "row_count": 4,
+      "col_count": 3,
+      "rows": [
+        {
+          "Date": "2026-08-25",
+          "Document #": "CLMS.CP.0026",
+          "Version #": "1.3"
+        },
+        {
+          "Date": "2025-08-28",
+          "Document #": "CLMS.CP.0026",
+          "Version #": "1.2"
+        },
+        {
+          "Date": "2024-08-13",
+          "Document #": "CLMS.CP.0026",
+          "Version #": "1.1"
+        },
+        {
+          "Date": "2023-10-18",
+          "Document #": "IPP-30",
+          "Version #": "1.0"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        [
+          "2026-08-25",
+          "CLMS.CP.0026",
+          "1.3"
+        ],
+        [
+          "2025-08-28",
+          "CLMS.CP.0026",
+          "1.2"
+        ],
+        [
+          "2024-08-13",
+          "CLMS.CP.0026",
+          "1.1"
+        ],
+        [
+          "2023-10-18",
+          "IPP-30",
+          "1.0"
+        ]
+      ],
+      "markdown": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-08-25 | CLMS.CP.0026 | 1.3 |\n| 2025-08-28 | CLMS.CP.0026 | 1.2 |\n| 2024-08-13 | CLMS.CP.0026 | 1.1 |\n| 2023-10-18 | IPP-30 | 1.0 |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [
+          "25"
+        ],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    }
+  ],
+  "extracted_content": [
+    {
+      "id": "item_0001",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Ambulatory Surgical Centers",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0002",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "[CLMS.CP.0026] 2026-08-25",
+      "codes": [
+        "25"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0003",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0026 - 2026-08-25 v1.3",
+      "codes": [
+        "25"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0004",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0005",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0006",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Page 1 of 8",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0007",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "PURPOSE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0008",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Ambulatory Surgical Centers (ASCs) are designated facilities that specialize in outpatient",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0009",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "procedures that do not require admission to a hospital. Procedures that can be performed in",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0010",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "an ASC are statutorily defined by CMS and reviewed each year for potential additions and/or",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0011",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "deletions. The purpose of this policy is to establish how we cover and pay for these services.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0012",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "APPLICABILITY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0013",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy applies to all Devoted Health plans.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0014",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "POLICY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0015",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "We cover our members' medically-necessary ASC services in accordance with the CMS ASC",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0016",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Covered Procedures List. Coverage for the primary surgical procedure includes all related",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0017",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "facility services, such as:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0018",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Administrative and facility use costs",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0019",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Diagnostic or therapeutic services directly related to the surgical procedure",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0020",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Drugs and biologicals that are not considered separately payable",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0021",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Implanted prosthetics, including intra-ocular lenses (IOLs), and related accessories",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0022",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "and supplies",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0023",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Implanted Durable Medical Equipment (DME) and related accessories and supplies",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0024",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● CLIA-waived laboratory tests related to the surgical procedure",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0025",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Nursing, technicians, and their related services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0026",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Radiological services that are not considered separately payable",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0027",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Supervision of an anesthetist by the operating surgeon",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0028",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Supplies and equipment for the administration and monitoring of anesthesia",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0029",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Supplies and other items required to perform the surgery (e.g., surgical dressings,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0030",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "splints, casts, equipment)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0031",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "We also cover the following ancillary services when they are integral to the provision of",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0032",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "surgery:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0033",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Acquisition of corneal tissue for corneal transplant procedures",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0034",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Brachytherapy sources",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0035",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Implantable items with pass-through status under the Outpatient Prospective",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0036",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Payment System (OPPS)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0037",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Drugs and biologicals for which separate payment is allowed under the OPPS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0038",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0026 - 2026-08-25 v1.3",
+      "codes": [
+        "25"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0039",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0040",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0041",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Page 2 of 8",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0042",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Radiology services and certain diagnostic tests for which separate payment is allowed",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0043",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "under the ASC PPS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0044",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Non-opioid pain management drugs and biologicals that function as a supply when",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0045",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "used in a surgical procedure",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0046",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Unclassified drugs and biologicals",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0047",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Prior authorization is required for some ASC services including, but not limited to,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0048",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "arthroscopies, gender reassignment, ophthalmological surgeries, and spinal procedures.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0049",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "To ensure the most seamless experience for our members, requests must be submitted at",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0050",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "least 10 business days prior to the scheduled service date.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0051",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "HOW TO BILL YOUR CLAIMS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0052",
+      "title": "FACILITY CHARGES",
+      "section": "FACILITY CHARGES",
+      "subsection": null,
+      "hierarchy_path": [
+        "FACILITY CHARGES"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "FACILITY CHARGES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0053",
+      "title": "FACILITY CHARGES",
+      "section": "FACILITY CHARGES",
+      "subsection": null,
+      "hierarchy_path": [
+        "FACILITY CHARGES"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Preferred Method - 837I (Electronic) / UB-04 (Paper)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0054",
+      "title": "FACILITY CHARGES",
+      "section": "FACILITY CHARGES",
+      "subsection": null,
+      "hierarchy_path": [
+        "FACILITY CHARGES"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "We strongly encourage all ASC facility charges to be billed on the electronic 837I or its",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0055",
+      "title": "FACILITY CHARGES",
+      "section": "FACILITY CHARGES",
+      "subsection": null,
+      "hierarchy_path": [
+        "FACILITY CHARGES"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "paper equivalent (UB-04).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0056",
+      "title": "Facility Charges (INSTITUTIONAL FORMS)",
+      "section": "FACILITY CHARGES",
+      "subsection": null,
+      "hierarchy_path": [
+        "FACILITY CHARGES"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "table",
+      "content": "| Form Type | 837I (Electronic) | 837I (Electronic) (Detail) | UB-04 (Paper) | UB-04 (Paper) (Detail) |\n| --- | --- | --- | --- | --- |\n| Bill Type | Loop 2300 | 0831-0839 | FL 4 | 0831-0839 |\n| Revenue Code | Loop 2400 | 0490 (primary);\n0360/0361 (alt) | FL 42 | 0490 (primary);\n0360/0361 (alt) |\n| Billing\nProvider | Loop 2010AA | Type 2 NPI | FL 56 | Type 2 NPI |\n| Attending\nProvider | Loop 2310A | Type 1 NPI | FL 76 | Type 1 NPI |\n| Bundling Note | ASC facility services are packaged with the surgical procedure per ASC\nmethodology; ancillary services may be separately payable (see policy list). |  |  |  |",
+      "codes": [
+        "0360",
+        "0361",
+        "0490",
+        "0831",
+        "0839"
+      ],
+      "table_data": {
+        "table_id": "tab_p3_1",
+        "title": "Facility Charges (INSTITUTIONAL FORMS)",
+        "columns": [
+          "Form Type",
+          "837I (Electronic)",
+          "837I (Electronic) (Detail)",
+          "UB-04 (Paper)",
+          "UB-04 (Paper) (Detail)"
+        ],
+        "row_count": 5,
+        "rows": [
+          {
+            "Form Type": "Bill Type",
+            "837I (Electronic)": "Loop 2300",
+            "837I (Electronic) (Detail)": "0831-0839",
+            "UB-04 (Paper)": "FL 4",
+            "UB-04 (Paper) (Detail)": "0831-0839"
+          },
+          {
+            "Form Type": "Revenue Code",
+            "837I (Electronic)": "Loop 2400",
+            "837I (Electronic) (Detail)": "0490 (primary);\n0360/0361 (alt)",
+            "UB-04 (Paper)": "FL 42",
+            "UB-04 (Paper) (Detail)": "0490 (primary);\n0360/0361 (alt)"
+          },
+          {
+            "Form Type": "Billing\nProvider",
+            "837I (Electronic)": "Loop 2010AA",
+            "837I (Electronic) (Detail)": "Type 2 NPI",
+            "UB-04 (Paper)": "FL 56",
+            "UB-04 (Paper) (Detail)": "Type 2 NPI"
+          },
+          {
+            "Form Type": "Attending\nProvider",
+            "837I (Electronic)": "Loop 2310A",
+            "837I (Electronic) (Detail)": "Type 1 NPI",
+            "UB-04 (Paper)": "FL 76",
+            "UB-04 (Paper) (Detail)": "Type 1 NPI"
+          },
+          {
+            "Form Type": "Bundling Note",
+            "837I (Electronic)": "ASC facility services are packaged with the surgical procedure per ASC\nmethodology; ancillary services may be separately payable (see policy list).",
+            "837I (Electronic) (Detail)": "",
+            "UB-04 (Paper)": "",
+            "UB-04 (Paper) (Detail)": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0057",
+      "title": "FACILITY CHARGES",
+      "section": "FACILITY CHARGES",
+      "subsection": null,
+      "hierarchy_path": [
+        "FACILITY CHARGES"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Loop 2010AA Type 2 NPI",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0058",
+      "title": "FACILITY CHARGES",
+      "section": "FACILITY CHARGES",
+      "subsection": null,
+      "hierarchy_path": [
+        "FACILITY CHARGES"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0026 - 2026-08-25 v1.3",
+      "codes": [
+        "25"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0059",
+      "title": "FACILITY CHARGES",
+      "section": "FACILITY CHARGES",
+      "subsection": null,
+      "hierarchy_path": [
+        "FACILITY CHARGES"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0060",
+      "title": "FACILITY CHARGES",
+      "section": "FACILITY CHARGES",
+      "subsection": null,
+      "hierarchy_path": [
+        "FACILITY CHARGES"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0061",
+      "title": "FACILITY CHARGES",
+      "section": "FACILITY CHARGES",
+      "subsection": null,
+      "hierarchy_path": [
+        "FACILITY CHARGES"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Page 3 of 8",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0062",
+      "title": "FACILITY CHARGES",
+      "section": "FACILITY CHARGES",
+      "subsection": null,
+      "hierarchy_path": [
+        "FACILITY CHARGES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Alternate Method - CMS-1500 (Paper) / 837P (Electronic)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0063",
+      "title": "FACILITY CHARGES",
+      "section": "FACILITY CHARGES",
+      "subsection": null,
+      "hierarchy_path": [
+        "FACILITY CHARGES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "If a facility must submit a claim on a CMS-1500 or 837P (e.g., system limitation, payer",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0064",
+      "title": "FACILITY CHARGES",
+      "section": "FACILITY CHARGES",
+      "subsection": null,
+      "hierarchy_path": [
+        "FACILITY CHARGES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "request), the claim must clearly indicate it is for facility charges.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0065",
+      "title": "Facility Charges (INSTITUTIONAL FORMS) (Continued)",
+      "section": "FACILITY CHARGES",
+      "subsection": null,
+      "hierarchy_path": [
+        "FACILITY CHARGES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "table",
+      "content": "| Form Type | 837I (Electronic) | 837I (Electronic) (Detail) | UB-04 (Paper) | UB-04 (Paper) (Detail) |\n| --- | --- | --- | --- | --- |\n| Facility Charges (PROFESSIONAL FORMS) |  |  |  |  |\n| Form Type | 837P (Electronic) |  | CMS-1500 (Paper) |  |\n| Billing\nProvider | Loop 2010AA | Type 2 NPI\n(Organization) | Box 33A | Type 2 NPI\n(Organization) |\n| Rendering\nProvider | Loop 2310B,\nNM1 | Type 2 NPI or Leave\nEntire Section\nBlank | Box 24J | Type 2 NPI or\nLeave Entire\nSection Blank |\n|  | NM101 | 82 (Rendering\nProvider) or blank |  |  |\n|  | NM102 | 2 (Organization) for\na Type 2 NPI, or\nblank |  |  |\n|  | NM109 | 10-digit NPI for ASC\nFacility, or blank |  |  |\n| Place of\nService | Loop 2400 | 24 (Ambulatory\nSurgical Center) | Box 24B | 24 (Ambulatory\nSurgical Center) |\n| Bundling Note | ASC facility services are packaged with the surgical procedure per ASC\nmethodology; ancillary services may be separately payable (see policy list). |  |  |  |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p4_1",
+        "title": "Facility Charges (INSTITUTIONAL FORMS) (Continued)",
+        "columns": [
+          "Form Type",
+          "837I (Electronic)",
+          "837I (Electronic) (Detail)",
+          "UB-04 (Paper)",
+          "UB-04 (Paper) (Detail)"
+        ],
+        "row_count": 9,
+        "rows": [
+          {
+            "Form Type": "Facility Charges (PROFESSIONAL FORMS)",
+            "837I (Electronic)": "",
+            "837I (Electronic) (Detail)": "",
+            "UB-04 (Paper)": "",
+            "UB-04 (Paper) (Detail)": ""
+          },
+          {
+            "Form Type": "Form Type",
+            "837I (Electronic)": "837P (Electronic)",
+            "837I (Electronic) (Detail)": "",
+            "UB-04 (Paper)": "CMS-1500 (Paper)",
+            "UB-04 (Paper) (Detail)": ""
+          },
+          {
+            "Form Type": "Billing\nProvider",
+            "837I (Electronic)": "Loop 2010AA",
+            "837I (Electronic) (Detail)": "Type 2 NPI\n(Organization)",
+            "UB-04 (Paper)": "Box 33A",
+            "UB-04 (Paper) (Detail)": "Type 2 NPI\n(Organization)"
+          },
+          {
+            "Form Type": "Rendering\nProvider",
+            "837I (Electronic)": "Loop 2310B,\nNM1",
+            "837I (Electronic) (Detail)": "Type 2 NPI or Leave\nEntire Section\nBlank",
+            "UB-04 (Paper)": "Box 24J",
+            "UB-04 (Paper) (Detail)": "Type 2 NPI or\nLeave Entire\nSection Blank"
+          },
+          {
+            "Form Type": "",
+            "837I (Electronic)": "NM101",
+            "837I (Electronic) (Detail)": "82 (Rendering\nProvider) or blank",
+            "UB-04 (Paper)": "",
+            "UB-04 (Paper) (Detail)": ""
+          },
+          {
+            "Form Type": "",
+            "837I (Electronic)": "NM102",
+            "837I (Electronic) (Detail)": "2 (Organization) for\na Type 2 NPI, or\nblank",
+            "UB-04 (Paper)": "",
+            "UB-04 (Paper) (Detail)": ""
+          },
+          {
+            "Form Type": "",
+            "837I (Electronic)": "NM109",
+            "837I (Electronic) (Detail)": "10-digit NPI for ASC\nFacility, or blank",
+            "UB-04 (Paper)": "",
+            "UB-04 (Paper) (Detail)": ""
+          },
+          {
+            "Form Type": "Place of\nService",
+            "837I (Electronic)": "Loop 2400",
+            "837I (Electronic) (Detail)": "24 (Ambulatory\nSurgical Center)",
+            "UB-04 (Paper)": "Box 24B",
+            "UB-04 (Paper) (Detail)": "24 (Ambulatory\nSurgical Center)"
+          },
+          {
+            "Form Type": "Bundling Note",
+            "837I (Electronic)": "ASC facility services are packaged with the surgical procedure per ASC\nmethodology; ancillary services may be separately payable (see policy list).",
+            "837I (Electronic) (Detail)": "",
+            "UB-04 (Paper)": "",
+            "UB-04 (Paper) (Detail)": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0066",
+      "title": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": null,
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0067",
+      "title": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": null,
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Professional (physician) services delivered in an ASC should be billed using CMS-1500/837P",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0068",
+      "title": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": null,
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "and structured to reflect that the claim is for the physician service component. Correct",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0069",
+      "title": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": null,
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "configuration of the billing provider NPI and rendering provider NPI is essential to ensure",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0070",
+      "title": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": null,
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "proper interpretation and payment.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0071",
+      "title": "Professional (Physician) Charges (PROFESSIONAL FORMS)",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": null,
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "table",
+      "content": "| Form Type | 837P (Electronic) | CMS-1500 (Paper) |\n| --- | --- | --- |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p4_2",
+        "title": "Professional (Physician) Charges (PROFESSIONAL FORMS)",
+        "columns": [
+          "Form Type",
+          "837P (Electronic)",
+          "CMS-1500 (Paper)"
+        ],
+        "row_count": 0,
+        "rows": []
+      }
+    },
+    {
+      "id": "item_0072",
+      "title": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": null,
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0026 - 2026-08-25 v1.3",
+      "codes": [
+        "25"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0073",
+      "title": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": null,
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0074",
+      "title": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": null,
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0075",
+      "title": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": null,
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Page 4 of 8",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0076",
+      "title": "Table (Page 5)",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": null,
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "table",
+      "content": "| Billing\nProvider | Loop 2010AA | Type 2 NPI\n(Organization) | Box 33A | Type 2 NPI\n(Organization)_2 |\n| --- | --- | --- | --- | --- |\n| Rendering\nProvider | Loop 2310B,\nNM1 | Type 1 NPI\n(Individual) | Box 24J | Type 1 NPI\n(Individual) |\n|  | NM101 | 82 (Rendering\nProvider) or blank |  |  |\n|  | NM102 | 1 (Individual) for a\nType 1 NPI |  |  |\n|  | NM109 | 10-digit NPI for\nIndividual |  |  |\n| Place of\nService | Loop 2400,\nSV105 | 24 (Ambulatory\nSurgical Center) | Box 24B | 24 (Ambulatory\nSurgical Center) |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p5_1",
+        "title": "Table (Page 5)",
+        "columns": [
+          "Billing\nProvider",
+          "Loop 2010AA",
+          "Type 2 NPI\n(Organization)",
+          "Box 33A",
+          "Type 2 NPI\n(Organization)_2"
+        ],
+        "row_count": 5,
+        "rows": [
+          {
+            "Billing\nProvider": "Rendering\nProvider",
+            "Loop 2010AA": "Loop 2310B,\nNM1",
+            "Type 2 NPI\n(Organization)": "Type 1 NPI\n(Individual)",
+            "Box 33A": "Box 24J",
+            "Type 2 NPI\n(Organization)_2": "Type 1 NPI\n(Individual)"
+          },
+          {
+            "Billing\nProvider": "",
+            "Loop 2010AA": "NM101",
+            "Type 2 NPI\n(Organization)": "82 (Rendering\nProvider) or blank",
+            "Box 33A": "",
+            "Type 2 NPI\n(Organization)_2": ""
+          },
+          {
+            "Billing\nProvider": "",
+            "Loop 2010AA": "NM102",
+            "Type 2 NPI\n(Organization)": "1 (Individual) for a\nType 1 NPI",
+            "Box 33A": "",
+            "Type 2 NPI\n(Organization)_2": ""
+          },
+          {
+            "Billing\nProvider": "",
+            "Loop 2010AA": "NM109",
+            "Type 2 NPI\n(Organization)": "10-digit NPI for\nIndividual",
+            "Box 33A": "",
+            "Type 2 NPI\n(Organization)_2": ""
+          },
+          {
+            "Billing\nProvider": "Place of\nService",
+            "Loop 2010AA": "Loop 2400,\nSV105",
+            "Type 2 NPI\n(Organization)": "24 (Ambulatory\nSurgical Center)",
+            "Box 33A": "Box 24B",
+            "Type 2 NPI\n(Organization)_2": "24 (Ambulatory\nSurgical Center)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0077",
+      "title": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": null,
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Box 31",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0078",
+      "title": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": null,
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Provider Name",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0079",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "header",
+      "content": "ASC Payment Structure and Covered Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0080",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "We reimburse claims according to Medicare ASC PPS payment rules so facility services are",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0081",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "included in the payment for the surgical procedure and are not separately payable, except for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0082",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "the ancillary services listed in this policy. Eligibility for reimbursement for all ASC services is",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0083",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "based on CMS ASC status indicators. Please refer to your contract for specific details.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0084",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Separately Payable Non-ASC Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0085",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Non-ASC services are not included in the payment for the surgical procedure but may be",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0086",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "billed and paid separately according to the relevant chapters of the Medicare Claims",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0087",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Processing Manual:4",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0088",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Ambulance services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0089",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Anesthetists' services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0090",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Artificial limbs",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0091",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Braces that are not used for casts or splints",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0092",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Certified laboratory services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0093",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Non-implantable DME for use in the member's home",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0094",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Non-implantable prosthetic devices",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0095",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Physicians' services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0096",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0026 - 2026-08-25 v1.3",
+      "codes": [
+        "25"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0097",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0098",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0099",
+      "title": "ASC Payment Structure and Covered Services",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "ASC Payment Structure and Covered Services",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "ASC Payment Structure and Covered Services"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Page 5 of 8",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0100",
+      "title": "Authorization Requirements and Member Billing Restrictions",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "Authorization Requirements and Member Billing Restrictions",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "Authorization Requirements and Member Billing Restrictions"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "header",
+      "content": "Authorization Requirements and Member Billing Restrictions",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0101",
+      "title": "Authorization Requirements and Member Billing Restrictions",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "Authorization Requirements and Member Billing Restrictions",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "Authorization Requirements and Member Billing Restrictions"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Charges for claims denied for lack of authorization can't be billed to our members, you may",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0102",
+      "title": "Authorization Requirements and Member Billing Restrictions",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "Authorization Requirements and Member Billing Restrictions",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "Authorization Requirements and Member Billing Restrictions"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "only bill the appropriate cost-share listed in the EOC under \"Outpatient Procedures/Surgery",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0103",
+      "title": "Authorization Requirements and Member Billing Restrictions",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "Authorization Requirements and Member Billing Restrictions",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "Authorization Requirements and Member Billing Restrictions"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "at an ASC\" for the services defined above. Non-ASC Services are considered separate services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0104",
+      "title": "Authorization Requirements and Member Billing Restrictions",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "Authorization Requirements and Member Billing Restrictions",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "Authorization Requirements and Member Billing Restrictions"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "as outlined in the EOC and may result in additional cost share.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0105",
+      "title": "Authorization Requirements and Member Billing Restrictions",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "Authorization Requirements and Member Billing Restrictions",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "Authorization Requirements and Member Billing Restrictions"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "If you believe your claim was denied incorrectly and would like us to reconsider, please",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0106",
+      "title": "Authorization Requirements and Member Billing Restrictions",
+      "section": "PROFESSIONAL (PHYSICIAN) SERVICES",
+      "subsection": "Authorization Requirements and Member Billing Restrictions",
+      "hierarchy_path": [
+        "PROFESSIONAL (PHYSICIAN) SERVICES",
+        "Authorization Requirements and Member Billing Restrictions"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "follow our Provider Dispute process outlined in your provider manual.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0107",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "header",
+      "content": "ACRONYMS AND DEFINITIONS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0108",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "definition",
+      "content": "Ancillary Services: Services that are separately covered and eligible for additional",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0109",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "header",
+      "content": "payment under the ASC PPS.1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0110",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "definition",
+      "content": "ASC Services: Surgical procedure, included facility services, and certain separately",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0111",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "payable ancillary services under ASC PPS.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0112",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "definition",
+      "content": "ASC Status Indicator: A code assigned to each HCPCS code that identifies whether a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0113",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "service is considered separately payable or packaged.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0114",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "definition",
+      "content": "Covered Procedures List: A CMS-maintained list of approved surgical procedures that",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0115",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "may be performed in an ASC, consistent with statutory and clinical criteria.3",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0116",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "definition",
+      "content": "Included Facility Services: ASC services considered packaged as part of a surgical procedure.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0117",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "definition",
+      "content": "Non-ASC Services: Services furnished in an ASC that are not in scope under the ASC PPS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0118",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "payment methodology but may be eligible for payment under a different payment",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0119",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "methodology.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0120",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "definition",
+      "content": "NPI: A unique, 10-digit number assigned by CMS to identify healthcare providers in all",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0121",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "administrative and financial transactions.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0122",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "definition",
+      "content": "Prospective Payment System (PPS): A payment methodology that pays",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0123",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "predetermined, fixed amounts based on average national costs that are adjusted",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0124",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "based on geographic variances.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0125",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "definition",
+      "content": "Rendering Provider: The individual or organization (e.g., laboratory, facility) that",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0126",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "performed or supervised the service being billed. On professional claims",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0127",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "(CMS‐1500/837P), the rendering provider field may contain either a Type 1 NPI",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0128",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "(individual) or a Type 2 NPI (organization).4",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0129",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0026 - 2026-08-25 v1.3",
+      "codes": [
+        "25"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0130",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0131",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0132",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Page 6 of 8",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0133",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "definition",
+      "content": "Type 1 NPI: A personal NPI assigned to individual providers (e.g., physicians, NPs).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0134",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Used to identify a person.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0135",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "definition",
+      "content": "Type 2 NPI: An organizational NPI assigned to entities (e.g., ASCs, hospitals, group",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0136",
+      "title": "payment under the ASC PPS.1",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": "payment under the ASC PPS.1",
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS",
+        "payment under the ASC PPS.1"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "practices). Used to identify a facility or organization.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0137",
+      "title": "RESPONSIBILITIES",
+      "section": "RESPONSIBILITIES",
+      "subsection": null,
+      "hierarchy_path": [
+        "RESPONSIBILITIES"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "RESPONSIBILITIES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0138",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0139",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "REGULATORY REFERENCE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0140",
+      "title": "1Medicare ASC Payment Rates Addenda BB",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "1Medicare ASC Payment Rates Addenda BB",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "1Medicare ASC Payment Rates Addenda BB"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "1Medicare ASC Payment Rates Addenda BB",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0141",
+      "title": "2Medicare ASC Payment Rates Addenda DD1",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "2Medicare ASC Payment Rates Addenda DD1",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "2Medicare ASC Payment Rates Addenda DD1"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "2Medicare ASC Payment Rates Addenda DD1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0142",
+      "title": "3Medicare ASC Payment Rates Addenda AA",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "3Medicare ASC Payment Rates Addenda AA",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "3Medicare ASC Payment Rates Addenda AA"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "3Medicare ASC Payment Rates Addenda AA",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0143",
+      "title": "3Medicare ASC Payment Rates Addenda AA",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "3Medicare ASC Payment Rates Addenda AA",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "3Medicare ASC Payment Rates Addenda AA"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "4NUCC 1500 Health Insurance Claim Form Reference Instruction Manual for Form Version 02/12",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0144",
+      "title": "Medicare Claims Processing Manual, Chapter 14, §10.3",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "Medicare Claims Processing Manual, Chapter 14, §10.3",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "Medicare Claims Processing Manual, Chapter 14, §10.3"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "Medicare Claims Processing Manual, Chapter 14, §10.3",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0145",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0146",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0147",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0026 - 2026-08-25 v1.3",
+      "codes": [
+        "25"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0148",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0149",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0150",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Page 7 of 8",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0151",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "header",
+      "content": "REVIEW AND VERSION HISTORY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0152",
+      "title": "Table (Page 8)",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "table",
+      "content": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-08-25 | CLMS.CP.0026 | 1.3 |\n| 2025-08-28 | CLMS.CP.0026 | 1.2 |\n| 2024-08-13 | CLMS.CP.0026 | 1.1 |\n| 2023-10-18 | IPP-30 | 1.0 |",
+      "codes": [
+        "25"
+      ],
+      "table_data": {
+        "table_id": "tab_p8_1",
+        "title": "Table (Page 8)",
+        "columns": [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        "row_count": 4,
+        "rows": [
+          {
+            "Date": "2026-08-25",
+            "Document #": "CLMS.CP.0026",
+            "Version #": "1.3"
+          },
+          {
+            "Date": "2025-08-28",
+            "Document #": "CLMS.CP.0026",
+            "Version #": "1.2"
+          },
+          {
+            "Date": "2024-08-13",
+            "Document #": "CLMS.CP.0026",
+            "Version #": "1.1"
+          },
+          {
+            "Date": "2023-10-18",
+            "Document #": "IPP-30",
+            "Version #": "1.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0153",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Prior versions are available upon request",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0154",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0026 - 2026-08-25 v1.3",
+      "codes": [
+        "25"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0155",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0156",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0157",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Page 8 of 8",
+      "codes": [],
+      "table_data": null
+    }
+  ],
+  "mapping_eligibility": {
+    "eligible": true,
+    "route": "MAP_NEEDED",
+    "reason": "no explicit codes; 15 procedural terms",
+    "explicit_code_count": 0,
+    "procedure_terms": [
+      "anesthesia",
+      "diagnostic",
+      "equipment",
+      "implantable",
+      "implanted",
+      "laboratory",
+      "procedure",
+      "procedures",
+      "radiological",
+      "radiology",
+      "supplies",
+      "surgery"
+    ],
+    "admin_terms": [
+      "cost share",
+      "cost-share",
+      "dispute",
+      "eligibility"
+    ]
+  },
+  "mapping_status": "mapped",
+  "mapped_cpt_codes": [
+    {
+      "code": "E1399",
+      "code_system": "HCPCS_L2",
+      "description": "",
+      "confidence_tier": "C",
+      "score": 58.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "65710",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "C",
+      "score": 63.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "65730",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "C",
+      "score": 63.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "65750",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "C",
+      "score": 63.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "65755",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "C",
+      "score": 63.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "0117U",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "D",
+      "score": 48.49,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "0290U",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "D",
+      "score": 48.49,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "0552T",
+      "code_system": "CPT",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 25.49,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    },
+    {
+      "code": "C9399",
+      "code_system": "HCPCS_L2",
+      "description": "",
+      "confidence_tier": "E",
+      "score": 15.0,
+      "mapping_origin": "inferred",
+      "best_method": "kb_pipeline",
+      "kb_marker": "KB PIPELINE MARKED"
+    }
+  ],
+  "mapping_source": "KB PIPELINE MARKED",
+  "kb_pipeline_marked": true
+}

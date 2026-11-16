@@ -1,0 +1,2903 @@
+{
+  "policy_title": "Laboratory - Urinary Tumor Markers for Bladder Cancer",
+  "policy_number": "LAB2023055",
+  "effective_date": "07/2023",
+  "published_date": "07/2023",
+  "revision_date": "10/2026",
+  "source_pdf": "Laboratory_-_Urinary_Tumor_Markers_for_Bladder_Cancer_Revised-2ace8696.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 7,
+  "table_count": 3,
+  "block_count": 103,
+  "CPT_CODES_USED": [
+    "86386",
+    "86294",
+    "86316",
+    "88346",
+    "88350",
+    "0365U",
+    "0366U",
+    "0367U",
+    "0012M",
+    "0013M",
+    "0363U",
+    "0420U",
+    "0452U",
+    "0465U",
+    "0549U",
+    "0613U",
+    "00009",
+    "14673",
+    "02796",
+    "60491",
+    "S0090",
+    "02136",
+    "00008",
+    "14019"
+  ],
+  "MODIFIERS_USED": [
+    "CA",
+    "50",
+    "81",
+    "SA",
+    "RD",
+    "GS",
+    "AM",
+    "JL",
+    "82",
+    "JC",
+    "RT",
+    "KC",
+    "HR",
+    "SC",
+    "TH",
+    "JA",
+    "AS",
+    "SD",
+    "HT",
+    "CE",
+    "25",
+    "52",
+    "58",
+    "US",
+    "LL",
+    "51",
+    "24",
+    "90",
+    "AJ",
+    "HM",
+    "FC",
+    "62",
+    "22"
+  ],
+  "ICD_CODES_USED": [
+    "S84"
+  ],
+  "mapped_cpt_codes": [
+    {
+      "code": "86386",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86294",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86316",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "88346",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "88350",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0365U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0366U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0367U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0012M",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0013M",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0363U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0420U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0452U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0465U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0549U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0613U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00009",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "14673",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "02796",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "60491",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "S0090",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "02136",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00008",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "14019",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "A nuclear matrix protein (NMP22) test (CPT code 86386*), a bladder tumor antigen (BTA) test (CPT code 86294*, CPT code 86316*) or a fluorescence immunocytology (e.g., ImmunoCyt/uCytTM) test (CPT code 88346, CPT code 88350) IS REIMBURSABLE for a bladder neoplasm or a personal history of bladder neoplasm.",
+      "codes": [
+        "86386",
+        "86294",
+        "86316",
+        "88346",
+        "88350"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "For all other situations not described above, an NMP22 test, a BTA test or a fluorescence immunocytology test IS NOT REIMBURSABLE.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Urinary protein biomarker panels designed to detect, monitor or predict recurrence of bladder cancer (e.g., Oncuria® Detect, Oncuria® Monitor, Oncuria® Predict) (CPT code 0365U***, CPT code 0366U***, CPT code 0367U***) ARE NOT REIMBURSABLE.",
+      "codes": [
+        "0365U",
+        "0366U",
+        "0367U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "All other urinary biomarker panels designed to diagnose or prognose bladder cancer (CPT code 0012M**, CPT code 0013M**, CPT code 0363U**, CPT code 0420U**, CPT code 0452U**, CPT code 0465U**, CPT code 0549U**, CPT code 0613U**) ARE NOT REIMBURSABLE.",
+      "codes": [
+        "0012M",
+        "0013M",
+        "0363U",
+        "0420U",
+        "0452U",
+        "0465U",
+        "0549U",
+        "0613U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "86294* Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen) 86316* Immunoassay for tumor antigen; other antigen, quantitative, (eg, CA 50, 72-4, 549) each 86386*",
+      "codes": [
+        "86294",
+        "86316",
+        "86386"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Nuclear matrix protein 22 (nmp22), qualitative",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Nuclear matrix protein 22 (nmp22), qualitative",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Nuclear matrix protein 22 (nmp22), qualitative",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "88346 Immunofluorescence, per specimen; initial single antibody stain procedure 88350 Immunofluorescence, per specimen; each additional single antibody stain procedure (List separately in addition to code for primary procedure) 0012M** Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK, HOXA13, CDC2 [CDK1], IGFBP5, and CXCR2), utilizing urine, algorithm reported as a risk score for having urothelial carcinoma",
+      "codes": [
+        "88346",
+        "88350",
+        "0012M"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0013M** Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK, HOXA13, CDC2 [CDK1], IGFBP5, and CXCR2), utilizing urine, algorithm reported as a risk score for having recurrent urothelial carcinoma",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Pacific Edge Limited",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Pacific Edge Limited",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Pacific Edge Limited",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0363U** Oncology (urothelial), mRNA, gene-expression profiling by real-time quantitative PCR of 5 genes (MDK, HOXA13, CDC2 [CDK1], IGFBP5, and CXCR2), utilizing urine, algorithm incorporates age, sex, smoking history, and macrohematuria frequency, reported as a risk score for having urothelial carcinoma",
+      "codes": [
+        "0363U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Proprietary Test: CxbladderTM Triage",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Proprietary Test: CxbladderTM Triage",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Proprietary Test: CxbladderTM Triage",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Lab/Manufacturer: Pacific Edge Diagnostics USA, Ltd, Pacific Edge Diagnostics USA, Ltd 0365U*** Oncology (bladder), 10 protein biomarkers (A1AT, ANG, APOE, CA9, IL8, MMP9, MMP10, PAI1, SDC1, and VEGFA) by immunoassays, urine, diagnostic algorithm, including patient's age, race, and gender, reported as a probability of harboring urothelial cancer",
+      "codes": [
+        "0365U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: DiaCarta Clinical Lab, DiaCarta, Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: DiaCarta Clinical Lab, DiaCarta, Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: DiaCarta Clinical Lab, DiaCarta, Inc",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0366U*** Oncology (bladder), analysis of 10 protein biomarkers (A1AT, ANG, APOE, CA9, IL8, MMP9, MMP10, PAI1, SDC1 and VEGFA) by immunoassays, urine, algorithm reported as a probability of recurrent bladder cancer Proprietary Test: Oncuria® Monitor,",
+      "codes": [
+        "0366U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: DiaCarta Clinical Lab, DiaCarta, Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: DiaCarta Clinical Lab, DiaCarta, Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: DiaCarta Clinical Lab, DiaCarta, Inc",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0367U*** Oncology (bladder), analysis of 10 protein biomarkers (A1AT, ANG, APOE, CA9, IL8, MMP9, MMP10, PAI1, SDC1 and VEGFA) by immunoassays, urine, diagnostic algorithm reported as a risk score for probability of rapid recurrence of recurrent or persistent cancer following transurethral resection",
+      "codes": [
+        "0367U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: DiaCarta Clinical Lab, DiaCarta, Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: DiaCarta Clinical Lab, DiaCarta, Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: DiaCarta Clinical Lab, DiaCarta, Inc",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0420U** Oncology (urothelial), mRNA expression profiling by real-time quantitative PCR of MDK, HOXA13, CDC2, IGFBP5, and CXCR2 in combination with droplet digital PCR (ddPCR) analysis of 6 single-nucleotide polymorphisms (SNPs) genes TERT and FGFR3, urine, algorithm reported as a risk score for urothelial carcinoma",
+      "codes": [
+        "0420U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Proprietary Test: Cxbladder Triage Plus",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Proprietary Test: Cxbladder Triage Plus",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Proprietary Test: Cxbladder Triage Plus",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Lab/Manufacturer: Pacific Edge Diagnostics USA LTD, Pacific Edge Diagnostics USA LTD 0452U** Oncology (bladder), methylated PENK DNA detection by linear target enrichment-quantitative methylation-specific real-time PCR (LTE-qMSP), urine, reported as likelihood of bladder cancer Proprietary Test: EarlyTect® Bladder Cancer Detection (EarlyTect® BCD) Lab/Manufacturer: Promis Diagnostics, Inc, Promis Diagnostics, Inc 0465U** Oncology (urothelial carcinoma), DNA, quantitative methylation-specific PCR of 2 genes (ONECUT2, VIM), algorithmic analysis reported as positive or negative",
+      "codes": [
+        "0452U",
+        "0465U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: DiaCarta, Inc, AnchorDx",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: DiaCarta, Inc, AnchorDx",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: DiaCarta, Inc, AnchorDx",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0549U** Oncology (urothelial), DNA, quantitative methylated real-time PCR of TRNA-Cys, SIM2, and NKX1-1, using urine, diagnostic algorithm reported as a probability index for bladder cancer and/or upper tract urothelial carcinoma (UTUC)",
+      "codes": [
+        "0549U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Pangea Laboratory LLC, Pangea Laboratory LLC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Pangea Laboratory LLC, Pangea Laboratory LLC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Pangea Laboratory LLC, Pangea Laboratory LLC",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0613U** Oncology (urothelial carcinoma), DNA methylation and mutation analysis of 6 biomarkers (TWIST1, OTX1, ONECUT2, FGFR3, HRAS, TERT promoter region), methylation-specific PCR and targeted next-generation sequencing, urine, algorithm reported as a probability index for bladder cancer and upper tract urothelial carcinoma",
+      "codes": [
+        "0613U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Vesica Health® Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Vesica Health® Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Vesica Health® Inc",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "*The payment criteria for 86294, 86386 and 86316 apply to all Medicare jurisdictions, except those states awarded to CGS Administrators, Noridian Healthcare",
+      "codes": [
+        "86294",
+        "86386",
+        "86316"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab/Manufacturer: Vesica Health® Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Vesica Health® Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Vesica Health® Inc",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Solutions, and Palmetto GBA.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Vesica Health® Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Vesica Health® Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Vesica Health® Inc",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "** The payment criteria for 0012M, 0013M, 0363U, 0420U, 0452U, 0465U, 0549U, and 0613U apply to all Medicare jurisdictions, except those states awarded to CGS",
+      "codes": [
+        "0012M",
+        "0013M",
+        "0363U",
+        "0420U",
+        "0452U",
+        "0465U",
+        "0549U",
+        "0613U"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab/Manufacturer: Vesica Health® Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Vesica Health® Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Vesica Health® Inc",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Administrators, Noridian Healthcare Solutions, Palmetto GBA and WPS Insurance Corporation.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Vesica Health® Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Vesica Health® Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Vesica Health® Inc",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "*** The payment criteria for 0365U, 0366U, 0367U apply to all Medicare jurisdictions, except those states awarded to CGS Administrators, Noridian Healthcare",
+      "codes": [
+        "0365U",
+        "0366U",
+        "0367U"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab/Manufacturer: Vesica Health® Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Vesica Health® Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Vesica Health® Inc",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Solutions, Palmetto GBA, and WPS Insurance Corporation.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Pathology and Genetic Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Pathology and Genetic Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Pathology and Genetic Testing",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "A58917 0012M 0013M 0363U 0420U First Coast Service Options,",
+      "codes": [
+        "0012M",
+        "0013M",
+        "0363U",
+        "0420U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Pathology and Genetic Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Pathology and Genetic Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Pathology and Genetic Testing",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "A58918 0012M 0013M 0363U 0420U",
+      "codes": [
+        "0012M",
+        "0013M",
+        "0363U",
+        "0420U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Markers",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Markers",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Markers",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L36975 86294 86316 86386",
+      "codes": [
+        "86294",
+        "86316",
+        "86386"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L36021 0012M 0013M 0363U 0365U 0366U 0367U 0420U 0452U 0465U 0549U 0613U",
+      "codes": [
+        "0012M",
+        "0013M",
+        "0363U",
+        "0365U",
+        "0366U",
+        "0367U",
+        "0420U",
+        "0452U",
+        "0465U",
+        "0549U",
+        "0613U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tumor Markers",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tumor Markers",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tumor Markers",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L36678 86294 86316 86386",
+      "codes": [
+        "86294",
+        "86316",
+        "86386"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L35160 0012M 0013M 0363U 0365U 0366U 0367U 0420U 0452U 0465U 0549U 0613U",
+      "codes": [
+        "0012M",
+        "0013M",
+        "0363U",
+        "0365U",
+        "0366U",
+        "0367U",
+        "0420U",
+        "0452U",
+        "0465U",
+        "0549U",
+        "0613U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tumor Markers",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tumor Markers",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tumor Markers",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L33420 86294 86316 86386",
+      "codes": [
+        "86294",
+        "86316",
+        "86386"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L35025 0012M 0013M 0363U",
+      "codes": [
+        "0012M",
+        "0013M",
+        "0363U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Procedure code",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Procedure code",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Procedure code",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "0365U 0366U 0367U 0420U 0452U 0465U 0549U 0613U",
+      "codes": [
+        "0365U",
+        "0366U",
+        "0367U",
+        "0420U",
+        "0452U",
+        "0465U",
+        "0549U",
+        "0613U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "L36807 0012M 0013M 0363U 0365U 0366U 0367U 0420U 0452U 0465U 0549U 0613U",
+      "codes": [
+        "0012M",
+        "0013M",
+        "0363U",
+        "0365U",
+        "0366U",
+        "0367U",
+        "0420U",
+        "0452U",
+        "0465U",
+        "0549U",
+        "0613U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Abbott. ALERE NMP22® BLADDERCHEK®. https://www.globalpointofcare.abbott/en/product-details/nmp22-bladderchek.html ACS. Key Statistics for Bladder Cancer. Updated March 12, 2024. https://www.cancer.org/cancer/types/bladder-cancer/about/key- statistics.html AroCell. Bladder Cancer Detection. https://arocell.com/products/oncology/ubc-rapid/ Babjuk M, Burger M, Capoun O, et al. European Association of Urology Guidelines on Non-muscle-invasive Bladder Cancer (Ta, T1, and Carcinoma in Situ). European Urology. 2022;81(1):75-94. doi:10.1016/j.eururo.2021.08.010 Barocas DA, Boorjian SA, Alvarez RD, et al. Microhematuria: AUA/SUFU Guideline. The Journal of urology. Oct 2020;204(4):778-786. doi:10.1097/ju.0000000000001297 Bhindi B, Kool R, Kulkarni GS, et al. Canadian Urological Association guideline on the management of non-muscle-invasive bladder cancer - Full-text. Can Urol Assoc J 2021 Breen V, Kasabov N, Kamat AM, et al. A holistic comparative analysis of diagnostic tests for urothelial carcinoma: a study of Cxbladder Detect, UroVysion® FISH, NMP22® and cytology based on imputation of multiple datasets. BMC medical research methodology. 2015;15:45-45. doi:10.1186/s12874-015-0036-8 Chang SS, Bochner BH, Chou R, et al. Treatment of Non-Metastatic Muscle-Invasive Bladder Cancer: AUA/ASCO/ASTRO/SUO Guideline. The Journal of urology. Sep 2017;198(3):552-559. doi:10.1016/j.juro.2017.04.086 Chang SS, Boorjian SA, Chou R, et al. Diagnosis and Treatment of Non-Muscle Invasive Bladder Cancer: AUA/SUO Guideline. The Journal of urology. Oct 2020;196(4):1021-9. doi:10.1016/j.juro.2016.06.049 Chou R, Dana T. Screening adults for bladder cancer: A review of the evidence for the u.s. preventive services task force. Annals of Internal Medicine. 2010;153(7):461-468. doi:10.7326/0003-4819-153-7-201010050-00009 Chou R, Gore JL, Buckley D, et al. Urinary Biomarkers for Diagnosis of Bladder Cancer: A Systematic Review and Meta-analysis. Ann",
+      "codes": [
+        "00009"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Intern Med. Dec 15 2015;163(12):922-31. doi:10.7326/m15-0997",
+      "section": "References",
+      "subsection": "Intern Med. Dec 15 2015;163(12):922-31. doi:10.7326/m15-0997",
+      "hierarchy_path": "References > Intern Med. Dec 15 2015;163(12):922-31. doi:10.7326/m15-0997",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "D'Andrea D, Soria F, Zehetmayer S, et al. Diagnostic accuracy, clinical utility and influence on decision-making of a methylation urine biomarker test in the surveillance of non-muscle-invasive bladder cancer. BJU Int. Jun 2019;123(6):959-967. doi:10.1111/bju.14673 Darwiche F, Parekh DJ, Gonzalgo ML. Biomarkers for non-muscle invasive bladder cancer: Current tests and future promise. Indian journal of urology : IJU : journal of the Urological Society of India. Oct-Dec 2015;31(4):273-82. doi:10.4103/0970-1591.166448 Davis R, Jones JS, Barocas DA, et al. Diagnosis, evaluation and follow-up of asymptomatic microhematuria (AMH) in adults: AUA guideline. The Journal of urology. Dec 2012;188(6 Suppl):2473-81. doi:10.1016/j.juro.2012.09.078",
+      "codes": [
+        "14673"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Intern Med. Dec 15 2015;163(12):922-31. doi:10.7326/m15-0997",
+      "section": "References",
+      "subsection": "Intern Med. Dec 15 2015;163(12):922-31. doi:10.7326/m15-0997",
+      "hierarchy_path": "References > Intern Med. Dec 15 2015;163(12):922-31. doi:10.7326/m15-0997",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "D'Costa JJ, Goldsmith JC, Wilson JS, Bryan RT, Ward DG. A Systematic Review of the Diagnostic and Prognostic Value of Urinary Protein Biomarkers in Urothelial Bladder Cancer. Bladder cancer (Amsterdam, Netherlands). 2016;2(3):301-317. doi:10.3233/blc-160054 DeGeorge KC, Holt HR, Hodges SC. Bladder Cancer: Diagnosis and Treatment. 2017;(1532-0650 (Electronic)) D'Elia C, Folchini DM, Mian C, et al. Diagnostic value of Xpert(®) Bladder Cancer Monitor in the follow-up of patients affected by non-muscle invasive bladder cancer: an update. Ther Adv Urol. Jan-Dec 2021;13:1756287221997183. doi:10.1177/1756287221997183 Dudley JC, Schroers-Martin J, Lazzareschi DV, et al. Detection and Surveillance of Bladder Cancer Using Urine Tumor DNA. Cancer",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Discov. Apr 2019;9(4):500-509. doi:10.1158/2159-8290.Cd-18-0825",
+      "section": "References",
+      "subsection": "Discov. Apr 2019;9(4):500-509. doi:10.1158/2159-8290.Cd-18-0825",
+      "hierarchy_path": "References > Discov. Apr 2019;9(4):500-509. doi:10.1158/2159-8290.Cd-18-0825",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "EAU. EAU Guidelines on Non-muscle Invasive Bladder Cancer. https://uroweb.org/guidelines/non-muscle-invasive-bladder-cancer Ecke TH, Weiß S, Stephan C, et al. UBC(®) Rapid Test-A Urinary Point-of-Care (POC) Assay for Diagnosis of Bladder Cancer with a focus on Non-Muscle Invasive High-Grade Tumors: Results of a Multicenter-Study. Int J Mol Sci. Dec 2 2018;19(12)doi:10.3390/ijms19123841 Fantony JJ, Longo TA, Gopalakrishna A, et al. Urinary NID2 and TWIST1 methylation to augment conventional urine cytology for the detection of bladder cancer. Cancer Biomark. 2017;18(4):381-387. doi:10.3233/cbm-160261 FDA. 510(k) number: K994356. https://www.accessdata.fda.gov/cdrh_docs/pdf/K994356.pdf FDA. 510(k) Summary Information. https://www.accessdata.fda.gov/cdrh_docs/pdf/K964151.pdf FDA. 510(k) Summary Information. https://www.accessdata.fda.gov/cdrh_docs/pdf/K971402.pdf FDA. 510(k) Summary. https://www.accessdata.fda.gov/cdrh_docs/pdf2/K021231.pdf FDA. Premarket Approval. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P940035 FDA. Premarket Approval. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P030052 Grossman H, Messing E, Soloway M, et al. Detection of bladder cancer using a point-of-care proteomic assay. JAMA. 2005;293(7):810-816. doi:10.1001/jama.293.7.810 Halpern JA, Chughtai B, Ghomrawi H. Cost-effectiveness of Common Diagnostic Approaches for Evaluation of Asymptomatic Microscopic Hematuria. JAMA internal medicine. Jun 2017;177(6):800-807. doi:10.1001/jamainternmed.2017.0739 Hirasawa Y, Pagano I, Chen R, et al. Diagnostic performance of OncuriaTM, a urinalysis test for bladder cancer. Journal of Translational Medicine. 2021/04/06 2021;19(1):141. doi:10.1186/s12967-021-02796-4 Holzbeierlein J BB, Buckley DI, et al. Diagnosis and Treatment of Non-Muscle Invasive Bladder Cancer: AUA/SUO Guideline: 2024",
+      "codes": [
+        "02796"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Amendment. Journal of Urology [Internet]. 2024 Apr 1 2024",
+      "section": "References",
+      "subsection": "Amendment. Journal of Urology [Internet]. 2024 Apr 1 2024",
+      "hierarchy_path": "References > Amendment. Journal of Urology [Internet]. 2024 Apr 1 2024",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Holzbeierlein J BB, Buckley DI, et al. Treatment of non-metastatic muscle-invasive bladder cancer: AUA/ASCO/SUO guideline (2017; amended 2020, 2024). J Urol. 2024 Hottinger AF, Hormigo A. Serum Biomarkers. In: Schwab M, ed. Encyclopedia of Cancer. Springer Berlin Heidelberg; 2011:3390-3394. Kaufman DS, Shipley WU, Feldman AS. Bladder cancer. Lancet (London, England). Jul 18 2009;374(9685):239-49. doi:10.1016/s0140- 6736(09)60491-8 KDx Diagnostics. URO17® A Better test For Better Health. https://kdxdiagnostics.com/uro17/ Landaas EJ, Eckel AM, Wright JL, Baird GS, Hansen RN, Sullivan SD. Application of Health Technology Assessment (HTA) to Evaluate New Laboratory Tests in a Health System: A Case Study of Bladder Cancer Testing. Acad Pathol. Jan-Dec 2020;7:2374289520968225. doi:10.1177/2374289520968225 Lerner SP, Raghavan, Derek. Overview of the initial approach and management of urothelial bladder cancer. Updated July 29, 2024. https://www.uptodate.com/contents/overview-of-the-initial-approach-and-management-of-urothelial-bladder-cancer Li HT, Duymich CE, Weisenberger DJ, Liang G. Genetic and Epigenetic Alterations in Bladder Cancer. Int Neurourol J. Nov 2016;20(Suppl 2):S84-94. doi:10.5213/inj.1632752.376 Lopez-Beltran A, Cheng L, Gevaert T, et al. Current and emerging bladder cancer biomarkers with an emphasis on urine biomarkers. Expert Rev Mol Diagn. Dec 11 2019:1-13. doi:10.1080/14737159.2020.1699791 Lotan Y, Choueiri T. Clinical presentation, diagnosis, and staging of bladder cancer. Updated February 25, 2025. https://www.uptodate.com/contents/clinical-presentation-diagnosis-and-staging-of-bladder-cancer Lotan Y, Elias K, Svatek RS, et al. Bladder cancer screening in a high risk asymptomatic population using a point of care urine based protein tumor marker. The Journal of urology. Jul 2009;182(1):52-7; discussion 58. doi:10.1016/j.juro.2009.02.142 Lotan Y, Roehrborn CG. Sensitivity and specificity of commonly available bladder tumor markers versus cytology: results of a comprehensive literature review and meta-analyses. Urology. 2003;61(1):109-118. doi:10.1016/S0090-4295(02)02136-2",
+      "codes": [
+        "60491",
+        "S0090",
+        "02136"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Amendment. Journal of Urology [Internet]. 2024 Apr 1 2024",
+      "section": "References",
+      "subsection": "Amendment. Journal of Urology [Internet]. 2024 Apr 1 2024",
+      "hierarchy_path": "References > Amendment. Journal of Urology [Internet]. 2024 Apr 1 2024",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "Mahnert B, Tauber S, Kriegmair M, et al. BTA-TRAK--a useful diagnostic tool in urinary bladder cancer? Anticancer research. Jul-Aug 1999;19(4a):2615-9 Meleth S, Reeder-Hayes K, Ashok M, et al. AHRQ Technology Assessments. Technology Assessment of Molecular Pathology Testing for the Estimation of Prognosis for Common Cancers. Agency for Healthcare Research and Quality (US); 2014 Mitra A, Birkman M, Penson D, Cote R. Urine biomarkers for the detection of urothelial (transitional cell) carcinoma of the bladder Updated January 18, 2024. https://www.uptodate.com/contents/urine-biomarkers-for-the-detection-of-urothelial-transitional- cell-carcinoma-of-the-bladder Monteiro LL, Witjes JA, Agarwal PK, et al. ICUD-SIU International Consultation on Bladder Cancer 2017: management of non-muscle invasive bladder cancer. 2018:1-10 Mossanen M, Wang Y, Szymaniak J, et al. Evaluating the cost of surveillance for non-muscle-invasive bladder cancer: an analysis based on risk categories. World J Urol. Oct 2019;37(10):2059-2065. doi:10.1007/s00345-018-2550-x Moyer VA. Screening for bladder cancer: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med. Aug 16 2011;155(4):246-51. doi:10.7326/0003-4819-155-4-201108160-00008 NCCN. NCCN Guidelines Version 5.2024 Bladder Cancer. Updated October 28, 2024. https://www.nccn.org/professionals/physician_gls/pdf/bladder.pdf NCI. Bladder and Other Urothelial Cancers Screening (PDQ®)-Health Professional Version. U.S. Department of Health and Human Services. Accessed 12/12/2024, https://www.cancer.gov/types/bladder/hp/bladder-screening-pdq NICE. URO17 for detecting bladder cancer. Updated February 4, 2021. https://www.nice.org.uk/advice/mib250/chapter/The- technology Nonagen Bioscience. Bladder Cancer. https://www.nonagen.com/products Nucleix. BLADDER EPICHECK https://www.nucleix.com/bladder-epicheck/ Pangea. Features of Bladder CARETM. https://pangealab.com/bladder-care/ Pangea. Pangea® Laboratory to License Bladder CARETM Technology from Zymo Research. https://www.prnewswire.com/news- releases/pangea-laboratory-to-license-bladder-care-technology-from-zymo-research-300800622.html Perazalla M. Evaluation of hematuria in adults. Updated December 18, 2024. https://www.uptodate.com/contents/evaluation-of- hematuria-in-adults Piao XM, Jeong P, Kim YH, et al. Urinary cell-free microRNA biomarker could discriminate bladder cancer from benign hematuria. Int",
+      "codes": [
+        "00008"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "J Cancer. Jan 15 2019;144(2):380-388. doi:10.1002/ijc.31849",
+      "section": "References",
+      "subsection": "J Cancer. Jan 15 2019;144(2):380-388. doi:10.1002/ijc.31849",
+      "hierarchy_path": "References > J Cancer. Jan 15 2019;144(2):380-388. doi:10.1002/ijc.31849",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "Pichler R, Fritz J, Tulchiner G, et al. Increased accuracy of a novel mRNA-based urine test for bladder cancer surveillance. BJU Int. Jan 2018;121(1):29-37. doi:10.1111/bju.14019 Sathianathen NJ, Butaney M, Weight CJ, Kumar R, Konety BR. Urinary Biomarkers in the Evaluation of Primary Hematuria: A Systematic Review and Meta-Analysis. Bladder cancer (Amsterdam, Netherlands). 2018;4(4):353-63 Schmitz-Dräger BJ, Droller M, Lokeshwar VB, et al. Molecular Markers for Bladder Cancer Screening, Early Diagnosis, and Surveillance: The WHO/ICUD Consensus. Urologia Internationalis. 2015;94(1):1-24. doi:10.1159/000369357 Soubra A, Risk MC. Diagnostics techniques in nonmuscle invasive bladder cancer. Indian journal of urology : IJU : journal of the Urological Society of India. Oct-Dec 2015;31(4):283-8. doi:10.4103/0970-1591.166449 Stecca C, Chowdhury D, Blais N, et al. 2024 CUA-GUMOC Expert Report: Management of unresectable locally advanced and metastatic urothelial carcinoma. Can Urol Assoc J. 2024;18(12):379-90 Sutton AJ, Lamont JV, Evans RM, et al. An early analysis of the cost-effectiveness of a diagnostic classifier for risk stratification of haematuria patients (DCRSHP) compared to flexible cystoscopy in the diagnosis of bladder cancer. PloS one. 2018;13(8):e0202796. doi:10.1371/journal.pone.0202796 Tan WS, Tan WP, Tan MY, et al. Novel urinary biomarkers for the detection of bladder cancer: A systematic review. Cancer Treat",
+      "codes": [
+        "14019"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Rev. Sep 2018;69:39-52. doi:10.1016/j.ctrv.2018.05.012",
+      "section": "References",
+      "subsection": "Rev. Sep 2018;69:39-52. doi:10.1016/j.ctrv.2018.05.012",
+      "hierarchy_path": "References > Rev. Sep 2018;69:39-52. doi:10.1016/j.ctrv.2018.05.012",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "USPSTF. Bladder Cancer in Adults: Screening. https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/bladder- cancer-in-adults-screening Vasdev N, Hampson A, Agarwal S, et al. The role of URO17TM biomarker to enhance diagnosis of urothelial cancer in new hematuria patients-First European Data. BJUI Compass. 2021;2(1):46-52. doi:10.1002/bco2.50 Vasdev, Hampson A, Agarwal S, et al. The role of URO17TM biomarker to enhance diagnosis of urothelial cancer in new hematuria patients-First European Data. BJUI Compass. Jan 2021;2(1):46-52. doi:10.1002/bco2.50 Witjes JA, Bruins HM, Cathomas R, et al. Muscle-invasive and Metastatic Bladder Cancer. https://doi.org/10.1016/j.eururo.2023.08.016",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Rev. Sep 2018;69:39-52. doi:10.1016/j.ctrv.2018.05.012",
+      "section": "References",
+      "subsection": "Rev. Sep 2018;69:39-52. doi:10.1016/j.ctrv.2018.05.012",
+      "hierarchy_path": "References > Rev. Sep 2018;69:39-52. doi:10.1016/j.ctrv.2018.05.012",
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content": "Zuiverloon TCM, de Jong FC, Theodorescu D. Clinical Decision Making in Surveillance of Non-Muscle-Invasive Bladder Cancer: The Evolving Roles of Urinary Cytology and Molecular Markers. Oncology (Williston Park, NY). Dec 15 2017;31(12):855-62",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 86294*: 86316* | Procedure code:  | Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen): Immunoassay for tumor antigen; other antigen, quantitative, (eg, CA 50, 72-4, 549) each | Code description: ",
+      "codes": [
+        "86294",
+        "86316"
+      ],
+      "table_data": {
+        "columns": [
+          "86294*",
+          "Procedure code",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)",
+          "Code description"
+        ],
+        "row": {
+          "86294*": "86316*",
+          "Procedure code": "",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)": "Immunoassay for tumor antigen; other antigen, quantitative, (eg, CA 50, 72-4, 549) each",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 86294*: 86386* | Procedure code:  | Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen): Nuclear matrix protein 22 (nmp22), qualitative | Code description: ",
+      "codes": [
+        "86294",
+        "86386"
+      ],
+      "table_data": {
+        "columns": [
+          "86294*",
+          "Procedure code",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)",
+          "Code description"
+        ],
+        "row": {
+          "86294*": "86386*",
+          "Procedure code": "",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)": "Nuclear matrix protein 22 (nmp22), qualitative",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 86294*: 88346 | Procedure code:  | Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen):  | Code description: Immunofluorescence, per specimen; initial single antibody stain procedure",
+      "codes": [
+        "86294",
+        "88346"
+      ],
+      "table_data": {
+        "columns": [
+          "86294*",
+          "Procedure code",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)",
+          "Code description"
+        ],
+        "row": {
+          "86294*": "88346",
+          "Procedure code": "",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)": "",
+          "Code description": "Immunofluorescence, per specimen; initial single antibody stain procedure"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 86294*: 88350 | Procedure code:  | Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen):  | Code description: Immunofluorescence, per specimen; each additional single antibody stain procedure (List separately in",
+      "codes": [
+        "86294",
+        "88350"
+      ],
+      "table_data": {
+        "columns": [
+          "86294*",
+          "Procedure code",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)",
+          "Code description"
+        ],
+        "row": {
+          "86294*": "88350",
+          "Procedure code": "",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)": "",
+          "Code description": "Immunofluorescence, per specimen; each additional single antibody stain procedure (List separately in"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 86294*:  | Procedure code:  | Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen):  | Code description: addition to code for primary procedure)",
+      "codes": [
+        "86294"
+      ],
+      "table_data": {
+        "columns": [
+          "86294*",
+          "Procedure code",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)",
+          "Code description"
+        ],
+        "row": {
+          "86294*": "",
+          "Procedure code": "",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)": "",
+          "Code description": "addition to code for primary procedure)"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 86294*: 0012M** | Procedure code:  | Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen):  | Code description: Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+      "codes": [
+        "86294",
+        "0012M"
+      ],
+      "table_data": {
+        "columns": [
+          "86294*",
+          "Procedure code",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)",
+          "Code description"
+        ],
+        "row": {
+          "86294*": "0012M**",
+          "Procedure code": "",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)": "",
+          "Code description": "Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 86294*:  | Procedure code:  | Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen):  | Code description: HOXA13, CDC2 [CDK1], IGFBP5, and CXCR2), utilizing urine, algorithm reported as a risk score for having",
+      "codes": [
+        "86294"
+      ],
+      "table_data": {
+        "columns": [
+          "86294*",
+          "Procedure code",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)",
+          "Code description"
+        ],
+        "row": {
+          "86294*": "",
+          "Procedure code": "",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)": "",
+          "Code description": "HOXA13, CDC2 [CDK1], IGFBP5, and CXCR2), utilizing urine, algorithm reported as a risk score for having"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 86294*:  | Procedure code:  | Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen):  | Code description: urothelial carcinoma",
+      "codes": [
+        "86294"
+      ],
+      "table_data": {
+        "columns": [
+          "86294*",
+          "Procedure code",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)",
+          "Code description"
+        ],
+        "row": {
+          "86294*": "",
+          "Procedure code": "",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)": "",
+          "Code description": "urothelial carcinoma"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 86294*:  | Procedure code:  | Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen):  | Code description: Proprietary Test: Cxbladder Detect",
+      "codes": [
+        "86294"
+      ],
+      "table_data": {
+        "columns": [
+          "86294*",
+          "Procedure code",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)",
+          "Code description"
+        ],
+        "row": {
+          "86294*": "",
+          "Procedure code": "",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)": "",
+          "Code description": "Proprietary Test: Cxbladder Detect"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 86294*:  | Procedure code:  | Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen):  | Code description: Lab/Manufacturer: Pacific Edge Limited",
+      "codes": [
+        "86294"
+      ],
+      "table_data": {
+        "columns": [
+          "86294*",
+          "Procedure code",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)",
+          "Code description"
+        ],
+        "row": {
+          "86294*": "",
+          "Procedure code": "",
+          "Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen)": "",
+          "Code description": "Lab/Manufacturer: Pacific Edge Limited"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: HOXA13, CDC2 [CDK1], IGFBP5, and CXCR2), utilizing urine, algorithm reported as a risk score for having |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "HOXA13, CDC2 [CDK1], IGFBP5, and CXCR2), utilizing urine, algorithm reported as a risk score for having"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: recurrent urothelial carcinoma |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "recurrent urothelial carcinoma"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Proprietary Test: Cxbladder Monitor |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Proprietary Test: Cxbladder Monitor"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Lab/Manufacturer: Pacific Edge Limited |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Lab/Manufacturer: Pacific Edge Limited"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**: 0363U** | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Oncology (urothelial), mRNA, gene-expression profiling by real-time quantitative PCR of 5 genes (MDK, |  | ",
+      "codes": [
+        "0013M",
+        "0363U"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "0363U**",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Oncology (urothelial), mRNA, gene-expression profiling by real-time quantitative PCR of 5 genes (MDK,"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: HOXA13, CDC2 [CDK1], IGFBP5, and CXCR2), utilizing urine, algorithm incorporates age, sex, smoking |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "HOXA13, CDC2 [CDK1], IGFBP5, and CXCR2), utilizing urine, algorithm incorporates age, sex, smoking"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: history, and macrohematuria frequency, reported as a risk score for having urothelial carcinoma |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "history, and macrohematuria frequency, reported as a risk score for having urothelial carcinoma"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Proprietary Test: | CxbladderTM Triage | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Proprietary Test:"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Lab/Manufacturer: |  | Pacific Edge Diagnostics USA, Ltd, Pacific Edge Diagnostics USA, Ltd",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Lab/Manufacturer:"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**: 0365U*** | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Oncology (bladder), 10 protein biomarkers (A1AT, ANG, APOE, CA9, IL8, MMP9, MMP10, PAI1, SDC1, and |  | ",
+      "codes": [
+        "0013M",
+        "0365U"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "0365U***",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Oncology (bladder), 10 protein biomarkers (A1AT, ANG, APOE, CA9, IL8, MMP9, MMP10, PAI1, SDC1, and"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: VEGFA) by immunoassays, urine, diagnostic algorithm, including patient's age, race, and gender, reported |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "VEGFA) by immunoassays, urine, diagnostic algorithm, including patient's age, race, and gender, reported"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: as a probability of harboring urothelial cancer |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "as a probability of harboring urothelial cancer"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Proprietary Test: |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Proprietary Test:"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Lab/Manufacturer: |  | DiaCarta Clinical Lab, DiaCarta, Inc",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Lab/Manufacturer:"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**: 0366U*** | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Oncology (bladder), analysis of 10 protein biomarkers (A1AT, ANG, APOE, CA9, IL8, MMP9, MMP10, PAI1, |  | ",
+      "codes": [
+        "0013M",
+        "0366U"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "0366U***",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Oncology (bladder), analysis of 10 protein biomarkers (A1AT, ANG, APOE, CA9, IL8, MMP9, MMP10, PAI1,"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: SDC1 and VEGFA) by immunoassays, urine, algorithm reported as a probability of recurrent bladder |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "SDC1 and VEGFA) by immunoassays, urine, algorithm reported as a probability of recurrent bladder"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: cancer |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "cancer"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Proprietary Test: |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Proprietary Test:"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Lab/Manufacturer: |  | DiaCarta Clinical Lab, DiaCarta, Inc",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Lab/Manufacturer:"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**: 0367U*** | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Oncology (bladder), analysis of 10 protein biomarkers (A1AT, ANG, APOE, CA9, IL8, MMP9, MMP10, PAI1, |  | ",
+      "codes": [
+        "0013M",
+        "0367U"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "0367U***",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Oncology (bladder), analysis of 10 protein biomarkers (A1AT, ANG, APOE, CA9, IL8, MMP9, MMP10, PAI1,"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: SDC1 and VEGFA) by immunoassays, urine, diagnostic algorithm reported as a risk score for probability of |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "SDC1 and VEGFA) by immunoassays, urine, diagnostic algorithm reported as a risk score for probability of"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: rapid recurrence of recurrent or persistent cancer following transurethral resection |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "rapid recurrence of recurrent or persistent cancer following transurethral resection"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Proprietary Test: |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Proprietary Test:"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Lab/Manufacturer: |  | DiaCarta Clinical Lab, DiaCarta, Inc",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Lab/Manufacturer:"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**: 0420U** | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Oncology (urothelial), mRNA expression profiling by real-time quantitative PCR of MDK, HOXA13, CDC2, |  | ",
+      "codes": [
+        "0013M",
+        "0420U"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "0420U**",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Oncology (urothelial), mRNA expression profiling by real-time quantitative PCR of MDK, HOXA13, CDC2,"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: IGFBP5, and CXCR2 in combination with droplet digital PCR (ddPCR) analysis of 6 single-nucleotide |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "IGFBP5, and CXCR2 in combination with droplet digital PCR (ddPCR) analysis of 6 single-nucleotide"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: polymorphisms (SNPs) genes TERT and FGFR3, urine, algorithm reported as a risk score for urothelial |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "polymorphisms (SNPs) genes TERT and FGFR3, urine, algorithm reported as a risk score for urothelial"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: carcinoma |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "carcinoma"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Proprietary Test: |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Proprietary Test:"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Lab/Manufacturer: |  | Pacific Edge Diagnostics USA LTD, Pacific Edge Diagnostics USA LTD",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Lab/Manufacturer:"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**: 0452U** | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Oncology (bladder), methylated PENK DNA detection by linear target enrichment-quantitative |  | ",
+      "codes": [
+        "0013M",
+        "0452U"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "0452U**",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Oncology (bladder), methylated PENK DNA detection by linear target enrichment-quantitative"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: methylation-specific real-time PCR (LTE-qMSP), urine, reported as likelihood of bladder cancer |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "methylation-specific real-time PCR (LTE-qMSP), urine, reported as likelihood of bladder cancer"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Proprietary Test: |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Proprietary Test:"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Lab/Manufacturer: |  | Promis Diagnostics, Inc, Promis Diagnostics, Inc",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Lab/Manufacturer:"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**: 0465U** | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Oncology (urothelial carcinoma), DNA, quantitative methylation-specific PCR of 2 genes (ONECUT2, VIM), |  | ",
+      "codes": [
+        "0013M",
+        "0465U"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "0465U**",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Oncology (urothelial carcinoma), DNA, quantitative methylation-specific PCR of 2 genes (ONECUT2, VIM),"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: algorithmic analysis reported as positive or negative |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "algorithmic analysis reported as positive or negative"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Proprietary Test: |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Proprietary Test:"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Lab/Manufacturer: |  | DiaCarta, Inc, AnchorDx",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Lab/Manufacturer:"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**: 0549U** | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Oncology (urothelial), DNA, quantitative methylated real-time PCR of TRNA-Cys, SIM2, and NKX1-1, using |  | ",
+      "codes": [
+        "0013M",
+        "0549U"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "0549U**",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Oncology (urothelial), DNA, quantitative methylated real-time PCR of TRNA-Cys, SIM2, and NKX1-1, using"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: urine, diagnostic algorithm reported as a probability index for bladder cancer and/or upper tract |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "urine, diagnostic algorithm reported as a probability index for bladder cancer and/or upper tract"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: urothelial carcinoma (UTUC) |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "urothelial carcinoma (UTUC)"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Proprietary Test: |  | ",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Proprietary Test:"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**:  | Procedure code:  |  | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,: Lab/Manufacturer: |  | Pangea Laboratory LLC, Pangea Laboratory LLC",
+      "codes": [
+        "0013M"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": "Lab/Manufacturer:"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 0013M**: 0613U** | Procedure code:  | Oncology (urothelial carcinoma), DNA methylation and mutation analysis of 6 biomarkers (TWIST1, OTX1,\nONECUT2, FGFR3, HRAS, TERT promoter region), methylation-specific PCR and targeted next-generation\nsequencing, urine, algorithm reported as a probability index for bladder cancer and upper tract urothelial\ncarcinoma\nProprietary Test: AssureMDxTM\nLab/Manufacturer: Vesica Health® Inc | Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,:  |  | ",
+      "codes": [
+        "0013M",
+        "0613U"
+      ],
+      "table_data": {
+        "columns": [
+          "0013M**",
+          "Procedure code",
+          "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,",
+          "",
+          ""
+        ],
+        "row": {
+          "0013M**": "0613U**",
+          "Procedure code": "",
+          "Code description Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK,": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] Novitas Solutions, Inc: First Coast Service Options,\nInc | Contractor name:  | Billing and Coding: Molecular\nPathology and Genetic Testing: Billing and Coding: Molecular\nPathology and Genetic Testing | Policy title:  | A58917: A58918 | Policy number:  | 0012M\n0013M\n0363U\n0420U: 0012M\n0013M\n0363U\n0420U | Procedure code: ",
+      "codes": [
+        "0012M",
+        "0013M",
+        "0363U",
+        "0420U"
+      ],
+      "table_data": {
+        "columns": [
+          "Novitas Solutions, Inc",
+          "Contractor name",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title",
+          "A58917",
+          "Policy number",
+          "0012M\n0013M\n0363U\n0420U",
+          "Procedure code"
+        ],
+        "row": {
+          "Novitas Solutions, Inc": "First Coast Service Options,\nInc",
+          "Contractor name": "",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing": "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title": "",
+          "A58917": "A58918",
+          "Policy number": "",
+          "0012M\n0013M\n0363U\n0420U": "0012M\n0013M\n0363U\n0420U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] Novitas Solutions, Inc: CGS Administrators, LLC | Contractor name:  | Billing and Coding: Molecular\nPathology and Genetic Testing: Bladder/Urothelial Tumor\nMarkers | Policy title:  | A58917: L36975 | Policy number:  | 0012M\n0013M\n0363U\n0420U: 86294\n86316\n86386 | Procedure code: ",
+      "codes": [
+        "0012M",
+        "0013M",
+        "0363U",
+        "0420U",
+        "86294",
+        "86316",
+        "86386"
+      ],
+      "table_data": {
+        "columns": [
+          "Novitas Solutions, Inc",
+          "Contractor name",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title",
+          "A58917",
+          "Policy number",
+          "0012M\n0013M\n0363U\n0420U",
+          "Procedure code"
+        ],
+        "row": {
+          "Novitas Solutions, Inc": "CGS Administrators, LLC",
+          "Contractor name": "",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing": "Bladder/Urothelial Tumor\nMarkers",
+          "Policy title": "",
+          "A58917": "L36975",
+          "Policy number": "",
+          "0012M\n0013M\n0363U\n0420U": "86294\n86316\n86386",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] Novitas Solutions, Inc: CGS Administrators, LLC | Contractor name:  | Billing and Coding: Molecular\nPathology and Genetic Testing: MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | A58917: L36021 | Policy number:  | 0012M\n0013M\n0363U\n0420U: 0012M\n0013M\n0363U\n0365U\n0366U\n0367U\n0420U\n0452U\n0465U\n0549U\n0613U | Procedure code: ",
+      "codes": [
+        "0012M",
+        "0013M",
+        "0363U",
+        "0420U",
+        "0365U",
+        "0366U",
+        "0367U",
+        "0452U",
+        "0465U",
+        "0549U",
+        "0613U"
+      ],
+      "table_data": {
+        "columns": [
+          "Novitas Solutions, Inc",
+          "Contractor name",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title",
+          "A58917",
+          "Policy number",
+          "0012M\n0013M\n0363U\n0420U",
+          "Procedure code"
+        ],
+        "row": {
+          "Novitas Solutions, Inc": "CGS Administrators, LLC",
+          "Contractor name": "",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "A58917": "L36021",
+          "Policy number": "",
+          "0012M\n0013M\n0363U\n0420U": "0012M\n0013M\n0363U\n0365U\n0366U\n0367U\n0420U\n0452U\n0465U\n0549U\n0613U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] Novitas Solutions, Inc: Noridian Healthcare\nSolutions, LLC | Contractor name:  | Billing and Coding: Molecular\nPathology and Genetic Testing: Lab: Bladder/Urothelial\nTumor Markers | Policy title:  | A58917: L36678 | Policy number:  | 0012M\n0013M\n0363U\n0420U: 86294\n86316\n86386 | Procedure code: ",
+      "codes": [
+        "0012M",
+        "0013M",
+        "0363U",
+        "0420U",
+        "86294",
+        "86316",
+        "86386"
+      ],
+      "table_data": {
+        "columns": [
+          "Novitas Solutions, Inc",
+          "Contractor name",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title",
+          "A58917",
+          "Policy number",
+          "0012M\n0013M\n0363U\n0420U",
+          "Procedure code"
+        ],
+        "row": {
+          "Novitas Solutions, Inc": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing": "Lab: Bladder/Urothelial\nTumor Markers",
+          "Policy title": "",
+          "A58917": "L36678",
+          "Policy number": "",
+          "0012M\n0013M\n0363U\n0420U": "86294\n86316\n86386",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] Novitas Solutions, Inc: Noridian Healthcare\nSolutions, LLC | Contractor name:  | Billing and Coding: Molecular\nPathology and Genetic Testing: MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | A58917: L35160 | Policy number:  | 0012M\n0013M\n0363U\n0420U: 0012M\n0013M\n0363U\n0365U\n0366U\n0367U\n0420U\n0452U\n0465U\n0549U\n0613U | Procedure code: ",
+      "codes": [
+        "0012M",
+        "0013M",
+        "0363U",
+        "0420U",
+        "0365U",
+        "0366U",
+        "0367U",
+        "0452U",
+        "0465U",
+        "0549U",
+        "0613U"
+      ],
+      "table_data": {
+        "columns": [
+          "Novitas Solutions, Inc",
+          "Contractor name",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title",
+          "A58917",
+          "Policy number",
+          "0012M\n0013M\n0363U\n0420U",
+          "Procedure code"
+        ],
+        "row": {
+          "Novitas Solutions, Inc": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "A58917": "L35160",
+          "Policy number": "",
+          "0012M\n0013M\n0363U\n0420U": "0012M\n0013M\n0363U\n0365U\n0366U\n0367U\n0420U\n0452U\n0465U\n0549U\n0613U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] Novitas Solutions, Inc: Palmetto GBA | Contractor name:  | Billing and Coding: Molecular\nPathology and Genetic Testing: Lab: Bladder/Urothelial\nTumor Markers | Policy title:  | A58917: L33420 | Policy number:  | 0012M\n0013M\n0363U\n0420U: 86294\n86316\n86386 | Procedure code: ",
+      "codes": [
+        "0012M",
+        "0013M",
+        "0363U",
+        "0420U",
+        "86294",
+        "86316",
+        "86386"
+      ],
+      "table_data": {
+        "columns": [
+          "Novitas Solutions, Inc",
+          "Contractor name",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title",
+          "A58917",
+          "Policy number",
+          "0012M\n0013M\n0363U\n0420U",
+          "Procedure code"
+        ],
+        "row": {
+          "Novitas Solutions, Inc": "Palmetto GBA",
+          "Contractor name": "",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing": "Lab: Bladder/Urothelial\nTumor Markers",
+          "Policy title": "",
+          "A58917": "L33420",
+          "Policy number": "",
+          "0012M\n0013M\n0363U\n0420U": "86294\n86316\n86386",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] Novitas Solutions, Inc: Palmetto GBA | Contractor name:  | Billing and Coding: Molecular\nPathology and Genetic Testing: MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | A58917: L35025 | Policy number:  | 0012M\n0013M\n0363U\n0420U: 0012M\n0013M\n0363U | Procedure code: ",
+      "codes": [
+        "0012M",
+        "0013M",
+        "0363U",
+        "0420U"
+      ],
+      "table_data": {
+        "columns": [
+          "Novitas Solutions, Inc",
+          "Contractor name",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title",
+          "A58917",
+          "Policy number",
+          "0012M\n0013M\n0363U\n0420U",
+          "Procedure code"
+        ],
+        "row": {
+          "Novitas Solutions, Inc": "Palmetto GBA",
+          "Contractor name": "",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "A58917": "L35025",
+          "Policy number": "",
+          "0012M\n0013M\n0363U\n0420U": "0012M\n0013M\n0363U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 4,
+      "content": "[Applicable Procedure and Service Codes] Novitas Solutions, Inc: WPS Insurance Corporation | Contractor name:  | Billing and Coding: Molecular\nPathology and Genetic Testing: MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | A58917: L36807 | Policy number:  | 0012M\n0013M\n0363U\n0420U: 0012M\n0013M\n0363U\n0365U\n0366U\n0367U\n0420U\n0452U\n0465U\n0549U\n0613U | Procedure code: ",
+      "codes": [
+        "0012M",
+        "0013M",
+        "0363U",
+        "0420U",
+        "0365U",
+        "0366U",
+        "0367U",
+        "0452U",
+        "0465U",
+        "0549U",
+        "0613U"
+      ],
+      "table_data": {
+        "columns": [
+          "Novitas Solutions, Inc",
+          "Contractor name",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing",
+          "Policy title",
+          "A58917",
+          "Policy number",
+          "0012M\n0013M\n0363U\n0420U",
+          "Procedure code"
+        ],
+        "row": {
+          "Novitas Solutions, Inc": "WPS Insurance Corporation",
+          "Contractor name": "",
+          "Billing and Coding: Molecular\nPathology and Genetic Testing": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "A58917": "L36807",
+          "Policy number": "",
+          "0012M\n0013M\n0363U\n0420U": "0012M\n0013M\n0363U\n0365U\n0366U\n0367U\n0420U\n0452U\n0465U\n0549U\n0613U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nA nuclear matrix protein (NMP22) test (CPT code 86386*), a bladder tumor antigen (BTA) test (CPT code 86294*, CPT code 86316*) or a fluorescence immunocytology (e.g., ImmunoCyt/uCytTM) test (CPT code 88346, CPT code 88350) IS REIMBURSABLE for a bladder neoplasm or a personal history of bladder neoplasm.\n\nFor all other situations not described above, an NMP22 test, a BTA test or a fluorescence immunocytology test IS NOT REIMBURSABLE.\n\nUrinary protein biomarker panels designed to detect, monitor or predict recurrence of bladder cancer (e.g., Oncuria® Detect, Oncuria® Monitor, Oncuria® Predict) (CPT code 0365U***, CPT code 0366U***, CPT code 0367U***) ARE NOT REIMBURSABLE.\n\nAll other urinary biomarker panels designed to diagnose or prognose bladder cancer (CPT code 0012M**, CPT code 0013M**, CPT code 0363U**, CPT code 0420U**, CPT code 0452U**, CPT code 0465U**, CPT code 0549U**, CPT code 0613U**) ARE NOT REIMBURSABLE.\n\n86294* Immunoassay for tumor antigen, qualitative or semiquantitative (e.g., bladder tumor antigen) 86316* Immunoassay for tumor antigen; other antigen, quantitative, (eg, CA 50, 72-4, 549) each 86386*\n\n88346 Immunofluorescence, per specimen; initial single antibody stain procedure 88350 Immunofluorescence, per specimen; each additional single antibody stain procedure (List separately in addition to code for primary procedure) 0012M** Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK, HOXA13, CDC2 [CDK1], IGFBP5, and CXCR2), utilizing urine, algorithm reported as a risk score for having urothelial carcinoma\n\n0013M** Oncology (urothelial), mRNA, gene expression profiling by real-time quantitative PCR of five genes (MDK, HOXA13, CDC2 [CDK1], IGFBP5, and CXCR2), utilizing urine, algorithm reported as a risk score for having recurrent urothelial carcinoma\n\n0363U** Oncology (urothelial), mRNA, gene-expression profiling by real-time quantitative PCR of 5 genes (MDK, HOXA13, CDC2 [CDK1], IGFBP5, and CXCR2), utilizing urine, algorithm incorporates age, sex, smoking history, and macrohematuria frequency, reported as a risk score for having urothelial carcinoma\n\nLab/Manufacturer: Pacific Edge Diagnostics USA, Ltd, Pacific Edge Diagnostics USA, Ltd 0365U*** Oncology (bladder), 10 protein biomarkers (A1AT, ANG, APOE, CA9, IL8, MMP9, MMP10, PAI1, SDC1, and VEGFA) by immunoassays, urine, diagnostic algorithm, including patient's age, race, and gender, reported as a probability of harboring urothelial cancer\n\n0366U*** Oncology (bladder), analysis of 10 protein biomarkers (A1AT, ANG, APOE, CA9, IL8, MMP9, MMP10, PAI1, SDC1 and VEGFA) by immunoassays, urine, algorithm reported as a probability of recurrent bladder cancer Proprietary Test: Oncuria® Monitor,\n\n0367U*** Oncology (bladder), analysis of 10 protein biomarkers (A1AT, ANG, APOE, CA9, IL8, MMP9, MMP10, PAI1, SDC1 and VEGFA) by immunoassays, urine, diagnostic algorithm reported as a risk score for probability of rapid recurrence of recurrent or persistent cancer following transurethral resection\n\n0420U** Oncology (urothelial), mRNA expression profiling by real-time quantitative PCR of MDK, HOXA13, CDC2, IGFBP5, and CXCR2 in combination with droplet digital PCR (ddPCR) analysis of 6 single-nucleotide polymorphisms (SNPs) genes TERT and FGFR3, urine, algorithm reported as a risk score for urothelial carcinoma\n\nLab/Manufacturer: Pacific Edge Diagnostics USA LTD, Pacific Edge Diagnostics USA LTD 0452U** Oncology (bladder), methylated PENK DNA detection by linear target enrichment-quantitative methylation-specific real-time PCR (LTE-qMSP), urine, reported as likelihood of bladder cancer Proprietary Test: EarlyTect® Bladder Cancer Detection (EarlyTect® BCD) Lab/Manufacturer: Promis Diagnostics, Inc, Promis Diagnostics, Inc 0465U** Oncology (urothelial carcinoma), DNA, quantitative methylation-specific PCR of 2 genes (ONECUT2, VIM), algorithmic analysis reported as positive or negative\n\n0549U** Oncology (urothelial), DNA, quantitative methylated real-time PCR of TRNA-Cys, SIM2, and NKX1-1, using urine, diagnostic algorithm reported as a probability index for bladder cancer and/or upper tract urothelial carcinoma (UTUC)\n\n0613U** Oncology (urothelial carcinoma), DNA methylation and mutation analysis of 6 biomarkers (TWIST1, OTX1, ONECUT2, FGFR3, HRAS, TERT promoter region), methylation-specific PCR and targeted next-generation sequencing, urine, algorithm reported as a probability index for bladder cancer and upper tract urothelial carcinoma\n\n*The payment criteria for 86294, 86386 and 86316 apply to all Medicare jurisdictions, except those states awarded to CGS Administrators, Noridian Healthcare\n\nSolutions, and Palmetto GBA.\n\n** The payment criteria for 0012M, 0013M, 0363U, 0420U, 0452U, 0465U, 0549U, and 0613U apply to all Medicare jurisdictions, except those states awarded to CGS\n\nAdministrators, Noridian Healthcare Solutions, Palmetto GBA and WPS Insurance Corporation.\n\n*** The payment criteria for 0365U, 0366U, 0367U apply to all Medicare jurisdictions, except those states awarded to CGS Administrators, Noridian Healthcare\n\nSolutions, Palmetto GBA, and WPS Insurance Corporation.\n\nA58917 0012M 0013M 0363U 0420U First Coast Service Options,\n\nA58918 0012M 0013M 0363U 0420U\n\nL36975 86294 86316 86386\n\nL36021 0012M 0013M 0363U 0365U 0366U 0367U 0420U 0452U 0465U 0549U 0613U\n\nL36678 86294 86316 86386\n\nL35160 0012M 0013M 0363U 0365U 0366U 0367U 0420U 0452U 0465U 0549U 0613U\n\nL33420 86294 86316 86386\n\nL35025 0012M 0013M 0363U\n\n0365U 0366U 0367U 0420U 0452U 0465U 0549U 0613U\n\nL36807 0012M 0013M 0363U 0365U 0366U 0367U 0420U 0452U 0465U 0549U 0613U"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

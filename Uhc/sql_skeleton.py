@@ -23,8 +23,6 @@ from __future__ import annotations
 import re
 from typing import Any, Dict, List, Optional, Set, Tuple
 
-from icd_lookup import extract_condition_name, lookup_icd10, lookup_icd10_with_status
-
 # ==============================================================================
 # 1. YOUR TABLE  (edit this block only)
 # ==============================================================================
@@ -143,8 +141,6 @@ def age_in_days(dob: str, dos: str) -> str:
 
 
 def values_cte(name: str, cols: List[str], rows: List[Tuple[Any, ...]]) -> str:
-    if len(rows) > 100:
-        rows = rows[:100]
     def lit(v):
         if isinstance(v, (int, float)):
             return str(v)
@@ -160,8 +156,6 @@ def values_cte(name: str, cols: List[str], rows: List[Tuple[Any, ...]]) -> str:
 
 
 def in_list(values: List[str]) -> str:
-    if len(values) > 100:
-        values = values[:100]
     return "(" + ", ".join("'" + v.replace("'", "''") + "'" for v in values) + ")"
 
 
@@ -362,6 +356,29 @@ _ICD_SKIP_AFTER = re.compile(r"^\)?\s*(?:first|followed by|837)", re.I)
 _ICD_RANGE = re.compile(r"\b[A-TV-Z]\d{2}(?:\.[0-9A-Z]{1,4})?\s*[-–]\s*[A-TV-Z]\d{2}(?:\.[0-9A-Z]{1,4})?\b")
 
 
+# ICD-10 lookup hook ---------------------------------------------------------------
+# Set ICD_LOOKUP to a function  f(rule) -> List[Tuple[str, List[str]]]  returning
+# [(condition_name, [icd10 codes]), ...] for the conditions named in the rule text.
+# It is called ONLY for rules whose query would otherwise need
+# "ICD-10 codes for the conditions named in the rule".
+ICD_LOOKUP = None
+
+
+def _lookup_icd(rule) -> List[Tuple[str, List[str]]]:
+    if ICD_LOOKUP is None:
+        return []
+    try:
+        out = ICD_LOOKUP(rule) or []
+    except Exception:
+        return []
+    clean = []
+    for cond, codes in out:
+        codes = [(x if ICD_STORED_WITH_DOT else x.replace(".", "")).upper() for x in codes if x]
+        if codes:
+            clean.append((cond, list(dict.fromkeys(codes))))
+    return clean
+
+
 def parse_icd(text: str) -> List[str]:
     """ICD-10-CM codes the rule lists as covered / excluded diagnoses (not examples or ranges)."""
     if not re.search(r"icd|diagnos", text, re.I):
@@ -393,6 +410,13 @@ _NEGATIVE = re.compile(r"\bnot (?:be )?(?:reimburs|cover|payable|allowed|eligibl
                        r"\bwill not\b|\bdo not\b|\bdoes not\b|\bdeny|\bdenied\b|\bexclud", re.I)
 
 
+REQUIRED_DX_POSITIVE = False    # True: "must include one of these diagnoses ... denied if not present" is a REQUIREMENT list
+_DX_REQUIRED_RE = re.compile(r"(?:must|required?|need|only)\b[^.]{0,100}\b(?:diagnos[a-z]*|icd-?10)|"
+                             r"(?:diagnos[a-z]*|icd-?10)[^.]{0,80}\b(?:are|is) required\b|"
+                             r"\bone of the (?:following |listed )?(?:diagnos[a-z]*|icd-?10)", re.I)
+_DX_EXCLUDING_RE = re.compile(r"\bexcept\b|\bexclud|\bnot (?:be )?(?:cover|reimburs|payable|eligible)|\bnon-?covered", re.I)
+
+
 def is_negative(text: str) -> bool:
     return bool(_NEGATIVE.search(text))
 
@@ -418,8 +442,7 @@ def _any_mod(alias: str, mods: List[str], used: Set[str]) -> str:
 
 
 def _any_dx(alias: str, codes: List[str], used: Set[str]) -> str:
-    sample = codes[:40] if len(codes) > 40 else codes
-    return "(" + " OR ".join(f"{col(alias, d, used)} IN {in_list(sample)}" for d in DIAG_COLS) + ")"
+    return "(" + " OR ".join(f"{col(alias, d, used)} IN {in_list(codes)}" for d in DIAG_COLS) + ")"
 
 
 def _params(rule, name: str) -> List[Dict[str, str]]:
@@ -632,33 +655,24 @@ def build_query(rule, audit_action: str) -> Dict[str, Any]:
 
     # diagnosis: coverage rules list conditions; denial rules list excluded conditions
     icd = parse_icd(text)
-    icd_codes: List[str] = []
+    if not icd:                      # policy tables can attach an explicit ICD-10 list to the rule
+        icd = [x for x in ((getattr(rule, "extra", None) or {}).get("icd_codes") or []) if x]
+    icd_found: List[str] = []
     if icd:
-        icd_codes = list(icd)
-        where.append(f"{_any_dx(c, icd, used)}  -- excluded diagnosis" if neg
-                     else f"NOT {_any_dx(c, icd, used)}  -- none of the covered diagnoses")
+        icd_neg = neg
+        if REQUIRED_DX_POSITIVE and neg and _DX_REQUIRED_RE.search(text) and not _DX_EXCLUDING_RE.search(text):
+            icd_neg = False         # the listed diagnoses are what the claim MUST carry
+        where.append(f"{_any_dx(c, icd, used)}  -- excluded diagnosis" if icd_neg
+                     else f"NOT {_any_dx(c, icd, used)}  -- none of the required / covered diagnoses")
     elif cat == "DIAGNOSIS_REQUIREMENT" or (
             cat == "REIMBURSEMENT_CRITERIA" and not neg and
             re.search(r"\b(?:conditions?|indications?|diagnos[ie]s|individuals? with|for (?:the )?(?:evaluation|monitoring)|"
                       r"symptom|suspected|history of|disorder|disease|syndrome)", text, re.I)):
-        condition = extract_condition_name(text)
-        icd_matched, match_type = lookup_icd10_with_status(condition, rule_id=rule.rule_id) if condition else ([], "")
-        if icd_matched and not ICD_STORED_WITH_DOT:
-            icd_matched = [cd.replace(".", "") for cd in icd_matched]
-
-        if icd_matched:
-            icd_codes = list(icd_matched)
-            if match_type == "override":
-                comment = f"-- ICD-10 from override list for: {condition} (verify)"
-                todo.append("ICD-10 from override list - verify")
-            elif match_type == "partial":
-                comment = f"-- ICD-10 from UMLS for: {condition} (verify)"
-                todo.append("partial ICD mapping - verify")
-            else:
-                comment = f"-- ICD-10 from UMLS for: {condition} (verify)"
-                todo.append("ICD-10 mapped from UMLS - verify")
-            where.append(f"{_any_dx(c, icd_matched, used)}  {comment}" if neg
-                         else f"NOT {_any_dx(c, icd_matched, used)}  {comment}")
+        mapped = _lookup_icd(rule)
+        if mapped:
+            icd_found = list(dict.fromkeys(x for _, cs in mapped for x in cs))
+            conds = "; ".join(cond for cond, _ in mapped)[:120]
+            where.append(f"NOT {_any_dx(c, icd_found, used)}  -- ICD-10 from UMLS for: {conds} (verify)")
         else:
             todo.append("ICD-10 codes for the conditions named in the rule")
             where.append(f"NOT {_any_dx(c, ['/* TODO: covered ICD-10 codes */'], used)}".replace("'/* TODO: covered ICD-10 codes */'",
@@ -681,7 +695,7 @@ def build_query(rule, audit_action: str) -> Dict[str, Any]:
     # scope (AND) vs violation checks (OR): a line breaks the rule if ANY check fails
     scope, viol = where[:base_n], where[base_n:]
     header_note = ""
-    if not rule.codes:
+    if not codes:
         if any("TODO" not in w for w in viol):
             header_note = "-- Applies to all procedure codes (the rule names no specific codes)"
         else:
@@ -717,9 +731,9 @@ def build_query(rule, audit_action: str) -> Dict[str, Any]:
     sql += "SELECT " + ",\n       ".join(sel) + f"\nFROM {T} c\n"
     if joins:
         sql += "\n".join(joins) + "\n"
-    sql += "WHERE " + "\n  AND ".join(where) + "\n;"
+    sql += "WHERE " + "\n  AND ".join(where) + "\n;"   # ; on its own line so a trailing -- comment cannot swallow it
     phys = [COLUMNS[k] for k in COLUMNS if k in used]
-    return {"sql": sql, "columns": phys, "todo": list(dict.fromkeys(todo)), "icd_codes": sorted(set(icd_codes))}
+    return {"sql": sql, "columns": phys, "todo": list(dict.fromkeys(todo)), "icd_codes": icd_found}
 
 
 def file_header() -> str:

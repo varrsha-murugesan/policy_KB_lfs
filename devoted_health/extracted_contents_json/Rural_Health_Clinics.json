@@ -1,0 +1,3818 @@
+{
+  "policy_title": "Rural Health Clinics",
+  "policy_number": "CLMS.CP.0020",
+  "effective_date": "2026-07-27",
+  "version": "2.0",
+  "source_pdf": "Rural_Health_Clinics.pdf",
+  "source_url": "https://assets.devoted.com/Providers/EPP_20_RHC",
+  "line_of_business": "Medicare Advantage",
+  "billing_class": "Both",
+  "page_count": 9,
+  "revision_history": [
+    {
+      "date": "2026-07-27",
+      "document_num": "CLMS.CP.0020",
+      "version_num": "2.0"
+    },
+    {
+      "date": "2026-01-23",
+      "document_num": "CLMS.CP.0020",
+      "version_num": "1.3"
+    },
+    {
+      "date": "2025-08-28",
+      "document_num": "CLMS.CP.0020",
+      "version_num": "1.2"
+    },
+    {
+      "date": "2024-11-15",
+      "document_num": "CLMS.CP.0020",
+      "version_num": "1.1"
+    },
+    {
+      "date": "2024-08-13",
+      "document_num": "CLMS.CP.0020",
+      "version_num": "1.0"
+    }
+  ],
+  "table_count": 8,
+  "codes_found": {
+    "cpt_hcpcs": [
+      "13200",
+      "13964",
+      "99385",
+      "99386",
+      "99387",
+      "99395",
+      "99396",
+      "99397",
+      "99492",
+      "99493",
+      "99494",
+      "G0071",
+      "G0511",
+      "G0512",
+      "G0556",
+      "G0557",
+      "G0558",
+      "G0568",
+      "G0569",
+      "G0570",
+      "G2025",
+      "G2214",
+      "M0201"
+    ],
+    "modifiers": [
+      "59",
+      "95"
+    ],
+    "revenue_codes": [
+      "0711",
+      "0719"
+    ],
+    "bill_types": [
+      "0711-0719"
+    ],
+    "icd_codes": [
+      "X12"
+    ]
+  },
+  "CPT_CODES_USED": [
+    "13200",
+    "13964",
+    "99385",
+    "99386",
+    "99387",
+    "99395",
+    "99396",
+    "99397",
+    "99492",
+    "99493",
+    "99494",
+    "G0071",
+    "G0511",
+    "G0512",
+    "G0556",
+    "G0557",
+    "G0558",
+    "G0568",
+    "G0569",
+    "G0570",
+    "G2025",
+    "G2214",
+    "M0201"
+  ],
+  "sections_summary": [
+    "OVERVIEW",
+    "PURPOSE",
+    "APPLICABILITY",
+    "POLICY",
+    "HOW TO BILL YOUR CLAIMS",
+    "ACRONYMS AND DEFINITIONS",
+    "RESPONSIBILITIES",
+    "N/A",
+    "REGULATORY REFERENCE",
+    "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+    "REVIEW AND VERSION HISTORY"
+  ],
+  "tables": [
+    {
+      "table_id": "tab_p3_1",
+      "title": "Table (Page 3)",
+      "page_number": 3,
+      "bbox": [
+        72.0833371480306,
+        533.9999389648438,
+        548.4,
+        718.4479675292969
+      ],
+      "columns": [
+        "REVENUE CODE",
+        "DESCRIPTION"
+      ],
+      "row_count": 4,
+      "col_count": 2,
+      "rows": [
+        {
+          "REVENUE CODE": "0521",
+          "DESCRIPTION": "Clinic Visit by Member to RHC/FQHC"
+        },
+        {
+          "REVENUE CODE": "0522",
+          "DESCRIPTION": "Home Visit by RHC/FQHC Practitioner"
+        },
+        {
+          "REVENUE CODE": "0524",
+          "DESCRIPTION": "Visit by RHC/FQHC Practitioner to a Member in a SNF or Skilled Swing\nBed in a Covered Part A Stay"
+        },
+        {
+          "REVENUE CODE": "0525",
+          "DESCRIPTION": "Visit by RHC/FQHC Practitioner to a Member in a SNF (not in a Covered\nPart A Stay) or NF or ICF MR or Other Residential Facility"
+        }
+      ],
+      "raw_grid": [
+        [
+          "REVENUE CODE",
+          "DESCRIPTION"
+        ],
+        [
+          "0521",
+          "Clinic Visit by Member to RHC/FQHC"
+        ],
+        [
+          "0522",
+          "Home Visit by RHC/FQHC Practitioner"
+        ],
+        [
+          "0524",
+          "Visit by RHC/FQHC Practitioner to a Member in a SNF or Skilled Swing\nBed in a Covered Part A Stay"
+        ],
+        [
+          "0525",
+          "Visit by RHC/FQHC Practitioner to a Member in a SNF (not in a Covered\nPart A Stay) or NF or ICF MR or Other Residential Facility"
+        ]
+      ],
+      "markdown": "| REVENUE CODE | DESCRIPTION |\n| --- | --- |\n| 0521 | Clinic Visit by Member to RHC/FQHC |\n| 0522 | Home Visit by RHC/FQHC Practitioner |\n| 0524 | Visit by RHC/FQHC Practitioner to a Member in a SNF or Skilled Swing\nBed in a Covered Part A Stay |\n| 0525 | Visit by RHC/FQHC Practitioner to a Member in a SNF (not in a Covered\nPart A Stay) or NF or ICF MR or Other Residential Facility |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p4_1",
+      "title": "Table (Page 3) (Continued)",
+      "page_number": 4,
+      "bbox": [
+        72.07143184116909,
+        72.125,
+        548.375,
+        179.875
+      ],
+      "columns": [
+        "REVENUE CODE",
+        "DESCRIPTION"
+      ],
+      "row_count": 3,
+      "col_count": 2,
+      "rows": [
+        {
+          "REVENUE CODE": "0527",
+          "DESCRIPTION": "Visiting Nurse Service(s) to a Memberʼs Home when in a Home Health\nShortage Area"
+        },
+        {
+          "REVENUE CODE": "0528",
+          "DESCRIPTION": "Visit by RHC/FQHC Practitioner to Other non-RHC/FQHC Site"
+        },
+        {
+          "REVENUE CODE": "0900",
+          "DESCRIPTION": "Behavioral Health Treatment/Services - General Classification"
+        }
+      ],
+      "raw_grid": [
+        [
+          "0527",
+          "Visiting Nurse Service(s) to a Memberʼs Home when in a Home Health\nShortage Area"
+        ],
+        [
+          "0528",
+          "Visit by RHC/FQHC Practitioner to Other non-RHC/FQHC Site"
+        ],
+        [
+          "0900",
+          "Behavioral Health Treatment/Services - General Classification"
+        ]
+      ],
+      "markdown": "| REVENUE CODE | DESCRIPTION |\n| --- | --- |\n| 0527 | Visiting Nurse Service(s) to a Memberʼs Home when in a Home Health\nShortage Area |\n| 0528 | Visit by RHC/FQHC Practitioner to Other non-RHC/FQHC Site |\n| 0900 | Behavioral Health Treatment/Services - General Classification |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p4_2",
+      "title": "Table (Page 4)",
+      "page_number": 4,
+      "bbox": [
+        72.07143184116909,
+        572.0001831054688,
+        548.375,
+        718.3397827148438
+      ],
+      "columns": [
+        "HCPCS",
+        "DESCRIPTION"
+      ],
+      "row_count": 1,
+      "col_count": 2,
+      "rows": [
+        {
+          "HCPCS": "G0511",
+          "DESCRIPTION": "Rural health clinic or federally qualified health center (RHC or FQHC)\nonly, general care management, 20 minutes or more of clinical staff time\nfor chronic care management services or behavioral health integration\nservices directed by an RHC or FQHC practitioner (physician, NP, PA, or\nCNM), per calendar month"
+        }
+      ],
+      "raw_grid": [
+        [
+          "HCPCS",
+          "DESCRIPTION"
+        ],
+        [
+          "G0511",
+          "Rural health clinic or federally qualified health center (RHC or FQHC)\nonly, general care management, 20 minutes or more of clinical staff time\nfor chronic care management services or behavioral health integration\nservices directed by an RHC or FQHC practitioner (physician, NP, PA, or\nCNM), per calendar month"
+        ]
+      ],
+      "markdown": "| HCPCS | DESCRIPTION |\n| --- | --- |\n| G0511 | Rural health clinic or federally qualified health center (RHC or FQHC)\nonly, general care management, 20 minutes or more of clinical staff time\nfor chronic care management services or behavioral health integration\nservices directed by an RHC or FQHC practitioner (physician, NP, PA, or\nCNM), per calendar month |",
+      "codes": {
+        "cpt_hcpcs": [
+          "G0511"
+        ],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p5_1",
+      "title": "Table (Page 4) (Continued)",
+      "page_number": 5,
+      "bbox": [
+        72.07143184116909,
+        72.125,
+        548.5,
+        288.25001525878906
+      ],
+      "columns": [
+        "HCPCS",
+        "DESCRIPTION"
+      ],
+      "row_count": 2,
+      "col_count": 2,
+      "rows": [
+        {
+          "HCPCS": "",
+          "DESCRIPTION": "CMS is phasing out HCPCS G0511 for RHC care coordination services.\nUse of G0511 remains allowable until September 30, 2025. For services\nrendered on or afetr October 1, 2025, G0511 will no longer be accepted.\nInstead individual CPT/HCPCS codes must be billed in accordance with\nthe Medicare Physician Fee Schedule.4,5"
+        },
+        {
+          "HCPCS": "G0512",
+          "DESCRIPTION": "Rural health clinic or federally qualified health center (RHC or FQHC)\nonly, psychiatric collaborative care model (psychiatric COCM), 60\nminutes or more of clinical staff time for psychiatric COCM services\ndirected by an RHC or FQHC practitioner (physician, NP, PA, or CNM) and\nincluding services furnished by a behavioral health care manager and\nconsultation with a psychiatric consultant, per calendar month."
+        }
+      ],
+      "raw_grid": [
+        [
+          "",
+          "CMS is phasing out HCPCS G0511 for RHC care coordination services.\nUse of G0511 remains allowable until September 30, 2025. For services\nrendered on or afetr October 1, 2025, G0511 will no longer be accepted.\nInstead individual CPT/HCPCS codes must be billed in accordance with\nthe Medicare Physician Fee Schedule.4,5"
+        ],
+        [
+          "G0512",
+          "Rural health clinic or federally qualified health center (RHC or FQHC)\nonly, psychiatric collaborative care model (psychiatric COCM), 60\nminutes or more of clinical staff time for psychiatric COCM services\ndirected by an RHC or FQHC practitioner (physician, NP, PA, or CNM) and\nincluding services furnished by a behavioral health care manager and\nconsultation with a psychiatric consultant, per calendar month."
+        ]
+      ],
+      "markdown": "| HCPCS | DESCRIPTION |\n| --- | --- |\n|  | CMS is phasing out HCPCS G0511 for RHC care coordination services.\nUse of G0511 remains allowable until September 30, 2025. For services\nrendered on or afetr October 1, 2025, G0511 will no longer be accepted.\nInstead individual CPT/HCPCS codes must be billed in accordance with\nthe Medicare Physician Fee Schedule.4,5 |\n| G0512 | Rural health clinic or federally qualified health center (RHC or FQHC)\nonly, psychiatric collaborative care model (psychiatric COCM), 60\nminutes or more of clinical staff time for psychiatric COCM services\ndirected by an RHC or FQHC practitioner (physician, NP, PA, or CNM) and\nincluding services furnished by a behavioral health care manager and\nconsultation with a psychiatric consultant, per calendar month. |",
+      "codes": {
+        "cpt_hcpcs": [
+          "G0511",
+          "G0512"
+        ],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p5_2",
+      "title": "Table (Page 5)",
+      "page_number": 5,
+      "bbox": [
+        72.07143184116909,
+        595.0,
+        548.5,
+        702.0755004882812
+      ],
+      "columns": [
+        "HCPCS",
+        "DESCRIPTION"
+      ],
+      "row_count": 2,
+      "col_count": 2,
+      "rows": [
+        {
+          "HCPCS": "G2025",
+          "DESCRIPTION": "Payment for a telehealth distant site service furnished by a rural health\nclinic (RHC) or federally qualified health center (FQHC) only"
+        },
+        {
+          "HCPCS": "G0071",
+          "DESCRIPTION": "Payment for communication technology-based services for 5 minutes or"
+        }
+      ],
+      "raw_grid": [
+        [
+          "HCPCS",
+          "DESCRIPTION"
+        ],
+        [
+          "G2025",
+          "Payment for a telehealth distant site service furnished by a rural health\nclinic (RHC) or federally qualified health center (FQHC) only"
+        ],
+        [
+          "G0071",
+          "Payment for communication technology-based services for 5 minutes or"
+        ]
+      ],
+      "markdown": "| HCPCS | DESCRIPTION |\n| --- | --- |\n| G2025 | Payment for a telehealth distant site service furnished by a rural health\nclinic (RHC) or federally qualified health center (FQHC) only |\n| G0071 | Payment for communication technology-based services for 5 minutes or |",
+      "codes": {
+        "cpt_hcpcs": [
+          "G0071",
+          "G2025"
+        ],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p6_1",
+      "title": "Table (Page 5) (Continued)",
+      "page_number": 6,
+      "bbox": [
+        72.0833371480306,
+        72.125,
+        548.4,
+        171.6875
+      ],
+      "columns": [
+        "HCPCS",
+        "DESCRIPTION"
+      ],
+      "row_count": 1,
+      "col_count": 2,
+      "rows": [
+        {
+          "HCPCS": "",
+          "DESCRIPTION": "more of a virtual (non-face-to-face) communication between a rural\nhealth clinic (RHC) or federally qualified health center (FQHC)\npractitioner and RHC or FQHC patient, or 5 minutes or more of remote\nevaluation of recorded video and/or images by an RHC or FQHC\npractitioner, occurring in lieu of an office visit; RHC or FQHC only"
+        }
+      ],
+      "raw_grid": [
+        [
+          "",
+          "more of a virtual (non-face-to-face) communication between a rural\nhealth clinic (RHC) or federally qualified health center (FQHC)\npractitioner and RHC or FQHC patient, or 5 minutes or more of remote\nevaluation of recorded video and/or images by an RHC or FQHC\npractitioner, occurring in lieu of an office visit; RHC or FQHC only"
+        ]
+      ],
+      "markdown": "| HCPCS | DESCRIPTION |\n| --- | --- |\n|  | more of a virtual (non-face-to-face) communication between a rural\nhealth clinic (RHC) or federally qualified health center (FQHC)\npractitioner and RHC or FQHC patient, or 5 minutes or more of remote\nevaluation of recorded video and/or images by an RHC or FQHC\npractitioner, occurring in lieu of an office visit; RHC or FQHC only |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p6_2",
+      "title": "Table (Page 6)",
+      "page_number": 6,
+      "bbox": [
+        72.0833371480306,
+        252.0,
+        548.4,
+        375.612060546875
+      ],
+      "columns": [
+        "MODIFIER",
+        "DESCRIPTION"
+      ],
+      "row_count": 2,
+      "col_count": 2,
+      "rows": [
+        {
+          "MODIFIER": "95",
+          "DESCRIPTION": "Synchronous Telemedicine Service Rendered Via a Real-Time Interactive\nAudio and Video Telecommunications System"
+        },
+        {
+          "MODIFIER": "93",
+          "DESCRIPTION": "Synchronous Telemedicine Service Rendered Via Telephone or Other\nReal-Time Interactive Audio-Only Telecommunications System"
+        }
+      ],
+      "raw_grid": [
+        [
+          "MODIFIER",
+          "DESCRIPTION"
+        ],
+        [
+          "95",
+          "Synchronous Telemedicine Service Rendered Via a Real-Time Interactive\nAudio and Video Telecommunications System"
+        ],
+        [
+          "93",
+          "Synchronous Telemedicine Service Rendered Via Telephone or Other\nReal-Time Interactive Audio-Only Telecommunications System"
+        ]
+      ],
+      "markdown": "| MODIFIER | DESCRIPTION |\n| --- | --- |\n| 95 | Synchronous Telemedicine Service Rendered Via a Real-Time Interactive\nAudio and Video Telecommunications System |\n| 93 | Synchronous Telemedicine Service Rendered Via Telephone or Other\nReal-Time Interactive Audio-Only Telecommunications System |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [
+          "95"
+        ],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    },
+    {
+      "table_id": "tab_p9_1",
+      "title": "Table (Page 9)",
+      "page_number": 9,
+      "bbox": [
+        54.12000020345052,
+        106.42999267578125,
+        557.8800048828125,
+        206.58001708984375
+      ],
+      "columns": [
+        "Date",
+        "Document #",
+        "Version #"
+      ],
+      "row_count": 5,
+      "col_count": 3,
+      "rows": [
+        {
+          "Date": "2026-07-27",
+          "Document #": "CLMS.CP.0020",
+          "Version #": "2.0"
+        },
+        {
+          "Date": "2026-01-23",
+          "Document #": "CLMS.CP.0020",
+          "Version #": "1.3"
+        },
+        {
+          "Date": "2025-08-28",
+          "Document #": "CLMS.CP.0020",
+          "Version #": "1.2"
+        },
+        {
+          "Date": "2024-11-15",
+          "Document #": "CLMS.CP.0020",
+          "Version #": "1.1"
+        },
+        {
+          "Date": "2024-08-13",
+          "Document #": "CLMS.CP.0020",
+          "Version #": "1.0"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        [
+          "2026-07-27",
+          "CLMS.CP.0020",
+          "2.0"
+        ],
+        [
+          "2026-01-23",
+          "CLMS.CP.0020",
+          "1.3"
+        ],
+        [
+          "2025-08-28",
+          "CLMS.CP.0020",
+          "1.2"
+        ],
+        [
+          "2024-11-15",
+          "CLMS.CP.0020",
+          "1.1"
+        ],
+        [
+          "2024-08-13",
+          "CLMS.CP.0020",
+          "1.0"
+        ]
+      ],
+      "markdown": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-07-27 | CLMS.CP.0020 | 2.0 |\n| 2026-01-23 | CLMS.CP.0020 | 1.3 |\n| 2025-08-28 | CLMS.CP.0020 | 1.2 |\n| 2024-11-15 | CLMS.CP.0020 | 1.1 |\n| 2024-08-13 | CLMS.CP.0020 | 1.0 |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    }
+  ],
+  "extracted_content": [
+    {
+      "id": "item_0001",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Rural Health Clinic (RHC)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0002",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "definition",
+      "content": "Services: Coverage & Billing",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0003",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Guidelines",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0004",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "[CLMS.CP.0020] 2026-07-27",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0005",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0020 - 2026-07-27 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0006",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0007",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0008",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Page 1 of 9",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0009",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "PURPOSE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0010",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Rural Health Clinics (RHCs) are outpatient facilities that provide primary and preventive",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0011",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "health care services to populations that live in more remote areas. This policy explains how",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0012",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "we cover and pay for these services.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0013",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "APPLICABILITY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0014",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy applies to all Devoted Health plans.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0015",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "POLICY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0016",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "When you see one of our members at your RHC, we cover:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0017",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Physiciansʼ Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0018",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Mental Health Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0019",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Preventive Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0020",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Initial Preventive Physical Examination (IPPE)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0021",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Annual Wellness Visit (AWV)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0022",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Diabetes Self Management Training (DSMT)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0023",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ High Intensity Behavioral Counseling to Prevent Sexually Transmitted",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0024",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Infections",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0025",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Influenza and Pneumococcal Vaccinations",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0026",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Intense Behavioral Therapy for Cardiovascular Disease",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0027",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Intense Behavioral Therapy for Obesity",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0028",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Medical Nutrition Services (MNT)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0029",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Tobacco Use Cessation Counseling",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0030",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Preventive Screenings",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0031",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Alcohol Misuse Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0032",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Breast Cancer Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0033",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Depression Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0034",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Glaucoma Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0035",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Lung Cancer Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0036",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Pap Smear",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0037",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Pelvic Exam Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0038",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "■ Prostate Cancer Screening",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0039",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● General Care Management Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0040",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Behavioral Health Integration",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0041",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Chronic Care Management",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0042",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "○ Principal Care Management",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0043",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "bullet_point",
+      "content": "● Psychiatric Collaborative Care Model",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0044",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0020 - 2026-07-27 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0045",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0046",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0047",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Page 2 of 9",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0048",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Transitional Care Management",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0049",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Visiting Nursing Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0050",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Telehealth Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0051",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "When our member is seen by multiple practitioners on the same day, we generally consider it",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0052",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "one payable encounter. For example, if they see their optometrist for an eye exam and then",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0053",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "see their PCP for an office visit, itʼs one payable encounter. However, if our member has been",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0054",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "discharged and they return later that day for a new acute medical issue, we consider this a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0055",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "separately payable encounter. Mental health services provided on the same day as medical",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0056",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "services are covered as a separate encounter but are subject to the same limitations.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0057",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Ambulance rides, durable medical equipment, laboratory services, and vaccines",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0058",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "and their administration are considered non-RHC services but are covered under",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0059",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "their own benefits.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0060",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "HOW TO BILL YOUR CLAIMS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0061",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "We reimburse claims according to the Medicare AIR payment rules except for items paid",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0062",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "by cost report. Reimbursement is global for all services provided on the same day, except",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0063",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "as noted in this section. Please refer to your contract for specific reimbursement details.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0064",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "definition",
+      "content": "Please note: To ensure the correct application of member cost-share, you must include",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0065",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "a CPT®/HCPCS code for each service provided, even if theyʼre not considered separately",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0066",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "payable.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0067",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "RHC services payable under the AIR need to be billed on a CMS-1450 (UB-04) or X12 837I",
+      "codes": [
+        "X12"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0068",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "electronic equivalent with bill type 0711-0719 with one of the following revenue codes:",
+      "codes": [
+        "0711",
+        "0711-0719",
+        "0719"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0069",
+      "title": "Table (Page 3)",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "table",
+      "content": "| REVENUE CODE | DESCRIPTION |\n| --- | --- |\n| 0521 | Clinic Visit by Member to RHC/FQHC |\n| 0522 | Home Visit by RHC/FQHC Practitioner |\n| 0524 | Visit by RHC/FQHC Practitioner to a Member in a SNF or Skilled Swing\nBed in a Covered Part A Stay |\n| 0525 | Visit by RHC/FQHC Practitioner to a Member in a SNF (not in a Covered\nPart A Stay) or NF or ICF MR or Other Residential Facility |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p3_1",
+        "title": "Table (Page 3)",
+        "columns": [
+          "REVENUE CODE",
+          "DESCRIPTION"
+        ],
+        "row_count": 4,
+        "rows": [
+          {
+            "REVENUE CODE": "0521",
+            "DESCRIPTION": "Clinic Visit by Member to RHC/FQHC"
+          },
+          {
+            "REVENUE CODE": "0522",
+            "DESCRIPTION": "Home Visit by RHC/FQHC Practitioner"
+          },
+          {
+            "REVENUE CODE": "0524",
+            "DESCRIPTION": "Visit by RHC/FQHC Practitioner to a Member in a SNF or Skilled Swing\nBed in a Covered Part A Stay"
+          },
+          {
+            "REVENUE CODE": "0525",
+            "DESCRIPTION": "Visit by RHC/FQHC Practitioner to a Member in a SNF (not in a Covered\nPart A Stay) or NF or ICF MR or Other Residential Facility"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0070",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0020 - 2026-07-27 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0071",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0072",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0073",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Page 3 of 9",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0074",
+      "title": "Table (Page 3) (Continued)",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "table",
+      "content": "| REVENUE CODE | DESCRIPTION |\n| --- | --- |\n| 0527 | Visiting Nurse Service(s) to a Memberʼs Home when in a Home Health\nShortage Area |\n| 0528 | Visit by RHC/FQHC Practitioner to Other non-RHC/FQHC Site |\n| 0900 | Behavioral Health Treatment/Services - General Classification |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p4_1",
+        "title": "Table (Page 3) (Continued)",
+        "columns": [
+          "REVENUE CODE",
+          "DESCRIPTION"
+        ],
+        "row_count": 3,
+        "rows": [
+          {
+            "REVENUE CODE": "0527",
+            "DESCRIPTION": "Visiting Nurse Service(s) to a Memberʼs Home when in a Home Health\nShortage Area"
+          },
+          {
+            "REVENUE CODE": "0528",
+            "DESCRIPTION": "Visit by RHC/FQHC Practitioner to Other non-RHC/FQHC Site"
+          },
+          {
+            "REVENUE CODE": "0900",
+            "DESCRIPTION": "Behavioral Health Treatment/Services - General Classification"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0075",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Effective for dates of service on or after 1/1/26, all behavioral health claims must be billed",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0076",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "directly to us. For 2025 dates of service, providers who were solely contracted with Magellan",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0077",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "on the date of service and not contracted with our plan should continue to bill Magellan.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0078",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Medical and behavioral health claims must still be billed separately, even when services are",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0079",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "rendered on the same date of service.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0080",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Preventive services provided on the same date of service as another visit are not separately",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0081",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "payable , except for annual physicals billed with CPT® code range 99385-99387 for new",
+      "codes": [
+        "99385",
+        "99386",
+        "99387"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0082",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "patients and CPT® code range 99395-99397 for established patients as well as the vaccines",
+      "codes": [
+        "99395",
+        "99396",
+        "99397"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0083",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "addressed in the section below. These should be submitted as two separate claims to ensure",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0084",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "payment for both services.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0085",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Separate and distinct medical encounters on the same date of service need to be",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0086",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "submitted on a separate claim and include modifier 59 on the second visit.",
+      "codes": [
+        "59"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0087",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Care Management Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0088",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "We separately reimburse General Care Management and Psychiatric Collaborative Care",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0089",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "services once per month per member. You can include them on a claim with other services or",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0090",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "bill them separately. When billing, you must include revenue code 052X and one of the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0091",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "following HCPCS codes:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0092",
+      "title": "Table (Page 4)",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "table",
+      "content": "| HCPCS | DESCRIPTION |\n| --- | --- |\n| G0511 | Rural health clinic or federally qualified health center (RHC or FQHC)\nonly, general care management, 20 minutes or more of clinical staff time\nfor chronic care management services or behavioral health integration\nservices directed by an RHC or FQHC practitioner (physician, NP, PA, or\nCNM), per calendar month |",
+      "codes": [
+        "G0511"
+      ],
+      "table_data": {
+        "table_id": "tab_p4_2",
+        "title": "Table (Page 4)",
+        "columns": [
+          "HCPCS",
+          "DESCRIPTION"
+        ],
+        "row_count": 1,
+        "rows": [
+          {
+            "HCPCS": "G0511",
+            "DESCRIPTION": "Rural health clinic or federally qualified health center (RHC or FQHC)\nonly, general care management, 20 minutes or more of clinical staff time\nfor chronic care management services or behavioral health integration\nservices directed by an RHC or FQHC practitioner (physician, NP, PA, or\nCNM), per calendar month"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0093",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0020 - 2026-07-27 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0094",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0095",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0096",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Page 4 of 9",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0097",
+      "title": "Table (Page 4) (Continued)",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "table",
+      "content": "| HCPCS | DESCRIPTION |\n| --- | --- |\n|  | CMS is phasing out HCPCS G0511 for RHC care coordination services.\nUse of G0511 remains allowable until September 30, 2025. For services\nrendered on or afetr October 1, 2025, G0511 will no longer be accepted.\nInstead individual CPT/HCPCS codes must be billed in accordance with\nthe Medicare Physician Fee Schedule.4,5 |\n| G0512 | Rural health clinic or federally qualified health center (RHC or FQHC)\nonly, psychiatric collaborative care model (psychiatric COCM), 60\nminutes or more of clinical staff time for psychiatric COCM services\ndirected by an RHC or FQHC practitioner (physician, NP, PA, or CNM) and\nincluding services furnished by a behavioral health care manager and\nconsultation with a psychiatric consultant, per calendar month. |",
+      "codes": [
+        "G0511",
+        "G0512"
+      ],
+      "table_data": {
+        "table_id": "tab_p5_1",
+        "title": "Table (Page 4) (Continued)",
+        "columns": [
+          "HCPCS",
+          "DESCRIPTION"
+        ],
+        "row_count": 2,
+        "rows": [
+          {
+            "HCPCS": "",
+            "DESCRIPTION": "CMS is phasing out HCPCS G0511 for RHC care coordination services.\nUse of G0511 remains allowable until September 30, 2025. For services\nrendered on or afetr October 1, 2025, G0511 will no longer be accepted.\nInstead individual CPT/HCPCS codes must be billed in accordance with\nthe Medicare Physician Fee Schedule.4,5"
+          },
+          {
+            "HCPCS": "G0512",
+            "DESCRIPTION": "Rural health clinic or federally qualified health center (RHC or FQHC)\nonly, psychiatric collaborative care model (psychiatric COCM), 60\nminutes or more of clinical staff time for psychiatric COCM services\ndirected by an RHC or FQHC practitioner (physician, NP, PA, or CNM) and\nincluding services furnished by a behavioral health care manager and\nconsultation with a psychiatric consultant, per calendar month."
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0098",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "rendered on or after October 1, 2025, G0511 will no longer be accepted.",
+      "codes": [
+        "G0511"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0099",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Effective for dates of service on or after 1/1/26, RHCs will report individual CPT and HCPCS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0100",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "codes (99492, 99493, 99494, and G2214) describing psychiatric CoCM services instead of",
+      "codes": [
+        "99492",
+        "99493",
+        "99494",
+        "G2214"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0101",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "HCPCS code G0512. Also, three new optional, add-on HCPCS codes were developed for",
+      "codes": [
+        "G0512"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0102",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "reporting general BHI and psychiatric CoCM services in the same month as APCM services.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0103",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "●",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0104",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "You must report an APCM base code (G0556, G0557, or G0558) in the same month as",
+      "codes": [
+        "G0556",
+        "G0557",
+        "G0558"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0105",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "the optional add-on codes",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0106",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "●",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0107",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "HCPCS add-on codes G0568 and G0569 are for psychiatric CoCM services you deliver",
+      "codes": [
+        "G0568",
+        "G0569"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0108",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "to patients also receiving APCM services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0109",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "●",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0110",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "HCPCS add-on code G0570 is for general BHI services you deliver to patients also",
+      "codes": [
+        "G0570"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0111",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "receiving APCM services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0112",
+      "title": "Telehealth and Virtual Check-Ins",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Telehealth and Virtual Check-Ins",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Telehealth and Virtual Check-Ins"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "header",
+      "content": "Telehealth and Virtual Check-Ins",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0113",
+      "title": "Telehealth and Virtual Check-Ins",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Telehealth and Virtual Check-Ins",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Telehealth and Virtual Check-Ins"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Virtual check-ins and telehealth services provided at a distant site are separately",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0114",
+      "title": "Telehealth and Virtual Check-Ins",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Telehealth and Virtual Check-Ins",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Telehealth and Virtual Check-Ins"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "reimbursable. You can include them on a claim with other payable services or bill them",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0115",
+      "title": "Telehealth and Virtual Check-Ins",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Telehealth and Virtual Check-Ins",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Telehealth and Virtual Check-Ins"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "separately and must include revenue code 052X and one of the following HCPCS codes:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0116",
+      "title": "Table (Page 5)",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Telehealth and Virtual Check-Ins",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Telehealth and Virtual Check-Ins"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "table",
+      "content": "| HCPCS | DESCRIPTION |\n| --- | --- |\n| G2025 | Payment for a telehealth distant site service furnished by a rural health\nclinic (RHC) or federally qualified health center (FQHC) only |\n| G0071 | Payment for communication technology-based services for 5 minutes or |",
+      "codes": [
+        "G0071",
+        "G2025"
+      ],
+      "table_data": {
+        "table_id": "tab_p5_2",
+        "title": "Table (Page 5)",
+        "columns": [
+          "HCPCS",
+          "DESCRIPTION"
+        ],
+        "row_count": 2,
+        "rows": [
+          {
+            "HCPCS": "G2025",
+            "DESCRIPTION": "Payment for a telehealth distant site service furnished by a rural health\nclinic (RHC) or federally qualified health center (FQHC) only"
+          },
+          {
+            "HCPCS": "G0071",
+            "DESCRIPTION": "Payment for communication technology-based services for 5 minutes or"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0117",
+      "title": "Telehealth and Virtual Check-Ins",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Telehealth and Virtual Check-Ins",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Telehealth and Virtual Check-Ins"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0020 - 2026-07-27 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0118",
+      "title": "Telehealth and Virtual Check-Ins",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Telehealth and Virtual Check-Ins",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Telehealth and Virtual Check-Ins"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0119",
+      "title": "Telehealth and Virtual Check-Ins",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Telehealth and Virtual Check-Ins",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Telehealth and Virtual Check-Ins"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0120",
+      "title": "Telehealth and Virtual Check-Ins",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Telehealth and Virtual Check-Ins",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Telehealth and Virtual Check-Ins"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Page 5 of 9",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0121",
+      "title": "Table (Page 5) (Continued)",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Telehealth and Virtual Check-Ins",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Telehealth and Virtual Check-Ins"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "table",
+      "content": "| HCPCS | DESCRIPTION |\n| --- | --- |\n|  | more of a virtual (non-face-to-face) communication between a rural\nhealth clinic (RHC) or federally qualified health center (FQHC)\npractitioner and RHC or FQHC patient, or 5 minutes or more of remote\nevaluation of recorded video and/or images by an RHC or FQHC\npractitioner, occurring in lieu of an office visit; RHC or FQHC only |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p6_1",
+        "title": "Table (Page 5) (Continued)",
+        "columns": [
+          "HCPCS",
+          "DESCRIPTION"
+        ],
+        "row_count": 1,
+        "rows": [
+          {
+            "HCPCS": "",
+            "DESCRIPTION": "more of a virtual (non-face-to-face) communication between a rural\nhealth clinic (RHC) or federally qualified health center (FQHC)\npractitioner and RHC or FQHC patient, or 5 minutes or more of remote\nevaluation of recorded video and/or images by an RHC or FQHC\npractitioner, occurring in lieu of an office visit; RHC or FQHC only"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0122",
+      "title": "Telehealth and Virtual Check-Ins",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Telehealth and Virtual Check-Ins",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Telehealth and Virtual Check-Ins"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Mental health services provided by audio-visual or audio only are separately payable. These",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0123",
+      "title": "Telehealth and Virtual Check-Ins",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Telehealth and Virtual Check-Ins",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Telehealth and Virtual Check-Ins"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "should be billed the same way as you would an in-person visit with the addition of the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0124",
+      "title": "Telehealth and Virtual Check-Ins",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Telehealth and Virtual Check-Ins",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Telehealth and Virtual Check-Ins"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "appropriate modifiers:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0125",
+      "title": "Table (Page 6)",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Telehealth and Virtual Check-Ins",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Telehealth and Virtual Check-Ins"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "table",
+      "content": "| MODIFIER | DESCRIPTION |\n| --- | --- |\n| 95 | Synchronous Telemedicine Service Rendered Via a Real-Time Interactive\nAudio and Video Telecommunications System |\n| 93 | Synchronous Telemedicine Service Rendered Via Telephone or Other\nReal-Time Interactive Audio-Only Telecommunications System |",
+      "codes": [
+        "95"
+      ],
+      "table_data": {
+        "table_id": "tab_p6_2",
+        "title": "Table (Page 6)",
+        "columns": [
+          "MODIFIER",
+          "DESCRIPTION"
+        ],
+        "row_count": 2,
+        "rows": [
+          {
+            "MODIFIER": "95",
+            "DESCRIPTION": "Synchronous Telemedicine Service Rendered Via a Real-Time Interactive\nAudio and Video Telecommunications System"
+          },
+          {
+            "MODIFIER": "93",
+            "DESCRIPTION": "Synchronous Telemedicine Service Rendered Via Telephone or Other\nReal-Time Interactive Audio-Only Telecommunications System"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0126",
+      "title": "Telehealth and Virtual Check-Ins",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Telehealth and Virtual Check-Ins",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Telehealth and Virtual Check-Ins"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "We follow CMS guidance for the coverage of all other telehealth services.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0127",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "header",
+      "content": "Vaccines",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0128",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Per CMS guidance, effective for dates of service on or after July 1, 2025, RHCs may bill for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0129",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "the following Medicare Part B preventive vaccines and their administration at the time of",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0130",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "service on institutional claims (Type of Bill 71X):",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0131",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● Pneumococcal",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0132",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● Influenza",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0133",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● Hepatitis B",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0134",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● COVID-19",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0135",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "HCPCS M0201 may also be billed for qualifying in-home administration. Payment will",
+      "codes": [
+        "M0201"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0136",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "follow Medicare Part B methodology (product at 95% of AWP, administration per the",
+      "codes": [
+        "95"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0137",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "current year Medicare Part B Vaccine Administration Fee Schedule), with annual cost report",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0138",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "reconciliation.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0139",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "All other vaccines remain non-RHC services and should be billed under applicable benefits",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0140",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0020 - 2026-07-27 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0141",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0142",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0143",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Page 6 of 9",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0144",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "following existing non-RHC billing requirements.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0145",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Non-RHC Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0146",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "We process these claims according to standard Medicare billing requirements with the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0147",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "exception of vaccines. For vaccine administration, please follow the guidance below:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0148",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● Submit on a CMS-1500 or X12 837P electronic equivalent with POS 11",
+      "codes": [
+        "X12"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0149",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● Use the RHC TIN/NPI in field 33a (Billing Provider)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0150",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● Include the rendering practitionerʼs NPI in field 24j (Rendering Provider ID)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0151",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● Payment for vaccines and their administration will be made based on the current",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0152",
+      "title": "Vaccines",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Vaccines",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Vaccines"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "year CMS allowance",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0153",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "ACRONYMS AND DEFINITIONS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0154",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● RHC Services: Services that are eligible for payment under the RHC AIR.1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0155",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● Non-RHC Services: Services furnished in an RHC that are not included in",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0156",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "the AIR payment methodology but may be eligible for payment under a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0157",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "different methodology.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0158",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● All-Inclusive Rate (AIR): A per diem payment methodology based on an",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0159",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "RHCʼs reasonable costs.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0160",
+      "title": "RESPONSIBILITIES",
+      "section": "RESPONSIBILITIES",
+      "subsection": null,
+      "hierarchy_path": [
+        "RESPONSIBILITIES"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "RESPONSIBILITIES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0161",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0162",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "REGULATORY REFERENCE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0163",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "definition",
+      "content": "142 CFR §405.2446: Scope of Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0164",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "definition",
+      "content": "2CMS MLN Booklet: Federally Qualified Health Center (MLN006397)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0165",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "3CMS Transmittal 13200 (Change Request 13964): Updates to Medicare Claims Processing",
+      "codes": [
+        "13200",
+        "13964"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0166",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "definition",
+      "content": "4CMS MLN Booklet: RuralHealth Center (MLN006398)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0167",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "5CMS Transmittal 13200 (Change Request 13964): Updates to Medicare Claims",
+      "codes": [
+        "13200",
+        "13964"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0168",
+      "title": "Processing",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "Processing",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "Processing"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "Processing",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0169",
+      "title": "Processing",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "Processing",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "Processing"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Medicare Claims Processing Manual, Chapter 9: Rural Health Clinics/Federally Qualified",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0170",
+      "title": "Processing",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "Processing",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "Processing"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Health Centers",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0171",
+      "title": "Processing",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "Processing",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "Processing"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0020 - 2026-07-27 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0172",
+      "title": "Processing",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "Processing",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "Processing"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0173",
+      "title": "Processing",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "Processing",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "Processing"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0174",
+      "title": "Processing",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "Processing",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "Processing"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Page 7 of 9",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0175",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "header",
+      "content": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0176",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0177",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0020 - 2026-07-27 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0178",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0179",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0180",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Page 8 of 9",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0181",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "header",
+      "content": "REVIEW AND VERSION HISTORY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0182",
+      "title": "Table (Page 9)",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "table",
+      "content": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-07-27 | CLMS.CP.0020 | 2.0 |\n| 2026-01-23 | CLMS.CP.0020 | 1.3 |\n| 2025-08-28 | CLMS.CP.0020 | 1.2 |\n| 2024-11-15 | CLMS.CP.0020 | 1.1 |\n| 2024-08-13 | CLMS.CP.0020 | 1.0 |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p9_1",
+        "title": "Table (Page 9)",
+        "columns": [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        "row_count": 5,
+        "rows": [
+          {
+            "Date": "2026-07-27",
+            "Document #": "CLMS.CP.0020",
+            "Version #": "2.0"
+          },
+          {
+            "Date": "2026-01-23",
+            "Document #": "CLMS.CP.0020",
+            "Version #": "1.3"
+          },
+          {
+            "Date": "2025-08-28",
+            "Document #": "CLMS.CP.0020",
+            "Version #": "1.2"
+          },
+          {
+            "Date": "2024-11-15",
+            "Document #": "CLMS.CP.0020",
+            "Version #": "1.1"
+          },
+          {
+            "Date": "2024-08-13",
+            "Document #": "CLMS.CP.0020",
+            "Version #": "1.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0183",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "Prior versions are available upon request",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0184",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0020 - 2026-07-27 v2.0",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0185",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0186",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0187",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "Page 9 of 9",
+      "codes": [],
+      "table_data": null
+    }
+  ]
+}

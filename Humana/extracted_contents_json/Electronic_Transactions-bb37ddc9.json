@@ -1,0 +1,164 @@
+{
+  "policy_title": "Electronic Transactions",
+  "policy_number": "CP2019002",
+  "effective_date": "06/2019",
+  "published_date": "06/2019",
+  "revision_date": "01/2025",
+  "source_pdf": "Electronic_Transactions-bb37ddc9.pdf",
+  "line_of_business": "Medicare Advantage and Medicaid Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 2,
+  "table_count": 0,
+  "block_count": 10,
+  "CPT_CODES_USED": [],
+  "MODIFIERS_USED": [
+    "24"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [],
+  "extracted_content": [
+    {
+      "title": "Overview",
+      "section": "Overview",
+      "subsection": null,
+      "hierarchy_path": "Overview",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Electronic claim submission, reimbursement and electronic remittance advice (ERA) transactions are less costly than paper-based transactions for both providers and payers. The majority of payer reimbursement to providers in the United States are conducted using electronic means, and the healthcare industry continues to move toward the elimination of paper transactions.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage and Medicaid Payment Policy",
+      "section": "References",
+      "subsection": "Medicare Advantage and Medicaid Payment Policy",
+      "hierarchy_path": "References > Medicare Advantage and Medicaid Payment Policy",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana encourages electronic transactions for claim submission, reimbursement and explanation of remittance advice.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 24 - General EDI and EDI Support Requirements, Electronic Claims, and Mandatory Electronic Filing of Medicare Claims. Sections 30.4 and 60.5.3. www.cms.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Humana website. Electronic claims payment. Humana.com.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Availity - Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Claims processing edit notifications - Alerts of upcoming claims payment changes are posted on the first Friday of each month.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Claims resources - Providers can find information on referrals, authorizations, electronic claim submissions and more.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Making it easier - This page contains an educational series for providers and healthcare professionals.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Medical and pharmacy coverage policies - Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Publications - This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note: Links to sources outside of Humana's control are verified at the time of publication. Please report broken links.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana encourages electronic transactions for claim submission, reimbursement and explanation of remittance advice."
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

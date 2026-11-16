@@ -1,0 +1,1492 @@
+{
+  "policy_title": "Laboratory - Biomarkers for Myocardial Infarction and",
+  "policy_number": "LAB2023001",
+  "effective_date": "06/2023",
+  "published_date": "06/2023",
+  "revision_date": "03/2026",
+  "source_pdf": "Laboratory_-_Biomarkers_for_Myocardial_Infarction_and_Chronic_Heart_Failure-35dc6188.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 7,
+  "table_count": 2,
+  "block_count": 66,
+  "CPT_CODES_USED": [
+    "84484",
+    "83880",
+    "82553",
+    "82554",
+    "84512",
+    "83006",
+    "82550",
+    "82552",
+    "82725",
+    "83625",
+    "83874",
+    "84588",
+    "86140",
+    "S0021",
+    "62075",
+    "80006",
+    "80236",
+    "S0735",
+    "30645",
+    "00325",
+    "90793"
+  ],
+  "MODIFIERS_USED": [
+    "LD",
+    "25",
+    "54",
+    "22",
+    "24",
+    "78",
+    "51",
+    "62",
+    "91",
+    "26",
+    "92",
+    "59"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "84484",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83880",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82553",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82554",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84512",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83006",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82550",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82552",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82725",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83625",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83874",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84588",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86140",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "S0021",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "62075",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "80006",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "80236",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "S0735",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "30645",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00325",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "90793",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Quantitative measurement of cardiac troponin T or I (CPT code 84484) for the diagnosis of myocardial infarction (MI) IS REIMBURSABLE for individuals presenting with any of the following:",
+      "codes": [
+        "84484"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Ischemic chest pain",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Ischemic chest pain",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Ischemic chest pain",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Pain in the upper abdomen, shoulders, upper arms, forearms, wrists, fingers, neck and throat, lower jaw and teeth or back pain",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Ischemic chest pain",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Ischemic chest pain",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Ischemic chest pain",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Shortness of breath, belching, nausea, indigestion, vomiting, diaphoresis, dizziness, lightheadedness, clamminess or fatigue",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Ischemic chest pain",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Ischemic chest pain",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Ischemic chest pain",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Squeezing, tightness, pressure, constriction, crushing, strangling, burning, heartburn, fullness in the chest, band-like sensation, knot in the center of the chest, lump in throat, ache, heavy weight on chest or toothache when there is radiation to the lower jaw",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Ischemic chest pain",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Ischemic chest pain",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Ischemic chest pain",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "A maximum of four serial quantitative troponin tests (CPT code 84484) IS REIMBURSABLE in the first three days after presentation.",
+      "codes": [
+        "84484"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Ischemic chest pain",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Ischemic chest pain",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Ischemic chest pain",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Testing for natriuretic peptide, such as B-Type Natriuretic Peptide (BNP) or N-terminal pro B-type natriuretic peptide (NT- proBNP) (CPT code 83880*) IS REIMBURSABLE for individuals presenting with dyspnea or shortness of breath.",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Ischemic chest pain",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Ischemic chest pain",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Ischemic chest pain",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Testing for BNP or NT-proBNP (CPT code 83880*) IS REIMBURSABLE every rolling 12 months for individuals presenting with any of the following:",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Acute or chronic combined systolic and diastolic heart failure",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Acute or chronic combined systolic and diastolic heart failure",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Acute or chronic combined systolic and diastolic heart failure",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Chronic heart failure: systolic, diastolic or combined systolic and diastolic",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Chronic right heart failure",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Chronic right heart failure",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Chronic right heart failure",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Measurement of the following cardiac biomarkers for the diagnosis or prognosis of MI IS NOT REIMBURSABLE in conjunction with the measurement of cardiac troponin T or I:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Please see the disclaimer on the first page. Page 2 of 7",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Please see the disclaimer on the first page. Page 2 of 7",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Please see the disclaimer on the first page. Page 2 of 7",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Cardiac creatine kinase isoenzyme myocardial band (CK-MB) (CPT code 82553, CPT code 82554)",
+      "codes": [
+        "82553",
+        "82554"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Myoglobin (CPT code 83874)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Myoglobin (CPT code 83874)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Myoglobin (CPT code 83874)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "For individuals with signs and symptoms of acute coronary syndrome, quantitative measurement of cardiac troponin T or I (CPT code 84484) by an independent laboratory IS NOT REIMBURSABLE.",
+      "codes": [
+        "84484"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Myoglobin (CPT code 83874)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Myoglobin (CPT code 83874)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Myoglobin (CPT code 83874)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "In the outpatient setting, qualitative measurement of cardiac troponin T or I (CPT code 84512) IS NOT REIMBURSABLE.",
+      "codes": [
+        "84512"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Myoglobin (CPT code 83874)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Myoglobin (CPT code 83874)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Myoglobin (CPT code 83874)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "In the outpatient setting, testing of growth stimulation expressed gene 2 (ST2) or its isoforms (CPT code 83006) IS NOT REIMBURSABLE.",
+      "codes": [
+        "83006"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code Description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code Description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code Description",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82550",
+      "codes": [
+        "82550"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Creatine kinase (CK), (CPK); total",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Creatine kinase (CK), (CPK); total",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Creatine kinase (CK), (CPK); total",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82552",
+      "codes": [
+        "82552"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Creatine kinase (CK), (CPK); isoenzymes",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Creatine kinase (CK), (CPK); isoenzymes",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Creatine kinase (CK), (CPK); isoenzymes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82553",
+      "codes": [
+        "82553"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Creatine kinase (CK), (CPK); MB fraction only",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Creatine kinase (CK), (CPK); MB fraction only",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Creatine kinase (CK), (CPK); MB fraction only",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82554",
+      "codes": [
+        "82554"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Creatine kinase (CK), (CPK); isoforms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Creatine kinase (CK), (CPK); isoforms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Creatine kinase (CK), (CPK); isoforms",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82725",
+      "codes": [
+        "82725"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Fatty acids, nonesterified",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Fatty acids, nonesterified",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Fatty acids, nonesterified",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83006 Growth stimulation expressed gene 2 (ST2, Interleukin 1 receptor like-1) 83625 Lactate dehydrogenase (LD), (LDH); isoenzymes, separation and quantitation 83874",
+      "codes": [
+        "83006",
+        "83625",
+        "83874"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Myoglobin",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Myoglobin",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Myoglobin",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83880*",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Natriuretic peptide",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Natriuretic peptide",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Natriuretic peptide",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84484",
+      "codes": [
+        "84484"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Troponin, quantitative",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Troponin, quantitative",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Troponin, quantitative",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84512",
+      "codes": [
+        "84512"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Troponin, qualitative",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Troponin, qualitative",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Troponin, qualitative",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84588",
+      "codes": [
+        "84588"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Vasopressin (antidiuretic hormone, ADH)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Vasopressin (antidiuretic hormone, ADH)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Vasopressin (antidiuretic hormone, ADH)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "86140",
+      "codes": [
+        "86140"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "B-Type Natriuretic Peptide",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "B-Type Natriuretic Peptide",
+      "hierarchy_path": "Medicare Advantage Payment Policy > B-Type Natriuretic Peptide",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "(BNP) Testing L33943 83880",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Procedure Code",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Procedure Code",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Procedure Code",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "First Coast Service Options, Inc.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "B-Type Natriuretic Peptide",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "B-Type Natriuretic Peptide",
+      "hierarchy_path": "Medicare Advantage Payment Policy > B-Type Natriuretic Peptide",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L33267 83880",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "National Government",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "National Government",
+      "hierarchy_path": "Medicare Advantage Payment Policy > National Government",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Services, Inc.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "B-Type Natriuretic Peptide",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "B-Type Natriuretic Peptide",
+      "hierarchy_path": "Medicare Advantage Payment Policy > B-Type Natriuretic Peptide",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "(BNP) Testing L33573 83880",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "B-Type Natriuretic Peptide",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "B-Type Natriuretic Peptide",
+      "hierarchy_path": "Medicare Advantage Payment Policy > B-Type Natriuretic Peptide",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "(BNP) Testing L35526 L34038 83880",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Brain Natriuretic Peptide",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Brain Natriuretic Peptide",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Brain Natriuretic Peptide",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "(BNP) Level L33422 83880",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "B-Type Natriuretic Peptide",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "B-Type Natriuretic Peptide",
+      "hierarchy_path": "Medicare Advantage Payment Policy > B-Type Natriuretic Peptide",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "(BNP) Testing L34410 83880",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Assessment",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Assessment",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Assessment",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L36523 83880",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Assessment",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Assessment",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Assessment",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "*The payment criteria for 83880 apply to all Medicare jurisdictions, except those states awarded to CGS Administrators, LLC., First Coast Service Options, Inc.,",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Assessment",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Assessment",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Assessment",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "National Government Services Inc., Noridian Healthcare Solutions, LLC., Palmetto GBA & Wisconsin Physician Service Insurance Corporation.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Amsterdam, E. A., Wenger, N. K., Brindis, R. G., Casey, D. E., Ganiats, T. G., Holmes, D. R., Jaffe, A. S., Jneid, H., Kelly, R. F., Kontos, M. C., Levine, G. N., Liebson, P. R., Mukherjee, D., Peterson, E. D., Sabatine, M. S., Smalling, R. W., & Zieman, S. J. (2014). 2014 AHA/ACC Guideline for the Management of Patients With Non-ST-Elevation Acute Coronary Syndromes. A Report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines, 130(25), e344-e426. https://doi.org/10.1161/cir.0000000000000134 Anand, A., Shah, A. S. V., Beshiri, A., Jaffe, A. S., & Mills, N. L. (2019). Global Adoption of High-Sensitivity Cardiac Troponins and the Universal Definition of Myocardial Infarction. Clin Chem, 65(3), 484-489. https://doi.org/10.1373/clinchem.2018.298059 Anderson, P. A., Malouf, N. N., Oakeley, A. E., Pagani, E. D., & Allen, P. D. (1991). Troponin T isoform expression in humans. A comparison among normal and failing adult heart, fetal heart, and adult and fetal skeletal muscle. Circ Res, 69(5), 1226-1233. https://doi.org/10.1161/01.res.69.5.1226 ASCP. (2015, February 3). Don't test for myoglobin or CK-MB in the diagnosis of acute myocardial infarction (AMI). Instead, use troponin I or T. https://www.choosingwisely.org/clinician-lists/american-society-clinical-pathology-myoglobin-to-diagnose- acute-myocardial-infarction/ Bayes-Genis, A., Zhang, Y., & Ky, B. (2015). ST2 and patient prognosis in chronic heart failure. Am J Cardiol, 115(7 Suppl), 64b-69b. https://doi.org/10.1016/j.amjcard.2015.01.043 Bessman, S. P., & Carpenter, C. L. (1985). The creatine-creatine phosphate energy shuttle. Annu Rev Biochem, 54, 831-862. https://doi.org/10.1146/annurev.bi.54.070185.004151 Bodor, G. S., Porterfield, D., Voss, E. M., Smith, S., & Apple, F. S. (1995). Cardiac troponin-I is not expressed in fetal and healthy or diseased adult human skeletal muscle tissue. Clin Chem, 41(12 Pt 1), 1710-1715. https://pubmed.ncbi.nlm.nih.gov/7497610/ Bodor, G. S., Survant, L., Voss, E. M., Smith, S., Porterfield, D., & Apple, F. S. (1997). Cardiac troponin T composition in normal and regenerating human skeletal muscle. Clin Chem, 43(3), 476-484. https://doi.org/10.1093/clinchem/43.3.476 Boeddinghaus, J., Nestelberger, T., Koechlin, L., Wussler, D., Lopez-Ayala, P., Walter, J. E., Troester, V., Ratmann, P. D., Seidel, F., Zimmermann, T., Badertscher, P., Wildi, K., Giménez, M. R., Potlukova, E., Strebel, I., Freese, M., Miró, Ò., Martin-Sanchez, F. J., Kawecki, D., . . . Geigy, N. (2020). Early Diagnosis of Myocardial Infarction With Point-of-Care High-Sensitivity Cardiac Troponin I. Journal of the American College of Cardiology, 75(10), 1111-1124. https://doi.org/doi:10.1016/j.jacc.2019.12.065 Boman, K., Thormark Frost, F., Bergman, A. R., & Olofsson, M. (2018). NTproBNP and ST2 as predictors for all-cause and cardiovascular mortality in elderly patients with symptoms suggestive for heart failure. Biomarkers, 23(4), 373-379. https://doi.org/10.1080/1354750x.2018.1431692",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Please see the disclaimer on the first page. Page 4 of 7",
+      "section": "References",
+      "subsection": "Please see the disclaimer on the first page. Page 4 of 7",
+      "hierarchy_path": "References > Please see the disclaimer on the first page. Page 4 of 7",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Chow, S. L., Maisel, A. S., Anand, I., Bozkurt, B., de Boer Rudolf, A., Felker, G. M., Fonarow, G. C., Greenberg, B., Januzzi, J. L., Kiernan, M. S., Liu, P. P., Wang, T. J., Yancy, C. W., & Zile, M. R. (2017). Role of Biomarkers for the Prevention, Assessment, and Management of Heart Failure: A Scientific Statement From the American Heart Association. Circulation, 135(22), e1054-e1091. https://doi.org/10.1161/CIR.0000000000000490 Collet, J. P., Thiele, H., Barbato, E., Barthélémy, O., Bauersachs, J., Bhatt, D. L., Dendale, P., Dorobantu, M., Edvardsen, T., Folliguet, T., Gale, C. P., Gilard, M., Jobs, A., Jüni, P., Lambrinou, E., Lewis, B. S., Mehilli, J., Meliga, E., Merkely, B., . . . Siontis, G. C. M. (2021). 2020 ESC Guidelines for the management of acute coronary syndromes in patients presenting without persistent ST- segment elevation. Eur Heart J, 42(14), 1289-1367. https://doi.org/10.1093/eurheartj/ehaa575 Colucci, W. (2021, January 27). Prognosis of heart failure. https://www.uptodate.com/contents/prognosis-of-heart-failure Colucci, W. (2023, May 23, 2023). Overview of the therapy of heart failure with reduced ejection fraction. https://www.uptodate.com/contents/overview-of-the-management-of-heart-failure-with-reduced-ejection-fraction-in-adults Colucci, W., & Dunlay, S. (2022, August 10, 2022). Clinical manifestations and diagnosis of advanced heart failure. https://www.uptodate.com/contents/clinical-manifestations-and-diagnosis-of-advanced-heart-failure Cresci, S., Pereira Naveen, L., Ahmad, F., Byku, M., de las Fuentes, L., Lanfear David, E., Reilly Carolyn, M., Owens Anjali, T., Wolf Matthew, J., & null, n. (2019). Heart Failure in the Era of Precision Medicine: A Scientific Statement From the American Heart Association. Circulation: Genomic and Precision Medicine, 12(10), e000058. https://doi.org/10.1161/HCG.0000000000000058 Crespo-Leiro, M. G., Metra, M., Lund, L. H., Milicic, D., Costanzo, M. R., Filippatos, G., Gustafsson, F., Tsui, S., Barge-Caballero, E., De Jonge, N., Frigerio, M., Hamdan, R., Hasin, T., Hulsmann, M., Nalbantgil, S., Potena, L., Bauersachs, J., McDonagh, T., Seferovic, P., & Ruschitzka, F. (2018). Advanced heart failure: a position statement of the Heart Failure Association of the European Society of Cardiology. Eur J Heart Fail. https://doi.org/10.1002/ejhf.1236 Danese, E., & Montagnana, M. (2016). An historical approach to the diagnostic biomarkers of acute coronary syndrome. Ann Transl",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Med, 4(10), 194. https://doi.org/10.21037/atm.2016.05.19",
+      "section": "References",
+      "subsection": "Med, 4(10), 194. https://doi.org/10.21037/atm.2016.05.19",
+      "hierarchy_path": "References > Med, 4(10), 194. https://doi.org/10.21037/atm.2016.05.19",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Dillon, M. C., Calbreath, D. F., Dixon, A. M., Rivin, B. E., Roark, S. F., Ideker, R. E., & Wagner, G. S. (1982). Diagnostic problem in acute myocardial infarction: CK-MB in the absence of abnormally elevated total creatine kinase levels. Arch Intern Med, 142(1), 33-38. https://doi.org/10.1001/archinte.1982.00340140035009 Dimitropoulos, S., Mystakidi, V. C., Oikonomou, E., Siasos, G., Tsigkou, V., Athanasiou, D., Gouliopoulos, N., Bletsa, E., Kalampogias, A., Charalambous, G., Tsioufis, C., Vavuranakis, M., & Tousoulis, D. (2020). Association of Soluble Suppression of Tumorigenesis- 2 (ST2) with Endothelial Function in Patients with Ischemic Heart Failure. Int J Mol Sci, 21(24). https://doi.org/10.3390/ijms21249385 Eggers, K. M., Oldgren, J., Nordenskjold, A., & Lindahl, B. (2004). Diagnostic value of serial measurement of cardiac markers in patients with chest pain: limited value of adding myoglobin to troponin I for exclusion of myocardial infarction. Am Heart J, 148(4), 574-581. https://doi.org/10.1016/j.ahj.2004.04.030 Engel, G., & Rockson, S. G. (2020). Feasibility and Reliability of Rapid Diagnosis of Myocardial Infarction. The American Journal of the Medical Sciences, 359(2), 73-78. https://doi.org/10.1016/j.amjms.2019.12.012 FDA. (2011). SUBSTANTIAL EQUIVALENCE DETERMINATION https://www.accessdata.fda.gov/cdrh_docs/reviews/K111452.pdf Gencer, B., Brotons, C., Mueller, C., Mukherjee, D., Chew, D. P., Andreotti, F., Hasenfuss, G., Collet, J.-P., Bax, J. J., Mehilli, J., Kjeldsen, K., Valgimigli, M., Borger, M. A., Lancellotti, P., Storey, R. F., Windecker, S., Landmesser, U., Patrono, C., Roffi, M., & Group, E. S. C. S. D. (2016). 2015 ESC Guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation: Task Force for the Management of Acute Coronary Syndromes in Patients Presenting without Persistent ST-Segment Elevation of the European Society of Cardiology (ESC). European Heart Journal, 37(3), 267-315. https://doi.org/10.1093/eurheartj/ehv320 Glatz, J. F., & van der Vusse, G. J. (1990). Cellular fatty acid-binding proteins: current concepts and future directions. Mol Cell",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Biochem, 98(1-2), 237-251. https://doi.org/10.1007/bf00231390",
+      "section": "References",
+      "subsection": "Biochem, 98(1-2), 237-251. https://doi.org/10.1007/bf00231390",
+      "hierarchy_path": "References > Biochem, 98(1-2), 237-251. https://doi.org/10.1007/bf00231390",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Greaser, M. L., & Gergely, J. (1971). Reconstitution of troponin activity from three protein components. J Biol Chem, 246(13), 4226-",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Biochem, 98(1-2), 237-251. https://doi.org/10.1007/bf00231390",
+      "section": "References",
+      "subsection": "Biochem, 98(1-2), 237-251. https://doi.org/10.1007/bf00231390",
+      "hierarchy_path": "References > Biochem, 98(1-2), 237-251. https://doi.org/10.1007/bf00231390",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "4233. https://doi.org/10.1016/S0021-9258(18)62075-7",
+      "codes": [
+        "S0021",
+        "62075"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Biochem, 98(1-2), 237-251. https://doi.org/10.1007/bf00231390",
+      "section": "References",
+      "subsection": "Biochem, 98(1-2), 237-251. https://doi.org/10.1007/bf00231390",
+      "hierarchy_path": "References > Biochem, 98(1-2), 237-251. https://doi.org/10.1007/bf00231390",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Heidenreich, P. A., Bozkurt, B., Aguilar, D., Allen, L. A., Byun, J. J., Colvin, M. M., Deswal, A., Drazner, M. H., Dunlay, S. M., Evers, L. R., Fang, J. C., Fedson, S. E., Fonarow, G. C., Hayek, S. S., Hernandez, A. F., Khazanie, P., Kittleson, M. M., Lee, C. S., Link, M. S., &",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Please see the disclaimer on the first page. Page 5 of 7",
+      "section": "References",
+      "subsection": "Please see the disclaimer on the first page. Page 5 of 7",
+      "hierarchy_path": "References > Please see the disclaimer on the first page. Page 5 of 7",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Milano, C. A. (2022). 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure. Journal of the American College of",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Cardiology. https://doi.org/10.1016/j.jacc.2021.12.012",
+      "section": "References",
+      "subsection": "Cardiology. https://doi.org/10.1016/j.jacc.2021.12.012",
+      "hierarchy_path": "References > Cardiology. https://doi.org/10.1016/j.jacc.2021.12.012",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Heller, G. V., Blaustein, A. S., & Wei, J. Y. (1983). Implications of increased myocardial isoenzyme level in the presence of normal serum creatine kinase activity. Am J Cardiol, 51(1), 24-27. https://doi.org/10.1016/s0002-9149(83)80006-x Hillinger, P., Twerenbold, R., Jaeger, C., Wildi, K., Reichlin, T., Gimenez, M. R., Engels, U., Miró, O., Boeddinghaus, J., Puelacher, C., Nestelberger, T., Röthlisberger, M., Ernst, S., Rentsch, K., & Mueller, C. (2015). Optimizing Early Rule-Out Strategies for Acute Myocardial Infarction: Utility of 1-Hour Copeptin. Clin Chem, 61(12), 1466-1474. https://doi.org/10.1373/clinchem.2015.242743 Hou, Z. W., Yu, H. B., Liang, Y. C., Gao, Y., Xu, G. Q., Wu, M., Mei, Z., Wang, Z. L., Li, Z. G., Li, Y. Y., Song, H. X., Li, J. Y., & Han, Y. L. (2020). Circulating Soluble ST2 Predicts All-Cause Mortality in Severe Heart Failure Patients with an Implantable Cardioverter Defibrillator. Cardiol Res Pract, 2020, 4375651. https://doi.org/10.1155/2020/4375651 Jaffe, A. S., Chaitman, B. R., Morrow, D. A., Bax, J. J., White, H. D., Alpert, J. S., Thygesen, K., & Group, E. S. C. S. D. (2018). Fourth universal definition of myocardial infarction (2018). European Heart Journal, 40(3), 237-269. https://doi.org/10.1093/eurheartj/ehy462 Jaffe, A. S., & Morrow, D. A. (2021, February 15). Biomarkers of cardiac injury other than troponin. Wolters Kluwer. https://www.uptodate.com/contents/biomarkers-of-cardiac-injury-other-than-troponin Januzzi, J. L., Horne, B. D., Moore, S. A., Galenko, O., Snow, G. L., Brunisholz, K. D., Muhlestein, J. B., Alharethi, R., Carlquist, J. F., Budge, D., Rasmussen, K., & Kfoury, A. G. (2013). Interleukin receptor family member ST2 concentrations in patients following heart transplantation. Biomarkers, 18(3), 250-256. https://doi.org/10.3109/1354750x.2013.773081 Januzzi, J. L., Mebazaa, A., & Di Somma, S. (2015). ST2 and prognosis in acutely decompensated heart failure: the International ST2 Consensus Panel. Am J Cardiol, 115(7 Suppl), 26b-31b. https://doi.org/10.1016/j.amjcard.2015.01.037 Jeong, J. H., Seo, Y. H., Ahn, J. Y., Kim, K. H., Seo, J. Y., Chun, K. Y., Lim, Y. S., & Park, P. W. (2020). Performance of Copeptin for Early Diagnosis of Acute Myocardial Infarction in an Emergency Department Setting. Ann Lab Med, 40(1), 7-14. https://doi.org/10.3343/alm.2020.40.1.7 Kavsak, P. A., MacRae, A. R., Newman, A. M., Lustig, V., Palomaki, G. E., Ko, D. T., Tu, J. V., & Jaffe, A. S. (2007). Effects of contemporary troponin assay sensitivity on the utility of the early markers myoglobin and CKMB isoforms in evaluating patients with possible acute myocardial infarction. Clin Chim Acta, 380(1-2), 213-216. https://doi.org/10.1016/j.cca.2007.01.001 Khan, S. Q., Dhillon, O. S., O'Brien, R. J., Struck, J., Quinn, P. A., Morgenthaler, N. G., Squire, I. B., Davies, J. E., Bergmann, A., & Ng, L. L. (2007). C-Terminal Provasopressin (Copeptin) as a Novel and Prognostic Marker in Acute Myocardial Infarction. Leicester Acute Myocardial Infarction Peptide (LAMP) Study, 115(16), 2103-2110. https://doi.org/10.1161/circulationaha.106.685503 Knuuti, J., Wijns, W., Saraste, A., Capodanno, D., Barbato, E., Funck-Brentano, C., Prescott, E., Storey, R. F., Deaton, C., Cuisset, T., Agewall, S., Dickstein, K., Edvardsen, T., Escaned, J., Gersh, B. J., Svitil, P., Gilard, M., Hasdai, D., Hatala, R., . . . Group, E. S. C. S. D. (2019). 2019 ESC Guidelines for the diagnosis and management of chronic coronary syndromes: The Task Force for the diagnosis and management of chronic coronary syndromes of the European Society of Cardiology (ESC). European Heart Journal, 41(3), 407-477. https://doi.org/10.1093/eurheartj/ehz425 Ky, B., French, B., McCloskey, K., Rame, J. E., McIntosh, E., Shahi, P., Dries, D. L., Tang, W. H., Wu, A. H., Fang, J. C., Boxer, R., Sweitzer, N. K., Levy, W. C., Goldberg, L. R., Jessup, M., & Cappola, T. P. (2011). High-sensitivity ST2 for prediction of adverse outcomes in chronic heart failure. Circ Heart Fail, 4(2), 180-187. https://doi.org/10.1161/circheartfailure.110.958223 Maisel, A., Mueller, C., Neath, S.-X., Christenson, R. H., Morgenthaler, N. G., McCord, J., Nowak, R. M., Vilke, G., Daniels, L. B., Hollander, J. E., Apple, F. S., Cannon, C., Nagurney, J. T., Schreiber, D., deFilippi, C., Hogan, C., Diercks, D. B., Stein, J. C., Headden, G., . . . Peacock, W. F. (2013). Copeptin Helps in the Early Detection of Patients With Acute Myocardial Infarction: Primary Results of the CHOPIN Trial (Copeptin Helps in the early detection Of Patients with acute myocardial INfarction). Journal of the American College of Cardiology, 62(2), 150-160. https://doi.org/10.1016/j.jacc.2013.04.011 Marshall, T., Williams, J., & Williams, K. M. (1991). Electrophoresis of serum isoenzymes and proteins following acute myocardial infarction. J Chromatogr, 569(1-2), 323-345. https://doi.org/10.1016/0378-4347(91)80236-6 McDonagh, T. A., Metra, M., Adamo, M., Gardner, R. S., Baumbach, A., Böhm, M., Burri, H., Butler, J., Čelutkienė, J., Chioncel, O., Cleland, J. G. F., Coats, A. J. S., Crespo-Leiro, M. G., Farmakis, D., Gilard, M., Heymans, S., Hoes, A. W., Jaarsma, T., Jankowska, E. A., . . . Kathrine Skibelund, A. (2021). 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J, 42(36), 3599-3726. https://doi.org/10.1093/eurheartj/ehab368",
+      "codes": [
+        "80006",
+        "80236"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Please see the disclaimer on the first page. Page 6 of 7",
+      "section": "References",
+      "subsection": "Please see the disclaimer on the first page. Page 6 of 7",
+      "hierarchy_path": "References > Please see the disclaimer on the first page. Page 6 of 7",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "McLaurin, M. D., Apple, F. S., Voss, E. M., Herzog, C. A., & Sharkey, S. W. (1997). Cardiac troponin I, cardiac troponin T, and creatine kinase MB in dialysis patients without ischemic heart disease: evidence of cardiac troponin T expression in skeletal muscle. Clin Chem, 43(6 Pt 1), 976-982. https://doi.org/10.1093/clinchem/43.6.976 Moussa, I. D., Klein, L. W., Shah, B., Mehran, R., Mack, M. J., Brilakis, E. S., Reilly, J. P., Zoghbi, G., Holper, E., & Stone, G. W. (2013). Consideration of a new definition of clinically relevant myocardial infarction after coronary revascularization: an expert consensus document from the Society for Cardiovascular Angiography and Interventions (SCAI). J Am Coll Cardiol, 62(17), 1563-",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Please see the disclaimer on the first page. Page 6 of 7",
+      "section": "References",
+      "subsection": "Please see the disclaimer on the first page. Page 6 of 7",
+      "hierarchy_path": "References > Please see the disclaimer on the first page. Page 6 of 7",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "1570. https://doi.org/10.1016/j.jacc.2013.08.720",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Please see the disclaimer on the first page. Page 6 of 7",
+      "section": "References",
+      "subsection": "Please see the disclaimer on the first page. Page 6 of 7",
+      "hierarchy_path": "References > Please see the disclaimer on the first page. Page 6 of 7",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "Neumann, J. T., Twerenbold, R., Ojeda, F., Sorensen, N. A., Chapman, A. R., Shah, A. S. V., Anand, A., Boeddinghaus, J., Nestelberger, T., Badertscher, P., Mokhtari, A., Pickering, J. W., Troughton, R. W., Greenslade, J., Parsonage, W., Mueller-Hennessen, M., Gori, T., Jernberg, T., Morris, N., . . . Blankenberg, S. (2019). Application of High-Sensitivity Troponin in Suspected Myocardial Infarction. N Engl J Med, 380(26), 2529-2540. https://doi.org/10.1056/NEJMoa1803377 Nguyen, T. N., Le, P. X. M., Le, T. X., Nguyen, K. D. A., Nguyen, T. T., Nguyen, T. M., & Tran, V. T. (2020). THE VALUE OF HEART-FATTY ACID BINDING PROTEIN (H-FABP) IN THE EARLY DIAGNOSTIC OF PATIENTS WITH ACUTE MYOCARDIAL INFARCTION. Journal of the American College of Cardiology, 75(11_Supplement_1), 18-18. https://doi.org/doi:10.1016/S0735-1097(20)30645-8 NICE. (2016). Chest pain of recent onset: assessment and diagnosis. https://www.nice.org.uk/guidance/cg95/chapter/Recommendations NICE. (2018, September 12). Chronic heart failure in adults: diagnosis and management. https://www.nice.org.uk/guidance/ng106 NICE. (2020). High-sensitivity troponin tests for the early rule out of NSTEMI. https://www.nice.org.uk/guidance/dg40/chapter/1-",
+      "codes": [
+        "S0735",
+        "30645"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Recommendations",
+      "section": "References",
+      "subsection": "Recommendations",
+      "hierarchy_path": "References > Recommendations",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "O'Connor Robert, E., Al Ali Abdulaziz, S., Brady William, J., Ghaemmaghami Chris, A., Menon, V., Welsford, M., & Shuster, M. (2015). Part 9: Acute Coronary Syndromes. Circulation, 132(18_suppl_2), S483-S500. https://doi.org/10.1161/CIR.0000000000000263 Pascual-Figal, D. A., & Januzzi, J. L. (2015). The biology of ST2: the International ST2 Consensus Panel. Am J Cardiol, 115(7 Suppl), 3b- 7b. https://doi.org/10.1016/j.amjcard.2015.01.034 Penttila, I., Penttila, K., & Rantanen, T. (2000). Laboratory diagnosis of patients with acute chest pain. Clin Chem Lab Med, 38(3), 187-197. https://doi.org/10.1515/cclm.2000.027 Ponikowski, P., Voors, A. A., Anker, S. D., Bueno, H., Cleland, J. G. F., Coats, A. J. S., Falk, V., González-Juanatey, J. R., Harjola, V.-P., Jankowska, E. A., Jessup, M., Linde, C., Nihoyannopoulos, P., Parissis, J. T., Pieske, B., Riley, J. P., Rosano, G. M. C., Ruilope, L. M., Ruschitzka, F., . . . Group, E. S. C. S. D. (2016). 2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: The Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC)Developed with the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal, 37(27), 2129-2200. https://doi.org/10.1093/eurheartj/ehw128 Reeder, G., S., Awtry, E., Mahler, S., A. (2023). Initial evaluation and management of suspected acute coronary syndrome (myocardial infarction, unstable angina) in the emergency department. https://www.uptodate.com/contents/initial-evaluation- and-management-of-suspected-acute-coronary-syndrome-myocardial-infarction-unstable-angina-in-the-emergency- department ResponseBio. (2023). POINT OF CARE CARDIAC. https://responsebio.com/acute-care-diagnostics/cardiovascular/ Roche. (2023). Roche CARDIAC Trop T Sensitive test (visual). https://diagnostics.roche.com/global/en/products/params/roche- cardiac-trop-t-sensitive-test-visual.html Saggin, L., Gorza, L., Ausoni, S., & Schiaffino, S. (1990). Cardiac troponin T in developing, regenerating and denervated rat skeletal muscle. Development, 110(2), 547-554. https://doi.org/10.1242/dev.110.2.547 Seino, Y., Ogata, K., Takano, T., Ishii, J., Hishida, H., Morita, H., Takeshita, H., Takagi, Y., Sugiyama, H., Tanaka, T., & Kitaura, Y. (2003). Use of a whole blood rapid panel test for heart-type fatty acid-binding protein in patients with acute chest pain: comparison with rapid troponin T and myoglobin tests. Am J Med, 115(3), 185-190. https://doi.org/10.1016/s0002-9343(03)00325-5 Tamis-Holland Jacqueline, E., Jneid, H., Reynolds Harmony, R., Agewall, S., Brilakis Emmanouil, S., Brown Todd, M., Lerman, A., Cushman, M., Kumbhani Dharam, J., Arslanian-Engoren, C., Bolger Ann, F., Beltrame John, F., & null, n. (2019). Contemporary Diagnosis and Management of Patients With Myocardial Infarction in the Absence of Obstructive Coronary Artery Disease: A Scientific Statement From the American Heart Association. Circulation, 139(18), e891-e908. https://doi.org/10.1161/CIR.0000000000000670",
+      "codes": [
+        "00325"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Please see the disclaimer on the first page. Page 7 of 7",
+      "section": "References",
+      "subsection": "Please see the disclaimer on the first page. Page 7 of 7",
+      "hierarchy_path": "References > Please see the disclaimer on the first page. Page 7 of 7",
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content": "Thygesen, K., Alpert, J. S., Jaffe, A. S., Simoons, M. L., Chaitman, B. R., & White, H. D. (2012). Third Universal Definition of Myocardial Infarction. Circulation, 126(16), 2020-2035. https://doi.org/10.1161/CIR.0b013e31826e1058 Thygesen, K., Alpert, J. S., & White, H. D. (2007). Universal Definition of Myocardial Infarction. Circulation, 116(22), 2634-2653. https://doi.org/10.1161/circulationaha.107.187397 Van Nieuwenhoven, F. A., Kleine, A. H., Wodzig, W. H., Hermens, W. T., Kragten, H. A., Maessen, J. G., Punt, C. D., Van Dieijen, M. P., Van der Vusse, G. J., & Glatz, J. F. (1995). Discrimination between myocardial and skeletal muscle injury by assessment of the plasma ratio of myoglobin over fatty acid-binding protein. Circulation, 92(10), 2848-2854. https://doi.org/10.1161/01.CIR.92.10.2848 Wang, T. J., Wollert, K. C., Larson, M. G., Coglianese, E., McCabe, E. L., Cheng, S., Ho, J. E., Fradley, M. G., Ghorbani, A., Xanthakis, V., Kempf, T., Benjamin, E. J., Levy, D., Vasan, R. S., & Januzzi, J. L. (2012). Prognostic utility of novel biomarkers of cardiovascular stress: the Framingham Heart Study. Circulation, 126(13), 1596-1604. https://doi.org/10.1161/circulationaha.112.129437 Wang, Y., Tan, X., Gao, H., Yuan, H., Hu, R., Jia, L., Zhu, J., Sun, L., Zhang, H., Huang, L., Zhao, D., Gao, P., & Du, J. (2018). Magnitude of Soluble ST2 as a Novel Biomarker for Acute Aortic Dissection. Circulation, 137(3), 259-269. https://doi.org/10.1161/circulationaha.117.030469 WHO. (1979). Nomenclature and criteria for diagnosis of ischemic heart disease. Report of the Joint International Society and Federation of Cardiology/World Health Organization task force on standardization of clinical nomenclature. https://www.ahajournals.org/doi/pdf/10.1161/01.CIR.59.3.607 Wijk, S. S.-v., Maeder, M. T., Nietlispach, F., Rickli, H., Estlinbaum, W., Erne, P., Rickenbacher, P., Peter, M., Pfisterer, M. P., & Rocca, H.-P. B.-L. (2014). Long-Term Results of Intensified, N-Terminal-Pro-B-Type Natriuretic Peptide-Guided Versus Symptom-Guided Treatment in Elderly Patients With Heart Failure. Circulation: Heart Failure, 7(1), 131-139. https://doi.org/doi:10.1161/CIRCHEARTFAILURE.113.000527 Wilson S Colucci, H. H. C. (2023). Natriuretic peptide measurement in heart failure. https://www.uptodate.com/contents/natriuretic-peptide-measurement-in-heart-failure Yancy, C. W., Jessup, M., Bozkurt, B., Butler, J., Casey, D. E., Colvin, M. M., Drazner, M. H., Filippatos, G. S., Fonarow, G. C., Givertz, M. M., Hollenberg, S. M., Lindenfeld, J., Masoudi, F. A., McBride, P. E., Peterson, P. N., Stevenson, L. W., & Westlake, C. (2017). 2017 ACC/AHA/HFSA Focused Update of the 2013 ACCF/AHA Guideline for the Management of Heart Failure. Journal of the American College of Cardiology, 70(6), 776-803. https://doi.org/doi:10.1016/j.jacc.2017.04.025 Yancy, C. W., Jessup, M., Bozkurt, B., Butler, J., Casey, D. E., Drazner, M. H., Fonarow, G. C., Geraci, S. A., Horwich, T., Januzzi, J. L., Johnson, M. R., Kasper, E. K., Levy, W. C., Masoudi, F. A., McBride, P. E., McMurray, J. J. V., Mitchell, J. E., Peterson, P. N., Riegel, B., . . . Wilkoff, B. L. (2013). 2013 ACCF/AHA Guideline for the Management of Heart Failure: Executive Summary. https://doi.org/10.1161/CIR.0b013e31829e8807 Yusuf, S., Collins, R., Lin, L., Sterry, H., Pearson, M., & Sleight, P. (1987). Significance of elevated MB isoenzyme with normal creatine kinase in acute myocardial infarction. Am J Cardiol, 59(4), 245-250. https://doi.org/10.1016/0002-9149(87)90793-4",
+      "codes": [
+        "90793"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82550: 82552 | Procedure Code:  | Creatine kinase (CK), (CPK); total: Creatine kinase (CK), (CPK); isoenzymes | Code Description: ",
+      "codes": [
+        "82550",
+        "82552"
+      ],
+      "table_data": {
+        "columns": [
+          "82550",
+          "Procedure Code",
+          "Creatine kinase (CK), (CPK); total",
+          "Code Description"
+        ],
+        "row": {
+          "82550": "82552",
+          "Procedure Code": "",
+          "Creatine kinase (CK), (CPK); total": "Creatine kinase (CK), (CPK); isoenzymes",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82550: 82553 | Procedure Code:  | Creatine kinase (CK), (CPK); total: Creatine kinase (CK), (CPK); MB fraction only | Code Description: ",
+      "codes": [
+        "82550",
+        "82553"
+      ],
+      "table_data": {
+        "columns": [
+          "82550",
+          "Procedure Code",
+          "Creatine kinase (CK), (CPK); total",
+          "Code Description"
+        ],
+        "row": {
+          "82550": "82553",
+          "Procedure Code": "",
+          "Creatine kinase (CK), (CPK); total": "Creatine kinase (CK), (CPK); MB fraction only",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82550: 82554 | Procedure Code:  | Creatine kinase (CK), (CPK); total: Creatine kinase (CK), (CPK); isoforms | Code Description: ",
+      "codes": [
+        "82550",
+        "82554"
+      ],
+      "table_data": {
+        "columns": [
+          "82550",
+          "Procedure Code",
+          "Creatine kinase (CK), (CPK); total",
+          "Code Description"
+        ],
+        "row": {
+          "82550": "82554",
+          "Procedure Code": "",
+          "Creatine kinase (CK), (CPK); total": "Creatine kinase (CK), (CPK); isoforms",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82550: 82725 | Procedure Code:  | Creatine kinase (CK), (CPK); total: Fatty acids, nonesterified | Code Description: ",
+      "codes": [
+        "82550",
+        "82725"
+      ],
+      "table_data": {
+        "columns": [
+          "82550",
+          "Procedure Code",
+          "Creatine kinase (CK), (CPK); total",
+          "Code Description"
+        ],
+        "row": {
+          "82550": "82725",
+          "Procedure Code": "",
+          "Creatine kinase (CK), (CPK); total": "Fatty acids, nonesterified",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82550: 83006 | Procedure Code:  | Creatine kinase (CK), (CPK); total: Growth stimulation expressed gene 2 (ST2, Interleukin 1 receptor like-1) | Code Description: ",
+      "codes": [
+        "82550",
+        "83006"
+      ],
+      "table_data": {
+        "columns": [
+          "82550",
+          "Procedure Code",
+          "Creatine kinase (CK), (CPK); total",
+          "Code Description"
+        ],
+        "row": {
+          "82550": "83006",
+          "Procedure Code": "",
+          "Creatine kinase (CK), (CPK); total": "Growth stimulation expressed gene 2 (ST2, Interleukin 1 receptor like-1)",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82550: 83625 | Procedure Code:  | Creatine kinase (CK), (CPK); total: Lactate dehydrogenase (LD), (LDH); isoenzymes, separation and quantitation | Code Description: ",
+      "codes": [
+        "82550",
+        "83625"
+      ],
+      "table_data": {
+        "columns": [
+          "82550",
+          "Procedure Code",
+          "Creatine kinase (CK), (CPK); total",
+          "Code Description"
+        ],
+        "row": {
+          "82550": "83625",
+          "Procedure Code": "",
+          "Creatine kinase (CK), (CPK); total": "Lactate dehydrogenase (LD), (LDH); isoenzymes, separation and quantitation",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82550: 83874 | Procedure Code:  | Creatine kinase (CK), (CPK); total: Myoglobin | Code Description: ",
+      "codes": [
+        "82550",
+        "83874"
+      ],
+      "table_data": {
+        "columns": [
+          "82550",
+          "Procedure Code",
+          "Creatine kinase (CK), (CPK); total",
+          "Code Description"
+        ],
+        "row": {
+          "82550": "83874",
+          "Procedure Code": "",
+          "Creatine kinase (CK), (CPK); total": "Myoglobin",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82550: 83880* | Procedure Code:  | Creatine kinase (CK), (CPK); total: Natriuretic peptide | Code Description: ",
+      "codes": [
+        "82550",
+        "83880"
+      ],
+      "table_data": {
+        "columns": [
+          "82550",
+          "Procedure Code",
+          "Creatine kinase (CK), (CPK); total",
+          "Code Description"
+        ],
+        "row": {
+          "82550": "83880*",
+          "Procedure Code": "",
+          "Creatine kinase (CK), (CPK); total": "Natriuretic peptide",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82550: 84484 | Procedure Code:  | Creatine kinase (CK), (CPK); total: Troponin, quantitative | Code Description: ",
+      "codes": [
+        "82550",
+        "84484"
+      ],
+      "table_data": {
+        "columns": [
+          "82550",
+          "Procedure Code",
+          "Creatine kinase (CK), (CPK); total",
+          "Code Description"
+        ],
+        "row": {
+          "82550": "84484",
+          "Procedure Code": "",
+          "Creatine kinase (CK), (CPK); total": "Troponin, quantitative",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82550: 84512 | Procedure Code:  | Creatine kinase (CK), (CPK); total: Troponin, qualitative | Code Description: ",
+      "codes": [
+        "82550",
+        "84512"
+      ],
+      "table_data": {
+        "columns": [
+          "82550",
+          "Procedure Code",
+          "Creatine kinase (CK), (CPK); total",
+          "Code Description"
+        ],
+        "row": {
+          "82550": "84512",
+          "Procedure Code": "",
+          "Creatine kinase (CK), (CPK); total": "Troponin, qualitative",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82550: 84588 | Procedure Code:  | Creatine kinase (CK), (CPK); total: Vasopressin (antidiuretic hormone, ADH) | Code Description: ",
+      "codes": [
+        "82550",
+        "84588"
+      ],
+      "table_data": {
+        "columns": [
+          "82550",
+          "Procedure Code",
+          "Creatine kinase (CK), (CPK); total",
+          "Code Description"
+        ],
+        "row": {
+          "82550": "84588",
+          "Procedure Code": "",
+          "Creatine kinase (CK), (CPK); total": "Vasopressin (antidiuretic hormone, ADH)",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82550: 86140 | Procedure Code:  | Creatine kinase (CK), (CPK); total: C-reactive protein | Code Description: ",
+      "codes": [
+        "82550",
+        "86140"
+      ],
+      "table_data": {
+        "columns": [
+          "82550",
+          "Procedure Code",
+          "Creatine kinase (CK), (CPK); total",
+          "Code Description"
+        ],
+        "row": {
+          "82550": "86140",
+          "Procedure Code": "",
+          "Creatine kinase (CK), (CPK); total": "C-reactive protein",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] First Coast Service Options,\nInc.: National Government\nServices, Inc. | Contractor Name:  | B-Type Natriuretic Peptide: B-Type Natriuretic Peptide\n(BNP) Testing | Policy Title:  | L33267: L33573 | Policy Number:  | 83880: 83880 | Procedure Code: ",
+      "codes": [
+        "83880"
+      ],
+      "table_data": {
+        "columns": [
+          "First Coast Service Options,\nInc.",
+          "Contractor Name",
+          "B-Type Natriuretic Peptide",
+          "Policy Title",
+          "L33267",
+          "Policy Number",
+          "83880",
+          "Procedure Code"
+        ],
+        "row": {
+          "First Coast Service Options,\nInc.": "National Government\nServices, Inc.",
+          "Contractor Name": "",
+          "B-Type Natriuretic Peptide": "B-Type Natriuretic Peptide\n(BNP) Testing",
+          "Policy Title": "",
+          "L33267": "L33573",
+          "Policy Number": "",
+          "83880": "83880",
+          "Procedure Code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] First Coast Service Options,\nInc.: Noridian Healthcare\nSolutions, LLC | Contractor Name:  | B-Type Natriuretic Peptide: B-Type Natriuretic Peptide\n(BNP) Testing | Policy Title:  | L33267: L35526\nL34038 | Policy Number:  | 83880: 83880 | Procedure Code: ",
+      "codes": [
+        "83880"
+      ],
+      "table_data": {
+        "columns": [
+          "First Coast Service Options,\nInc.",
+          "Contractor Name",
+          "B-Type Natriuretic Peptide",
+          "Policy Title",
+          "L33267",
+          "Policy Number",
+          "83880",
+          "Procedure Code"
+        ],
+        "row": {
+          "First Coast Service Options,\nInc.": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor Name": "",
+          "B-Type Natriuretic Peptide": "B-Type Natriuretic Peptide\n(BNP) Testing",
+          "Policy Title": "",
+          "L33267": "L35526\nL34038",
+          "Policy Number": "",
+          "83880": "83880",
+          "Procedure Code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] First Coast Service Options,\nInc.: Palmetto GBA | Contractor Name:  | B-Type Natriuretic Peptide: Brain Natriuretic Peptide\n(BNP) Level | Policy Title:  | L33267: L33422 | Policy Number:  | 83880: 83880 | Procedure Code: ",
+      "codes": [
+        "83880"
+      ],
+      "table_data": {
+        "columns": [
+          "First Coast Service Options,\nInc.",
+          "Contractor Name",
+          "B-Type Natriuretic Peptide",
+          "Policy Title",
+          "L33267",
+          "Policy Number",
+          "83880",
+          "Procedure Code"
+        ],
+        "row": {
+          "First Coast Service Options,\nInc.": "Palmetto GBA",
+          "Contractor Name": "",
+          "B-Type Natriuretic Peptide": "Brain Natriuretic Peptide\n(BNP) Level",
+          "Policy Title": "",
+          "L33267": "L33422",
+          "Policy Number": "",
+          "83880": "83880",
+          "Procedure Code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] First Coast Service Options,\nInc.: Palmetto GBA | Contractor Name:  | B-Type Natriuretic Peptide: B-Type Natriuretic Peptide\n(BNP) Testing | Policy Title:  | L33267: L34410 | Policy Number:  | 83880: 83880 | Procedure Code: ",
+      "codes": [
+        "83880"
+      ],
+      "table_data": {
+        "columns": [
+          "First Coast Service Options,\nInc.",
+          "Contractor Name",
+          "B-Type Natriuretic Peptide",
+          "Policy Title",
+          "L33267",
+          "Policy Number",
+          "83880",
+          "Procedure Code"
+        ],
+        "row": {
+          "First Coast Service Options,\nInc.": "Palmetto GBA",
+          "Contractor Name": "",
+          "B-Type Natriuretic Peptide": "B-Type Natriuretic Peptide\n(BNP) Testing",
+          "Policy Title": "",
+          "L33267": "L34410",
+          "Policy Number": "",
+          "83880": "83880",
+          "Procedure Code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] First Coast Service Options,\nInc.: Wisconsin Physicians Service\nInsurance Corporation | Contractor Name:  | B-Type Natriuretic Peptide: MolDX: Biomarkers in\nCardiovascular Risk\nAssessment | Policy Title:  | L33267: L36523 | Policy Number:  | 83880: 83880 | Procedure Code: ",
+      "codes": [
+        "83880"
+      ],
+      "table_data": {
+        "columns": [
+          "First Coast Service Options,\nInc.",
+          "Contractor Name",
+          "B-Type Natriuretic Peptide",
+          "Policy Title",
+          "L33267",
+          "Policy Number",
+          "83880",
+          "Procedure Code"
+        ],
+        "row": {
+          "First Coast Service Options,\nInc.": "Wisconsin Physicians Service\nInsurance Corporation",
+          "Contractor Name": "",
+          "B-Type Natriuretic Peptide": "MolDX: Biomarkers in\nCardiovascular Risk\nAssessment",
+          "Policy Title": "",
+          "L33267": "L36523",
+          "Policy Number": "",
+          "83880": "83880",
+          "Procedure Code": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nQuantitative measurement of cardiac troponin T or I (CPT code 84484) for the diagnosis of myocardial infarction (MI) IS REIMBURSABLE for individuals presenting with any of the following:\n\nPain in the upper abdomen, shoulders, upper arms, forearms, wrists, fingers, neck and throat, lower jaw and teeth or back pain\n\nShortness of breath, belching, nausea, indigestion, vomiting, diaphoresis, dizziness, lightheadedness, clamminess or fatigue\n\nSqueezing, tightness, pressure, constriction, crushing, strangling, burning, heartburn, fullness in the chest, band-like sensation, knot in the center of the chest, lump in throat, ache, heavy weight on chest or toothache when there is radiation to the lower jaw\n\nA maximum of four serial quantitative troponin tests (CPT code 84484) IS REIMBURSABLE in the first three days after presentation.\n\nTesting for natriuretic peptide, such as B-Type Natriuretic Peptide (BNP) or N-terminal pro B-type natriuretic peptide (NT- proBNP) (CPT code 83880*) IS REIMBURSABLE for individuals presenting with dyspnea or shortness of breath.\n\nTesting for BNP or NT-proBNP (CPT code 83880*) IS REIMBURSABLE every rolling 12 months for individuals presenting with any of the following:\n\nChronic heart failure: systolic, diastolic or combined systolic and diastolic\n\nMeasurement of the following cardiac biomarkers for the diagnosis or prognosis of MI IS NOT REIMBURSABLE in conjunction with the measurement of cardiac troponin T or I:\n\nCardiac creatine kinase isoenzyme myocardial band (CK-MB) (CPT code 82553, CPT code 82554)\n\nFor individuals with signs and symptoms of acute coronary syndrome, quantitative measurement of cardiac troponin T or I (CPT code 84484) by an independent laboratory IS NOT REIMBURSABLE.\n\nIn the outpatient setting, qualitative measurement of cardiac troponin T or I (CPT code 84512) IS NOT REIMBURSABLE.\n\nIn the outpatient setting, testing of growth stimulation expressed gene 2 (ST2) or its isoforms (CPT code 83006) IS NOT REIMBURSABLE.\n\n82550\n\n82552\n\n82553\n\n82554\n\n82725\n\n83006 Growth stimulation expressed gene 2 (ST2, Interleukin 1 receptor like-1) 83625 Lactate dehydrogenase (LD), (LDH); isoenzymes, separation and quantitation 83874\n\n83880*\n\n84484\n\n84512\n\n84588\n\n86140\n\n(BNP) Testing L33943 83880\n\nFirst Coast Service Options, Inc.\n\nL33267 83880\n\nServices, Inc.\n\n(BNP) Testing L33573 83880\n\n(BNP) Testing L35526 L34038 83880\n\n(BNP) Level L33422 83880\n\n(BNP) Testing L34410 83880\n\nL36523 83880\n\n*The payment criteria for 83880 apply to all Medicare jurisdictions, except those states awarded to CGS Administrators, LLC., First Coast Service Options, Inc.,\n\nNational Government Services Inc., Noridian Healthcare Solutions, LLC., Palmetto GBA & Wisconsin Physician Service Insurance Corporation."
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

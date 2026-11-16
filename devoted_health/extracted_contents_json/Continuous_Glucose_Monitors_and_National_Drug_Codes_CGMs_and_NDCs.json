@@ -1,0 +1,4146 @@
+{
+  "policy_title": "Continuous Glucose Monitors and National Drug Codes CGMs and NDCs",
+  "policy_number": "CLMS.CP.0043",
+  "effective_date": "2026-07-14",
+  "version": "1.6",
+  "source_pdf": "Continuous_Glucose_Monitors_and_National_Drug_Codes_CGMs_and_NDCs.pdf",
+  "source_url": "https://assets.devoted.com/Providers/Policy_CGMs_NDC_112024",
+  "line_of_business": "Medicare Advantage",
+  "billing_class": "Both",
+  "page_count": 9,
+  "revision_history": [
+    {
+      "date": "2026-07-14",
+      "document_num": "CLMS.CP.0043",
+      "version_num": "1.6"
+    },
+    {
+      "date": "2026-07-07",
+      "document_num": "CLMS.CP.0043",
+      "version_num": "1.5"
+    },
+    {
+      "date": "2026-03-27",
+      "document_num": "CLMS.CP.0043",
+      "version_num": "1.4"
+    },
+    {
+      "date": "2025-12-23",
+      "document_num": "CLMS.CP.0043",
+      "version_num": "1.3"
+    },
+    {
+      "date": "2025-11-04",
+      "document_num": "CLMS.CP.0043",
+      "version_num": "1.2"
+    },
+    {
+      "date": "2025-02-26",
+      "document_num": "CLMS.CP.0043",
+      "version_num": "1.1"
+    },
+    {
+      "date": "2024-12-02",
+      "document_num": "CLMS.CP.0043",
+      "version_num": "1.0"
+    }
+  ],
+  "table_count": 1,
+  "codes_found": {
+    "cpt_hcpcs": [
+      "08627",
+      "12608",
+      "43169",
+      "50924",
+      "53885",
+      "57599",
+      "63000",
+      "65702",
+      "76300",
+      "A4238",
+      "A4239",
+      "A4253",
+      "A4256",
+      "E0607",
+      "E2103"
+    ],
+    "modifiers": [
+      "25"
+    ],
+    "revenue_codes": [],
+    "bill_types": [],
+    "icd_codes": [
+      "X12"
+    ]
+  },
+  "CPT_CODES_USED": [
+    "08627",
+    "12608",
+    "43169",
+    "50924",
+    "53885",
+    "57599",
+    "63000",
+    "65702",
+    "76300",
+    "A4238",
+    "A4239",
+    "A4253",
+    "A4256",
+    "E0607",
+    "E2103"
+  ],
+  "sections_summary": [
+    "OVERVIEW",
+    "PURPOSE",
+    "APPLICABILITY",
+    "POLICY",
+    "HOW TO BILL YOUR CLAIMS",
+    "ACRONYMS AND DEFINITIONS",
+    "RESPONSIBILITIES",
+    "N/A",
+    "REGULATORY REFERENCE",
+    "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+    "REVIEW AND VERSION HISTORY"
+  ],
+  "tables": [
+    {
+      "table_id": "tab_p9_1",
+      "title": "Table (Page 9)",
+      "page_number": 9,
+      "bbox": [
+        54.12000020345052,
+        106.42999267578125,
+        557.8800048828125,
+        239.96002197265625
+      ],
+      "columns": [
+        "Date",
+        "Document #",
+        "Version #"
+      ],
+      "row_count": 7,
+      "col_count": 3,
+      "rows": [
+        {
+          "Date": "2026-07-14",
+          "Document #": "CLMS.CP.0043",
+          "Version #": "1.6"
+        },
+        {
+          "Date": "2026-07-07",
+          "Document #": "CLMS.CP.0043",
+          "Version #": "1.5"
+        },
+        {
+          "Date": "2026-03-27",
+          "Document #": "CLMS.CP.0043",
+          "Version #": "1.4"
+        },
+        {
+          "Date": "2025-12-23",
+          "Document #": "CLMS.CP.0043",
+          "Version #": "1.3"
+        },
+        {
+          "Date": "2025-11-04",
+          "Document #": "CLMS.CP.0043",
+          "Version #": "1.2"
+        },
+        {
+          "Date": "2025-02-26",
+          "Document #": "CLMS.CP.0043",
+          "Version #": "1.1"
+        },
+        {
+          "Date": "2024-12-02",
+          "Document #": "CLMS.CP.0043",
+          "Version #": "1.0"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        [
+          "2026-07-14",
+          "CLMS.CP.0043",
+          "1.6"
+        ],
+        [
+          "2026-07-07",
+          "CLMS.CP.0043",
+          "1.5"
+        ],
+        [
+          "2026-03-27",
+          "CLMS.CP.0043",
+          "1.4"
+        ],
+        [
+          "2025-12-23",
+          "CLMS.CP.0043",
+          "1.3"
+        ],
+        [
+          "2025-11-04",
+          "CLMS.CP.0043",
+          "1.2"
+        ],
+        [
+          "2025-02-26",
+          "CLMS.CP.0043",
+          "1.1"
+        ],
+        [
+          "2024-12-02",
+          "CLMS.CP.0043",
+          "1.0"
+        ]
+      ],
+      "markdown": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-07-14 | CLMS.CP.0043 | 1.6 |\n| 2026-07-07 | CLMS.CP.0043 | 1.5 |\n| 2026-03-27 | CLMS.CP.0043 | 1.4 |\n| 2025-12-23 | CLMS.CP.0043 | 1.3 |\n| 2025-11-04 | CLMS.CP.0043 | 1.2 |\n| 2025-02-26 | CLMS.CP.0043 | 1.1 |\n| 2024-12-02 | CLMS.CP.0043 | 1.0 |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    }
+  ],
+  "extracted_content": [
+    {
+      "id": "item_0001",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Continuous Glucose Monitors,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0002",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Diabetic Supplies, and National",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0003",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Drug Codes",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0004",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "[CLMS.CP.0043] 2026-07-14",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0005",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0043 - 2026-07-14 v1.6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0006",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0007",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0008",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Page 1 of 9",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0009",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "PURPOSE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0010",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "The purpose of this policy is to establish national drug code (NDC) billing requirements for all",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0011",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "continuous glucose monitor (CGM) claims. Providers must include accurate NDCs on all CGM",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0012",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "claims to ensure efficient processing and timely reimbursement. Missing NDCs can result in",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0013",
+      "title": "PURPOSE",
+      "section": "PURPOSE",
+      "subsection": null,
+      "hierarchy_path": [
+        "PURPOSE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "claim denials or processing delays.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0014",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "APPLICABILITY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0015",
+      "title": "APPLICABILITY",
+      "section": "APPLICABILITY",
+      "subsection": null,
+      "hierarchy_path": [
+        "APPLICABILITY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy applies to all Devoted Health plans.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0016",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "POLICY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0017",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy clarifies Devoted Health's classification of CGMs and their supplies, and diabetic",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0018",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "testing supplies, and outlines associated reimbursement requirements.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0019",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Continuous Glucose Monitors",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0020",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Per the Social Security Act §1861(s)(6), CGMs are covered under the DME benefit.1 In order for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0021",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "a beneficiary's DME to be eligible for reimbursement, the reasonable and necessary",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0022",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "requirements specified in the related Local Coverage Determination (LCD)2 must be met as",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0023",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "well as additional payment policy requirements.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0024",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Devoted Health covers specific CGM brands (FreeStyle Libre, Dexcom, and Guardian) for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0025",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "eligible members. FreeStyle Libre devices do not require prior authorization; however,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0026",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Dexcom and Guardian require prior authorization to validate medical necessity. As of January",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0027",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "1, 2026, Freestyle Libre Devices and Dexcom will not require prior authorization. Guardian,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0028",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Eversense, and other CGMs will require prior authorization.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0029",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Blood Glucometer and Diabetic Supplies",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0030",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Devoted Health has preferred brands for blood glucometers and accompanying diabetic",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0031",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "testing supplies and applies preferred brand requirements to all diabetic supply claims.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0032",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Currently, both OneTouch and Accu-Chek are preferred brands. Effective January 1, 2026,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0033",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Accu-Chek will be the sole preferred brand. Beginning on this date, OneTouch and all other",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0034",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "non preferred brands will require an organization determination for coverage. Organization",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0035",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "determinations for non preferred brands will only be approved when there is a documented",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0036",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "medical reason the member cannot use the preferred brand.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0037",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0043 - 2026-07-14 v1.6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0038",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0039",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0040",
+      "title": "POLICY",
+      "section": "POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Page 2 of 9",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0041",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "header",
+      "content": "HOW TO BILL YOUR CLAIMS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0042",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "To ensure claims are can be accurately processed for payment, follow these billing guidelines:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0043",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "1. Include the Required NDC",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0044",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Providers are required to include NDC information on claims for reimbursement of all",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0045",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "CGMs, CGM supplies, and diabetic testing supplies. The NDC must be an 11-digit",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0046",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "number in a 5-4-2 format. If the NDC has fewer than 11 digits, leading zeros must be",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0047",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "added. Examples are below; placeholders have been indicated with an asterisk:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0048",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "a. *XXXX-XXXX-XX = 0XXXX-XXXX-XX",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0049",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "b. XXXXX-*XXX-XX = XXXXX-0XXX-XX",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0050",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "c. XXXXX-XXXX-*X = XXXXX-XXXX-0X",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0051",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "NDCs should be submitted in the normalized 11-digit format, with no dashes or",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0052",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "spaces. Please preserve leading zeros. An example of the format is MMMMMDDDDPP :",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0053",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "5-digit labeler, 4-digit product, 2-digit package.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0054",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "For a claim to be approved on the professional or facility submissions (CMS 1500/837P",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0055",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "or UB-04/837I), the following NDC information must be included:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0056",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● NDC number: A valid 11-digit NDC in the required format.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0057",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Example NDC: 0591-0933-01 should be sent as 00591093301.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0058",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Unit of Measure (UOM): Such as milliliters (ML), grams (GR), units (UN).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0059",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● NDC quantity: The total quantity administered, including partial units (e.g., 1.5 ml).",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0060",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "For more information on NDCs, refer to our NDC Billing Guidelines payment policy.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0061",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "2. Procedure Codes",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0062",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Use appropriate CPT codes (e.g., A4238, A4239, E2103, A4253, A4256, E0607, etc.) on",
+      "codes": [
+        "A4238",
+        "A4239",
+        "A4253",
+        "A4256",
+        "E0607",
+        "E2103"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0063",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "the CMS-1500, or X12 837P forms. Each claim line for these codes must include the",
+      "codes": [
+        "X12"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0064",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "correct NDC.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0065",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "1. Supply Allowance",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0066",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Bill CGM supplies under supply allowance CPT codes (A4238, or A4239), which cover",
+      "codes": [
+        "A4238",
+        "A4239"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0067",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "items such as sensors and transmitters. Supplies billed separately will be denied. Each",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0068",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "claim line billed under A4238 or A4239 must include the corresponding product NDC",
+      "codes": [
+        "A4238",
+        "A4239"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0069",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "for the specific sensor or transmitter supplied. Supplies billed without an NDC, or",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0070",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "supplies billed separately outside the allowance, may be denied.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0071",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0043 - 2026-07-14 v1.6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0072",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0073",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0074",
+      "title": "HOW TO BILL YOUR CLAIMS",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": null,
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Page 3 of 9",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0075",
+      "title": "FreeStyle Libre CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "FreeStyle Libre CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "FreeStyle Libre CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "FreeStyle Libre CGM Claim Requirements",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0076",
+      "title": "FreeStyle Libre CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "FreeStyle Libre CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "FreeStyle Libre CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "FreeStyle Libre claims do not require prior authorization. Claims can be submitted through a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0077",
+      "title": "FreeStyle Libre CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "FreeStyle Libre CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "FreeStyle Libre CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "contracted in-network pharmacy or DME vendor. Cost-sharing will apply per the member's",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0078",
+      "title": "FreeStyle Libre CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "FreeStyle Libre CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "FreeStyle Libre CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "evidence of coverage (EOC). Below is a list of FreeStyle Libre devices and their corresponding",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0079",
+      "title": "FreeStyle Libre CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "FreeStyle Libre CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "FreeStyle Libre CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "NDCs:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0080",
+      "title": "FreeStyle Libre CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "FreeStyle Libre CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "FreeStyle Libre CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● FreeStyle Libre Reader: 57599-0000-21",
+      "codes": [
+        "57599"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0081",
+      "title": "FreeStyle Libre CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "FreeStyle Libre CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "FreeStyle Libre CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● FreeStyle Libre 2 Reader: 57599-0803-00",
+      "codes": [
+        "57599"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0082",
+      "title": "FreeStyle Libre CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "FreeStyle Libre CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "FreeStyle Libre CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● FreeStyle Libre 2 Sensor: 57599-0800-00",
+      "codes": [
+        "57599"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0083",
+      "title": "FreeStyle Libre CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "FreeStyle Libre CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "FreeStyle Libre CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● FreeStyle Libre 2 Sensor: 57599-0835-00",
+      "codes": [
+        "57599"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0084",
+      "title": "FreeStyle Libre CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "FreeStyle Libre CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "FreeStyle Libre CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● FreeStyle Libre 3 Reader: 57599-0820-00",
+      "codes": [
+        "57599"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0085",
+      "title": "FreeStyle Libre CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "FreeStyle Libre CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "FreeStyle Libre CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● FreeStyle Libre 3 Plus Sensor: 57599-0844-00",
+      "codes": [
+        "57599"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0086",
+      "title": "FreeStyle Libre CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "FreeStyle Libre CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "FreeStyle Libre CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● FreeStyle Libre 3 Sensor: 57599-0818-00",
+      "codes": [
+        "57599"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0087",
+      "title": "FreeStyle Libre CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "FreeStyle Libre CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "FreeStyle Libre CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● FreeStyle Libre 14 Day Reader: 57599-0002-00",
+      "codes": [
+        "57599"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0088",
+      "title": "FreeStyle Libre CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "FreeStyle Libre CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "FreeStyle Libre CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● FreeStyle Libre 14 Day Sensor: 57599-0001-01",
+      "codes": [
+        "57599"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0089",
+      "title": "FreeStyle Libre CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "FreeStyle Libre CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "FreeStyle Libre CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● FreeStyle Libre 14 Day Sensor: 57599-0000-19",
+      "codes": [
+        "57599"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0090",
+      "title": "Dexcom CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Dexcom CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Dexcom CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "Dexcom CGM Claim Requirements",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0091",
+      "title": "Dexcom CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Dexcom CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Dexcom CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Dexcom products are currently available through DME vendors and in-network pharmacies.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0092",
+      "title": "Dexcom CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Dexcom CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Dexcom CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Cost-sharing will apply per the EOC. Claims lacking prior authorizations or correct NDCs will",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0093",
+      "title": "Dexcom CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Dexcom CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Dexcom CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "be denied. Below is a list of Dexcom devices and their corresponding NDCs:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0094",
+      "title": "Dexcom CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Dexcom CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Dexcom CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● Dexcom G6 Receiver: 08627-0091-11",
+      "codes": [
+        "08627"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0095",
+      "title": "Dexcom CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Dexcom CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Dexcom CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● Dexcom G6 Sensor: 08627-0053-03",
+      "codes": [
+        "08627"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0096",
+      "title": "Dexcom CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Dexcom CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Dexcom CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● Dexcom G6 Transmitter: 08627-0016-01",
+      "codes": [
+        "08627"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0097",
+      "title": "Dexcom CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Dexcom CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Dexcom CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● Dexcom G7 Receiver: 08627-0078-01",
+      "codes": [
+        "08627"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0098",
+      "title": "Dexcom CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Dexcom CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Dexcom CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● Dexcom G7 Sensor: 08627-0077-01",
+      "codes": [
+        "08627"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0099",
+      "title": "Dexcom CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Dexcom CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Dexcom CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● Dexcom G7 15 Day Sensor: 08627-0079-01",
+      "codes": [
+        "08627"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0100",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "Guardian CGM Claim Requirements",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0101",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Guardian claims require prior authorization. Guardian products are accessible only through",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0102",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "DME vendors. Cost-sharing will apply per the EOC. Claims lacking prior authorizations or",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0103",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "correct NDCs will be denied. Below is a list of Guardian devices and their corresponding NDCs:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0104",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● Guardian Sensor 3: 43169-0704-05",
+      "codes": [
+        "43169"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0105",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● Guardian Link 3 Transmitter Kit: 63000-0316-99",
+      "codes": [
+        "63000"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0106",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● Guardian Sensor (3): 63000-0336-98",
+      "codes": [
+        "63000"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0107",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "bullet_point",
+      "content": "● Guardian Link 3 Transmitter Kit: 63000-0357-51",
+      "codes": [
+        "63000"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0108",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0043 - 2026-07-14 v1.6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0109",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0110",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0111",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "Page 4 of 9",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0112",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Guardian 4 Transmitter Kit: 63000-0445-16",
+      "codes": [
+        "63000"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0113",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Guardian 4 Glucose Sensor: 63000-0519-68",
+      "codes": [
+        "63000"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0114",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Guardian Connect Transmitter: 76300-0002-60",
+      "codes": [
+        "76300"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0115",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Devoted Health follows CMS guidelines for implantable CGMs and non-therapeutic CGMs. For",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0116",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "more information, please refer to CMS resources.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0117",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Accu-Chek Diabetic Testing Supplies",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0118",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Accu-Chek claims do not require organization determination. Claims can be submitted through",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0119",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "a contracted in-network pharmacy or DME vendor. Cost-sharing will apply per the member's",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0120",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "evidence of coverage (EOC). Below is a list of covered Accu-Chek diabetic testing supplies and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0121",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "their corresponding NDCs. Claims submitted for Accu-Chek supplies with NDCs not listed",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0122",
+      "title": "Guardian CGM Claim Requirements",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Guardian CGM Claim Requirements",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Guardian CGM Claim Requirements"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "below may be denied.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0123",
+      "title": "Accu-Chek Test Strip",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Test Strip",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Test Strip"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "header",
+      "content": "Accu-Chek Test Strip",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0124",
+      "title": "Accu-Chek Test Strip",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Test Strip",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Test Strip"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Accu-Chek Aviva Plus (50 ct): 65702-0407-10",
+      "codes": [
+        "65702"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0125",
+      "title": "Accu-Chek Test Strip",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Test Strip",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Test Strip"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Accu-Chek Aviva Plus (100 ct): 65702-0408-10",
+      "codes": [
+        "65702"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0126",
+      "title": "Accu-Chek Test Strip",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Test Strip",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Test Strip"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Accu-Chek SmartView (50 ct): 65702-0492-10",
+      "codes": [
+        "65702"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0127",
+      "title": "Accu-Chek Test Strip",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Test Strip",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Test Strip"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Accu-Check SmartView (100 ct): 65702-0493-10",
+      "codes": [
+        "65702"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0128",
+      "title": "Accu-Chek Test Strip",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Test Strip",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Test Strip"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Accu-Chek Guide (50 ct): 65702-0711-10",
+      "codes": [
+        "65702"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0129",
+      "title": "Accu-Chek Lancets",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Lancets",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Lancets"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "header",
+      "content": "Accu-Chek Lancets",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0130",
+      "title": "Accu-Chek Lancets",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Lancets",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Lancets"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Accu-Chek FastClix: 65702-0288-10",
+      "codes": [
+        "65702"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0131",
+      "title": "Accu-Chek Lancets",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Lancets",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Lancets"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Accu-Chek SoftClix (100 ct): 50924-0971-10",
+      "codes": [
+        "50924"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0132",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "header",
+      "content": "Accu-Chek Glucometer",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0133",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Accu-Chek Guide Care Kit: 65702-0729-10",
+      "codes": [
+        "65702"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0134",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "bullet_point",
+      "content": "● Accu-Chek Guide Me Care Kit: 65702-0731-10",
+      "codes": [
+        "65702"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0135",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "OneTouch Diabetic Testing Supplies",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0136",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "OneTouch claims do not require an organization determination for 2025. Claims may be",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0137",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "submitted through a contracted in-network pharmacy or DME vendor. Cost sharing will apply",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0138",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "per the member's evidence of coverage (EOC). The NDCs for covered OneTouch supplies are",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0139",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "listed below. Claims submitted with NDCs not listed below may be denied.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0140",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0043 - 2026-07-14 v1.6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0141",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0142",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0143",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content_type": "paragraph",
+      "content": "Page 5 of 9",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0144",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Effective January 1, 2026, OneTouch will be a non preferred brand and will require an",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0145",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "organization determination for coverage. Organization determinations for OneTouch products",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0146",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "will only be approved when there is a medical reason the member cannot use the preferred",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0147",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "brand, Accu-Chek.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0148",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "OneTouch Test Strips",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0149",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Verio (Box of 25): 53885-0270-25",
+      "codes": [
+        "25",
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0150",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Verio (Box of 50): 53885-0271-50",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0151",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Verio (Box of 100): 53885-0272-10",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0152",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Ultra Blood Glucose (Box of 25): 53885-0994-25",
+      "codes": [
+        "25",
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0153",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Ultra Blood Glucose (Box of 50): 53885-0244-50",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0154",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Ultra Blood Glucose (Box of 100): 53885-0245-10",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0155",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "OneTouch Lancets",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0156",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Delica Plus Lancets Fine 30G (Box of 100): 53885-0011-10",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0157",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Delica Plus Lancets Extra Fine 33G (Box of 100): 53885-0008-10",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0158",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Delica Plus Lancets Extra Fine 30G: 12608-0030-02",
+      "codes": [
+        "12608"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0159",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Delica Plus Lancets Extra Fine 33G: 12608-0030-01",
+      "codes": [
+        "12608"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0160",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "OneTouch Lancing Devices",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0161",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Delica Plus: 12608-0030-05",
+      "codes": [
+        "12608"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0162",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Delica Plus: 53885-0973-01",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0163",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Delica Safety 30G: 12608-0030-26",
+      "codes": [
+        "12608"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0164",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Delica Safety 30G: 53885-0318-20",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0165",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "OneTouch Covered Glucometer",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0166",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Ultra 2: 53885-0011-85",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0167",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Ultra 2 Blood Glucose Monitoring Kit with Device: 53885-0046-01",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0168",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Verio Flex Blood Glucose Monitoring System: 53885-0011-83",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0169",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Verio Flex Blood Glucose Monitoring System: 53885-0044-01",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0170",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Verio Reflect Blood Glucose Monitoring Kit with Device: 53885-0927-01",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0171",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Verio Reflect Kit: 53885-0011-69",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0172",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "OneTouch Control Solution",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0173",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Ultra: 53885-0006-23",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0174",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Ultra: 53885-0458-02",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0175",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Ultra: 53885-0937-01",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0176",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0043 - 2026-07-14 v1.6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0177",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0178",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0179",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content_type": "paragraph",
+      "content": "Page 6 of 9",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0180",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Verio Level 3: 53885-0007-76",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0181",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Verio Level 3: 53885-0273-02",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0182",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Verio Level 4: 53885-0007-77",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0183",
+      "title": "Accu-Chek Glucometer",
+      "section": "HOW TO BILL YOUR CLAIMS",
+      "subsection": "Accu-Chek Glucometer",
+      "hierarchy_path": [
+        "HOW TO BILL YOUR CLAIMS",
+        "Accu-Chek Glucometer"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "bullet_point",
+      "content": "● OneTouch Verio Level 4: 53885-0274-02",
+      "codes": [
+        "53885"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0184",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "ACRONYMS AND DEFINITIONS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0185",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "definition",
+      "content": "Continuous Glucose Monitor (CGM): Equipment that monitors glucose level on a continuous",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0186",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "basis.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0187",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "definition",
+      "content": "Current Procedural Terminology (CPT): Set of medical codes used to report medical,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0188",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "surgical, and diagnostic services and procedures.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0189",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "definition",
+      "content": "Evidence of Coverage (EOC): Legal contract between a policyholder and health insurance",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0190",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "plan that details the plan's benefits and costs.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0191",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "definition",
+      "content": "Durable Medical Equipment (DME): Equipment designed for repeated use, primarily for",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0192",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "medical purposes, not useful without illness or injury, and suitable for home use.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0193",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "definition",
+      "content": "Local Coverage Determination (LCD): Decision made by Medicare about whether a specific",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0194",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "item or service is covered under Medicare, based on where the beneficiary lives and what is",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0195",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "medically necessary.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0196",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "definition",
+      "content": "National Drug Code (NDC): A unique, 11-digit, 3-segment number assigned to medication,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0197",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "biological products and DME, serving as a universal product identifier.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0198",
+      "title": "RESPONSIBILITIES",
+      "section": "RESPONSIBILITIES",
+      "subsection": null,
+      "hierarchy_path": [
+        "RESPONSIBILITIES"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "RESPONSIBILITIES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0199",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0200",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "header",
+      "content": "REGULATORY REFERENCE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0201",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "1Social Security Act §1861(s)(6)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0202",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "2CMS LCD - Glucose Monitors (L33822)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0203",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "CMS Medicare Claims Processing Manual, Chapter 32, Section 67.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0204",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "CMS Medicare Claims Processing Manual, Chapter 17",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0205",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "CMS Medicare National Coverage Determinations Manual, Section 280.1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0206",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "CMS Ruling 1738-R",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0207",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0043 - 2026-07-14 v1.6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0208",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0209",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0210",
+      "title": "REGULATORY REFERENCE",
+      "section": "REGULATORY REFERENCE",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCE"
+      ],
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content_type": "paragraph",
+      "content": "Page 7 of 9",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0211",
+      "title": "CMS Drug Name and NDC Reference Data Instructions",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS Drug Name and NDC Reference Data Instructions",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS Drug Name and NDC Reference Data Instructions"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "header",
+      "content": "CMS Drug Name and NDC Reference Data Instructions",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0212",
+      "title": "CMS Drug Name and NDC Reference Data Instructions",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS Drug Name and NDC Reference Data Instructions",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS Drug Name and NDC Reference Data Instructions"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "CMS NDC - Home Blood Glucose Monitor, Section 40.2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0213",
+      "title": "CMS Drug Name and NDC Reference Data Instructions",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS Drug Name and NDC Reference Data Instructions",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS Drug Name and NDC Reference Data Instructions"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "CMS LCA - Glucose Monitor (A52464)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0214",
+      "title": "CMS Drug Name and NDC Reference Data Instructions",
+      "section": "REGULATORY REFERENCE",
+      "subsection": "CMS Drug Name and NDC Reference Data Instructions",
+      "hierarchy_path": [
+        "REGULATORY REFERENCE",
+        "CMS Drug Name and NDC Reference Data Instructions"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "CMS LCD - Implantable Continuous Glucose Monitors (I-CGM) (L38662)",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0215",
+      "title": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "header",
+      "content": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0216",
+      "title": "NDC Billing Guidelines",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": "NDC Billing Guidelines",
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+        "NDC Billing Guidelines"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "header",
+      "content": "NDC Billing Guidelines",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0217",
+      "title": "NDC Billing Guidelines",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": "NDC Billing Guidelines",
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+        "NDC Billing Guidelines"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0043 - 2026-07-14 v1.6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0218",
+      "title": "NDC Billing Guidelines",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": "NDC Billing Guidelines",
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+        "NDC Billing Guidelines"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0219",
+      "title": "NDC Billing Guidelines",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": "NDC Billing Guidelines",
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+        "NDC Billing Guidelines"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0220",
+      "title": "NDC Billing Guidelines",
+      "section": "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+      "subsection": "NDC Billing Guidelines",
+      "hierarchy_path": [
+        "RELATED POLICIES, DOCUMENTS, AND CONTROLS",
+        "NDC Billing Guidelines"
+      ],
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content_type": "paragraph",
+      "content": "Page 8 of 9",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0221",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "header",
+      "content": "REVIEW AND VERSION HISTORY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0222",
+      "title": "Table (Page 9)",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "table",
+      "content": "| Date | Document # | Version # |\n| --- | --- | --- |\n| 2026-07-14 | CLMS.CP.0043 | 1.6 |\n| 2026-07-07 | CLMS.CP.0043 | 1.5 |\n| 2026-03-27 | CLMS.CP.0043 | 1.4 |\n| 2025-12-23 | CLMS.CP.0043 | 1.3 |\n| 2025-11-04 | CLMS.CP.0043 | 1.2 |\n| 2025-02-26 | CLMS.CP.0043 | 1.1 |\n| 2024-12-02 | CLMS.CP.0043 | 1.0 |",
+      "codes": [],
+      "table_data": {
+        "table_id": "tab_p9_1",
+        "title": "Table (Page 9)",
+        "columns": [
+          "Date",
+          "Document #",
+          "Version #"
+        ],
+        "row_count": 7,
+        "rows": [
+          {
+            "Date": "2026-07-14",
+            "Document #": "CLMS.CP.0043",
+            "Version #": "1.6"
+          },
+          {
+            "Date": "2026-07-07",
+            "Document #": "CLMS.CP.0043",
+            "Version #": "1.5"
+          },
+          {
+            "Date": "2026-03-27",
+            "Document #": "CLMS.CP.0043",
+            "Version #": "1.4"
+          },
+          {
+            "Date": "2025-12-23",
+            "Document #": "CLMS.CP.0043",
+            "Version #": "1.3"
+          },
+          {
+            "Date": "2025-11-04",
+            "Document #": "CLMS.CP.0043",
+            "Version #": "1.2"
+          },
+          {
+            "Date": "2025-02-26",
+            "Document #": "CLMS.CP.0043",
+            "Version #": "1.1"
+          },
+          {
+            "Date": "2024-12-02",
+            "Document #": "CLMS.CP.0043",
+            "Version #": "1.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "item_0223",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "Prior versions are available upon request",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0224",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "CLMS.CP.0043 - 2026-07-14 v1.6",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0225",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "DEVOTED HEALTH FOR PUBLIC USE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0226",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "|",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0227",
+      "title": "REVIEW AND VERSION HISTORY",
+      "section": "REVIEW AND VERSION HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW AND VERSION HISTORY"
+      ],
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content_type": "paragraph",
+      "content": "Page 9 of 9",
+      "codes": [],
+      "table_data": null
+    }
+  ]
+}

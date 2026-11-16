@@ -41,6 +41,22 @@ from typing import Any, Dict, Iterable, List, Optional, Sequence, Set, Tuple
 
 import sql_skeleton
 
+# Optional behaviours (all OFF by default, so the existing UHC / Humana outputs do not change).
+# generate_billing_rules_devoted.py switches them on.
+RULE_OPTS: Dict[str, bool] = {
+    "num_marker_guard": False,   # "modifier 59. Do not ..." / "unit of 1." is not a list number "59." / "1."
+    "protect_quotes": False,     # never split a sentence inside "( ... )" or a "quoted passage"
+    "and_lead_included": False,  # "the following information must be included:" lists apply together
+    "enum_lists_whole": False,   # "Covered transplants include: - Heart - Liver" is one rule, not one per item
+    "short_lists_whole": False,   # a lead-in followed by short one-line items ("exempt when: - admitted; - expires ...") stays one rule
+    "mednec_directive": False,    # "we will consider X medically necessary when ..." states a coverage criterion
+    "lead_ins_split": False,      # two full-sentence lead-ins, each with its own list = two rules
+    "or_joins_lists": False,      # a lone "OR" / "AND" line joins the bullet list after it to the list before it
+    "code_led_lists_whole": False,  # a list of "H27.00 Aphakia ..." items is one code list, not one rule per code
+    "orphan_bullets": False,     # "- Can be billed alone ..." belongs to the statement before it
+    "code_mask": False,          # NDC numbers (43169-0704-05) and "Section 11401" are not CPT codes
+}
+
 # ==============================================================================
 # 1. TEXT NORMALISATION
 # ==============================================================================
@@ -112,8 +128,18 @@ def _expand_range(a: str, b: str, max_span: int = 400) -> List[str]:
     return [a, b]
 
 
+_NDC_RE = re.compile(r"\b\d{4,5}-\d{3,4}-\d{1,2}\b")
+_REF_NUM_RE = re.compile(r"(?i)(?:\bSection|\bSec\.|§|\bChapter|\bPart|\bCFR|\bPub\.?(?: L\.?)?|\bBox|\bpage|\bForm|\bLoop)\s*\d[\d.]*")
+
+
+def _mask_non_codes(text: str) -> str:
+    return _REF_NUM_RE.sub(lambda m: " " * len(m.group(0)), _NDC_RE.sub(lambda m: " " * len(m.group(0)), text))
+
+
 def extract_codes(text: str) -> List[str]:
     """Ordered unique CPT/HCPCS codes, with ranges (93224-93227) expanded."""
+    if RULE_OPTS["code_mask"]:
+        text = _mask_non_codes(text)
     out: "OrderedDict[str, None]" = OrderedDict()
     spans = []
     for m in RANGE_RE.finditer(text):
@@ -343,7 +369,17 @@ def keyword_hits(text: str) -> "OrderedDict[str, List[str]]":
     return hits
 
 
+_MEDNEC_RE = re.compile(
+    r"\bmedically necessary\b|\bmedical necessity\b|\bwill consider\b[^.]{0,80}\bnecessary\b|"
+    r"\bshould (?:not )?(?:be|submit|include|bill|use|obtain|report|contact|request|verify|check)\b|\bshouldn.t\b|"
+    r"\bcan.t be (?:billed|charged)\b|\bmay only (?:bill|be)\b|\bpays? as (?:primary|secondary)\b|"
+    r"\bis the responsibility of\b|\bonly be approved\b|\bwill (?:only )?be (?:approved|denied|paid|reimbursed)\b|"
+    r"\bare responsible for\b|\bis essential\b", re.I)
+
+
 def has_directive(text: str) -> bool:
+    if RULE_OPTS.get("mednec_directive") and _MEDNEC_RE.search(text):
+        return True
     return any(d and rx.search(text) for d, rx in _LEX.values())
 
 
@@ -439,6 +475,11 @@ _ABBR_RE = re.compile(r"\b(e\.g|i\.e|etc|vs|Nos?|Dr|Mr|Ms|St|Inc|approx|Fig|U\.S
                       r"Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec|LLC|Corp|Co)\.", re.I)
 _BULLET_SPLIT_RE = re.compile(r"\s(?=[•▪◦●]\s?)|\s(?=[–-]\s(?=[A-Z](?:[a-z]|-[A-Za-z]|[A-Z]{2})))|\s(?=o\s(?=[A-Z][a-z]))|\s(?=\*{1,6}[A-Z])|"
                               r"\s(?=(?:[a-h]|[j-z]|[ivx]{1,4}|\d{1,2})[.)]\s+[A-Z0-9])")
+_NUM_GUARD = (r"(?<!\bmodifier)(?<!\bmodifiers)(?<!\bor)(?<!\band)(?<!\bwith)(?<!\bof)(?<!,)(?<!\bcode)"
+              r"(?<!\bcodes)(?<!\bto)(?<!\bunit)(?<!\bunits)")
+_BULLET_SPLIT_RE_GUARDED = re.compile(
+    r"\s(?=[•▪◦●]\s?)|\s(?=[–-]\s(?=[A-Z](?:[a-z]|-[A-Za-z]|[A-Z]{2})))|\s(?=o\s(?=[A-Z][a-z]))|\s(?=\*{1,6}[A-Z])|"
+    r"\s(?=(?:[a-h]|[j-z]|[ivx]{1,4})[.)]\s+[A-Z0-9])|" + _NUM_GUARD + r"\s(?=\d{1,2}[.)]\s+[A-Z0-9])")
 _SENT_SPLIT_RE = re.compile(r"(?:(?<=[.!?])|(?<=[.!?][\"”')]))\s+(?=[A-Z0-9\"“(\[•▪])")
 _BULLET_HEAD_RE = re.compile(r"^([•▪◦●]|[–-](?=\s)|o(?=\s[A-Z])|\*{1,6}(?=[A-Z])|(?:[ivx]{1,4}|[a-h]|[j-z]|\d{1,2})[.)](?=\s))\s*")
 _LIST_HEADER_RE = re.compile(r"(?:conditions?|indications?|diagnos[ie]s|criteria|requirements?|situations?|modifiers?)"
@@ -464,6 +505,10 @@ CONT_RE = re.compile(
 )
 
 
+ORPHAN_BULLET_RE = re.compile(
+    r"^(?:[•▪◦●–-]\s*)?(?:(?i:can|may|must|should|will|cannot|require|requires|only|are|is|do|does|services are)\b|(?-i:[a-z])|"
+    r"(?i:[^.:]{0,80}\b(?:these|those|such) (?:services?|codes?|claims?|items?)\b))")
+
 _CODE_LIST_HEAD_RE = re.compile(r"^(?:(?:non-?reimbursable |reimbursable )?(?:procedure|cpt|hcpcs|cpt/hcpcs)\s+codes?(?:\(s\))?|"
                                 r"codes?(?:\(s\))?\s*:)", re.I)
 
@@ -484,8 +529,11 @@ def split_pieces(text: str) -> List[Tuple[str, Optional[str]]]:
     if not text:
         return []
     prot = _ABBR_RE.sub(lambda m: m.group(0).replace(".", "\x00"), text)
+    if RULE_OPTS["protect_quotes"]:
+        prot = re.sub(r'\([^()]{0,500}\)|"[^"]{0,500}"',
+                      lambda m: m.group(0).replace(". ", "\x00 ").replace("? ", "\x02 ").replace("! ", "\x03 "), prot)
     pieces: List[Tuple[str, Optional[str]]] = []
-    for chunk in _BULLET_SPLIT_RE.split(prot):
+    for chunk in (_BULLET_SPLIT_RE_GUARDED if RULE_OPTS["num_marker_guard"] else _BULLET_SPLIT_RE).split(prot):
         chunk = chunk.strip()
         if not chunk:
             continue
@@ -498,7 +546,7 @@ def split_pieces(text: str) -> List[Tuple[str, Optional[str]]]:
         if len(sents) > 1 and _BULLET_HEAD_RE.fullmatch(sents[0] + " "):
             sents = [sents[0] + " " + sents[1]] + sents[2:]
         for i, s in enumerate(sents):
-            s = s.replace("\x00", ".")
+            s = s.replace("\x00", ".").replace("\x02", "?").replace("\x03", "!")
             if re.fullmatch(r"[•▪◦●–\-o]?\s*", s):
                 continue
             pieces.append((s, mk if i == 0 else ("cont" if mk else None)))
@@ -522,8 +570,15 @@ def build_groups(pieces: List[Tuple[str, Optional[str]]], with_heads: bool = Fal
             elif mk:
                 if (g["list_open"] and mk != g["head"]) or prev.endswith(":"):
                     attach = True
+                elif RULE_OPTS["or_joins_lists"] and re.fullmatch(r"(?i)or|and", prev.strip()):
+                    attach = True       # the alternative list that follows a lone "OR"
+                elif RULE_OPTS["orphan_bullets"] and not g["list_open"] and ORPHAN_BULLET_RE.match(txt):
+                    attach = True       # "- Can be billed alone ..." has no subject of its own
             else:
-                if prev.endswith((":", ";", ",")) or CONT_RE.match(txt) or txt[:1].islower() or _is_code_list_line(txt):
+                if RULE_OPTS["or_joins_lists"] and re.fullmatch(r"(?i)or|and", txt.strip()) and len(g["items"]) > 1 \
+                        and any(g["marks"]):
+                    attach = True       # lone "OR" between two bullet lists
+                elif prev.endswith((":", ";", ",")) or CONT_RE.match(txt) or txt[:1].islower() or _is_code_list_line(txt):
                     attach = True
                 else:
                     g["list_open"] = False
@@ -566,6 +621,16 @@ _AND_LEAD_RE = re.compile(
     r"\bmust (?:meet|include|satisfy|contain|be met|be satisfied|be documented)\b|"
     r"\b(?:criteria|requirements?) (?:must|are required|have to)\b|\bthe following (?:criteria|requirements) must\b",
     re.I)
+_AND_LEAD_INCLUDED_RE = re.compile(
+    r"\bmust be (?:included|provided|submitted|reported|documented|accompanied)\b|\bmust (?:also )?(?:be )?"
+    r"(?:include|report|provide|submit)\b[^.:]{0,60}\bfollowing\b|"
+    r"\b(?:conditions?|criteria|requirements?) (?:are|is|have been) (?:met|satisfied|fulfilled)\b", re.I)
+_ENUM_LEAD_RE = re.compile(
+    r"(?:\b(?:include|includes|including|such as|consists? of|as follows|covers?|are|is)|"
+    r"following (?:services|items|codes|types|categories|benefits|vaccines|settings|providers|elements|locations|"
+    r"fields|forms))\s*:?\s*$", re.I)
+_CODE_LED_ITEM_RE = re.compile(
+    r"^(?:[•▪◦●–-]\s*)?(?:[A-TV-Z]\d{2}(?:\.[0-9A-Z]{1,4})?(?=[\s:,;]|$)|\d{5}\b|[A-V]\d{4}\b|0\d{3}\b)")
 _OR_LEAD_RE = re.compile(r"\b(?:any|one or more|at least one|either|one) of the following\b|\bany of the\b", re.I)
 
 
@@ -578,6 +643,8 @@ def _list_is_conjunctive(lead_text: str, spans: List[List[str]]) -> bool:
         return True
     if any(re.search(r"(?:;|,)?\s+or\s*$", " ".join(sp).strip()) for sp in spans[:-1]):
         return False
+    if RULE_OPTS["and_lead_included"] and _AND_LEAD_INCLUDED_RE.search(lead_text):
+        return True
     return bool(_AND_LEAD_RE.search(lead_text))
 
 
@@ -658,6 +725,12 @@ def _expand(node: _Node, prefix: List[str], top_level: bool) -> List[List[str]]:
     return out
 
 
+def _whole_list(items: List[str], head, lead_end: int):
+    """Keep a lead-in + its list as ONE rule. When the list states a rule of its own it is tagged
+    "split" so the sentences before it stay a separate rule instead of being glued onto it."""
+    return [(items, "wholelist" if _group_is_rule(items) else head)]
+
+
 def _split_long_list(items: List[str], head, marks: List[Optional[str]], chunk_max: int, depth: int = 0):
     """One rule per listed condition: lead-in + ONE alternative (with its own sub-items) per rule.
     Lists whose items must all apply together stay one rule (see _list_is_conjunctive)."""
@@ -675,8 +748,25 @@ def _split_long_list(items: List[str], head, marks: List[Optional[str]], chunk_m
         a = _split_long_list(items[:nxt], head, marks[:nxt], chunk_max, depth + 1)
         b = _split_long_list(items[nxt:], None, [None] + marks[nxt + 1:], chunk_max, depth + 1)
         if len(a) == 1 and len(b) == 1:
+            if RULE_OPTS["lead_ins_split"] and has_directive(items[nxt]) and has_directive(" ".join(items[:nxt])) \
+                    and len(items[nxt].split()) >= 8:
+                return [(items[:nxt], "split"), (items[nxt:], "split")]
             return [(items, head)]
         return [(x, "split") for x, _ in a] + [(x, "split") for x, _ in b]
+    if RULE_OPTS["enum_lists_whole"] and _ENUM_LEAD_RE.search(items[lead_end].strip()) \
+            and not _OR_LEAD_RE.search(items[lead_end]):
+        _li = [x for x, m in zip(items[first_item:], marks[first_item:]) if m and m != "cont"]
+        if not _li or sum(len(x.split()) for x in _li) / len(_li) <= 14:
+            return _whole_list(items, head, lead_end)
+    if RULE_OPTS["short_lists_whole"]:
+        _sl = [x for x, m in zip(items[first_item:], marks[first_item:]) if m and m != "cont"]
+        if len(_sl) >= 2 \
+                and sum(len(x.split()) for x in _sl) / len(_sl) <= 14 and not any(x.rstrip().endswith(":") for x in _sl):
+            return _whole_list(items, head, lead_end)
+    if RULE_OPTS["code_led_lists_whole"]:
+        listed = [x for x, m in zip(items[first_item:], marks[first_item:]) if m and m != "cont"]
+        if listed and sum(1 for x in listed if _CODE_LED_ITEM_RE.match(x.strip())) >= 0.6 * len(listed):
+            return _whole_list(items, head, lead_end)
     root = _build_list_tree(items[:first_item], items[first_item:], marks[first_item:])
     parts = _expand(root, [], True)
     if len(parts) < 2:
@@ -709,7 +799,7 @@ def select_rule_chunks(
             continue
         if (boiler.is_boilerplate(s) if boiler else BOILERPLATE_RE.search(s)):
             continue
-        if not mk and _is_heading_fragment(s):
+        if not mk and _is_heading_fragment(s) and not (RULE_OPTS["or_joins_lists"] and re.fullmatch(r"(?i)or|and", s.strip())):
             continue
         if headings:
             rest = s
@@ -736,7 +826,7 @@ def select_rule_chunks(
         for s, _ in keep:
             claimed.add(norm_key(s))
     total = sum(len(" ".join(g)) for g in groups)
-    has_bullet_rules = sum(1 for h, f in zip(heads, flags) if h and f) >= 2 or "split" in heads
+    has_bullet_rules = sum(1 for h, f in zip(heads, flags) if h and f) >= 2 or "split" in heads or "wholelist" in heads
     if total <= whole_max and not has_bullet_rules:
         # short section: the whole section is one complete rule. Trim leading /
         # trailing groups that carry no rule keyword (pointers, background).
@@ -761,6 +851,11 @@ def select_rule_chunks(
 
     for g, h, f in zip(groups, heads, flags):
         gtxt = " ".join(g)
+        if h == "wholelist" and f and cur and re.search(r"\b(?:below|following|listed|attached|these|those)\b[^.]{0,80}\.?$",
+                                                       cur[-1][0]):
+            cur.append((gtxt, True))      # the sentence before the list points at it ("... listed below.")
+            flush(trim=False)
+            continue
         if h and f:
             flush(trim=False)   # prose right before a list stays with the preceding rule
             chunks.append(gtxt)
@@ -1017,12 +1112,14 @@ CODE_MAP_COLUMNS = ["Rule_ID", "Policy_Title", "Line_of_Business", "Rule_Categor
 XL_MAX = 32000
 
 
+def compress_icd(codes) -> str:
+    return ", ".join(codes)
+
+
 def rule_record(r: Rule, lob_sql_value: str = "", claim_cols: Optional[List[str]] = None) -> Dict[str, Any]:
     codes = sorted(r.codes, key=code_sort_key)
     action = AUDIT_ACTION.get(r.category, "")
     q = sql_skeleton.build_query(r, action)
-    icds = q.get("icd_codes", [])
-    possible_icd_str = compress_codes(icds) if icds else ""
     flag = review_flag(r)
     if q["todo"]:
         flag = "; ".join(x for x in (flag, "SQL needs input: " + ", ".join(q["todo"])) if x)
@@ -1041,7 +1138,7 @@ def rule_record(r: Rule, lob_sql_value: str = "", claim_cols: Optional[List[str]
         "Secondary_Categories": ", ".join(r.secondary),
         "Trigger_Keywords": ", ".join(r.keywords),
         "Target_Codes": compress_codes(codes),
-        "Possible_icd_codes": possible_icd_str,
+        "Possible_icd_codes": compress_icd(q.get("icd_codes", [])),
         "Code_Count": len(codes),
         "Code_Source": "; ".join(r.code_sources),
         "Attachment_Reference": ", ".join(r.attachments),
@@ -1076,6 +1173,8 @@ def review_flag(r: Rule) -> str:
         flags.append("Ends with a lead-in ':' - the list it introduces was not found in the extracted source")
     if r.category == "POLICY_REQUIREMENT":
         flags.append("No category keyword matched")
+    if r.extra.get("dup_of"):
+        flags.append(f"Same wording as {r.extra['dup_of']} (another policy) - apply once")
     return "; ".join(flags)
 
 
@@ -1168,7 +1267,7 @@ def write_workbook(path: Path, sheets: List[Tuple[str, List[str], List[Dict[str,
 RULE_WIDTHS = {
     "Rule_ID": 16, "Payer": 9, "Policy_Title": 34, "Policy_Number": 14, "Line_of_Business": 16, "Billing_Class": 12,
     "Source_Section": 30, "Source_Type": 12, "Policy_Rule_Text": 80, "Rule_Category": 24, "Secondary_Categories": 26,
-    "Trigger_Keywords": 26, "Target_Codes": 34, "Possible_icd_codes": 26, "Code_Count": 9, "Code_Source": 24, "Attachment_Reference": 28,
+    "Trigger_Keywords": 26, "Target_Codes": 34, "Code_Count": 9, "Code_Source": 24, "Attachment_Reference": 28,
     "Attachment_Values": 45, "Incorrect_Billing_Condition": 50, "Required_Claim_Fields": 30,
     "SQL_Query": 90, "Trigger_Condition": 34, "Exception_Text": 34,
 }
@@ -1224,18 +1323,6 @@ def main_rows(rules: List[Rule], records: List[Dict[str, Any]]) -> List[Dict[str
             conds = _uniq(rec["Incorrect_Billing_Condition"] for _, rec in grp)
             params = [p for r, _ in grp for p in r.code_params if p.get("code") in cs or p.get("related_code") in cs]
             row = {k: first.get(k, "") for k in RULE_COLUMNS}
-            clubbed_queries = []
-            cur_len = 0
-            for _, rec in grp:
-                q = rec.get("SQL_Query", "")
-                if not q:
-                    continue
-                if cur_len + len(q) + 2 > 28000:
-                    remaining = len(grp) - len(clubbed_queries)
-                    clubbed_queries.append(f"-- ({remaining} more queries clubbed in this group; see Rule_Detail sheet for individual queries)")
-                    break
-                clubbed_queries.append(q)
-                cur_len += len(q) + 2
             row.update({
                 "Rule_ID": f"{stem}-G{gseq:02d}",
                 "_clubbed": True,
@@ -1246,7 +1333,6 @@ def main_rows(rules: List[Rule], records: List[Dict[str, Any]]) -> List[Dict[str
                 "Secondary_Categories": u("Secondary_Categories"),
                 "Trigger_Keywords": u("Trigger_Keywords"),
                 "Target_Codes": compress_codes(codes),
-                "Possible_icd_codes": u("Possible_icd_codes", ", "),
                 "Code_Count": len(codes),
                 "Code_Source": u("Code_Source", "; "),
                 "Attachment_Reference": u("Attachment_Reference"),
@@ -1258,7 +1344,7 @@ def main_rows(rules: List[Rule], records: List[Dict[str, Any]]) -> List[Dict[str
                 "Incorrect_Billing_Condition": "\n".join(f"{n}) {c}" for n, c in enumerate(conds, 1))
                 if len(conds) > 1 else (conds[0] if conds else ""),
                 "Required_Claim_Fields": u("Required_Claim_Fields"),
-                "SQL_Query": "\n\n".join(clubbed_queries),
+                "SQL_Query": "\n\n".join(rec["SQL_Query"] for _, rec in grp),
                 "Source_Page": u("Source_Page"),
                 "Review_Flag": u("Review_Flag", "; "),
                 "_codes_full": codes,
@@ -1294,16 +1380,15 @@ def main_rows(rules: List[Rule], records: List[Dict[str, Any]]) -> List[Dict[str
 def export_all(rules: List[Rule], records: List[Dict[str, Any]], out_dir: Path, extra_summary, extra_sheets=None,
                mirror_dirs: Sequence[Path] = (), prefix: str = "billing_rules") -> Dict[str, Path]:
     out_dir.mkdir(parents=True, exist_ok=True)
+    suffix = prefix[len("billing_rules"):] if prefix.startswith("billing_rules") else "_" + prefix
     cmap = code_map_rows(rules)
     rows = main_rows(rules, records)
-    ql_cols = ["Rule_ID", "Policy_Title", "Rule_Category", "Audit_Action", "Target_Codes", "Possible_icd_codes",
+    ql_cols = ["Rule_ID", "Policy_Title", "Rule_Category", "Audit_Action", "Target_Codes",
                "Required_Claim_Fields", "SQL_Query", "Review_Flag"]
     summary = summary_rows(rules, extra_summary)
     summary.insert(0, {"Section": "Rules", "Metric": "Rows in Rules sheet", "Value": len(rows)})
     summary.insert(1, {"Section": "Rules", "Metric": "Clubbed rows (a code with multiple rules in the same policy)",
                        "Value": sum(1 for x in rows if x.get("_clubbed"))})
-    summary.insert(2, {"Section": "Rules", "Metric": "Rules with Possible_icd_codes assigned",
-                       "Value": sum(1 for x in rows if x.get("Possible_icd_codes"))})
     widths, wrap = RULE_WIDTHS, RULE_WRAP
     sheets = [
         ("Rules", MAIN_COLUMNS, rows, widths, wrap),
@@ -1316,12 +1401,40 @@ def export_all(rules: List[Rule], records: List[Dict[str, Any]], out_dir: Path, 
     sheets.append(("Summary", ["Section", "Metric", "Value"], summary,
                    {"Section": 22, "Metric": 60, "Value": 14}, set()))
 
+    def _json(recs):
+        out = []
+        for rec in recs:
+            j = {k: v for k, v in rec.items() if not k.startswith("_")}
+            j["Target_Codes_List"] = rec.get("_codes_full", [])
+            out.append(j)
+        return out
+
     paths = {}
     for d in [out_dir] + [Path(x) for x in mirror_dirs]:
         d.mkdir(parents=True, exist_ok=True)
-        # Master Excel workbook with all rule sheets (no JSON or CSV formats)
         write_workbook(d / f"{prefix}.xlsx", sheets)
+        with open(d / f"{prefix}.json", "w", encoding="utf-8") as f:
+            json.dump(_json(rows), f, indent=2, ensure_ascii=False)
+        with open(d / f"{prefix}.csv", "w", newline="", encoding="utf-8") as f:
+            w = csv.DictWriter(f, fieldnames=MAIN_COLUMNS, extrasaction="ignore")
+            w.writeheader()
+            w.writerows(rows)
+        with open(d / f"{prefix}_detail.json", "w", encoding="utf-8") as f:
+            json.dump(_json(records), f, indent=2, ensure_ascii=False)
+        with open(d / f"{prefix}_detail.csv", "w", newline="", encoding="utf-8") as f:
+            w = csv.DictWriter(f, fieldnames=RULE_COLUMNS, extrasaction="ignore")
+            w.writeheader()
+            w.writerows(records)
+        with open(d / f"{prefix}_code_map.csv", "w", newline="", encoding="utf-8") as f:
+            w = csv.DictWriter(f, fieldnames=CODE_MAP_COLUMNS)
+            w.writeheader()
+            w.writerows(cmap)
+        # runnable SQL: table skeleton + one query per row of the Rules sheet
         with open(d / "claim_table_skeleton.sql", "w", encoding="utf-8") as f:
             f.write(sql_skeleton.table_ddl() + "\n")
+        with open(d / f"billing_rule_queries{suffix}.sql", "w", encoding="utf-8") as f:
+            f.write(sql_skeleton.file_header())
+            for row in rows:
+                f.write(row["SQL_Query"] + "\n\n")
         paths[f"xlsx:{d}"] = d / f"{prefix}.xlsx"
     return paths

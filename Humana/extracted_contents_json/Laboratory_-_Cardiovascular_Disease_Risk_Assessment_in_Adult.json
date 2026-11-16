@@ -1,0 +1,3361 @@
+{
+  "policy_title": "Laboratory - Cardiovascular Disease Risk Assessment in",
+  "policy_number": "LAB2023028",
+  "effective_date": "06/2023",
+  "published_date": "06/2023",
+  "revision_date": "04/2026",
+  "source_pdf": "Laboratory_-_Cardiovascular_Disease_Risk_Assessment_in_Adults-d941e591.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 12,
+  "table_count": 2,
+  "block_count": 126,
+  "CPT_CODES_USED": [
+    "82172",
+    "83695",
+    "83090",
+    "86140",
+    "82610",
+    "83700",
+    "83701",
+    "83704",
+    "83719",
+    "83880",
+    "85384",
+    "85415",
+    "83722",
+    "0052U",
+    "0308U",
+    "0309U",
+    "0415U",
+    "0541U",
+    "83698",
+    "0019M",
+    "0377U",
+    "82465",
+    "83718",
+    "84478",
+    "80061",
+    "67055",
+    "15450",
+    "30773",
+    "00820",
+    "S0140",
+    "60319",
+    "00716",
+    "00725",
+    "59093",
+    "11374",
+    "16912",
+    "31095",
+    "10155",
+    "31652"
+  ],
+  "MODIFIERS_USED": [
+    "LC",
+    "MS",
+    "58",
+    "91",
+    "US",
+    "25",
+    "26",
+    "CS",
+    "56",
+    "24",
+    "62",
+    "82",
+    "76",
+    "51",
+    "53",
+    "95",
+    "52",
+    "22"
+  ],
+  "ICD_CODES_USED": [
+    "M15"
+  ],
+  "mapped_cpt_codes": [
+    {
+      "code": "82172",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83695",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83090",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86140",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82610",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83700",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83701",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83704",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83719",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83880",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "85384",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "85415",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83722",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0052U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0308U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0309U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0415U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0541U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83698",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0019M",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0377U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82465",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83718",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84478",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "80061",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "67055",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "15450",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "30773",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00820",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "S0140",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "60319",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00716",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00725",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "59093",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "11374",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "16912",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "31095",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "10155",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "31652",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Measurement of apolipoprotein B (Apo B) (CPT code 82172**) IS REIMBURSABLE for individuals with any of the following:",
+      "codes": [
+        "82172"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Diabetes mellitus",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Diabetes mellitus",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Diabetes mellitus",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Disorder of galactose, lipoprotein, or amino acid transport metabolism",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Presence of coronary angioplasty implant",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Presence of coronary angioplasty implant",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Presence of coronary angioplasty implant",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Once per lifetime measurement of lipoprotein (a) [Lp(a)] (CPT code 83695**) IS REIMBURSABLE for individuals 18 years of age or older.",
+      "codes": [
+        "83695"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Presence of coronary angioplasty implant",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Presence of coronary angioplasty implant",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Presence of coronary angioplasty implant",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Measurement of homocysteine (CPT code 83090****) or conventional measurement of C-reactive protein (CPT code 86140) as a part of a risk assessment for cardiovascular disease (CVD) IS NOT REIMBURSABLE.",
+      "codes": [
+        "83090",
+        "86140"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Presence of coronary angioplasty implant",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Presence of coronary angioplasty implant",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Presence of coronary angioplasty implant",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Measurement of novel lipid and non-lipid biomarkers (CPT code 82610*, CPT code 83700**, CPT code 83701**, CPT code 83704**, CPT code 83719**, CPT code 83880***, CPT code 85384, CPT code 85415) as a part of a risk assessment for CVD IS NOT REIMBURSABLE.",
+      "codes": [
+        "82610",
+        "83700",
+        "83701",
+        "83704",
+        "83719",
+        "83880",
+        "85384",
+        "85415"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Presence of coronary angioplasty implant",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Presence of coronary angioplasty implant",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Presence of coronary angioplasty implant",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Direct measurement of small dense low-density lipoprotein (LDL) (CPT code 83722) IS NOT REIMBURSABLE except in diagnoses of Cushings syndrome, chronic kidney disease (CKD), obstruction of the bile duct or pregnancy.",
+      "codes": [
+        "83722"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Presence of coronary angioplasty implant",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Presence of coronary angioplasty implant",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Presence of coronary angioplasty implant",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "CVD risk panels consisting of multiple individual biomarkers intended to assess CVD (CPT code 0052U, CPT code 0308U**, CPT code 0309U**, CPT code 0415U**, CPT code 0541U**) ARE NOT REIMBURSABLE.",
+      "codes": [
+        "0052U",
+        "0308U",
+        "0309U",
+        "0415U",
+        "0541U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Presence of coronary angioplasty implant",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Presence of coronary angioplasty implant",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Presence of coronary angioplasty implant",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Measurement of lipoprotein-associated phospholipase A2 (Lp-PLA2) (CPT code 83698****) IS NOT REIMBURSABLE.",
+      "codes": [
+        "83698"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Presence of coronary angioplasty implant",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Presence of coronary angioplasty implant",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Presence of coronary angioplasty implant",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "All other biomarker panels designed to detect CVD risk (CPT code 0019M**, CPT code 0377U) ARE NOT REIMBURSABLE.",
+      "codes": [
+        "0019M",
+        "0377U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Presence of coronary angioplasty implant",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Presence of coronary angioplasty implant",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Presence of coronary angioplasty implant",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Measurement of components of a lipid panel (CPT code 82465*****, CPT code 83718*****, and CPT code 84478*****) ARE NOT REIMBURSABLE on the same date of service as a lipid panel (CPT code 80061*****).",
+      "codes": [
+        "82465",
+        "83718",
+        "84478",
+        "80061"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "80061***** Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct measurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478) 82172**",
+      "codes": [
+        "80061",
+        "82465",
+        "83718",
+        "84478",
+        "82172"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Apolipoprotein, each",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Apolipoprotein, each",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Apolipoprotein, each",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82465*****",
+      "codes": [
+        "82465"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Cholesterol, serum or whole blood, total",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Cholesterol, serum or whole blood, total",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Cholesterol, serum or whole blood, total",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82610*",
+      "codes": [
+        "82610"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Cystatin C",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Cystatin C",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Cystatin C",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83090****",
+      "codes": [
+        "83090"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Homocysteine",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Homocysteine",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Homocysteine",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83695**",
+      "codes": [
+        "83695"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lipoprotein (a)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lipoprotein (a)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lipoprotein (a)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83698****",
+      "codes": [
+        "83698"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lipoprotein-associated phospholipase A2 (Lp-PLA2)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lipoprotein-associated phospholipase A2 (Lp-PLA2)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lipoprotein-associated phospholipase A2 (Lp-PLA2)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83700**",
+      "codes": [
+        "83700"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lipoprotein, blood; electrophoretic separation and quantitation",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lipoprotein, blood; electrophoretic separation and quantitation",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lipoprotein, blood; electrophoretic separation and quantitation",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83701** Lipoprotein, blood; high resolution fractionation and quantitation of lipoproteins including lipoprotein subclasses when performed (eg, electrophoresis, ultracentrifugation) 83704** Lipoprotein, blood; quantitation of lipoprotein particle number(s) (eg, by nuclear magnetic resonance spectroscopy), includes lipoprotein particle subclass(es), when performed 83718***** Lipoprotein, direct measurement; high density cholesterol (HDL cholesterol) 83719**",
+      "codes": [
+        "83701",
+        "83704",
+        "83718",
+        "83719"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lipoprotein, direct measurement; VLDL cholesterol",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lipoprotein, direct measurement; VLDL cholesterol",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lipoprotein, direct measurement; VLDL cholesterol",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83722",
+      "codes": [
+        "83722"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lipoprotein, direct measurement; small dense LDL cholesterol",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lipoprotein, direct measurement; small dense LDL cholesterol",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lipoprotein, direct measurement; small dense LDL cholesterol",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "83880***",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Natriuretic peptide",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Natriuretic peptide",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Natriuretic peptide",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "84478*****",
+      "codes": [
+        "84478"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Triglycerides",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Triglycerides",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Triglycerides",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "85384",
+      "codes": [
+        "85384"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Fibrinogen; activity",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Fibrinogen; activity",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Fibrinogen; activity",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "85415",
+      "codes": [
+        "85415"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Fibrinolytic factors and inhibitors; plasminogen activator",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Fibrinolytic factors and inhibitors; plasminogen activator",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Fibrinolytic factors and inhibitors; plasminogen activator",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "86140 C-reactive protein; 0019M** Cardiovascular disease, plasma, analysis of protein biomarkers by aptamer-based microarray and algorithm reported as 4-year likelihood of coronary event in high-risk populations",
+      "codes": [
+        "86140",
+        "0019M"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: SomaLogic",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: SomaLogic",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: SomaLogic",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0052U Lipoprotein, blood, high resolution fractionation and quantitation of lipoproteins, including all five major lipoprotein classes and subclasses of HDL, LDL, and VLDL by vertical auto profile ultracentrifugation",
+      "codes": [
+        "0052U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: VAP Diagnostics Laboratory, Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: VAP Diagnostics Laboratory, Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: VAP Diagnostics Laboratory, Inc",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0308U** Cardiology (coronary artery disease [CAD]), analysis of 3 proteins (high sensitivity [hs] troponin, adiponectin, and kidney injury molecule-1 [KIM-1]), with 3 clinical parameters (age, sex, history of cardiac intervention), plasma, algorithm reported as a risk score for obstructive CAD",
+      "codes": [
+        "0308U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Prevencio, Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Prevencio, Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Prevencio, Inc",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0309U** Cardiology (cardiovascular disease), analysis of 4 proteins (NT-proBNP, osteopontin, tissue inhibitor of metalloproteinase-1 [TIMP-1], and kidney injury molecule-1 [KIM-1]), plasma, algorithm reported as a risk score for major adverse cardiac event",
+      "codes": [
+        "0309U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Prevencio, Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Prevencio, Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Prevencio, Inc",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0377U Cardiovascular disease, quantification of advanced serum or plasma lipoprotein profile, by nuclear magnetic resonance (NMR) spectrometry with report of a lipoprotein profile (including 23 variables)",
+      "codes": [
+        "0377U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "0415U** Cardiovascular disease (acute coronary syndrome [ACS]), IL-16, FAS, FASLigand, HGF, CTACK, EOTAXIN, and MCP-3 by immunoassay combined with age, sex, family history, and personal history of diabetes, blood, algorithm reported as a 5-year (deleted risk) score for ACS Proprietary test: SmartHealth Vascular DxTM,",
+      "codes": [
+        "0415U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Morningstar Laboratories, LLC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Morningstar Laboratories, LLC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Morningstar Laboratories, LLC",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "0541U** Cardiovascular disease (HDL reverse cholesterol transport), cholesterol efflux capacity, LC-MS/MS, quantitative measurement of 5 distinct HDL-bound apolipoproteins (apolipoproteins A1, C1, C2, C3, and C4), serum, algorithm reported as prediction of coronary artery disease (pCAD) score Proprietary test: HDL Reverse Cholesterol Transport Panel with pCAD Score",
+      "codes": [
+        "0541U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Quest Diagnostics®",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Quest Diagnostics®",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Quest Diagnostics®",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "*The payment criteria for 82610 applies to all Medicare jurisdictions, except those states awarded to CGS Administrators, LLC; First Coast Service Options, Inc;",
+      "codes": [
+        "82610"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab/Manufacturer: Quest Diagnostics®",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Quest Diagnostics®",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Quest Diagnostics®",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Noridian Healthcare Solutions, LLC; Palmetto GBA; WPS Insurance Corporation.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Quest Diagnostics®",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Quest Diagnostics®",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Quest Diagnostics®",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "**The payment criteria for 82172, 83695, 83700, 83701, 83704, 83719, 0019M, 0308U, 0309U, 0415U and 0541U applies to all Medicare jurisdictions, except those",
+      "codes": [
+        "82172",
+        "83695",
+        "83700",
+        "83701",
+        "83704",
+        "83719",
+        "0019M",
+        "0308U",
+        "0309U",
+        "0415U",
+        "0541U"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab/Manufacturer: Quest Diagnostics®",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Quest Diagnostics®",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Quest Diagnostics®",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "states awarded to CGS Administrators, LLC; Noridian Healthcare Solutions, LLC; Palmetto GBA; WPS Insurance Corporation.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Quest Diagnostics®",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Quest Diagnostics®",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Quest Diagnostics®",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "***The payment criteria for 83880 applies to all Medicare jurisdictions, except those awarded to First Coast Service Options, Inc; CGS Administrators, LLC; National",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab/Manufacturer: Quest Diagnostics®",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Quest Diagnostics®",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Quest Diagnostics®",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Government Services, Inc; Noridian Healthcare Solutions, LLC; Palmetto GBA; WPS Insurance Corporation.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Quest Diagnostics®",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Quest Diagnostics®",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Quest Diagnostics®",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "****The payment criteria for 83698 and 83090 applies to all Medicare jurisdictions, except those states awarded Novitas Solutions, Inc; CGS Administrators, LLC;",
+      "codes": [
+        "83698",
+        "83090"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab/Manufacturer: Quest Diagnostics®",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Quest Diagnostics®",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Quest Diagnostics®",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Noridian Healthcare Solutions, LLC; Palmetto GBA; WPS Insurance Corporation.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Quest Diagnostics®",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Quest Diagnostics®",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Quest Diagnostics®",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "*****The payment criteria for 82465, 83718, 84478 and 80061 applies to all Medicare jurisdictions, except those states awarded Novitas Solutions, Inc.",
+      "codes": [
+        "82465",
+        "83718",
+        "84478",
+        "80061"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "B-type Natriuretic Peptide",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "B-type Natriuretic Peptide",
+      "hierarchy_path": "Medicare Advantage Payment Policy > B-type Natriuretic Peptide",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "(BNP) Testing L33943 83880",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Cystatin C Measurement",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Cystatin C Measurement",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Cystatin C Measurement",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L37598 82610",
+      "codes": [
+        "82610"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Assessment",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Assessment",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Assessment",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L36139 82172 82610 83090 83695 83698 83700 83701 83704 83719",
+      "codes": [
+        "82172",
+        "82610",
+        "83090",
+        "83695",
+        "83698",
+        "83700",
+        "83701",
+        "83704",
+        "83719"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L36021 0019M 0308U 0309U 0415U 0541U First Coast Service Options,",
+      "codes": [
+        "0019M",
+        "0308U",
+        "0309U",
+        "0415U",
+        "0541U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "B-Type Natriuretic Peptide",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "B-Type Natriuretic Peptide",
+      "hierarchy_path": "Medicare Advantage Payment Policy > B-Type Natriuretic Peptide",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "(BNP) L33267 83880 First Coast Service Options, Inc.",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Cystatin C Measurement",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Cystatin C Measurement",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Cystatin C Measurement",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L37561 82610",
+      "codes": [
+        "82610"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "B-type Natriuretic Peptide",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "B-type Natriuretic Peptide",
+      "hierarchy_path": "Medicare Advantage Payment Policy > B-type Natriuretic Peptide",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "(BNP) Testing L33573 83880",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab: Cystatin C Measurement",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab: Cystatin C Measurement",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab: Cystatin C Measurement",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L37616 82610",
+      "codes": [
+        "82610"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "B-type Natriuretic Peptide",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "B-type Natriuretic Peptide",
+      "hierarchy_path": "Medicare Advantage Payment Policy > B-type Natriuretic Peptide",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "(BNP) Testing L35526 83880",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "B-type Natriuretic Peptide",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "B-type Natriuretic Peptide",
+      "hierarchy_path": "Medicare Advantage Payment Policy > B-type Natriuretic Peptide",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "(BNP) Testing L34038 83880",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Assessment",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Assessment",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Assessment",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "L36358 82172 82610 83090 83695 83698 83700 83701 83704 83719",
+      "codes": [
+        "82172",
+        "82610",
+        "83090",
+        "83695",
+        "83698",
+        "83700",
+        "83701",
+        "83704",
+        "83719"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Assessment",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Assessment",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Assessment",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "L36362 82172 82610 83090 83695 83698 83700 83701 83704 83719",
+      "codes": [
+        "82172",
+        "82610",
+        "83090",
+        "83695",
+        "83698",
+        "83700",
+        "83701",
+        "83704",
+        "83719"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "L35160 0019M 0308U 0309U 0415U 0541U",
+      "codes": [
+        "0019M",
+        "0308U",
+        "0309U",
+        "0415U",
+        "0541U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "L36256 0019M 0308U 0309U 0415U 0541U Novitas Solutions, Inc.",
+      "codes": [
+        "0019M",
+        "0308U",
+        "0309U",
+        "0415U",
+        "0541U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Metabolic Function",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Metabolic Function",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Metabolic Function",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "L34914 83090 83698",
+      "codes": [
+        "83090",
+        "83698"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Frequency of Laboratory Test",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Frequency of Laboratory Test",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Frequency of Laboratory Test",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "L35099 80061 82465 83718 84478",
+      "codes": [
+        "80061",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Brain Natriuretic Peptide",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Brain Natriuretic Peptide",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Brain Natriuretic Peptide",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "(BNP) Level L33422 83880",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "B-type Natriuretic Peptide",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "B-type Natriuretic Peptide",
+      "hierarchy_path": "Medicare Advantage Payment Policy > B-type Natriuretic Peptide",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "(BNP) Testing L34410 83880",
+      "codes": [
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Homocysteine Level, Serum",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Homocysteine Level, Serum",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Homocysteine Level, Serum",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "L34419 83090",
+      "codes": [
+        "83090"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab: Cystatin C Measurement",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab: Cystatin C Measurement",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab: Cystatin C Measurement",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "L37581 82610",
+      "codes": [
+        "82610"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Assessment",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Assessment",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Assessment",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "L36129 82172 82610 83090 83695 83698 83700 83701 83704 83719",
+      "codes": [
+        "82172",
+        "82610",
+        "83090",
+        "83695",
+        "83698",
+        "83700",
+        "83701",
+        "83704",
+        "83719"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "L35025 0019M 0308U 0309U 0415U 0541U",
+      "codes": [
+        "0019M",
+        "0308U",
+        "0309U",
+        "0415U",
+        "0541U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Assessment",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Assessment",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Assessment",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "L36523 82172 82610 83090 83695 83698 83700 83701 83704 83719 83880",
+      "codes": [
+        "82172",
+        "82610",
+        "83090",
+        "83695",
+        "83698",
+        "83700",
+        "83701",
+        "83704",
+        "83719",
+        "83880"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "L36807 0019M 0308U 0309U 0415U 0541U",
+      "codes": [
+        "0019M",
+        "0308U",
+        "0309U",
+        "0415U",
+        "0541U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "AACE. (2021). Consensus Statement by The American Association Of Clinical Endocrinologists And American College Of Endocrinology On The Management Of Dyslipidemia And Prevention Of Cardiovascular Disease Algorithm - 2020 Executive",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "section": "References",
+      "subsection": "Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "hierarchy_path": "References > Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Aberg, J. A., Gallant, J. E., Ghanem, K. G., Emmanuel, P., Zingman, B. S., & Horberg, M. A. (2014). Primary Care Guidelines for the Management of Persons Infected With HIV: 2013 Update by the HIV Medicine Association of the Infectious Diseases Society of America. Clinical Infectious Diseases, 58(1), e1-e34. https://doi.org/10.1093/cid/cit665 ACC. (2018). 2018 Guideline on the Management of Blood Cholesterol. https://www.acc.org/~/media/Non-Clinical/Files-PDFs-Excel- MS-Word-etc/Guidelines/2018/Guidelines-Made-Simple-Tool-2018-Cholesterol.pdf ADA. (2020). Standards of Medical Care in diabetes-2020. https://care.diabetesjournals.org/content/43/Supplement_1 ADA. (2021a). Children and Adolescents: Standards of Medical Care in Diabetes-2021. Retrieved 12/30/2020 from https://care.diabetesjournals.org/content/44/Supplement_1/S180 ADA. (2021b). Standards of Medical Care in diabetes-2021, Chapter 10. Retrieved 12/30/2020 from https://care.diabetesjournals.org/content/44/Supplement_1/S125 ADA. (2023). 10. Cardiovascular Disease and Risk Management: Standards of Care in Diabetes-2024. Diabetes Care, 47(Supplement_1), S179-S218. https://doi.org/10.2337/dc24-S010 AHA. (2024). 2024 Heart Disease and Stroke Statistics Update Fact Sheet At-a-Glance. https://www.heart.org/-/media/PHD-Files- 2/Science-News/2/2024-Heart-and-Stroke-Stat-Update/2024-Statistics-At-A-Glance-final_2024.pdf Akcay, M., & Yuksel, S. (2019). Isotretinoin-associated possible Kounis syndrome: A case report and a review of other cardiovascular side effects reported in the literature. Turk Kardiyol Dern Ars, 47(4), 324-328. https://doi.org/10.5543/tkda.2018.67055 (Isotretinoin ile iliskili olasi Kounis sendromu: Olgu sunumu ve diger kardiyovaskuler yan etkilerin literatur derlemesi.) Alan, S., Unal, B., & Yildirim, A. (2016). Premature ventricular contractions associated with isotretinoin use. An Bras Dermatol, 91(6), 820-821. https://doi.org/10.1590/abd1806-4841.20165138 Antonopoulos, A. S., Angelopoulos, A., Papanikolaou, P., Simantiris, S., Oikonomou, E. K., Vamvakaris, K., Koumpoura, A., Farmaki, M., Trivella, M., Vlachopoulos, C., Tsioufis, K., Antoniades, C., & Tousoulis, D. (2022). Biomarkers of Vascular Inflammation for Cardiovascular Risk Prognostication: A Meta-Analysis. JACC Cardiovasc Imaging, 15(3), 460-471. https://doi.org/10.1016/j.jcmg.2021.09.014 Arnett, D. K., Blumenthal, R. S., Albert, M. A., Buroker, A. B., Goldberger, Z. D., Hahn, E. J., Himmelfarb, C. D., Khera, A., Lloyd-Jones, D., McEvoy, J. W., Michos, E. D., Miedema, M. D., Munoz, D., Smith, S. C., Jr., Virani, S. S., Williams, K. A., Sr., Yeboah, J., &",
+      "codes": [
+        "67055"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "section": "References",
+      "subsection": "Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "hierarchy_path": "References > Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "Ziaeian, B. (2019). 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. Circulation, 140(11), e596-e646. https://doi.org/10.1161/cir.0000000000000678 ASCP. (2016). American Society for Clinical Pathology. http://www.choosingwisely.org/clinician-lists/american-society-clinical- pathology-expanded-lipid-panels-to-screen-for-cardiovascular-disease/ Beauchemin, M., Geguchadze, R., Guntur, A. R., Nevola, K., Le, P. T., Barlow, D., Rue, M., Vary, C. P. H., Lary, C. W., Motyl, K. J., & Houseknecht, K. L. (2019). Exploring mechanisms of increased cardiovascular disease risk with antipsychotic medications: Risperidone alters the cardiac proteomic signature in mice. Pharmacol Res, 152, 104589. https://doi.org/10.1016/j.phrs.2019.104589 Bibbins-Domingo, K., University of California, S. F., Grossman, D. C., Group Health Research Institute, S., Washington, Curry, S. J., University of Iowa, I. C., Davidson, K. W., Columbia University, N. Y., New York, Epling, J. W., State University of New York Upstate Medical University, S., García, F. A. R., Pima County Department of Health, T., Arizona, Gillman, M. W., Harvard Medical School and Harvard Pilgrim Health Care Institute, B., Massachusetts, Now with the National Institutes of Health, B., Maryland (was not affiliated with the National Institutes of Health while a member of the USPSTF), Kemper, A. R., Duke University, D., North Carolina, Krist, A. H., Fairfax Family Practice Residency, F., Virginia, . . . Austin, U. o. T. a. (2017). Statin Use for the Primary Prevention of Cardiovascular Disease in Adults: US Preventive Services Task Force Recommendation Statement. Jama, 316(19), 1997-2007. https://doi.org/10.1001/jama.2016.15450 Boekholdt, S. M., Hovingh, G. K., Mora, S., Arsenault, B. J., Amarenco, P., Pedersen, T. R., LaRosa, J. C., Waters, D. D., DeMicco, D. A., Simes, R. J., Keech, A. C., Colquhoun, D., Hitman, G. A., Betteridge, D. J., Clearfield, M. B., Downs, J. R., Colhoun, H. M., Gotto, A. M., Jr., Ridker, P. M., . . . Kastelein, J. J. (2014). Very low levels of atherogenic lipoproteins and the risk for cardiovascular events: a meta-analysis of statin trials. J Am Coll Cardiol, 64(5), 485-494. https://doi.org/10.1016/j.jacc.2014.02.615 Bosch, J., Gerstein, H. C., Dagenais, G. R., Diaz, R., Dyal, L., Jung, H., Maggiono, A. P., Probstfield, J., Ramachandran, A., Riddle, M. C., Ryden, L. E., & Yusuf, S. (2012). n-3 fatty acids and cardiovascular outcomes in patients with dysglycemia. N Engl J Med, 367(4), 309-318. https://doi.org/10.1056/NEJMoa1203859 Cao, J., Nomura, S. O., Steffen, B. T., Guan, W., Remaley, A. T., Karger, A. B., Ouyang, P., Michos, E. D., & Tsai, M. Y. (2019). Apolipoprotein B discordance with low-density lipoprotein cholesterol and non-high-density lipoprotein cholesterol in relation to coronary artery calcification in the Multi-Ethnic Study of Atherosclerosis (MESA). J Clin Lipidol. https://doi.org/10.1016/j.jacl.2019.11.005 Catapano, A. L., Graham, I., De Backer, G., Wiklund, O., Chapman, M. J., Drexel, H., Hoes, A. W., Jennings, C. S., Landmesser, U., Pedersen, T. R., Reiner, Z., Riccardi, G., Taskinen, M. R., Tokgozoglu, L., Verschuren, W. M. M., Vlachopoulos, C., Wood, D. A., Zamorano, J. L., & Cooney, M. T. (2016). 2016 ESC/EAS Guidelines for the Management of Dyslipidaemias. Eur Heart J, 37(39), 2999-3058. https://doi.org/10.1093/eurheartj/ehw272 CDC. (2023). LSP: Lipids Standardization Program. https://wwwn.cdc.gov/dlsdata/lspds/pdf/UserManual.pdf CDC. (2024a). Cardiovascular Disease Biomarker Standardization Programs. https://www.cdc.gov/clinical-standardization- programs/php/cvd/?CDC_AAref_Val=https://www.cdc.gov/labstandards/csp/cvd.html CDC. (2024b). Heart Disease Risk Factors. https://www.cdc.gov/heart-disease/risk- factors/?CDC_AAref_Val=https://www.cdc.gov/heartdisease/risk_factors.htm Chiesa, S. T., Charakida, M., Georgiopoulos, G., Roberts, J. D., Stafford, S. J., Park, C., Mykkänen, J., Kähönen, M., Lehtimäki, T., Ala- Korpela, M., Raitakari, O., Pietiäinen, M., Pussinen, P., Muthurangu, V., Hughes, A. D., Sattar, N., Timpson, N. J., & Deanfield, J. E. (2022). Glycoprotein Acetyls: A Novel Inflammatory Biomarker of Early Cardiovascular Risk in the Young. J Am Heart Assoc, 11(4), e024380. https://doi.org/10.1161/jaha.121.024380 Chou, R., Dana, T., Blazina, I., Daeges, M., Bougatsos, C., & Jeanne, T. L. (2016). Screening for Dyslipidemia in Younger Adults: A Systematic Review for the U.S. Preventive Services Task Force. Ann Intern Med, 165(8), 560-564. https://doi.org/10.7326/m16- 0946 CMS. (2005). Lipid Testing https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?NCDId=102 Colucci, W., & Chen, H. H. (2024, 3/11/2024). Natriuretic peptide measurement in heart failure. https://www.uptodate.com/contents/natriuretic-peptide-measurement-in-heart-failure Cosentino, F., Grant, P. J., Aboyans, V., Bailey, C. J., Ceriello, A., Delgado, V., Federici, M., Filippatos, G., Grobbee, D. E., Hansen, T. B., Huikuri, H. V., Johansson, I., Jüni, P., Lettino, M., Marx, N., Mellbin, L. G., Östgren, C. J., Rocca, B., Roffi, M., . . . Group, E. S. C. S. D. (2020). 2019 ESC Guidelines on diabetes, pre-diabetes, and cardiovascular diseases developed in collaboration with the EASD: The Task Force for diabetes, pre-diabetes, and cardiovascular diseases of the European Society of Cardiology (ESC) and",
+      "codes": [
+        "15450"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "section": "References",
+      "subsection": "Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "hierarchy_path": "References > Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content": "the European Association for the Study of Diabetes (EASD). European Heart Journal, 41(2), 255-323. https://doi.org/10.1093/eurheartj/ehz486 Crea, F., Morrow, David. (2023, 4/21/2023). C-reactive protein in cardiovascular disease. https://www.uptodate.com/contents/c- reactive-protein-in-cardiovascular-disease de Oliveira Otto, M. C., Wu, J. H., Baylin, A., Vaidya, D., Rich, S. S., Tsai, M. Y., Jacobs, D. R., Jr., & Mozaffarian, D. (2013). Circulating and dietary omega-3 and omega-6 polyunsaturated fatty acids and incidence of CVD in the Multi-Ethnic Study of Atherosclerosis. J Am Heart Assoc, 2(6), e000506. https://doi.org/10.1161/jaha.113.000506 De Stefano, A., Mannucci, L., Tamburi, F., Cardillo, C., Schinzari, F., Rovella, V., Nistico, S., Bennardo, L., Di Daniele, N., & Tesauro, M. (2019). Lp-PLA2, a new biomarker of vascular disorders in metabolic diseases. Int J Immunopathol Pharmacol, 33,",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "section": "References",
+      "subsection": "Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "hierarchy_path": "References > Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content": "2058738419827154. https://doi.org/10.1177/2058738419827154",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "section": "References",
+      "subsection": "Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "hierarchy_path": "References > Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content": "Di Angelantonio, E., Sarwar, N., Perry, P., Kaptoge, S., Ray, K. K., Thompson, A., Wood, A. M., Lewington, S., Sattar, N., Packard, C. J., Collins, R., Thompson, S. G., & Danesh, J. (2009). Major lipids, apolipoproteins, and risk of vascular disease. Jama, 302(18), 1993-2000. https://doi.org/10.1001/jama.2009.1619 Ford, I., Shah, A. S., Zhang, R., McAllister, D. A., Strachan, F. E., Caslake, M., Newby, D. E., Packard, C. J., & Mills, N. L. (2016). High- Sensitivity Cardiac Troponin, Statin Therapy, and Risk of Coronary Heart Disease. J Am Coll Cardiol, 68(25), 2719-2728. https://doi.org/10.1016/j.jacc.2016.10.020 Garber, A. J., Handelsman, Y., Grunberger, G., Einhorn, D., Abrahamson, M. J., Barzilay, J. I., Blonde, L., Bush, M. A., DeFronzo, R. A., Garber, J. R., Garvey, W. T., Hirsch, I. B., Jellinger, P. S., McGill, J. B., Mechanick, J. I., Perreault, L., Rosenblit, P. D., Samson, S., & Umpierrez, G. E. (2020). CONSENSUS STATEMENT BY THE AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS AND AMERICAN COLLEGE OF ENDOCRINOLOGY ON THE COMPREHENSIVE TYPE 2 DIABETES MANAGEMENT ALGORITHM - 2020 EXECUTIVE SUMMARY. Endocrine Practice, 26(1), 107-139. https://doi.org/10.4158/CS-2019-0472 Garg, P. K., McClelland, R. L., Jenny, N. S., Criqui, M. H., Greenland, P., Rosenson, R. S., Siscovick, D. S., Jorgensen, N., & Cushman, M. (2015). Lipoprotein-associated phospholipase A2 and risk of incident cardiovascular disease in a multi-ethnic cohort: The multi ethnic study of atherosclerosis. Atherosclerosis, 241(1), 176-182. https://doi.org/10.1016/j.atherosclerosis.2015.05.006 Genova Diagnostics. (2023). Cardio Check. https://www.gdx.net/core/sample-reports/Cardio-Check-Sample-Report.pdf Gibson, M., Morrow, D. (2024, 4/17/2024). Elevated cardiac troponin concentration in the absence of an acute coronary syndrome. https://www.uptodate.com/contents/elevated-cardiac-troponin-concentration-in-the-absence-of-an-acute-coronary-syndrome Goff, D. C., Jr., Lloyd-Jones, D. M., Bennett, G., Coady, S., D'Agostino, R. B., Sr., Gibbons, R., Greenland, P., Lackland, D. T., Levy, D., O'Donnell, C. J., Robinson, J. G., Schwartz, J. S., Shero, S. T., Smith, S. C., Jr., Sorlie, P., Stone, N. J., & Wilson, P. W. (2014). 2013 ACC/AHA guideline on the assessment of cardiovascular risk: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines. J Am Coll Cardiol, 63(25 Pt B), 2935-2959. https://doi.org/10.1016/j.jacc.2013.11.005 Greenland, P., Alpert, J. S., Beller, G. A., Benjamin, E. J., Budoff, M. J., Fayad, Z. A., Foster, E., Hlatky, M. A., Hodgson, J. M., Kushner, F. G., Lauer, M. S., Shaw, L. J., Smith, S. C., Jr., Taylor, A. J., Weintraub, W. S., Wenger, N. K., Jacobs, A. K., Anderson, J. L., Albert, N., . . . Yancy, C. W. (2010). 2010 ACCF/AHA guideline for assessment of cardiovascular risk in asymptomatic adults: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines. J Am Coll Cardiol, 56(25), e50-103. https://doi.org/10.1016/j.jacc.2010.09.001 Grundy, S. M., Stone Neil, J., Bailey Alison, L., Beam, C., Birtcher Kim, K., Blumenthal Roger, S., Braun Lynne, T., de Ferranti, S., Faiella-Tommasino, J., Forman Daniel, E., Goldberg, R., Heidenreich Paul, A., Hlatky Mark, A., Jones Daniel, W., Lloyd-Jones, D., Lopez-Pajares, N., Ndumele Chiadi, E., Orringer Carl, E., Peralta Carmen, A., . . . Yeboah, J. (2018). 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. Circulation, 139(25), e1082-e1143. https://doi.org/10.1161/CIR.0000000000000625 Güler, E., Babur Güler, G., Yavuz, C., & Kızılırmak, F. (2015). An unknown side effect of isotretinoin: pericardial effusion with atrial tachycardia. Anatol J Cardiol, 15(2), 168-169. https://pubmed.ncbi.nlm.nih.gov/25625453/ HeartLab, C. (2023). The Science. Retrieved 03/07/2023 from https://www.clevelandheartlab.com/providers/the-science/ Howell, S., Yarovova, E., Khwanda, A., & Rosen, S. D. (2019). Cardiovascular effects of psychotic illnesses and antipsychotic therapy. Heart, 105(24), 1852-1859. https://doi.org/10.1136/heartjnl-2017-312107 Hwang, Y. C., Ahn, H. Y., Han, K. H., Park, S. W., & Park, C. Y. (2017). Prediction of future cardiovascular disease with an equation to estimate apolipoprotein B in patients with high cardiovascular risk: an analysis from the TNT and IDEAL study. Lipids Health Dis, 16(1), 158. https://doi.org/10.1186/s12944-017-0549-8",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "section": "References",
+      "subsection": "Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "hierarchy_path": "References > Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content": "Itakura, H., Yokoyama, M., Matsuzaki, M., Saito, Y., Origasa, H., Ishikawa, Y., Oikawa, S., Sasaki, J., Hishida, H., Kita, T., Kitabatake, A., Nakaya, N., Sakata, T., Shimada, K., Shirato, K., & Matsuzawa, Y. (2011). Relationships between plasma fatty acid composition and coronary artery disease. J Atheroscler Thromb, 18(2), 99-107. https://doi.org/10.5551/jat.5876 Jaffe, A. (2024, 4/17/2024). Troponin testing: Analytical considerations. https://www.uptodate.com/contents/troponin-testing- analytical-considerations Januzzi, J. L., Jr., Ahmad, T., Mulder, H., Coles, A., Anstrom, K. J., Adams, K. F., Ezekowitz, J. A., Fiuzat, M., Houston-Miller, N., Mark, D. B., Piña, I. L., Passmore, G., Whellan, D. J., Cooper, L. S., Leifer, E. S., Desvigne-Nickens, P., Felker, G. M., & O'Connor, C. M. (2019). Natriuretic Peptide Response and Outcomes in Chronic Heart Failure With Reduced Ejection Fraction. J Am Coll Cardiol, 74(9), 1205-1217. https://doi.org/10.1016/j.jacc.2019.06.055 Jellinger, P. S., Handelsman, Y., Rosenblit, P. D., Bloomgarden, Z. T., Fonseca, V. A., Garber, A. J., Grunberger, G., Guerin, C. K., Bell, D. S. H., Mechanick, J. I., Pessah-Pollack, R., Wyne, K., Smith, D., Brinton, E. A., Fazio, S., & Davidson, M. (2017). AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS AND AMERICAN COLLEGE OF ENDOCRINOLOGY GUIDELINES FOR MANAGEMENT OF DYSLIPIDEMIA AND PREVENTION OF CARDIOVASCULAR DISEASE. Endocr Pract, 23(Suppl 2), 1-87. https://doi.org/10.4158/ep171764.appgl Jepsen, A.-M. K., Langsted, A., Varbo, A., Bang, L. E., Kamstrup, P. R., & Nordestgaard, B. G. (2016). Increased Remnant Cholesterol Explains Part of Residual Risk of All-Cause Mortality in 5414 Patients with Ischemic Heart Disease. Clinical Chemistry, 62(4), 593. https://doi.org/10.1373/clinchem.2015.253757 Joshi, P. H., Khokhar, A. A., Massaro, J. M., Lirette, S. T., Griswold, M. E., Martin, S. S., Blaha, M. J., Kulkarni, K. R., Correa, A., Ralph B. D'Agostino, S., Jones, S. R., Toth, P. P., & Group, t. L. I. C. L. S. (2016). Remnant Lipoprotein Cholesterol and Incident Coronary Heart Disease: The Jackson Heart and Framingham Offspring Cohort Studies. https://doi.org/10.1161/JAHA.115.002765 Karadag, A. S., Gumrukcuoglu, H. A., Gunes Bilgili, S., Ozkol, H. U., Ertugrul, D. T., Simsek, H., Sahin, M., & Calka, O. (2012). Does isotretinoin therapy have any effects on electrocardiography, heart rate and blood pressure? J Dermatolog Treat, 23(3), 168-",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "section": "References",
+      "subsection": "Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "hierarchy_path": "References > Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content": "171. https://doi.org/10.3109/09546634.2010.546831",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "section": "References",
+      "subsection": "Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "hierarchy_path": "References > Summary. https://pro.aace.com/pdfs/lipids/CS-2020-0490.pdf",
+      "page_number": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "content": "Kilicaslan, E. E., Karakilic, M., & Erol, A. (2019). The Relationship between 10 Years Risk of Cardiovascular Disease and Schizophrenia Symptoms: Preliminary Results. Psychiatry Investig, 16(12), 933-939. https://doi.org/10.30773/pi.2019.0063 Kongpakwattana, K., Ademi, Z., Chaiyasothi, T., Nathisuwan, S., Zomer, E., Liew, D., & Chaiyakunapruk, N. (2019). Cost-Effectiveness Analysis of Non-Statin Lipid-Modifying Agents for Secondary Cardiovascular Disease Prevention Among Statin-Treated Patients in Thailand. Pharmacoeconomics, 37(10), 1277-1286. https://doi.org/10.1007/s40273-019-00820-6 Kuwahara, K., Nakagawa, Y., & Nishikimi, T. (2018). Cutting Edge of Brain Natriuretic Peptide (BNP) Research - The Diversity of BNP Immunoreactivity and Its Clinical Relevance. Circ J, 82(10), 2455-2461. https://doi.org/10.1253/circj.CJ-18-0824 Lamprea-Montealegre, J. A., Staplin, N., Herrington, W. G., Haynes, R., Emberson, J., Baigent, C., & de Boer, I. H. (2020). Apolipoprotein B, Triglyceride-Rich Lipoproteins, and Risk of Cardiovascular Events in Persons with CKD. Clin J Am Soc Nephrol, 15(1), 47-60. https://doi.org/10.2215/cjn.07320619 Lee, Y. H., Scharnitz, T. P., Muscat, J., Chen, A., Gupta-Elera, G., & Kirby, J. S. (2016). Laboratory Monitoring During Isotretinoin Therapy for Acne: A Systematic Review and Meta-analysis. JAMA Dermatol, 152(1), 35-44. https://doi.org/10.1001/jamadermatol.2015.3091 Li, N., & Wang, J. A. (2005). Brain natriuretic peptide and optimal management of heart failure. J Zhejiang Univ Sci B, 6(9), 877-884. https://pubmed.ncbi.nlm.nih.gov/16130189/ Liu, G., Dong, M., Ma, S., Fu, L., Xiao, Y., Zhong, L., & Geng, J. (2019). Serum leptin is associated with first-ever ischemic stroke, lesion size and stroke severity in a Chinese cohort. Neurol Res, 41(2), 125-131. https://doi.org/10.1080/01616412.2018.1544399 LPSC. (2010). Lipoprotein-associated phospholipase A2 and risk of coronary disease, stroke, and mortality: collaborative analysis of 32 prospective studies. The Lancet, 375(9725), 1536-1544. https://doi.org/10.1016/S0140-6736(10)60319-4 Mach, F., Baigent, C., Catapano, A. L., Koskinas, K. C., Casula, M., Badimon, L., Chapman, M. J., De Backer, G. G., Delgado, V., Ference, B. A., Graham, I. M., Halliday, A., Landmesser, U., Mihaylova, B., Pedersen, T. R., Riccardi, G., Richter, D. J., Sabatine, M. S., Taskinen, M. R., . . . Wiklund, O. (2019). 2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk. Eur Heart J. https://doi.org/10.1093/eurheartj/ehz455 MacNamara, J., Eapen, D. J., Quyyumi, A., & Sperling, L. (2015). Novel biomarkers for cardiovascular risk assessment: current status and future directions. Future Cardiol, 11(5), 597-613. https://doi.org/10.2217/fca.15.39 Maners, J., Gill, D., Pankratz, N., & Tang, W. (2019). Abstract P106: Genetically Determined Fibrinogen, Gamma Prime Fibrinogen and Risk of Venous Thromboembolism and Ischemic Stroke: Evidence From Mendelian Randomization. American Heart",
+      "codes": [
+        "30773",
+        "00820",
+        "S0140",
+        "60319"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Association. https://doi.org/10.1161/circ.139.suppl_1.P106",
+      "section": "References",
+      "subsection": "Association. https://doi.org/10.1161/circ.139.suppl_1.P106",
+      "hierarchy_path": "References > Association. https://doi.org/10.1161/circ.139.suppl_1.P106",
+      "page_number": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "content": "Mark, D. B., Cowper, P. A., Anstrom, K. J., Sheng, S., Daniels, M. R., Knight, J. D., Baloch, K. N., Davidson-Ray, L., Fiuzat, M., Januzzi, J. L., Jr., Whellan, D. J., Piña, I. L., Ezekowitz, J. A., Adams, K. F., Cooper, L. S., O'Connor, C. M., & Felker, G. M. (2018). Economic and Quality-of-Life Outcomes of Natriuretic Peptide-Guided Therapy for Heart Failure. J Am Coll Cardiol, 72(21), 2551-2562. https://doi.org/10.1016/j.jacc.2018.08.2184 Mehta, A., Virani, S. S., Ayers, C. R., Sun, W., Hoogeveen, R. C., Rohatgi, A., Berry, J. D., Joshi, P. H., Ballantyne, C. M., & Khera, A. (2020). Lipoprotein(a) and Family History Predict Cardiovascular Disease Risk. J Am Coll Cardiol, 76(7), 781-793. https://doi.org/10.1016/j.jacc.2020.06.040 Mohler, E. R., 3rd, Ballantyne, C. M., Davidson, M. H., Hanefeld, M., Ruilope, L. M., Johnson, J. L., & Zalewski, A. (2008). The effect of darapladib on plasma lipoprotein-associated phospholipase A2 activity and cardiovascular biomarkers in patients with stable coronary heart disease or coronary heart disease risk equivalent: the results of a multicenter, randomized, double-blind, placebo-controlled study. J Am Coll Cardiol, 51(17), 1632-1641. https://doi.org/10.1016/j.jacc.2007.11.079 Morita, S. Y. (2016). Metabolism and Modification of Apolipoprotein B-Containing Lipoproteins Involved in Dyslipidemia and Atherosclerosis. Biol Pharm Bull, 39(1), 1-24. https://doi.org/10.1248/bpb.b15-00716 Moyer, V. A. (2013). Screening for primary hypertension in children and adolescents: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med, 159(9), 613-619. https://doi.org/10.7326/0003-4819-159-9-201311050-00725 Mozaffarian, D. (2023, 12/05/2023). Fish oil: Physiologic effects and administration. https://www.uptodate.com/contents/fish-oil- and-marine-omega-3-fatty-acids Newman, C. B., Blaha, M. J., Boord, J. B., Cariou, B., Chait, A., Fein, H. G., Ginsberg, H. N., Goldberg, I. J., Murad, M. H., Subramanian, S., & Tannock, L. R. (2020). Lipid Management in Patients with Endocrine Disorders: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism, 105(12), 3613-3682. https://doi.org/10.1210/clinem/dgaa674 NICE. (2023). Cardiovascular disease: risk assessment and reduction, including lipid modification. https://www.nice.org.uk/guidance/ng238 O'Malley, P. G., Arnold, M. J., Kelley, C., Spacek, L., Buelt, A., Natarajan, S., Donahue, M. P., Vagichev, E., Ballard-Hernandez, J., Logan, A., Thomas, L., Ritter, J., Neubauer, B. E., & Downs, J. R. (2020). Management of Dyslipidemia for Cardiovascular Disease Risk Reduction: Synopsis of the 2020 Updated U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline. Ann Intern Med, 173(10), 822-829. https://doi.org/10.7326/m20-4648 Pearson, G. J., Thanassoulis, G., Anderson, T. J., Barry, A. R., Couture, P., Dayan, N., Francis, G. A., Genest, J., Grégoire, J., Grover, S. A., Gupta, M., Hegele, R. A., Lau, D., Leiter, L. A., Leung, A. A., Lonn, E., Mancini, G. B. J., Manjoo, P., McPherson, R., . . . Wray, W. (2021). 2021 Canadian Cardiovascular Society Guidelines for the Management of Dyslipidemia for the Prevention of Cardiovascular Disease in Adults. Can J Cardiol, 37(8), 1129-1150. https://doi.org/10.1016/j.cjca.2021.03.016 Pearson, T. A., Mensah, G. A., Alexander, R. W., Anderson, J. L., Cannon, R. O., 3rd, Criqui, M., Fadl, Y. Y., Fortmann, S. P., Hong, Y., Myers, G. L., Rifai, N., Smith, S. C., Jr., Taubert, K., Tracy, R. P., Vinicor, F., Centers for Disease, C., Prevention, & American Heart, A. (2003). Markers of inflammation and cardiovascular disease: application to clinical and public health practice: A statement for healthcare professionals from the Centers for Disease Control and Prevention and the American Heart Association. Circulation, 107(3), 499-511. https://doi.org/10.1161/01.cir.0000052939.59093.45 Pieters, M., Ferreira, M., de Maat, M. P. M., & Ricci, C. (2020). Biomarker association with cardiovascular disease and mortality - The role of fibrinogen. A report from the NHANES study. Thromb Res, 198, 182-189. https://doi.org/10.1016/j.thromres.2020.12.009 Pignone, M. P. (2024, 06/27/2024). Low-density lipoprotein cholesterol-lowering therapy in the primary prevention of cardiovascular disease. https://www.uptodate.com/contents/management-of-elevated-low-density-lipoprotein-cholesterol-ldl-c-in-primary- prevention-of-cardiovascular-disease Pile, H. D., & Sadiq, N. M. (2019). Isotretinoin. In StatPearls. StatPearls Publishing. https://www.ncbi.nlm.nih.gov/pubmed/30247824 Polcwiartek, C., Kragholm, K., Schjerning, O., Graff, C., & Nielsen, J. (2016). Cardiovascular safety of antipsychotics: a clinical overview. Expert Opin Drug Saf, 15(5), 679-688. https://doi.org/10.1517/14740338.2016.1161021 Reklou, A., Katsiki, N., Karagiannis, A., & Athyros, V. (2020). Effects of Lipid Lowering Drugs on Arterial Stiffness: One More Way to Reduce Cardiovascular Risk? Curr Vasc Pharmacol, 18(1), 38-42. https://doi.org/10.2174/1570161117666190121102323 Reyes-Soffer, G., Ginsberg, H. N., Berglund, L., Duell, P. B., Heffron, S. P., Kamstrup, P. R., Lloyd-Jones, D. M., Marcovina, S. M., Yeang, C., Koschinsky, M. L., American Heart Association Council on Arteriosclerosis, T., Vascular, B., Council on Cardiovascular, R., Intervention, & Council on Peripheral Vascular, D. (2022). Lipoprotein(a): A Genetically Determined, Causal, and Prevalent Risk Factor for Atherosclerotic Cardiovascular Disease: A Scientific Statement From the American Heart Association. Arterioscler Thromb Vasc Biol, 42(1), e48-e60. https://doi.org/10.1161/ATV.0000000000000147",
+      "codes": [
+        "00716",
+        "00725",
+        "59093"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Association. https://doi.org/10.1161/circ.139.suppl_1.P106",
+      "section": "References",
+      "subsection": "Association. https://doi.org/10.1161/circ.139.suppl_1.P106",
+      "hierarchy_path": "References > Association. https://doi.org/10.1161/circ.139.suppl_1.P106",
+      "page_number": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "content": "Rizos, E. C., Ntzani, E. E., Bika, E., Kostapanos, M. S., & Elisaf, M. S. (2012). Association between omega-3 fatty acid supplementation and risk of major cardiovascular disease events: a systematic review and meta-analysis. Jama, 308(10), 1024-1033. https://doi.org/10.1001/2012.jama.11374 Robinson, J. G., Williams, K. J., Gidding, S., Boren, J., Tabas, I., Fisher, E. A., Packard, C., Pencina, M., Fayad, Z. A., Mani, V., Rye, K. A., Nordestgaard, B. G., Tybjaerg-Hansen, A., Douglas, P. S., Nicholls, S. J., Pagidipati, N., & Sniderman, A. (2018). Eradicating the Burden of Atherosclerotic Cardiovascular Disease by Lowering Apolipoprotein B Lipoproteins Earlier in Life. J Am Heart Assoc, 7(20), e009778. https://doi.org/10.1161/jaha.118.009778 Rosenson, R. (2022, 10/14/2022). Measurement of blood lipids and lipoproteins. https://www.uptodate.com/contents/measurement-of-blood-lipids-and-lipoproteins Rosenson, R. (2023, 10/23/2023). Lipoprotein classification, metabolism, and role in atherosclerosis. https://www.uptodate.com/contents/lipoprotein-classification-metabolism-and-role-in-atherosclerosis Rosenson, R. S., & Stafforini, D. M. (2012). Modulation of oxidative stress, inflammation, and atherosclerosis by lipoprotein- associated phospholipase A2. J Lipid Res, 53(9), 1767-1782. https://doi.org/10.1194/jlr.R024190 Rosenson, R. S., Smith, C. Christopher, Bauer, Kenneth A. (2023, 11/07/2023). Overview of homocysteine. https://www.uptodate.com/contents/overview-of-homocysteine Rosenson, R., & Durrington, P. (2024, 05/01/2024). HDL cholesterol: Clinical aspects of abnormal values. https://www.uptodate.com/contents/hdl-cholesterol-clinical-aspects-of-abnormal-values Rosenson, R., Stein, J., & Durrington, P. (2024, 02/07/2024). Lipoprotein(a). https://www.uptodate.com/contents/lipoprotein-a-and- cardiovascular-disease Rosenzweig, J. L., Bakris, G. L., Berglund, L. F., Hivert, M. F., Horton, E. S., Kalyani, R. R., Murad, M. H., & Verges, B. L. (2019). Primary Prevention of ASCVD and T2DM in Patients at Metabolic Risk: An Endocrine Society* Clinical Practice Guideline. J Clin Endocrinol",
+      "codes": [
+        "11374"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Metab. https://doi.org/10.1210/jc.2019-01338",
+      "section": "References",
+      "subsection": "Metab. https://doi.org/10.1210/jc.2019-01338",
+      "hierarchy_path": "References > Metab. https://doi.org/10.1210/jc.2019-01338",
+      "page_number": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "content": "Rotella, F., Cassioli, E., Calderani, E., Lazzeretti, L., Ragghianti, B., Ricca, V., & Mannucci, E. (2020). Long-term metabolic and cardiovascular effects of antipsychotic drugs. A meta-analysis of randomized controlled trials. Eur Neuropsychopharmacol. https://doi.org/10.1016/j.euroneuro.2019.12.118 Rule, A., Glassock, Richard. (2022, 08/11/2022). The aging kidney. https://www.uptodate.com/contents/the-aging-kidney Sandhu, P. K., Musaad, S. M., Remaley, A. T., Buehler, S. S., Strider, S., Derzon, J. H., Vesper, H. W., Ranne, A., Shaw, C. S., & Christenson, R. H. (2016). Lipoprotein Biomarkers and Risk of Cardiovascular Disease: A Laboratory Medicine Best Practices (LMBP) Systematic Review. J Appl Lab Med, 1(2), 214-229. https://doi.org/10.1373/jalm.2016.021006 Sarnak, M., Gibson, Michael, Henrich, William. (2023, 05/16/2023). Chronic kidney disease and coronary heart disease. https://www.uptodate.com/contents/chronic-kidney-disease-and-coronary-heart-disease Siscovick, D. S., Barringer, T. A., Fretts, A. M., Wu, J. H., Lichtenstein, A. H., Costello, R. B., Kris-Etherton, P. M., Jacobson, T. A., Engler, M. B., Alger, H. M., Appel, L. J., & Mozaffarian, D. (2017). Omega-3 Polyunsaturated Fatty Acid (Fish Oil) Supplementation and the Prevention of Clinical Cardiovascular Disease: A Science Advisory From the American Heart Association. Circulation, 135(15), e867-e884. https://doi.org/10.1161/cir.0000000000000482 Sudhir, K. (2006). Lipoprotein-associated phospholipase A2, vascular inflammation and cardiovascular risk prediction. Vasc Health Risk Manag, 2(2), 153-156. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1994000/ Superko, H. R., Superko, A. R., Lundberg, G. P., Margolis, B., Garrett, B. C., Nasir, K., & Agatston, A. S. (2014). Omega-3 Fatty Acid Blood Levels Clinical Significance Update. Curr Cardiovasc Risk Rep, 8(11). https://doi.org/10.1007/s12170-014-0407-4 Suthahar, N., Meems, L. M. G., van Veldhuisen, D. J., Walter, J. E., Gansevoort, R. T., Heymans, S., Schroen, B., van der Harst, P., Kootstra-Ros, J. E., van Empel, V., Mueller, C., Bakker, S. J. L., & de Boer, R. A. (2020). High-Sensitivity Troponin-T and Cardiovascular Outcomes in the Community: Differences Between Women and Men. Mayo Clin Proc, 95(6), 1158-1168. https://doi.org/10.1016/j.mayocp.2020.01.017 Tang, O., Matsushita, K., Coresh, J., Hoogeveen, R. C., Windham, B. G., Ballantyne, C. M., & Selvin, E. (2020). High-Sensitivity Cardiac Troponin I for Risk Stratification in Older Adults. J Am Geriatr Soc. https://doi.org/10.1111/jgs.16912 Tedeschi-Reiner, E., Strozzi, M., Skoric, B., & Reiner, Z. (2005). Relation of atherosclerotic changes in retinal arteries to the extent of coronary artery disease. Am J Cardiol, 96(8), 1107-1109. https://doi.org/10.1016/j.amjcard.2005.05.070 Thompson, M. A., Horberg, M. A., Agwu, A. L., Colasanti, J. A., Jain, M. K., Short, W. R., Singh, T., & Aberg, J. A. (2020). Primary Care Guidance for Persons With Human Immunodeficiency Virus: 2020 Update by the HIV Medicine Association of the Infectious Diseases Society of America. Clinical Infectious Diseases, 73(11), e3572-e3605. https://doi.org/10.1093/cid/ciaa1391 Thorne. (2024). Your Wellness In Your Hands. Retrieved 07/05/2024 from https://www.wellnessfx.com/",
+      "codes": [
+        "16912"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Metab. https://doi.org/10.1210/jc.2019-01338",
+      "section": "References",
+      "subsection": "Metab. https://doi.org/10.1210/jc.2019-01338",
+      "hierarchy_path": "References > Metab. https://doi.org/10.1210/jc.2019-01338",
+      "page_number": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "content": "Tomcsányi, J., Somlói, M., Bózsik, B., Frész, T., & Nagy, E. (2018). [The value of early repeated N-terminal pro-B-type natriuretic peptide measurement in acute heart failure]. Orv Hetil, 159(25), 1009-1012. https://doi.org/10.1556/650.2018.31095 (Az N- terminális pro-B natriureticus peptid mérésének korai ismétlése akut szívelégtelenség miatt hospitalizált betegeken.) Trompet, S., Packard, C. J., & Jukema, J. W. (2018). Plasma apolipoprotein-B is an important risk factor for cardiovascular disease, and its assessment should be routine clinical practice. Curr Opin Lipidol, 29(1), 51-52. https://doi.org/10.1097/mol.0000000000000476 USPSTF. (2015). Screening for abnormal blood glucose and type 2 diabetes mellitus: U.s. preventive services task force recommendation statement. Ann Intern Med, 163(11), 861-868. https://doi.org/10.7326/M15-2345 USPSTF. (2018a). Risk assessment for cardiovascular disease with nontraditional risk factors: Us preventive services task force recommendation statement. Jama, 320(3), 272-280. https://doi.org/10.1001/jama.2018.8359 USPSTF. (2018b). Screening for Cardiovascular Disease Risk With Electrocardiography: US Preventive Services Task Force Recommendation Statement. Jama, 319(22), 2308-2314. https://doi.org/10.1001/jama.2018.6848 USPSTF. (2020). High Blood Pressure in Children and Adolescents: Screening. https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/blood-pressure-in-children-and-adolescents- hypertension-screening USPSTF. (2021). Hypertension in Adults: Screening. https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hypertension-in-adults-screening Varbo, A., Benn, M., & Nordestgaard, B. G. (2014). Remnant cholesterol as a cause of ischemic heart disease: evidence, definition, measurement, atherogenicity, high risk patients, and present and future treatment. Pharmacol Ther, 141(3), 358-367. https://doi.org/10.1016/j.pharmthera.2013.11.008 Varbo, A., Benn, M., Tybjaerg-Hansen, A., Jorgensen, A. B., Frikke-Schmidt, R., & Nordestgaard, B. G. (2013). Remnant cholesterol as a causal risk factor for ischemic heart disease. J Am Coll Cardiol, 61(4), 427-436. https://doi.org/10.1016/j.jacc.2012.08.1026 Visseren, F. L. J., Mach, F., Smulders, Y. M., Carballo, D., Koskinas, K. C., Bäck, M., Benetos, A., Biffi, A., Boavida, J.-M., Capodanno, D., Cosyns, B., Crawford, C., Davos, C. H., Desormais, I., Di Angelantonio, E., Franco, O. H., Halvorsen, S., Hobbs, F. D. R., Hollander, M., . . . Group, E. S. D. (2021). 2021 ESC Guidelines on cardiovascular disease prevention in clinical practice: Developed by the Task Force for cardiovascular disease prevention in clinical practice with representatives of the European Society of Cardiology and 12 medical societies With the special contribution of the European Association of Preventive Cardiology (EAPC). European Heart Journal, 42(34), 3227-3337. https://doi.org/10.1093/eurheartj/ehab484 Whelton, P. K., Carey, R. M., Aronow, W. S., Casey, D. E., Jr., Collins, K. J., Dennison Himmelfarb, C., DePalma, S. M., Gidding, S., Jamerson, K. A., Jones, D. W., MacLaughlin, E. J., Muntner, P., Ovbiagele, B., Smith, S. C., Jr., Spencer, C. C., Stafford, R. S., Taler, S. J., Thomas, R. J., Williams, K. A., Sr., . . . Wright, J. T., Jr. (2018). 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. Hypertension, 71(6), 1269-1324. https://doi.org/10.1161/hyp.0000000000000066 Willeit, P., Ridker, P. M., Nestel, P. J., Simes, J., Tonkin, A. M., Pedersen, T. R., Schwartz, G. G., Olsson, A. G., Colhoun, H. M., Kronenberg, F., Drechsler, C., Wanner, C., Mora, S., Lesogor, A., & Tsimikas, S. (2018). Baseline and on-statin treatment lipoprotein(a) levels for prediction of cardiovascular events: individual patient-data meta-analysis of statin outcome trials. Lancet, 392(10155), 1311-1320. https://doi.org/10.1016/s0140-6736(18)31652-0 Wilson, D. P., Jacobson, T. A., Jones, P. H., Koschinsky, M. L., McNeal, C. J., Nordestgaard, B. G., & Orringer, C. E. (2019). Use of Lipoprotein(a) in clinical practice: A biomarker whose time has come. A scientific statement from the National Lipid Association. J Clin Lipidol, 13(3), 374-392. https://doi.org/10.1016/j.jacl.2019.04.010 Wilson, P. (2024a, July 23). Atherosclerotic cardiovascular disease risk assessment for primary prevention in adults. https://www.uptodate.com/contents/atherosclerotic-cardiovascular-disease-risk-assessment-for-primary-prevention-in-adults- our-approach Wilson, P. (2024b, June 27). Overview of the possible risk factors for cardiovascular disease. https://www.uptodate.com/contents/overview-of-possible-risk-factors-for-cardiovascular-disease Wilson, P. W. F., Jacobson, T. A., Martin, S. S., Jackson, E. J., Le, N. A., Davidson, M. H., Vesper, H. W., Frikke-Schmidt, R., Ballantyne, C. M., & Remaley, A. T. (2021). Lipid measurements in the management of cardiovascular diseases: Practical recommendations a scientific statement from the national lipid association writing group. Journal of Clinical Lipidology, 15(5), 629-648. https://doi.org/10.1016/j.jacl.2021.09.046",
+      "codes": [
+        "31095",
+        "10155",
+        "31652"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Metab. https://doi.org/10.1210/jc.2019-01338",
+      "section": "References",
+      "subsection": "Metab. https://doi.org/10.1210/jc.2019-01338",
+      "hierarchy_path": "References > Metab. https://doi.org/10.1210/jc.2019-01338",
+      "page_number": 12,
+      "page_start": 12,
+      "page_end": 12,
+      "content": "Wong, N. D., Budoff, M. J., Ferdinand, K., Graham, I. M., Michos, E. D., Reddy, T., Shapiro, M. D., & Toth, P. P. (2022). Atherosclerotic cardiovascular disease risk assessment: An American Society for Preventive Cardiology clinical practice statement. Am J Prev",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Cardiol, 10, 100335. https://doi.org/10.1016/j.ajpc.2022.100335",
+      "section": "References",
+      "subsection": "Cardiol, 10, 100335. https://doi.org/10.1016/j.ajpc.2022.100335",
+      "hierarchy_path": "References > Cardiol, 10, 100335. https://doi.org/10.1016/j.ajpc.2022.100335",
+      "page_number": 12,
+      "page_start": 12,
+      "page_end": 12,
+      "content": "Yang, H., Guo, W., Li, J., Cao, S., Zhang, J., Pan, J., Wang, Z., Wen, P., Shi, X., & Zhang, S. (2017). Leptin concentration and risk of coronary heart disease and stroke: A systematic review and meta-analysis. PLoS One, 12(3), e0166360. https://doi.org/10.1371/journal.pone.0166360 Zane, L. T., Leyden, W. A., Marqueling, A. L., & Manos, M. M. (2006). A population-based analysis of laboratory abnormalities during isotretinoin therapy for acne vulgaris. Arch Dermatol, 142(8), 1016-1022. https://doi.org/10.1001/archderm.142.8.1016",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 82172** | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478):  | Code description: Apolipoprotein, each",
+      "codes": [
+        "80061",
+        "82172",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "82172**",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "",
+          "Code description": "Apolipoprotein, each"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 82465***** | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478): Cholesterol, serum or whole blood, total | Code description: ",
+      "codes": [
+        "80061",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "82465*****",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "Cholesterol, serum or whole blood, total",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 82610* | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478):  | Code description: Cystatin C",
+      "codes": [
+        "80061",
+        "82610",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "82610*",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "",
+          "Code description": "Cystatin C"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 83090**** | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478):  | Code description: Homocysteine",
+      "codes": [
+        "80061",
+        "83090",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "83090****",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "",
+          "Code description": "Homocysteine"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 83695** | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478):  | Code description: Lipoprotein (a)",
+      "codes": [
+        "80061",
+        "83695",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "83695**",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "",
+          "Code description": "Lipoprotein (a)"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 83698**** | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478): Lipoprotein-associated phospholipase A (Lp-PLA )\n2 2 | Code description: ",
+      "codes": [
+        "80061",
+        "83698",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "83698****",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "Lipoprotein-associated phospholipase A (Lp-PLA )\n2 2",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 83700** | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478):  | Code description: Lipoprotein, blood; electrophoretic separation and quantitation",
+      "codes": [
+        "80061",
+        "83700",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "83700**",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "",
+          "Code description": "Lipoprotein, blood; electrophoretic separation and quantitation"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 83701** | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478): Lipoprotein, blood; high resolution fractionation and quantitation of lipoproteins including lipoprotein\nsubclasses when performed (eg, electrophoresis, ultracentrifugation) | Code description: ",
+      "codes": [
+        "80061",
+        "83701",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "83701**",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "Lipoprotein, blood; high resolution fractionation and quantitation of lipoproteins including lipoprotein\nsubclasses when performed (eg, electrophoresis, ultracentrifugation)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 83704** | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478): Lipoprotein, blood; quantitation of lipoprotein particle number(s) (eg, by nuclear magnetic resonance\nspectroscopy), includes lipoprotein particle subclass(es), when performed | Code description: ",
+      "codes": [
+        "80061",
+        "83704",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "83704**",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "Lipoprotein, blood; quantitation of lipoprotein particle number(s) (eg, by nuclear magnetic resonance\nspectroscopy), includes lipoprotein particle subclass(es), when performed",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 83718***** | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478): Lipoprotein, direct measurement; high density cholesterol (HDL cholesterol) | Code description: ",
+      "codes": [
+        "80061",
+        "83718",
+        "82465",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "83718*****",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "Lipoprotein, direct measurement; high density cholesterol (HDL cholesterol)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 83719** | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478):  | Code description: Lipoprotein, direct measurement; VLDL cholesterol",
+      "codes": [
+        "80061",
+        "83719",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "83719**",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "",
+          "Code description": "Lipoprotein, direct measurement; VLDL cholesterol"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 83722 | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478):  | Code description: Lipoprotein, direct measurement; small dense LDL cholesterol",
+      "codes": [
+        "80061",
+        "83722",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "83722",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "",
+          "Code description": "Lipoprotein, direct measurement; small dense LDL cholesterol"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 83880*** | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478):  | Code description: Natriuretic peptide",
+      "codes": [
+        "80061",
+        "83880",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "83880***",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "",
+          "Code description": "Natriuretic peptide"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 84478***** | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478):  | Code description: Triglycerides",
+      "codes": [
+        "80061",
+        "84478",
+        "82465",
+        "83718"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "84478*****",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "",
+          "Code description": "Triglycerides"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 85384 | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478): Fibrinogen; activity | Code description: ",
+      "codes": [
+        "80061",
+        "85384",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "85384",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "Fibrinogen; activity",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 85415 | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478):  | Code description: Fibrinolytic factors and inhibitors; plasminogen activator",
+      "codes": [
+        "80061",
+        "85415",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "85415",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "",
+          "Code description": "Fibrinolytic factors and inhibitors; plasminogen activator"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 86140 | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478):  | Code description: C-reactive protein;",
+      "codes": [
+        "80061",
+        "86140",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "86140",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "",
+          "Code description": "C-reactive protein;"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 0019M** | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478):  | Code description: Cardiovascular disease, plasma, analysis of protein biomarkers by aptamer-based microarray and",
+      "codes": [
+        "80061",
+        "0019M",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "0019M**",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "",
+          "Code description": "Cardiovascular disease, plasma, analysis of protein biomarkers by aptamer-based microarray and"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****:  | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478):  | Code description: algorithm reported as 4-year likelihood of coronary event in high-risk populations",
+      "codes": [
+        "80061",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "",
+          "Code description": "algorithm reported as 4-year likelihood of coronary event in high-risk populations"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****:  | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478):  | Code description: Proprietary test: SOMAmer®",
+      "codes": [
+        "80061",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "",
+          "Code description": "Proprietary test: SOMAmer®"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****:  | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478):  | Code description: Lab/Manufacturer: SomaLogic",
+      "codes": [
+        "80061",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "",
+          "Code description": "Lab/Manufacturer: SomaLogic"
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 0052U | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478): Lipoprotein, blood, high resolution fractionation and quantitation of lipoproteins, including all five major\nlipoprotein classes and subclasses of HDL, LDL, and VLDL by vertical auto profile ultracentrifugation\nProprietary test: VAP Cholesterol Test\nLab/Manufacturer: VAP Diagnostics Laboratory, Inc | Code description: ",
+      "codes": [
+        "80061",
+        "0052U",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "0052U",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "Lipoprotein, blood, high resolution fractionation and quantitation of lipoproteins, including all five major\nlipoprotein classes and subclasses of HDL, LDL, and VLDL by vertical auto profile ultracentrifugation\nProprietary test: VAP Cholesterol Test\nLab/Manufacturer: VAP Diagnostics Laboratory, Inc",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 0308U** | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478): Cardiology (coronary artery disease [CAD]), analysis of 3 proteins (high sensitivity [hs] troponin,\nadiponectin, and kidney injury molecule-1 [KIM-1]), with 3 clinical parameters (age, sex, history of cardiac\nintervention), plasma, algorithm reported as a risk score for obstructive CAD\nProprietary test: HART CAD®\nLab/Manufacturer: Prevencio, Inc | Code description: ",
+      "codes": [
+        "80061",
+        "0308U",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "0308U**",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "Cardiology (coronary artery disease [CAD]), analysis of 3 proteins (high sensitivity [hs] troponin,\nadiponectin, and kidney injury molecule-1 [KIM-1]), with 3 clinical parameters (age, sex, history of cardiac\nintervention), plasma, algorithm reported as a risk score for obstructive CAD\nProprietary test: HART CAD®\nLab/Manufacturer: Prevencio, Inc",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 0309U** | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478): Cardiology (cardiovascular disease), analysis of 4 proteins (NT-proBNP, osteopontin, tissue inhibitor of\nmetalloproteinase-1 [TIMP-1], and kidney injury molecule-1 [KIM-1]), plasma, algorithm reported as a\nrisk score for major adverse cardiac event\nProprietary test: HART CVE®\nLab/Manufacturer: Prevencio, Inc | Code description: ",
+      "codes": [
+        "80061",
+        "0309U",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "0309U**",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "Cardiology (cardiovascular disease), analysis of 4 proteins (NT-proBNP, osteopontin, tissue inhibitor of\nmetalloproteinase-1 [TIMP-1], and kidney injury molecule-1 [KIM-1]), plasma, algorithm reported as a\nrisk score for major adverse cardiac event\nProprietary test: HART CVE®\nLab/Manufacturer: Prevencio, Inc",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 0377U | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478): Cardiovascular disease, quantification of advanced serum or plasma lipoprotein profile, by nuclear\nmagnetic resonance (NMR) spectrometry with report of a lipoprotein profile (including 23 variables)\nProprietary test: Liposcale®\nLab/Manufacturer: CIMA Science, LLC | Code description: ",
+      "codes": [
+        "80061",
+        "0377U",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "0377U",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "Cardiovascular disease, quantification of advanced serum or plasma lipoprotein profile, by nuclear\nmagnetic resonance (NMR) spectrometry with report of a lipoprotein profile (including 23 variables)\nProprietary test: Liposcale®\nLab/Manufacturer: CIMA Science, LLC",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 80061*****: 0541U** | Procedure code:  | Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478): Cardiovascular disease (HDL reverse cholesterol transport), cholesterol efflux capacity, LC-MS/MS,\nquantitative measurement of 5 distinct HDL-bound apolipoproteins (apolipoproteins A1, C1, C2, C3, and\nC4), serum, algorithm reported as prediction of coronary artery disease (pCAD) score\nProprietary test: HDL Reverse Cholesterol Transport Panel with pCAD Score\nLab/Manufacturer: Quest Diagnostics® | Code description: ",
+      "codes": [
+        "80061",
+        "0541U",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "80061*****",
+          "Procedure code",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",
+          "Code description"
+        ],
+        "row": {
+          "80061*****": "0541U**",
+          "Procedure code": "",
+          "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct\nmeasurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)": "Cardiovascular disease (HDL reverse cholesterol transport), cholesterol efflux capacity, LC-MS/MS,\nquantitative measurement of 5 distinct HDL-bound apolipoproteins (apolipoproteins A1, C1, C2, C3, and\nC4), serum, algorithm reported as prediction of coronary artery disease (pCAD) score\nProprietary test: HDL Reverse Cholesterol Transport Panel with pCAD Score\nLab/Manufacturer: Quest Diagnostics®",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: CGS Administrators, LLC | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: Cystatin C Measurement | Policy title:  | L33943: L37598 | Policy number:  | 83880: 82610 | Procedure code: ",
+      "codes": [
+        "83880",
+        "82610"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "CGS Administrators, LLC",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "Cystatin C Measurement",
+          "Policy title": "",
+          "L33943": "L37598",
+          "Policy number": "",
+          "83880": "82610",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: CGS Administrators, LLC | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: MolDX: Biomarkers in\nCardiovascular Risk\nAssessment | Policy title:  | L33943: L36139 | Policy number:  | 83880: 82172\n82610\n83090\n83695\n83698\n83700\n83701\n83704\n83719 | Procedure code: ",
+      "codes": [
+        "83880",
+        "82172",
+        "82610",
+        "83090",
+        "83695",
+        "83698",
+        "83700",
+        "83701",
+        "83704",
+        "83719"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "CGS Administrators, LLC",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "MolDX: Biomarkers in\nCardiovascular Risk\nAssessment",
+          "Policy title": "",
+          "L33943": "L36139",
+          "Policy number": "",
+          "83880": "82172\n82610\n83090\n83695\n83698\n83700\n83701\n83704\n83719",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: CGS Administrators, LLC | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | L33943: L36021 | Policy number:  | 83880: 0019M\n0308U\n0309U\n0415U\n0541U | Procedure code: ",
+      "codes": [
+        "83880",
+        "0019M",
+        "0308U",
+        "0309U",
+        "0415U",
+        "0541U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "CGS Administrators, LLC",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "L33943": "L36021",
+          "Policy number": "",
+          "83880": "0019M\n0308U\n0309U\n0415U\n0541U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: First Coast Service Options,\nInc | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: B-Type Natriuretic Peptide\n(BNP) | Policy title:  | L33943: L33267 | Policy number:  | 83880: 83880 | Procedure code: ",
+      "codes": [
+        "83880"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "First Coast Service Options,\nInc",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "B-Type Natriuretic Peptide\n(BNP)",
+          "Policy title": "",
+          "L33943": "L33267",
+          "Policy number": "",
+          "83880": "83880",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: First Coast Service Options,\nInc. | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: Cystatin C Measurement | Policy title:  | L33943: L37561 | Policy number:  | 83880: 82610 | Procedure code: ",
+      "codes": [
+        "83880",
+        "82610"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "First Coast Service Options,\nInc.",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "Cystatin C Measurement",
+          "Policy title": "",
+          "L33943": "L37561",
+          "Policy number": "",
+          "83880": "82610",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: National Government\nServices, Inc | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: B-type Natriuretic Peptide\n(BNP) Testing | Policy title:  | L33943: L33573 | Policy number:  | 83880: 83880 | Procedure code: ",
+      "codes": [
+        "83880"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "National Government\nServices, Inc",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title": "",
+          "L33943": "L33573",
+          "Policy number": "",
+          "83880": "83880",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, LLC | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: Lab: Cystatin C Measurement | Policy title:  | L33943: L37616 | Policy number:  | 83880: 82610 | Procedure code: ",
+      "codes": [
+        "83880",
+        "82610"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "Lab: Cystatin C Measurement",
+          "Policy title": "",
+          "L33943": "L37616",
+          "Policy number": "",
+          "83880": "82610",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, LLC | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: B-type Natriuretic Peptide\n(BNP) Testing | Policy title:  | L33943: L35526 | Policy number:  | 83880: 83880 | Procedure code: ",
+      "codes": [
+        "83880"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title": "",
+          "L33943": "L35526",
+          "Policy number": "",
+          "83880": "83880",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, LLC | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: B-type Natriuretic Peptide\n(BNP) Testing | Policy title:  | L33943: L34038 | Policy number:  | 83880: 83880 | Procedure code: ",
+      "codes": [
+        "83880"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title": "",
+          "L33943": "L34038",
+          "Policy number": "",
+          "83880": "83880",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, LLC | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: MolDX: Biomarkers in\nCardiovascular Risk\nAssessment | Policy title:  | L33943: L36362 | Policy number:  | 83880: 82172\n82610\n83090\n83695\n83698\n83700\n83701\n83704\n83719 | Procedure code: ",
+      "codes": [
+        "83880",
+        "82172",
+        "82610",
+        "83090",
+        "83695",
+        "83698",
+        "83700",
+        "83701",
+        "83704",
+        "83719"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "MolDX: Biomarkers in\nCardiovascular Risk\nAssessment",
+          "Policy title": "",
+          "L33943": "L36362",
+          "Policy number": "",
+          "83880": "82172\n82610\n83090\n83695\n83698\n83700\n83701\n83704\n83719",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, LLC | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | L33943: L35160 | Policy number:  | 83880: 0019M\n0308U\n0309U\n0415U\n0541U | Procedure code: ",
+      "codes": [
+        "83880",
+        "0019M",
+        "0308U",
+        "0309U",
+        "0415U",
+        "0541U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "L33943": "L35160",
+          "Policy number": "",
+          "83880": "0019M\n0308U\n0309U\n0415U\n0541U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, LLC | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | L33943: L36256 | Policy number:  | 83880: 0019M\n0308U\n0309U\n0415U\n0541U | Procedure code: ",
+      "codes": [
+        "83880",
+        "0019M",
+        "0308U",
+        "0309U",
+        "0415U",
+        "0541U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "L33943": "L36256",
+          "Policy number": "",
+          "83880": "0019M\n0308U\n0309U\n0415U\n0541U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Novitas Solutions, Inc. | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: Assays for Vitamins and\nMetabolic Function | Policy title:  | L33943: L34914 | Policy number:  | 83880: 83090\n83698 | Procedure code: ",
+      "codes": [
+        "83880",
+        "83090",
+        "83698"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Novitas Solutions, Inc.",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "Assays for Vitamins and\nMetabolic Function",
+          "Policy title": "",
+          "L33943": "L34914",
+          "Policy number": "",
+          "83880": "83090\n83698",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Novitas Solutions, Inc | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: Frequency of Laboratory Test | Policy title:  | L33943: L35099 | Policy number:  | 83880: 80061\n82465\n83718\n84478 | Procedure code: ",
+      "codes": [
+        "83880",
+        "80061",
+        "82465",
+        "83718",
+        "84478"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Novitas Solutions, Inc",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "Frequency of Laboratory Test",
+          "Policy title": "",
+          "L33943": "L35099",
+          "Policy number": "",
+          "83880": "80061\n82465\n83718\n84478",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Palmetto GBA | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: Brain Natriuretic Peptide\n(BNP) Level | Policy title:  | L33943: L33422 | Policy number:  | 83880: 83880 | Procedure code: ",
+      "codes": [
+        "83880"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Palmetto GBA",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "Brain Natriuretic Peptide\n(BNP) Level",
+          "Policy title": "",
+          "L33943": "L33422",
+          "Policy number": "",
+          "83880": "83880",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Palmetto GBA | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: B-type Natriuretic Peptide\n(BNP) Testing | Policy title:  | L33943: L34410 | Policy number:  | 83880: 83880 | Procedure code: ",
+      "codes": [
+        "83880"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Palmetto GBA",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title": "",
+          "L33943": "L34410",
+          "Policy number": "",
+          "83880": "83880",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Palmetto GBA | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: Homocysteine Level, Serum | Policy title:  | L33943: L34419 | Policy number:  | 83880: 83090 | Procedure code: ",
+      "codes": [
+        "83880",
+        "83090"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Palmetto GBA",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "Homocysteine Level, Serum",
+          "Policy title": "",
+          "L33943": "L34419",
+          "Policy number": "",
+          "83880": "83090",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Palmetto GBA | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: Lab: Cystatin C Measurement | Policy title:  | L33943: L37581 | Policy number:  | 83880: 82610 | Procedure code: ",
+      "codes": [
+        "83880",
+        "82610"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Palmetto GBA",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "Lab: Cystatin C Measurement",
+          "Policy title": "",
+          "L33943": "L37581",
+          "Policy number": "",
+          "83880": "82610",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Palmetto GBA | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: MolDX: Biomarkers in\nCardiovascular Risk\nAssessment | Policy title:  | L33943: L36129 | Policy number:  | 83880: 82172\n82610\n83090\n83695\n83698\n83700\n83701\n83704\n83719 | Procedure code: ",
+      "codes": [
+        "83880",
+        "82172",
+        "82610",
+        "83090",
+        "83695",
+        "83698",
+        "83700",
+        "83701",
+        "83704",
+        "83719"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Palmetto GBA",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "MolDX: Biomarkers in\nCardiovascular Risk\nAssessment",
+          "Policy title": "",
+          "L33943": "L36129",
+          "Policy number": "",
+          "83880": "82172\n82610\n83090\n83695\n83698\n83700\n83701\n83704\n83719",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Wisconsin Physicians Service\nInsurance Corporation | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: MolDX: Biomarkers in\nCardiovascular Risk\nAssessment | Policy title:  | L33943: L36523 | Policy number:  | 83880: 82172\n82610\n83090\n83695\n83698\n83700\n83701\n83704\n83719\n83880 | Procedure code: ",
+      "codes": [
+        "83880",
+        "82172",
+        "82610",
+        "83090",
+        "83695",
+        "83698",
+        "83700",
+        "83701",
+        "83704",
+        "83719"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Wisconsin Physicians Service\nInsurance Corporation",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "MolDX: Biomarkers in\nCardiovascular Risk\nAssessment",
+          "Policy title": "",
+          "L33943": "L36523",
+          "Policy number": "",
+          "83880": "82172\n82610\n83090\n83695\n83698\n83700\n83701\n83704\n83719\n83880",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 5,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Wisconsin Physician Service\nInsurance Corporation | Contractor name:  | B-type Natriuretic Peptide\n(BNP) Testing: MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | L33943: L36807 | Policy number:  | 83880: 0019M\n0308U\n0309U\n0415U\n0541U | Procedure code: ",
+      "codes": [
+        "83880",
+        "0019M",
+        "0308U",
+        "0309U",
+        "0415U",
+        "0541U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "B-type Natriuretic Peptide\n(BNP) Testing",
+          "Policy title",
+          "L33943",
+          "Policy number",
+          "83880",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Wisconsin Physician Service\nInsurance Corporation",
+          "Contractor name": "",
+          "B-type Natriuretic Peptide\n(BNP) Testing": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "L33943": "L36807",
+          "Policy number": "",
+          "83880": "0019M\n0308U\n0309U\n0415U\n0541U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nMeasurement of apolipoprotein B (Apo B) (CPT code 82172**) IS REIMBURSABLE for individuals with any of the following:\n\nDisorder of galactose, lipoprotein, or amino acid transport metabolism\n\nOnce per lifetime measurement of lipoprotein (a) [Lp(a)] (CPT code 83695**) IS REIMBURSABLE for individuals 18 years of age or older.\n\nMeasurement of homocysteine (CPT code 83090****) or conventional measurement of C-reactive protein (CPT code 86140) as a part of a risk assessment for cardiovascular disease (CVD) IS NOT REIMBURSABLE.\n\nMeasurement of novel lipid and non-lipid biomarkers (CPT code 82610*, CPT code 83700**, CPT code 83701**, CPT code 83704**, CPT code 83719**, CPT code 83880***, CPT code 85384, CPT code 85415) as a part of a risk assessment for CVD IS NOT REIMBURSABLE.\n\nDirect measurement of small dense low-density lipoprotein (LDL) (CPT code 83722) IS NOT REIMBURSABLE except in diagnoses of Cushings syndrome, chronic kidney disease (CKD), obstruction of the bile duct or pregnancy.\n\nCVD risk panels consisting of multiple individual biomarkers intended to assess CVD (CPT code 0052U, CPT code 0308U**, CPT code 0309U**, CPT code 0415U**, CPT code 0541U**) ARE NOT REIMBURSABLE.\n\nMeasurement of lipoprotein-associated phospholipase A2 (Lp-PLA2) (CPT code 83698****) IS NOT REIMBURSABLE.\n\nAll other biomarker panels designed to detect CVD risk (CPT code 0019M**, CPT code 0377U) ARE NOT REIMBURSABLE.\n\nMeasurement of components of a lipid panel (CPT code 82465*****, CPT code 83718*****, and CPT code 84478*****) ARE NOT REIMBURSABLE on the same date of service as a lipid panel (CPT code 80061*****).\n\n80061***** Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct measurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478) 82172**\n\n82465*****\n\n82610*\n\n83090****\n\n83695**\n\n83698****\n\n83700**\n\n83701** Lipoprotein, blood; high resolution fractionation and quantitation of lipoproteins including lipoprotein subclasses when performed (eg, electrophoresis, ultracentrifugation) 83704** Lipoprotein, blood; quantitation of lipoprotein particle number(s) (eg, by nuclear magnetic resonance spectroscopy), includes lipoprotein particle subclass(es), when performed 83718***** Lipoprotein, direct measurement; high density cholesterol (HDL cholesterol) 83719**\n\n83722\n\n83880***\n\n84478*****\n\n85384\n\n85415\n\n86140 C-reactive protein; 0019M** Cardiovascular disease, plasma, analysis of protein biomarkers by aptamer-based microarray and algorithm reported as 4-year likelihood of coronary event in high-risk populations\n\n0052U Lipoprotein, blood, high resolution fractionation and quantitation of lipoproteins, including all five major lipoprotein classes and subclasses of HDL, LDL, and VLDL by vertical auto profile ultracentrifugation\n\n0308U** Cardiology (coronary artery disease [CAD]), analysis of 3 proteins (high sensitivity [hs] troponin, adiponectin, and kidney injury molecule-1 [KIM-1]), with 3 clinical parameters (age, sex, history of cardiac intervention), plasma, algorithm reported as a risk score for obstructive CAD\n\n0309U** Cardiology (cardiovascular disease), analysis of 4 proteins (NT-proBNP, osteopontin, tissue inhibitor of metalloproteinase-1 [TIMP-1], and kidney injury molecule-1 [KIM-1]), plasma, algorithm reported as a risk score for major adverse cardiac event\n\n0377U Cardiovascular disease, quantification of advanced serum or plasma lipoprotein profile, by nuclear magnetic resonance (NMR) spectrometry with report of a lipoprotein profile (including 23 variables)\n\n0415U** Cardiovascular disease (acute coronary syndrome [ACS]), IL-16, FAS, FASLigand, HGF, CTACK, EOTAXIN, and MCP-3 by immunoassay combined with age, sex, family history, and personal history of diabetes, blood, algorithm reported as a 5-year (deleted risk) score for ACS Proprietary test: SmartHealth Vascular DxTM,\n\n0541U** Cardiovascular disease (HDL reverse cholesterol transport), cholesterol efflux capacity, LC-MS/MS, quantitative measurement of 5 distinct HDL-bound apolipoproteins (apolipoproteins A1, C1, C2, C3, and C4), serum, algorithm reported as prediction of coronary artery disease (pCAD) score Proprietary test: HDL Reverse Cholesterol Transport Panel with pCAD Score\n\n*The payment criteria for 82610 applies to all Medicare jurisdictions, except those states awarded to CGS Administrators, LLC; First Coast Service Options, Inc;\n\nNoridian Healthcare Solutions, LLC; Palmetto GBA; WPS Insurance Corporation.\n\n**The payment criteria for 82172, 83695, 83700, 83701, 83704, 83719, 0019M, 0308U, 0309U, 0415U and 0541U applies to all Medicare jurisdictions, except those\n\nstates awarded to CGS Administrators, LLC; Noridian Healthcare Solutions, LLC; Palmetto GBA; WPS Insurance Corporation.\n\n***The payment criteria for 83880 applies to all Medicare jurisdictions, except those awarded to First Coast Service Options, Inc; CGS Administrators, LLC; National\n\nGovernment Services, Inc; Noridian Healthcare Solutions, LLC; Palmetto GBA; WPS Insurance Corporation.\n\n****The payment criteria for 83698 and 83090 applies to all Medicare jurisdictions, except those states awarded Novitas Solutions, Inc; CGS Administrators, LLC;\n\nNoridian Healthcare Solutions, LLC; Palmetto GBA; WPS Insurance Corporation.\n\n*****The payment criteria for 82465, 83718, 84478 and 80061 applies to all Medicare jurisdictions, except those states awarded Novitas Solutions, Inc.\n\n(BNP) Testing L33943 83880\n\nL37598 82610\n\nL36139 82172 82610 83090 83695 83698 83700 83701 83704 83719\n\nL36021 0019M 0308U 0309U 0415U 0541U First Coast Service Options,\n\n(BNP) L33267 83880 First Coast Service Options, Inc.\n\nL37561 82610\n\n(BNP) Testing L33573 83880\n\nL37616 82610\n\n(BNP) Testing L35526 83880\n\n(BNP) Testing L34038 83880\n\nL36358 82172 82610 83090 83695 83698 83700 83701 83704 83719\n\nL36362 82172 82610 83090 83695 83698 83700 83701 83704 83719\n\nL35160 0019M 0308U 0309U 0415U 0541U\n\nL36256 0019M 0308U 0309U 0415U 0541U Novitas Solutions, Inc.\n\nL34914 83090 83698\n\nL35099 80061 82465 83718 84478\n\n(BNP) Level L33422 83880\n\n(BNP) Testing L34410 83880\n\nL34419 83090\n\nL37581 82610\n\nL36129 82172 82610 83090 83695 83698 83700 83701 83704 83719\n\nL35025 0019M 0308U 0309U 0415U 0541U\n\nL36523 82172 82610 83090 83695 83698 83700 83701 83704 83719 83880\n\nL36807 0019M 0308U 0309U 0415U 0541U"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

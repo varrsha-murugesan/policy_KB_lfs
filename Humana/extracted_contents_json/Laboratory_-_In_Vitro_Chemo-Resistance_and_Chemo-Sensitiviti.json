@@ -1,0 +1,924 @@
+{
+  "policy_title": "Laboratory - In Vitro Chemo-Resistance and Chemo-",
+  "policy_number": "LAB2023012",
+  "effective_date": "04/2023",
+  "published_date": "04/2023",
+  "revision_date": "04/2026",
+  "source_pdf": "Laboratory_-_In_Vitro_Chemo-Resistance_and_Chemo-Sensitivities_Assay-babbf324.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 3,
+  "table_count": 2,
+  "block_count": 37,
+  "CPT_CODES_USED": [
+    "81535",
+    "81536",
+    "0083U",
+    "0248U",
+    "0249U",
+    "0285U",
+    "0435U",
+    "59745",
+    "16017"
+  ],
+  "MODIFIERS_USED": [
+    "57",
+    "78",
+    "24",
+    "22",
+    "54"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "81535",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "81536",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0083U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0248U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0249U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0285U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0435U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "59745",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "16017",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "In vitro chemotherapy sensitivity and resistance assays (CPT code 81535**, CPT code 81536**, CPT code 0083U^, CPT code 0248U^^, CPT code 0249U*, CPT code 0285U*, CPT code 0435U^^) ARE NOT REIMBURSABLE.",
+      "codes": [
+        "81535",
+        "81536",
+        "0083U",
+        "0248U",
+        "0249U",
+        "0285U",
+        "0435U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "81535** Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and morphology, predictive algorithm reported as a drug response score; first single drug or drug combination Proprietary test: ChemoFX® Lab/manufacturer: Helomics, Corp 81536** Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and morphology, predictive algorithm reported as a drug response score; each additional single drug or drug combination (List separately in addition to code for primary procedure) Proprietary test: ChemoFX®",
+      "codes": [
+        "81535",
+        "81536"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/manufacturer: Helomics, Corp",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/manufacturer: Helomics, Corp",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/manufacturer: Helomics, Corp",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "0083U^ Oncology, response to chemotherapy drugs using motility contrast tomography, fresh or frozen tissue, reported as likelihood of sensitivity or resistance to drugs or drug combinations",
+      "codes": [
+        "0083U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Animated Dynamics, Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Animated Dynamics, Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Animated Dynamics, Inc",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "0248U^^ Oncology, spheroid cell culture in a 3D microenvironment, 12 drug panel, brain- or brain metastasis- response prediction for each drug",
+      "codes": [
+        "0248U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: KIYATEC®, Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: KIYATEC®, Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: KIYATEC®, Inc",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "0249U* Oncology (breast), semiquantitative analysis of 32 phosphoproteins and protein analytes, includes laser capture microdissection, with algorithmic analysis and interpretative report",
+      "codes": [
+        "0249U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Theralink® Technologies, Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Theralink® Technologies, Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Theralink® Technologies, Inc",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "0285U* Oncology, disease progression and response monitoring to radiation, chemotherapy, or other systematic cancer treatments, cell-free DNA, quantitative branched chain DNA amplification, plasma, reported in ng/mL Proprietary test: RadToxTM cfDNA test",
+      "codes": [
+        "0285U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0435U^^ Oncology, chemotherapeutic drug cytotoxicity assay of cancer stem cells (CSCs), from cultured CSCs and primary tumor cells, categorical drug response reported based on cytotoxicity percentage observed, minimum of 14 drugs or drug combinations",
+      "codes": [
+        "0435U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Cordgenics, LLC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Cordgenics, LLC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Cordgenics, LLC",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "*The payment criterion for 0249U and 0285U applies to all Medicare jurisdictions except for states awarded to CGS Administrators, LLC., Noridian Healthcare",
+      "codes": [
+        "0249U",
+        "0285U"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab/Manufacturer: Cordgenics, LLC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Cordgenics, LLC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Cordgenics, LLC",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Solutions, LLC., Palmetto GBA and Wisconsin Physician Service Insurance Corporation.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Cordgenics, LLC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Cordgenics, LLC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Cordgenics, LLC",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "**The payment criterion for 81535 and 81536 applies to all Medicare jurisdictions except for states awarded to National Government Services, Inc.",
+      "codes": [
+        "81535",
+        "81536"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab/Manufacturer: Cordgenics, LLC",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Cordgenics, LLC",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Cordgenics, LLC",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "^The payment criterion for 0083U applies to all Medicare jurisdictions except for states awarded to Noridian Healthcare Solutions, LLC. and Palmetto GBA. ^^The payment criterion for 0248U and 0435U applies to all Medicare jurisdictions, except for states awarded to Palmetto GBA.",
+      "codes": [
+        "0083U",
+        "0248U",
+        "0435U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L36021 0249U 0285U",
+      "codes": [
+        "0249U",
+        "0285U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "National Government",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "National Government",
+      "hierarchy_path": "Medicare Advantage Payment Policy > National Government",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Services, Inc.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Procedures",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Procedures",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Procedures",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L35000 81535 81536",
+      "codes": [
+        "81535",
+        "81536"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L35160 0249U 0285U",
+      "codes": [
+        "0249U",
+        "0285U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L36256 0249U 0285U",
+      "codes": [
+        "0249U",
+        "0285U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Chemoresistance Assays",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Chemoresistance Assays",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Chemoresistance Assays",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L37628 0083U",
+      "codes": [
+        "0083U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Chemoresistance Assays",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Chemoresistance Assays",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Chemoresistance Assays",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L34554 0083U 0248U 0435U",
+      "codes": [
+        "0083U",
+        "0248U",
+        "0435U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L35025 0249U 0285U",
+      "codes": [
+        "0249U",
+        "0285U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "L36807 0249U 0285U",
+      "codes": [
+        "0249U",
+        "0285U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Brower, S. L., Fensterer, J. E., & Bush, J. E. (2008). The ChemoFx® Assay: An Ex Vivo Chemosensitivity and Resistance Assay for Predicting Patient Response to Cancer Chemotherapy. In G. Mor & A. B. Alvero (Eds.), Apoptosis and Cancer: Methods and Protocols (pp. 57-78). Humana Press. https://doi.org/10.1007/978-1-59745-339-4_6 Burstein, H. J., Mangu, P. B., Somerfield, M. R., Schrag, D., Samson, D., Holt, L., Zelman, D., & Ajani, J. A. (2011). American Society of Clinical Oncology clinical practice guideline update on the use of chemotherapy sensitivity and resistance assays. J Clin Oncol, 29(24), 3328-3330. https://doi.org/10.1200/jco.2011.36.0354 Chen, Z., Zhang, S., Ma, S., Li, C., Xu, C., Shen, Y., Zhao, J., & Miao, L. (2018). Evaluation of the in vitro Chemosensitivity and Correlation with Clinical Outcomes in Lung Cancer using the ATP-TCA. Anticancer Agents Med Chem, 18(1), 139-145. https://doi.org/10.2174/1871520617666170419123713 Grendys, E. C., Jr., Fiorica, J. V., Orr, J. W., Jr., Holloway, R., Wang, D., Tian, C., Chan, J. K., & Herzog, T. J. (2014). Overview of a chemoresponse assay in ovarian cancer. Clin Transl Oncol, 16(9), 761-769. https://doi.org/10.1007/s12094-014-1192-8 Hatok, J., Babusikova, E., Matakova, T., Mistuna, D., Dobrota, D., & Racay, P. (2009). In vitro assays for the evaluation of drug resistance in tumor cells. Clin Exp Med, 9(1), 1-7. https://doi.org/10.1007/s10238-008-0011-3 Hoffman, R. M. (2018). Clinical Correlation of the Histoculture Drug Response Assay in Gastrointestinal Cancer. Methods Mol Biol, 1760, 61-72. https://doi.org/10.1007/978-1-4939-7745-1_7 Howard, C. M., Valluri, J., Alberico, A., Julien, T., Mazagri, R., Marsh, R., Alastair, H., Cortese, A., Griswold, M., Wang, W., Denning, K., Brown, L., & Claudio, P. P. (2017). Analysis of Chemopredictive Assay for Targeting Cancer Stem Cells in Glioblastoma Patients. Transl Oncol, 10(2), 241-254. https://doi.org/10.1016/j.tranon.2017.01.008",
+      "codes": [
+        "59745"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Karam, A. K., Chiang, J. W., Fung, E., Nossov, V., & Karlan, B. Y. (2009). Extreme drug resistance assay results do not influence survival in women with epithelial ovarian cancer. Gynecologic Oncology, 114(2), 246-252. https://doi.org/10.1016/j.ygyno.2009.02.022 Kiyatec. (2023). 3D Predict Platform. https://kiyatec.com/healthcare-professionals/3d-predict-platform/ Krivak, T. C., Lele, S., Richard, S., Secord, A. A., Leath, C. A., 3rd, Brower, S. L., Tian, C., & Moore, R. G. (2014). A chemoresponse assay for prediction of platinum resistance in primary ovarian cancer. Am J Obstet Gynecol, 211(1), 68.e61-68. https://doi.org/10.1016/j.ajog.2014.02.009 Kwon, H. Y., Kim, I. K., Kang, J., Sohn, S. K., & Lee, K. Y. (2016). In Vitro Adenosine Triphosphate-Based Chemotherapy Response Assay as a Predictor of Clinical Response to Fluorouracil-Based Adjuvant Chemotherapy in Stage II Colorectal Cancer. Cancer Res",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Treat, 48(3), 970-977. https://doi.org/10.4143/crt.2015.140",
+      "section": "References",
+      "subsection": "Treat, 48(3), 970-977. https://doi.org/10.4143/crt.2015.140",
+      "hierarchy_path": "References > Treat, 48(3), 970-977. https://doi.org/10.4143/crt.2015.140",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "NCCN. (2024a). NCCN Clinical Practice Guidelines in Oncology. https://www.nccn.org/professionals/physician_gls/default.aspx NCCN. (2024b). NCCN Clinical Practice Guidelines in Oncology; Ovarian Cancer v 3.2024 https://www.nccn.org/professionals/physician_gls/pdf/ovarian.pdf Pierian. (2023). Products: ChemoINTELTM. https://pierianbio.com/project/chemo-intel/ RGCC. (2023). Onconomics RGCC. https://www.rgcc-group.com/tests/onconomics-plus-rgcc/ Rutherford, T., Orr, J., Jr., Grendys, E., Jr., Edwards, R., Krivak, T. C., Holloway, R., Moore, R. G., Puls, L., Tillmanns, T., Schink, J. C., Brower, S. L., Tian, C., & Herzog, T. J. (2013). A prospective study evaluating the clinical relevance of a chemoresponse assay for treatment of patients with persistent or recurrent ovarian cancer. Gynecol Oncol, 131(2), 362-367. https://doi.org/10.1016/j.ygyno.2013.08.009 Schrag, D., Garewal, H. S., Burstein, H. J., Samson, D. J., Von Hoff, D. D., & Somerfield, M. R. (2004). American Society of Clinical Oncology Technology Assessment: chemotherapy sensitivity and resistance assays. J Clin Oncol, 22(17), 3631-3638. https://doi.org/10.1200/jco.2004.05.065 Shuford, S., Lipinski, L., Abad, A., Smith, A. M., Rayner, M., O'Donnell, L., Stuart, J., Mechtler, L. L., Fabiano, A. J., Edenfield, J., Kanos, C., Gardner, S., Hodge, P., Lynn, M., Butowski, N. A., Han, S. J., Redjal, N., Crosswell, H. E., Vibat, C. R. T., . . . DesRochers, T. M. (2021). Prospective prediction of clinical drug response in high-grade gliomas using an ex vivo 3D cell culture assay. Neurooncol",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Adv, 3(1), vdab065. https://doi.org/10.1093/noajnl/vdab065",
+      "section": "References",
+      "subsection": "Adv, 3(1), vdab065. https://doi.org/10.1093/noajnl/vdab065",
+      "hierarchy_path": "References > Adv, 3(1), vdab065. https://doi.org/10.1093/noajnl/vdab065",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Strickland, S. A., Raptis, A., Hallquist, A., Rutledge, J., Chernick, M., Perree, M., Talbott, M. S., & Presant, C. A. (2013). Correlation of the microculture-kinetic drug-induced apoptosis assay with patient outcomes in initial treatment of adult acute myelocytic leukemia. Leuk Lymphoma, 54(3), 528-534. https://doi.org/10.3109/10428194.2012.722217 Tatar, B., Boyraz, G., Selçuk, İ., Doğan, A. K., Usubütün, A., & Tuncer, Z. S. (2016). In vitro chemosensitivity in ovarian carcinoma: Comparison of three leading assays. In J Turk Ger Gynecol Assoc (Vol. 17, pp. 35-40). https://doi.org/10.5152/jtgga.2016.16017 Theralink. (2023). Theralink: Precision Medicine for Life. https://theralink.com/theralink",
+      "codes": [
+        "16017"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 81535**: 81536** | Procedure code:  | Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; first single drug or drug\ncombination Proprietary test: ChemoFX® Lab/manufacturer: Helomics, Corp: Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; each additional single drug or drug\ncombination (List separately in addition to code for primary procedure) Proprietary test: ChemoFX®\nLab/manufacturer: Helomics, Corp | Code description: ",
+      "codes": [
+        "81535",
+        "81536"
+      ],
+      "table_data": {
+        "columns": [
+          "81535**",
+          "Procedure code",
+          "Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; first single drug or drug\ncombination Proprietary test: ChemoFX® Lab/manufacturer: Helomics, Corp",
+          "Code description"
+        ],
+        "row": {
+          "81535**": "81536**",
+          "Procedure code": "",
+          "Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; first single drug or drug\ncombination Proprietary test: ChemoFX® Lab/manufacturer: Helomics, Corp": "Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; each additional single drug or drug\ncombination (List separately in addition to code for primary procedure) Proprietary test: ChemoFX®\nLab/manufacturer: Helomics, Corp",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 81535**: 0083U^ | Procedure code:  | Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; first single drug or drug\ncombination Proprietary test: ChemoFX® Lab/manufacturer: Helomics, Corp: Oncology, response to chemotherapy drugs using motility contrast tomography, fresh or frozen tissue,\nreported as likelihood of sensitivity or resistance to drugs or drug combinations\nProprietary test: Onco4DTM\nLab/Manufacturer: Animated Dynamics, Inc | Code description: ",
+      "codes": [
+        "81535",
+        "0083U"
+      ],
+      "table_data": {
+        "columns": [
+          "81535**",
+          "Procedure code",
+          "Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; first single drug or drug\ncombination Proprietary test: ChemoFX® Lab/manufacturer: Helomics, Corp",
+          "Code description"
+        ],
+        "row": {
+          "81535**": "0083U^",
+          "Procedure code": "",
+          "Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; first single drug or drug\ncombination Proprietary test: ChemoFX® Lab/manufacturer: Helomics, Corp": "Oncology, response to chemotherapy drugs using motility contrast tomography, fresh or frozen tissue,\nreported as likelihood of sensitivity or resistance to drugs or drug combinations\nProprietary test: Onco4DTM\nLab/Manufacturer: Animated Dynamics, Inc",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 81535**: 0248U^^ | Procedure code:  | Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; first single drug or drug\ncombination Proprietary test: ChemoFX® Lab/manufacturer: Helomics, Corp: Oncology, spheroid cell culture in a 3D microenvironment, 12 drug panel, brain- or brain metastasis-\nresponse prediction for each drug\nProprietary test: 3D Predict Glioma\nLab/Manufacturer: KIYATEC®, Inc | Code description: ",
+      "codes": [
+        "81535",
+        "0248U"
+      ],
+      "table_data": {
+        "columns": [
+          "81535**",
+          "Procedure code",
+          "Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; first single drug or drug\ncombination Proprietary test: ChemoFX® Lab/manufacturer: Helomics, Corp",
+          "Code description"
+        ],
+        "row": {
+          "81535**": "0248U^^",
+          "Procedure code": "",
+          "Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; first single drug or drug\ncombination Proprietary test: ChemoFX® Lab/manufacturer: Helomics, Corp": "Oncology, spheroid cell culture in a 3D microenvironment, 12 drug panel, brain- or brain metastasis-\nresponse prediction for each drug\nProprietary test: 3D Predict Glioma\nLab/Manufacturer: KIYATEC®, Inc",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 81535**: 0249U* | Procedure code:  | Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; first single drug or drug\ncombination Proprietary test: ChemoFX® Lab/manufacturer: Helomics, Corp: Oncology (breast), semiquantitative analysis of 32 phosphoproteins and protein analytes, includes laser\ncapture microdissection, with algorithmic analysis and interpretative report\nProprietary test: Theralink® Reverse Phase Protein Array (RPPA)\nLab/Manufacturer: Theralink® Technologies, Inc | Code description: ",
+      "codes": [
+        "81535",
+        "0249U"
+      ],
+      "table_data": {
+        "columns": [
+          "81535**",
+          "Procedure code",
+          "Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; first single drug or drug\ncombination Proprietary test: ChemoFX® Lab/manufacturer: Helomics, Corp",
+          "Code description"
+        ],
+        "row": {
+          "81535**": "0249U*",
+          "Procedure code": "",
+          "Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; first single drug or drug\ncombination Proprietary test: ChemoFX® Lab/manufacturer: Helomics, Corp": "Oncology (breast), semiquantitative analysis of 32 phosphoproteins and protein analytes, includes laser\ncapture microdissection, with algorithmic analysis and interpretative report\nProprietary test: Theralink® Reverse Phase Protein Array (RPPA)\nLab/Manufacturer: Theralink® Technologies, Inc",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 81535**: 0285U* | Procedure code:  | Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; first single drug or drug\ncombination Proprietary test: ChemoFX® Lab/manufacturer: Helomics, Corp: Oncology, disease progression and response monitoring to radiation, chemotherapy, or other systematic\ncancer treatments, cell-free DNA, quantitative branched chain DNA amplification, plasma, reported in\nng/mL Proprietary test: RadToxTM cfDNA test\nLab/Manufacturer: DiaCarta Clinical Lab/DiaCarta Inc | Code description: ",
+      "codes": [
+        "81535",
+        "0285U"
+      ],
+      "table_data": {
+        "columns": [
+          "81535**",
+          "Procedure code",
+          "Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; first single drug or drug\ncombination Proprietary test: ChemoFX® Lab/manufacturer: Helomics, Corp",
+          "Code description"
+        ],
+        "row": {
+          "81535**": "0285U*",
+          "Procedure code": "",
+          "Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and\nmorphology, predictive algorithm reported as a drug response score; first single drug or drug\ncombination Proprietary test: ChemoFX® Lab/manufacturer: Helomics, Corp": "Oncology, disease progression and response monitoring to radiation, chemotherapy, or other systematic\ncancer treatments, cell-free DNA, quantitative branched chain DNA amplification, plasma, reported in\nng/mL Proprietary test: RadToxTM cfDNA test\nLab/Manufacturer: DiaCarta Clinical Lab/DiaCarta Inc",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: National Government\nServices, Inc. | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): Molecular Pathology\nProcedures | Policy title:  | L36021: L35000 | Policy number:  | 0249U\n0285U: 81535\n81536 | Procedure code: ",
+      "codes": [
+        "0249U",
+        "0285U",
+        "81535",
+        "81536"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0249U\n0285U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "National Government\nServices, Inc.",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "Molecular Pathology\nProcedures",
+          "Policy title": "",
+          "L36021": "L35000",
+          "Policy number": "",
+          "0249U\n0285U": "81535\n81536",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, LLC | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | L36021: L35160 | Policy number:  | 0249U\n0285U: 0249U\n0285U | Procedure code: ",
+      "codes": [
+        "0249U",
+        "0285U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0249U\n0285U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "L36021": "L35160",
+          "Policy number": "",
+          "0249U\n0285U": "0249U\n0285U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, LLC | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | L36021: L36256 | Policy number:  | 0249U\n0285U: 0249U\n0285U | Procedure code: ",
+      "codes": [
+        "0249U",
+        "0285U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0249U\n0285U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "L36021": "L36256",
+          "Policy number": "",
+          "0249U\n0285U": "0249U\n0285U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, LLC | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): In Vitro Chemosensitivity &\nChemoresistance Assays | Policy title:  | L36021: L37628 | Policy number:  | 0249U\n0285U: 0083U | Procedure code: ",
+      "codes": [
+        "0249U",
+        "0285U",
+        "0083U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0249U\n0285U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "In Vitro Chemosensitivity &\nChemoresistance Assays",
+          "Policy title": "",
+          "L36021": "L37628",
+          "Policy number": "",
+          "0249U\n0285U": "0083U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Palmetto GBA | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): In Vitro Chemosensitivity &\nChemoresistance Assays | Policy title:  | L36021: L34554 | Policy number:  | 0249U\n0285U: 0083U\n0248U\n0435U | Procedure code: ",
+      "codes": [
+        "0249U",
+        "0285U",
+        "0083U",
+        "0248U",
+        "0435U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0249U\n0285U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Palmetto GBA",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "In Vitro Chemosensitivity &\nChemoresistance Assays",
+          "Policy title": "",
+          "L36021": "L34554",
+          "Policy number": "",
+          "0249U\n0285U": "0083U\n0248U\n0435U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Palmetto GBA | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | L36021: L35025 | Policy number:  | 0249U\n0285U: 0249U\n0285U | Procedure code: ",
+      "codes": [
+        "0249U",
+        "0285U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0249U\n0285U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Palmetto GBA",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "L36021": "L35025",
+          "Policy number": "",
+          "0249U\n0285U": "0249U\n0285U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Wisconsin Physicians Service\nInsurance Corporation | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | L36021: L36807 | Policy number:  | 0249U\n0285U: 0249U\n0285U | Procedure code: ",
+      "codes": [
+        "0249U",
+        "0285U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0249U\n0285U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Wisconsin Physicians Service\nInsurance Corporation",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "L36021": "L36807",
+          "Policy number": "",
+          "0249U\n0285U": "0249U\n0285U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nIn vitro chemotherapy sensitivity and resistance assays (CPT code 81535**, CPT code 81536**, CPT code 0083U^, CPT code 0248U^^, CPT code 0249U*, CPT code 0285U*, CPT code 0435U^^) ARE NOT REIMBURSABLE.\n\n81535** Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and morphology, predictive algorithm reported as a drug response score; first single drug or drug combination Proprietary test: ChemoFX® Lab/manufacturer: Helomics, Corp 81536** Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and morphology, predictive algorithm reported as a drug response score; each additional single drug or drug combination (List separately in addition to code for primary procedure) Proprietary test: ChemoFX®\n\n0083U^ Oncology, response to chemotherapy drugs using motility contrast tomography, fresh or frozen tissue, reported as likelihood of sensitivity or resistance to drugs or drug combinations\n\n0248U^^ Oncology, spheroid cell culture in a 3D microenvironment, 12 drug panel, brain- or brain metastasis- response prediction for each drug\n\n0249U* Oncology (breast), semiquantitative analysis of 32 phosphoproteins and protein analytes, includes laser capture microdissection, with algorithmic analysis and interpretative report\n\n0285U* Oncology, disease progression and response monitoring to radiation, chemotherapy, or other systematic cancer treatments, cell-free DNA, quantitative branched chain DNA amplification, plasma, reported in ng/mL Proprietary test: RadToxTM cfDNA test\n\n0435U^^ Oncology, chemotherapeutic drug cytotoxicity assay of cancer stem cells (CSCs), from cultured CSCs and primary tumor cells, categorical drug response reported based on cytotoxicity percentage observed, minimum of 14 drugs or drug combinations\n\n*The payment criterion for 0249U and 0285U applies to all Medicare jurisdictions except for states awarded to CGS Administrators, LLC., Noridian Healthcare\n\nSolutions, LLC., Palmetto GBA and Wisconsin Physician Service Insurance Corporation.\n\n**The payment criterion for 81535 and 81536 applies to all Medicare jurisdictions except for states awarded to National Government Services, Inc.\n\n^The payment criterion for 0083U applies to all Medicare jurisdictions except for states awarded to Noridian Healthcare Solutions, LLC. and Palmetto GBA. ^^The payment criterion for 0248U and 0435U applies to all Medicare jurisdictions, except for states awarded to Palmetto GBA.\n\nL36021 0249U 0285U\n\nServices, Inc.\n\nL35000 81535 81536\n\nL35160 0249U 0285U\n\nL36256 0249U 0285U\n\nL37628 0083U\n\nL34554 0083U 0248U 0435U\n\nL35025 0249U 0285U\n\nL36807 0249U 0285U"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

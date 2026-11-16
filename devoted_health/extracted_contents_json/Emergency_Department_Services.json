@@ -1,0 +1,2071 @@
+{
+  "policy_title": "Emergency Department Services",
+  "policy_number": "EP30",
+  "effective_date": "3/15/26",
+  "version": "1.0",
+  "source_pdf": "Emergency_Department_Services.pdf",
+  "source_url": "https://assets.devoted.com/Providers/POLICY_EP30",
+  "line_of_business": "Medicare Advantage",
+  "billing_class": "Institutional",
+  "page_count": 4,
+  "revision_history": [
+    {
+      "date": "3/15/26",
+      "revision_num": "1.3",
+      "reason_for_change": "Included reconsideration language,\nUpdated EDC Analyzer website link",
+      "approved_by": "Payment Policy\nManagement"
+    },
+    {
+      "date": "10/29/25",
+      "revision_num": "1.2",
+      "reason_for_change": "Annual review, minor grammatical\nchanges",
+      "approved_by": "Payment Policy\nManagement"
+    },
+    {
+      "date": "10/30/24",
+      "revision_num": "1.1",
+      "reason_for_change": "Content review, updated Devoted to\n\"Devoted Health\"",
+      "approved_by": "Payment Policy\nManagement"
+    },
+    {
+      "date": "10/2/23",
+      "revision_num": "1",
+      "reason_for_change": "Policy effective.",
+      "approved_by": "Payment Policy\nManagement"
+    }
+  ],
+  "table_count": 1,
+  "codes_found": {
+    "cpt_hcpcs": [
+      "99282",
+      "99283",
+      "99284",
+      "99285",
+      "G0380",
+      "G0384"
+    ],
+    "modifiers": [
+      "25"
+    ],
+    "revenue_codes": [
+      "0450",
+      "0459"
+    ],
+    "bill_types": [
+      "0131-139"
+    ],
+    "icd_codes": [
+      "X12"
+    ]
+  },
+  "CPT_CODES_USED": [
+    "99282",
+    "99283",
+    "99284",
+    "99285",
+    "G0380",
+    "G0384"
+  ],
+  "sections_summary": [
+    "OVERVIEW",
+    "PAYMENT POLICY",
+    "SCOPE",
+    "ACRONYMS AND DEFINITIONS",
+    "POLICY STATEMENT",
+    "RELATED POLICIES",
+    "N/A",
+    "REGULATORY REFERENCES",
+    "2CMS OPPS CY NFRM",
+    "DISCLAIMER",
+    "REVIEW",
+    "POLICY APPROVAL AND HISTORY"
+  ],
+  "tables": [
+    {
+      "table_id": "tab_p4_1",
+      "title": "Table (Page 4)",
+      "page_number": 4,
+      "bbox": [
+        54.1875,
+        375.9344889322917,
+        522.375,
+        551.8125
+      ],
+      "columns": [
+        "Date",
+        "Revision #",
+        "Reason for Change",
+        "Approved By"
+      ],
+      "row_count": 4,
+      "col_count": 4,
+      "rows": [
+        {
+          "Date": "3/15/26",
+          "Revision #": "1.3",
+          "Reason for Change": "Included reconsideration language,\nUpdated EDC Analyzer website link",
+          "Approved By": "Payment Policy\nManagement"
+        },
+        {
+          "Date": "10/29/25",
+          "Revision #": "1.2",
+          "Reason for Change": "Annual review, minor grammatical\nchanges",
+          "Approved By": "Payment Policy\nManagement"
+        },
+        {
+          "Date": "10/30/24",
+          "Revision #": "1.1",
+          "Reason for Change": "Content review, updated Devoted to\n\"Devoted Health\"",
+          "Approved By": "Payment Policy\nManagement"
+        },
+        {
+          "Date": "10/2/23",
+          "Revision #": "1",
+          "Reason for Change": "Policy effective.",
+          "Approved By": "Payment Policy\nManagement"
+        }
+      ],
+      "raw_grid": [
+        [
+          "Date",
+          "Revision #",
+          "Reason for Change",
+          "Approved By"
+        ],
+        [
+          "3/15/26",
+          "1.3",
+          "Included reconsideration language,\nUpdated EDC Analyzer website link",
+          "Payment Policy\nManagement"
+        ],
+        [
+          "10/29/25",
+          "1.2",
+          "Annual review, minor grammatical\nchanges",
+          "Payment Policy\nManagement"
+        ],
+        [
+          "10/30/24",
+          "1.1",
+          "Content review, updated Devoted to\n\"Devoted Health\"",
+          "Payment Policy\nManagement"
+        ],
+        [
+          "10/2/23",
+          "1",
+          "Policy effective.",
+          "Payment Policy\nManagement"
+        ]
+      ],
+      "markdown": "| Date | Revision # | Reason for Change | Approved By |\n| --- | --- | --- | --- |\n| 3/15/26 | 1.3 | Included reconsideration language,\nUpdated EDC Analyzer website link | Payment Policy\nManagement |\n| 10/29/25 | 1.2 | Annual review, minor grammatical\nchanges | Payment Policy\nManagement |\n| 10/30/24 | 1.1 | Content review, updated Devoted to\n\"Devoted Health\" | Payment Policy\nManagement |\n| 10/2/23 | 1 | Policy effective. | Payment Policy\nManagement |",
+      "codes": {
+        "cpt_hcpcs": [],
+        "modifiers": [
+          "25"
+        ],
+        "revenue_codes": [],
+        "bill_types": [],
+        "icd_codes": []
+      }
+    }
+  ],
+  "extracted_content": [
+    {
+      "id": "item_0001",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Emergency",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0002",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "paragraph",
+      "content": "Department Services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0003",
+      "title": "PAYMENT POLICY",
+      "section": "PAYMENT POLICY",
+      "subsection": null,
+      "hierarchy_path": [
+        "PAYMENT POLICY"
+      ],
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content_type": "header",
+      "content": "PAYMENT POLICY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0004",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "OVERVIEW",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0005",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy explains our coverage and reimbursement process for services provided in an",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0006",
+      "title": "OVERVIEW",
+      "section": "OVERVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "OVERVIEW"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "emergency department.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0007",
+      "title": "SCOPE",
+      "section": "SCOPE",
+      "subsection": null,
+      "hierarchy_path": [
+        "SCOPE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "SCOPE",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0008",
+      "title": "SCOPE",
+      "section": "SCOPE",
+      "subsection": null,
+      "hierarchy_path": [
+        "SCOPE"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "This policy applies to all Devoted Health plans.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0009",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "ACRONYMS AND DEFINITIONS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0010",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "definition",
+      "content": "Ambulatory Payment Classification (APC): a classification",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0011",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "code assigned to a group of clinically",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0012",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "similar services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0013",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "and hospital resources",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0014",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "for the purpose of payment.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0015",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Payment is considered inclusive",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0016",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "for all services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0017",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "assigned to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0018",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "an APC.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0019",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "For a full list of APC",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0020",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "grouping and HCPCS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0021",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "assignments, refer to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0022",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "addendum A and B of the",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0023",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "OPPS Calendar Y",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0024",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "ear Notice",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0025",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "of Final Rulemaking.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0026",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "1",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0027",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Outpatient Prospective Payment System (OPPS): a payment methodology that pays",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0028",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "predetermined, fixed amounts based on average national costs that are adjusted based on geographic",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0029",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "variances.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0030",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "definition",
+      "content": "Payment Status Indicator: a code assigned to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0031",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "each HCPCS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0032",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "code that",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0033",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "identifies whether a service",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0034",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "is",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0035",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "considered separately",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0036",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "payable or packaged.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0037",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "For a full list and description",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0038",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "of status indicators, please",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0039",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "refer",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0040",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "to addendum D1 of",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0041",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "the OPPS Calendar Y",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0042",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "ear Notice",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0043",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "of Final Rulemaking.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0044",
+      "title": "ACRONYMS AND DEFINITIONS",
+      "section": "ACRONYMS AND DEFINITIONS",
+      "subsection": null,
+      "hierarchy_path": [
+        "ACRONYMS AND DEFINITIONS"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "2",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0045",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "header",
+      "content": "POLICY STATEMENT",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0046",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "When our member",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0047",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "receives treatment at an Emergency",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0048",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Room Department,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0049",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "we will cover",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0050",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "all",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0051",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "eligible services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0052",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "needed to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0053",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "treat and stabilize their condition,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0054",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "in accordance",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0055",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "with CMS",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0056",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "guidelines.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0057",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "3",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0058",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "As part of the claim adjudication process, we use Optum's Emergency Department Claim Analyzer",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0059",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "(EDC) to evaluate the level of the emergency room visit submitted. The goal of the EDC Analyzer is to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0060",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "determine the appropriate facility level of service for emergency department visits based on a",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0061",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "consistent, objective, and automated methodology. The EDC Analyzer evaluates claim information to",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0062",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "identify the intensity of services provided during the emergency department visit and assigns a facility",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0063",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "level accordingly. This evaluation is not a medical necessity determination. Medical record review is not",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0064",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "performed and does not affect the outcome.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0065",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "For a more in-depth look at the Optum Emergency Department Claim Analyzer, refer to the Optum EDC",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0066",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "Analyzer resources.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0067",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "definition",
+      "content": "https://www.optum.com/content/dam/o4-dam/resources/pdfs/e-books/emergency-department-claim-ana",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0068",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "lyzer-guide.pdf",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0069",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "The EDC Analyzer will adjust the code and reimburse at the calculated visit level. This change will",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0070",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content_type": "paragraph",
+      "content": "be clearly identified on your remittance advice with two column headings: \"Billed Proc\" and \"Paid",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0071",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Proc\".",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0072",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "For example, if you submit a claim with CPT® 99285 and the relevant claim data only supports",
+      "codes": [
+        "99285"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0073",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "paying 99284, your RA will show 99285 in the \"billed proc\" column and 99284 in the \"paid proc\"",
+      "codes": [
+        "99284",
+        "99285"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0074",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "column.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0075",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Claims are exempt from the EDC Analyzer when any of the following are true:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0076",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● The member is admitted as an inpatient;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0077",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● The member expires in the emergency room (discharge status ʻ20ʼ);",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0078",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● The member received Critical Care services;",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0079",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● The member is discharged/transferred to another care setting (discharge status 03, 04, 05, 06,",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0080",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "09, 21);",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0081",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● The claim has certain diagnosis codes that most oen necessitate extended resource usage",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0082",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "(e.g., substance abuse, sexual assault, mental heath) when treated in the ED.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0083",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Claim submission and reimbursement",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0084",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "We process claims according to Medicare OPPS payment rules, including the use of Ambulatory",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0085",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Payment Classification (APC) groupings, Payment Status Indicators (SI), and the packaging of",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0086",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "services. Please refer to your contract for specific details.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0087",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "In order to process payment, your claims must be submitted on a CMS-1450 (UB-04) or the X12 837I",
+      "codes": [
+        "X12"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0088",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "electronic equivalent and include the following data elements:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0089",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Type of Bill 0131-139;",
+      "codes": [
+        "0131-139"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0090",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Revenue code 0450-0459; and",
+      "codes": [
+        "0450",
+        "0459"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0091",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● CPT® 99282-99285 or HCPCS G0380-G0384.",
+      "codes": [
+        "99282",
+        "99283",
+        "99284",
+        "99285",
+        "G0380",
+        "G0384"
+      ],
+      "table_data": null
+    },
+    {
+      "id": "item_0092",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "If the visit level on your claim has been adjusted and you would like us to reconsider, please",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0093",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "follow our Provider Dispute process outlined in your provider manual.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0094",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Reconsideration is appropriate for:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0095",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Corrected Claims",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0096",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Coding or Billing Errors",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0097",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "paragraph",
+      "content": "Reconsideration is not appropriate based on:",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0098",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Medical records",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0099",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Clinical narratives",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0100",
+      "title": "POLICY STATEMENT",
+      "section": "POLICY STATEMENT",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY STATEMENT"
+      ],
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content_type": "bullet_point",
+      "content": "● Retrospective medical necessity arguments",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0101",
+      "title": "RELATED POLICIES",
+      "section": "RELATED POLICIES",
+      "subsection": null,
+      "hierarchy_path": [
+        "RELATED POLICIES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "RELATED POLICIES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0102",
+      "title": "N/A",
+      "section": "N/A",
+      "subsection": null,
+      "hierarchy_path": [
+        "N/A"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "N/A",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0103",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "REGULATORY REFERENCES",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0104",
+      "title": "REGULATORY REFERENCES",
+      "section": "REGULATORY REFERENCES",
+      "subsection": null,
+      "hierarchy_path": [
+        "REGULATORY REFERENCES"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "1CMS OPPS Addendum A and B Updates",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0105",
+      "title": "2CMS OPPS CY NFRM",
+      "section": "2CMS OPPS CY NFRM",
+      "subsection": null,
+      "hierarchy_path": [
+        "2CMS OPPS CY NFRM"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "2CMS OPPS CY NFRM",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0106",
+      "title": "2CMS OPPS CY NFRM",
+      "section": "2CMS OPPS CY NFRM",
+      "subsection": null,
+      "hierarchy_path": [
+        "2CMS OPPS CY NFRM"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "definition",
+      "content": "342 CFR §422.113: Special rules for ambulance services, emergency and urgently needed services, and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0107",
+      "title": "2CMS OPPS CY NFRM",
+      "section": "2CMS OPPS CY NFRM",
+      "subsection": null,
+      "hierarchy_path": [
+        "2CMS OPPS CY NFRM"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "maintenance and post-stabilization care services",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0108",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "DISCLAIMER",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0109",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "This payment policy is informational only and is not a guarantee of reimbursement. Claim payments",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0110",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "are subject to benefit coverage, member eligibility, claims payment edit rules, coding and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0111",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "documentation guidelines, authorization policies, provider contractual agreements, and state and",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0112",
+      "title": "DISCLAIMER",
+      "section": "DISCLAIMER",
+      "subsection": null,
+      "hierarchy_path": [
+        "DISCLAIMER"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "paragraph",
+      "content": "federal regulations.",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0113",
+      "title": "REVIEW",
+      "section": "REVIEW",
+      "subsection": null,
+      "hierarchy_path": [
+        "REVIEW"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "REVIEW",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0114",
+      "title": "POLICY APPROVAL AND HISTORY",
+      "section": "POLICY APPROVAL AND HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY APPROVAL AND HISTORY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "header",
+      "content": "POLICY APPROVAL AND HISTORY",
+      "codes": [],
+      "table_data": null
+    },
+    {
+      "id": "item_0115",
+      "title": "Table (Page 4)",
+      "section": "POLICY APPROVAL AND HISTORY",
+      "subsection": null,
+      "hierarchy_path": [
+        "POLICY APPROVAL AND HISTORY"
+      ],
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content_type": "table",
+      "content": "| Date | Revision # | Reason for Change | Approved By |\n| --- | --- | --- | --- |\n| 3/15/26 | 1.3 | Included reconsideration language,\nUpdated EDC Analyzer website link | Payment Policy\nManagement |\n| 10/29/25 | 1.2 | Annual review, minor grammatical\nchanges | Payment Policy\nManagement |\n| 10/30/24 | 1.1 | Content review, updated Devoted to\n\"Devoted Health\" | Payment Policy\nManagement |\n| 10/2/23 | 1 | Policy effective. | Payment Policy\nManagement |",
+      "codes": [
+        "25"
+      ],
+      "table_data": {
+        "table_id": "tab_p4_1",
+        "title": "Table (Page 4)",
+        "columns": [
+          "Date",
+          "Revision #",
+          "Reason for Change",
+          "Approved By"
+        ],
+        "row_count": 4,
+        "rows": [
+          {
+            "Date": "3/15/26",
+            "Revision #": "1.3",
+            "Reason for Change": "Included reconsideration language,\nUpdated EDC Analyzer website link",
+            "Approved By": "Payment Policy\nManagement"
+          },
+          {
+            "Date": "10/29/25",
+            "Revision #": "1.2",
+            "Reason for Change": "Annual review, minor grammatical\nchanges",
+            "Approved By": "Payment Policy\nManagement"
+          },
+          {
+            "Date": "10/30/24",
+            "Revision #": "1.1",
+            "Reason for Change": "Content review, updated Devoted to\n\"Devoted Health\"",
+            "Approved By": "Payment Policy\nManagement"
+          },
+          {
+            "Date": "10/2/23",
+            "Revision #": "1",
+            "Reason for Change": "Policy effective.",
+            "Approved By": "Payment Policy\nManagement"
+          }
+        ]
+      }
+    }
+  ]
+}

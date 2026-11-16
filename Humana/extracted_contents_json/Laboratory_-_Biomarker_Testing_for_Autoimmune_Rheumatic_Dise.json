@@ -1,0 +1,1439 @@
+{
+  "policy_title": "Laboratory - Biomarker Testing for Autoimmune",
+  "policy_number": "LAB2023024",
+  "effective_date": "05/2023",
+  "published_date": "05/2023",
+  "revision_date": "10/2026",
+  "source_pdf": "Laboratory_-_Biomarker_Testing_for_Autoimmune_Rheumatic_Disease_Revised-52657080.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 7,
+  "table_count": 2,
+  "block_count": 50,
+  "CPT_CODES_USED": [
+    "86038",
+    "86039",
+    "86430",
+    "86431",
+    "86200",
+    "86225",
+    "0039U",
+    "86235",
+    "0312U",
+    "0062U",
+    "0446U",
+    "0447U",
+    "0522U",
+    "87366",
+    "00226",
+    "11177",
+    "00330",
+    "21767",
+    "02389",
+    "10188",
+    "30237",
+    "24583",
+    "24596",
+    "01880",
+    "04684",
+    "03169",
+    "02240",
+    "40674",
+    "34473",
+    "41093",
+    "22238",
+    "25690",
+    "15063",
+    "21930",
+    "S2665",
+    "30084"
+  ],
+  "MODIFIERS_USED": [
+    "80",
+    "78",
+    "JF",
+    "JW",
+    "AJ",
+    "U1",
+    "24",
+    "FC",
+    "25",
+    "58",
+    "JD",
+    "LR",
+    "JL",
+    "AH",
+    "JA",
+    "54",
+    "59",
+    "RE",
+    "77",
+    "CA",
+    "52",
+    "HN",
+    "82",
+    "GT",
+    "92",
+    "TW",
+    "55",
+    "66",
+    "22",
+    "JB",
+    "91",
+    "90",
+    "US",
+    "AM",
+    "GS",
+    "56",
+    "57",
+    "LM",
+    "HU",
+    "GR",
+    "SC",
+    "93",
+    "HS"
+  ],
+  "ICD_CODES_USED": [
+    "J01"
+  ],
+  "mapped_cpt_codes": [
+    {
+      "code": "86038",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86039",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86430",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86431",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86200",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86225",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0039U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86235",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0312U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0062U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0446U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0447U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0522U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87366",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00226",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "11177",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00330",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "21767",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "02389",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "10188",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "30237",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "24583",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "24596",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "01880",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "04684",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "03169",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "02240",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "40674",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "34473",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "41093",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "22238",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "25690",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "15063",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "21930",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "S2665",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "30084",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Antinuclear antibody testing (ANA) (CPT code 86038, CPT code 86039) IS REIMBURSABLE up to three times per lifetime for the following conditions or symptoms:",
+      "codes": [
+        "86038",
+        "86039"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Systemic lupus erythematosus",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Systemic lupus erythematosus",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Systemic lupus erythematosus",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Testing for rheumatoid factor (CPT code 86430, CPT code 86431) and anti-cyclic citrullinated peptide (CPT code 86200) IS REIMBURSABLE up to three times per lifetime for the following conditions or symptoms:",
+      "codes": [
+        "86430",
+        "86431",
+        "86200"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Swelling in the joint",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Swelling in the joint",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Swelling in the joint",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Testing of double stranded deoxyribonucleic acid (dsDNA) (CPT code 86225, CPT code 0039U) IS REIMBURSABLE up to four times per year for the following conditions or symptoms:",
+      "codes": [
+        "86225",
+        "0039U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Systemic lupus erythematosus",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Systemic lupus erythematosus",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Systemic lupus erythematosus",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "For a wellness visit or a general encounter without abnormal findings, antinuclear antibodies (ANA) (CPT code 86038, CPT code 86039) or extractable nuclear antigen (ENA) (CPT code 86235) testing IS NOT REIMBURSABLE.",
+      "codes": [
+        "86038",
+        "86039",
+        "86235"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Systemic lupus erythematosus",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Systemic lupus erythematosus",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Systemic lupus erythematosus",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "The use of cell-bound complement activation products, for example, Avise® Lupus (CPT code 0312U*) IS NOT REIMBURSABLE.",
+      "codes": [
+        "0312U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Systemic lupus erythematosus",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Systemic lupus erythematosus",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Systemic lupus erythematosus",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Any other serum biomarker panel testing, with or without proprietary algorithms or index scores, designed to diagnose, prognose, or monitor systemic lupus erythematosus or connective tissue diseases (CPT code 0062U, CPT code 0446U*, CPT code 0447U*, CPT code 0522U) IS NOT REIMBURSABLE.",
+      "codes": [
+        "0062U",
+        "0446U",
+        "0447U",
+        "0522U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "86038",
+      "codes": [
+        "86038"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Antinuclear antibodies (ANA)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Antinuclear antibodies (ANA)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Antinuclear antibodies (ANA)",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "86039",
+      "codes": [
+        "86039"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Antinuclear antibodies (ANA); titer",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Antinuclear antibodies (ANA); titer",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Antinuclear antibodies (ANA); titer",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "86200",
+      "codes": [
+        "86200"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Cyclic citrullinated peptide (CCP), antibody",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Cyclic citrullinated peptide (CCP), antibody",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Cyclic citrullinated peptide (CCP), antibody",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "86225",
+      "codes": [
+        "86225"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Deoxyribonucleic acid (DNA) antibody; native or double stranded",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Deoxyribonucleic acid (DNA) antibody; native or double stranded",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Deoxyribonucleic acid (DNA) antibody; native or double stranded",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "86235 Extractable nuclear antigen, antibody to, any method (e.g., nRNP, SS-A, SS-B, Sm, RNP, Sc170, J01), each antibody 86430",
+      "codes": [
+        "86235",
+        "86430"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Rheumatoid factor; qualitative",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Rheumatoid factor; qualitative",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Rheumatoid factor; qualitative",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "86431",
+      "codes": [
+        "86431"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Rheumatoid factor; quantitative",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Rheumatoid factor; quantitative",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Rheumatoid factor; quantitative",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0039U Deoxyribonucleic acid (DNA) antibody, double stranded, high avidity",
+      "codes": [
+        "0039U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Proprietary test: Anti-dsDNA, High Salt/Avidity",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Proprietary test: Anti-dsDNA, High Salt/Avidity",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Proprietary test: Anti-dsDNA, High Salt/Avidity",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Lab/Manufacturer: University of Washington, Department of Laboratory Medicine, Bio-Rad",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "0062U Autoimmune (systemic lupus erythematosus), IgG and IgM analysis of 80 biomarkers, utilizing serum, algorithm reported with a risk score",
+      "codes": [
+        "0062U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Veracis Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Veracis Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Veracis Inc",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "0312U* Autoimmune diseases (e.g., systemic lupus erythematosus [SLE]), analysis of 8 IgG autoantibodies and 2 cell-bound complement activation products using enzyme-linked immunosorbent immunoassay (ELISA), flow cytometry and indirect immunofluorescence, serum, or plasma and whole blood, individual components reported along with an algorithmic SLE-likelihood assessment",
+      "codes": [
+        "0312U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Exagen Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Exagen Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Exagen Inc",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "0446U* Autoimmune diseases (systemic lupus erythematosus [SLE]), analysis of 10 cytokine soluble mediator biomarkers by immunoassay, plasma, individual components reported with an algorithmic risk score for current disease activity",
+      "codes": [
+        "0446U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Progentec Diagnostics, Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Progentec Diagnostics, Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Progentec Diagnostics, Inc",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "0447U* Autoimmune diseases (systemic lupus erythematosus [SLE]), analysis of 11 cytokine soluble mediator biomarkers by immunoassay, plasma, individual components reported with an algorithmic prognostic risk score for developing a clinical flare Proprietary test: aiSLE® DX Flare Risk Index Disease Activity Index",
+      "codes": [
+        "0447U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Progentec Diagnostics, Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Progentec Diagnostics, Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Progentec Diagnostics, Inc",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "0522U Carbonic anhydrase VI, parotid specific/secretory protein and salivary protein 1 (SP1), IgG, IgM, and IgA antibodies, chemiluminescence, semiqualitative, blood Proprietary test: Tissue Specific Markers for Early Diagnosis of Sjögren's Disease Lab/Manufacturer: KSL Diagnostics, Inc,",
+      "codes": [
+        "0522U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: Progentec Diagnostics, Inc",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: Progentec Diagnostics, Inc",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: Progentec Diagnostics, Inc",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "*The payment criteria for 0312U, 0446U and 0447U applies to all Medicare jurisdictions, except those states awarded to CGS Administrators, LLC; Noridian Healthcare",
+      "codes": [
+        "0312U",
+        "0446U",
+        "0447U"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L36021 0312U 0446U 0447U",
+      "codes": [
+        "0312U",
+        "0446U",
+        "0447U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L35160 0312U 0446U 0447U",
+      "codes": [
+        "0312U",
+        "0446U",
+        "0447U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L35025 0312U 0446U 0447U",
+      "codes": [
+        "0312U",
+        "0446U",
+        "0447U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Wisconsin Physician Services",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Wisconsin Physician Services",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Wisconsin Physician Services",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Insurance Corp.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Tests (MDT)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Tests (MDT)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Tests (MDT)",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L36807 0312U 0446U 0447U",
+      "codes": [
+        "0312U",
+        "0446U",
+        "0447U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "AAFP. Autoimmune Rheumatic Diseases. Updated April 2019. https://www.aafp.org/dam/AAFP/images/about- us/content/Quest_SH8265_SoH_Autoimmune%20Rheumatic%20Diseases_HealthcareProviders_April_FINAL-2.pdf ACR. 1997 Update of the 1982 American College of Rheumatology Revised Criteria for Classification of Systemic Lupus Erythematosus. https://www.rheumatology.org/Portals/0/Files/1997%20Update%20of%201982%20Revised.pdf ACR. Policy & Position Statements. https://rheumatology.org/policy-position-statements ACR. Position Statement on Methodology of Testing for Antinuclear Antibodies. American College Of Rheumatology; 2015. https://primexlab.com/wp-content/uploads/2016/10/Methodology-of-Testing-Antinuclear-Antibodies-Position-Statement.pdf Aggarwal A. Role of autoantibody testing. Best practice & research Clinical rheumatology. Dec 2014;28(6):907-20. doi:10.1016/j.berh.2015.04.010 Alexander RV, Rey DS, Conklin J, et al. A multianalyte assay panel with cell-bound complement activation products demonstrates clinical utility in systemic lupus erythematosus. Lupus Sci Med. Jul 2021;8(1)doi:10.1136/lupus-2021-000528 Alsaed OS, Alamlih LI, Al-Radideh O, Chandra P, Alemadi S, Al-Allaf AW. Clinical utility of ANA-ELISA vs ANA-immunofluorescence in connective tissue diseases. Sci Rep. Apr 15 2021;11(1):8229. doi:10.1038/s41598-021-87366-w Aringer M, Costenbader K, Daikh D, et al. 2019 European League Against Rheumatism/American College of Rheumatology classification criteria for systemic lupus erythematosus. Ann Rheum Dis. Sep 2019;78(9):1151-1159. doi:10.1136/annrheumdis- 2018-214819 AVISE. AVISE Testing Exclusively from Exagen Inc. https://avisetest.com/provider/ Baker JF. Diagnosis and differential diagnosis of rheumatoid arthritis. Updated March 21, 2024. https://www.uptodate.com/contents/diagnosis-and-differential-diagnosis-of-rheumatoid-arthritis Bakker MF, Cavet G, Jacobs JW, et al. Performance of a multi-biomarker score measuring rheumatoid arthritis disease activity in the CAMERA tight control study. Ann Rheum Dis. Oct 2012;71(10):1692-7. doi:10.1136/annrheumdis-2011-200963 Bergman MJ, Kivitz AJ, Pappas DA, et al. Clinical Utility and Cost Savings in Predicting Inadequate Response to Anti-TNF Therapies in Rheumatoid Arthritis. Rheumatol Ther. Dec 2020;7(4):775-792. doi:10.1007/s40744-020-00226-3 Bloch D. Antibodies to double-stranded (ds)DNA, Sm, and U1 RNP. Updated October 24, 2025. https://www.uptodate.com/contents/antibodies-to-double-stranded-ds-dna-sm-and-u1-rnp Bloch D. Measurement and clinical significance of antinuclear antibodies. Updated September 05, 2025. https://www.uptodate.com/contents/measurement-and-clinical-significance-of-antinuclear-antibodies Brahe CH, Ostergaard M, Johansen JS, et al. Predictive value of a multi-biomarker disease activity score for clinical remission and radiographic progression in patients with early rheumatoid arthritis: a post-hoc study of the OPERA trial. Scand J Rheumatol.",
+      "codes": [
+        "87366",
+        "00226"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Jan 2019;48(1):9-16. doi:10.1080/03009742.2018.1464206",
+      "section": "References",
+      "subsection": "Jan 2019;48(1):9-16. doi:10.1080/03009742.2018.1464206",
+      "hierarchy_path": "References > Jan 2019;48(1):9-16. doi:10.1080/03009742.2018.1464206",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "British Columbia Rheumatoid Arthritis. Diagnosis, Management and Monitoring Guideline. https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/rheumatoid-arthritis Castro CTd, Queiroz MJd, Albuquerque FC, et al. Real-world effectiveness of biological therapy in patients with rheumatoid arthritis: Systematic review and meta-analysis. Systematic Review. Frontiers in Pharmacology. 2022-August-11 2022;13doi:10.3389/fphar.2022.927179 CDC. Lupus Basics. Updated May 15, 2024. https://www.cdc.gov/lupus/about/index.html CDC. People with Lupus. Updated May 15, 2024. https://www.cdc.gov/lupus/data-research/index.html Centola M, Cavet G, Shen Y, et al. Development of a Multi-Biomarker Disease Activity Test for Rheumatoid Arthritis. PLoS One. 2013;8(4)doi:10.1371/journal.pone.0060635 Chan EK, Damoiseaux J, de Melo Cruvinel W, et al. Report on the second International Consensus on ANA Pattern (ICAP) workshop in Dresden 2015. Lupus. Jul 2016;25(8):797-804. doi:10.1177/0961203316640920 Clarke AE, Weinstein A, Piscitello A, et al. Evaluation of the Economic Benefit of Earlier Systemic Lupus Erythematosus (SLE) Diagnosis Using a Multivariate Assay Panel (MAP). ACR Open Rheumatology. 2020;n/a(n/a)doi:10.1002/acr2.11177 Cohen S, Wells AF, Curtis JR, et al. A Molecular Signature Response Classifier to Predict Inadequate Response to Tumor Necrosis Factor-α Inhibitors: The NETWORK-004 Prospective Observational Study. Rheumatol Ther. Sep 2021;8(3):1159-1176. doi:10.1007/s40744-021-00330-y",
+      "codes": [
+        "11177",
+        "00330"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Please see the disclaimer on the first page. Page 5 of 7",
+      "section": "References",
+      "subsection": "Please see the disclaimer on the first page. Page 5 of 7",
+      "hierarchy_path": "References > Please see the disclaimer on the first page. Page 5 of 7",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Curtis JR, Flake DD, Weinblatt ME, et al. Adjustment of the multi-biomarker disease activity score to account for age, sex and adiposity in patients with rheumatoid arthritis. Rheumatology (Oxford). May 1 2019;58(5):874-883. doi:10.1093/rheumatology/key367 Curtis JR, Greenberg JD, Harrold LR, Kremer JM, Palmer JL. Influence of obesity, age, and comorbidities on the multi-biomarker disease activity test in rheumatoid arthritis. Seminars in arthritis and rheumatism. Feb 2018;47(4):472-477. doi:10.1016/j.semarthrit.2017.07.010 Curtis JR, Schabert VF, Harrison DJ, et al. Estimating effectiveness and cost of biologics for rheumatoid arthritis: application of a validated algorithm to commercial insurance claims. Clin Ther. Jul 1 2014;36(7):996-1004. doi:10.1016/j.clinthera.2014.05.062 Curtis JR, van der Helm-van Mil AH, Knevel R, et al. Validation of a novel multibiomarker test to assess rheumatoid arthritis disease activity. Arthritis Care Res (Hoboken). Dec 2012;64(12):1794-803. doi:10.1002/acr.21767 Curtis JR, Weinblatt ME, Shadick NA, et al. Validation of the adjusted multi-biomarker disease activity score as a prognostic test for radiographic progression in rheumatoid arthritis: a combined analysis of multiple studies. Arthritis Research & Therapy. 2021/01/04 2021;23(1):1. doi:10.1186/s13075-020-02389-4 Damoiseaux J, Andrade LE, Fritzler MJ, Shoenfeld Y. Autoantibodies 2015: From diagnostic biomarkers toward prediction, prognosis and prevention. Autoimmunity reviews. Jun 2015;14(6):555-63. doi:10.1016/j.autrev.2015.01.017 Deighton C, O'Mahony R, Tosh J, Turner C, Rudolf M. Management of rheumatoid arthritis: summary of NICE guidance. Bmj. Mar 16 2009;338:b702. doi:10.1136/bmj.b702 Deng X, Peters B, Ettore MW, et al. Utility of Antinuclear Antibody Screening by Various Methods in a Clinical Laboratory Patient Cohort. J Appl Lab Med. Jul 1 2016;1(1):36-46. doi:10.1373/jalm.2016.020172 Dervieux T, Conklin J, Ligayon JA, et al. Validation of a multi-analyte panel with cell-bound complement activation products for systemic lupus erythematosus. J Immunol Methods. Jul 2017;446:54-59. doi:10.1016/j.jim.2017.04.001 Durcan L, O'Dwyer T, Petri M. Management strategies and future directions for systemic lupus erythematosus in adults. Lancet. Jun 8 2019;393(10188):2332-2343. doi:10.1016/s0140-6736(19)30237-5",
+      "codes": [
+        "21767",
+        "02389",
+        "10188",
+        "30237"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Exagen. AVISE Lupus. https://exagen.com/tests/lupus/",
+      "section": "References",
+      "subsection": "Exagen. AVISE Lupus. https://exagen.com/tests/lupus/",
+      "hierarchy_path": "References > Exagen. AVISE Lupus. https://exagen.com/tests/lupus/",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Fava A, Petri M. Systemic lupus erythematosus: Diagnosis and clinical management. J Autoimmun. Jan 2019;96:1-13. doi:10.1016/j.jaut.2018.11.001 Finzel S, Schaffer S, Rizzi M, Voll RE. [Pathogenesis of systemic lupus erythematosus]. Z Rheumatol. Nov 2018;77(9):789-798. Pathogenese des systemischen Lupus erythematodes. doi:10.1007/s00393-018-0541-3 Fleischmann R, Liu J, Zhu J, Segurado OG, Furst DE. Discrepancy Between Multibiomarker Disease Activity and Clinical Disease Activity Scores in Patients With Persistently Active Rheumatoid Arthritis. Arthritis Care Res (Hoboken). Sep 2022;74(9):1477-",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Exagen. AVISE Lupus. https://exagen.com/tests/lupus/",
+      "section": "References",
+      "subsection": "Exagen. AVISE Lupus. https://exagen.com/tests/lupus/",
+      "hierarchy_path": "References > Exagen. AVISE Lupus. https://exagen.com/tests/lupus/",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "1483. doi:10.1002/acr.24583",
+      "codes": [
+        "24583"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Exagen. AVISE Lupus. https://exagen.com/tests/lupus/",
+      "section": "References",
+      "subsection": "Exagen. AVISE Lupus. https://exagen.com/tests/lupus/",
+      "hierarchy_path": "References > Exagen. AVISE Lupus. https://exagen.com/tests/lupus/",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology Guideline for the Treatment of Rheumatoid Arthritis. Arthritis Care Res (Hoboken). Jul 2021;73(7):924-939. doi:10.1002/acr.24596 Global Autoimmune Institute. The Global Landscape of Autoimmune Disease. Updated February 20, 2024. https://www.autoimmuneinstitute.org/articles/the-global-landscape-of-autoimmune-disease/ Guthridge JM, Wagner CA, James JA. The promise of precision medicine in rheumatology. Nat Med. Jul 2022;28(7):1363-1371. doi:10.1038/s41591-022-01880-6 Hargraves MM, Richmond H, Morton R. Presentation of two bone marrow elements; the tart cell and the L.E. cell. Proceedings of the staff meetings Mayo Clinic. Jan 21 1948;23(2):25-8 Hirata S, Dirven L, Shen Y, et al. A multi-biomarker score measures rheumatoid arthritis disease activity in the BeSt study. Rheumatology (Oxford). Jul 2013;52(7):1202-7. doi:10.1093/rheumatology/kes362 Hochberg MC. Updating the American College of Rheumatology revised criteria for the classification of systemic lupus erythematosus. Arthritis Rheum. Sep 1997;40(9):1725. doi:10.1002/art.1780400928 Immco Diagnostics. Sjo. https://www.immco.com/wp-content/uploads/2018/09/ML-111-Sjogren-Sydrome-Flyer-0818-Rev.pdf Johnson KJ, Sanchez HN, Schoenbrunner N. Defining response to TNF-inhibitors in rheumatoid arthritis: the negative impact of anti- TNF cycling and the need for a personalized medicine approach to identify primary non-responders. Clin Rheumatol. Nov 2019;38(11):2967-2976. doi:10.1007/s10067-019-04684-1 Josef SS, Robert BML, Sytske Anne B, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. Annals of the Rheumatic Diseases. 2023;82(1):3. doi:10.1136/ard-2022-223356",
+      "codes": [
+        "24596",
+        "01880",
+        "04684"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Please see the disclaimer on the first page. Page 6 of 7",
+      "section": "References",
+      "subsection": "Please see the disclaimer on the first page. Page 6 of 7",
+      "hierarchy_path": "References > Please see the disclaimer on the first page. Page 6 of 7",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "Kim J, Lee W, Kim GT, et al. Diagnostic utility of automated indirect immunofluorescence compared to manual indirect immunofluorescence for anti-nuclear antibodies in patients with systemic rheumatic diseases: A systematic review and meta- analysis. Seminars in arthritis and rheumatism. Feb 2019;48(4):728-735. doi:10.1016/j.semarthrit.2018.03.015 KSL Diagnostics-Beutner. Seronegative Rheumatoid Arthritis Profile. https://www.beutnerlabs.com/rheumatoid-arthritis-ra- laboratory-testing Li W, Sasso EH, Emerling D, Cavet G, Ford K. Impact of a multi-biomarker disease activity test on rheumatoid arthritis treatment decisions and therapy use. Current medical research and opinion. Jan 2013;29(1):85-92. doi:10.1185/03007995.2012.753042 Li W, Sasso EH, van der Helm-van Mil AH, Huizinga TW. Relationship of multi-biomarker disease activity score and other risk factors with radiographic progression in an observational study of patients with rheumatoid arthritis. Rheumatology (Oxford). Feb 2016;55(2):357-66. doi:10.1093/rheumatology/kev341 Liang E, Taylor M, McMahon M. Utility of the AVISE Connective Tissue Disease test in predicting lupus diagnosis and progression. Lupus Science &amp; Medicine. 2020;7(1):e000345. doi:10.1136/lupus-2019-000345 Luan H, Gu W, Li H, et al. Serum metabolomic and lipidomic profiling identifies diagnostic biomarkers for seropositive and seronegative rheumatoid arthritis patients. J Transl Med. Dec 7 2021;19(1):500. doi:10.1186/s12967-021-03169-7 Ma MHY, Defranoux N, Li W, et al. A multi-biomarker disease activity score can predict sustained remission in rheumatoid arthritis. Arthritis Research & Therapy. 2020/06/24 2020;22(1):158. doi:10.1186/s13075-020-02240-w McArdle A, Flatley B, Pennington SR, FitzGerald O. Early biomarkers of joint damage in rheumatoid and psoriatic arthritis. Arthritis",
+      "codes": [
+        "03169",
+        "02240"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Res Ther. Jun 1 2015;17(1):141. doi:10.1186/s13075-015-0652-z",
+      "section": "References",
+      "subsection": "Res Ther. Jun 1 2015;17(1):141. doi:10.1186/s13075-015-0652-z",
+      "hierarchy_path": "References > Res Ther. Jun 1 2015;17(1):141. doi:10.1186/s13075-015-0652-z",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "Mellors T, Withers JB, Ameli A, et al. Clinical Validation of a Blood-Based Predictive Test for Stratification of Response to Tumor Necrosis Factor Inhibitor Therapies in Rheumatoid Arthritis Patients. Network and Systems Medicine. July 14, 2020 2020;3(1):91-104. doi:10.1089/nsm.2020.0007 Mosca M, Costenbader KH, Johnson SR, et al. Brief Report: How Do Patients With Newly Diagnosed Systemic Lupus Erythematosus Present? A Multicenter Cohort of Early Systemic Lupus Erythematosus to Inform the Development of New Classification Criteria. Arthritis Rheumatol. Jan 2019;71(1):91-98. doi:10.1002/art.40674 Mossell J, Goldman JA, Barken D, Alexander RV. The Avise Lupus Test and Cell-bound Complement Activation Products Aid the Diagnosis of Systemic Lupus Erythematosus. Open Rheumatol J. 2016;10:71-80. doi:10.2174/1874312901610010071 Oglesby A, Korves C, Laliberté F, et al. Impact of early versus late systemic lupus erythematosus diagnosis on clinical and economic outcomes. Appl Health Econ Health Policy. Apr 2014;12(2):179-90. doi:10.1007/s40258-014-0085-x Pappas DA, St John G, Etzel CJ, et al. Comparative effectiveness of first-line tumour necrosis factor inhibitor versus non-tumour necrosis factor inhibitor biologics and targeted synthetic agents in patients with rheumatoid arthritis: results from a large US registry study. Ann Rheum Dis. Jan 2021;80(1):96-102. doi:10.1136/annrheumdis-2020-217209 Petri M, Orbai AM, Alarcón GS, et al. Derivation and validation of the Systemic Lupus International Collaborating Clinics classification criteria for systemic lupus erythematosus. Arthritis Rheum. Aug 2012;64(8):2677-86. doi:10.1002/art.34473 Progenotes Diagnostics Inc. aiSLE DX. https://www.progentec.com/aisle-dx Putterman C, Furie R, Ramsey-Goldman R, et al. Cell-bound complement activation products in systemic lupus erythematosus: comparison with anti-double-stranded DNA and standard complement measurements. Lupus Sci Med. 2014;1(1):e000056. doi:10.1136/lupus-2014-000056 RACGP. Recommendations for the diagnosis and management of early rheumatoid arthritis. https://www.racgp.org.au/FSDEDEV/media/documents/Clinical%20Resources/Guidelines/Joint%20replacement/Rheumatoid- arthritis-recommendations.pdf Ramsey-Goldman R, Alexander RV, Massarotti EM, et al. Complement Activation in Patients With Probable Systemic Lupus Erythematosus and Ability to Predict Progression to American College of Rheumatology-Classified Systemic Lupus Erythematosus. Arthritis Rheumatol. Jan 2020;72(1):78-88. doi:10.1002/art.41093 Rees F, Doherty M, Grainge MJ, Lanyon P, Zhang W. The worldwide incidence and prevalence of systemic lupus erythematosus: a systematic review of epidemiological studies. Rheumatology (Oxford). Nov 1 2017;56(11):1945-1961. doi:10.1093/rheumatology/kex260 Rouster-Stevens KA, Ardoin SP, Cooper AM, et al. Choosing Wisely: the American College of Rheumatology's Top 5 for pediatric rheumatology. Arthritis Care Res (Hoboken). May 2014;66(5):649-57. doi:10.1002/acr.22238 Sammaritano LM, Anca Askanase, MD, MPH, Bonnie L. Bermas, MD, Maria Dall'Era, MD, Alí Duarte-García, MD, MSc, Linda T. Hiraki, MD, MSc, ScD, Mary Beth F. Son, MD, Victoria P. Werth, MD,, Cynthia Aranow M, April Barnado, MD, MSCI, Anna Broder, MD,",
+      "codes": [
+        "40674",
+        "34473",
+        "41093",
+        "22238"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Please see the disclaimer on the first page. Page 7 of 7",
+      "section": "References",
+      "subsection": "Please see the disclaimer on the first page. Page 7 of 7",
+      "hierarchy_path": "References > Please see the disclaimer on the first page. Page 7 of 7",
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content": "MSc,, Hermine I. Brunner M, MSc, MBA, Benjamin F. Chong, MD, MSCS,, et al. 2025 American College of Rheumatology (ACR) Guideline for the Treatment of Systemic Lupus Erythematosus. American College of Rheumatology. 2025;doi:10.1002/acr.25690 Satoh M, Chan EK, Sobel ES, et al. Clinical implication of autoantibodies in patients with systemic rheumatic diseases. Expert review of clinical immunology. Sep 2014;3(5):721-38. doi:10.1586/1744666x.3.5.721 Scherer HU, Häupl T, Burmester GR. The etiology of rheumatoid arthritis. J Autoimmun. Jun 2020;110:102400. doi:10.1016/j.jaut.2019.102400 Selmi C, Ceribelli A, Generali E, et al. Serum antinuclear and extractable nuclear antigen antibody prevalence and associated morbidity and mortality in the general population over 15 years. Autoimmunity reviews. Feb 2016;15(2):162-6. doi:10.1016/j.autrev.2015.10.007 Shapiro SC. Biomarkers in Rheumatoid Arthritis. Cureus. May 16 2021;13(5):e15063. doi:10.7759/cureus.15063 Shmerling R. Biologic markers in the assessment of rheumatoid arthritis. Updated October 13, 2025. https://www.uptodate.com/contents/biologic-markers-in-the-assessment-of-rheumatoid-arthritis Simon TA, Kawabata H, Ray N, Baheti A, Suissa S, Esdaile JM. Prevalence of Co-existing Autoimmune Disease in Rheumatoid Arthritis: A Cross-Sectional Study. Advances in therapy. Nov 2017;34(11):2481-2490. doi:10.1007/s12325-017-0627-3 Suurmond J, Diamond B. Autoantibodies in systemic autoimmune diseases: specificity and pathogenicity. J Clin Invest. 2015;125(6):2194-202. doi:10.1172/jci78084 Tan EM. Antinuclear antibodies: diagnostic markers for autoimmune diseases and probes for cell biology. Advances in immunology. 1989;44:93-151 Tebo AE. Recent Approaches To Optimize Laboratory Assessment of Antinuclear Antibodies. Clinical and vaccine immunology : CVI.",
+      "codes": [
+        "25690",
+        "15063"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Dec 2017;24(12)doi:10.1128/cvi.00270-17",
+      "section": "References",
+      "subsection": "Dec 2017;24(12)doi:10.1128/cvi.00270-17",
+      "hierarchy_path": "References > Dec 2017;24(12)doi:10.1128/cvi.00270-17",
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content": "Thong B, Olsen NJ. Systemic lupus erythematosus diagnosis and management. Rheumatology (Oxford). Apr 1 2017;56(suppl_1):i3- i13. doi:10.1093/rheumatology/kew401 Tipu HN, Bashir MM. Determination of Specificity and Pattern of Antinuclear Antibodies (ANA) in Systemic Rheumatic Disease Patients Positive for ANA Testing. J Coll Physicians Surg Pak. Jan 2018;28(1):40-43 Tonutti E, Bizzaro N, Morozzi G, et al. The ANA-reflex test as a model for improving clinical appropriateness in autoimmune diagnostics. Auto Immun Highlights. 2016;7(1)doi:10.1007/s13317-016-0080-3 van der Helm-van Mil AHM, Knevel R, Cavet G, Huizinga TWJ, Haney DJ. An evaluation of molecular and clinical remission in rheumatoid arthritis by assessing radiographic progression. Rheumatology (Oxford). 2013:839-46. vol. 5 van der Pol P, Bakker-Jonges LE, Kuijpers J, Schreurs MWJ. Analytical and clinical comparison of two fully automated immunoassay systems for the detection of autoantibodies to extractable nuclear antigens. Clinica chimica acta; international journal of clinical chemistry. Jan 2018;476:154-159. doi:10.1016/j.cca.2017.11.014 Wallace DJ, Alexander RV, O'Malley T, et al. Randomised prospective trial to assess the clinical utility of multianalyte assay panel with complement activation products for the diagnosis of SLE. Lupus science &amp; medicine. 2019;6(1):e000349. doi:10.1136/lupus-2019-000349 Wallace DJ, Gladman D. Systemic lupus erythematosus in adults: Clinical manifestations and diagnosis. Updated February 12, 2025. https://www.uptodate.com/contents/systemic-lupus-erythematosus-in-adults-clinical-manifestations-and-diagnosis Yang H, Ray LE. Antinuclear Antibodies (ANA). Updated February 2025. https://rheumatology.org/patients/antinuclear-antibodies- ana Yazdany J, Schmajuk G, Robbins M, et al. Choosing wisely: The American College of Rheumatology's top 5 list of things physicians and patients should question. Arthritis Care & Research. 2013;65(3):329-339. doi:10.1002/acr.21930 Yeo AL, Le S, Ong J, et al. Utility of repeated antinuclear antibody tests: a retrospective database study. The Lancet Rheumatology. 2020/07/01/ 2020;2(7):e412-e417. doi:10.1016/S2665-9913(20)30084-9 Yoo IY, Oh JW, Cha HS, Koh EM, Kang ES. Performance of an Automated Fluorescence Antinuclear Antibody Image Analyzer. Annals of laboratory medicine. May 2017;37(3):240-247. doi:10.3343/alm.2017.37.3.240 Zucchi D, Elefante E, Calabresi E, Signorini V, Bortoluzzi A, Tani C. One year in review 2019: systemic lupus erythematosus. Clin Exp",
+      "codes": [
+        "21930",
+        "S2665",
+        "30084"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 86038: 86039 | Procedure code:  | Antinuclear antibodies (ANA): Antinuclear antibodies (ANA); titer | Code description: ",
+      "codes": [
+        "86038",
+        "86039"
+      ],
+      "table_data": {
+        "columns": [
+          "86038",
+          "Procedure code",
+          "Antinuclear antibodies (ANA)",
+          "Code description"
+        ],
+        "row": {
+          "86038": "86039",
+          "Procedure code": "",
+          "Antinuclear antibodies (ANA)": "Antinuclear antibodies (ANA); titer",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 86038: 86200 | Procedure code:  | Antinuclear antibodies (ANA): Cyclic citrullinated peptide (CCP), antibody | Code description: ",
+      "codes": [
+        "86038",
+        "86200"
+      ],
+      "table_data": {
+        "columns": [
+          "86038",
+          "Procedure code",
+          "Antinuclear antibodies (ANA)",
+          "Code description"
+        ],
+        "row": {
+          "86038": "86200",
+          "Procedure code": "",
+          "Antinuclear antibodies (ANA)": "Cyclic citrullinated peptide (CCP), antibody",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 86038: 86225 | Procedure code:  | Antinuclear antibodies (ANA): Deoxyribonucleic acid (DNA) antibody; native or double stranded | Code description: ",
+      "codes": [
+        "86038",
+        "86225"
+      ],
+      "table_data": {
+        "columns": [
+          "86038",
+          "Procedure code",
+          "Antinuclear antibodies (ANA)",
+          "Code description"
+        ],
+        "row": {
+          "86038": "86225",
+          "Procedure code": "",
+          "Antinuclear antibodies (ANA)": "Deoxyribonucleic acid (DNA) antibody; native or double stranded",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 86038: 86235 | Procedure code:  | Antinuclear antibodies (ANA): Extractable nuclear antigen, antibody to, any method (e.g., nRNP, SS-A, SS-B, Sm, RNP, Sc170, J01), each\nantibody | Code description: ",
+      "codes": [
+        "86038",
+        "86235"
+      ],
+      "table_data": {
+        "columns": [
+          "86038",
+          "Procedure code",
+          "Antinuclear antibodies (ANA)",
+          "Code description"
+        ],
+        "row": {
+          "86038": "86235",
+          "Procedure code": "",
+          "Antinuclear antibodies (ANA)": "Extractable nuclear antigen, antibody to, any method (e.g., nRNP, SS-A, SS-B, Sm, RNP, Sc170, J01), each\nantibody",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 86038: 86430 | Procedure code:  | Antinuclear antibodies (ANA): Rheumatoid factor; qualitative | Code description: ",
+      "codes": [
+        "86038",
+        "86430"
+      ],
+      "table_data": {
+        "columns": [
+          "86038",
+          "Procedure code",
+          "Antinuclear antibodies (ANA)",
+          "Code description"
+        ],
+        "row": {
+          "86038": "86430",
+          "Procedure code": "",
+          "Antinuclear antibodies (ANA)": "Rheumatoid factor; qualitative",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 86038: 86431 | Procedure code:  | Antinuclear antibodies (ANA): Rheumatoid factor; quantitative | Code description: ",
+      "codes": [
+        "86038",
+        "86431"
+      ],
+      "table_data": {
+        "columns": [
+          "86038",
+          "Procedure code",
+          "Antinuclear antibodies (ANA)",
+          "Code description"
+        ],
+        "row": {
+          "86038": "86431",
+          "Procedure code": "",
+          "Antinuclear antibodies (ANA)": "Rheumatoid factor; quantitative",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 86038: 0039U | Procedure code:  | Antinuclear antibodies (ANA): Deoxyribonucleic acid (DNA) antibody, double stranded, high avidity\nProprietary test: Anti-dsDNA, High Salt/Avidity\nLab/Manufacturer: University of Washington, Department of Laboratory Medicine, Bio-Rad | Code description: ",
+      "codes": [
+        "86038",
+        "0039U"
+      ],
+      "table_data": {
+        "columns": [
+          "86038",
+          "Procedure code",
+          "Antinuclear antibodies (ANA)",
+          "Code description"
+        ],
+        "row": {
+          "86038": "0039U",
+          "Procedure code": "",
+          "Antinuclear antibodies (ANA)": "Deoxyribonucleic acid (DNA) antibody, double stranded, high avidity\nProprietary test: Anti-dsDNA, High Salt/Avidity\nLab/Manufacturer: University of Washington, Department of Laboratory Medicine, Bio-Rad",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 86038: 0312U* | Procedure code:  | Antinuclear antibodies (ANA): Autoimmune diseases (e.g., systemic lupus erythematosus [SLE]), analysis of 8 IgG autoantibodies and 2\ncell-bound complement activation products using enzyme-linked immunosorbent immunoassay (ELISA),\nflow cytometry and indirect immunofluorescence, serum, or plasma and whole blood, individual\ncomponents reported along with an algorithmic SLE-likelihood assessment\nProprietary test: Avise® Lupus\nLab/Manufacturer: Exagen Inc | Code description: ",
+      "codes": [
+        "86038",
+        "0312U"
+      ],
+      "table_data": {
+        "columns": [
+          "86038",
+          "Procedure code",
+          "Antinuclear antibodies (ANA)",
+          "Code description"
+        ],
+        "row": {
+          "86038": "0312U*",
+          "Procedure code": "",
+          "Antinuclear antibodies (ANA)": "Autoimmune diseases (e.g., systemic lupus erythematosus [SLE]), analysis of 8 IgG autoantibodies and 2\ncell-bound complement activation products using enzyme-linked immunosorbent immunoassay (ELISA),\nflow cytometry and indirect immunofluorescence, serum, or plasma and whole blood, individual\ncomponents reported along with an algorithmic SLE-likelihood assessment\nProprietary test: Avise® Lupus\nLab/Manufacturer: Exagen Inc",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 86038: 0446U* | Procedure code:  | Antinuclear antibodies (ANA): Autoimmune diseases (systemic lupus erythematosus [SLE]), analysis of 10\ncytokine soluble mediator biomarkers by immunoassay, plasma, individual\ncomponents reported with an algorithmic risk score for current disease activity\nProprietary test: aiSLE® DX Disease Activity Index\nLab/Manufacturer: Progentec Diagnostics, Inc | Code description: ",
+      "codes": [
+        "86038",
+        "0446U"
+      ],
+      "table_data": {
+        "columns": [
+          "86038",
+          "Procedure code",
+          "Antinuclear antibodies (ANA)",
+          "Code description"
+        ],
+        "row": {
+          "86038": "0446U*",
+          "Procedure code": "",
+          "Antinuclear antibodies (ANA)": "Autoimmune diseases (systemic lupus erythematosus [SLE]), analysis of 10\ncytokine soluble mediator biomarkers by immunoassay, plasma, individual\ncomponents reported with an algorithmic risk score for current disease activity\nProprietary test: aiSLE® DX Disease Activity Index\nLab/Manufacturer: Progentec Diagnostics, Inc",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 86038: 0447U* | Procedure code:  | Antinuclear antibodies (ANA): Autoimmune diseases (systemic lupus erythematosus [SLE]), analysis of 11\ncytokine soluble mediator biomarkers by immunoassay, plasma, individual\ncomponents reported with an algorithmic prognostic risk score for developing a\nclinical flare\nProprietary test: aiSLE® DX Flare Risk Index Disease Activity Index\nLab/Manufacturer: Progentec Diagnostics, Inc | Code description: ",
+      "codes": [
+        "86038",
+        "0447U"
+      ],
+      "table_data": {
+        "columns": [
+          "86038",
+          "Procedure code",
+          "Antinuclear antibodies (ANA)",
+          "Code description"
+        ],
+        "row": {
+          "86038": "0447U*",
+          "Procedure code": "",
+          "Antinuclear antibodies (ANA)": "Autoimmune diseases (systemic lupus erythematosus [SLE]), analysis of 11\ncytokine soluble mediator biomarkers by immunoassay, plasma, individual\ncomponents reported with an algorithmic prognostic risk score for developing a\nclinical flare\nProprietary test: aiSLE® DX Flare Risk Index Disease Activity Index\nLab/Manufacturer: Progentec Diagnostics, Inc",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] 86038: 0522U | Procedure code:  | Antinuclear antibodies (ANA): Carbonic anhydrase VI, parotid specific/secretory protein and salivary protein 1 (SP1), IgG, IgM, and IgA\nantibodies, chemiluminescence, semiqualitative, blood\nProprietary test: Tissue Specific Markers for Early Diagnosis of Sjögren's Disease\nLab/Manufacturer: KSL Diagnostics, Inc, | Code description: ",
+      "codes": [
+        "86038",
+        "0522U"
+      ],
+      "table_data": {
+        "columns": [
+          "86038",
+          "Procedure code",
+          "Antinuclear antibodies (ANA)",
+          "Code description"
+        ],
+        "row": {
+          "86038": "0522U",
+          "Procedure code": "",
+          "Antinuclear antibodies (ANA)": "Carbonic anhydrase VI, parotid specific/secretory protein and salivary protein 1 (SP1), IgG, IgM, and IgA\nantibodies, chemiluminescence, semiqualitative, blood\nProprietary test: Tissue Specific Markers for Early Diagnosis of Sjögren's Disease\nLab/Manufacturer: KSL Diagnostics, Inc,",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, LLC | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | L36021: L35160 | Policy number:  | 0312U\n0446U\n0447U: 0312U\n0446U\n0447U | Procedure code: ",
+      "codes": [
+        "0312U",
+        "0446U",
+        "0447U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0312U\n0446U\n0447U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "L36021": "L35160",
+          "Policy number": "",
+          "0312U\n0446U\n0447U": "0312U\n0446U\n0447U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Palmetto GBA | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | L36021: L35025 | Policy number:  | 0312U\n0446U\n0447U: 0312U\n0446U\n0447U | Procedure code: ",
+      "codes": [
+        "0312U",
+        "0446U",
+        "0447U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0312U\n0446U\n0447U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Palmetto GBA",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "L36021": "L35025",
+          "Policy number": "",
+          "0312U\n0446U\n0447U": "0312U\n0446U\n0447U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Wisconsin Physician Services\nInsurance Corp. | Contractor name:  | MolDX: Molecular Diagnostic\nTests (MDT): MolDX: Molecular Diagnostic\nTests (MDT) | Policy title:  | L36021: L36807 | Policy number:  | 0312U\n0446U\n0447U: 0312U\n0446U\n0447U | Procedure code: ",
+      "codes": [
+        "0312U",
+        "0446U",
+        "0447U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title",
+          "L36021",
+          "Policy number",
+          "0312U\n0446U\n0447U",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Wisconsin Physician Services\nInsurance Corp.",
+          "Contractor name": "",
+          "MolDX: Molecular Diagnostic\nTests (MDT)": "MolDX: Molecular Diagnostic\nTests (MDT)",
+          "Policy title": "",
+          "L36021": "L36807",
+          "Policy number": "",
+          "0312U\n0446U\n0447U": "0312U\n0446U\n0447U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nAntinuclear antibody testing (ANA) (CPT code 86038, CPT code 86039) IS REIMBURSABLE up to three times per lifetime for the following conditions or symptoms:\n\nTesting for rheumatoid factor (CPT code 86430, CPT code 86431) and anti-cyclic citrullinated peptide (CPT code 86200) IS REIMBURSABLE up to three times per lifetime for the following conditions or symptoms:\n\nTesting of double stranded deoxyribonucleic acid (dsDNA) (CPT code 86225, CPT code 0039U) IS REIMBURSABLE up to four times per year for the following conditions or symptoms:\n\nFor a wellness visit or a general encounter without abnormal findings, antinuclear antibodies (ANA) (CPT code 86038, CPT code 86039) or extractable nuclear antigen (ENA) (CPT code 86235) testing IS NOT REIMBURSABLE.\n\nThe use of cell-bound complement activation products, for example, Avise® Lupus (CPT code 0312U*) IS NOT REIMBURSABLE.\n\nAny other serum biomarker panel testing, with or without proprietary algorithms or index scores, designed to diagnose, prognose, or monitor systemic lupus erythematosus or connective tissue diseases (CPT code 0062U, CPT code 0446U*, CPT code 0447U*, CPT code 0522U) IS NOT REIMBURSABLE.\n\n86038\n\n86039\n\n86200\n\n86225\n\n86235 Extractable nuclear antigen, antibody to, any method (e.g., nRNP, SS-A, SS-B, Sm, RNP, Sc170, J01), each antibody 86430\n\n86431\n\n0039U Deoxyribonucleic acid (DNA) antibody, double stranded, high avidity\n\nLab/Manufacturer: University of Washington, Department of Laboratory Medicine, Bio-Rad\n\n0062U Autoimmune (systemic lupus erythematosus), IgG and IgM analysis of 80 biomarkers, utilizing serum, algorithm reported with a risk score\n\n0312U* Autoimmune diseases (e.g., systemic lupus erythematosus [SLE]), analysis of 8 IgG autoantibodies and 2 cell-bound complement activation products using enzyme-linked immunosorbent immunoassay (ELISA), flow cytometry and indirect immunofluorescence, serum, or plasma and whole blood, individual components reported along with an algorithmic SLE-likelihood assessment\n\n0446U* Autoimmune diseases (systemic lupus erythematosus [SLE]), analysis of 10 cytokine soluble mediator biomarkers by immunoassay, plasma, individual components reported with an algorithmic risk score for current disease activity\n\n0447U* Autoimmune diseases (systemic lupus erythematosus [SLE]), analysis of 11 cytokine soluble mediator biomarkers by immunoassay, plasma, individual components reported with an algorithmic prognostic risk score for developing a clinical flare Proprietary test: aiSLE® DX Flare Risk Index Disease Activity Index\n\n0522U Carbonic anhydrase VI, parotid specific/secretory protein and salivary protein 1 (SP1), IgG, IgM, and IgA antibodies, chemiluminescence, semiqualitative, blood Proprietary test: Tissue Specific Markers for Early Diagnosis of Sjögren's Disease Lab/Manufacturer: KSL Diagnostics, Inc,\n\n*The payment criteria for 0312U, 0446U and 0447U applies to all Medicare jurisdictions, except those states awarded to CGS Administrators, LLC; Noridian Healthcare\n\nL36021 0312U 0446U 0447U\n\nL35160 0312U 0446U 0447U\n\nL35025 0312U 0446U 0447U\n\nInsurance Corp.\n\nL36807 0312U 0446U 0447U"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

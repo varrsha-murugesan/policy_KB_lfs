@@ -1,0 +1,293 @@
+{
+  "policy_title": "Acupuncture for Chronic Lower Back Pain",
+  "policy_number": "CP2021001",
+  "effective_date": "02/2021",
+  "published_date": "02/2021",
+  "revision_date": "10/2026",
+  "source_pdf": "Acupuncture_for_Chronic_Lower_Back_Pain_Revised-2919704a.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 3,
+  "table_count": 0,
+  "block_count": 18,
+  "CPT_CODES_USED": [
+    "10337",
+    "11755"
+  ],
+  "MODIFIERS_USED": [
+    "KX"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "10337",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "11755",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Overview",
+      "section": "Overview",
+      "subsection": null,
+      "hierarchy_path": "Overview",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "This policy establishes Humana's billing requirements and reimbursement guidelines, for 2022 and later, for the Medicare Part B benefit for acupuncture for chronic lower back pain (cLBP). Note: Some Humana Medicare Advantage (MA) plans have a supplemental benefit that covers acupuncture services that Original Medicare would not cover. This policy does not apply to services provided under one of those benefits.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana MA plans cover dry needling and acupuncture services under the acupuncture for cLBP benefit for the same diagnoses as Original Medicare. Except where noted below, providers must report acupuncture for cLBP services consistent with guidance in applicable Centers for Medicare & Medicaid Services (CMS) published transmittals and Internet-only Manuals. Except where noted below, Humana MA plans allow acupuncture for cLBP services consistent with the applicable CMS guidance for the date of service.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Practitioner Type",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Practitioner Type",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Practitioner Type",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "For dates of service on or after January 1, 2022, Humana MA plans' acupuncture for cLBP benefit is not limited to services provided only by practitioner types that can provide services under Original Medicare's acupuncture coverage. Instead, Humana MA plans permit practitioners who satisfy all applicable acupuncture licensure and plan requirements, such as plan participation requirements, to submit claims for services for acupuncture for cLBP.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Number of Sessions",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Number of Sessions",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Number of Sessions",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Humana treats all services covered under the acupuncture for cLBP benefit furnished the same day as if they were furnished in one session. For 2022 and later, Humana MA plans cover up to 20 sessions per year. Therefore, Humana MA plans do not require providers to report modifier KX for charges for acupuncture visits 13 through 20 in any calendar year, despite CMS acupuncture billing guidance, for Original Medicare, about modifier KX billing. Note: For 2022 through 2025, the 20-session limitation does not apply to services rendered by the patient's primary care provider (PCP). For 2026 and 2027, whether the 20-session limitation applies to services rendered by the patient's PCP varies by plan as follows:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Number of Sessions",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Number of Sessions",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Number of Sessions",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "For Humana Group MA plans, the 20-session limitation does not apply to services rendered by the patient's PCP.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Number of Sessions",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Number of Sessions",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Number of Sessions",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "For Humana Individual MA plans, the 20-session limitation does apply to services rendered by the patient's PCP.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Additional Resources",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Additional Resources",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Additional Resources",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Humana's Making it Easier web-based training series is a library of topics designed to make it easier for you to do business with Humana. The series includes videos on topics such as Application of Medicare NCD/LCD Guidelines, Humana's Approach to Code Editing, and Tools and Resources for Physicians and Other Healthcare Providers.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Modifier KX: Requirements specified in the medical policy have been met.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Centers for Medicare & Medicaid Services website. Transmittal 10337, Change Request 11755 - National Coverage Determination (NCD30.3.3): Acupuncture for Chronic Low Back Pain (cLBP). www.cms.gov.",
+      "codes": [
+        "10337",
+        "11755"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Centers for Medicare & Medicaid Services website. MLN Matters® Number: MM13288. www.cms.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Centers for Medicare & Medicaid Services website. MLN Matters® Number: MM11755 Revised. www.cms.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Centers for Medicare & Medicaid Services website. National Coverage Determination (NCD) Article: Acupuncture for Chronic Lower Back Pain (cLBP) (30.3.3). www.cms.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Availity - Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Claims processing edit notifications - Alerts of upcoming claims payment changes are posted on the first Friday of each month.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Claims resources - Providers can find information on referrals, authorizations, electronic claim submissions and more.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Making it easier - This page contains an educational series for providers and healthcare professionals.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Medical and pharmacy coverage policies - Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Publications - This page can help you find our quarterly newsletter, provider manual and other resources to help you do business with us. Note: Links to sources outside of Humana's control are verified at the time of publication. Please report broken links.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana MA plans cover dry needling and acupuncture services under the acupuncture for cLBP benefit for the same diagnoses as Original Medicare. Except where noted below, providers must report acupuncture for cLBP services consistent with guidance in applicable Centers for Medicare & Medicaid Services (CMS) published transmittals and Internet-only Manuals. Except where noted below, Humana MA plans allow acupuncture for cLBP services consistent with the applicable CMS guidance for the date of service.\n\nFor dates of service on or after January 1, 2022, Humana MA plans' acupuncture for cLBP benefit is not limited to services provided only by practitioner types that can provide services under Original Medicare's acupuncture coverage. Instead, Humana MA plans permit practitioners who satisfy all applicable acupuncture licensure and plan requirements, such as plan participation requirements, to submit claims for services for acupuncture for cLBP.\n\nHumana treats all services covered under the acupuncture for cLBP benefit furnished the same day as if they were furnished in one session. For 2022 and later, Humana MA plans cover up to 20 sessions per year. Therefore, Humana MA plans do not require providers to report modifier KX for charges for acupuncture visits 13 through 20 in any calendar year, despite CMS acupuncture billing guidance, for Original Medicare, about modifier KX billing. Note: For 2022 through 2025, the 20-session limitation does not apply to services rendered by the patient's primary care provider (PCP). For 2026 and 2027, whether the 20-session limitation applies to services rendered by the patient's PCP varies by plan as follows:\n\nFor Humana Group MA plans, the 20-session limitation does not apply to services rendered by the patient's PCP.\n\nFor Humana Individual MA plans, the 20-session limitation does apply to services rendered by the patient's PCP.\n\nHumana's Making it Easier web-based training series is a library of topics designed to make it easier for you to do business with Humana. The series includes videos on topics such as Application of Medicare NCD/LCD Guidelines, Humana's Approach to Code Editing, and Tools and Resources for Physicians and Other Healthcare Providers.\n\nModifier KX: Requirements specified in the medical policy have been met."
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": "Modifier KX: Requirements specified in the medical policy have been met."
+  }
+}

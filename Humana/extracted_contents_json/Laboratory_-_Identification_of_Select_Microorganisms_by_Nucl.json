@@ -1,0 +1,738 @@
+{
+  "policy_title": "Laboratory - Identification of Select Microorganisms by",
+  "policy_number": "LAB2023045",
+  "effective_date": "07/2023",
+  "published_date": "07/2023",
+  "revision_date": "03/2026",
+  "source_pdf": "Laboratory_-_Identification_of_Select_Microorganisms_by_Nucleic_Probes-5d2c813f.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 3,
+  "table_count": 1,
+  "block_count": 22,
+  "CPT_CODES_USED": [
+    "87496",
+    "87497",
+    "87472",
+    "87485",
+    "87487",
+    "87495",
+    "87525",
+    "87526",
+    "87527",
+    "87531",
+    "87532",
+    "87540",
+    "87542",
+    "87580",
+    "87582",
+    "15406",
+    "00009"
+  ],
+  "MODIFIERS_USED": [
+    "26"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "87496",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87497",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87472",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87485",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87487",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87495",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87525",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87526",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87527",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87531",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87532",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87540",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87542",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87580",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "87582",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "15406",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00009",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Nucleic acid identification using direct probe testing for the following organisms IS NOT REIMBURSABLE:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Mycoplasma pneumoniae (CPT code 87580)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Mycoplasma pneumoniae (CPT code 87580)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Mycoplasma pneumoniae (CPT code 87580)",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Nucleic acid identification using amplified probe testing for the following organisms IS NOT REIMBURSABLE:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Herpes virus-6 (CPT code 87532)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Herpes virus-6 (CPT code 87532)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Herpes virus-6 (CPT code 87532)",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Nucleic acid identification using quantification testing for the following organisms IS NOT REIMBURSABLE:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Mycoplasma pneumoniae (CPT code 87582)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Mycoplasma pneumoniae (CPT code 87582)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Mycoplasma pneumoniae (CPT code 87582)",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Amplified probe testing for cytomegalovirus (CPT code 87496) IS NOT REIMBURSABLE when quantification testing for cytomegalovirus (CPT code 87497) is performed on the same date of service.",
+      "codes": [
+        "87496",
+        "87497"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code Description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code Description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code Description",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "87472 Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella quintana, quantification 87485 Infectious agent detection by nucleic acid (DNA or RNA); Chlamydia pneumoniae, direct probe technique 87487 Infectious agent detection by nucleic acid (DNA or RNA); Chlamydia pneumoniae, quantification 87495 Infectious agent detection by nucleic acid (DNA or RNA); cytomegalovirus, direct probe technique 87496 Infectious agent detection by nucleic acid (DNA or RNA); cytomegalovirus, amplified probe technique 87497 Infectious agent detection by nucleic acid (DNA or RNA); cytomegalovirus, quantification 87525 Infectious agent detection by nucleic acid (DNA or RNA); hepatitis G, direct probe technique 87526 Infectious agent detection by nucleic acid (DNA or RNA); hepatitis G, amplified probe technique 87527 Infectious agent detection by nucleic acid (DNA or RNA); hepatitis G, quantification 87531 Infectious agent detection by nucleic acid (DNA or RNA); Herpes virus-6, direct probe technique 87532 Infectious agent detection by nucleic acid (DNA or RNA); Herpes virus-6, amplified probe technique 87540 Infectious agent detection by nucleic acid (DNA or RNA); Legionella pneumophila, direct probe technique 87542 Infectious agent detection by nucleic acid (DNA or RNA); Legionella pneumophila, quantification 87580 Infectious agent detection by nucleic acid (DNA or RNA); Mycoplasma pneumoniae, direct probe technique 87582 Infectious agent detection by nucleic acid (DNA or RNA); Mycoplasma pneumoniae, quantification",
+      "codes": [
+        "87472",
+        "87485",
+        "87487",
+        "87495",
+        "87496",
+        "87497",
+        "87525",
+        "87526",
+        "87527",
+        "87531",
+        "87532",
+        "87540",
+        "87542",
+        "87580",
+        "87582"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "AAP Committee on Infectious Diseases. (2018). Red Book® 2018. CDC. Clinical Guidance for Bartonella henselae. Updated May 15, 2024. https://www.cdc.gov/bartonella/hcp/bartonella-henselae/ CDC. Clinical Testing and Diagnosis for CDI. Updated March 6, 2024. https://www.cdc.gov/c-diff/hcp/diagnosis-testing/ CDC. Diagnostic Testing for RSV. Updated August 30, 2024. https://www.cdc.gov/rsv/hcp/clinical-overview/diagnostic-testing.html CDC. Identification of Candida auris. Updated June 27, 2024. https://www.cdc.gov/candida-auris/hcp/laboratories/identification-of c-auris.html CDC. Laboratory Testing for Chlamydia pneumoniae. Updated January 30, 2024. https://www.cdc.gov/cpneumoniae/php/laboratories CDC. Laboratory Testing for CMV and Congenital CMV. Updated April 15, 2024. https://www.cdc.gov/cytomegalovirus/php/laboratories/index.html CDC. Laboratory Testing for Legionella. Updated January 29, 2024. https://www.cdc.gov/legionella/php/laboratories CDC. Laboratory Testing for Methicillin (oxacillin)-resistant Staphylococcus aureus (MRSA). Updated April 12, 2024.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Please see the disclaimer on the first page. Page 3 of 3",
+      "section": "References",
+      "subsection": "Please see the disclaimer on the first page. Page 3 of 3",
+      "hierarchy_path": "References > Please see the disclaimer on the first page. Page 3 of 3",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "https://www.cdc.gov/mrsa/php/laboratories/index.html CDC. Laboratory Testing for Mycoplasma pneumoniae. Updated December 27, 2023. https://www.cdc.gov/mycoplasma/php/laboratories CDC. Laboratory Testing for Non-Polio Enterovirus. Updated April 16, 2024. https://www.cdc.gov/non-polio enterovirus/php/laboratories/index.html CDC. Mpox Case Definitions. Updated September 12, 2024. https://www.cdc.gov/mpox/hcp/case-definitions/ CDC. Mpox Clinical Testing. Updated August 27, 2024. https://www.cdc.gov/mpox/hcp/diagnosis-testing/ ECDC. Interim advice on Risk Communication and Community Engagement during the monkeypox outbreak in Europe, 2022. (2022). https://www.ecdc.europa.eu/sites/default/files/documents/Joint-ECDC-WHO-interim-advice-on-RCCE-for-Monkeypox-2-June 2022.pdf ECDC. Risk assessment: Monkeypox multi-country outbreak. (2022). https://www.ecdc.europa.eu/en/publications-data/risk-assessment-monkeypox-multi-country-outbreak FDA. Nucleic Acid Based Tests. Updated March 05. https://www.fda.gov/medical-devices/vitro-diagnostics/nucleic-acid-based-tests HHV-6 Foundation. Overview on Testing for HHV-6 infection. (2024). Khan, A. (2014). Rapid advances in nucleic acid technologies for detection and diagnostics of pathogens. J Microbiol Exp, 1(2). https://doi.org/10.15406/jmen.2014.01.00009 Miller, J. M., Binnicker, M. J., Campbell, S., et al. (2018). A guide to utilization of the microbiology laboratory for diagnosis of infectious diseases: 2018 update. Clinical Infectious Diseases, ciy381. https://doi.org/10.1093/cid/ciy381 Miller, J. M., Binnicker, M. J., Campbell, S., et al. (2024). Guide to utilization of the microbiology laboratory for diagnosis of infectious diseases: 2024 update. Clinical Infectious Diseases. https://doi.org/10.1093/cid/ciae104 Mothershed, E. A., & Whitney, A. M. (2006). Nucleic acid-based methods for the detection of bacterial pathogens. Clinica Chimica Acta, 363(1-2), 206-220. https://doi.org/10.1016/j.cccn.2005.05.050 UKHSA. Monkeypox: Diagnostic testing. Updated April 4. https://www.gov.uk/guidance/monkeypox-diagnostic-testing WHO. Monkeypox. Updated August 26, 2024. https://www.who.int/news-room/fact-sheets/detail/mpox",
+      "codes": [
+        "15406",
+        "00009"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87472: 87485 | Procedure Code:  | Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification: Infectious agent detection by nucleic acid (DNA or RNA); Chlamydia pneumoniae, direct probe\ntechnique | Code Description: ",
+      "codes": [
+        "87472",
+        "87485"
+      ],
+      "table_data": {
+        "columns": [
+          "87472",
+          "Procedure Code",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification",
+          "Code Description"
+        ],
+        "row": {
+          "87472": "87485",
+          "Procedure Code": "",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification": "Infectious agent detection by nucleic acid (DNA or RNA); Chlamydia pneumoniae, direct probe\ntechnique",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87472: 87487 | Procedure Code:  | Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification: Infectious agent detection by nucleic acid (DNA or RNA); Chlamydia pneumoniae, quantification | Code Description: ",
+      "codes": [
+        "87472",
+        "87487"
+      ],
+      "table_data": {
+        "columns": [
+          "87472",
+          "Procedure Code",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification",
+          "Code Description"
+        ],
+        "row": {
+          "87472": "87487",
+          "Procedure Code": "",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification": "Infectious agent detection by nucleic acid (DNA or RNA); Chlamydia pneumoniae, quantification",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87472: 87495 | Procedure Code:  | Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification: Infectious agent detection by nucleic acid (DNA or RNA); cytomegalovirus, direct probe technique | Code Description: ",
+      "codes": [
+        "87472",
+        "87495"
+      ],
+      "table_data": {
+        "columns": [
+          "87472",
+          "Procedure Code",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification",
+          "Code Description"
+        ],
+        "row": {
+          "87472": "87495",
+          "Procedure Code": "",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification": "Infectious agent detection by nucleic acid (DNA or RNA); cytomegalovirus, direct probe technique",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87472: 87496 | Procedure Code:  | Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification: Infectious agent detection by nucleic acid (DNA or RNA); cytomegalovirus, amplified probe\ntechnique | Code Description: ",
+      "codes": [
+        "87472",
+        "87496"
+      ],
+      "table_data": {
+        "columns": [
+          "87472",
+          "Procedure Code",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification",
+          "Code Description"
+        ],
+        "row": {
+          "87472": "87496",
+          "Procedure Code": "",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification": "Infectious agent detection by nucleic acid (DNA or RNA); cytomegalovirus, amplified probe\ntechnique",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87472: 87497 | Procedure Code:  | Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification: Infectious agent detection by nucleic acid (DNA or RNA); cytomegalovirus, quantification | Code Description: ",
+      "codes": [
+        "87472",
+        "87497"
+      ],
+      "table_data": {
+        "columns": [
+          "87472",
+          "Procedure Code",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification",
+          "Code Description"
+        ],
+        "row": {
+          "87472": "87497",
+          "Procedure Code": "",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification": "Infectious agent detection by nucleic acid (DNA or RNA); cytomegalovirus, quantification",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87472: 87525 | Procedure Code:  | Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification: Infectious agent detection by nucleic acid (DNA or RNA); hepatitis G, direct probe technique | Code Description: ",
+      "codes": [
+        "87472",
+        "87525"
+      ],
+      "table_data": {
+        "columns": [
+          "87472",
+          "Procedure Code",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification",
+          "Code Description"
+        ],
+        "row": {
+          "87472": "87525",
+          "Procedure Code": "",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification": "Infectious agent detection by nucleic acid (DNA or RNA); hepatitis G, direct probe technique",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87472: 87526 | Procedure Code:  | Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification: Infectious agent detection by nucleic acid (DNA or RNA); hepatitis G, amplified probe technique | Code Description: ",
+      "codes": [
+        "87472",
+        "87526"
+      ],
+      "table_data": {
+        "columns": [
+          "87472",
+          "Procedure Code",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification",
+          "Code Description"
+        ],
+        "row": {
+          "87472": "87526",
+          "Procedure Code": "",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification": "Infectious agent detection by nucleic acid (DNA or RNA); hepatitis G, amplified probe technique",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87472: 87527 | Procedure Code:  | Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification: Infectious agent detection by nucleic acid (DNA or RNA); hepatitis G, quantification | Code Description: ",
+      "codes": [
+        "87472",
+        "87527"
+      ],
+      "table_data": {
+        "columns": [
+          "87472",
+          "Procedure Code",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification",
+          "Code Description"
+        ],
+        "row": {
+          "87472": "87527",
+          "Procedure Code": "",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification": "Infectious agent detection by nucleic acid (DNA or RNA); hepatitis G, quantification",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87472: 87531 | Procedure Code:  | Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification: Infectious agent detection by nucleic acid (DNA or RNA); Herpes virus-6, direct probe technique | Code Description: ",
+      "codes": [
+        "87472",
+        "87531"
+      ],
+      "table_data": {
+        "columns": [
+          "87472",
+          "Procedure Code",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification",
+          "Code Description"
+        ],
+        "row": {
+          "87472": "87531",
+          "Procedure Code": "",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification": "Infectious agent detection by nucleic acid (DNA or RNA); Herpes virus-6, direct probe technique",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87472: 87532 | Procedure Code:  | Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification: Infectious agent detection by nucleic acid (DNA or RNA); Herpes virus-6, amplified probe\ntechnique | Code Description: ",
+      "codes": [
+        "87472",
+        "87532"
+      ],
+      "table_data": {
+        "columns": [
+          "87472",
+          "Procedure Code",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification",
+          "Code Description"
+        ],
+        "row": {
+          "87472": "87532",
+          "Procedure Code": "",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification": "Infectious agent detection by nucleic acid (DNA or RNA); Herpes virus-6, amplified probe\ntechnique",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87472: 87540 | Procedure Code:  | Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification: Infectious agent detection by nucleic acid (DNA or RNA); Legionella pneumophila, direct probe\ntechnique | Code Description: ",
+      "codes": [
+        "87472",
+        "87540"
+      ],
+      "table_data": {
+        "columns": [
+          "87472",
+          "Procedure Code",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification",
+          "Code Description"
+        ],
+        "row": {
+          "87472": "87540",
+          "Procedure Code": "",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification": "Infectious agent detection by nucleic acid (DNA or RNA); Legionella pneumophila, direct probe\ntechnique",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87472: 87542 | Procedure Code:  | Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification: Infectious agent detection by nucleic acid (DNA or RNA); Legionella pneumophila, quantification | Code Description: ",
+      "codes": [
+        "87472",
+        "87542"
+      ],
+      "table_data": {
+        "columns": [
+          "87472",
+          "Procedure Code",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification",
+          "Code Description"
+        ],
+        "row": {
+          "87472": "87542",
+          "Procedure Code": "",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification": "Infectious agent detection by nucleic acid (DNA or RNA); Legionella pneumophila, quantification",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87472: 87580 | Procedure Code:  | Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification: Infectious agent detection by nucleic acid (DNA or RNA); Mycoplasma pneumoniae, direct probe\ntechnique | Code Description: ",
+      "codes": [
+        "87472",
+        "87580"
+      ],
+      "table_data": {
+        "columns": [
+          "87472",
+          "Procedure Code",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification",
+          "Code Description"
+        ],
+        "row": {
+          "87472": "87580",
+          "Procedure Code": "",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification": "Infectious agent detection by nucleic acid (DNA or RNA); Mycoplasma pneumoniae, direct probe\ntechnique",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 87472: 87582 | Procedure Code:  | Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification: Infectious agent detection by nucleic acid (DNA or RNA); Mycoplasma pneumoniae, quantification | Code Description: ",
+      "codes": [
+        "87472",
+        "87582"
+      ],
+      "table_data": {
+        "columns": [
+          "87472",
+          "Procedure Code",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification",
+          "Code Description"
+        ],
+        "row": {
+          "87472": "87582",
+          "Procedure Code": "",
+          "Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella\nquintana, quantification": "Infectious agent detection by nucleic acid (DNA or RNA); Mycoplasma pneumoniae, quantification",
+          "Code Description": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to this policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nNucleic acid identification using direct probe testing for the following organisms IS NOT REIMBURSABLE:\n\nNucleic acid identification using amplified probe testing for the following organisms IS NOT REIMBURSABLE:\n\nNucleic acid identification using quantification testing for the following organisms IS NOT REIMBURSABLE:\n\nAmplified probe testing for cytomegalovirus (CPT code 87496) IS NOT REIMBURSABLE when quantification testing for cytomegalovirus (CPT code 87497) is performed on the same date of service.\n\n87472 Infectious agent detection by nucleic acid (DNA or RNA); Bartonella henselae and Bartonella quintana, quantification 87485 Infectious agent detection by nucleic acid (DNA or RNA); Chlamydia pneumoniae, direct probe technique 87487 Infectious agent detection by nucleic acid (DNA or RNA); Chlamydia pneumoniae, quantification 87495 Infectious agent detection by nucleic acid (DNA or RNA); cytomegalovirus, direct probe technique 87496 Infectious agent detection by nucleic acid (DNA or RNA); cytomegalovirus, amplified probe technique 87497 Infectious agent detection by nucleic acid (DNA or RNA); cytomegalovirus, quantification 87525 Infectious agent detection by nucleic acid (DNA or RNA); hepatitis G, direct probe technique 87526 Infectious agent detection by nucleic acid (DNA or RNA); hepatitis G, amplified probe technique 87527 Infectious agent detection by nucleic acid (DNA or RNA); hepatitis G, quantification 87531 Infectious agent detection by nucleic acid (DNA or RNA); Herpes virus-6, direct probe technique 87532 Infectious agent detection by nucleic acid (DNA or RNA); Herpes virus-6, amplified probe technique 87540 Infectious agent detection by nucleic acid (DNA or RNA); Legionella pneumophila, direct probe technique 87542 Infectious agent detection by nucleic acid (DNA or RNA); Legionella pneumophila, quantification 87580 Infectious agent detection by nucleic acid (DNA or RNA); Mycoplasma pneumoniae, direct probe technique 87582 Infectious agent detection by nucleic acid (DNA or RNA); Mycoplasma pneumoniae, quantification"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

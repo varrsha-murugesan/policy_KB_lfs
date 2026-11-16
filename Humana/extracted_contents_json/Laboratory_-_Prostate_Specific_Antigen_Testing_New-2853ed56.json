@@ -1,0 +1,320 @@
+{
+  "policy_title": "Laboratory - Prostate Specific Antigen (PSA) Testing",
+  "policy_number": "LAB2026006",
+  "effective_date": "10/2026",
+  "published_date": "10/2026",
+  "revision_date": null,
+  "source_pdf": "Laboratory_-_Prostate_Specific_Antigen_Testing_New-2853ed56.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 3,
+  "table_count": 1,
+  "block_count": 14,
+  "CPT_CODES_USED": [
+    "84154",
+    "84152",
+    "14315",
+    "29538",
+    "00633"
+  ],
+  "MODIFIERS_USED": [
+    "26",
+    "22",
+    "LM",
+    "KS",
+    "MS",
+    "AM",
+    "57",
+    "SL",
+    "LC",
+    "JC",
+    "25",
+    "KC",
+    "SJ",
+    "JD",
+    "JL",
+    "TD",
+    "GS",
+    "55",
+    "US",
+    "CR",
+    "80",
+    "TJ"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "84154",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "84152",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "14315",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "29538",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "00633",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "For elevated total prostate specific antigen (PSA), measurement of percent free PSA (CPT code 84154), no more than one test every six months, IS REIMBURSABLE.",
+      "codes": [
+        "84154"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "For all other situations, percent free PSA (CPT code 84154) IS NOT REIMBURSABLE.",
+      "codes": [
+        "84154"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Complex PSA testing (CPT code 84152) IS NOT REIMBURSABLE.",
+      "codes": [
+        "84152"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "84152",
+      "codes": [
+        "84152"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Prostate specific antigen (PSA); complex (direct measurement)",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Prostate specific antigen (PSA); complex (direct measurement)",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Prostate specific antigen (PSA); complex (direct measurement)",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "84154",
+      "codes": [
+        "84154"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "AACU. Genomic testing in prostate cancer. 2018. https://aacuweb.org/wp-content/uploads/2022/02/Position-Statement-Tissue- based-genetic-testing-in-prostate-cancer-Endorsement-02-26-18.pdf AAFP. Counseling Patients About Prostate Cancer Screening. Am Fam Physician. 2018;98(8):478-483. https://www.aafp.org/afp/2018/1015/p478.html AAFP. Screening for Prostate Cancer: Recommendation Statement. Am Fam Physician. 2018;98(8):Online. https://www.aafp.org/pubs/afp/issues/2018/1015/od1.html ACS. American Cancer Society Recommendations for Prostate Cancer Early Detection. Updated November 22, 2023. https://www.cancer.org/cancer/types/prostate-cancer/detection-diagnosis-staging/acs-recommendations.html ACS. Key Statistics for Prostate Cancer. Updated January 16, 2025. https://www.cancer.org/cancer/types/prostate- cancer/about/key-statistics.html ACS. Signs and Symptoms of Prostate Cancer. Updated November 22, 2023. https://www.cancer.org/cancer/prostate- cancer/detection-diagnosis-staging/signs-symptoms.html ACS. Survival Rates for Prostate Cancer. Updated January 17, 2025. https://www.cancer.org/cancer/prostate-cancer/detection- diagnosis-staging/survival-rates.html Ahlering T, Huynh LM, Kaler KS, et al. Unintended consequences of decreased PSA-based prostate cancer screening. World J Urol.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Mar 2019;37(3):489-496. doi:10.1007/s00345-018-2407-3",
+      "section": "References",
+      "subsection": "Mar 2019;37(3):489-496. doi:10.1007/s00345-018-2407-3",
+      "hierarchy_path": "References > Mar 2019;37(3):489-496. doi:10.1007/s00345-018-2407-3",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Baniak N, Sholl LM, Mata DA, D'Amico AV, Hirsch MS, Acosta AM. Clinicopathologic and Molecular Characteristics of Prostate Cancer Diagnosed in Young Men Aged up to 45 Years. Histopathology. Dec 11 2020;doi:10.1111/his.14315 Bell KJ, Del Mar C, Wright G, Dickinson J, Glasziou P. Prevalence of incidental prostate cancer: A systematic review of autopsy studies. International journal of cancer. Oct 01 2015;137(7):1749-57. doi:10.1002/ijc.29538 Brawley S, Mohan R, Nein C. Localized Prostate Cancer: Treatment Options. American Family Physician. 2018;97(12):798-805. https://www.aafp.org/pubs/afp/issues/2018/0615/p798.html CDC. Should I Get Screened for Prostate Cancer? Updated February 11, 2025. https://www.cdc.gov/prostate-cancer/screening/get- screened.html CDC. U.S. Cancer Statistics Data Visualizations Tool. Updated June 2025. https://gis.cdc.gov/Cancer/USCS/#/AtAGlance/ Chang SL, Harshman LC, Presti JC, Jr. Impact of common medications on serum total prostate-specific antigen levels: analysis of the National Health and Nutrition Examination Survey. Journal of clinical oncology : official journal of the American Society of Clinical Oncology. Sep 1 2010;28(25):3951-7. doi:10.1200/jco.2009.27.9406 Coban S, Doluoglu OG, Keles I, et al. Age and total and free prostate-specific antigen levels for predicting prostate volume in patients with benign prostatic hyperplasia. Aging Male. Jun 2016;19(2):124-7. doi:10.3109/13685538.2015.1131260 Cornford P, van den Bergh RCN, Briers E, et al. EAU-EANM-ESTRO-ESUR-ISUP-SIOG Guidelines on Prostate Cancer-2024 Update. Part I: Screening, Diagnosis, and Local Treatment with Curative Intent. Eur Urol. Aug 2024;86(2):148-163. doi:10.1016/j.eururo.2024.03.027 FDA. Access Hybritech p2PSA on the Access Immunoassay Systems. https://www.accessdata.fda.gov/cdrh_docs/pdf9/P090026B.pdf FDA. TANDEM-R PSA IMMUNORADIOMETRIC ASSAY. https://www.accessdata.fda.gov/scripts/cdrh/devicesatfda/index.cfm?db=pma&id=319006 Fisher KW, Montironi R, Lopez Beltran A, et al. Molecular foundations for personalized therapy in prostate cancer. Current drug targets. 2015;16(2):103-14. doi:10.2174/1389450115666141229154500 Fleshner K, Carlsson SV, Roobol MJ. The effect of the USPSTF PSA screening recommendation on prostate cancer incidence patterns in the USA. Nature reviews Urology. Jan 2017;14(1):26-37. doi:10.1038/nrurol.2016.251 Freedland S. Measurement of prostate-specific antigen. Updated May 30, 2025. https://www.uptodate.com/contents/measurement-of-prostate-specific-antigen Hamilton RJ, Goldberg KC, Platz EA, Freedland SJ. The influence of statin medications on prostate-specific antigen levels. Journal of the National Cancer Institute. Nov 5 2008;100(21):1511-8. doi:10.1093/jnci/djn362 Ilic D, Djulbegovic M, Jung JH, et al. Prostate cancer screening with prostate-specific antigen (PSA) test: a systematic review and meta-analysis. Bmj. Sep 5 2018;362:k3519. doi:10.1136/bmj.k3519 Lowrance WT, Breau RH, Chou R, et al. Advanced Prostate Cancer: AUA/ASTRO/SUO Guideline PART I. J Urol. Jan 2021;205(1):14-21. doi:10.1097/ju.0000000000001375 Magnani CJ, Bievre N, Baker LC, Brooks JD, Blayney DW, Hernandez-Boussard T. Real-world Evidence to Estimate Prostate Cancer Costs for First-line Treatment or Active Surveillance. Eur Urol Open Sci. Jan 2021;23:20-29. doi:10.1016/j.euros.2020.11.004 Martin RM, Donovan JL, Turner EL, et al. Effect of a Low-Intensity PSA-Based Screening Intervention on Prostate Cancer Mortality: The CAP Randomized Clinical Trial. Jama. Mar 6 2018;319(9):883-895. doi:10.1001/jama.2018.0154 Memorial Sloan Kettering Cancer Center. Prostate Cancer Screening Guidelines. https://www.mskcc.org/cancer- care/types/prostate/screening/screening-guidelines-prostate NCCN. NCCN Clinical Practice Guidelines in Oncology: Prostate Cancer Version 4.2026. Updated December 4, 2025. https://www.nccn.org/professionals/physician_gls/pdf/prostate.pdf NCCN. Prostate Cancer Early Detection Version 1.2026. Updated November 25, 2025. https://www.nccn.org/professionals/physician_gls/pdf/prostate_detection.pdf NCI. Prostate Cancer Screening (PDQ®)-Health Professional Version. Updated April 8, 2025. https://www.cancer.gov/types/prostate/hp/prostate-screening-pdq NCI. Prostate-Specific Antigen (PSA) Test. Updated January 31, 2025. https://www.cancer.gov/types/prostate/psa-fact-sheet Osses DF, Remmers S, Schroder FH, van der Kwast T, Roobol MJ. Results of Prostate Cancer Screening in a Unique Cohort at 19yr of Follow-up. Eur Urol. Mar 2019;75(3):374-377. doi:10.1016/j.eururo.2018.10.053",
+      "codes": [
+        "14315",
+        "29538"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Mar 2019;37(3):489-496. doi:10.1007/s00345-018-2407-3",
+      "section": "References",
+      "subsection": "Mar 2019;37(3):489-496. doi:10.1007/s00345-018-2407-3",
+      "hierarchy_path": "References > Mar 2019;37(3):489-496. doi:10.1007/s00345-018-2407-3",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Parker C, on behalf of the EGC, Gillessen S, et al. Prostate cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. 2020;doi:10.1016/j.annonc.2020.06.011 Prcic A, Begic E, Hiros M. Actual Contribution of Free to Total PSA Ratio in Prostate Diseases Differentiation. Med Arch. Jul 27 2016;70(4):288-292. doi:10.5455/medarh.2016.70.288-292 Preston MA. Screening for prostate cancer. Updated February 23, 2026. https://www.uptodate.com/contents/screening-for- prostate-cancer Qaseem A, Barry MJ, Denberg TD, Owens DK, Shekelle P. Screening for prostate cancer: a guidance statement from the Clinical Guidelines Committee of the American College of Physicians. Ann Intern Med. May 21 2013;158(10):761-769. doi:10.7326/0003-4819-158-10-201305210-00633 Rodrigues DN, Butler LM, Estelles DL, de Bono JS. Molecular pathology and prostate cancer therapeutics: from biology to bedside. The Journal of pathology. Jan 2014;232(2):178-84. doi:10.1002/path.4272 Saini S. PSA and beyond: alternative prostate cancer biomarkers. Cell Oncol (Dordr). Apr 2016;39(2):97-106. doi:10.1007/s13402- 016-0268-6 Singer EA, Palapattu GS, van Wijngaarden E. Prostate-specific antigen levels in relation to consumption of nonsteroidal anti- inflammatory drugs and acetaminophen: results from the 2001-2002 National Health and Nutrition Examination Survey. Cancer.",
+      "codes": [
+        "00633"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Oct 15 2008;113(8):2053-7. doi:10.1002/cncr.23806",
+      "section": "References",
+      "subsection": "Oct 15 2008;113(8):2053-7. doi:10.1002/cncr.23806",
+      "hierarchy_path": "References > Oct 15 2008;113(8):2053-7. doi:10.1002/cncr.23806",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Stimac G, Spajic B, Reljic A, et al. Effect of histological inflammation on total and free serum prostate-specific antigen values in patients without clinically detectable prostate cancer. Korean journal of urology. Aug 2014;55(8):527-32. doi:10.4111/kju.2014.55.8.527 USPSTF. Draft Recommendation Statement: Prostate Cancer: Screening - US Preventive Services Task Force. Updated May 8, 2018. https://www.uspreventiveservicestaskforce.org/Page/Document/draft-recommendation-statement/prostate-cancer-screening Van Poppel H, Roobol MJ, Chapple CR, et al. Prostate-specific Antigen Testing as Part of a Risk-Adapted Early Detection Strategy for Prostate Cancer: European Association of Urology Position and Recommendations for 2021. European Urology. 2021;80(6):703-",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Oct 15 2008;113(8):2053-7. doi:10.1002/cncr.23806",
+      "section": "References",
+      "subsection": "Oct 15 2008;113(8):2053-7. doi:10.1002/cncr.23806",
+      "hierarchy_path": "References > Oct 15 2008;113(8):2053-7. doi:10.1002/cncr.23806",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "711. doi:10.1016/j.eururo.2021.07.024",
+      "codes": [],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Oct 15 2008;113(8):2053-7. doi:10.1002/cncr.23806",
+      "section": "References",
+      "subsection": "Oct 15 2008;113(8):2053-7. doi:10.1002/cncr.23806",
+      "hierarchy_path": "References > Oct 15 2008;113(8):2053-7. doi:10.1002/cncr.23806",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Wang LG, Liu XM, Kreis W, Budman DR. Down-regulation of prostate-specific antigen expression by finasteride through inhibition of complex formation between androgen receptor and steroid receptor-binding consensus in the promoter of the PSA gene in LNCaP cells. Cancer research. 1997;57(4):714-9. https://pubmed.ncbi.nlm.nih.gov/9044850/ Wei JT, Barocas D, Carlsson S, et al. Early Detection of Prostate Cancer: AUA/SUO Guideline Part I: Prostate Cancer Screening. J Urol.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Jul 2023;210(1):46-53. doi:10.1097/ju.0000000000003491",
+      "section": "References",
+      "subsection": "Jul 2023;210(1):46-53. doi:10.1097/ju.0000000000003491",
+      "hierarchy_path": "References > Jul 2023;210(1):46-53. doi:10.1097/ju.0000000000003491",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Wilt TJ, Harris RP, Qaseem A. Screening for cancer: advice for high-value care from the American College of Physicians. Ann Intern",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "[Applicable Procedure and Service Codes] 84152: 84154 | Procedure code:  | Prostate specific antigen (PSA); complex (direct measurement): Prostate specific antigen (PSA); free | Code description: ",
+      "codes": [
+        "84152",
+        "84154"
+      ],
+      "table_data": {
+        "columns": [
+          "84152",
+          "Procedure code",
+          "Prostate specific antigen (PSA); complex (direct measurement)",
+          "Code description"
+        ],
+        "row": {
+          "84152": "84154",
+          "Procedure code": "",
+          "Prostate specific antigen (PSA); complex (direct measurement)": "Prostate specific antigen (PSA); free",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nFor elevated total prostate specific antigen (PSA), measurement of percent free PSA (CPT code 84154), no more than one test every six months, IS REIMBURSABLE.\n\nFor all other situations, percent free PSA (CPT code 84154) IS NOT REIMBURSABLE.\n\nComplex PSA testing (CPT code 84152) IS NOT REIMBURSABLE.\n\n84152\n\n84154"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

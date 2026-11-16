@@ -1,0 +1,1739 @@
+{
+  "policy_title": "Laboratory - Allergen Testing",
+  "policy_number": "LAB2023008",
+  "effective_date": "04/2023",
+  "published_date": "04/2023",
+  "revision_date": "11/2026",
+  "source_pdf": "Laboratory_-_Allergen_Testing_Revised-b92d07f0.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 7,
+  "table_count": 2,
+  "block_count": 67,
+  "CPT_CODES_USED": [
+    "86003",
+    "86008",
+    "82785",
+    "83516",
+    "82784",
+    "82787",
+    "86001",
+    "88184",
+    "88185",
+    "0165U",
+    "0178U",
+    "86005",
+    "60305",
+    "12270",
+    "23078",
+    "13854",
+    "22302",
+    "12698",
+    "12412",
+    "03239",
+    "S0889",
+    "70206",
+    "61034",
+    "70314",
+    "12964",
+    "13138",
+    "12333",
+    "14905",
+    "02805"
+  ],
+  "MODIFIERS_USED": [
+    "95",
+    "GW",
+    "GA",
+    "TM",
+    "JA",
+    "81",
+    "MS",
+    "54",
+    "LM",
+    "25",
+    "91",
+    "90",
+    "FR",
+    "SH",
+    "PN",
+    "77",
+    "HJ",
+    "CA",
+    "RA",
+    "22",
+    "HS",
+    "HA",
+    "SA",
+    "52",
+    "SL",
+    "SM",
+    "76",
+    "93",
+    "PS",
+    "SF",
+    "53",
+    "LT",
+    "55"
+  ],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "86003",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86008",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82785",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "83516",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82784",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "82787",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86001",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "88184",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "88185",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0165U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "0178U",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "86005",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "60305",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "12270",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "23078",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "13854",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "22302",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "12698",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "12412",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "03239",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "S0889",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "70206",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "61034",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "70314",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "12964",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "13138",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "12333",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "14905",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "02805",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Specific immunoglobulin E (IgE) in-vitro allergy testing (CPT code 86003***, CPT code 86008****), up to 20 allergen specific antibodies per year, IS REIMBURSABLE for any of the following conditions:",
+      "codes": [
+        "86003",
+        "86008"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Urticaria",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Urticaria",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Urticaria",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "In-vitro testing for total serum IgE (CPT code 82785*) IS REIMBURSABLE for any of the following conditions:",
+      "codes": [
+        "82785"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Wheezing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Wheezing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Wheezing",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "The antigen leukocyte antibody test (e.g., ALCAT) (CPT code 83516) IS NOT REIMBURSABLE for the following conditions:",
+      "codes": [
+        "83516"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Wheezing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Wheezing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Wheezing",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Adverse effect of other drugs, medicaments, and biological substances",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Encounter for allergy testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Encounter for allergy testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Encounter for allergy testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "In-vitro testing of allergen specific IgG or non-specific IgG, IgA, IgM, and IgD in the evaluation of suspected allergy (CPT code 82784, CPT code 82787, CPT code 86001**) IS NOT REIMBURSABLE. for the following conditions:",
+      "codes": [
+        "82784",
+        "82787",
+        "86001"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Encounter for allergy testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Encounter for allergy testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Encounter for allergy testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Adverse effect of other drugs, medicaments, and biological substances",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Encounter for allergy testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Encounter for allergy testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Encounter for allergy testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Basophil activation flow cytometry testing (BAT) for measuring hypersensitivity to allergens (CPT code 88184*^, CPT code 88185*^) IS NOT REIMBURSABLE.",
+      "codes": [
+        "88184",
+        "88185"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Encounter for allergy testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Encounter for allergy testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Encounter for allergy testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "In-vitro allergen testing using bead-based epitope assays (e.g., VeriMAP Peanut Dx) (CPT code 0165U*^^, CPT code 0178U*^^) IS NOT REIMBURSABLE.",
+      "codes": [
+        "0165U",
+        "0178U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Encounter for allergy testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Encounter for allergy testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Encounter for allergy testing",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "In-vitro testing of allergen non-specific IgE that does not identify a specific allergen using qualitative multi-allergen screen (CPT code 86005***) IS NOT REIMBURSABLE.",
+      "codes": [
+        "86005"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Code description",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Code description",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Code description",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82784",
+      "codes": [
+        "82784"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82785*",
+      "codes": [
+        "82785"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Gammaglobulin (immunoglobulin); IgE",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Gammaglobulin (immunoglobulin); IgE",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Gammaglobulin (immunoglobulin); IgE",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "82787 Gammaglobulin (immunoglobulin); immunoglobulin subclasses (eg, IgG1, 2, 3, or 4), each 83516 Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; qualitative or semiquantitative, multiple step method 86001** Allergen specific IgG quantitative or semiquantitative, each allergen 86003*** Allergen specific IgE; quantitative or semiquantitative, crude allergen extract, each 86005*** Allergen specific IgE; qualitative, multiallergen screen (eg, disk, sponge, card) 86008**** Allergen specific IgE; quantitative or semiquantitative, recombinant or purified component, each 88184*^ Flow cytometry, cell surface, cytoplasmic, or nuclear marker, technical component only; first marker 88185*^ Flow cytometry, cell surface, cytoplasmic, or nuclear marker, technical component only; each additional marker (List separately in addition to code for first marker) 0165U*^^ Peanut allergen-specific quantitative assessment of multiple epitopes using enzyme-linked immunosorbent assay (ELISA), blood, individual epitope results and probability of peanut allergy",
+      "codes": [
+        "82787",
+        "83516",
+        "86001",
+        "86003",
+        "86005",
+        "86008",
+        "88184",
+        "88185",
+        "0165U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "0178U*^^ Peanut allergen-specific quantitative assessment of multiple epitopes using enzyme-linked immunosorbent assay (ELISA), blood, report of minimum eliciting exposure for a clinical reaction Proprietary test: VeriMAPTM Peanut Sensitivity - Peanut Reactivity Threshold-Bead Based Epitope Assay",
+      "codes": [
+        "0178U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "* The payment criterion for 82785 applies to all Medicare jurisdictions, except those states awarded to First Coast Service Options, Inc., Novitas Solutions, Inc., and",
+      "codes": [
+        "82785"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Wisconsin Physicians Service Insurance Corporation.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "** The payment criteria for 86001 apply to all Medicare jurisdictions, except those states awarded to CGS Administrators, First Coast Service Options, Inc., LLC,",
+      "codes": [
+        "86001"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "National Government Services, Inc., Novitas Solutions, Inc., and Wisconsin Physicians Service Insurance Corporation.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "*** The payment criteria for 86003 and 86005 apply to all Medicare jurisdictions, except those states awarded to CGS Administrators, LLC, First Coast Service Options,",
+      "codes": [
+        "86003",
+        "86005"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Inc., National Government Services, Inc., Noridian Healthcare Solutions, LLC, Novitas Solutions, Inc., and Wisconsin Physicians Service Insurance Corporation.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "****The payment criterion for 86008 applies to all Medicare jurisdictions, except those states awarded to First Coast Service Options, Inc., LLC, National Government",
+      "codes": [
+        "86008"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Services, Inc., Novitas Solutions, Inc., and Wisconsin Physicians Service Insurance Corporation.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "*^The payment criteria for 88184 and 88185 apply to all Medicare jurisdictions, except those states awarded to CGS Administrators, LLC, First Coast Service Options,",
+      "codes": [
+        "88184",
+        "88185"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Inc., Noridian Healthcare Solutions, LLC, Novitas Solutions, Inc., and Palmetto GBA.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "*^^The payment criteria for 0165U and 0178U apply to all Medicare jurisdictions, except those states awarded to First Coast Service Options, Inc., and Novitas",
+      "codes": [
+        "0165U",
+        "0178U"
+      ],
+      "table_data": null,
+      "content_type": "bullet_point"
+    },
+    {
+      "title": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab/Manufacturer: AllerGenisTM Clinical Laboratory",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Solutions, Inc.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Flow Cytometry",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Flow Cytometry",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Flow Cytometry",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L34037 88184 88185",
+      "codes": [
+        "88184",
+        "88185"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "RAST Type Tests",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "RAST Type Tests",
+      "hierarchy_path": "Medicare Advantage Payment Policy > RAST Type Tests",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L34063 86001 86003 86005 First Coast Service Options, Inc.",
+      "codes": [
+        "86001",
+        "86003",
+        "86005"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Allergy Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Allergy Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Allergy Testing",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L33261 82785 86001 86003 86005 860080165U 0178U",
+      "codes": [
+        "82785",
+        "86001",
+        "86003",
+        "86005",
+        "0178U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "National Government",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "National Government",
+      "hierarchy_path": "Medicare Advantage Payment Policy > National Government",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Services, Inc.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "RAST Type Tests",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "RAST Type Tests",
+      "hierarchy_path": "Medicare Advantage Payment Policy > RAST Type Tests",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L33591 86001 86003 86005 86008",
+      "codes": [
+        "86001",
+        "86003",
+        "86005",
+        "86008"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Allergy Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Allergy Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Allergy Testing",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L34313 86003 86005",
+      "codes": [
+        "86003",
+        "86005"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab: Flow Cytometry",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab: Flow Cytometry",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab: Flow Cytometry",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L34215 88184 88185 Novitas Solutions, Inc.",
+      "codes": [
+        "88184",
+        "88185"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Allergy Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Allergy Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Allergy Testing",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L36241 82785 86001 86003 86005 86008 0165U 0178U",
+      "codes": [
+        "82785",
+        "86001",
+        "86003",
+        "86005",
+        "86008",
+        "0165U",
+        "0178U"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Lab: Flow Cytometry",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Lab: Flow Cytometry",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Lab: Flow Cytometry",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L34513 88184 88185",
+      "codes": [
+        "88184",
+        "88185"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Allergy Testing",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Allergy Testing",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Allergy Testing",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "L36402 82785 86001 86003 86005 86008",
+      "codes": [
+        "82785",
+        "86001",
+        "86003",
+        "86005",
+        "86008"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "AAAAI. Allergy Testing. Updated November 13, 2023. https://www.aaaai.org/tools-for-the-public/conditions- library/allergies/allergy-testing AAAAI. Some Tests and Procedures Are Over or Misused to Diagnose and Treat Allergies, Asthma and Immunologic Disorders. Updated April 4, 2012. https://www.aaaai.org/Aaaai/media/MediaLibrary/PDF%20Documents/Media/Choosing-WiselyT.pdf AAP. Allergy Testing in Childhood: Using Allergen-Specific IgE Tests. https://pdfs.semanticscholar.org/51a4/dfa0a84e4dc8b0893529a6197bd9b94bdbfe.pdf Abrams EM, Chan ES, Sicherer S. Peanut Allergy: New Advances and Ongoing Controversies. Pediatrics. 2020;145(5):e20192102. doi:10.1542/peds.2019-2102 Adams PF, Kirzinger WK, Martinez M. Summary health statistics for the U.S. population: National Health Interview Survey, 2012. Vital and health statistics Series 10, Data from the National Health Survey. Dec 2013;(259):1-95 Ansotegui, Melioli G, Canonica GW, et al. A WAO - ARIA - GA(2)LEN consensus document on molecular-based allergy diagnosis (PAMD@): Update 2020. World Allergy Organ J. Feb 2020;13(2):100091. doi:10.1016/j.waojou.2019.100091",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Ansotegui, Melioli G, Canonica GW, et al. IgE allergy diagnostics and other relevant tests in allergy, a World Allergy Organization position paper. World Allergy Organ J. Feb 2020;13(2):100080. doi:10.1016/j.waojou.2019.100080 Bahri R, Custovic A, Korosec P, et al. Mast cell activation test in the diagnosis of allergic disease and anaphylaxis. The Journal of allergy and clinical immunology. 2018;142(2):485-496 e16. doi:10.1016/j.jaci.2018.01.043 Bernstein IL, Li JT, Bernstein DI, et al. Allergy diagnostic testing: an updated practice parameter. Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology. Mar 2008;100(3 Suppl 3):S1-148. doi:10.1016/s1081-1206(10)60305-5 Beyer K, Teuber SS. Food allergy diagnostics: scientific and unproven procedures. Current opinion in allergy and clinical immunology.",
+      "codes": [
+        "60305"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Jun 2005;5(3):261-6. doi:10.1097/01.all.0000168792.27948.f9",
+      "section": "References",
+      "subsection": "Jun 2005;5(3):261-6. doi:10.1097/01.all.0000168792.27948.f9",
+      "hierarchy_path": "References > Jun 2005;5(3):261-6. doi:10.1097/01.all.0000168792.27948.f9",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "BioSpace. AllerGenis Allergy Diagnostic Company to Present Significant Milestones at the Biotech Showcase(TM) 2021. https://www.biospace.com/article/allergenis-allergy-diagnostic-company-to-present-significant-milestones-at-the-biotech- showcase-tm-2021/ Boyce JA, Assa'ad A, Burks AW, et al. Guidelines for the Diagnosis and Management of Food Allergy in the United States: Summary of the NIAID-Sponsored Expert Panel Report. The Journal of allergy and clinical immunology. Dec 2010;126(6):1105-18. doi:10.1016/j.jaci.2010.10.008 Caglayan Sozmen S, Povesi Dascola C, Gioia E, Mastrorilli C, Rizzuti L, Caffarelli C. Diagnostic accuracy of patch test in children with food allergy. Pediatric allergy and immunology : official publication of the European Society of Pediatric Allergy and",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Immunology. Aug 2015;26(5):416-22. doi:10.1111/pai.12377",
+      "section": "References",
+      "subsection": "Immunology. Aug 2015;26(5):416-22. doi:10.1111/pai.12377",
+      "hierarchy_path": "References > Immunology. Aug 2015;26(5):416-22. doi:10.1111/pai.12377",
+      "page_number": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "content": "Cardona V, Ansotegui IJ, Ebisawa M, et al. World allergy organization anaphylaxis guidance 2020. World Allergy Organ J. Oct 2020;13(10):100472. doi:10.1016/j.waojou.2020.100472 Carlsson M, Thorell L, Sjolander A, Larsson-Faria S. Variability of total and free IgE levels and IgE receptor expression in allergic subjects in and out of pollen season. Scandinavian journal of immunology. Apr 2015;81(4):240-8. doi:10.1111/sji.12270 CDC. Allergies. Updated January 9, 2026. https://www.cdc.gov/nchs/fastats/allergies.htm Cell Science Systems. Identify food and chemical sensitivities with the Alcat Test. https://cellsciencesystems.com/providers/alcat- test/ Chang, Guarderas. Allergy Testing: Common Questions and Answers. American family physician. Jul 1 2018;98(1):34-39. Choosing Wisely Canada. Allergy & Clinical Immunology. https://choosingwiselycanada.org/recommendation/allergy-clinical- immunology/ Chow AW, Benninger MS, Brook I, et al. IDSA clinical practice guideline for acute bacterial rhinosinusitis in children and adults. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America. Apr 2012;54(8):e72-e112. doi:10.1093/cid/cir1043 Davila I, Valero A, Entrenas LM, Valveny N, Herraez L. Relationship between serum total IgE and disease severity in patients with allergic asthma in Spain. Journal of investigational allergology & clinical immunology. 2015;25(2):120-7 Depince-Berger AE, Sidi-Yahya K, Jeraiby M, Lambert C. Basophil activation test: Implementation and standardization between systems and between instruments. Cytometry Part A : the journal of the International Society for Analytical Cytology. Mar 2017;91(3):261-269. doi:10.1002/cyto.a.23078 Dramburg S, Hilger C, Santos AF, et al. EAACI Molecular Allergology User's Guide 2.0. Pediatric allergy and immunology : official publication of the European Society of Pediatric Allergy and Immunology. Mar 2023;34 Suppl 28:e13854. doi:10.1111/pai.13854 Dykewicz MS, Wallace DV, Amrol DJ, et al. Rhinitis 2020: A practice parameter update. The Journal of allergy and clinical immunology. Oct 2020;146(4):721-767. doi:10.1016/j.jaci.2020.07.007 FDA. Xolair Label. https://www.accessdata.fda.gov/drugsatfda_docs/label/2016/103976s5225lbl.pdf Fonacier L, Bernstein DI, Pacheco K, et al. Contact dermatitis: a practice parameter-update 2015. The journal of allergy and clinical immunology In practice. May-Jun 2015;3(3 Suppl):S1-39. doi:10.1016/j.jaip.2015.02.009 Genova. Allergix® IgG4 Food Antibodies 90 - Serum. https://www.gdx.net/product/allergix-igg4-food-antibodies-90-food-sensitivity- test-serum Golden DBK, Wang J, Waserman S, et al. Anaphylaxis: A 2023 practice parameter update. Annals of Allergy, Asthma & Immunology. 2024;132(2):124-176. doi:10.1016/j.anai.2023.09.015 Greenhawt M, Shaker M, Wang J, et al. Peanut allergy diagnosis: A 2020 practice parameter update, systematic review, and GRADE analysis. The Journal of allergy and clinical immunology. Dec 2020;146(6):1302-1334. doi:10.1016/j.jaci.2020.07.031",
+      "codes": [
+        "12270",
+        "23078",
+        "13854"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Immunology. Aug 2015;26(5):416-22. doi:10.1111/pai.12377",
+      "section": "References",
+      "subsection": "Immunology. Aug 2015;26(5):416-22. doi:10.1111/pai.12377",
+      "hierarchy_path": "References > Immunology. Aug 2015;26(5):416-22. doi:10.1111/pai.12377",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Greer FR, Sicherer SH, Burks AW. The Effects of Early Nutritional Interventions on the Development of Atopic Disease in Infants and Children: The Role of Maternal Dietary Restriction, Breastfeeding, Hydrolyzed Formulas, and Timing of Introduction of Allergenic Complementary Foods. Pediatrics. Apr 2019;143(4)doi:10.1542/peds.2019-0281 Hamilton R. Overview of Allergens and Environmental Sampling. Updated November 06, 2025. https://www.uptodate.com/contents/overview-of-allergens-and-environmental-sampling Hamilton RG, Matsson PN, Hovanec-Burns DL, et al. Analytical Performance Characteristics, Quality Assurance and Clinical Utility of Immunological Assays for Human IgE Antibodies of Defined Allergen Specificities.(CLSI-ILA20-A3). Journal of Allergy and Clinical",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Immunology. 2015;135(2):AB8. doi:10.1016/j.jaci.2014.12.961",
+      "section": "References",
+      "subsection": "Immunology. 2015;135(2):AB8. doi:10.1016/j.jaci.2014.12.961",
+      "hierarchy_path": "References > Immunology. 2015;135(2):AB8. doi:10.1016/j.jaci.2014.12.961",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Hammond C, Lieberman JA. Unproven Diagnostic Tests for Food Allergy. Immunology and allergy clinics of North America. Feb 2018;38(1):153-163. doi:10.1016/j.iac.2017.09.011 He YT, Reisacher WR. Sensitivity, specificity, and predictive value of oral mucosal brush biopsy for the diagnosis of peanut allergy. Int Forum Allergy Rhinol. Jun 2019;9(6):624-628. doi:10.1002/alr.22302 Hemmings O, Kwok M, McKendry R, Santos AF. Basophil Activation Test: Old and New Applications in Allergy. Current Allergy and Asthma Reports. 2018/11/15 2018;18(12):77. doi:10.1007/s11882-018-0831-5 Hoffmann HJ, Santos AF, Mayorga C, et al. The clinical utility of basophil activation testing in diagnosis and monitoring of allergic disease. Allergy. 2015/11/01 2015;70(11):1393-1405. doi:10.1111/all.12698 Kim SY, Kim JH, Jang YS, et al. The Basophil Activation Test Is Safe and Useful for Confirming Drug-Induced Anaphylaxis. Allergy, asthma & immunology research. Nov 2016;8(6):541-4. doi:10.4168/aair.2016.8.6.541 Klemans RJ, van Os-Medendorp H, Blankestijn M, Bruijnzeel-Koomen CA, Knol EF, Knulst AC. Diagnostic accuracy of specific IgE to components in diagnosing peanut allergy: a systematic review. Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology. Apr 2015;45(4):720-30. doi:10.1111/cea.12412 Knight V, Wolf ML, Trikha A, Curran-Everett D, Hiserote M, Harbeck RJ. A comparison of specific IgE and skin prick test results to common environmental allergens using the HYTECTM 288. Journal of Immunological Methods. 2018/11/01/ 2018;462:9-12. doi:10.1016/j.jim.2018.07.005 Kowal K, DuBuske L. Overview of in vitro allergy tests. Updated January 23, 2025. https://www.uptodate.com/contents/overview- of-in-vitro-allergy-tests Kowal K, DuBuske L. Overview of skin testing for IgE-mediated allergic disease. Updated November 03, 2025. https://www.uptodate.com/contents/overview-of-skin-testing-for-allergic-disease Kwong KY, Chen Z, Scott L, Hilborne LH. Optimizing Identification of Allergic Sensitization to Seasonal Inhalant Allergens in the USA: Implications for Constructing Optimal Panels to Evaluate Patients with Allergy. International archives of alleregy and immunology. 2024;doi:10.1159/000538420 Lieberman P, Nicklas RA, Randolph C, et al. Anaphylaxis--a practice parameter update 2015. Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology. Nov 2015;115(5):341-84. doi:10.1016/j.anai.2015.07.019 Mayo Clinic. Aspergillosis. Updated September 22, 2025. https://www.mayoclinic.org/diseases-conditions/aspergillosis/symptoms- causes/syc-20369619 Mowad CM. Patch testing: pitfalls and performance. Current opinion in allergy and clinical immunology. Oct 2006;6(5):340-4. doi:10.1097/01.all.0000244794.03239.8e NASEM. Finding a Path to Safety in Food Allergy: Assessment of the Global Burden, Causes, Prevention, Management, and Public Policy. Finding a Path to Safety in Food Allergy: Assessment of the Global Burden, Causes, Prevention, Management, and Public",
+      "codes": [
+        "22302",
+        "12698",
+        "12412",
+        "03239"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Policy. 2017;doi:10.17226/23658",
+      "section": "References",
+      "subsection": "Policy. 2017;doi:10.17226/23658",
+      "hierarchy_path": "References > Policy. 2017;doi:10.17226/23658",
+      "page_number": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "content": "Nelson HS. Variables in Allergy Skin Testing. Immunology and Allergy Clinics. 2001/05/01 2001;21(2):281-290. doi:10.1016/S0889- 8561(05)70206-X NICE. Asthma: diagnosis, monitoring and chronic asthma management. Updated November 27, 2024. https://www.nice.org.uk/guidance/ng245 NICE. Food allergy in under 19s: assessment and diagnosis. National Institute for Health and Care Excellence (NICE). Updated February 23, 2011. https://www.nice.org.uk/guidance/cg116/chapter/Recommendations#ige-mediated-food-allergy NICE. ImmunoCAP ISAC 112 for multiplex allergen testing. Updated May 18, 2016. https://www.nice.org.uk/guidance/dg24/chapter/1-Recommendations Oppenheimer J, Nelson HS. Skin testing: a survey of allergists. Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology. Jan 2006;96(1):19-23. doi:10.1016/s1081-1206(10)61034-4",
+      "codes": [
+        "S0889",
+        "70206",
+        "61034"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Policy. 2017;doi:10.17226/23658",
+      "section": "References",
+      "subsection": "Policy. 2017;doi:10.17226/23658",
+      "hierarchy_path": "References > Policy. 2017;doi:10.17226/23658",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "Pawankar R, Holgate ST, Canonica GW, Lockey RF, Blaiss MS. WAO White Book on Allergy | World Allergy Organization. 2013. Rietschel RL. COMPARISON OF ALLERGIC AND IRRITANT CONTACT DERMATITIS. Immunology and Allergy Clinics. 1997/08/01 1997;17(3):359-364. doi:10.1016/S0889-8561(05)70314-3 Sampson HA, Aceves S, Bock SA, et al. Food allergy: a practice parameter update-2014. The Journal of allergy and clinical immunology. Nov 2014;134(5):1016-25.e43. doi:10.1016/j.jaci.2014.05.013 Santos AF, Douiri A, Becares N, et al. Basophil activation test discriminates between allergy and tolerance in peanut-sensitized children. The Journal of allergy and clinical immunology. Sep 2014;134(3):645-52. doi:10.1016/j.jaci.2014.04.039 Santos AF, Du Toit G, Douiri A, et al. Distinct parameters of the basophil activation test reflect the severity and threshold of allergic reactions to peanut. The Journal of allergy and clinical immunology. Jan 2015;135(1):179-86. doi:10.1016/j.jaci.2014.09.001 Santos AF, Lack G. Basophil activation test: food challenge in a test tube or specialist research tool? Clinical and translational allergy. 2016;6:10. doi:10.1186/s13601-016-0098-7 Santos AF, Shreffler WG. Road map for the clinical application of the basophil activation test in food allergy. Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology. Sep 2017;47(9):1115-1124. doi:10.1111/cea.12964 Shamji MH, Kappen JH, Akdis M, et al. Biomarkers for monitoring clinical efficacy of allergen immunotherapy for allergic rhinoconjunctivitis and allergic asthma: an EAACI Position Paper. Allergy. 2017/08/01 2017;72(8):1156-1173. doi:10.1111/all.13138 Sicherer S. New guidelines detail use of 'infant-safe' peanut to prevent allergy. https://www.aappublications.org/news/2017/01/05/PeanutAllergy010517 Sicherer SH, Allen K, Lack G, Taylor SL, Donovan SM, Oria M. Critical Issues in Food Allergy: A National Academies Consensus Report.",
+      "codes": [
+        "S0889",
+        "70314",
+        "12964",
+        "13138"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Pediatrics. Aug 2017;140(2)doi:10.1542/peds.2017-0194",
+      "section": "References",
+      "subsection": "Pediatrics. Aug 2017;140(2)doi:10.1542/peds.2017-0194",
+      "hierarchy_path": "References > Pediatrics. Aug 2017;140(2)doi:10.1542/peds.2017-0194",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "Siroux V, Lupinek C, Resch Y, et al. Specific IgE and IgG measured by the MeDALL allergen-chip depend on allergen and route of exposure: The EGEA study. The Journal of allergy and clinical immunology. Feb 2017;139(2):643-654.e6. doi:10.1016/j.jaci.2016.05.023 Soares-Weiser K, Takwoingi Y, Panesar SS, et al. The diagnosis of food allergy: a systematic review and meta-analysis. Allergy. Jan 2014;69(1):76-86. doi:10.1111/all.12333 Sookrung N, Jotikaprasardhna P, Bunnag C, Chaicumpa W, Tungtrongchitr A. Concordance of skin prick test and serum-specific IgE to locally produced component-resolved diagnostics for cockroach allergy. Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology. Jan 2019;122(1):93-98. doi:10.1016/j.anai.2018.09.463",
+      "codes": [
+        "12333"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Spiriplex. Allergies. https://spiriplex.com/allergies/",
+      "section": "References",
+      "subsection": "Spiriplex. Allergies. https://spiriplex.com/allergies/",
+      "hierarchy_path": "References > Spiriplex. Allergies. https://spiriplex.com/allergies/",
+      "page_number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "content": "Stokes J, Casale T. The relationship between IgE and allergic disease. Updated October 21, 2024. https://www.uptodate.com/contents/the-relationship-between-ige-and-allergic-disease Suárez-Fariñas M, Suprun M, Kearney P, et al. Accurate and reproducible diagnosis of peanut allergy using epitope mapping. Allergy. 2021;n/a(n/a)doi:10.1111/all.14905 Tannert LK, Mortz CG, Skov PS, Bindslev-Jensen C. Positive Skin Test or Specific IgE to Penicillin Does Not Reliably Predict Penicillin Allergy. The journal of allergy and clinical immunology In practice. May - Jun 2017;5(3):676-683. doi:10.1016/j.jaip.2017.03.014 The Royal College of Pathologists. Guidelines for the use of laboratory allergy testing in primary care. https://www.rcpath.org/static/a49f66cc-3c78-4ee7-97814c34a9d7d462/G194-BPR-Use-of-laboratory-allergy-testing-in- primary-care.pdf Togias A, Cooper SF, Acebal ML, et al. Addendum guidelines for the prevention of peanut allergy in the United States: Report of the National Institute of Allergy and Infectious Diseases-sponsored expert panel. The Journal of allergy and clinical immunology. Jan 2017;139(1):29-44. doi:10.1016/j.jaci.2016.10.010 Tschopp JM, Sistek D, Schindler C, et al. Current allergic asthma and rhinitis: diagnostic efficiency of three commonly used atopic markers (IgE, skin prick tests, and Phadiatop). Results from 8329 randomized adults from the SAPALDIA Study. Swiss Study on Air Pollution and Lung Diseases in Adults. Allergy. Jun 1998;53(6):608-13. doi:10.1111/j.1398-9995.1998.tb03937.x Usmani N, Wilkinson SM. Allergic skin disease: investigation of both immediate- and delayed-type hypersensitivity is essential. Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology. Oct 2007;37(10):1541-6. doi:10.1111/j.1365-2222.2007.02805.x Werther RL, Choo S, Lee KJ, Poole D, Allen KJ, Tang ML. Variability in Skin Prick Test Results Performed by Multiple Operators Depends on the Device Used. World Allergy Organ J. 2012;5(12):200-4. doi:10.1097/WOX.0b013e31827e6513",
+      "codes": [
+        "14905",
+        "02805"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Spiriplex. Allergies. https://spiriplex.com/allergies/",
+      "section": "References",
+      "subsection": "Spiriplex. Allergies. https://spiriplex.com/allergies/",
+      "hierarchy_path": "References > Spiriplex. Allergies. https://spiriplex.com/allergies/",
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content": "Wise SK, Damask C, Roland LT, et al. International consensus statement on allergy and rhinology: Allergic rhinitis - 2023. Int Forum",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Allergy Rhinol. Apr 2023;13(4):293-859. doi:10.1002/alr.23090",
+      "section": "References",
+      "subsection": "Allergy Rhinol. Apr 2023;13(4):293-859. doi:10.1002/alr.23090",
+      "hierarchy_path": "References > Allergy Rhinol. Apr 2023;13(4):293-859. doi:10.1002/alr.23090",
+      "page_number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "content": "Wuthrich B. Unproven techniques in allergy diagnosis. Journal of investigational allergology & clinical immunology. 2005;15(2):86- 90. Zug KA, Pham AK, Belsito DV, et al. Patch testing in children from 2005 to 2012: results from the North American contact dermatitis group. Dermatitis : contact, atopic, occupational, drug. Nov-Dec 2014;25(6):345-55. doi:10.1097/der.0000000000000083",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82784: 82785* | Procedure code:  | Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each: Gammaglobulin (immunoglobulin); IgE | Code description: ",
+      "codes": [
+        "82784",
+        "82785"
+      ],
+      "table_data": {
+        "columns": [
+          "82784",
+          "Procedure code",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+          "Code description"
+        ],
+        "row": {
+          "82784": "82785*",
+          "Procedure code": "",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each": "Gammaglobulin (immunoglobulin); IgE",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82784: 82787 | Procedure code:  | Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each: Gammaglobulin (immunoglobulin); immunoglobulin subclasses (eg, IgG1, 2, 3, or 4), each | Code description: ",
+      "codes": [
+        "82784",
+        "82787"
+      ],
+      "table_data": {
+        "columns": [
+          "82784",
+          "Procedure code",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+          "Code description"
+        ],
+        "row": {
+          "82784": "82787",
+          "Procedure code": "",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each": "Gammaglobulin (immunoglobulin); immunoglobulin subclasses (eg, IgG1, 2, 3, or 4), each",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82784: 83516 | Procedure code:  | Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each: Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; qualitative or\nsemiquantitative, multiple step method | Code description: ",
+      "codes": [
+        "82784",
+        "83516"
+      ],
+      "table_data": {
+        "columns": [
+          "82784",
+          "Procedure code",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+          "Code description"
+        ],
+        "row": {
+          "82784": "83516",
+          "Procedure code": "",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each": "Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; qualitative or\nsemiquantitative, multiple step method",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82784: 86001** | Procedure code:  | Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each: Allergen specific IgG quantitative or semiquantitative, each allergen | Code description: ",
+      "codes": [
+        "82784",
+        "86001"
+      ],
+      "table_data": {
+        "columns": [
+          "82784",
+          "Procedure code",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+          "Code description"
+        ],
+        "row": {
+          "82784": "86001**",
+          "Procedure code": "",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each": "Allergen specific IgG quantitative or semiquantitative, each allergen",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82784: 86003*** | Procedure code:  | Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each: Allergen specific IgE; quantitative or semiquantitative, crude allergen extract, each | Code description: ",
+      "codes": [
+        "82784",
+        "86003"
+      ],
+      "table_data": {
+        "columns": [
+          "82784",
+          "Procedure code",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+          "Code description"
+        ],
+        "row": {
+          "82784": "86003***",
+          "Procedure code": "",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each": "Allergen specific IgE; quantitative or semiquantitative, crude allergen extract, each",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82784: 86005*** | Procedure code:  | Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each: Allergen specific IgE; qualitative, multiallergen screen (eg, disk, sponge, card) | Code description: ",
+      "codes": [
+        "82784",
+        "86005"
+      ],
+      "table_data": {
+        "columns": [
+          "82784",
+          "Procedure code",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+          "Code description"
+        ],
+        "row": {
+          "82784": "86005***",
+          "Procedure code": "",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each": "Allergen specific IgE; qualitative, multiallergen screen (eg, disk, sponge, card)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82784: 86008**** | Procedure code:  | Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each: Allergen specific IgE; quantitative or semiquantitative, recombinant or purified component, each | Code description: ",
+      "codes": [
+        "82784",
+        "86008"
+      ],
+      "table_data": {
+        "columns": [
+          "82784",
+          "Procedure code",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+          "Code description"
+        ],
+        "row": {
+          "82784": "86008****",
+          "Procedure code": "",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each": "Allergen specific IgE; quantitative or semiquantitative, recombinant or purified component, each",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82784: 88184*^ | Procedure code:  | Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each: Flow cytometry, cell surface, cytoplasmic, or nuclear marker, technical component only; first marker | Code description: ",
+      "codes": [
+        "82784",
+        "88184"
+      ],
+      "table_data": {
+        "columns": [
+          "82784",
+          "Procedure code",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+          "Code description"
+        ],
+        "row": {
+          "82784": "88184*^",
+          "Procedure code": "",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each": "Flow cytometry, cell surface, cytoplasmic, or nuclear marker, technical component only; first marker",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82784: 88185*^ | Procedure code:  | Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each: Flow cytometry, cell surface, cytoplasmic, or nuclear marker, technical component only; each additional\nmarker (List separately in addition to code for first marker) | Code description: ",
+      "codes": [
+        "82784",
+        "88185"
+      ],
+      "table_data": {
+        "columns": [
+          "82784",
+          "Procedure code",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+          "Code description"
+        ],
+        "row": {
+          "82784": "88185*^",
+          "Procedure code": "",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each": "Flow cytometry, cell surface, cytoplasmic, or nuclear marker, technical component only; each additional\nmarker (List separately in addition to code for first marker)",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82784: 0165U*^^ | Procedure code:  | Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each: Peanut allergen-specific quantitative assessment of multiple epitopes using enzyme-linked\nimmunosorbent assay (ELISA), blood, individual epitope results and probability of peanut allergy\nProprietary test: VeriMAPTM Peanut Dx - Bead-based Epitope Assay\nLab/Manufacturer: AllerGenisTM Clinical Laboratory | Code description: ",
+      "codes": [
+        "82784",
+        "0165U"
+      ],
+      "table_data": {
+        "columns": [
+          "82784",
+          "Procedure code",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+          "Code description"
+        ],
+        "row": {
+          "82784": "0165U*^^",
+          "Procedure code": "",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each": "Peanut allergen-specific quantitative assessment of multiple epitopes using enzyme-linked\nimmunosorbent assay (ELISA), blood, individual epitope results and probability of peanut allergy\nProprietary test: VeriMAPTM Peanut Dx - Bead-based Epitope Assay\nLab/Manufacturer: AllerGenisTM Clinical Laboratory",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "[Applicable Procedure and Service Codes] 82784: 0178U*^^ | Procedure code:  | Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each: Peanut allergen-specific quantitative assessment of multiple epitopes using enzyme-linked\nimmunosorbent assay (ELISA), blood, report of minimum eliciting exposure for a clinical reaction\nProprietary test: VeriMAPTM Peanut Sensitivity - Peanut Reactivity Threshold-Bead Based Epitope Assay\nLab/Manufacturer: AllerGenisTM Clinical Laboratory | Code description: ",
+      "codes": [
+        "82784",
+        "0178U"
+      ],
+      "table_data": {
+        "columns": [
+          "82784",
+          "Procedure code",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",
+          "Code description"
+        ],
+        "row": {
+          "82784": "0178U*^^",
+          "Procedure code": "",
+          "Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each": "Peanut allergen-specific quantitative assessment of multiple epitopes using enzyme-linked\nimmunosorbent assay (ELISA), blood, report of minimum eliciting exposure for a clinical reaction\nProprietary test: VeriMAPTM Peanut Sensitivity - Peanut Reactivity Threshold-Bead Based Epitope Assay\nLab/Manufacturer: AllerGenisTM Clinical Laboratory",
+          "Code description": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: CGS Administrators, LLC | Contractor name:  | Flow Cytometry: RAST Type Tests | Policy title:  | L34037: L34063 | Policy number:  | 88184\n88185: 86001\n86003\n86005 | Procedure code: ",
+      "codes": [
+        "88184",
+        "88185",
+        "86001",
+        "86003",
+        "86005"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "Flow Cytometry",
+          "Policy title",
+          "L34037",
+          "Policy number",
+          "88184\n88185",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "CGS Administrators, LLC",
+          "Contractor name": "",
+          "Flow Cytometry": "RAST Type Tests",
+          "Policy title": "",
+          "L34037": "L34063",
+          "Policy number": "",
+          "88184\n88185": "86001\n86003\n86005",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: First Coast Service Options,\nInc. | Contractor name:  | Flow Cytometry: Allergy Testing | Policy title:  | L34037: L33261 | Policy number:  | 88184\n88185: 82785\n86001\n86003\n86005\n860080165U\n0178U | Procedure code: ",
+      "codes": [
+        "88184",
+        "88185",
+        "82785",
+        "86001",
+        "86003",
+        "86005",
+        "0178U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "Flow Cytometry",
+          "Policy title",
+          "L34037",
+          "Policy number",
+          "88184\n88185",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "First Coast Service Options,\nInc.",
+          "Contractor name": "",
+          "Flow Cytometry": "Allergy Testing",
+          "Policy title": "",
+          "L34037": "L33261",
+          "Policy number": "",
+          "88184\n88185": "82785\n86001\n86003\n86005\n860080165U\n0178U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: National Government\nServices, Inc. | Contractor name:  | Flow Cytometry: RAST Type Tests | Policy title:  | L34037: L33591 | Policy number:  | 88184\n88185: 86001\n86003\n86005\n86008 | Procedure code: ",
+      "codes": [
+        "88184",
+        "88185",
+        "86001",
+        "86003",
+        "86005",
+        "86008"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "Flow Cytometry",
+          "Policy title",
+          "L34037",
+          "Policy number",
+          "88184\n88185",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "National Government\nServices, Inc.",
+          "Contractor name": "",
+          "Flow Cytometry": "RAST Type Tests",
+          "Policy title": "",
+          "L34037": "L33591",
+          "Policy number": "",
+          "88184\n88185": "86001\n86003\n86005\n86008",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, LLC | Contractor name:  | Flow Cytometry: Allergy Testing | Policy title:  | L34037: L34313 | Policy number:  | 88184\n88185: 86003\n86005 | Procedure code: ",
+      "codes": [
+        "88184",
+        "88185",
+        "86003",
+        "86005"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "Flow Cytometry",
+          "Policy title",
+          "L34037",
+          "Policy number",
+          "88184\n88185",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "Flow Cytometry": "Allergy Testing",
+          "Policy title": "",
+          "L34037": "L34313",
+          "Policy number": "",
+          "88184\n88185": "86003\n86005",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Noridian Healthcare\nSolutions, LLC | Contractor name:  | Flow Cytometry: Lab: Flow Cytometry | Policy title:  | L34037: L34215 | Policy number:  | 88184\n88185: 88184\n88185 | Procedure code: ",
+      "codes": [
+        "88184",
+        "88185"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "Flow Cytometry",
+          "Policy title",
+          "L34037",
+          "Policy number",
+          "88184\n88185",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Noridian Healthcare\nSolutions, LLC",
+          "Contractor name": "",
+          "Flow Cytometry": "Lab: Flow Cytometry",
+          "Policy title": "",
+          "L34037": "L34215",
+          "Policy number": "",
+          "88184\n88185": "88184\n88185",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Novitas Solutions, Inc. | Contractor name:  | Flow Cytometry: Allergy Testing | Policy title:  | L34037: L36241 | Policy number:  | 88184\n88185: 82785\n86001\n86003\n86005\n86008\n0165U\n0178U | Procedure code: ",
+      "codes": [
+        "88184",
+        "88185",
+        "82785",
+        "86001",
+        "86003",
+        "86005",
+        "86008",
+        "0165U",
+        "0178U"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "Flow Cytometry",
+          "Policy title",
+          "L34037",
+          "Policy number",
+          "88184\n88185",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Novitas Solutions, Inc.",
+          "Contractor name": "",
+          "Flow Cytometry": "Allergy Testing",
+          "Policy title": "",
+          "L34037": "L36241",
+          "Policy number": "",
+          "88184\n88185": "82785\n86001\n86003\n86005\n86008\n0165U\n0178U",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Palmetto GBA | Contractor name:  | Flow Cytometry: Lab: Flow Cytometry | Policy title:  | L34037: L34513 | Policy number:  | 88184\n88185: 88184\n88185 | Procedure code: ",
+      "codes": [
+        "88184",
+        "88185"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "Flow Cytometry",
+          "Policy title",
+          "L34037",
+          "Policy number",
+          "88184\n88185",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Palmetto GBA",
+          "Contractor name": "",
+          "Flow Cytometry": "Lab: Flow Cytometry",
+          "Policy title": "",
+          "L34037": "L34513",
+          "Policy number": "",
+          "88184\n88185": "88184\n88185",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    },
+    {
+      "title": "Applicable Procedure and Service Codes",
+      "section": "References",
+      "subsection": "Applicable Procedure and Service Codes",
+      "hierarchy_path": "References > Applicable Procedure and Service Codes",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "[Applicable Procedure and Service Codes] CGS Administrators, LLC: Wisconsin Physicians Service\nInsurance Corporation | Contractor name:  | Flow Cytometry: Allergy Testing | Policy title:  | L34037: L36402 | Policy number:  | 88184\n88185: 82785\n86001\n86003\n86005\n86008 | Procedure code: ",
+      "codes": [
+        "88184",
+        "88185",
+        "82785",
+        "86001",
+        "86003",
+        "86005",
+        "86008"
+      ],
+      "table_data": {
+        "columns": [
+          "CGS Administrators, LLC",
+          "Contractor name",
+          "Flow Cytometry",
+          "Policy title",
+          "L34037",
+          "Policy number",
+          "88184\n88185",
+          "Procedure code"
+        ],
+        "row": {
+          "CGS Administrators, LLC": "Wisconsin Physicians Service\nInsurance Corporation",
+          "Contractor name": "",
+          "Flow Cytometry": "Allergy Testing",
+          "Policy title": "",
+          "L34037": "L36402",
+          "Policy number": "",
+          "88184\n88185": "82785\n86001\n86003\n86005\n86008",
+          "Procedure code": ""
+        }
+      },
+      "content_type": "table_row"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "As a Medicare Advantage plan, we have developed payment policies to explain coverage more fully for services. The criteria outlined will apply to Medicare Advantage plans except when the procedure(s) has established criteria through the Original Medicare National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs) as outlined below. In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements.\n\nSpecific immunoglobulin E (IgE) in-vitro allergy testing (CPT code 86003***, CPT code 86008****), up to 20 allergen specific antibodies per year, IS REIMBURSABLE for any of the following conditions:\n\nIn-vitro testing for total serum IgE (CPT code 82785*) IS REIMBURSABLE for any of the following conditions:\n\nThe antigen leukocyte antibody test (e.g., ALCAT) (CPT code 83516) IS NOT REIMBURSABLE for the following conditions:\n\nAdverse effect of other drugs, medicaments, and biological substances\n\nIn-vitro testing of allergen specific IgG or non-specific IgG, IgA, IgM, and IgD in the evaluation of suspected allergy (CPT code 82784, CPT code 82787, CPT code 86001**) IS NOT REIMBURSABLE. for the following conditions:\n\nAdverse effect of other drugs, medicaments, and biological substances\n\nBasophil activation flow cytometry testing (BAT) for measuring hypersensitivity to allergens (CPT code 88184*^, CPT code 88185*^) IS NOT REIMBURSABLE.\n\nIn-vitro allergen testing using bead-based epitope assays (e.g., VeriMAP Peanut Dx) (CPT code 0165U*^^, CPT code 0178U*^^) IS NOT REIMBURSABLE.\n\nIn-vitro testing of allergen non-specific IgE that does not identify a specific allergen using qualitative multi-allergen screen (CPT code 86005***) IS NOT REIMBURSABLE.\n\n82784\n\n82785*\n\n82787 Gammaglobulin (immunoglobulin); immunoglobulin subclasses (eg, IgG1, 2, 3, or 4), each 83516 Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; qualitative or semiquantitative, multiple step method 86001** Allergen specific IgG quantitative or semiquantitative, each allergen 86003*** Allergen specific IgE; quantitative or semiquantitative, crude allergen extract, each 86005*** Allergen specific IgE; qualitative, multiallergen screen (eg, disk, sponge, card) 86008**** Allergen specific IgE; quantitative or semiquantitative, recombinant or purified component, each 88184*^ Flow cytometry, cell surface, cytoplasmic, or nuclear marker, technical component only; first marker 88185*^ Flow cytometry, cell surface, cytoplasmic, or nuclear marker, technical component only; each additional marker (List separately in addition to code for first marker) 0165U*^^ Peanut allergen-specific quantitative assessment of multiple epitopes using enzyme-linked immunosorbent assay (ELISA), blood, individual epitope results and probability of peanut allergy\n\n0178U*^^ Peanut allergen-specific quantitative assessment of multiple epitopes using enzyme-linked immunosorbent assay (ELISA), blood, report of minimum eliciting exposure for a clinical reaction Proprietary test: VeriMAPTM Peanut Sensitivity - Peanut Reactivity Threshold-Bead Based Epitope Assay\n\n* The payment criterion for 82785 applies to all Medicare jurisdictions, except those states awarded to First Coast Service Options, Inc., Novitas Solutions, Inc., and\n\nWisconsin Physicians Service Insurance Corporation.\n\n** The payment criteria for 86001 apply to all Medicare jurisdictions, except those states awarded to CGS Administrators, First Coast Service Options, Inc., LLC,\n\nNational Government Services, Inc., Novitas Solutions, Inc., and Wisconsin Physicians Service Insurance Corporation.\n\n*** The payment criteria for 86003 and 86005 apply to all Medicare jurisdictions, except those states awarded to CGS Administrators, LLC, First Coast Service Options,\n\nInc., National Government Services, Inc., Noridian Healthcare Solutions, LLC, Novitas Solutions, Inc., and Wisconsin Physicians Service Insurance Corporation.\n\n****The payment criterion for 86008 applies to all Medicare jurisdictions, except those states awarded to First Coast Service Options, Inc., LLC, National Government\n\nServices, Inc., Novitas Solutions, Inc., and Wisconsin Physicians Service Insurance Corporation.\n\n*^The payment criteria for 88184 and 88185 apply to all Medicare jurisdictions, except those states awarded to CGS Administrators, LLC, First Coast Service Options,\n\nInc., Noridian Healthcare Solutions, LLC, Novitas Solutions, Inc., and Palmetto GBA.\n\n*^^The payment criteria for 0165U and 0178U apply to all Medicare jurisdictions, except those states awarded to First Coast Service Options, Inc., and Novitas\n\nSolutions, Inc.\n\nL34037 88184 88185\n\nL34063 86001 86003 86005 First Coast Service Options, Inc.\n\nL33261 82785 86001 86003 86005 860080165U 0178U\n\nServices, Inc.\n\nL33591 86001 86003 86005 86008\n\nL34313 86003 86005\n\nL34215 88184 88185 Novitas Solutions, Inc.\n\nL36241 82785 86001 86003 86005 86008 0165U 0178U\n\nL34513 88184 88185\n\nL36402 82785 86001 86003 86005 86008"
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": ""
+  }
+}

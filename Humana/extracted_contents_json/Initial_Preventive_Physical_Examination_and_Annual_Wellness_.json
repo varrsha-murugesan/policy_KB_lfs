@@ -1,0 +1,416 @@
+{
+  "policy_title": "Initial Preventive Physical Examination and",
+  "policy_number": "CP2013103",
+  "effective_date": "of",
+  "published_date": "03/2015",
+  "revision_date": "09/2022",
+  "source_pdf": "Initial_Preventive_Physical_Examination_and_Annual_Wellness_Visit-1ceba457.pdf",
+  "line_of_business": "Medicare Advantage Products",
+  "billing_class": "Professional",
+  "related_policies": null,
+  "total_pages": 3,
+  "table_count": 0,
+  "block_count": 26,
+  "CPT_CODES_USED": [
+    "G0402",
+    "G0438",
+    "G0439"
+  ],
+  "MODIFIERS_USED": [],
+  "ICD_CODES_USED": [],
+  "mapped_cpt_codes": [
+    {
+      "code": "G0402",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "G0438",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    },
+    {
+      "code": "G0439",
+      "code_system": "CPT/HCPCS",
+      "description": "",
+      "confidence_tier": "A",
+      "score": 100.0,
+      "mapping_origin": "explicit",
+      "best_method": "document_table_or_prose"
+    }
+  ],
+  "extracted_content": [
+    {
+      "title": "Overview",
+      "section": "Overview",
+      "subsection": null,
+      "hierarchy_path": "Overview",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "According to the Centers for Medicare & Medicaid Services, an initial preventive physical examination (IPPE), also known as the \"Welcome to Medicare\" preventive visit, is a one-time introductory visit provided during the first 12 months a Medicare beneficiary has Part B benefits. The visit may include, but is not limited to, the following:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Overview",
+      "section": "Overview",
+      "subsection": null,
+      "hierarchy_path": "Overview",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "A review of a beneficiary's medical and health-related social history.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Overview",
+      "section": "Overview",
+      "subsection": null,
+      "hierarchy_path": "Overview",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Education and counseling about preventive services, including certain screenings, shots and referrals for other care, if needed.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Overview",
+      "section": "Overview",
+      "subsection": null,
+      "hierarchy_path": "Overview",
+      "page_number": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "content": "Other services, such as a written plan letting the beneficiary know what preventive services the beneficiary needs. If a beneficiary has had Part B benefits for longer than 12 months, the beneficiary can receive an annual wellness visit (AWV) to develop or update a personalized prevention plan to prevent disease and disability based on the beneficiary's current health and risk factors. The following policy outlines Humana's reimbursement for claims for an IPPE and AWV.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana Medicare Advantage plans reimburse a charge for:",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "An IPPE service, HCPCS code G0402, once per lifetime and only if provided within the first 12 months after the effective date of the member's first Medicare Part B coverage period.",
+      "codes": [
+        "G0402"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "An initial AWV service, HCPCS code G0438, once per lifetime beginning in the calendar year following the IPPE. However, the initial AWV is not dependent on reimbursement of an earlier IPPE.",
+      "codes": [
+        "G0438"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Medicare Advantage Payment Policy",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": null,
+      "hierarchy_path": "Medicare Advantage Payment Policy",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "A subsequent AWV service, HCPCS code G0439, once per calendar year beginning in the calendar year following an allowed charge for HCPCS code G0438. However, a subsequent AWV is not dependent on reimbursement of an earlier AWV or IPPE. Humana limits reimbursement of HCPCS codes G0402, G0438 and G0439 to only one of these services per calendar year.",
+      "codes": [
+        "G0439",
+        "G0438",
+        "G0402"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Additional Resources on this Topic",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Additional Resources on this Topic",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Additional Resources on this Topic",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Humana's Making it Easier web-based training series includes a video on the proper reporting and reimbursement of Medicare Advantage Preventive Services, Medicare Advantage Preventive Services - FQHC and Medicare Advantage Preventive Services - RHC that may supplement your understanding of this policy.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "HCPCS code G0402: Initial preventive physical examination; face-to-face visit, services limited to new beneficiary during the first 12 months of Medicare enrollment.",
+      "codes": [
+        "G0402"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "HCPCS code G0438: Annual wellness visit; includes a personalized prevention plan of service (PPS), initial visit.",
+      "codes": [
+        "G0438"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "Definitions of Italicized Terms",
+      "section": "Medicare Advantage Payment Policy",
+      "subsection": "Definitions of Italicized Terms",
+      "hierarchy_path": "Medicare Advantage Payment Policy > Definitions of Italicized Terms",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "HCPCS code G0439: Annual wellness visit; includes a personalized prevention plan of service (PPS), subsequent visit.",
+      "codes": [
+        "G0439"
+      ],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "U.S. Government Publishing Office website. Code of Federal Regulations. Title 42, Section 410.15. Annual wellness visits providing Personalized Prevention Plan Services: Conditions for and limitations on coverage. https://www.ecfr.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Centers for Medicare & Medicaid Services website. Medicare Benefit Policy Manual. Chapter 15 - Covered Medical and Other Health Services. Section 280.5 - Annual Wellness Visit (AWV) Providing Personalized Prevention Plan Services (PPPS). www.cms.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 12 - Physicians/Nonphysician Practitioners. Section 30.6.1.1. Initial Preventive Physical Examination (IPPE) and Annual Wellness Visit (AWV). www.cms.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Centers for Medicare & Medicaid Services website. Medicare Claims Processing Manual. Chapter 18 - Preventive and Screening Services. Sections 140, 140.1 and 140.6. www.cms.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Centers for Medicare & Medicaid Services website. Transmittal 1209, Change Request 8153 - Recovery of Annual Wellness Visit (AWV) Overpayments. www.cms.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Centers for Medicare & Medicaid Services website. Transmittal 2575, Change Request 8107 - Editing Update for Annual Wellness Visit (AWV). www.cms.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Centers for Medicare & Medicaid Services website. Transmittal 2159, Change Request 7079 - Annual Wellness Visit (AWV), Including Personalized Prevention Plan Services (PPPS). www.cms.gov.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "References",
+      "section": "References",
+      "subsection": null,
+      "hierarchy_path": "References",
+      "page_number": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "content": "Centers for Medicare & Medicaid Services HCPCS Level II and associated publications and services.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Availity - Providers can register for access to information on a variety of topics such as eligibility, benefits, referrals, authorizations, claims and electronic remittances.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Claims processing edit notifications - Alerts of upcoming claims payment changes are posted on the first Friday of each month.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Claims resources - Providers can find information on referrals, authorizations, electronic claim submissions and more.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Education and news - This page can help you find clinical guidelines, educational tools, Medicare and Medicaid resources, our provider magazine and other resources to help you do business with us.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Making it easier - This page contains an educational series for providers and healthcare professionals.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    },
+    {
+      "title": "General Humana Resources",
+      "section": "References",
+      "subsection": "General Humana Resources",
+      "hierarchy_path": "References > General Humana Resources",
+      "page_number": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "content": "Medical and pharmacy coverage policies - Humana publishes determinations of coverage of medical procedures, devices and medications for the treatment of various conditions. There may be variances in coverage among plans. Note: Links to sources outside of Humana's control are verified at the time of publication. Please report broken links.",
+      "codes": [],
+      "table_data": null,
+      "content_type": "paragraph"
+    }
+  ],
+  "reimbursement_guidelines": {
+    "title": "Reimbursement Guidelines",
+    "content": "In addition to the policy, claims payments are subject to other plan requirements for the processing and payment of claims, including, but not limited to, requirements of medical necessity and reasonableness and applicable referral or authorization requirements. Humana Medicare Advantage plans reimburse a charge for:\n\nAn IPPE service, HCPCS code G0402, once per lifetime and only if provided within the first 12 months after the effective date of the member's first Medicare Part B coverage period.\n\nAn initial AWV service, HCPCS code G0438, once per lifetime beginning in the calendar year following the IPPE. However, the initial AWV is not dependent on reimbursement of an earlier IPPE.\n\nA subsequent AWV service, HCPCS code G0439, once per calendar year beginning in the calendar year following an allowed charge for HCPCS code G0438. However, a subsequent AWV is not dependent on reimbursement of an earlier AWV or IPPE. Humana limits reimbursement of HCPCS codes G0402, G0438 and G0439 to only one of these services per calendar year.\n\nHumana's Making it Easier web-based training series includes a video on the proper reporting and reimbursement of Medicare Advantage Preventive Services, Medicare Advantage Preventive Services - FQHC and Medicare Advantage Preventive Services - RHC that may supplement your understanding of this policy.\n\nHCPCS code G0402: Initial preventive physical examination; face-to-face visit, services limited to new beneficiary during the first 12 months of Medicare enrollment.\n\nHCPCS code G0438: Annual wellness visit; includes a personalized prevention plan of service (PPS), initial visit.\n\nHCPCS code G0439: Annual wellness visit; includes a personalized prevention plan of service (PPS), subsequent visit."
+  },
+  "coverage_criteria": {
+    "title": "Coverage Criteria",
+    "content": ""
+  },
+  "definitions": {
+    "title": "Definitions",
+    "content": "HCPCS code G0402: Initial preventive physical examination; face-to-face visit, services limited to new beneficiary during the first 12 months of Medicare enrollment.\n\nHCPCS code G0438: Annual wellness visit; includes a personalized prevention plan of service (PPS), initial visit.\n\nHCPCS code G0439: Annual wellness visit; includes a personalized prevention plan of service (PPS), subsequent visit."
+  }
+}
