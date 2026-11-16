@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Payer Policy Billing Rule Pipeline Demo</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Top Header -->
+    <header class="app-header">
+      <a href="#/" class="brand">
+        <div class="brand-icon">P</div>
+        <div>
+          <div class="brand-title">Payer Policy → Billing Rules</div>
+          <div class="brand-subtitle">Deterministic policy extraction, rule compilation, and cross-payer intelligence</div>
+        </div>
+      </a>
+      <nav class="nav-links">
+        <a href="#/" class="nav-link">Home</a>
+        <a href="#/pod/uhc" class="nav-link">United Healthcare</a>
+        <a href="#/pod/humana" class="nav-link">Humana</a>
+        <a href="#/pod/devoted" class="nav-link">Devoted Health</a>
+      </nav>
+    </header>
+
+    <!-- Dynamic View Root -->
+    <main id="app-view">
+      <!-- Injected by app.js based on hash route -->
+    </main>
+  </div>
+
+  <!-- Side Drawer for Rule Details & SQL -->
+  <div id="side-drawer-overlay" class="side-drawer-overlay"></div>
+  <aside id="side-drawer" class="side-drawer" aria-label="Rule Details">
+    <div class="drawer-header">
+      <div class="drawer-title" id="drawer-title">Rule Details</div>
+      <button type="button" id="drawer-close-btn" class="drawer-close" title="Close">&times;</button>
+    </div>
+    <div class="drawer-body" id="drawer-body">
+      <!-- Injected by app.js -->
+    </div>
+  </aside>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

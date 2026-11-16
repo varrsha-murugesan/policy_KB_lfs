@@ -1219,11 +1219,17 @@ def summary_rows(rules: List[Rule], extra: List[Tuple[str, str, Any]]) -> List[D
     return rows
 
 
-def _xl(v: Any) -> Any:
-    if isinstance(v, str) and len(v) > XL_MAX:
-        return v[:XL_MAX] + " …[truncated in Excel; full value in JSON/CSV]"
+def _xl(v: Any, overflow: Optional[Dict[Tuple[str, str, str, str], List[str]]] = None, key: Tuple[str, str, str] = ("", "", ""),
+        sheet: str = "") -> Any:
+    """Excel holds at most 32,767 characters per cell. A longer value is kept whole on the Overflow sheet
+    (cut into cell-sized parts) and the cell says where to find it."""
     if isinstance(v, (list, dict)):
-        return json.dumps(v)[:XL_MAX]
+        v = json.dumps(v)
+    if isinstance(v, str) and len(v) > XL_MAX:
+        if overflow is not None:
+            overflow.setdefault(key + (v,), []).append(sheet)
+            return v[:XL_MAX - 200] + f"\n…[cell limit reached - full text on sheet 'Overflow', Rule_ID {key[0]}, column {key[1]}]"
+        return v[:XL_MAX] + " …[truncated in Excel]"
     return v
 
 
@@ -1234,6 +1240,7 @@ def write_workbook(path: Path, sheets: List[Tuple[str, List[str], List[Dict[str,
     from openpyxl.utils import get_column_letter
 
     wb = Workbook(write_only=True)
+    overflow: Dict[Tuple[str, str, str, str], List[str]] = {}
     hfill = PatternFill(start_color="1F497D", end_color="1F497D", fill_type="solid")
     hfont = Font(name="Calibri", size=11, bold=True, color="FFFFFF")
     wrap = Alignment(vertical="top", wrap_text=True)
@@ -1253,7 +1260,7 @@ def write_workbook(path: Path, sheets: List[Tuple[str, List[str], List[Dict[str,
         for row in rows:
             vals = []
             for c in cols:
-                v = _xl(row.get(c, ""))
+                v = _xl(row.get(c, ""), overflow, (str(row.get("Rule_ID", "")), c, ""), name)
                 if styled:
                     cell = WriteOnlyCell(ws, value=v)
                     cell.alignment = wrap if c in wrap_cols else top
@@ -1261,6 +1268,22 @@ def write_workbook(path: Path, sheets: List[Tuple[str, List[str], List[Dict[str,
                 else:
                     vals.append(v)
             ws.append(vals)
+    if overflow:
+        ws = wb.create_sheet(title="Overflow")
+        for i, w in enumerate((22, 16, 30, 8, 120), 1):
+            ws.column_dimensions[get_column_letter(i)].width = w
+        hdr = []
+        for c in ("Rule_ID", "Column", "Sheets", "Part", "Text"):
+            cell = WriteOnlyCell(ws, value=c)
+            cell.fill, cell.font = hfill, hfont
+            hdr.append(cell)
+        ws.append(hdr)
+        for (rid, col_name, _, full), where in overflow.items():
+            parts = [full[i:i + XL_MAX] for i in range(0, len(full), XL_MAX)]
+            for n, part in enumerate(parts, 1):
+                cell = WriteOnlyCell(ws, value=part)
+                cell.alignment = wrap
+                ws.append([rid, col_name, ", ".join(dict.fromkeys(where)), f"{n}/{len(parts)}", cell])
     wb.save(path)
 
 
@@ -1280,6 +1303,25 @@ MAIN_COLUMNS = list(RULE_COLUMNS)
 
 def _uniq(seq: Iterable[str]) -> List[str]:
     return [x for x in OrderedDict.fromkeys(x for x in seq if x)]
+
+
+def merge_sql(items: List[Tuple[str, str]]) -> str:
+    """SQL of a clubbed row. Rules whose queries are identical apart from their own Rule_ID get ONE query
+    (rule_id lists all of them) instead of the same query repeated in the cell."""
+    groups: "OrderedDict[str, List[Tuple[str, str]]]" = OrderedDict()
+    for rid, sql in items:
+        key = sql.replace(f"'{rid}' AS rule_id", "'<RID>' AS rule_id")
+        key = "\n".join(l for l in key.split("\n") if not l.lstrip().startswith("--"))   # same logic, any comments
+        groups.setdefault(key, []).append((rid, sql))
+    out = []
+    for members in groups.values():
+        rid, sql = members[0]
+        if len(members) > 1:
+            ids = [m[0] for m in members]
+            sql = sql.replace(f"'{rid}' AS rule_id", f"'{', '.join(ids)}' AS rule_id")
+            sql = f"-- Same query for {len(ids)} rules: {', '.join(ids)}\n" + sql
+        out.append(sql)
+    return "\n\n".join(out)
 
 
 def main_rows(rules: List[Rule], records: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
@@ -1344,7 +1386,7 @@ def main_rows(rules: List[Rule], records: List[Dict[str, Any]]) -> List[Dict[str
                 "Incorrect_Billing_Condition": "\n".join(f"{n}) {c}" for n, c in enumerate(conds, 1))
                 if len(conds) > 1 else (conds[0] if conds else ""),
                 "Required_Claim_Fields": u("Required_Claim_Fields"),
-                "SQL_Query": "\n\n".join(rec["SQL_Query"] for _, rec in grp),
+                "SQL_Query": merge_sql([(r.rule_id, rec["SQL_Query"]) for r, rec in grp]),
                 "Source_Page": u("Source_Page"),
                 "Review_Flag": u("Review_Flag", "; "),
                 "_codes_full": codes,

@@ -21,6 +21,8 @@ CONFIGURE HERE  ->  table name, your column names, SQL dialect, status values
 from __future__ import annotations
 
 import re
+import sys
+from pathlib import Path
 from typing import Any, Dict, List, Optional, Set, Tuple
 
 # ==============================================================================
@@ -362,9 +364,51 @@ _ICD_RANGE = re.compile(r"\b[A-TV-Z]\d{2}(?:\.[0-9A-Z]{1,4})?\s*[-–]\s*[A-TV-Z
 # It is called ONLY for rules whose query would otherwise need
 # "ICD-10 codes for the conditions named in the rule".
 ICD_LOOKUP = None
+# When ICD_LOOKUP is not set, use icd_lookup.py (UMLS ICD-10-CM index, KB creation v1/database/icd10cm.duckdb)
+# if it can be found: next to this file, in a parent folder, or in the folder named by the ICD_LOOKUP_DIR
+# environment variable. Set to False to switch the lookup off.
+ICD_LOOKUP_AUTO = True
+_ICD_AUTO_TRIED = False
+
+
+def _auto_icd_lookup():
+    """Wrap icd_lookup.py as an ICD_LOOKUP function. Returns None (with one message) when it is not available."""
+    import importlib
+    import os
+    here = Path(__file__).resolve().parent
+    dirs = [Path(os.environ["ICD_LOOKUP_DIR"])] if os.environ.get("ICD_LOOKUP_DIR") else []
+    for d in [here] + list(here.parents)[:3]:
+        dirs += [d, d / "KB creation v1", d / "KB creation v1" / "scripts", d / "KB creation v1" / "src"]
+    hit = next((d for d in dirs if (d / "icd_lookup.py").exists()), None)
+    if hit is None:
+        print("[ICD] icd_lookup.py not found - rules naming conditions keep the ICD-10 TODO")
+        return None
+    if str(hit) not in sys.path:
+        sys.path.insert(0, str(hit))
+    try:
+        mod = importlib.import_module("icd_lookup")
+    except Exception as e:
+        print(f"[ICD] icd_lookup.py could not be imported ({e}) - ICD-10 lookup off")
+        return None
+    if not Path(mod.KB_PATH).exists():
+        print(f"[ICD] {mod.KB_PATH} not found - run build_icd10cm_index.py first; ICD-10 lookup off")
+        return None
+    print(f"[ICD] ICD-10 lookup on: {hit / 'icd_lookup.py'} -> {mod.KB_PATH}")
+
+    def lookup(rule) -> List[Tuple[str, List[str]]]:
+        cond = mod.extract_condition_name(getattr(rule, "text", "") or "")
+        codes, status = mod.lookup_icd10_with_status(cond, getattr(rule, "rule_id", "") or "")
+        if not codes:
+            return []
+        return [(cond if status in ("full", "override") else f"{cond} [{status} match]", codes)]
+    return lookup
 
 
 def _lookup_icd(rule) -> List[Tuple[str, List[str]]]:
+    global ICD_LOOKUP, _ICD_AUTO_TRIED
+    if ICD_LOOKUP is None and ICD_LOOKUP_AUTO and not _ICD_AUTO_TRIED:
+        _ICD_AUTO_TRIED = True
+        ICD_LOOKUP = _auto_icd_lookup()
     if ICD_LOOKUP is None:
         return []
     try:
@@ -437,12 +481,26 @@ def _active(alias: str, used: Set[str]) -> str:
     return f"{col(alias, 'line_status', used)} <> '{DENIED_STATUS}'"
 
 
+def _slot(alias: str, logical: str, used: Set[str]) -> str:
+    """An optional claim slot (modifier_2, diag_code_5 ...). Empty slots are NULL, and 'NOT (NULL IN (...) OR ...)'
+    is NULL, not TRUE - so a 'required modifier / diagnosis missing' check would never flag a line that has an empty
+    slot (nearly every line). COALESCE makes an empty slot a value that matches nothing."""
+    return f"COALESCE({col(alias, logical, used)}, '~')"
+
+
 def _any_mod(alias: str, mods: List[str], used: Set[str]) -> str:
-    return "(" + " OR ".join(f"{col(alias, m, used)} IN {in_list(mods)}" for m in MODIFIER_COLS) + ")"
+    return "(" + " OR ".join(f"{_slot(alias, m, used)} IN {in_list(mods)}" for m in MODIFIER_COLS) + ")"
 
 
 def _any_dx(alias: str, codes: List[str], used: Set[str]) -> str:
-    return "(" + " OR ".join(f"{col(alias, d, used)} IN {in_list(codes)}" for d in DIAG_COLS) + ")"
+    """Any of the 12 diagnosis slots holds one of the codes. The code list is written ONCE (not once per slot), which
+    keeps long ICD-10 lists readable and under Excel's cell limit. EXISTS is never NULL, so 'NOT' works on empty slots."""
+    if SQL_DIALECT == "oracle":       # no VALUES table constructor before Oracle 23c
+        return "(" + " OR ".join(f"{_slot(alias, d, used)} IN {in_list(codes)}" for d in DIAG_COLS) + ")"
+    slots = ", ".join(f"({col(alias, d, used)})" for d in DIAG_COLS)
+    if SQL_DIALECT == "sqlite":
+        return f"EXISTS (SELECT 1 FROM (VALUES {slots}) WHERE column1 IN {in_list(codes)})"
+    return f"EXISTS (SELECT 1 FROM (VALUES {slots}) AS dx(code) WHERE dx.code IN {in_list(codes)})"
 
 
 def _params(rule, name: str) -> List[Dict[str, str]]:
@@ -657,8 +715,10 @@ def build_query(rule, audit_action: str) -> Dict[str, Any]:
     icd = parse_icd(text)
     if not icd:                      # policy tables can attach an explicit ICD-10 list to the rule
         icd = [x for x in ((getattr(rule, "extra", None) or {}).get("icd_codes") or []) if x]
+        icd = list(dict.fromkeys((x if ICD_STORED_WITH_DOT else x.replace(".", "")).upper() for x in icd))
     icd_found: List[str] = []
     if icd:
+        icd_found = list(icd)        # explicit lists are shown in Possible_icd_codes too
         icd_neg = neg
         if REQUIRED_DX_POSITIVE and neg and _DX_REQUIRED_RE.search(text) and not _DX_EXCLUDING_RE.search(text):
             icd_neg = False         # the listed diagnoses are what the claim MUST carry
@@ -672,7 +732,7 @@ def build_query(rule, audit_action: str) -> Dict[str, Any]:
         if mapped:
             icd_found = list(dict.fromkeys(x for _, cs in mapped for x in cs))
             conds = "; ".join(cond for cond, _ in mapped)[:120]
-            where.append(f"NOT {_any_dx(c, icd_found, used)}  -- ICD-10 from UMLS for: {conds} (verify)")
+            where.append(f"NOT {_any_dx(c, icd_found, used)}  -- ICD-10 (UMLS) for: {conds} - verify")
         else:
             todo.append("ICD-10 codes for the conditions named in the rule")
             where.append(f"NOT {_any_dx(c, ['/* TODO: covered ICD-10 codes */'], used)}".replace("'/* TODO: covered ICD-10 codes */'",

@@ -28,3 +28,5 @@ env/
 Thumbs.db
 scratch/
 tmp/
+pipeline_demo/data/runs/*
+!pipeline_demo/data/runs/.gitkeep
